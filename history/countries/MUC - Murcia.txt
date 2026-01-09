@@ -1,0 +1,47 @@
+government = monarchy
+add_government_reform = EDG_Denomination
+primary_culture = andalucian
+religion = sunni
+technology_group = muslim
+capital = 218
+government_rank = 2
+religious_school = maliki_school
+
+
+
+1442.1.1 = {
+  leader = {
+    name = "OKQÙTS löóg"
+    type = general
+    fire = 3
+    shock = 3
+    manuever = 2
+    siege = 0
+    death_date = 1453.5.29
+  }
+}
+1444.1.1 = {
+  monarch = {
+    name = "·w∆Y III"
+    dynasty = "õsSæè<S¿N"
+	birth_date = 1420.1.1
+    death_date = 1453.5.29
+    adm = 4
+    dip = 4
+    mil = 2
+  }
+}
+
+1444.1.1 = {
+  heir = {
+    name = "1gHY∑V"
+	monarch_name = "1gHY∑V I"
+    dynasty = "õsSæè<S¿N"
+    birth_date = 1444.1.1
+    death_date = 1453.5.29
+    claim = 45
+    adm = 4
+    dip = 3
+    mil = 4
+  }
+}

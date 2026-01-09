@@ -1,0 +1,1033 @@
+﻿l_english:
+#tooltips
+EDG_has_won_at_least_30_sieges:0 "b—VóS§Y30§!:WôVÎWbÿSVMR:N§Y[Root.GetAmountofSieges]§!	ÿ"
+# EDG_add_25_patriarch_authority_tt:0 "·ƒ—V§G25.00§!gr–™CgZ0"
+EDG_add_100_church_power_tt:0 "·ƒ—V§G100.00§!YeO›RÏ‘0"
+EDG_set_karma_to_0_tt:0 "SN›R¾‹:N§Y0§!0"
+EDG_BDX_add_5_argead_legitimacy_effect_tt:0 "·ƒ—V§G5.00§!§O?–	T·V‹sgckßu'`§!0"
+EDG_BDX_add_10_argead_legitimacy_effect_tt:0 "·ƒ—V§G10.00§!§O?–	T·V‹sgckßu'`§!0"
+EDG_BDX_add_20_argead_legitimacy_effect_tt:0 "·ƒ—V§G20.00§!§O?–	T·V‹sgckßu'`§!0"
+EDG_BDX_MISSION_AREA:0 "Nb	g§YûN¡R‰Bl§!„vwýNÿ"
+EDG_BDX_IF_RELIGION_IS_SUNNI_TT:0 "‚YœgSVMRýVYe=f§Y<S>m§!Rÿ"
+EDG_BDX_IF_RELIGION_IS_SHIITE_TT:0 "‚YœgSVMRýVYe=f§YÀNöS>m§!Rÿ"
+# EDG_BDX_IF_RELIGION_IS_HINDUISM_TT:0 "‚YœgSVMRýVYe=f§YpS¦^Ye§!Rÿ"
+EDG_BDX_IF_RELIGION_IS_MAHAYANA_TT:0 "‚YœgSVMRýVYe=f§Y'YXNiOYe§!Rÿ"
+EDG_BDX_IF_RELIGION_IS_NESTORIANISM_TT:0 "‚YœgSVMRýVYe=f§YofYe§!Rÿ"
+EDG_BDX_IF_RELIGION_IS_ZOROASTRIAN_TT:0 "‚YœgSVMRýVYe=f§YFyYe§!Rÿ"
+EDG_BDX_IF_RELIGION_IS_SUNNI_TT_OR_SHIITE_TT:0 "‚YœgSVMRýVYe=f§Y<S>m§!b§YÀNöS>m§!Rÿ"
+EDG_BDX_IF_DONE_VIA_ALLIANCE:0 "‚YœgÇ§MÓußv§!ŒRbûN¡RRÿ"
+EDG_BDX_IF_DONE_VIA_INSULT:0 "‚YœgÇ§M®O±§!ŒRbûN¡RRÿ"
+EDG_BDX_add_one_extra_challenge_imperium_chance_tt:0 "§G˜Y·ƒ—VN!k§Mcb^Cg§!„v:gO0§!"
+EDG_BDX_increase_cultural_assimilation_chance_tt:0 "eu®V§GÐcØš§!§V‡eSTS§!‘˜‡s0"
+EDG_BDX_assimilate_one_more_province_tt:0 "Ïk!k§V‡eSTS§!˜YTS§G1§!*NwýN0"
+EDG_BDX_ismaili_is_dead_tt:0 "‹NöN0§Y‹TÐKNPRO¯e›sêN§!0SNOQÑSu0"
+EDG_IS_NOT_NOMAD:0 "N=f8ngrÿ§Y-20.0%§!"
+EDG_BDX_has_expanded_infrastructure_trigger_tt:0 "ibú^Ç§YúWNx¾‹Ëe§!0"
+
+#flags
+EDG_BDX_enable_badakhshan_mountain_hunters_merc_flag:0 "òTã‰•ôT¾kSqS0WsKb"
+EDG_BDX_mission_persian_bureaucracy_flag:0 "òTã‰•âl¯e˜RÚP?eœ^9ei—"
+EDG_BDX_mission_governorate_flag:0 "òTã‰•9ei—I`cw:S?eœ^9ei—"
+EDG_BDX_mission_holy_king_flag:0 "òTã‰•)YàeŒNåe?eœ^9ei—"
+EDG_BDX_mission_sword_of_damocles_flag:0 "òTã‰•3zšR„vçub6R¦^"
+EDG_MISSION_GSR_1_2_flag:0 "òTã‰•‰R³uXb)RšN„vz¥ScOuQâV"
+EDG_BDX_enable_sparta_champions_merc_flag:0 "òTã‰•¯eôT¾ÇRëX"
+EDG_BDX_disaster_diadochi_war_end_flag:0 "s^šRçuNwb‰N"
+EDG_BDX_mission_nizari_flag:0 "òTã‰•<SNbÌ‘O›sîvýV?eœ^9ei—"
+EDG_BDX_enable_chakravartin_reform_flag:0 "òTã‰•ln1W‹s?eœ^9ei—"
+EDG_BDX_enable_three_great_fires_reform_flag:0 "òTã‰•)YRKNýV?eœ^9ei—"
+EDG_BDX_enable_seleucia_ctesiphon_patriarch_reform_flag:0 "òTã‰•^X	t‰šN-ðl‰S'Ygr–™?eœ^9ei—"
+
+#countries
+BAC:0 "ôTKQyrÌ‘šN"
+BAC_ADJ:0 "ôTKQyrÌ‘šN"
+BAC_ideas:0 "ôTKQyrÌ‘šNtõV"
+BAC_ideas_start:0 "ôTKQyrÌ‘šN.Oßu"
+BAC_ideas_bonus:0 "ôTKQyrÌ‘šNÎ‘ÃV"
+AGD:0 "?–	T·V^ýV"
+AGD_ADJ:0 "?–	T·V"
+AGD_ideas:0 "?–	T·VtõV"
+AGD_ideas_start:0 "?–	T·V.Oßu"
+AGD_ideas_bonus:0 "?–	T·VÎ‘ÃV"
+DI1:0 "lšvQ˜<SšN"
+DI1_ADJ:0 "lšvQ˜"
+DI1_ideas:0 "lšvQ˜<SšNtõV"
+DI1_ideas_start:0 "lšvQ˜<SšN.Oßu"
+DI1_ideas_bonus:0 "lšvQ˜<SšNÎ‘ÃV"
+DI2:0 "šNÆušN"
+DI2_ADJ:0 "šNÆušN"
+DI2_ideas:0 "šNÆušNtõV"
+DI2_ideas_start:0 "šNÆušN.Oßu"
+DI2_ideas_bonus:0 "šNÆušNÎ‘ÃV"
+DI3:0 "ÃWÊSnfXb¯e"
+DI3_ADJ:0 "ÃWÊS"
+DI3_ideas:0 "ÃWÊSnfXb¯etõV"
+DI3_ideas_start:0 "ÃWÊSnfXb¯e.Oßu"
+DI3_ideas_bonus:0 "ÃWÊSnfXb¯eÎ‘ÃV"
+DI4:0 "âl‰¯e"
+DI4_ADJ:0 "âl‰¯e"
+DI4_ideas:0 "âl‰¯etõV"
+DI4_ideas_start:0 "âl‰¯e.Oßu"
+DI4_ideas_bonus:0 "âl‰¯eÎ‘ÃV"
+DI5:0 "?–Éb—‰šN"
+DI5_ADJ:0 "?–Éb—‰šN"
+DI5_ideas:0 "?–Éb—‰šNtõV"
+DI5_ideas_start:0 "?–Éb—‰šN.Oßu"
+DI5_ideas_bonus:0 "?–Éb—‰šNÎ‘ÃV"
+DI6:0 "^ÐcšN"
+DI6_ADJ:0 "^ÐcšN"
+DI6_ideas:0 "^ÐcšNtõV"
+DI6_ideas_start:0 "^ÐcšN.Oßu"
+DI6_ideas_bonus:0 "^ÐcšNÎ‘ÃV"
+DI7:0 "pS0WšN"
+DI7_ADJ:0 "pS0WšN"
+DI7_ideas:0 "pS0WšNtõV"
+DI7_ideas_start:0 "pS0WšN.Oßu"
+DI7_ideas_bonus:0 "pS0WšNÎ‘ÃV"
+ARGEAD_STRING:0 "?–	T·V"
+ARGEAD_STRING_ADJ:0 "?–	T·V"
+GREAT_XIA_STRING:0 "'YY"
+GREAT_XIA_STRING_ADJ:0 "'YY"
+MACEDONIAN_EMPIRE_STRING:0 "lšvQ˜^ýV"
+MACEDONIAN_EMPIRE_STRING_ADJ:0 "lšvQ˜"
+ALEXANDER_EMPIRE_STRING:0 "šN†SqS'Y^ýV"
+ALEXANDER_EMPIRE_STRING_ADJ:0 "?–	T·V"
+HELLENSTIC_EMPIRE_STRING:0 "^JS^ýV"
+HELLENSTIC_EMPIRE_STRING_ADJ:0 "?–	T·V"
+NIZARI_STRING:0 "<SNbÌ‘"
+NIZARI_STRING_ADJ:0 "<SNbÌ‘"
+NIZARI_EMPIRE_STRING:0 "<SNbÌ‘^ýV"
+NIZARI_EMPIRE_STRING_ADJ:0 "<SNbÌ‘"
+KUSHAN_STRING:0 "5—"
+KUSHAN_STRING_ADJ:0 "5—"
+KUSHAN_EMPIRE_STRING:0 "5—^ýV"
+KUSHAN_EMPIRE_STRING_ADJ:0 "5—"
+
+#ideas
+EDG_BDX_people_of_mountains_idea:0 "²qSKNl"
+EDG_BDX_people_of_mountains_idea_desc:0 "ôT¾kSºNNNãNãNESOO(WtQý“^ÀN„vqS7Œ-NÿÖNìNŸqåw‚YUOT²qSSb²NSÿ²qSOTlVûNUO86qÛeQ„vµOeuw0"
+EDG_BDX_balas_ruby_idea:0 "ôTLR`¢uRów"
+EDG_BDX_balas_ruby_idea_desc:0 "ôT¾kSµNúQNÍyT:N0ôTLR`0„v¢uRówÿa:N0d¢uhfæf0ÿåNê•®N:Yîv„v¢ur‚wû•T0vQ-NgW„T„v^—0Ñž‹sPR¢uRów0«ƒ^SÿÙ—˜Rów(W1367t^1uaS¯e‚„)RšN„viO·VWNN`Nñ‚<hpQ„vÑž‹sPR1r·VNSÿêdkåNTNôv«ˆv•LTŽNñ‚<hpQ‹s Q„vck-NÃV0FUºNÇ0¢uRówKNï0SôT¾kS„v¢uRów¿lNwNøuKNï•ŽVNLuT0W0"
+EDG_BDX_relation_with_gurkani_idea:0 "äSRr^„vã^S"
+EDG_BDX_relation_with_gurkani_idea_desc:0 "ôT¾KQqSÇT^(g?Q›OIY¢uRów·ƒÖS^(g?Q„vÝO²bÿÎNwÝOhQ†NêñT¡l	gm0ReQµOÿdkTNôvjO:N^(g?Q„vàVÚ‹ã^S0"
+EDG_BDX_legend_of_alexander_idea:0 "šN†SqS'Y'Y^„v.Oô‹"
+EDG_BDX_legend_of_alexander_idea_desc:0 "ôT¾KQqSs|S„v¶RÏeïSåNý¯n0RšN†SqS'Y'Y^„v?–	T·V¶RÏeÿnc.Oê^J-ôTKQyrÌ‘šN‹sýVöeg1SNôvßu»lwÙ¹W0W0‚Yœg=fw„vÿs|S„v¶RÏeS=f?–	T·V¶RÏe°sXR„v=UNNagÏeû|0"
+EDG_BDX_crossroad_of_asia_idea:0 "šN2m„vASWRïãS"
+EDG_BDX_crossroad_of_asia_idea_desc:0 "ôT¾kS²NI–^XtSÈS|bˆRNwOg-þVpQ0pS¦^!k'YF–åNÊSN¹e„v²NLuKN0WÿÙÍyìryr„v0WtagöNO—VÙÌ‘b:N†NT—RYeáO’V„v¾–KNNbÿàVdkµNu†NYCQwYBg„v—RYe>y:S0"
+EDG_BDX_pashtun_cavalry_idea:0 "nfÀNþV‰‘šuQ"
+EDG_BDX_pashtun_cavalry_idea_desc:0 "nfÀNþVætÌ‘ÿsSnfÀNþVºN„vLˆ:NÆQRÿ:VŒÇRlŒTfk›R0nfÀNþVèÏeÅd•‰‘šuQjObÿnfÀNþV‰‘šuQåNqS0W0WbVNOÀy„vûy¨R'`ŒTZWç—NÔb„v¾|^ywW„ðy0"
+EDG_BAC_revive_bactria_idea:0 "YtQôTKQyrÌ‘šN"
+EDG_BAC_revive_bactria_idea_desc:0 "(WšN†SqS'Y'Y^NV-Nÿ^JºN(W-NšNú^Ëzw†N^JS„vôTKQyrÌ‘šN‹sýVÿv^(WšN†SqS'Y^ýVã‰SOTb:N†N-NšN„vÍ‘‰:VCg0ôTKQyrÌ‘šN‹sýVN¦^nn¡l(W†N†SòS*mAmKN-NÿFO‚YÊNQ!k—V0R†NYtQ0"
+EDG_BDX_legacy_of_alexander_idea:0 "?–	T·V¶RÏe„v.Ob"
+EDG_BDX_legacy_of_alexander_idea_desc:0 "ôTKQyrÌ‘šN„v‹sÏe=f?–	T·V¶RÏe°sXR„v=UNTãNÏeû|ÿôTKQyrÌ‘šN„vßu»lw¨cTÇRl0zfgaŒTZW:V„vŽ‹YÁT<hÿåNçubšN†SqS'Y„v.OGYON:NñTûN0"
+EDG_BDX_pluralism_idea:0 "‡eSS¹R?eVr"
+EDG_BDX_pluralism_idea_desc:0 "1uŽN†SòSŸSàVÿ[Root.GetName]»lN„v—RYeŒT‡eS„gbgvQYBgÿàVdkHeÿN†SòSN„vlšvQ˜^ýVžRLˆ‡eSS¹R?eVrv^¨cÛ‡eS‡T0"
+EDG_BDX_hetairoi_idea:0 "OËS‘šuQ"
+EDG_BDX_hetairoi_idea_desc:0 "OËS‘šuQ„vTðyegnŽN^Jí‹0ýV‹s«Ž¹„vºN0ÿgéejO:NýV‹skS–ÿTegibEQÄ‰!jv^8T³u†NÅb—Vwlš9SŒTÅˆY„vNBS6–µulQl0lšvQ˜‹sýV„vOËS‘šuQ=fNLuN,rN=ewck„v²QûQ‘šuQÿjO:Ng¾|•„vè–(WšN†SqS'YNV-NËzN†NWllšŸR³R0‚YÊN[Root.GetName]mNú^Ëz†NOËS‘šuQ›QâVÿFO=føvÔk.OßuÍ‘‘šuQVeQ†NôfHQÛ„vfkhVŒTb=g0"
+EDG_BDX_persian_bureacracy_idea:0 "âl¯e˜RÚP"
+EDG_BDX_persian_bureacracy_idea_desc:0 "êESœëX'Y^ú^Ëzâl¯e^ýVåNegÿâl¯e	gNw^—8^ `EN„v˜RÚPßu»l†SòS0šN†SqS'Y'Y^Vgâl¯e?–QYŽ<S·V‹sgTÿàQNNŸSSN¨R0WÝOYu†Nâl¯e5Ïe„v0WMOÿv^Sâl¯eºN³ueQ0R†NýV¶R»ltSOû|-NÿåNóŽN	g›NºN²‹:NšN†SqS'Y^ýVžRE–NÖSãN†N?–QYŽ<S·Vb:N†N°e„vâl¯e^ýV0àeº‹=fšN†SqS'Y'Y^0^XSñgÏ‚9NØ=fOSWlÿÏkN*NYegßu»lwNæeVgâl¯eÿýN—VNOVâl¯e˜RÚPeg»ltýV¶Rÿ[Root.GetName]SV6qmNN‹OY0"
+EDG_BAC_alexandria_cities_idea:0 "šN†SqS'YÌ‘šNÎW¦"
+EDG_BAC_alexandria_cities_idea_desc:0 "šN†SqS'Y'Y^(WNV-Nú^Ëz„v¸‹YåNšN†SqS'Y‹TT„vÎW^ÿåeTb:N†NÍ‘‰„v›Q‹N‰^XŒT^JºN–kl0WÿùRéTúV^ýVßu»lw0R†NÍ‘‰jO(u0Ù›NšN†SqS'YÌ‘šNÎW¦òTÏupˆK„v^«ˆ°e„vÎW^NbÖSãNÿFO=f[Root.GetName](WN›NÍ‘‰ÎW^„vçubNÍ‘ú^šN†SqS'YÌ‘šNÎW¦ÿv^b`YƒRìN.Oßu„vŸRýw0"
+EDG_BAC_hammer_and_anvil_tactics_idea:0 "2•'xb=g"
+EDG_BAC_hammer_and_anvil_tactics_idea_desc:0 "(Wb:WNÿlšvQ˜¹e5–N=fz4xè–ÿƒR„vŸRýwIN‰=f8TOOLeºN‹SOO5–ÿÏPNWW'xgÿw%dSb„vÒ‰r‚1uÍ‘Åˆ‘šuQnbo0¹e5–ckb—2c‹SùR¹e5–0Wÿ‘šuQµOüS„bÿ6qTMRT9YûQÿbVT2•'xÿS9Y(W-Nô•„vLe›Q‰|Žx0"
+EDG_ADG_restore_alexander_empire_idea:0 "Í‘ú^šN†SqS'Y^ýV"
+EDG_ADG_restore_alexander_empire_idea_desc:0 "šN†SqS'Y'Y^„v^ýV(WšN†SqS'Y‰kT¿OlšNR)T»ygÿFOŒýwó`0Rÿ(WšN^‰kT„vNCSYt^Tÿ^ýVQN!k«ˆÖN„vTºNIQY0ÙN!kÿ^ýV„vßu»lôf R3zúVÿšN†SqS'Y„v*gßzKNNS—VåNžR°s0"
+EDG_AGD_legacy_of_alexander_idea:0 "ckßu?–	T·V‹sg"
+EDG_AGD_legacy_of_alexander_idea_desc:0 "SV[Root.GetName]„vßu»lw„vVyHQNôvåNegý±RðyêñT=fšN†SqS'Y'Y^„vTºNÿFO=fºNìNùRdkŽVŽVc(‘u„v`¦^0–NwšN†SqS'Y^ýV«ˆÍ‘ú^ÿQmN¡l	gºNÆwbeÑSúQ(‘u„vðXó—ÿNb	gºNýøváOßu»lNw[Root.GetName]„v¶RÏe1S=fckßu„v?–	T·V‹sg0"
+EDG_AGD_hetairoi_idea:0 "OËS‘šuQ"
+EDG_AGD_hetairoi_idea_desc:0 "OËS‘šuQ„vTðyegnŽN^Jí‹0ýV‹s«Ž¹„vºN0ÿgéejO:NýV‹skS–ÿTegibEQÄ‰!jv^8T³u†NÅb—Vwlš9SŒTÅˆY„vNBS6–µulQl0lšvQ˜‹sýV„vOËS‘šuQ=fNLuN,rN=ewck„v²QûQ‘šuQÿjO:Ng¾|•„vè–(WšN†SqS'YNV-NËzN†NWllšŸR³R0‚YÊN[Root.GetName]mNú^Ëz†NOËS‘šuQ›QâVÿFO=føvÔk.OßuÍ‘‘šuQVeQ†NôfHQÛ„vfkhVŒTb=g0"
+EDG_AGD_persian_bureacracy_idea:0 "âl¯e˜RÚP"
+EDG_AGD_persian_bureacracy_idea_desc:0 "êESœëX'Y^ú^Ëzâl¯e^ýVåNegÿâl¯e	gNw^—8^ `EN„v˜RÚPßu»l†SòS0šN†SqS'Y'Y^Vgâl¯e?–QYŽ<S·V‹sgTÿàQNNŸSSN¨R0WÝOYu†Nâl¯e5Ïe„v0WMOÿv^Sâl¯eºN³ueQ0R†NýV¶R»ltSOû|-NÿåNóŽN	g›NºN²‹:NšN†SqS'Y^ýVžRE–NÖSãN†N?–QYŽ<S·Vb:N†N°e„vâl¯e^ýV0àeº‹=fšN†SqS'Y'Y^0^XSñgÏ‚9NØ=fOSWlÿÏkN*NYegßu»lwNæeVgâl¯eÿýN—VNOVâl¯e˜RÚPeg»ltýV¶Rÿ[Root.GetName]SV6qmNN‹OY0"
+EDG_AGD_alexandria_cities_idea:0 "šN†SqS'YÌ‘šNÎW¦"
+EDG_AGD_alexandria_cities_idea_desc:0 "šN†SqS'Y'Y^(WNV-Nú^Ëz„v¸‹YåNšN†SqS'Y‹TT„vÎW^ÿåeTb:N†NÍ‘‰„v›Q‹N‰^XŒT^JºN–kl0WÿùRéTúV^ýVßu»lw0R†NÍ‘‰jO(u0Ù›NšN†SqS'YÌ‘šNÎW¦òTÏupˆK„v^«ˆ°e„vÎW^NbÖSãNÿFO=f[Root.GetName](WN›NÍ‘‰ÎW^„vçubNÍ‘ú^šN†SqS'YÌ‘šNÎW¦ÿv^b`YƒRìN.Oßu„vŸRýw0"
+
+#governments
+EDG_GREAT_EMPEROR_MONARCHY_MALE:0 "'Y^"
+EDG_GREAT_EMPEROR_MONARCHY_FEMALE:0 "sY'Y^"
+EDG_DIADOCHI_MONARCHY_NAME:0 "çuNw‹sýV"
+
+#events
+EDG_BDX_events.999.t:0 "Í‘ú^[Root.GetName]"
+EDG_BDX_events.999.d:0 "šN†SqS'Y'Y^þfÏuú^Ëz†N[Root.GetName]jO:NÍ‘‰„v^J–klÎW^åNéTúVùRSV0W„vßu»l0‹†6q[Root.GetName]N¦^nn¡l(W†N†SòS•³l-NÿFO‚YÊNbìNòTÏuùRvQŒRb†NÍ‘ú^ÿÙµ^ÎW^	ggb:NbìN*geg(WÙ*N0W:SÍ‘‰„vßu»l-NÃV0°s(WbìN„vSV¡RKN%`=f³QšRÙµ^ÎW^„vŸRýwÿ=fjO:NbìN„vLˆ?e-NÃVÿØ=f'Y›RÑSUSåTFUNÿ¦Nb=fSvQSb.:NN*N›Q‹N!X’Wÿ"
+EDG_BDX_events.999.a:0 "Lˆ?e‹WÎW¦"
+EDG_BDX_events.999.b:0 "ÏuNm‹WÎW¦"
+EDG_BDX_events.999.c:0 "›Q‹N‹WÎW¦"
+EDG_BDX_events.1000.t:0 "‡eSTS"
+EDG_BDX_events.1000.d:0 "5ÏeìNåNfR`N[This.Culture.GetName]‡eS:Ncƒÿ0W¹e—RYeêNVVËY9e(ubìN„ví‹ŠÿwbìN„vÎ˜×O‡eSmNn‡eQ†NŒvÓY„våe8^uIm0(WbìN•gŸ±R„v‡eS‡T?eVr„v¨c¨RNÿÙ7h„vÅ`µQck(WŠegŠY„vwýNÑSu0"
+EDG_BDX_events.1000.a:0 "ÛVwmKN…Q†vDQV"
+EDG_BDX_events.1000.tt:0 "wýN‡eS«ˆ§VTS§!:N§Y[This.Culture.GetName]§!0"
+EDG_BDX_events.1002.t:0 "wm³uŒvÝT"
+EDG_BDX_events.1002.d:0 "–Nw[Root.Culture.GetName]‡eS(WNLu„vAucƒÿŠegŠY„vºNSbìNwjO‡ef„vV†˜wÿÑyfR¶RìNeg0RbìN„výV¶RÛLˆxvzÿ×‹ºNŒTjO¶R(ubìN„v‡eWRÛLˆRjOÿ5ÏeìN(ubìN„ví‹ŠjO:NOÅ–„vNBSí‹ŠÛLˆ²NAm0N*N^SŽN[Root.Culture.GetName]„vöeãNck(W0Reg0"
+EDG_BDX_events.1002.a:0 "ŠbNLuSVjOêñT„vEeaN"
+EDG_BDX_events.0.t:0 "÷KNPR"
+EDG_BDX_events.0.d:0 "ô‹wôT¾kSÿ'YèRºN„vÍS”^P``ý=f0Ù=fêTÌ‘ÿ00wåwSôT¾kSÙ*NTWR„vºNÿ8^=fÎN2N*N0W¹e†Nã‰0R„vÿ¢uRówŒTó—PN0ôT¾kSµNúQNÍyT:N0ôTLR`0„v¢uRówÿa:N0d¢uhfæf0ÿåNê•®N:Yîv„v¢ur‚wû•T0vQ-NgW„T„v^—0Ñž‹sPR¢uRów0«ƒ^SÿÙ—˜Rów(W1367t^1uaS¯e‚„)RšN„viO·VWNN`Nñ‚<hpQ„vÑž‹sPR1r·VNSÿêdkåNTNôv«ˆv•LTŽNñ‚<hpQ‹s Q„vck-NÃV0ôT¾kS„vó—PNmNìrwQyrr‚ÿƒR„vyr¹p=f(Wír„z„vËe‹VƒôV…QO(u¸‹YJSó—6–S„vó—ŒåNÊSSŒó—6–ÿIN‰O(uœyr4toOYÿ2SvQ=f(g6RèbGr„v	N&Víwˆ˜œyr4t0^s|SœôT^ÿPamiri rubab	ÿ0ÿLkðXwQ	gìryr„v™lÑTIŸó—ÿLkÍ‹R8^&^	gÏ‚òƒ>m^yØyININr‚iVÿúWŒçVÁÿ‰mÊS^y1WKN1r0R»y0âVZw01rÅ`ŒTæ‚¾–0\n\n0nfŒTtNbSV6q=fÀNHNÿ0s|S[Root.Monarch.GetName]N¹9VOYœyr4tN¹`wNwÙ*Nî•˜˜0mN¸‹ôT¾kS1S=fN*NTrHhÿjO:NtQý“^ÀNqS	kƒK…N„vN…–ÿ1uŽN²NI–^XÿNôvNYLu²NAmuS0‹†6q‚YÊNOP‰RŽNôT¾kSÿFO=f9hncÏe1Œ°‹‹ÿ[Root.Monarch.GetName]	gN*NàeºNNåwÿàeºNNSf„vVyHQšN†SqS'Y'Y^ÿwN[Root.Monarch.GetName]¶RÏeˆV	gïSýw=fšN†SqS'Y'Y^°sXRŽNN„v=UNTãNÏeû|ÿê^J-ôTKQyrÌ‘šN‹sýVöeg1SVËYßu»lÙÌ‘0t’ŽN²qS¯sÕu„v0WbVÿôT¾kS†Seg=fuQ¶RN‰NKN0Wÿàeº‹=fÈTÌ‘ÑSØ=fb	T`WlýWØV†NÙGrW0Wÿs|S„v¶RÏemNàVdk—VåNôucßu»lóÊN0sS¿O=fa2k¸œT)YN„v0ÛPR0^(g?QÿmNNQSŽNeQµOôT¾kSÿÅNÅNêS=f‰Bls|Sãg0\n\n[Root.Monarch.GetName]aegaÉ‰—VÿêñTòTÏu÷1Y(W†NtQý“^ÀN„v²qSKN-N0(WÖNt^ªuØ‰ÿ–†SSEm„vöePÿÖN„v6r²N8^8^TÖN²‹ðšN†SqS'Y'Y^„vO'YVg†SòSÿÎNÑy—g¯eTßvÿ0R<hÉb<S“^¯e0OÏ‚¯e0Øš Rs|Éb	N'YbyVÿQ0Rwm¾¯eiO³l¹K„êl0[Root.Monarch.GetName]ê±)Y¿OVËY‰^ó`ÿb¸‹	gN)Yÿz¥SºNO«ˆvpÿôTKQyrÌ‘šN‹sýVOYtQÿ?–	T·V¶RÏe„vcƒIQOÍ‘°sÿÖNOÞV0RôTÔk&OCNóiOÉbÿb:NÏPšN†SqS'Y'Y^±7hO'Y„vVgw×SNºNofðN&&6qwÿ(W^(g?Q„v·g•KNNÿNR†v:N)Y¹eY-Œ0"
+EDG_BDX_events.0.a:0 "«Ž‘šNLu„všlš"
+EDG_BDX_events.1.t:0 "èlšR:N‹sKNºN"
+EDG_BDX_events.1.d:0 "s|S[Root.Monarch.GetName]Ø°‹—VêñTg	gMbNS„viRPRúQu„v±NZfÿkpAmfÎNYzz-NRÇÿNöeô•®N‚Y‹v<f0\n\n0>T?QÿSV`OúQu„vöePÿte*NtQý“^ÀN„v²qSý(W‰ðX|T2UNw`O„vTWRO¯eNW·VS0\n>T?Qÿb„š²P0WwNw`ON)Y)Y•'Yÿb:NckIN„vS«Ž0\n`O‰°‹OOÿbìNNôvåNzfgaŒTËR¹Rßu»lÙ*NýV¶R0\nbmNøváO`OO(ŒNa0WO(uêñT„vCg›R0\nJUÿ>T?Qÿ»SŒbN*NM‘—VN`O„v‹sýV'TÿôT¾kSùR`OwŠžR(W*YS†N0\nbJTÉ‹`OÙ›NÿàV:NI`	gN)Yÿb„vu‹TSµb¾Èu¹pÿ w`OÿS R•Q:N‹s00"
+EDG_BDX_events.1.a:0 "å‚qSNTbpeg..."
+EDG_BDX_events.1.a.tt:0 "ã‰•§Ob1SûN¡R0èlšR:N‹sKNºN0§!ÿ1u§YO¯eNW·VS ?–	T·V§!jO:Nßu»lwöeú^Ëz@AGD§Y?–	T·V^ýV§!0\n§g°ežXûN¡RMOŽNûN¡Rhg•^ïz0§!"
+EDG_BDX_events.1.b:0 "...±b¿OTqSp»S"
+EDG_BDX_events.2.t:0 "àVÚ‹„v÷N<h"
+EDG_BDX_events.2.d:0 "ŠegŠY„v.OŠhˆf^(g?Q„v™lÈTœÏ‚9NòTÏuDYDYNo`ÿ‹sTØšÈTSÍu·VŠbcg?e0G•ˆRœU(„S„vNQœ=OjO:N™lÈTœ„v•PRt”^=fckßu„vçubºNÿFO‹sTtSOP1rêñT„vYRPR?–wPLR0G•ˆR9Sr^³u?–wPLRNØvŽŽNS¹e„vgsS+RWl?–^wm?Q¾b†NÆR¦uÿ'YWl–öeÆQY%c^WSNåbËz?–wPLR0?–wPLR„vVVôTkQ?QR(W±‚LRPR!j·Q<wÁeÂ‰ÿ:O:gw¨R0jO:NÜ(WôT¾kS„v0W¹e†˜INÿ[Root.Monarch.GetName],gN”^wSeQ^(g?Q„v¶RÏeÛwþvÿ6qwNS¿RÑSUSódkòTÏu¡l	g†N-NËz„vzzô•0\n\nNQœ=O>múQOw„v&^NwN±rÑ‘^jO:N<yireg0R†NôT¾kSÿ^gs|SýwY(WåeTïSýwÑSu„vçubb‰N-N=ecNQœ=O„v5–%„0‚YœgÍ‘°sšN†SqS'Y^ýV„vcƒIQÿ1SÅV‰˜1c1^(g?Q„v·g•ÿÙ!kqNNS¿O=fÝusO„v:gO0FO=fùRŽNÙN±rÄžÑ‘nxžRmN¡l	gÒbÝu„vt1uÿwNNæeÙz•–ÿÅV6qm0RÁkmp'`„v¥bY0"
+EDG_BDX_events.2.a:0 "...FOÖNÙu„vžR(W=f*YY†N"
+EDG_BDX_events.2.b:0 "±HN...ãN÷N=fÀNHNÿ"
+EDG_BDX_events.2.b.tt:0 "§RbìNSO(W™lÈTœçubqS:g-NÌwÛS@TIM[TIM.GetName]0§!"
+EDG_BDX_events.2.c:0 "'YN+YuŽN)Y0WKNô•ÿ‚SýwÁÁENESºNNÿ"
+EDG_BDX_events.3.t:0 "ôT¾KQqSs|S±R“ŠHeàV"
+EDG_BDX_events.3.d:0 "ôT¾KQqSs|S[Root.Monarch.GetName]6eN†NbìN„vÄžÑ‘ÿv^Nbú‹(WåeTïSýwÑSu„vçubb‰N-N=ecbìN0"
+EDG_BDX_events.3.a:0 "¡l	gºNýwÒbÝuÄžÑ‘"
+EDG_BDX_events.4.t:0 "ôT¾KQqSs|Sck(WŒÍS"
+EDG_BDX_events.4.d:0 "ôT¾KQqSs|S[Root.Monarch.GetName]ÒbÝu6eN†NbìN„vÄžÑ‘ÿv^Nvp†NOwÿÙ=ffîv.VÆw„vŒÍS0"
+EDG_BDX_events.4.a:0 "ßée6eþbÖN"
+EDG_BDX_events.5.t:0 "©e­e·g•"
+EDG_BDX_events.5.d:0 "wÏ‚9N™lÈTœòTÏu(Waw¦h-NNN•ž0G•ˆRœU(„S„vckßu„vçubºNNQœ=O—Våw6r²N„v‰k¯‹Tck(WÎNœU(„SëVlš R­—vÞV’dlšSU R•Q:N°eÏ‚9N06qwÿ*YTØšÈTSÍu·VOP1rYRPR?–wPLRÿ™lÈTœ‰kTØšÈTSÍu·VËzlš>mcáOOSdk‹NJTåw†NG•ˆR9Sr^³u„v?–wPLR0NQœ=O„v•PR?–Ný·LRê+uÑS°sdk‹NT`‘u*YT	gaÕuV6r²N9eËz?–wPLR:N°eÏ‚9NÿŽN=f¿OÚVy†N*YTÿv^ÆQYtQuQ¨‹O?–wPLR0?–wPLR‹NHQòTÏuŒTgsS+R„v?–^wm?QWl¾b†NÆR¦uÿ(W—Våw’dlšSU„vØSEeT0t'`ôv¥cÑS¨R†NÛSqNÿw?–^wm?QWlmNòTÆ–Óu'Y›QÎNS¹eeQµO³l-NåNr^‰m^(g?Q„vçubqS:g0b‰NNæ‰sSÑS0\n\nNQœ=OþfÕ‹þV(uÄžÑ‘?Bs|S[Root.Monarch.GetName]ÿ^gÉbâbvQÙz(WNQœ=O„vN¹06qw[Root.Monarch.GetName]NO«ˆG‡4YS)Rñ‹Ñ`ÿÖNNO>eVÙ*N1c1^(g?Q·g•„vÝusO:gO0[Root.Monarch.GetName]'YÑS÷–—vp†NOwÿv^lbŠ³QN)0dköeÏ‚9N[TIM.Monarch.GetName]ÅV6qòTÏu`NïSOÿNæebìN„vjŒL1Y%ÿTœgSN*X¾‹ó`0jO:NšN†SqS'Y'Y^„vTºNÿÍ‘=c¶RÏecƒIQÿSËYŽNdkyV0"
+EDG_BDX_events.5.a:0 "R:NNåeÄ–îrÿNZPŒvåe”Š"
+EDG_BDX_events.5.a.tt:0 "‚Yœg.^©R@SHY§Y[SHY.GetName]§!(Wçubb‰N-NûQ%@TIM§Y[TIM.GetName]§!ÿbìNSýwYqNTv^«ˆbìN`S†˜„v§Y[TIM.GetName]§!wýN0èlaÿTv^§Y[454.GetName]§!b§Y[442.GetName]§!ïSýwOÛbô§YgsS+RWl§!„v`kp0\n§RêS¸‹bŸRÿN¸‹1Y%0§!"
+EDG_BDX_events.6.t:0 "uQNŒSÈ‹"
+EDG_BDX_events.6.d:0 "wÏ‚9N™lÈTœòTÏu(Waw¦h-NNN•ž0G•ˆRœU(„S„vckßu„vçubºNNQœ=O—Våw6r²N„v‰k¯‹Tck(WÎNœU(„SëVlš R­—vÞV’dlšSU R•Q:N°eÏ‚9N06qwÿ*YTØšÈTSÍu·VOP1rYRPR?–wPLRÿ™lÈTœ‰kTØšÈTSÍu·VËzlš>mcáOOSdk‹NJTåw†NG•ˆR9Sr^³u„v?–wPLR0NQœ=O„v•PR?–Ný·LRê+uÑS°sdk‹NT`‘u*YT	gaÕuV6r²N9eËz?–wPLR:N°eÏ‚9NÿŽN=f¿OÚVy†N*YTÿv^ÆQYtQuQ¨‹O?–wPLR0?–wPLR‹NHQòTÏuŒTgsS+R„v?–^wm?QWl¾b†NÆR¦uÿ(W—Våw’dlšSU„vØSEeT0t'`ôv¥cÑS¨R†NÛSqNÿw?–^wm?QWlmNòTÆ–Óu'Y›QÎNS¹eeQµO³l-NåNr^‰m^(g?Q„vçubqS:g0b‰NNæ‰sSÑS0\n\nKS¡rbìNþf6eN†NNQœ=O„v?Bÿv^bú‹(Wçubb‰N-NÙz(WÖN±N¹ÿ6qwONbhTåwÿ6eN<yirNIrŽN¥c×SagöNÿàV:N[Root.Monarch.GetName]NïSýw>eVÙ*N1c1^(g?Q·g•„vÝusO:gOÿŒŠN:k—š=fÜw)RKNïNÅVNïSS„vN¯s0dköeÏ‚9N[TIM.Monarch.GetName]ÅV6qòTÏu`NïSOÿNæebìN„vjŒL1Y%ÿTœgSN*X¾‹ó`0jO:NšN†SqS'Y'Y^„vTºNÿÍ‘=c¶RÏecƒIQÿSËYŽNdkyV0"
+EDG_BDX_events.6.a:0 "R:NNåeÄ–îrÿNZPŒvåe”Š"
+EDG_BDX_events.7.t:0 "?–wPLReQIN’dlšSU"
+EDG_BDX_events.7.d:0 "(W[SHY.Monarch.GetName]WlNb‡s'Y›Qgd¯gÉbKg„vIe¿RKNNÿNQœ=O„vHeàVwòT«ˆ‰`pe|kmp0gsS+RºNØO·ƒ†N‡s†˜‹kè…–‹˜—b„vNQœ=OKNPR?–Ný·LRê+uÿv^SvQ­g–™:yO0NQœ=OÓN‡vúQ†N’dlšSUÿ(WŽV(„ôT¾SºN„v†˜0W„vïN«ˆ?–wPLR>múQ„v:R¢RNg‰k0(W[SHY.GetName]›Q–„v²bNÿ?–wPLR(W’dlšSU‰vúW R•Q:N°eÏ‚9Nÿ­^ãNŒvÓYºN†vµOîvÿbe`NbeŠ0(W?–wPLR„v»lNÿbìN„v›Q–(W’dlšSU–aúQeQÿEuàeI–0bìNåwSÖNNbeÍSùRÿàV:NNæe»yV†NgsS+RºN„vÝO²bÿÖN„vßu»lN)YmNôucN†N0\n\n(WÙ:W÷mqN„vçubb‰N-NÿbìNPgsS+RºNKNKbqN:YÖS†NN›NÎW^ÿh×VNwbìNNQ=f²qS¯sÕu-NOP‰RN…–„vW‹sÿòTÏub:N†N³l-NNïSýVÆ‰„vN¡w›RÏ‘ÿTÍ‘°sVyHQ„vcƒIQÈúQ†N†N,rNek0FO=fÿ>f6q[SHY.Monarch.GetName]WlNO>eµuÙÍynÁ—V)R„vLˆ:N0‚YœgN“b'töeô•¨‹‹Y'YWlÿbìNïSýw1S=fNN*N«ˆ6eþb„vùRaŒ0"
+EDG_BDX_events.7.a:0 "ÖN„v‹sMOÿNO•EN"
+EDG_BDX_events.8.t:0 "bwÁ‰N9S¢ulš..."
+EDG_BDX_events.8.d:0 "¡l	gºNýwa™e0Rÿ[TIM.Monarch.GetName]Ï‚9Nßz6qûQ%†NNïSNN„v?–^wm?QWl0(W[TIM.Monarch.GetName]éTúVêñT„vßu»lTÿËzlšÑSuQIeeQôT¾kSÿé`ZþRÓugsS+RºN„vÛS’V0[TIM.Monarch.GetName]NäN›Q–Ng‰k(WôT¾kSÁ‰0R„vÏkN*NºNÿNb0RKNYœœNˆÓg¢u†NqS7ŒÿôT¾kSÎW«ˆ7Y:Ns^0W0s|S[Root.Monarch.GetName]:NêñT„v2Nb—	NRØNúQ†NãN÷NÿÖNTNÅˆeQqS-NÿFO=f«ˆSV0WèK„l“bOO²NÙu†N[TIM.Monarch.GetName]åNHyBlv™U`êñT„vèÏe0[Root.Monarch.GetName]„v4Y«ˆxNÿiRYO„vèRNvQÖN¶RÏebXT„v8SSONw«ˆARb‰wålPeQ³l-Nÿw4Y…˜«ˆ&^»S’dlšSUUS:yÿKS¡r’dlšSU„v^l9h,gNåwS[Root.Monarch.GetName]=fŒ0"
+EDG_BDX_events.8.a:0 "§R0`OìNàeº‹(WÀNHN0W¹eÿ‰k¡NI`‰ýÊS`OìN00(4:89)§!"
+EDG_BDX_events.9.t:0 "^(g?Qçubb‰N"
+EDG_BDX_events.9.d:0 "wÏ‚9N™lÈTœòTÏu(Waw¦h-NNN•ž0G•ˆRœU(„S„vckßu„vçubºNNQœ=O—Våw6r²N„v‰k¯‹Tck(WÎNœU(„SëVlš R­—vÞV’dlšSU R•Q:N°eÏ‚9N06qwÿ*YTØšÈTSÍu·VOP1rYRPR?–wPLRÿ™lÈTœ‰kTØšÈTSÍu·VËzlš>mcáOOSdk‹NJTåw†NG•ˆR9Sr^³u„v?–wPLR0NQœ=O„v•PR?–Ný·LRê+uÑS°sdk‹NT`‘u*YT	gaÕuV6r²N9eËz?–wPLR:N°eÏ‚9NÿŽN=f¿OÚVy†N*YTÿv^ÆQYtQuQ¨‹O?–wPLR0?–wPLR‹NHQòTÏuŒTgsS+R„v?–^wm?QWl¾b†NÆR¦uÿ(W—Våw’dlšSU„vØSEeT0t'`ôv¥cÑS¨R†NÛSqNÿw?–^wm?QWlmNòTÆ–Óu'Y›QÎNS¹eeQµO³l-NåNr^‰m^(g?Q„vçubqS:g0b‰NNæ‰sSÑS0\n\nbìN¥c×S†NNQœ=O„v?Bÿv^bú‹(Wçubb‰N-NÙz(WÖN±N¹0‚YÊNQQ°sbú‹„vöeP0R†N0"
+EDG_BDX_events.9.a:0 "ÆQYb—e"
+EDG_BDX_events.10.t:0 "ûQgsS+R"
+EDG_BDX_events.10.d:0 "?–^wm?QWlþfÏuùR[TIM.GetName]„vZ†1VñmáON‘uÿ(W[TIM.GetName]rÑSçubqS:göeœg­eúQuQËNeQåNvbiŽP!QçubºN?–wPLR06qwNQœ=O„vßu»lv^^—GdGd2k`Wÿ(WNQœ=O„v†˜üRNÿ[TIM.GetName]ùRgsS+R„veQµOÛLˆ†N	gHe„vµb—b0KS¡r(Wb‰Néeg?–^wm?QWlùR[TIM.GetName]„vIe¿RÖS—V†NN›NbœgÿFOˆVëV¿Ow–eQ†N0R†NålmoKN-N0b‰N„v1Y)RüRôTèÏeùR[SHY.Monarch.GetName]„vNánNåeñOžXÿ[SHY.Monarch.GetName]N—VN	éb²d0NïSNN„v?–^wm?QWl„vVgKNïgÈu˜bbŽN[TIM.GetName]0(WûQ†NgsS+R„veQµOTÿ[TIM.Monarch.GetName]ImIc†N?–wPLRÿSvQJR»SÛV¢w›bóRƒÎ‘›O²ürRß˜0ÇÙ:WÜw)RÿÏ‚9N[TIM.Monarch.GetName]bŸRhËzZáOv^éTúV†Nßu»lÿck‰SuQãylšÿÕ‹þVWSN|TWÊsÍ‘ú^ùROg„vßu»l0bìN„vàVÚ‹—V0R†N[TIM.Monarch.GetName]„v^OÿFO=fbìNïSýw8lÜ1Y»S†N1c1^(g?Q·g•„v:gO0"
+EDG_BDX_events.10.a:0 "NQœ=ONSÿ"
+EDG_BDX_events.11.t:0 "?–wPLReQIN’dlšSU"
+EDG_BDX_events.11.d:0 "(W[SHY.Monarch.GetName]WlNb‡s'Y›Qgd¯gÉbKg„vIe¿RKNNÿNQœ=O„vHeàVwòT«ˆ‰`pe|kmp0gsS+RºNØO·ƒ†N‡s†˜‹kè…–‹˜—b„vNQœ=OKNPR?–Ný·LRê+uÿv^SvQ­g–™:yO0NQœ=OÓN‡vúQ†N’dlšSUÿ(WŽV(„ôT¾SºN„v†˜0W„vïN«ˆ?–wPLR>múQ„v:R¢RNg‰k0(W[SHY.GetName]›Q–„v²bNÿ?–wPLR(W’dlšSU‰vúW R•Q:N°eÏ‚9Nÿ­^ãNŒvÓYºN†vµOîvÿbe`NbeŠ0(W?–wPLR„v»lNÿbìN„v›Q–(W’dlšSU–aúQeQÿEuàeI–0bìNåwSÖNNbeÍSùRÿàV:NNæe»yV†NgsS+RºN„vÝO²bÿÖN„vßu»lN)YmNôucN†N0\n\n‹†6qbìN=ec„vçubºNNQœ=OòTÏub%ÿFO=fàVxy—Vy„v=fbìNmN·ƒ—V†N‚föe„vìrËz0"
+EDG_BDX_events.11.a:0 "óSbìNê1u†Nÿ‚föe"
+EDG_BDX_events.12.t:0 "[SHY.GetName]0tÖS[Root.GetSamarkandAndBukharaNameIfHold]"
+EDG_BDX_events.12.t.tt1:0 "’dlšSU"
+EDG_BDX_events.12.t.tt2:0 "^ÈTÉb"
+EDG_BDX_events.12.t.tt3:0 "’dlšSUŒT^ÈTÉb"
+EDG_BDX_events.12.d:0 "‹†6qée1Sf‹vÎNgsS+RWl±Ì‘N†ãS:Yß˜v^^—fzfKN>NÿFOb¸‹=fúQŽN*ÃVÿÈSb¸‹=fúQŽN'YWlO>eÇbìN„v¥Ox^ÿbìN(W^(g?Qçubb‰N„vqNNS-N:gµc6R†NgsS+RÊ‰Î‰òTEN„v[Root.GetSamarkandAndBukharaNameIfHold]0‚YÊNbìN‰:NNöe„vä”wpi–ØNúQãN÷N†N0gsS+RWl[SHY.Monarch.GetName]TbìNÑSúQ†NgTRrÿ‰HN²NúQ[Root.GetSamarkandAndBukharaNameIfHold]ÿ‰HN1SÎ¥cÁkmp0"
+EDG_BDX_events.12.a:0 "–ÍV..."
+EDG_BDX_events.12.b:0 "øRWN©‹ÿ"
+EDG_BDX_events.13.t:0 "^ýV„vÁkmp"
+EDG_BDX_events.13.d:0 "(W1V‰w:Vß˜„v'YIƒŸSNÿ=U	girÞz)YébÿwuXR=f8lR`„vÁ”‹V0–Nw'YWl„vz6qŒš)Tÿo1V„v[SHY.Monarch.GetName]àe›RQßu»lgsS+RWlýVÿOD–ŽNgsS+R„vIƒŸSèÏe·u·uÒbÝub²‹'YWl„vCgZ0þfÏuäNºNû•Î˜'NÆw„vgsS+RWlýV)TLXêS(WN¬wKNô•0"
+EDG_BDX_events.13.a:0 "=f^—b%l4Yzz"
+EDG_BDX_events.13.a.tt:0 "§R[This.GetName]«ˆ†SòS„v*mAm&^pÿN»SNÔ0§!"
+EDG_BDX_events.14.t:0 "áOðNKN"
+EDG_BDX_events.14.d:0 "ôT¾kSjO:NšN2m'YF–ASWRïãSÿ|bˆRNwOg-þVpQ0pS¦^!k'YF–åNÊSN¹e„v²NLuKN0Wÿê6qmNµNu†NYCQS„v‡eSN—RYe>y:S0\n\nôT¾kSºN„vgée„vpS¦^-Å–)R‰RVyHQáOIYNwŸSËY.TN–FZWè•YeáOðN0lQCQMR70R6NªuÿtWšN¯e·V(W?–ÌRWl0W:SRËzÜbkpYeÿôT¾kSmNTOgvQÖN0W¹eN7hnˆvO†NÜbkpYe0FO=f²qS-N„vOPûPKN0WÍN	gNèRESlÝOYuNwŸSËYFZWè•YeáOðNNôvö^íuóÊNÿÙGr0W:S«ˆbìNðy:NaSòƒÌ‘¯efWÿsS0NáOYewKN0W00\n\nšN†SqS'Y'Y^NV‰V•^9eØS†NSV0WNS¿RÿôT¾kS«ˆ³ueQ†N^J-ôTKQyrÌ‘šN‹sýV„vHrþVÿ^JºNS^JY^yYe&^0R†NeÜ„v¹r–KN0W0w(WpS¦^ÿTRÀ–‹sg„v?–²w‹sˆvOiOè•Tô›RŽNT‰¹e.O­diOYeÿpS¦^ŒTôTKQyrÌ‘šN„v^JSø‹‹sýVàVdkñm×SiOYeqVÍT0dkTNCSYt^ÿiOYeNôv=fôT¾kS„vINAmáOðNÿ-NÜbkpYe–Nw(„Ês^ýV„vVgN¦^YtQÿFO¡lýw¨RGdiOYe„v„vINAm0WMO0\n\niOYe(W?–ÌRWl„vpˆK„VËYŽNÈTÌ‘ÑSýV„vVgÿKS¡riOYe’V«ˆKˆN†N0PŸs|00WMOÿFOiOYe(WÍN6qNïSMQ0WnV®Vÿs|S[Root.Monarch.GetName]„vVyHQmN(WÙ*NÇz-NˆvO†NO¯epQYe<S>m0lQCQ11NªuÿO¯e›sêNfR>mfRw³u‰S·“^`weg0RôT¾kS.OYeÿ'YybôT¾kSºNˆvOO¯e›sêN>mÿbVb†N3zúV„vO¯e›sêN>m>y:S0³u‰S=fÕl‚„›s‹sggpgúQ„v^yfR¶RKNNÿúQuŽNôTSkÿ«ˆáO’VìNSðy:N0™l?–·iIN·V·³u‰S0ÿÖN„vW„jOUÁ‰0WO(uâl¯eí‹w^—?–Éb=Oí‹RjOÿvQ-NgW„T„v=f8n°‹0(„Õl³u›s00dkTO¯e›sêN>m(WôT¾kSn`SncINAmÿ(WÕl‚„›s‹sg…QqNüRô„vO¯e›sêN>mRÂˆ-NÿôT¾kSb:N†N<SNbÌ‘>m„våb²bwÿv^N(W?–(„›YeâV(W™„äS^ýV‰V-N«ˆíeÈpNQRmpTb:N†NgIN‰„v<SNbÌ‘>m>y:S01uŽNbqN-N'YÏ‘iOYe’VŽVôT¾kS¾–ÿiOYe’VO6q(WôT¾kSÝO	gNw>N³‰Í‘„v0WMO0\n\n–NwáOIYúWcwYeBw¯eXb)R>mÿmN1S=fofYe„vKQÈp-CNî†è‰Á²Ž™„äSºNÿåNÊSOD–ŽN™„äSºN„v?–ÌRWlaSSÐc·V‹sg9eáOofYeÿofYe(WôT¾kS„vqVÍT›RNåeñOžXÿO¯e›sêN>mŒTiOYe„v0WMO×S0R†NofYe„vcb0\n\nKS¡rs|S[Root.Monarch.GetName]„vVyHQ(WFz¯e—gVg„vqVÍTNˆvO†N<S>mÿFO<S>mNôvN=fôT¾kS„vINAm0‹†6qàV:NOD–ŽN^(g?Q^ýVwN—VNhˆ°súQùR<S>m„vípñVÿFO(WôT¾kSYCQwYBg„v—RYe¯sƒXNÿ[Root.Monarch.GetName]NôvåNegv^^—g¦^T†Ú‹„v<S>mFz¯e—gÿb¸‹bìN”^å‹Í‘°e	ébNÍyôfTßu»lSV0W„v—RYejO:N˜R¹eáOðN0"
+EDG_BDX_events.14.h:0 "bó`†Nã‰0RVŸXKNè•0-N?–ÌRWl0W:S„v—RYe†SòS"
+EDG_BDX_events.14.a:0 "b„váOðNàeïS¨RGd"
+EDG_BDX_events.14.b:0 "ý–³u‰S·“^`w„vYeò‹"
+EDG_BDX_events.14.b.tt:0 "ã‰•ûN¡R0§OåbËz<SNbÌ‘O›sîv§!0(—‰=f§YO¯e›sêN>m§!YeÕlfR>m)0\n§g°ežXûN¡RMOŽNûN¡Rhg•^ïz0§!"
+EDG_BDX_events.14.c:0 "çub%VpQN–‹sN±KOŽr±„vWµN"
+EDG_BDX_events.14.c.tt1:0 "§Y[Root.Monarch.GetName]§!9eT:N§Ys|WS·V§!0"
+EDG_BDX_events.14.c.tt2:0 "ã‰•ûN¡R0§O±KOŽr±idÃ‹,‚å‚§!000§O5—^ýV„v³ù§!0ŒT0§O^JSiOYeŽfR§!00\n§g°ežXûN¡RMOŽNûN¡Rhg•^ïz0§"
+EDG_BDX_events.14.e:0 "åNN^KNT"
+EDG_BDX_events.14.e.tt:0 "ã‰•ûN¡R0§OYtQ^X	t‰šN-ðl‰Sgr–™:S§!0ŒT0§OnfNYeOTN§!00\n§g°ežXûN¡RMOŽNûN¡Rhg•^ïz0§"
+EDG_BDX_events.14.f:0 "Í‘Ãq1Wkpÿ"
+EDG_BDX_events.14.f.tt:0 "ã‰•ûN¡R0§O?–QYŽ<S·V„vcˆµ”§!0ŒT0§OóO	Nkp§!00\n§g°ežXûN¡RMOŽNûN¡Rhg•^ïz0§"
+EDG_BDX_events.14.g:0 "™R¯e0Å–xQZ0wm<h›R¯eÿ"
+EDG_BDX_events.14.g.tt:0 "§R¡lZPÿ+R	ÿ§!"
+EDG_BDX_events.15.t:0 "’dlšSUKNÅe"
+EDG_BDX_events.15.d:0 "ôT¾KQqS•ENåNegNôvOD–ŽN:V'Y„v^(g?Q‹sg0^(g?QSVt^¡l	g(uÁ”DŽŽÇôT¾KQqSS±Ì‘S:N8SqSNˆwm„v=UNŸSàVïSýw1S=fNó`ûŠTqSûS­S»SVgNGr²qS¯sÕu„v9V8NKN0W0wbcÖS^(g?QÁNHa„vãN÷Nÿ¿O=f—‰ôT¾KQqS„vs|SÏk”–àQt^&^NyrµN„v¢uRówjO:N!ÁT»SNŸ’dlšSUÐ‰Á‰Ï‚9NÿåNhˆ¾ùRvQCgZ„v²‹ïS0wÊN)YÿÈS0R†NÐ‰Á‰Ï‚9N„våePR†N0\n\n[Root.Monarch.GetName]»SÇ‹YàQ!k’dlšSUÿsS¿O‚YdkÿÖNØ=fÈSN!k0W«ˆSVãNO¯epQNLu„vÑyfRN‡ez‚-NÃVKNN„vb`RîXKNNb—¼d0÷–	T¯efW^:WNÿÔkÔkÈTªRÆYnwúR.OegOÅ–„võ‹ÏuðXÿÅˆY¾|o‚„vÍ‘Åˆ‘šuQ’c’cpÇÿegêNLuT0W„vO¯epQfRwck©º‹NwòTfR®‹˜˜ÿïSÜ`þfÏu•beQ†NèTDú^.„vNQœ=O)Y‡eðS<ONNòTÏuˆVEN¡l«ˆO(u†N0êS=f[Root.Monarch.GetName]öeNöeýwßRÉ‰0RNNV7hÿ’dlšSUÊNåe„vll<ONNNTåNŽVÿs^Y—„vlôVN­eúQN¡wƒwNgKNaÿäNºNNyAmN·QWl0\n\nSV[Root.Monarch.GetName]eg0RÏ‚9NNb(W„v«R¿kYöeÿÙÍyÝŒTaaÑS:VÈp0ÖN¡l	g×S0RûNUOêNV'`„v0kÎÿ(WÖNN«R÷^„vOwô‹fegaTmNßß¡l	g—V0RÞVYÿ1SÙ7h[Root.Monarch.GetName](Wè•YÙz†NN*NNHS04NÑPZföeÿN*N7uºNb—r‚ÝQÍ‘0WÛeQ«R-NÿckSV[Root.Monarch.GetName]ÆQY©‹ïöeÿ±*N7uºN„vOkSôv¥càràr0WS[Root.Monarch.GetName]ŒTÖN„vÆNºNždP(W0WÿÆNºNKb-N„v!ÁT¢uRówceK„N0W0[Root.Monarch.GetName]²‹úQ†NÙ*N7uºNÿÖN=f?–jSjgÉb·s|SNbÿSV0WCg¿Rq)Y„v'Y5Ïe0(W[Root.Monarch.GetName]ÎN0WN,rwöeÿÖNw0RNÜY	g*NºNNåwUOöeVËY1SpžÆ‰ürŒ˜,‚‰k‰k0WïvNwÙÌ‘ÿNåw=f(WwêñTØ=f(Ww?–jSjgÉb0ÖN<ONNþfÏuÁ‰Ç±*NºNÿ‹YÏPëS...jS’dàV0[Root.Monarch.GetName]Nöeô•NåwNbªcÿÞÙV0RÒ‰K„çuíuIr…V0ÈSIr†N¸‹ENÿ«R÷^OwJTÉ‹[Root.Monarch.GetName]ÿÏ‚9NNó`¥cÁ‰ÖNÿ‰ÖNYuN!ÁTlšN»yV0"
+EDG_BDX_events.15.a:0 "àeºN(Waÿ¹r‚YÎ‘×r"
+EDG_BDX_events.16.t:0 "^yKNè•"
+EDG_BDX_events.16.d:0 "ôTÔk&OgR=fNµ^?–aS·VºN„vÎW^ÿ(W?–aS·Ví‹-Na:N0^yKNè•0ÿþfjO:NôTÔk&O‹sýV„v–™ýÿ«ˆâl¯e^ýVVgTb:N†NŽ0tN¾s|šNÍ‘‰„vLˆ?e-NÃV0šN†SqS'Y'Y^ûQ%âl¯e^ýVTÿþf¾‹ó`SôTÔk&OjO:N^ýV°e„v–™ý06qwšN†SqS'Y'Y^(WÓumgNVÞV0RôTÔk&OTNEN¿OÅu†NÿÁýôTÔk&O„v¾‹ó`gÈuN†N†NKN0\n\n–NwbìN¨cÛ0R2N³lAmßWÿçeýÎWôTKQyrÉb>f6qÇŽN¹ÿÜ»y^ýV-NÃV0‹†6qôTÔk&OÎWéeòTØSbôT<h¾WS¹eNÜY„vWùÿFO=fbìNïSåN(WôT<h¾„vúWNxNú^ËzNµ^-T°e„vôTÔk&OÎWjO:NbìN‰V„vMRÛúW0W0bìNïSåNHeÿNšN†SqS'Y'Y^ÿS–™ýÁóôTÔk&Oÿ¦Nb=fSvQjO:NN*N‰è„vLˆ?e-NÃV0"
+EDG_BDX_events.16.a:0 "ÁýôTÔk&OšN†SqS'Y^ýV„vÃV"
+EDG_BDX_events.16.b:0 "SôTÔk&OjO:Nj–ý"
+EDG_BDX_events.17.t:0 "cƒwïQËe"
+EDG_BDX_events.17.d:0 "^X(„m<SúWÙµ^^J,rŒN'YÎW^ÈuŽNTbìNSbV†N'Yè•ÿte*NÇz-NbìNÅNm0R†N‰®V„vµb—b0SV[Root.Monarch.GetName](WOËS‘šuQ„v²bNÛeQÎW^öeÿSV0W„vlšvQ˜ºN(WÊ`P`-Nç‹V0WÑS°sÙ²øvŒŒNÖNìNîTVèT'Y„vVaNVgw>NNwôu	T³u*Y3–„v×e^ÿÙb—×e^NÖNìNÎW^N¬`c„v*Y3–×eøvîTàeàQ0[Root.Monarch.GetName]dköeÃVnoŽoCnÿÖNåwSÿÖNŒRb†N*XÔkšN†SqS'Y'Y^NV„vîX>N0ÖN„vVyHQÎNÙÌ‘NÜY„viOÉbÎWúQÑSÿú^Ëz†NºN‰|†SòSNgO'Y„v^ýVKNNÿwÖN°s(WÇøvT„v¹eVÞV0R†NÙÌ‘0\n\nKS¡ršN†SqS'Y^ýV„v–™ýiOÉbÎWéeòTS:NŸ^ŸXÿFOlšvQ˜ËYÈu=f^JgÍ‘‰„v0W:SKNNÿw»yiOÉbNÜ„v^X(„m<SúWb:N†NlšvQ˜°e„v-NÃV0bìNS(W^X(„m<SúW„vúWNxNb`YiOÉbfåe„vcƒIQÿuóïSåNS–™ýÁódk0W0NÇlšvQ˜ÇŽN`—Ñ‰è¹†uÿÜ»yßu»l-NÃVÿÁý*gÅV=f*Nfzf„v	éb0"
+EDG_BDX_events.17.a:0 "ØŽNçeý"
+EDG_BDX_events.17.b:0 "iOÉbÝ»ybìN„vßu»l-NÃVÇŽNeÜ"
+EDG_BDX_events.18.t:0 "^JS^ýV"
+EDG_BDX_events.18.d:0 "KS¡r[Root.Monarch.GetTitle][Root.Monarch.GetName]•gåNegNôvô›RŽN¨cLˆ^J‡eSÿFO=f^J‡eSmNêSAmLˆŽN5ÏeŒTåwÆ‹RPRÿùRŽN'YèRŒvÓYegô‹ÿO6q=f×Sâl¯e‡eSqVÍTôfñm0ŽN=f1SbVb†NÙ7hNÍy*`Þ‹„vofaŒÿ‹†6qbìN±RðyêñT=fšN†SqS'YçubwÿýV¶R„vT¹eb—6R¦^mNýPt’„všN†SqS'Y^ýVÿFO=fINAm„ví‹ŠŒT‡eWRØ=fâl¯eí‹ŒTâl¯e‡eÿlÎ˜NmNôf¥cÑŽNâl¯eýV¶RÿàV:NØ:S^JS„vWäX0–NwbìNVg^Jv^IQYšN†SqS'Y^ýVÿN›NfRwÐc®‹=föePV=ThQØv„v^JS†NÿFO=fÍSùRw²‹:NàVdk0N‰cêñT„v.Oßu=fASRNfzf„vLˆ:Nÿb¸‹Ø	g˜b-N„v	éb0"
+EDG_BDX_events.18.a:0 "‰Lq^SŽN^Jÿ"
+EDG_BDX_events.18.b:0 "^JNÅ–)R‰Rÿ"
+EDG_BDX_events.18.c:0 "bìNSÝOcìrhN^„v‡eS.Oßu"
+EDG_BDX_events.18.tt:0 "Nb	g§YôTKQyrÌ‘šN§!‡eS„vwýNlØS:N§Y^J-ôTKQyrÌ‘šN§!‡eS0"
+EDG_BDX_events.19.t:0 "ªuõV•^Ôk¯ebyV"
+EDG_BDX_events.19.d:0 "•^Ôk¯ebyVÑSu(WlQCQ335t^0šN†SqS'YçublšvQ˜‹sMOÿÖS—V†NÑy—g¯eTßv„vßu^CgTÿ‡suQYtr‚÷–¯eŒTO)RÌ‘šN„vÛSqN0^JºN¢c,TN0RšN†SqS'Y„vˆmo`ÿàVdk	gAmŠô‹šN†SqS'Yb‰k(W†NO)RÌ‘šN0^J	N'YÎW¦KNN„v•^Ôk¯eùRlšvQ˜Z†1VN*X„v1ŒŠñmáON‘uÿÑS¨R†NÍS—blšvQ˜8—Cg„vb‰N0\n\n^JÎW¦R«ˆM–ONENÿlšvQ˜›Q–Ø¡l	gŒRhQµc6RWS¹eÿ‚Yœg•^Ôk¯ew‹Nÿ±Å–xQºNmNO.ÍSÿ^JvQÖNÎW¦mNOßNwÍT”^ÿÅ`¿RSONÑSNïS6eþb0šN†SqS'YRs^šRŒRr‚R¯e„vÛSqNÿSV,Tû••^Ôk¯eºNÛSØSöeÿËzsS:VLˆ›QÇlšvQ˜‰è„vàeïqS:SÿˆVëV0W(W,rN)Yeg0Rr‚(„)Rÿíwíw,rAS	N)Y1S0R¾âleY‚„šNOT0•^Ôk¯eºN,T0RšN†SqS'Y'Y^òTÏuÇ)nÉlsQ„vˆmo`ÿÖNìN9h,g1SNøváOÿÖNìNZWáOšN†SqS'YòT‰k0SVÑS°sšN†SqS'Yw„veg0RâleY‚„šNTÿ¸‹Y^JÎW¦ËzsS>eV†NìrËzÿ•^Ôk¯eN—VNdR›QKYb0\n\nšN†SqS'YNó`'Y¨Rr^bÿÖNbaba<Ñ•^Ôk¯eËe R‹S›RÿIr…V•^Ôk¯eºN²‹nbV¿R0TöeÿšN†SqS'YmNVúQ†NËRšS„vagöNÿêS‰•^Ôk¯e²NúQ2N*NÛSqNINŒÿ1SNONOývzvQÖNºN06qw•^Ôk¯eºNëkN¥YOSÿŒ2R4xÂˆÿFOšN†SqS'YÍN^g•^Ôk¯eºNÞVÃVlaÿ¡l	gïygIeÎW0FO=f•^Ôk¯eºN³QšRb—e0RgTNºNÿrÑSúQ†NÊ`ºN„vb—e›RÿbNSN¦^ùRšN†SqS'YN)R0šN†SqS'Yèla0R•^Ôk¯eNµ^µOè•àV÷mb-Nw¡l	gºN2–ˆRÿÖNËzsS‹TiOSÄraS¯e‡s¹e5–zeQ•^Ôk¯eÎW0²uë`„v•^Ôk¯eëXuQ—VåwÎW-NòT	glšvQ˜›QµOeQÿŽN=fLaÙV²dÞVÎW-Nÿ‘šuQõŽekuQÿqNbNâVÿgÈub%0\n\n1uŽN•^Ôk¯eºNµb—bÀoÈpÿb‰NoØSb`SÎW0:N†N¥bY•^Ôk¯eºNÿšN†SqS'YNäNS•^Ôk¯e7Y:Ns^0WÿÅ–xQIrvQÖNÛSqNÎW¦%`ÙV®‹ŒTÿ^NBlŸSŒÿdkTQmN¡l	g^JÎW¦Æwbe.!k0"
+EDG_BDX_events.19.a:0 "0êS	g'`ŒTaw.w©‹baÆ‹0RêñT=fáQºN00"
+EDG_BDX_events.20.t:0 "ªuõV<hÉb<S“^¯e³lbyV"
+EDG_BDX_events.20.d:0 "<hÉb<S“^¯e³lbyVÑSu(WlQCQMR334t^0šN†SqS'Yçub6r²NS›RŒNN„vW×Vÿ(WéTúVùR^J„vßu»lTÿ‡s†˜lšvQ˜N^JÎW¦Äub„vTw›QŠÇ¾¾<SSwmáSÿVËYÛ›QšN2m0wSšNÆušN„vâl¯eI`cwìNmN·u·uÆ–Óuv^‰šNb(WýlÒRšNÎWY0(Wâl¯eýlÒRšN›Q‹NO®‹Nÿ^JÇ–cO›QS†˜W·V›S„vè•œQú^®‹ËeLˆ&qW?eVrÿaþV©‹šN†SqS'Y—VN0ReˆÙuw²dÿFOâl¯ekÒR¯eÂnVÌ‘	TšNI`cw?–‰Ðc¯eŒTvQÖNS†˜v^NáOûNè•œQÿŽN=fÒbÝu†NdkÐc®‹ÿv^³QšR(WSšNÆušN‰S¹eyrm·V0W:S„v<hÉb<S“^¯e³l¹³Qb0\n\nbyVNVËYÿšN†SqS'Y>mcóSü‘šuQŒTekuQgâl¯eæTüÛIeÿvQYOè–O^HTœe‹W5–RMRÛ0âl¯e›Q²‹:NlšvQ˜Tw›QaþVµOüz4xÿv^Œ>m-N.Yè–»SžX:VæTü0šN†SqS'Yw0Râl¯e-N.Y5–¿uàVŒ¨RwŒg¨Rÿ›RÏ‘mNf>fJR1VÿËzsSNäNghQ›QùRâl¯eÑS¨RI`Ieÿ²N‡sOËS‘šuQ:V!n<hÉb<S“^¯e³l01uŽNšN†SqS'Y«Ž«bà”2u®N<wÿm0R†Nâl¯e›Q–„vsIeÿ(WKQ)RþV¯eã‰QeNMb—VåNÝO‹Tv^ûQâl¯e‘šuQ0dköe^üfËu‡s†˜æTümNûQƒn†Nâl¯eóSüÿƒn„vâl¯e‘šuQNT¹e„vekuQ u.NâVÿ¸‹YS†˜ÈS(WNšN†SqS'Y!n³lùR³Qöe5–¡Nÿâl¯e›QhQ¿uƒn%0\n\nâl¯e›Q-N„v^JÇ–cO›Qªu‹V%Nfÿ•N6q	g^0W0RØš0W0FOšN†SqS'YÒbÝuÖNìN„vBlŒTÿ×SÇ–ŽNâl¯e„v^JÇ–cO›QÿšN†SqS'YäNhQ›QsIeÿÇ–cOuQ‰HN«ˆNg‰HN«ˆ“b:NtY¶–0bTâl¯e^ýV(WSšNÆušN'YèR„vI`cw(WdkbyV5–¡Nÿ?–‰Ðc¯eúQTêNg0\n\n<hÉb<S“^¯e³lbyV=fšN†SqS'Y'Y^Nâl¯e^ýV	N'Y³QšR'`byV-N„v,rN:Wÿ1r4twmN¸S„v^JÎW¦«ˆÎNâl¯eKb-Nã‰>eÿb:N†NåeTNV„vHQ4YúW0W0"
+EDG_BDX_events.20.a:0 "0°‹OOÿÏk*NºN„vLˆ:Ný³QšRNwNb	gºN„v‹TÐ00"
+EDG_BDX_events.21.t:0 "ªuõVOÏ‚¯ebyV"
+EDG_BDX_events.21.d:0 "OÏ‚¯ebyVÑSu(WlQCQMR333t^0šN†SqS'YŽN<hÉb<S“^¯e³lbyVûQ%âl¯eI`cwTÿçuíuÛ›QóSšNÆušN‰WSè0w'YAmëX	NN‡s†˜ÎN^ýVT0WÛbÆ–„v'Y›QÿÛ‰š0tQYÿFOlšvQ˜v^¡l	gúQûQÎb0'YAmëX	NNŽN=fÛ›QOÏ‚¯eÿÎNT¹eR­elšvQ˜Tw›Q„veˆÙu¿uÿëOšN†SqS'YÞV4YNâl¯e›Q²Nbÿb:WMOŽNOÏ‚¯eQgK„WS¹e„v®v³uœ¯e³l³lãS0\n\nšN†SqS'YÅbçVºNpeOY„vâl¯e›Q–OÎNæT¹eµOüÛLˆS„bÿ:N†NnxÝOæTü‰RhQÿ‹TäNè–¿lNwwm¸SMRÛ0ÈSàVâl¯e›QHQ0R¾b:Wv^`Snc	g)R„vMOnÿOlšvQ˜ÅV‰˜ga–íS„v³l¸SÛIe06qwâl¯euQ›RN„v`SOv^¡l	g:Nâl¯e&^egÜw)Rÿâl¯eekuQ.t(„vNO±R­e†Nte:Wb‹Nÿ©‹šN†SqS'YbŸRz4xâl¯eæTü5–R0ôfÍ‘‰„v=fÿ'YAmëX	NN(Wb‰N+gµkV2u»yb:WÿSëXìN˜öe›QÃVce+oÿ‰Nøv²dÿFO(Wír•„vâl¯e5–0W-N¾–åN²dÿ«ˆÎNTý0R„vlšvQ˜›Q–`SNgÿ'YAmëX	NN„v»YPRÊSÍk²N†v«ˆØOO†0\n\nšN†SqS'Y'Y^(WOÏ‚¯ebyV-NûQ%peÏ‘ÔkÖNYNP„vâl¯e›Q–ÿ=fNV,rŒN:WÍ‘‰byVÿ`YNâl¯enpˆ¡N„vSï0"
+EDG_BDX_events.21.a:0 "0bå‚N=fšN†SqS'Yÿ±b?a:N,r'k9h<S00"
+EDG_BDX_events.22.t:0 "ªuõV¨cWôVÎWb"
+EDG_BDX_events.22.d:0 "¨cWôVÎWbÑSu(WlQCQMR332t^0¨cW=fN0W-Nwm¿l¸SNµ^Í‘‰ý^ÿåNuµNñm×S5ÏeìNœU1r„vÓg™e0¨cW+t0wû•T0SVšN†SqS'Y'Y^NVNâl¯e^ýVjOböeÿ¨cW^lÒbÝueQÎW©‹šN†SqS'YøvSV|`kpÿŽN=f‡s›QôVIe¨cW01uŽN¨cW°eÎWPWK„ŽNS›SNÿÎW™X't»wm¹ÿlšvQ˜›QàeÕlåNckÄ‰¹eÕlIeNÙµ^ÎW^ÿüRôÙ:WôVÎWb†SÏu†NN*Ng0\n\nšN†SqS'Y‹TäNÖN„våTz^ìNÐ(uD–ÑŸ^VçeÎW„vŸ^ówÿú^.Nµ^•2XÿÞ¥c¸S¹N¨cWÎWNb(W„vS›S0KNTÐ(u•2XNŒTb9‚N„vIeÎWhVwQÿŠbÎW™XccÁkúQ:ãSÿIe4x†NÙµ^ÎW^01uŽNôVIe¨cW±‚9öeô•*YEN RNmc1Y%NÍ‘ÿ2a`„všN†SqS'YNäN7Ys^†NJSµ^ÎW^0\n\n¨cWbyV-NÿÑkQCST^lb‰kbm0R`SNgÿ‹†6qšN†SqS'YfMQ†N¨cWýV‹s?–Rs|aS¯eÿFO	NNYT¨cW^l«ˆ,:NtY¶–0"
+EDG_BDX_events.22.a:0 "0áQ‹NKS›RÿàeNbNb00"
+EDG_BDX_events.23.t:0 "ªuõVØš Rs|ÉbbyV"
+EDG_BDX_events.23.d:0 "Øš Rs|ÉbbyVÈSðy?–ÉbbyVÿÑSulQCQMRMR331t^0âl¯e„v'YAmëX	NN†˜¾|•'Y›Q‰šNb(W•^<hÌ‘¯e³læT¸S`—Ñ?–ÉbÎW„vØš Rs|ÉbQgÿÎbšN†SqS'Y'Y^‡s†˜eQµOâl¯e„v›Q–0\n\nKS¡rºNpe‹SP'`„v±R¿RÿšN†SqS'YØ=f‹TäN›Q–Nâl¯e›QUSVObÿÖNäNvQóSüœeTTieQÿâl¯eæTü‘šuQÂÞVÎûQÜV›QóSütSHQÜwT%ÿâl¯e„vRnbf¦N*gOYHe0šN†SqS'YÍ‘Ç‘OÏ‚¯ebyV„vbÕlÿ‡s‘šuQôv¥cÒceQLe›QæTü„v:ãSÿôvQb'YAmëX	NN„vc%c%„0'YAmëX	NNåN:N%NSòTšRÿQ¦^Ñÿâl¯e›Q˜öe²™Ÿàe–™ÿhQ¿uƒn%0\n\nØš Rs|ÉbbyV=fšN†SqS'YNV„v,r	N:W³QšR'`byVÿâl¯e›Qmc1Y…ÇAS”NNºNÿÜV›QRÅNåNpeCSºN„vãN÷Nb—VÜw)R0Ïu†SÙ:WbyVT'YAmëX	NNZgKS1YÿgÈu«ˆèSNg³Rÿwâl¯e^ýVmNmc1Y†N'YèR¾|•ÿèlšR†Nmp¡N„vÓuNS0"
+EDG_BDX_events.23.a:0 "0bNƒzÖSÜw)Rÿ0"
+EDG_BDX_events.24.t:0 "ªuõVâl¯eè•byV"
+EDG_BDX_events.24.d:0 "âl¯eè•byVÑSu(WlQCQMR330t^0–Nwâl¯e^ýV(WOÏ‚¯ebyVŒTØš Rs|ÉbbyV-Nè`%ÿšN†SqS'Y¥cÞ:YÖS†NôTÔk&OŒTÏ‚(„Ù2Nµ^'YÎWÿâl¯e^ýV'N1YNJSåNN„výVW0šN†SqS'Y¿lNwÞ¥cÏ‚(„0Râl‰¯e„vâl¯e¡VSÿT–™ýâl¯eâl)R¯eëVÛ›QÿOâl¯eºN¡l	g³Yöeô•Í‘te›Q–0âl‰¯eI`cw?–STXôTæT¯ewQ†0R¾|•è–'YèRl„(W†NØš Rs|ÉbÿŽN=f³QšR)R(uâl‰¯e¯sbVqS„v0WbVO¿RŒT¬QcR„vv`±R)Ylegµb—beQµO0\n\nSVšN†SqS'Y‡s›QÛeQ7Œ…QöeÿÖNòT¾‹ó`ïSýwOm0RLe›QÍSûQÿFOLe›Qßß*g°s«ŽOÖNVËYŒgÈa06qwÙ=f?–STXôTæT¯e„vñ‹LeñmeQKN¡‹ÿÖNIrlšvQ˜›QŒRhQÛeQírS7Œ0Wöe‹TäNËWO(WqSTN„vâl¯e›Qz6qÑS¨R­ˆûQÿTöeÎNØšY¨cNèTówÿlšvQ˜›QàVÚnK„„vèTówàeÕlÓubþv5–ÿ(W­ˆûQ-Nmc1Yè`Í‘0ùRšN†SqS'YwŠÿÙ=fÖNÎN›QåNeg–™!kmG‚YdkðVƒXÿÖNËzsSNäN²d›QÿFOT¹e›Q–àV:NNôv0RMR¹e„v¶rµQÍNNôvMRÛ0gTÿšN†SqS'Y(W™„×S%NÍ‘mc1YT²d»y0R†NÝâl¯eè•ÑmQlQÌ‘Ü„vs^fW0W&^MbbejPN0\n\nKS¡ršN†SqS'YïSåN>eVÎNâl¯eè•eQµOâl‰¯eÿFOÖNN?aab²‹êñTb%0ÖNŠbgÑ„vØOO†ý“begî•Ý‹ÿÈuŽNÎNNTT‰šNºNgrŠºNY—Våw†NNagŽV?–STXôTæT¯e5–0WT¹e„vS„V0šN†SqS'Y(WYÌ‘VËYLˆ¨RÿÖN©‹S›QKQÉbyrœ¯e‡s†˜NèRè–Yu(W%„0WGSw„v%„kpÿGPÅˆhQ›QØYu(W'Y%„ÿæSYÖNØ>mcXbÒRÆR‡s†˜N=eS–(Wâl¯e›Q%„vï„VNËWO0šN†SqS'YR²Nê‡s†˜¾|•„v‰Åˆè–ªVNwT‰šNºN„vüRVÿzÇS„V(W)Y®NMRÕu0Râl¯e›QT¹e0šN†SqS'Y‡s›QÎNT¹e­ˆûQâl¯e›Q5–0WÿwKQÉbyrœ¯e—V0R¯‹÷ST‡s†˜'Y›QÎNâl¯eè•ckb—ÑS¨RÛIe0(WMRT9YIeNÿªcKbNÊS„vâl¯e›QegNÊSÅˆY‹Yà”2uŒTfkhV1S«ˆë”^b0\n\n<ww'Y¿RòT»S„v?–STXôTæT¯e&^Nw‹kuQzôVŽVâl¯eâl)R¯eÿFOSVÖNeg0RÎWNöeÊ`É‰Ùµ^ÎW^òTÏuÌwÛS†NÖN0âl¯eâl)R¯eˆRS¯hÌ‘¾•^—Våw†Nâl¯eè•byV„vÓuœgÿSb—rŠbÎW^.sÙušN†SqS'Y0Ýug„v?–STXôTæT¯e‡s†˜‹kuQNlšvQ˜›Q³QbÿSìb?–STXôTæT¯e(W…Q„vhQ›Qñ‚ÇRb‰k0–Tÿâl¯eâl)R¯eTlšvQ˜›QVÎW•bM–0:N†N¥bYâl¯e^ýVÿšN†SqS'YNegm«R†Nâl¯eâl)R¯ev^çpÁk†N‹s«R0\n\nâl¯eè•byV=fšN†SqS'Y'Y^NbG0R„vg'YcbÿmN=fâl¯e^ýV„vÌw4lNb0Ù:WbyV-Nÿâl¯e›Q‹†6qNwQO¿RÿtSUS°súQ†Ng'Y„vÇRl0"
+EDG_BDX_events.24.a:0 "0îrPR‡s†˜„vŠ²ÜÜwŽNõuŠ‡s†˜„vîrPR00"
+EDG_BDX_events.25.t:0 "ªuõVwm¾¯eiO¯e³lbyV"
+EDG_BDX_events.25.d:0 "wm¾¯eiO¯e³lbyVÑSu(WlQCQMRMR326t^0(WûQ%†Nâl¯e^ýVTÿšN†SqS'Y'Y^çuíuTpS¦^Û›Qÿv^Twm¾¯eiO¯e³lTu„vpS¦^‹sýVÑS¨RÛIeÿýV‹sâlW¯e‡s›QÎLe0Ù:WbyV-NâlW¯eO(u†NbaŒùR—blšvQ˜›Q–ÿÏk”–NµkÝ»y1SM‘rN4YbaŒÿOþV(ubaŒ1Žeg4xOWlšvQ˜¹e5––bVÿv^Ê`T‘šuQ„vblš0\n\nšN†SqS'Y‡s†˜OËS‘šuQNâlW¯e„v‘šuQ²Nbÿv^‹TäNS†˜Ñy±¯eÕu0RT¹eÑS¨R­ˆûQ0pS¦^‘šuQ(WLaqN-NNLeÿŽVñT¹ebaŒ¹e»SûRBlÝO²b0lšvQ˜ekuQ¹eÇhªgŒTS­rŽVbaŒŒTNb—„vbXTIeûQ0(WbaŒ²QûQ1ŽNÿlšvQ˜¹e5–w–eQ÷mqN0N›NpS¦^‘šuQÍ‘te×eŸTQNšN†SqS'Y„v‘šuQ³QbÿFOÈSN!km0RûQTbaŒY»SÿwšN†SqS'Y‡s†˜„v‘šuQmNŠbLe›QŽV-N.Y2c‹S0(W÷mb-N¸‹YbaŒw–eQÂrqNÿNjP„væT²QóSzÿwSVbaŒŽVlšvQ˜ëXuQ²QÇegöeÿlšvQ˜ºN1SÿbaŒN1SMRÛIeûQÿv^(uhªgIeûQbaŒ0ÍSÂ‰pS¦^ëXuQ«ˆlšvQ˜‘šuQŽV-N.Y2c‹S0RbaŒ-Nô•ÿm×S†N%NÍ‘2O¡NÿgÈu(WlšvQ˜›QSôVNhQb—)Tƒn0\n\n(Wb—e-NÿýV‹sâlW¯ejObñ‚ÇRÿñm×SšN†SqS'YOÆ‹ÿb%T«ˆšN†SqS'YûN‹T:NSV0WI`cw0:N†NªuõVÙ:WÜw)RÿšN†SqS'YTeg(Wb:WD–Ñú^ËzNµ^ÎW^ÿ‹TT:N0<S‰šN0ÿsS0Üw)R00\n\nwm¾¯eiO¯e³l=fšN†SqS'Yc%c„vgTN:W'Y‹WObÿ‹†6q(WÙ:WbyV-NÖS—V†NÜw)RÿFO²uë`„vëXuQKNTNEN1SÑSu†N×TØSÿëXuQìNÒbÝugbLˆçuíuÜVpS¦^…QF–„v¡‹RÿšN†SqS'YN—VNÆQYÔÞVôTÔk&O0"
+EDG_BDX_events.25.a:0 "0bT`OÝOÁ‹ÿbR?a(WSSŠMbÆ‹NÜwÇÖNºNÿw^—›RÏ‘NCg¿R00"
+EDG_BDX_events.26.t:0 "^ýVKNT"
+EDG_BDX_events.26.d:0 "bìNŒRbàeºNbe¾‹ó`„vO'Y„vîX>NÍ‘ú^VyHQšN†SqS'Y'Y^„v^ýV0°s(WÿbìN—‰:N^ýVnxšRN*NÍT®N„vTWR0"
+EDG_BDX_events.26.a:0 "?–	T·V^ýV"
+EDG_BDX_events.26.b:0 "lšvQ˜^ýV"
+EDG_BDX_events.26.c:0 "šN†SqS'Y^ýV"
+EDG_BDX_events.26.e:0 "^JS^ýV"
+EDG_BDX_events.26.f:0 "ÝOYu<SNbÌ‘^ýV„vTWR"
+EDG_BDX_events.26.g:0 "ÝOYu5—^ýV„vTWR"
+EDG_BDX_events.27.t:0 "šN†SqS'Y‚Wêl..."
+EDG_BDX_events.27.d:0 "šN†SqS'Y'Y^Zft^,Tû•?–±KQ(„“^¯e„vXR(Wàepe*NNLu„vGPô‹öexo6qêlNÿÖN„vgËSî•ÖN:NÀNHNíTÿÖNô‹ÞVTrS0NLu	gàepe*NÿwbÞN*Ný¡l	gVgÿÙ¾–SNäNºN2OÃVK„êlTÿ00\n\nbìNàeÎN—Våw=f&Tw„vXR(Wàepe*Ns^LˆNLuÿFO=fóSbìNNbY„vNLu=fwžRXR(W„v0×‹ºNìNcNw|^ÑSÉb•^³lTu„v‹k4xówñgahaS0wJUÿÙ1S=f^yKNPRh–K„KNYÿ0ÿwb„vôu	T³u*Y3–éeòT cÇÙ›NWùÿTNwôfÜ„v‰¹eØ˜lb0šN†SqS'Y„vçuNwìN:N4xŽx^ýV®SNgÿwbìNxN†NÛSqNw„v4Y…˜ÿåNžR›RnxËz†NÝuùR„v‹sCgÿ	NASÍyí‹Š„vÕlxQnxËz„vQY¦u«ˆIRÛTN9hówñg0šN†SqS'Y„vÑ‘úh(WÃWÊSàeºNåwSf„vu–“X-NPKgÿwbìN„všSckSôT¾kS„v¢uRów0ÃWÊS„v7ŒirNlšvQ˜„v'YtówÇubN.VN­eib'Y„vHrþV0šN†SqS'Y,Tû•àepe*NNLuTxo6qêlNÿwbìNéeòTØVtS†N²`2OÿàV:NÙ*NNLuNØ	gàepe3–IQN„vW0WIrNwbìN»Sÿb0"
+EDG_BDX_events.27.a:0 "...wbìNçuíuMRÛ"
+EDG_BDX_events.27.a.tt:0 "ã‰•–Ï…ûN¡R0§TdkNQàeV§!00"
+EDG_BDX_events.28.t:0 "ÎNegNïSbÜwÿ¦NïSŒKN.OGY"
+EDG_BDX_events.28.d:0 "SVÅ–xQ„v†SòSfR¶R:NšN†SqS'Y„v.OGY1Œ™Q°e„víuÇrÿSVôT¾kS„vmyøS(Wów‘xIR-NûmN'Y^„vSTÿSVôTÔk&O„v`Sf^²˜–bNwSf°hùN^ýV„vONøvÞÿçeNLu„v¹Lu(W[Root.Monarch.GetName]„va×VMRp6q)TLX«ˆVgw„vÄžÑ‘”qø”b‡ef„v Q•QÿÍSùR>m„v‰U‚(WïQËeV2NµO„vÚV<r-N‰lØžÿw¾žN‰˜ÑS†v‹v„vwuQìNðNw4Y…˜ÿÖNìN‘esš„và”2uIRánÎNwm¾¯eiO³l0R<hÉb<S“^¯e³l„v°‹ÆV[Root.Monarch.GetName]ÎNN*NÜw)RpTæSN*NÜw)R0àepe‹NžRòTÏuÁ‹fÿ[Root.Monarch.GetName]v^^—áQºNÿ[Root.Monarch.GetName]=fNKg„v°sNKN^yÿ=f'Y0WKNN8lR`Ãqçp„v*Y3–0àeº‹[Root.Monarch.GetName]«ŽóUOYÿãl†vïO–™leÜbÿØš|TNwT7h„vÝ‹í‹ÿ0>T‹sNS00"
+EDG_BDX_events.28.a:0 "8lu„v^‰ŠòTÏuSbSôV"
+EDG_BDX_events.29.t:0 "‰wSOáQÎw"
+EDG_BDX_events.29.d:0 "SV[Root.Monarch.GetTitle][Root.Monarch.GetName](Wr‚÷–¯eérsN4YÄ–žöemG†NN²Nf«ŽýN:R¢R„vOûQ0[Root.Monarch.GetName]„v1rlš«ˆ‹NHQ^n‹Y„vw–1–ÊuPÿNT:R¢RÕ‹þV¥cÑv^­ˆûQP0W„v[Root.Monarch.GetName]ÿ[Root.Monarch.GetName]œg­eÔbQRNKNd—ev^bŸRÍSNg†N­ˆûQwÿvQÖN„v:R¢RmN«ˆOkSNg‰kÿ=UNN*N«ˆØOO†„v:R¢R	éb†NgÒkêKS0vQ-NNTOkS«ˆÒk­rS-Nÿ(WÔÞV[Root.Capital.GetName]„v-N‰kLwÿ0t'`[Root.Monarch.GetName]ëkÑSàe2O0\n\nckSV[Root.Monarch.GetName]ÞV0R[Root.Capital.GetName]:NÇN«R†^x^„vöePÿÖNa0R«ŽSONÿVËY³TýUÿðu-NØeu&^NˆNÿïSýw=fïNNwÉQNbô06qwÿàQ)YTÇu¶r RÍ‘ÿVËYÑSçp0øwÛuÿNëk¡l	g·^Y„vùaŒ0ôv0Rdköeÿ[Root.Monarch.GetName]VËYaÆ‹0RÿêñTv^^—'Y0WKNN„v*Y3–0"
+EDG_BDX_events.29.a:0 "÷‹N*N­‹Ãu	g.t„vISu"
+EDG_BDX_events.29.b:0 "0bÜwP`ç`1SýwbÜw‰k¡N00"
+EDG_BDX_events.30.t:0 "¾idKQ)R¯eKNQR`WN"
+EDG_BDX_events.30.d:0 "wRÿºNìNåN:NÙêS=fN!knf„va’QÿFO¡lÇYEN[Root.Monarch.GetTitle][Root.Monarch.GetName]„vÅuÅ`1SÅv`Sÿôv0RgSŠ^Nwÿ4O–NwcíuØšíp0¯TNˆ0|T8TðV¾–0aÆ‹!jÊ|ÿ«R÷^-N„vÆNºNmNVËYúQ°s†N‰|<O„vÇu¶r0ÙöeÿºNìNMbaÆ‹0RÙN=fnf„va’Qÿw=f0‹vr‚v«u00KS¡r^ýV„vISfR¶RŒTã‰VRfR¶RùRÙÍy¾uÅuÛLˆÇNšRVR'`„vxvzÿFOîvMRÍN6q«ˆ²‹:N=fN»lKNÇu0\n\npegMR R•QêNVNØl‡Rifÿ›Rå‚^yf„v[Root.Monarch.GetName]°s(WòTÏuDYDYNo`ÿïS=fçubºN„vî•˜˜O6q¬`w*g³Q0[Root.Heir.GetName]8^«ˆºNìN²‹:N=fckßuçubºNÿFO=f[Root.Heir.GetName]:SZg¾–åNgOÿckIrNw«ˆ[Root.Monarch.GetName]fnxcšR:NçubºNN2•šRó—06qwÿSV5ÏeN'YãìNTgSÅu(WŠ^„v[Root.Monarch.GetName]â‹î•çubºN‹NœRöeÿéeòTaÆ‹!jÊ|„v[Root.Monarch.GetName]ÙuúQ†NN*NÊ`ºN„vTrHhÿ"
+EDG_BDX_events.30.a:0 "§R0Ùug:Vwÿ0§!"
+EDG_BDX_events.30.a.tt:0 "VËY§RçuNwb‰N§!0\n§YçuNw§!ìNSF–íu±R^1»y^ýVv^øv’N²Nb0`S†˜§YçuNw‹sýV§!„v§Y–™ý§!v^ÖS—V§G50%b‰NRpe§!åNb—Vb‰N0\n§RçuNwb‰N§!O(u§M¨R`b‰N§!:g6R0\n\n1uŽN§YçuNw‹sýV§!ìrËzw1Y»S„vwýNS—V0RN*N8lENîOckåNeˆPàVdk0N1Y„vòTibú^„v§YúWNx¾‹Ëe§!0"
+EDG_BDX_events.31.t:0 "lšvQ˜I`cwÛSqN"
+EDG_BDX_events.31.d:0 "lšvQ˜I`cw±Rðy[Root.Monarch.GetName]„vçubz^XR(Wî•˜˜ÿåNqšárMOw:NPãSÑS¨R†NÛSqN0"
+EDG_BDX_events.31.a:0 "°šPRòTÏu·cN"
+EDG_BDX_events.32.t:0 "šNÆušNI`cwÛSqN"
+EDG_BDX_events.32.d:0 "šNÆušNI`cw±Rðy[Root.Monarch.GetName]„vçubz^XR(Wî•˜˜ÿåNqšárMOw:NPãSÑS¨R†NÛSqN0"
+EDG_BDX_events.32.a:0 "°šPRòTÏu·cN"
+EDG_BDX_events.33.t:0 "ÃWÊSI`cwÛSqN"
+EDG_BDX_events.33.d:0 "ÃWÊSI`cw±Rðy[Root.Monarch.GetName]„vçubz^XR(Wî•˜˜ÿåNqšárMOw:NPãSÑS¨R†NÛSqN0"
+EDG_BDX_events.33.a:0 "°šPRòTÏu·cN"
+EDG_BDX_events.34.t:0 "âl¯eI`cwÛSqN"
+EDG_BDX_events.34.d:0 "âl¯eI`cw±Rðy[Root.Monarch.GetName]„vçubz^XR(Wî•˜˜ÿåNqšárMOw:NPãSÑS¨R†NÛSqN0"
+EDG_BDX_events.34.a:0 "°šPRòTÏu·cN"
+EDG_BDX_events.35.t:0 "?–Éb—‰šNI`cwÛSqN"
+EDG_BDX_events.35.d:0 "?–Éb—‰šNI`cw±Rðy[Root.Monarch.GetName]„vçubz^XR(Wî•˜˜ÿåNqšárMOw:NPãSÑS¨R†NÛSqN0"
+EDG_BDX_events.35.a:0 "°šPRòTÏu·cN"
+EDG_BDX_events.36.t:0 "^ÐcšNI`cwÛSqN"
+EDG_BDX_events.36.d:0 "^ÐcšNI`cw±Rðy[Root.Monarch.GetName]„vçubz^XR(Wî•˜˜ÿåNqšárMOw:NPãSÑS¨R†NÛSqN0"
+EDG_BDX_events.36.a:0 "°šPRòTÏu·cN"
+EDG_BDX_events.37.t:0 "pS¦^I`cwÛSqN"
+EDG_BDX_events.37.d:0 "pS¦^I`cw±Rðy[Root.Monarch.GetName]„vçubz^XR(Wî•˜˜ÿåNqšárMOw:NPãSÑS¨R†NÛSqN0"
+EDG_BDX_events.37.a:0 "°šPRòTÏu·cN"
+EDG_BDX_events.38.t:0 "G•‹SI`cwÛSqN"
+EDG_BDX_events.38.d:0 "bìN„v›Q–òTÏuµc6RÛS›Q„v–™ýÿÛSqN„vI`cwbìNY‰kÿÖN„v8SSO«ˆÐ0R[Root.Capital.GetName]USÈ‰:yOÿ-fJTNºNÌwÛS=U	g‰kïNag0"
+EDG_BDX_events.38.a:0 "Üww:N‹s"
+EDG_BDX_events.39.t:0 "”ŠKN‰k"
+EDG_BDX_events.39.d:0 "0îrPR‡s†˜„vŠ²ÜÜwŽNõuŠ‡s†˜„vîrPR00\n\n(W1V‰w:Vß˜„vçuNwb‰N-NÿîrPR[From.Monarch.GetName]Ng‰k†NõuŠ[Root.Monarch.GetName]0"
+EDG_BDX_events.39.a:0 "Üww:N‹s"
+EDG_BDX_events.40.t:0 "©e­e¾idKQ)R¯eKNQR"
+EDG_BDX_events.40.d:0 "ÏkSVÞVó`wÙz(W6r²NŠ^¹Ir…V6r²NcšRçubºN„v±*NYZfÿ[Root.Monarch.GetName]ýÉ‰—V(Wwm-N„vÙµk°‹ÆVv^NwžRÿÎN6r²Nô‹úQ0Ùug:Vw0VËYôv0R°s(WÑSu„vNRN:W•¦hN,‚0\n\nNTaêñT„v6r²Nÿ[Root.Monarch.GetName]ê|^N„U²NE–ÿ(WNAm6–BS-N:ONºN	ÿ(Wb:WNmN¡l	gÇ±›N:NºN%m%mPNS„v.OGY‹Nù0ÖNNôvIm(W6r²N„v4–qVKNNÿ6r²N‚YT'Y0WNÃqçp„v*Y3–×SºNv˜<yœÜbÿÖNtSI`=fØžØžàeû•0‹†6q=fºNìN‰NHQP`T0WMRegIYbêñTÿFO=f[Root.Monarch.GetName]ÃVÌ‘f‹vÿÙNRv^^—úQŽNSleÿwêS=fàV:Nw-NÖNSVMR„v0WMO0[Root.Monarch.GetName]ÎN*gó`ÇÿÖN	ggNåeßzmNýwÙz(W[Root.Capital.GetName]KNÅTÿäNNb	g…Æ‰ÇÖN„vºNSSŽNN0[Root.Monarch.GetName]N¦^åN:NêñT1Y»S†Nçub‹sMO„vCg)RÿFOSVÍSÛSwN*N¥cN*N«ˆxNöeÿ[Root.Monarch.GetName]aÆ‹0RÿÙNRÅNÅNêS=fN:WwŒšÿêT›N`‘uÖNýw›R„vºN0êT›Nv^^—úQŽNSle„v?–ŒIYbw0êT›NáOIY1V‰w:Vß˜KNºNÿQmNNbeÃVu‚YUO^—RKNó`0[Root.Monarch.GetName]ÎN*ga×S0R«ŽSO‚Ydk‰Èv0\n\nâe6q=fÙug:Vwÿ±HNÿ0begÿbÖSÿ0"
+EDG_BDX_events.40.a:0 ")YàeŒNåeÿýVàeŒNIN"
+EDG_BDX_events.41.t:0 "Q.šN†SqS'Y^ýV"
+EDG_BDX_events.41.d:0 "þfàQUOöeÿbìNØ(WôT¾kS„v²qSSôVN>P,TÙVyHQšN†SqS'Y'Y^„v.OGYÿ‚YÊNÿbìN¿O=fÙ.OGY„vNèR0†SòSS:NbìN„v0NŸRON°‹NSm¨XÍ‘iV„vNrÿšN†SqS'Y^ýV(WR)T»yg„vNCSYt^KNTÍ‘°eySËzŽNNLuHrþVKNNÿ?–	T·V¶RÏe„vVyHQNQ:NTºN„vs^s^àeGYw™„žÿàepeô‹NwNTí‹Š0áOðNNwNT—RYe„vãl†vuIYNwTNMO^‹s[Root.Monarch.GetName]0dköev^^—Èu¹pÿbìNS…ŠšN†SqS'Y„vONÿbìN„výVW¡l	g¹†uÿ^ýVSÏP‚YTàe W„vÍ‚yzÿw[Root.Monarch.GetName]¿O=fÍ‚yz-NØš¬`„v=UN„v*Y3–0"
+EDG_BDX_events.41.a:0 "«Ž‘šNLu„všlš"
+EDG_BDX_events.42.t:0 "RVNY"
+EDG_BDX_events.42.d:0 "[Root.Monarch.GetName]ÞY»yV’dlšSUöeÿÈuŽNÎN^l„v.OŠ-N†Nã‰0R†NÍyÍy*`‹NÌwT„vŸSàV0êÎNwÏ‚9N™lÈTœúQuQ|TWÊss^ÛSÞVegTÿÏ‚9N1SˆVEN¡l(W5ÏeMR2—Çb—†N0	gAmŠô‹wÏ‚9NòTÏu‰NLˆ†NÿçubºNNQœ=OÜ(WœU(„Sÿw‹sTó`.OMOÙuYRPR?–wPLRÿàVdk’dlšSU„v5ÏeìN·u·u—f-NÉb.^Óu>mÕ‹þVåbËz=ec„vçubºNÿÙÍy—f—eÑåeòTÏuÛeQ†N‹vípS„v6–µk0\n\nÞVôT¾kSïN„vYÌ‘ÿ[Root.Monarch.GetName]ºŽ(W%„0WÌ‘ckÆQYawÉ‰0ÖNÞVÆVwþfÏu(W’dlšSUÁ‰0R„v™lÈTœÿ±öeÖN=fte*NþVpQ„vIN°RwÿZÎ˜ÛQÛQÿNïSNNÿäVKNºN„v4Y…˜«ˆxNZPbR‘ogÿhQ)YN„vfRwMReg:NÖNW„fNËz.Oÿw[Root.Monarch.GetName]Ùz(WÖNb—MR‚YTËUpUÿ‚YÊN™lÈTœtSñ‚Ä–ß®fÿûNºN°RrRÿ[Root.Monarch.GetName]ó`0RÙÌ‘N1uaùS0ÖNþfÏuY!k‰^ó`ÇêñTmNýwŒT™lÈTœN7hZ—ÛV¹eÿuóÏPêñT„vVyHQšN†SqS'Y'Y^N7hT‚WR—òSÿNNðNUa06qwNRêS=f‰^ó`ÿjO:NšN†SqS'Y'Y^„vTºNÿêñTtSêSýwOP‰RŽN¹r–9V8NKN0W0ÙöeÿN*NõV4Yz6qÎN[Root.Monarch.GetName]-N’Q†NúQegÿb¸‹	ggNåeÿêñTýwÖSãN™lÈTœ„vTºNÿŠbte*NþVpQ)Ž(WN0ó`0RÙÌ‘ÿ[Root.Monarch.GetName]·QWlôvAmÿv'tSbOO†NÙ*NõV4YÿàV:NÖNïSNó`êñT„v4Yb:N¬NÂ‰„vNèR0ïS=fSVZf(W[Root.Monarch.GetName]awNwTÿÙ*NõV4YÍNßßNýwce»SÿN*NðXó—(Wwm-NN­e0WÞVaƒÿ"
+EDG_BDX_events.42.a:0 "0ÖSwãNKN...	gUONïSÿ0"
+# EDG_BDX_events.43.t:0 "?–ÌRWl—RYe†SòS - äSxQöeãN"
+# EDG_BDX_events.43.d:0 "?–ÌRWl0W:S„vgée„vpS¦^-Å–)R‰RVyHQáOIYNwŸSËY.TN–FZWè•YeáOðN0lQCQMR70R6NªuÿtWšN¯e·VRËzÜbkpYeÿ8^²‹:NÜbkpYegéeúQ°s(W?–ÌRWlÿàV:NtWšN¯e·V«ˆ²‹:N(WôTSkuImŒT»SN0SVöeÿ?–ÌRWl0W:S«ˆðy:N?–Ì‘‰R±ÿWSè„v?–Éb—‰šN=fÜbkpYe„v'Y,g%„ÿÜbkpYeÏuxQ0?–ôu¯eN–0mN=fÎN?–Éb—‰šN.OeQâl¯e„v0‹†6q?–ÌRWl'YèRESlˆvO†NÜbkpYeÿFOôT¾kS²qS-N„vOPûPKN0WÍN	gNèRESlÝOYuNwŸSËYFZWè•YeáOðNNôvö^íuóÊNÿÙ›NºNNb(W„v0W:STeg«ˆFz¯e—gðy:NaSòƒÌ‘¯efWÿsS0NáOYewKN0W00\n\nšN†SqS'Y'Y^VgôTKQyrÌ‘šNTÿú^Ëz†N¸‹YåNšN†SqS'Y‹TT„vÎW^jO:N^JºN„v–kl0Wÿ^JY^yYe«ˆ^JºN&^0R†NÙGreÜ„vW0WÿFO=f^JY^yYe„vqVÍTÅNP–ŽN^JºN„v–kl0WÎW¦ÿv^*g9eØSSV0W„v—RYeÓu„g0\n\nTRÀ–‹sg„v?–²w‹sˆvOiOYeåNTÿN^JºN„v^X	täS^ýVÓußvÿv^ÎN^X	täS^ýVKb-N—V0R†N?–ÌRWl„vW0WÿdkT¿ONôvô›RŽN>mcOwT‰¹e.O­diOYe0(WTRÀ–‹sg„vqVÍTNÿ‰¹epS¦^ŒTôTKQyrÌ‘šN„v^JSø‹‹sýV'YybºNãSˆvO†NiOYeÿuóÏu1u‰ßW.O­d0R†NeÜ„v-NýV0(Wdkgô•ÿ^J‡eSNiOYe‡TÿbVb†Nìryr„v^JSiOYez‚=g0TRÀ–‹sg)TƒnåNTÿpS¦^-^J‹sýV„vVgws|WS·VNN0QeIN0ÿbðyKN:N0%VpQN–‹s0ÿö^íu†NùRiOYe„v²NPw0s|WS·VT'YXNiOYeASkQWIlKNN„v0c3wWIl0±KOŽr±ÿ±HQÔkN	ÿâ‹î•iOYeYeINÿNKN¢c¨‹Nû|RòTfRî•˜˜ÿÙÙ›NùRÝ‹«ˆtet°d:N0±HQÔkNÏu0ÿÈSðy0%VpQN–‹sî•Ïu0ÿb:N†NTegÍ‘‰„viOYeÏuxQ0\n\nlQCQ1NªuÿVg†N^J-ôTKQyrÌ‘šN„vglºNeQµO?–ÌRWlŒTSpS¦^ú^Ëz†N5—^ýVÿv^ÛNek¨c¨R†NiOYe„vAucƒ0lQCQ3Nªuÿ?–ÌRWlÈS«ˆâl¯e„v(„Ês^ýVVgÿÜbkpYe(W?–ÌRWl‰è„vqVÍT›RN­eib'YÿN¦^YtQÿFOØ=f¡lýwÖSãNiOYe„vINAm0WMO0"
+# EDG_BDX_events.43.a:0 "çuíu"
+# EDG_BDX_events.44.t:0 "?–ÌRWl—RYe†SòS - -NNªu"
+# EDG_BDX_events.44.d:0 "ê?–²w‹sT„vÑCSt^ô•iOYeNôv=f?–ÌRWl„vINAm—RYeÿsS¿O=f(W«ˆÈTÌ‘ÑSýVVgåNT0iOYe(WÈTÌ‘ÑSýV…Qè«ˆ²‹:N=fNÍyïS¹RÍV„v—RYeÿ?–ÌRWl„viOYe’V«ˆKˆN0PŸs|00WMOv^«ˆAQ¸‹ÎN‹N—RYeIm¨RÿôTSk„v±FZ×kÃ‹Wb:N†NÍ‘‰„vIm¨R-NÃV0lQCQ8Nªu„vôTSkwIN«ˆ?–Ôb¯eÈTÌ‘ÑSG•‹STÿ'YÏ‘iOYe’VŽV†NŽN–ŒTUgÿ±FZ×kÃ‹W„vLˆ?e•˜RˆvO†NO¯epQYev^ÅbûN?–Ôb¯e‹sg„vôuPŸSÿÖN„vPRYR-NgW„T„v=f0)Y¹eY-Œ0-N„vINÒ‰KNNÿâl¯eôuPŸS>ÕlS·O,g·öSwmšN0\n\nlQCQ11NªuÿáOIYÀNöS>mO¯e›sêNfR>mR=e„v<SNbÌ‘>m„v³u‰S·“^`weg0R?–ÌRWl‰S„vôT¾kS.OYeÿ¸‹YESl(W³u‰S„vaìSNˆvO†NO¯e›sêN>mÿ(WSV0WbVb†NN*N3zúV„vO¯e›sêN>m>y:Sÿ³u‰S·“^`w«ˆáO’VSðy:N0™l?–·iIN·V·³u‰S00³u‰S·“^`w=fÕl‚„›s‹sggpgúQ„v^yfR¶RKNNÿúQuŽNôTSkÿÖN„vW„jOUÁ‰0WO(uâl¯eí‹w^—?–Éb=Oí‹RjOÿvQ-NgW„T„v=f8n°‹0(„Õl³u›s00\n\n?–Ôb¯e‹sg1Y»SùR?–ÌRWl„vµc6RTÿO¯epQS„vÇzmNíw‚f>eÿFO=f RyQ<S‹sg„vTwb:N†NN*NÍ‘‰„vl˜b¹p0 RyQ<S‹sg‹†6q=fN*Nz¥S‹sgÿFO=fÏ‚9NlšÈTƒ·Vg›R¨cTâl¯e„vO¯epQ‡eSÿv^Ž÷‹NLuT0W„vW„TO¯epQfRwÿÕ‹þVS RyQ<SSb.:NN*NO¯epQfR=g-NÃV0(WlšÈTƒ·VÏ‚9Nßu»lgô•ÿ?–ÌRWl„vFz¯e—gºNãS…Ç†NiOYe’Vÿb:N†N°e„vINAm—RYe0\n\n RyQ<S‹sgpˆK„TÿáOIY'YXNiOYe„väSS‹sgûQ%ÿv^ÑS¨RNVN¦^Vg†NSpS¦^ÿ?–ÌRWlŒTpS¦^„viOYeÎeg†Níw‚f„vYtQ06qwäSS‹sg(WpS¦^„vßu»l(WlšFzœKQ„vÛSqN-NÅ)Tƒnÿ–T(W?–ÌRWl„v'YèR†˜WÈS«ˆS¹eTw„v±‚LRPR!j‹sg„v™l?–idÃ‹+gTv^ÿgTÅN(W²qSSôV„väSSŒTôTs|lbhT¹ØôucNwßu»l0(W™„äSºNVg±‚LRPR!j„vÇz-Nÿ?–ÌRWl„viOYeúR™^ŒTz‚=gÁTm0R%NÍ‘4xOWÿSV0WòTÏupˆK„„viOYeÎeg†Nô‹TNûQ0KS¡r™„äSºNßu»lgô•iOYeÈSåNÏ….OiOYe„vbVVíw‚fÞVRVÿFOvQ(W?–ÌRWlˆVëV«ˆúWcwYeÖSãNÿ‚YÊNiOYeÅN(W-N‰è„v²qS-NØÝOcNwqVÍT›R0\n\nêb	T`WlßuN™„äSIƒŸSKNTÿáOIYofYe„vKQÈpèŒTCNî†è(WïSWlHSúQ‹V„v&^†˜N‰Áÿv^gÈueg0R9ÉbkšRES0(WdkÇz-Nÿ¸‹YúWcw’VYu(W†N?–ÌRWlÿvQ-NN›NºNb:N†N.OYeëX(WOD–ŽN™„äSºN„vaSSÐc·VO¯epQ‹sgƒX…Q.O­dN^„vyó—01uŽNOSWlýVT^Wl„v—RYeËR¹R?eVrÿofYe(W?–ÌRWl^Ûl.O­dv^kXeˆ†NiOYezzúQu`MOÿaSSÐc·V™l?–(W.OYeëX„vqVÍTNˆvO†NofYeÿv^b:N†NÂríp„vofYe¨cTw0ofYeVËY(WaSSÐc·V‹sg„vT'YÎW^-Nnb:NINAmÿFOOPÜ0W:S„vnfÀNþVèK„'YèRO6qÝOcNwO¯epQáOðN0"
+# EDG_BDX_events.44.a:0 "©‹b	éb—RYe'T"
+EDG_BDX_events.45.t:0 "ý–5—^ýV„v³ù"
+EDG_BDX_events.45.d:0 "lQCQ1NªuÿglºN(WýV‹sN1StS„v†˜üRNVg†N^J-ôTKQyrÌ‘šN‹sýVÿ¥c³u†NôTKQyrÌ‘šN„v^JS‡eSÿv^zÇV=OSqSãSeQµOpS¦^ÿú^Ëz†N‰Só(gžŒT±‚LRPR!jÿNWSóžÎ‘Ñ‚ŒTNSlÎW„v5—^ýV05—^ýVßu»lgô•Îeg†NÑ2NŒvt^„v‡eSAucƒ„vøvùRŒTs^öegÿ«ˆðy:N05—»lN00ÖNìNÇ‘(u9e„v^JWRÍkfN™QêñT„ví‹Šÿv^fR`N^JºNÛLˆø”^0ÖNìNØçub†NôTKQyrÌ‘šN‹sýV„v^JSiOYe.Oßuÿv^'Y›R^©RiOYeAucƒÑSUS05—^ýV„viOÏP0ú^QrÊSÕ–IR'YÏ‘Pt’^J‡eSÿbVb†Nìryr„vrN–Wz‚=g0ôTKQyrÌ‘šNýV‹sæ‰r‚KO‹sNN'Y^(WMOgô•ßuTiOYeTè„v`ó`ÿO'YXNiOYeµNuvQÏ–‹Wÿøv.OiOYeÏuxQ0'YØkFZ™lº‹0(WÖN^©RNb05—^ýV	gY*N–™ýÿvQ-NSìbrN–W„v²ƒ±‚ÎWÿsSÊN)Y„v‹v™læt0^J-pS¦^‹sýV„vÍ‘‰ÎW^ŒTÉSËYWÿåNÊS¬QcR–™ýãyßƒW0\n\n‚YÊNÿbìNý–5—^ýV„vekÿVgv^ßu»l†NSpS¦^0FO=fbìNNObkekŽNdkÿte*NpS¦^!k'YF–ýS«ˆbìN6eeQÊV-N0Aucƒ„vpS¦^:NbìNÐc›O†NÖSKNNíz„v0ÌRÿb¸‹bìN”^å‹fR`N5—^ýVS–™ýÁópS¦^ÿv^SpS¦^jO:NbìN°e„vßu»l-NÃV0bìN”^å‹	ébêTNµ^pS¦^ÎW^jO:N°e„v–™ýÿ"
+EDG_BDX_events.45.a:0 "²ƒ±‚ÎW"
+EDG_BDX_events.45.b:0 "ŒTÉSËYW"
+EDG_BDX_events.45.c:0 "ãyßƒW"
+EDG_BDX_events.45.e:0 "bìN=fVgwÿpS¦^=f«ˆVgwÿÅNdkwòT"
+EDG_BDX_events.46.t:0 "Q4N’dlšSU"
+EDG_BDX_events.46.d:0 "SV[Root.Monarch.GetName]QN!kŽeQ’dlšSUÎW-NöeÿNCS°‹ÆV¹r‚Yno4l,‚ŒmeQ-N0[Root.Monarch.GetName]ùRÙµ^ÎW^v^NL–uÿÕkßzê|^1SþfY!kMRŽV’dlšSUÐ‰Á‰™lÈTœÿFO=fÙN!kNTåNŽVÿàV:N°s(W[Root.Monarch.GetName]=fåNVgw„v«ŽýNT4NÙµ^ÎW^0[Root.Monarch.GetName](W’dlšSUm×SÇ¸‹Y!k·QGÿ‚YÊNêT›N²PbaNïSNN„v‹slQ5ÏeìNòTÏuSSNÖN„vNHyBlv™U`ÿwêñTjO:NÜw)RwêS—*jZ0W«N×SNwNS„v0k|T0[Root.Monarch.GetName]ÎN*ga×SÇ‚Ydk	a¦`0\n\n(Wv–‰‘-Nÿ[Root.Monarch.GetName]ýV6q°‹wØ	gck‹N‰žR0‹†6q^(g?Q‹sg„vÏ‚9NòTÏu¦l:N6–NÚVÿFO(W³l-NÍN6q	gNwñmšS„v9húWÿb¸‹[Root.Monarch.GetName]ïSåNËR¹RYn^(g?Q¶RÏev^Î6Z^(g?Q„vlQINåN)R(u^(g?Q¶RÏe„vqVÍT›Rÿv^jO:N0xšlš„vxšlš0mŽNNÄžÑ‘¶RÏe06qwÿt’ŽN^(g?Q‹sgNgºN‚Y»žÿNˆ:P=t=tÿ¸‹Yãl÷‹?aY‰kte*N^(g?Q¶RÏeØ×Së³RwN*NlQS0"
+EDG_BDX_events.46.a:0 "Î6Z^(g?Q‹sg„vlQIN"
+EDG_BDX_events.46.a.tt:0 "[Root.GetName]·ƒ—V†N0§YÄžÑ‘¶RÏe„vcˆµ”§!0cíu0R8nbÓumgÿÙuˆN‚YNHeœgÿ\nÏkt^ckßu'`ÿ§G+0.50§!\n8ngrlàVÚ‹GWaˆ¹pÿ§G+5.0%§!"
+EDG_BDX_events.46.b:0 "Y³QÙ›N™„äS`S+Yÿÿf)YLˆS"
+EDG_BDX_events.46.b.tt:0 "·ƒ—V§G50§!§RP``<P§!0\n[Root.GetName]·ƒ—V†N0§Ynm^(g?Q¶RÏe§!0cíu0R8nbÓumgÿÙuˆN‚YNHeœgÿ\n‹kw‘G•‹S±‚9ÿ§G-10.0%§!\n8ngrlqVÍT›Rÿ§Y-5.0%§!"
+EDG_BDX_events.47.t:0 "ôTKQyrÌ‘šNÍ‘u"
+EDG_BDX_events.47.d:0 "ôTKQyrÌ‘šNÿÈS«ˆðy:NTkpW¯efWÿ=fLNRm³lÿsS‚YÊN„v?–ÆY³l	ÿŒTtQý“^ÀNqSKNô•„vW0Wÿ(WÜbkpYeÏuxQ0?–ôu¯eN–0-N«ˆ²‹:N=f?–áwÉb·lšyQ¾R.„vOgASmQ*NŒRŽKN0WKNN0ôTKQyrÌ‘šNéeg„vESl=fô‹NOgí‹„vºN²ÿ=fÜbkpYe„véeg-NÃVKNNÿTegðy:N†N?–QYŽ<S·Vâl¯e^ýV„vI`cw:S0(WlšvQ˜ºN0RegKNMRÿôTKQyrÌ‘šNvQžRòT	gNS^JºNšRESÿSìb«ˆâl¯e^ýVAm>eódk„vfpQ<S RºNŒTSšNÆušN^JbØO0\n\nlQCQMR327t^ÿšN†SqS'Y'Y^VgôTKQyrÌ‘šNÿv^(Wdkú^Ëz†N¸‹YåNšN†SqS'Y‹TT„vÎW^jO:N^JºN„v–kl0W0šN†SqS'Y‰kTÿôTKQyrÌ‘šNb:N†N^X	täS^ýV„vI`cw:S0lQCQMR246t^ÿôTKQyrÌ‘šN0W:SI`cwÄreYYyrNN0QeIN0PNw^X	täS^ýVßu»lw‰RagKQŒNNöe±R^ìrËzÿú^Ëz†N^J-ôTKQyrÌ‘šN‹sýV0ÄreYYyrNN‰kT?QPRÄreYYyrŒNNçuMOÿN^ÐcšNºNÓußvùR—b^X	täS^ýVÿTeg«ˆ1reY<SšNºN'k‰·V«ƒ¯eNN¨cû0'k‰·V«ƒ¯eNN„v?QPR·Vs|yrÌ‘NNçuMOTÿNwTRÀ–‹sgpˆ%KNE–WSNeQµOpS¦^ÿVg†NpS¦^‰S„v'YGrW0Wÿv^SýÎWÁ0R†NŒTÉSËYW0\n\n·Vs|yrÌ‘NN‰kTÿ'kKQÉbÐc·VNN'Y^¨cû†N'k‰·V«ƒ¯e‹sgÿár:Y†NôTKQyrÌ‘šN‹sýVÿw–eQ†NN'k‰·V«ƒ¯e‹sg„v·Vs|yrÌ‘ŒNNµc6R„vpS¦^-^J‹sýV„v…QbÿôTKQyrÌ‘šN‹sýV1udkpˆK„0KS¡r'kKQÉbÐc·VNNûQ%†NTwÿFOgÈu«ˆpS¦^-^JýV‹ss|WS·VNN0QeIN0ûQ0ôTKQyrÌ‘šN‹sýV(W…Qb-Nm0R‰Ro`^ýV­ˆûQv^«ˆûQ%1Y»S†N'YGrW0W0'kKQÉbÐc·VNN(Wb:WNm0R:RNgÿºNìN¨cKm:R¢R1S=f'kKQÉbÐc·VNN„v?QPR0gÈuÿôTKQyrÌ‘šN‹sýV(WglºN„veQµO-Nmp¡N0\n\n^J-ôTKQyrÌ‘šN‹sýVñm×S^J‡eSqVÍTÿôTKQyrÌ‘šNºNO(uNWY9e„v^JWRÍkhˆüb™QNOgí‹ÿ(Wßu»lgô•fR`N^J.OßuÑSLˆ†N'YÏ‘IR	gTINbVaŒŒT^JO^y„vø”^0(WTRÀ–‹sg„vqVÍTNôTKQyrÌ‘šN¸‹YºNˆvO†NiOYeÿÙµköegúQ°s'YÏ‘×S0R^Jz‚=gÎ˜<hqVÍT„viON–bVaŒÿ2SvQåN™QžR„viOÏPÕ–QXg	gãNhˆ'`ÿñmIRqVÍT†NTeg„v5—^ýV0Ilg„vOw.VžšúQO‰ßWöeþfeg0RÇôTKQyrÌ‘šN‹sýVÿ0òS°‹0-NðyKN:N0'YY00\n\nôTKQyrÌ‘šN‹sýVN¦^nn¡l(W†N†SòS*mAmKN-Nÿ¡lºNýw„˜™e0RÿÙ*NäSw„v‹sýVßz6qýw(WNCSYt^TQ!kYtQÿFO=fbìNZP0R†N0"
+EDG_BDX_events.47.a:0 "0»SŒbN*NM‘—VN`O„v‹sýV'Tÿ0"
+EDG_BDX_events.48.t:0 "­‹Ãu	g.t„vISu"
+EDG_BDX_events.48.d:0 "(W[Root.Monarch.GetTitle][Root.Monarch.GetName]ÅuPTÿI`¡r÷‹eg†N[Root.Capital.GetName]­‹Ãu	g.t„vTISeg0R«R÷^wÅu0ÏuÇNû|RÀhågTÿISu2R­e[Root.Monarch.GetName]ïSýwaÓg†NíT-fW„„v01WkpÅu0ÿ—‰N:WKb=gMbýw»l—u0(WÏuÇ[Root.Monarch.GetName]„vTaTÿISuO(uNÍyØy6R„v»ž‰‘BR©‹[Root.Monarch.GetName]w–eQf÷v^ÛLˆKb=g0SV[Root.Monarch.GetName]’‘egöeÿISuJTÉ‹[Root.Monarch.GetName]Kb=gÛLˆ„vASRbŸRÿ¥cNegêS‰çuíu1uÖNÛLˆTíu»l—uÿÅuˆVëV1Sýw·^Y01S(Wdköeÿ[Root.Monarch.GetName]a×S0RwSO	g¹pV7h0z6qÿ[Root.Monarch.GetName]Ê`¶‹0WÑS°sÿêñT„v2N*NŒw8N(WKb=g-N«ˆRd–†Nÿ"
+EDG_BDX_events.48.a:0 "egºNÿÙubŠbÙ¸^ISÖbúQ»S	–rR Rôòvÿ"
+
+#missions
+EDG_BDX_mission_gurkan_title:0 "gÐ‰äSRr^"
+EDG_BDX_mission_gurkan_desc:0 ""
+EDG_BDX_mission_gurkan_tt1:0 "‹NöN0§Y’dlšSUKNÅe§!0òTÏuÑSu"
+EDG_BDX_mission_gurkan_tt2:0 "§RLN‘N<ri’dlšSU0§!"
+EDG_BDX_mission_faith_title:0 "áOðNKN"
+EDG_BDX_mission_faith_desc:0 ""
+EDG_BDX_mission_faith_tt:0 "å‹‹NöNAQ¸‹ÎN§Y<S>m§!0§YÀNöS>m§!0§Y'YXNiOYe§!0§YFyYe§!ŒT§YofYe§!-N	ébN*N—RYeÛLˆˆvO0"
+EDG_BDX_mission_legacy_of_bactria_title:0 "ôTKQyrÌ‘šN„vWµN"
+EDG_BDX_mission_legacy_of_bactria_desc:0 ""
+EDG_BDX_mission_bloodline_title:0 "šN†SqS'Y'Y^„vNˆ	"
+EDG_BDX_mission_bloodline_desc:0 ""
+EDG_BDX_mission_aryan_title:0 "Å–)R‰R„v.Ob"
+EDG_BDX_mission_aryan_desc:0 ""
+EDG_BDX_mission_aryan_tt1:0 "ã‰•§OôT¾kSqS0WsKb§!cOuQâVÿå‹cOuQâVMOŽN§Y[452.GetName]§!ÿ9(uÔkck8^÷N<hNO§G75%§!ÿv^NNOÏQS§YF–›QLwN¦^§!0å‹cOuQâVåb	gåNNîOckÿ\nF–›QëXlb`Y¦^ÿ§G+50.0%§!\nNb×S²QûQ2O³Rÿ§G-20.0%§!"
+EDG_BDX_mission_aryan_tt2:0 "§Y[Root.GetName]§!·ƒ—V†N§Y?–ÌRWl§!ŒT§Y|TWÊs§!‡eS„vwýN„v8lEN'`±Rðy0"
+EDG_BDX_mission_new_state_title:0 "çe¦°e."
+EDG_BDX_mission_new_state_desc:0 ""
+EDG_BDX_mission_new_state_tt1:0 "=T(u§V‡eSTS§!ÿ»lN§Y?–ÌRWl§!ŒT§Y|TWÊs§!‡eS„vwýNSba0WlS:N§YôTKQyrÌ‘šN§!‡eS0\n\nã‰•³Q®‹ÿ§M@BACIQYôTKQyrÌ‘šN‹sýV§!"
+EDG_BDX_mission_new_state_tt2:0 "ã‰•³Q®‹ÿ§MÍ‘ú^³uFZ×kÃ‹W§!"
+EDG_BDX_mission_afghanistan_title:0 "ÈuÓuaSSÐc·V‹sg"
+EDG_BDX_mission_afghanistan_desc:0 ""
+EDG_BDX_mission_afghanistan_tt:0 "bìNS«ˆAQ¸‹(Wôv^SÞT¾‹Ëz§YN¹eYeOýINYe:S§!0"
+EDG_BDX_mission_knot_title:0 "©e­eb3wÄrÄO¯eKNÓu"
+EDG_BDX_mission_knot_desc:0 ""
+EDG_BDX_mission_alexandria_cities_title:0 "Í‘ú^šN†SqS'YÌ‘šNÎW¦"
+EDG_BDX_mission_alexandria_cities_desc:0 ""
+EDG_BDX_mission_alexandria_cities_tt1:0 "ã‰•Nû|R§MÍ‘ú^šN†SqS'YÌ‘šNÎW¦§!³Q®‹0\nÍ‘ú^ÎW¦öeïSåNÎN§VLˆ?e‹W§!0§OÏuNm‹W§!0§l›Q‹N‹W§!	NÍy‰|‹W„vÎW¦-N	ébNÍy0"
+EDG_BDX_mission_alexandria_cities_tt2:0 "§VLˆ?e‹WšN†SqS'YÌ‘šNÎW¦§!ÿ§GgNOê»l¦^§!:NhQNSîOck	ÿ:"
+EDG_BDX_mission_alexandria_cities_tt3:0 "§OÏuNm‹WšN†SqS'YÌ‘šNÎW¦§!ÿ§G8fVüR§!:NhQNSîOck	ÿ:"
+EDG_BDX_mission_alexandria_cities_tt4:0 "§l›Q‹N‹WšN†SqS'YÌ‘šNÎW¦§!ÿ§GF–›QÄ‰!jNP–îOck§!:NhQNSîOck	ÿ:"
+EDG_BDX_mission_alexandria_cities_tt5:0 "ŒRbûN¡Röe(W–:gN*N§Yán³agöN§!„vwýNËzsSú^ËzNµ^§MšN†SqS'YÌ‘šNÎW¦§!0"
+EDG_BDX_mission_silk_road_title:0 "Nï8f"
+EDG_BDX_mission_silk_road_desc:0 ""
+EDG_BDX_mission_silk_road_tt:0 "ã‰•§Y[Root.GetBurghersOrFallbackName]§!„v0§YNïFU–§!0yrCg0"
+EDG_BDX_mission_eschate_title:0 "gßW"
+EDG_BDX_mission_eschate_desc:0 ""
+EDG_BDX_mission_eschate_tt:0 "§V‡eSTS§!SùR§YLNyQ+RKQ§!‡eSuHe0"
+EDG_BDX_mission_parthia_title:0 "b`Y^ÐcšNI`cw:S"
+EDG_BDX_mission_parthia_desc:0 ""
+EDG_BDX_mission_parthia_tt:0 "ã‰•§YÏ‚òƒYeâV§!³Q®‹ÿ§M³u<hÀNísêYeâV§!\nbìNS«ˆAQ¸‹(Wôv^SÞT¾‹Ëz§Y³u<hÀNísêYeâV§!0"
+EDG_BDX_mission_dahae_title:0 "IN°R'YÊv"
+EDG_BDX_mission_dahae_desc:0 ""
+EDG_BDX_mission_dahae_tt1:0 "ÎN§Y-NšN§!0W:SuµN§Yrrju§!„vwýN0"
+EDG_BDX_mission_dahae_tt2:0 "ã‰•§Y[Root.GetTribesOrFallbackName]§!„v0§Y8ngrÇ–cOuQ§!0yrCg0"
+EDG_BDX_mission_dahae_tt3:0 "‘šuQÔk‹Oÿ§G+10.0%§!\nÿN6–BSàVÚ‹¦^bckÔk	ÿ\n‘šuQ±‚9ÿ§G-20.0%§!\n‘šuQjObýw›Rÿ§G+10.0%§!"
+EDG_BDX_mission_dahae_tt4:0 "ã‰•§YÏ‚òƒYeâV§!³Q®‹ÿ§M“^^ÉbôuYeâV§!"
+EDG_BDX_mission_dahae_tt5:0 "‚YœgSVMRýVYe=f§YofYe§!v^Nåb	gb^—g!^SýVåb	g§Y[459.GetName]§!ŒT§Y[4207.GetName]§!Rÿ"
+EDG_BDX_mission_go_west_title:0 "T‰»Sÿ"
+EDG_BDX_mission_go_west_desc:0 ""
+EDG_BDX_mission_go_west_tt1:0 "ã‰•³Q®‹ÿ§MÍ‘ú^šN†SqS'Y!X’W§!"
+EDG_BDX_mission_go_west_tt2:0 "ã‰•³Q®‹ÿ§MÍ‘Ãq1Wkp§!\nå‹³Q®‹AQ¸‹bìN±‚9£dip£T»lN§Yâl¯e§!b§Y|TWÊs§!0W:S„vVYewýN.O­dckßuáOðNv^ûm Rê»l†˜0W8hÃV0"
+EDG_BDX_mission_go_west_tt3:0 "ã‰•³Q®‹ÿ§MÍ‘ú^ÈTÈp'YYeX§!"
+EDG_BDX_mission_indus_river_title:0 "n™lšpS¦^³l"
+EDG_BDX_mission_indus_river_desc:0 ""
+EDG_BDX_mission_indus_river_tt1:0 "§V‡eSTS§!SùR§YÁennf§!‡eSuHe0"
+EDG_BDX_mission_indus_river_tt2:0 "AQ¸‹ùR–™ýMOŽN§YpS¦^¯efW§!b§YpS¦^‰è§!0W:S„výV¶RO(u§OO'YVg§!±Rbt1u0ÿ—‰HQŒRbûN¡R0§YåNÛw‰NW§!0åNã‰•§OO'YVg§!0	ÿ"
+EDG_BDX_mission_indo_greek_kingdoms_title:0 "pS¦^-^J‹sýV"
+EDG_BDX_mission_indo_greek_kingdoms_desc:0 ""
+EDG_BDX_mission_indo_greek_kingdoms_tt1:0 "§V‡eSTS§!SùR§YáO·V§!‡eSuHe0"
+EDG_BDX_mission_indo_greek_kingdoms_tt2:0 "§YáO·V(„<hS§!0§YÉbTS§!0§Y(gSfW§!0§YSáO·V§!ŒT§YWSáO·V§!:SßW„vwýNÿ"
+EDG_BDX_mission_unfinished_business_title:0 "*gßzKNN"
+EDG_BDX_mission_unfinished_business_desc:0 ""
+EDG_BDX_mission_unfinished_business_tt:0 "ã‰•§Y6§!µu?eœ^9ei—0§Yln1W‹s§!00"
+# EDG_BDX_mission_unfinished_business_tt2:0 "‚YœgSVMRýVYe=f§YFyYe§!v^Nåb	gb^—g!^SýVåb	g§Y[4430.GetName]§!Rÿ"
+# EDG_BDX_mission_kashmir_title:0 "NVKQÀNs|S"
+# EDG_BDX_mission_kashmir_desc:0 ""
+EDG_BDX_mission_commemorate_battles_title:0 "t’äSÊN"
+EDG_BDX_mission_commemorate_battles_desc:0 ""
+EDG_BDX_mission_land_of_spears_title:0 "åNÛw‰NW"
+EDG_BDX_mission_land_of_spears_desc:0 ""
+EDG_BDX_mission_land_of_spears_tt:0 "ã‰•ùR–™ýMOŽN§Y|TWÊs§!0§Yâl¯e§!b§YlšÀNÌ‘KQ§!0W:S„výV¶R„v§OO'YVg§!±Rbt1u0\nÇå‹±Rbt1uÑS¨R„vb‰NO(u§M¨R`b‰N§!:g6R0SVbìN(W§M¨R`b‰N§!-N`S†˜Le¹eb‰NßvINÊSvQ^SýVv^N=fbìN§Y8hÃV§!bNbìN§Yøv»§!„v§Y^—–™ý§!wýNöeÿ‚YœgbìN„v£adm£³Y8hÃVSå‹wýNÿbìNSOËzsSTv^å‹wýN·ƒ—Vê»l†˜0W8hÃV0å‹:g6RmNT7h(uŽNLe¹eb‰NßvIN0\n§M¨R`b‰N§!ïSåNÇ³Q®‹sQí•0"
+EDG_BDX_mission_buddhism_title:0 "Ê‘æmr<S„vPRV"
+EDG_BDX_mission_buddhism_desc:0 ""
+EDG_BDX_mission_nestorianism_title:0 "Bw¯e1Ì‘„váOðN"
+EDG_BDX_mission_nestorianism_desc:0 ""
+EDG_BDX_mission_nestorianism_tt1:0 "§Yâl¯e§!ŒT§Y|TWÊs§!0W:SN^SŽN`Ob`O„v^—g!^SýV„v§YofYe§!wýNpeÏ‘N…Ç§Y3§!"
+EDG_BDX_mission_nestorianism_tt2:0 "ÎN»lN„vÏk*N§YofYe§!wýN·ƒ—V§G10§!¤0"
+EDG_BDX_mission_nestorianism_tt3:0 "ã‰•§Y[Root.GetTribesOrFallbackName]§!„v0§Y6eKQÈp-CNî†è§!0yrCg0"
+EDG_BDX_mission_nestorianism_tt4:0 " c:Y¦^ÿ§G+100.0%§!\n‘šuQµOüIeûQýw›Rÿ§G+15.0%§!\n‘šuQÔk‹Oÿ§G+10.0%§!\nïS(ub)RÁTÿ§G+25.0%§!"
+EDG_BDX_mission_zoroastrianism_title:0 "tWšN¯e·V„v1Wkp"
+EDG_BDX_mission_zoroastrianism_desc:0 ""
+EDG_BDX_mission_zoroastrianism_tt1:0 "§Yâl¯e§!ŒT§Y|TWÊs§!0W:SN^SŽN`Ob`O„v^—g!^SýV„v§YFyYe§!wýNpeÏ‘N…Ç§Y3§!"
+EDG_BDX_mission_zoroastrianism_tt2:0 "§V‡eSTS§!SùR§YþOï=e§!‡eSuHe0"
+EDG_BDX_mission_zoroastrianism_tt3:0 "ÎN»lN„vÏk*N§YFyYe§!wýN·ƒ—V§G200§!TYuQXT0\n»lNNb	g§YFyYe§!wýN1Y»S§G10§!t^„vR»yININ0"
+EDG_BDX_mission_zoroastrianism_tt4:0 "‚YœgSVMRýVYe=f§YFyYe§!v^Nåb	gb^—g!^SýVåb	g§Y[433.GetName]§!Rÿ"
+EDG_BDX_mission_islam_title:0 "FzUØž·V„vYeag"
+EDG_BDX_mission_islam_desc:0 ""
+EDG_BDX_mission_islam_tt1:0 "§Yâl¯e§!ŒT§Y|TWÊs§!0W:SN^SŽN`Ob`O„v^—g!^SýV„v§YO¯epQYe§!wýNpeÏ‘N…Ç§Y9§!"
+EDG_BDX_mission_islam_tt2:0 "‚Yœg@ARL§Y[ARL.GetName]§!b1u[ARL.GetName]bËz„v@PER§Y[PER.GetName]§!NXR(WRÿ"
+EDG_BDX_mission_islam_tt3:0 "ã‰•§YÏ‚òƒYeâV§!³Q®‹ÿ§M(„ÕlôuYeâV§!ŒT§MFz™l™lYeâV§!\nbìNS«ˆAQ¸‹(Wôv^SÞT¾‹Ëz§Y(„ÕlôuYeâV§!ŒT§YFz™l™lYeâV§!0"
+EDG_BDX_mission_winner_title:0 "Üww:N‹s"
+EDG_BDX_mission_winner_desc:0 ""
+EDG_BDX_mission_winner_tt:0 "SVN*NwýN„v‡eS«ˆlØS:N§VòTTS‡eS§!öeÿ·ƒ—V§G1§!¹p§YïQlbupIQ§!0§O?–	T·V‹sgckßu'`§!ïSåN˜YÐcØšÇå‹¹eV·ƒ—V„v§YïQlbupIQ§!peÏ‘ÿgYÐcØš§G100%§!0"
+EDG_BDX_mission_arabia_title:0 "Vb?–ÉbÔkšN"
+EDG_BDX_mission_arabia_desc:0 ""
+EDG_BDX_mission_arabia_tt1:0 "‚Yœg§Y[397.GetName]§!0§Y[398.GetName]§!b§Y[399.GetName]§!^SŽN`Ob`O„v^—g!^SýVRÿ"
+EDG_BDX_mission_arabia_tt2:0 "»lN§Yâl¯eŒn¿l¸S§!Nb	guµN§YRów§!„vwýNÿ"
+EDG_BDX_mission_arabia_tt3:0 "‚Yœg§Y[390.GetName]§!b§Y[4281.GetName]§!^SŽN`Ob`O„v^—g!^SýVRÿ"
+EDG_BDX_mission_arabia_tt4:0 "»lN§Y?–Éb=O§!0W:SNb	guµN§Y–TaU§!„vwýNÿ"
+EDG_BDX_mission_arabia_tt5:0 "µc6RwmáS"
+EDG_BDX_mission_arabia_tt6:0 "‚YœgSVMRýVYe=f§Y<S>m§!b§YÀNöS>m§!v^Nåb	gb^—g!^SýVåb	g§Y[385.GetName]§!ŒT§Y[384.GetName]§!Rÿ"
+EDG_BDX_mission_arabia_tt7:0 "§Y[384.GetName]§!·ƒ—V0§Y1WÎW§!0cíu0R8nbÓumg0"
+EDG_BDX_mission_babylon_title:0 "eQINôTÔk&O"
+EDG_BDX_mission_babylon_desc:0 ""
+EDG_BDX_mission_babylon_tt1:0 "AQ¸‹ùR–™ýMOŽN§Y‰R³uXb)RšN§!0W:S„výV¶RO(u§OO'YVg§!±Rbt1u0ÿ—‰HQŒRbûN¡R0§YåNÛw‰NW§!0åNã‰•§OO'YVg§!0	ÿ"
+EDG_BDX_mission_babylon_tt2:0 "§Y[410.GetName]§!·ƒ—V0§Yj–ý§!0cíu0R8nbÓumg0"
+EDG_BDX_mission_babylon_tt3:0 "ã‰•§YÏ‚òƒYeâV§!³Q®‹ÿ§MaSêÌ‘YeâV§!\nbìNS«ˆAQ¸‹(Wôv^SÞT¾‹Ëz§YaSêÌ‘YeâV§!0"
+EDG_BDX_mission_babylon_tt4:0 "‚YœgSVMRýVYe=f§YÀNöS>m§!v^Nåb	gb^—g!^SýVåb	g§Y[2311.GetName]§!Rÿ"
+EDG_BDX_mission_babylon_tt5:0 "§Y[410.GetName]§!·ƒ—V0§Y1WÎW§!0cíu0R8nbÓumg0"
+EDG_BDX_mission_babylon_op:0 "‚Yœg	éb§MÁýôTÔk&O§!Rÿ"
+EDG_BDX_mission_mediterranean_title:0 "ôvµb0W-Nwm"
+EDG_BDX_mission_mediterranean_desc:0 ""
+EDG_BDX_mission_mediterranean_tt1:0 "»lN–:gN*N§Y-NN¿l¸S§!wýNÿ"
+EDG_BDX_mission_mediterranean_tt2:0 "(W§YwýN§!—V0RNX‚T:N0§Y…m?–S—¯e§!0„v§YÍ‘‹Wb0‚§!×e0‚0"
+EDG_BDX_mission_mediterranean_tt3:0 "Nb	g–™ýMOŽN§Y‰'k§!!k'YF–„v§YúWcwYe§!ýV¶Rÿ\nùR§Y[Root.GetName]§!„v‹Ya¦^9eØS†N§G+50§!0"
+EDG_BDX_mission_armenia_title:0 "M–OšNŽ<SšN"
+EDG_BDX_mission_armenia_desc:0 ""
+EDG_BDX_mission_armenia_tt1:0 "ã‰•³Q®‹ÿ§Mú^ËzšNŽ<SšNkSbýV§!\nå‹³Q®‹AQ¸‹bìNÊ‘>e@ARM§Y'YšNŽ<SšN§!:NkSbýV0"
+EDG_BDX_mission_armenia_tt2:0 "‚YœgSVMRýVYe=f§YFyYe§!v^Nåb	gb^—g!^SýVåb	g§Y[421.GetName]§!Rÿ"
+EDG_BDX_mission_armenia_tt3:0 "ã‰•³Q®‹ÿ§MîO.ôT“^1Wkp™^§!"
+EDG_BDX_mission_pontus_title:0 "ßu»l,gý‹sýV"
+EDG_BDX_mission_pontus_desc:0 ""
+EDG_BDX_mission_pontus_tt1:0 "§Y,gý§!‡eS«ˆÆ‰:N§VòTTS‡eS§!0"
+EDG_BDX_mission_pontus_tt2:0 ",gýa„„Al"
+EDG_BDX_mission_pontus_tt3:0 "µc6RÑžwm8f"
+EDG_BDX_mission_assyria_title:0 "=eM‘šNð"
+EDG_BDX_mission_assyria_desc:0 ""
+EDG_BDX_mission_assyria_tt1:0 "AQ¸‹ùR–™ýMOŽN§YÃWÊS§!0W:S„výV¶RO(u§OO'YVg§!±Rbt1u0ÿ—‰HQŒRbûN¡R0§YåNÛw‰NW§!0åNã‰•§OO'YVg§!0	ÿ"
+EDG_BDX_mission_assyria_tt2:0 "‚YœgSVMRýVYe=f§Y<S>m§!0§YÀNöS>m§!b§YofYe§!v^Nåb	gb^—g!^SýVåb	g§Y[379.GetName]§!Rÿ"
+EDG_BDX_mission_egypt_title:0 " R•QÃWÊSÕlw"
+EDG_BDX_mission_egypt_desc:0 ""
+EDG_BDX_mission_egypt_tt1:0 "ã‰•³Q®‹ÿ§MîOú^ÕlwÐ³l§!\nå‹³Q®‹AQ¸‹ÐcMRã‰•§YÏ‚OëXÐ³l§!0\nã‰•³Q®‹ÿ§MÍ‘ú^šN†SqS'Y'YopTX§!\nã‰•³Q®‹ÿ§MÍ‘ú^šN†SqS'Y'YþVfN†™§!"
+# EDG_BDX_mission_egypt_tt2:0 "ã‰•§Y2§!µu?eœ^9ei—0§YlšFzœKQ›QâV6R¦^§!00"
+EDG_BDX_mission_egypt_tt2:0 "»lNNb	g§YÃWÊS§!0W:S„v§YÑynfyrckYe§!wýN—RYelØS:N§YofYe§!0"
+EDG_BDX_mission_cappadocia_title:0 "s^šRaS^Y‰šN"
+EDG_BDX_mission_cappadocia_desc:0 ""
+EDG_BDX_mission_cappadocia_tt1:0 "§Y^J§!‡eS«ˆÆ‰:N§VòTTS‡eS§!0\n§V‡eSTS§!SùR§YW3wvQ§!‡eSuHe0§YW3wvQ§!‡eSO«ˆTS:N§Y^J§!‡eS0"
+EDG_BDX_mission_cappadocia_tt2:0 "ã‰•§YÏ‚òƒYeâV§!³Q®‹ÿ§M…h+YÉbôuYeâV§!\nbìNS«ˆAQ¸‹(Wôv^SÞT¾‹Ëz§Y…h+YÉbôuYeâV§!0"
+EDG_BDX_mission_cappadocia_tt3:0 "ã‰•§YÏ‚òƒYeâV§!³Q®‹ÿ§MÜbKQTXÀNYeâV§!\nÇå‹³Q®‹ïSåNÛbßR§Y6w<SRÌ‘§!0\nbìNS«ˆAQ¸‹(Wôv^SÞT¾‹Ëz§YÜbKQTXÀNYeâV§!0"
+EDG_BDX_mission_asia_title:0 "šNÆušNKN‹s"
+EDG_BDX_mission_asia_desc:0 ""
+EDG_BDX_mission_asia_tt1:0 "˜Y·ƒ—V§GN!k§!§Mcb^Cg§!„v:gO0"
+EDG_BDX_mission_asia_tt2:0 "ÎN§Y‰R³uXb)RšN§!0W:S§YÜb`S­^§!b§YØš R0t§!‡eSÄu„vwýN0"
+EDG_BDX_mission_diplomacy_title:0 "Ü²NÑIe"
+EDG_BDX_mission_diplomacy_desc:0 ""
+EDG_BDX_mission_diplomacy_tt:0 "N=fòT«ˆÑS°s„v§Y'k2mR:V§!0"
+EDG_BDX_mission_diplomacy_fra_tt:0 "‚Yœg@FRA§Y[FRA.GetName]§!=fR:Vv^NNbìNÓußvRÿ"
+EDG_BDX_mission_diplomacy_eng_tt:0 "‚Yœg@GBR§Y[GBR.GetName]§!0@BTA§Y[BTA.GetName]§!b@AVE§Y[AVE.GetName]§!=fR:Vv^NNbìNÓußvRÿ"
+EDG_BDX_mission_diplomacy_spa_tt:0 "‚Yœg@SPA§Y[SPA.GetName]§!=fR:Vv^NNbìNÓußvRÿ"
+EDG_BDX_mission_diplomacy_adu_tt:0 "‚Yœg@ADU§Y[ADU.GetName]§!b@MIB§Y[MIB.GetName]§!=fR:Vv^NNbìNÓußvRÿ"
+EDG_BDX_mission_diplomacy_hre_tt:0 "‚Yœg@HLR§Y^y1WWlš^ýV‡v^§!=fR:Vv^NNbìNÓußvRÿ"
+EDG_BDX_mission_diplomacy_pap_tt:0 "‚YœgSVMRýVYe=f§YofYe§!v^NN@PAP§Y[PAP.GetName]§!ÓußvRÿ"
+EDG_BDX_mission_cross_strait_title:0 "èÇwmáS"
+EDG_BDX_mission_cross_strait_desc:0 ""
+EDG_BDX_mission_cross_strait_tt1:0 "AQ¸‹ùR–™ýMOŽN§YôTSr^§!0W:S„výV¶RO(u§OO'YVg§!±Rbt1u0ÿ—‰HQŒRbûN¡R0§YåNÛw‰NW§!0åNã‰•§OO'YVg§!0	ÿ"
+EDG_BDX_mission_cross_strait_tt2:0 "SV`Ob`O„v^—g!^SýVTv^§Y[151.GetName]§!öeÿ"
+EDG_BDX_mission_cross_strait_tt3:0 "»lNNb	g§Y‰R³uXb)RšN§!0W:S„v§YNckYe§!wýN—RYelØS:N§YofYe§!0"
+EDG_BDX_mission_homecoming_title:0 "•ïRVaN"
+EDG_BDX_mission_homecoming_desc:0 ""
+EDG_BDX_mission_homecoming_tt:0 "§Y^J§!b§Y^J-ôTKQyrÌ‘šN§!b:N†N°e„vINAm‡eS0"
+EDG_BDX_mission_homecoming_op1:0 "‚Yœg	éb§MÁýiOÉb§!Rÿ"
+EDG_BDX_mission_homecoming_op2:0 "‚Yœg	éb§Måb±b^JS§!Rÿ"
+EDG_BDX_mission_greek_city_states_title:0 "ošg^JÎW¦"
+EDG_BDX_mission_greek_city_states_desc:0 ""
+EDG_BDX_mission_greek_city_states_tt1:0 "ã‰•§O¯eôT¾ÇRëX§!cOuQâVÿå‹cOuQâVMOŽN§Y[145.GetName]§!ÿ9(uÔkck8^÷N<hNO§G50%§!ÿv^NNOÏQS§YF–›QLwN¦^§!0å‹cOuQâVåb	gåNNîOckÿ\n­‹Ãu¦^ÿ§G+10.0%§!\nNb×Skp›R2O³Rÿ§G-25.0%§!\nNb×S²QûQ2O³Rÿ§G-25.0%§!\nNb×SëXlSbûQÿ§G-25.0%§!"
+EDG_BDX_mission_greek_city_states_tt2:0 "‚YœgŒRb†NûN¡R§Yošg^JÎW¦§!ŒT§Y3zúVr‚÷–¯e§!Rÿ"
+EDG_BDX_mission_thrace_title:0 "3zúVr‚÷–¯e"
+EDG_BDX_mission_thrace_desc:0 ""
+EDG_BDX_mission_thrace_tt:0 "§V‡eSTS§!SùR§YÝO R)RšN§!‡eSuHe0§YÝO R)RšN§!‡eSO«ˆTS:N§Y^J§!‡eS0"
+EDG_BDX_mission_dream_of_argead_title:0 "?–	T·VKN¦h"
+EDG_BDX_mission_dream_of_argead_desc:0 ""
+EDG_BDX_mission_dream_of_argead_tt1:0 "§Yú^®‹(Wåb	gƒØš„v§O?–	T·V‹sgckßu'`§!öeŒRbdkûN¡R0§!"
+EDG_BDX_mission_dream_of_argead_tt2:0 "S§Y1§!µu?eœ^9ei—0§Y?–	T·V‹sg§!0GSµu:N0§Y?–	T·V^ýV§!00"
+EDG_BDX_mission_dream_of_argead_tt3:0 "§R¦hòTbwÿ6qw¾idKQ)R¯eKNQRØš¬`ŽN4Yv˜0§!"
+EDG_BDX_mission_sword_of_damocles_title:0 "¾idKQ)R¯eKNQR"
+EDG_BDX_mission_sword_of_damocles_desc:0 ""
+EDG_BDX_mission_sword_of_damocles_tt1:0 "AQ¸‹ùR–™ýMOŽN§YŽUSôT!–§!0§YWS·Va×V§!b§Ya'Y)R§!0W:S„výV¶RO(u§OO'YVg§!±Rbt1u0ÿ—‰HQŒRbûN¡R0§YåNÛw‰NW§!0åNã‰•§OO'YVg§!0	ÿ"
+EDG_BDX_mission_sword_of_damocles_tt2:0 "ã‰•§Y2§!µu?eœ^9ei—0§Y3zšR„vçub6R¦^§!00"
+EDG_BDX_mission_endless_title:0 "8làebkƒX"
+EDG_BDX_mission_endless_desc:0 ""
+EDG_BDX_mission_endless_tt:0 "AQ¸‹ùRNb	gýV¶RO(u§OO'YVg§!±Rbt1u0\n§V‡eSTS§!SùRNb	g‡eSuHe0\n§Y[Root.GetName]§!ÑS°s§YhQNLu§!Nb	gwýN0"
+EDG_BDX_mission_hetairoi_title:0 "Äuú^OËS‘šuQ"
+EDG_BDX_mission_hetairoi_desc:0 ""
+EDG_BDX_mission_hetairoi_tt:0 "AQ¸‹Ç§Y?eœ^’N¨R§!ÛbßR§YOËS‘šuQ§!0ïSÛbßR„v§YOËS‘šuQ§!peÏ‘NP–IrŽNSVMR„v§O?–	T·V‹sgckßu'`§!0"
+EDG_BDX_mission_hammer_and_anvil_tactics_title:0 "2•'xb=g"
+EDG_BDX_mission_hammer_and_anvil_tactics_desc:0 ""
+EDG_BDX_mission_hammer_and_anvil_tactics_tt:0 "SVåb	góS§G10%§!0§G20%§!0§G30%§!hQNS§Y­‹Ãu¦^§!öeÿS·ƒ—VåNNîOckÿ\nåb	góS§G10%§!§Y­‹Ãu¦^§!ÿ\nNb×SëXlSbûQÿ§G-10.0%§!\n›Q‹Nb=gÿ§G+0.10§!\n\nåb	góS§G20%§!§Y­‹Ãu¦^§!ÿ\n‘šuQÔk‹Oÿ§G+10.0%§!\n›Q‹Nb=gÿ§G+0.10§!\n\nåb	góS§G30%§!§Y­‹Ãu¦^§!ÿ\n‘šuQ²QûQ›Rÿ§G+1.00§!\n›Q‹Nb=gÿ§G+0.10§!"
+EDG_BDX_mission_besieger_title:0 "ôVÎWw"
+EDG_BDX_mission_besieger_desc:0 ""
+EDG_BDX_mission_besieger_tt:0 "SV§MIe`S§!Nµ^Le¹e§Y‰^X§!öeÿËzsS`S†˜Nb	gøv»„v¡l	g§Y‰^X§!ú^Qr„vLe¹ewýN0"
+EDG_BDX_mission_supply_network_title:0 "ú^ËzeˆÙuQÜu"
+EDG_BDX_mission_supply_network_desc:0 ""
+EDG_BDX_mission_supply_network_tt:0 "SV§Mibú^úWNx¾‹Ëe§!öeÿ·ƒ—V§G0.50%§!§YF–›QLwN¦^§!0"
+EDG_BDX_mission_modern_army_title:0 "°sãNS¹e5–"
+EDG_BDX_mission_modern_army_desc:0 ""
+EDG_BDX_mission_modern_army_tt:0 "AQ¸‹ÎN§VòTTS‡eS§!„vwýNÛbßR§Y'Y¹e5–§!0"
+EDG_BDX_mission_greek_fire_title:0 "^Jkp"
+EDG_BDX_mission_greek_fire_desc:0 ""
+EDG_BDX_mission_greek_fire_tt:0 "§gîOck-N„v0×e0‚kp®p0:N>f:y•ï‹ÿžRE–NOžX RNb	g0‚9‚„vkp®p0§!"
+EDG_BDX_mission_persian_bureaucracy_title:0 "ûN(uâl¯e˜RÚP"
+EDG_BDX_mission_persian_bureaucracy_desc:0 ""
+EDG_BDX_mission_persian_bureaucracy_tt:0 "ã‰•§Y3§!µu?eœ^9ei—0§Yâl¯e˜RÚP§!00"
+EDG_BDX_mission_governorate_title:0 "9ei—I`cw:S"
+EDG_BDX_mission_governorate_desc:0 ""
+EDG_BDX_mission_governorate_tt:0 "ã‰•§Y5§!µu?eœ^9ei—0§Y9ei—I`cw:S§!00"
+EDG_BDX_mission_holy_king_title:0 "1WS^‹s"
+EDG_BDX_mission_holy_king_desc:0 ""
+EDG_BDX_mission_holy_king_tt:0 "ã‰•§Y7§!µu?eœ^9ei—0§Y)YàeŒNåe§!00"
+EDG_BDX_mission_coin_title:0 "ÑSLˆ·VÉbKQlš"
+EDG_BDX_mission_coin_desc:0 ""
+EDG_BDX_mission_pluralism_title:0 "^ýV»lN„vYCQ‡eS"
+EDG_BDX_mission_pluralism_desc:0 ""
+EDG_BDX_mission_pluralism_tt:0 "GSµu§V‡eSTS§!ÿTS§YòT²‹T‡eS§!„vwýNöeSN!kTS§G2N*N§!wýN0"
+EDG_BDX_mission_science_title:0 "ÑyfRNt'`"
+EDG_BDX_mission_science_desc:0 ""
+EDG_BDX_mission_no_more_worlds_left_to_conquer_title:0 "§TdkNQàeV§!"
+EDG_BDX_mission_no_more_worlds_left_to_conquer_desc:0 ""
+EDG_BDX_mission_no_more_worlds_left_to_conquer_tt:0 "§Tûyd–Nb	gvQÖNýV¶R„v8hÃV0§!"
+EDG_BDX_mission_the_man_who_would_be_king_title:0 "§Ob1SÿèlšR:N‹sKNºN§!"
+EDG_BDX_mission_the_man_who_would_be_king_desc:0 ""
+EDG_BDX_mission_the_man_who_would_be_king_tt:0 "SVMRßu»lw=f©e­eb3wÄrÄO¯eKNÓu„v§YO¯eNW·VS§!0"
+EDG_BDX_mission_nizari_title:0 "§OåbËz<SNbÌ‘O›sîv§!"
+EDG_BDX_mission_nizari_desc:0 "<SNbÌ‘>mwnŽN11Nªu„vÕl‚„›s‹sgÿ=fO¯e›sêN>m„vR=e0Õl‚„›s‹sg,rkQãNÈTÌ‘ÑS|QO›sîvFz¯efWåuS·ÔkÉb»SNTÿôuPŸS?–+Y¾S·™lIl™l?–ætVCg=gÿŸ^Üž†NcšRçubºN•PR<SNbS·O,g·Fz¯efWåuSÿ9eËz<SNbS„vFz¯eTX)R:N°eÈTÌ‘ÑS0<SNbS»yVWÿ(WšN†SqS'Y=nÑS¨RÛSqNÿuQ%«Ž‰k0åNÈTQh·O,g·(„ôTk:N–™„v<SNbS=ecw:YÖS†Nâl¯eSèqS:S„v?–ÉbFzyr!XjO:Nnc¹pRËz†N0?–(„›YeâV0ÿv^ÎN‹N:RNgIm¨R0(W™„äS^ýV‰V-Nÿ?–(„›Õ‹þV:RNg™„åTwN™„äSºNÓuÇNÿgÈu«ˆíeÈpNQRmp0Õl‚„›s‹sggpgúQ„v^yfR¶RKNN³u‰S·“^`wþfeg0RôT¾kS.OYeÿ'YybôT¾kSºNˆvOO¯e›sêN>mÿbVb†N3zúV„vO¯e›sêN>m>y:S0(WÕl‚„›s‹sg…QqNüRô„vO¯e›sêN>mRÂˆ-NÿôT¾kSb:N†N<SNbÌ‘>m„våb²bwÿv^N(W?–(„›YeâVmp¡NTb:N†NgIN‰„v<SNbÌ‘>m>y:S0"
+EDG_BDX_mission_nizari_tt1:0 "bìNS«ˆAQ¸‹(Wôv^SÞT¾‹Ëz§Y<SNbÌ‘YeâV§!0"
+EDG_BDX_mission_nizari_tt2:0 "ã‰•§Y6§!µu?eœ^9ei—0§Y<SNbÌ‘O›sîvýV§!00"
+EDG_BDX_mission_nizari_tt3:0 "‚Yœg¡l	gµc6R§YÀNöS>mÈTÌ‘ÑS§!Rÿ"
+EDG_BDX_mission_nagasena_title:0 "§O±KOŽr±idÃ‹,‚å‚§!"
+EDG_BDX_mission_nagasena_desc:0 "TRÀ–‹sg)TƒnåNTÿpS¦^-^J‹sýV„vVgws|WS·VNN0QeIN0ÿbðyKN:N0%VpQN–‹s0ÿö^íu†NùRiOYe„v²NPw0s|WS·VT'YXNiOYeASkQWIlKNN„v0c3wWIl0±KOŽr±ÿ±HQÔkN	ÿâ‹î•iOYeYeINÿNKN¢c¨‹Nû|RòTfRî•˜˜ÿÙÙ›NùRÝ‹«ˆtet°d:N0±HQÔkNÏu0ÿÈSðy0%VpQN–‹sî•Ïu0ÿb:N†NTegÍ‘‰„viOYeÏuxQ0NbŒmQ9hnÀQÿ3w9hnÀQ=fvQ-NKNNÿiOYe-Nd–N,TTÍyëmªðXó—KNYÿôfNïS,T+RºN„vØyÆRÿàV±KOŽr±º‹3w9hg0R¶RÿEe:Nc3wWIl0"
+EDG_BDX_mission_nagasena_tt:0 "SV»lNN*NwýN„v—RYelØS:N§Y'YXNiOYe§!öeÿ	g§G	NRKNN§!„vàQ‡sSå‹wýN„v‡eSlØS:N§VòTTS‡eS§!0\n\nbìNS«ˆAQ¸‹(Wôv^SÞT¾‹Ëz§Y±KOŽr±çPKO§!0"
+EDG_BDX_mission_kushan_title:0 "§O5—^ýV„v³ù§!"
+EDG_BDX_mission_kushan_desc:0 "glºN(WVg†N^J-ôTKQyrÌ‘šN‹sýVÿ¥c³u†NôTKQyrÌ‘šN„v^JS‡eSÿv^zÇV=OSqSãSeQµOpS¦^ÿú^Ëz†N‰Só(gžŒT±‚LRPR!jÿNWSóžÎ‘Ñ‚ŒTNSlÎW„v5—^ýVÿiOYe(W5—^ýV»lNAuÛvNöe0bìNOý–5—^ýV„vekÿVgv^ßu»l†NSpS¦^0FO=fbìNNObkekŽNdkÿte*NpS¦^!k'YF–ýS«ˆbìN6eeQÊV-N0"
+EDG_BDX_mission_kushan_op:0 "‚Yœg	éb§MÁýpS¦^§!Rÿ"
+EDG_BDX_mission_kushan_tt1:0 "AQ¸‹ùR–™ýMOŽN§YpS¦^§!!k'YF–„výV¶RO(u§OO'YVg§!±Rbt1u0ÿ—‰HQŒRbûN¡R0§YåNÛw‰NW§!0åNã‰•§OO'YVg§!0	ÿ"
+EDG_BDX_mission_kushan_tt2:0 "ÎN§Y²ƒ±‚ÎW§!0§YŒTÉSËYW§!ŒT§YãyßƒW§!-N	ébNµ^ÎW^jO:N°e„v–™ý0"
+EDG_BDX_mission_kushan_tt3:0 "ŸSeg„v§Y–™ý§!ÿ"
+EDG_BDX_mission_greek_buddhist_art_title:0 "§O^JSiOYeŽfR§!"
+EDG_BDX_mission_greek_buddhist_art_desc:0 "(WTRÀ–‹sg„vqVÍTNôTKQyrÌ‘šN¸‹YºNˆvO†NiOYeÿÙµköegúQ°s'YÏ‘×S0R^Jz‚=gÎ˜<hqVÍT„viON–bVaŒÿ2SvQåN™QžR„viOÏPÕ–QXg	gãNhˆ'`ÿñmIRqVÍT†NTeg„v5—^ýVÿbVb†Nìryr„vrN–Wz‚=g0"
+EDG_BDX_mission_greek_buddhist_art_tt:0 "ã‰•§Y[Root.GetChurchOrFallbackName]§!„v0§Y^JSiOYez‚=g§!0yrCg0"
+EDG_BDX_mission_three_great_fires_title:0 "§OóO	Nkp§!"
+EDG_BDX_mission_three_great_fires_desc:0 ""
+EDG_BDX_mission_three_great_fires_tt1:0 "ÇSwýN‡eS«ˆlØS:N§VòTTS‡eS§!·ƒ—V„v§YïQlbupIQ§!ÐcØš§G0.5§!¹p0ÿ—‰HQŒRbûN¡R0§YÜww:N‹s§!0åNã‰•å‹:g6R0	ÿ"
+EDG_BDX_mission_three_great_fires_tt2:0 "ã‰•§Y6§!µu?eœ^9ei—0§Y)YRKNýV§!00"
+EDG_BDX_mission_achaemenid_title:0 "§O?–QYŽ<S·V„vcˆµ”§!"
+EDG_BDX_mission_achaemenid_desc:0 "lQCQMR330t^ÿšN†SqS'Y'Y^Vgâl¯e?–QYŽ<S·V‹sgÿb:Nâl¯e„vN‹sKN‹s0ÖN(WlQCQMR324t^„vÏ‚(„ZZ<yN6Z†N'YAmëX	NN„vsY?Q¯eTXžZÉbÿ·ƒ—V†NaŒV'`„v?–QYŽ<S·V‹s²RçubCgÿÛNek:VS?e»lN„vTÕl'`0NdkTöeÿÖNmNÇ‘³uâl¯e„vLˆ?e6R¦^N«R÷^<yêNÿÝOYuI`cw6R¦^v^¥c×Sâl¯eVgÜbÿÕ‹þV(W^ýV-NžR°s^JNâl¯e‡eS„v‡T0dkTÿšN†SqS'Y'Y^åNÊS^X	täSçuNwNôvåN?–QYŽ<S·V‹sg„vçubN9e.wêES0"
+EDG_BDX_mission_achaemenid_tt1:0 "S§Y1§!µu?eœ^9ei—0§Y?–	T·V‹sg§!0GSµu:N0§Y?–	T·V-?–QYŽ<S·V‹sg§!00"
+EDG_BDX_mission_achaemenid_tt2:0 "·ƒ—V§G50.00§!âl¯eqVÍT›R0"
+EDG_BDX_mission_unify_christian_title:0 "§OnfNYeOTN§!"
+EDG_BDX_mission_unify_christian_desc:0 ""
+EDG_BDX_mission_unify_christian_tt1:0 "SV^—§YofYe§!„v§YúWcwYe§!wýN«ˆrR©‹Ùu§Y[Root.GetName]§!Sê¨RlØS:N§YofYe§!0\n\n`OŒT`O„v^—g!^SýV»lNNb	g^—§YofYe§!„v§YúWcwYe§!wýN—RYelØS:N§YofYe§!0"
+EDG_BDX_mission_unify_christian_tt2:0 "Nb	g§Y^y1WWlš^ýV§!bXTýVÿ"
+EDG_BDX_mission_revive_patriarchate_title:0 "§OYtQ^X	t‰šN-ðl‰Sgr–™:S§!"
+EDG_BDX_mission_revive_patriarchate_desc:0 "^X	t‰šN-ðl‰Sgr–™:S=fN¹eYeO„vgØšINYe:SŒT¾|^y-NÃV0^X	t‰šN:N^X	täSNNú^Ëz^JSÎW^ÿðl‰SR=f^ÐcšNŒT(„Êsâl¯e^ýV„v–™ýÿýMOŽNôT<h¾åNWS„v•^<hÌ‘¯e³lTu0lQCQ3NªuæTóSÿâl¯eƒX…Q„vúWcw’VnbVbìrËzSOû|ÿ¦u(WlQCQ280t^ÿ^X	t‰šNÿðl‰SINYe«ˆlQ²‹:NhQâl¯eYeO„v†˜–ˆ0lQCQ410t^„viœKQO®‹ckVnxËzvQ0WMOÿˆcˆN'YINYebN¹egr–™„vðy÷S0dkTÿå‹gr–™:Sßu–ƒôV^–ÿÎNŽ0tN¾s|šNibUSó-NšN0pS¦^uó-NýVUãN„vofYe01uŽN(W431t^„våNVNb'YlQO®‹T=ecBw¯e1Ì‘YeINÿ^X	t‰šN-ðl‰Sgr–™:SNWlšYeORÂˆÿb:Nâl¯e‡efSOû|NìrËzúWcwYe-NÃV0"
+EDG_BDX_mission_revive_patriarchate_tt:0 "ã‰•§Y6§!µu?eœ^9ei—0§Y^X	t‰šN-ðl‰S'Ygr–™§!00"
+
+#decisions
+EDG_BDX_enable_dynamic_war_title:0 "V=T§O¨R`b‰N§!"
+EDG_BDX_enable_dynamic_war_desc:0 ""
+EDG_BDX_disable_dynamic_war_title:0 "sQí•§O¨R`b‰N§!"
+EDG_BDX_disable_dynamic_war_desc:0 ""
+EDG_BDX_rename_to_argead_title:0 "Ç‘(u¶RÏeT§Y?–	T·V§!jO:NýVT"
+EDG_BDX_rename_to_argead_desc:0 ""
+EDG_BDX_rename_to_great_xia_title:0 "Ç‘(u§Y'YY§!jO:NýVT"
+EDG_BDX_rename_to_great_xia_desc:0 ""
+EDG_BDX_rename_to_nizari_title:0 "Ç‘(u§Y<SNbÌ‘§!jO:NýVT"
+EDG_BDX_rename_to_nizari_desc:0 ""
+EDG_BDX_rename_to_kushan_title:0 "Ç‘(u§Y5—§!jO:NýVT"
+EDG_BDX_rename_to_kushan_desc:0 ""
+EDG_BDX_rename_to_badaxsan_title:0 "b`Y§YôT¾KQqS§!ýVT"
+EDG_BDX_rename_to_badaxsan_desc:0 ""
+EDG_BDX_rename_to_bactria_title:0 "b`Y§YôTKQyrÌ‘šN§!ýVT"
+EDG_BDX_rename_to_bactria_desc:0 ""
+EDG_BDX_hide_cultural_assimilation_events_title:0 "‡eSTSÿ–Ï…‡eSTS‹NöN"
+EDG_BDX_hide_cultural_assimilation_events_desc:0 ""
+EDG_BDX_show_cultural_assimilation_events_title:0 "‡eSTSÿ>f:y‡eSTS‹NöN"
+EDG_BDX_show_cultural_assimilation_events_desc:0 ""
+EDG_BDX_cultural_assimilation_bonus_title:0 "‡eSTSÿÛVwmN¶R"
+EDG_BDX_cultural_assimilation_bonus_desc:0 ""
+EDG_BDX_cultural_assimilation_bonus_tt1:0 "‡eS=f§VòTTS‡eS§!"
+EDG_BDX_cultural_assimilation_bonus_tt2:0 "9hncåb	g„v§VòTTS‡eS§!wýN„vpeÏ‘·ƒ—Vøv”^„vîOck0\nåNN‡eSS«ˆÆ‰:N§VòTTS‡eS§!ÿ\n- §YôTKQyrÌ‘šN§!\n[Root.GetAssimilatedCultureGrecoBactria][Root.GetAssimilatedCultureGreek][Root.GetAssimilatedCulturePontic]\nSVMRòTuHe„vîOckÿ\n[Root.GetCulturalAssimilationBonus1]\n[Root.GetCulturalAssimilationBonus2]\n[Root.GetCulturalAssimilationBonus3]\n[Root.GetCulturalAssimilationBonus4]\n[Root.GetCulturalAssimilationBonus5]\n[Root.GetCulturalAssimilationBonus6]\n[Root.GetCulturalAssimilationBonus7]\n[Root.GetCulturalAssimilationBonus8]\n[Root.GetCulturalAssimilationBonus9]\n[Root.GetCulturalAssimilationBonus10]"
+EDG_BDX_commemorate_battles_title:0 "t’äSÊNÿ‹sSV"
+EDG_BDX_commemorate_battles_desc:0 ""
+EDG_BDX_commemorate_battles_tt1:0 "`OïSåNÇ³Q®‹ÎN§YÛIe§!0§Y2–ˆR§!0§Y(Ï‘§!0§YpeÏ‘§!-N	ébN*N›Q‹NtõVÄu0\nSV`S†˜šN†SqS'Y'Y^NVW„TbyVNbÑSu„vwýNöeÿS§MªuõVNVbyV§!v^ÎN-NfR`N›Q‹Ntº‹åwÆ‹0Ïk!k§MªuõVNVbyV§!O·ƒ—V§G2§!¹p§O?–	T·V‹sgckßu'`§!ŒT§G1§!¹p§J›Q‹Ntº‹¹ppe§!0ÏkN¹p§J›Q‹Ntº‹¹ppe§!ïSåNÎN	éb„v›Q‹NtõVÄu-Nã‰•N*NtõV0\nèlaÿ‚Yœg`OòTÏu=T(u†NøvT„vtõVÄuÿRÇ§J›Q‹Ntº‹¹ppe§!ã‰•„v›Q‹NtõVSO1YHe0"
+EDG_BDX_commemorate_battles_tt2:0 "[Root.GetIdeaGroupUnlockedByMilitaryDoctrinePoint]"
+EDG_BDX_commemorate_battles_tt3:0 "§J›Q‹Ntº‹¹ppe§!ÿ§G[Root.EDG_BDX_mil_doc_var.GetValue]§!\n[Root.GetBattleOfThebes]\n[Root.GetBattleOfGranicus]\n[Root.GetBattleOfIssus]\n[Root.GetBattleOfTyre]\n[Root.GetBattleOfGaugamela]\n[Root.GetBattleOfPersianGate]\n[Root.GetBattleOfHydaspes]"
+EDG_BDX_choose_idea_group_tt:0 "§R›Q‹NtõVÄuNæe	ébàeÕlôf9eÿ§!"
+EDG_BDX_choose_offense_idea_group_title:0 "t’äSÊNÿ	éb§YÛIe§!tõVÄu"
+EDG_BDX_choose_offense_idea_group_desc:0 ""
+EDG_BDX_choose_defense_idea_group_title:0 "t’äSÊNÿ	éb§Y2–ˆR§!tõVÄu"
+EDG_BDX_choose_defense_idea_group_desc:0 ""
+EDG_BDX_choose_quality_idea_group_title:0 "t’äSÊNÿ	éb§Y(Ï‘§!tõVÄu"
+EDG_BDX_choose_quality_idea_group_desc:0 ""
+EDG_BDX_choose_quantity_idea_group_title:0 "t’äSÊNÿ	éb§YpeÏ‘§!tõVÄu"
+EDG_BDX_choose_quantity_idea_group_desc:0 ""
+EDG_TIM_bribe_badaxsan_tt:0 "T@BDX§YôT¾KQqSs|S§!=eØN¤åNÃOOvQÝOÁ‹(W¥cNeg„vb‰N-NTbìNHeàVÿ‚YœgùR¹e§GTa§!Rÿ"
+EDG_BDX_form_bactria_title:0 "@BACIQYôTKQyrÌ‘šN‹sýV"
+EDG_BDX_form_bactria_desc:0 ""
+EDG_BDX_rebuild_alexander_citadel_1_title:0 "Í‘ú^šN†SqS'Y!X’WÿVºNèlîv	ÿ"
+EDG_BDX_rebuild_alexander_citadel_1_desc:0 ""
+EDG_BDX_rebuild_alexander_citadel_2_title:0 "Í‘ú^šN†SqS'Y!X’WÿÜÑû•T	ÿ"
+EDG_BDX_rebuild_alexander_citadel_2_desc:0 ""
+EDG_BDX_rebuild_alexander_citadel_3_title:0 "Í‘ú^šN†SqS'Y!X’WÿÄ–OîXKN	ÿ"
+EDG_BDX_rebuild_alexander_citadel_3_desc:0 ""
+EDG_BDX_rebuild_nava_vihara_1_title:0 "Í‘ú^³uFZ×kÃ‹WÿVºNèlîv	ÿ"
+EDG_BDX_rebuild_nava_vihara_1_desc:0 "³uFZ×kÃ‹WÿNava Vihara	ÿnŽNµhí‹ÿvQ-NNava:N°e„va`ÿViharaR=f¾|‚bwKOÝ„ÿsSiOYeúR™^0lQCQ7ó11NªuKNô•³uFZ×kÃ‹WjO:NiOYe„vÍ‘‰-NÃVwAuÛvNöe0„sXY(Wþf(WlQCQ630t^¿‹î•†N³uFZ×kÃ‹Wÿ9hnc0'YU‰ßW°‹0-N„v°‹‹ÿ³uFZ×kÃ‹WSVöe¦u	gNŒvYµ^¾|‚ŒT	NNTçP±O0ôTSlšKQ¶RÏe=f³uFZ×kÃ‹W„vN­ˆLˆ?e•˜RÿTegˆvOO¯epQYeb:N†N?–Ôb¯e‹sg„v>fk5Ïe0ôTSlšKQ¶RÏe-N	gYºN(WÅbûNÇ?–Ôb¯e‹sg„vôuPŸSÿvQ-N-NgW„T„v=f0)Y¹eY-Œ0-N„vINÒ‰KNNÿâl¯eôuPŸS>ÕlS·O,g·öSwmšN0"
+EDG_BDX_rebuild_nava_vihara_2_title:0 "Í‘ú^³uFZ×kÃ‹WÿÜÑû•T	ÿ"
+EDG_BDX_rebuild_nava_vihara_2_desc:0 "³uFZ×kÃ‹WÿNava Vihara	ÿnŽNµhí‹ÿvQ-NNava:N°e„va`ÿViharaR=f¾|‚bwKOÝ„ÿsSiOYeúR™^0lQCQ7ó11NªuKNô•³uFZ×kÃ‹WjO:NiOYe„vÍ‘‰-NÃVwAuÛvNöe0„sXY(Wþf(WlQCQ630t^¿‹î•†N³uFZ×kÃ‹Wÿ9hnc0'YU‰ßW°‹0-N„v°‹‹ÿ³uFZ×kÃ‹WSVöe¦u	gNŒvYµ^¾|‚ŒT	NNTçP±O0ôTSlšKQ¶RÏe=f³uFZ×kÃ‹W„vN­ˆLˆ?e•˜RÿTegˆvOO¯epQYeb:N†N?–Ôb¯e‹sg„v>fk5Ïe0ôTSlšKQ¶RÏe-N	gYºN(WÅbûNÇ?–Ôb¯e‹sg„vôuPŸSÿvQ-N-NgW„T„v=f0)Y¹eY-Œ0-N„vINÒ‰KNNÿâl¯eôuPŸS>ÕlS·O,g·öSwmšN0"
+EDG_BDX_rebuild_nava_vihara_3_title:0 "Í‘ú^³uFZ×kÃ‹WÿÄ–OîXKN	ÿ"
+EDG_BDX_rebuild_nava_vihara_3_desc:0 "³uFZ×kÃ‹WÿNava Vihara	ÿnŽNµhí‹ÿvQ-NNava:N°e„va`ÿViharaR=f¾|‚bwKOÝ„ÿsSiOYeúR™^0lQCQ7ó11NªuKNô•³uFZ×kÃ‹WjO:NiOYe„vÍ‘‰-NÃVwAuÛvNöe0„sXY(Wþf(WlQCQ630t^¿‹î•†N³uFZ×kÃ‹Wÿ9hnc0'YU‰ßW°‹0-N„v°‹‹ÿ³uFZ×kÃ‹WSVöe¦u	gNŒvYµ^¾|‚ŒT	NNTçP±O0ôTSlšKQ¶RÏe=f³uFZ×kÃ‹W„vN­ˆLˆ?e•˜RÿTegˆvOO¯epQYeb:N†N?–Ôb¯e‹sg„v>fk5Ïe0ôTSlšKQ¶RÏe-N	gYºN(WÅbûNÇ?–Ôb¯e‹sg„vôuPŸSÿvQ-N-NgW„T„v=f0)Y¹eY-Œ0-N„vINÒ‰KNNÿâl¯eôuPŸS>ÕlS·O,g·öSwmšN0"
+EDG_BDX_rebuild_lighthouse_of_alexandria_title:0 "Í‘ú^šN†SqS'Y'YopTX"
+EDG_BDX_rebuild_lighthouse_of_alexandria_desc:0 ""
+EDG_BDX_rebuild_library_of_alexandria_title:0 "Í‘ú^šN†SqS'Y'YþVfN†™"
+EDG_BDX_rebuild_library_of_alexandria_desc:0 ""
+EDG_BDX_build_pharaoh_canal_title:0 "îOú^ÕlwÐ³l"
+EDG_BDX_build_pharaoh_canal_desc:0 ""
+EDG_BDX_build_pharaoh_canal_tt:0 "AQ¸‹ú^.§YÏ‚OëXÐ³l§!0"
+EDG_BDX_armenian_march_title:0 "ú^ËzšNŽ<SšNkSbýV"
+EDG_BDX_armenian_march_desc:0 ""
+# EDG_BDX_armenian_march_tt1:0 "Šb@ARM§Y'YšNŽ<SšN§!ØSbkSbýV0"
+EDG_BDX_armenian_march_tt1:0 "SNb	g§Y³Q®‹‰Bl§!„vwýNˆcˆN@ARM§Y'YšNŽ<SšN§!0"
+EDG_BDX_armenian_march_tt2:0 "ÎNNb	gwýNûyd–wýNîOck0§YšNŽ<SšN‹sýV§!00"
+EDG_BDX_armenian_march_tt3:0 "(W@ARM§Y'YšNŽ<SšN§!jO:NbìN„vkSbýVgô•ÿbìNS·ƒ—V‚YNîOckÿ\nY²NsQû|ÿ§G+1§!\nD–¸^!.s„vF–›QpeÏ‘NP–ÿ§G+50.0%§!\n^SýVÑSUS¦^&^eg„vìrËz>PTÿ§G-10.0%§!\nD–¸^ýVºN›R!.sÿ§G+50.0%§!"
+EDG_BDX_rebuild_fire_temple_title:0 "îO.ôT“^1Wkp™^"
+EDG_BDX_rebuild_fire_temple_desc:0 ""
+EDG_BDX_rebuild_herat_cathedral_title:0 "Í‘ú^ÈTÈp'YYeX"
+EDG_BDX_rebuild_herat_cathedral_desc:0 ""
+EDG_BDX_sufi_order_safavi_title:0 "¨cT§M(„ÕlôuYeâV§!"
+EDG_BDX_sufi_order_safavi_desc:0 "(„ÕlôuYeâV=fN*N13NªubËz„vÀNöS>mÏ‚òƒYeâVÿ`YúWºN=f(„òƒN·?–S¾Ôk)R0(„òƒNúQuŽN?–^XÜb†u„v?–S¾ÔkÒRÿÖN„v¶R­^	g“^S·VNˆßu0(„òƒNTegb:N†NÉb^yŠÏ‚òƒ>m'Y^Nbkê·	TpQ<S„vsYZŒTçubºNÿSNbkê†˜üR„vNbkêYeâV9ei—:N†N(„ÕlôuYeâV0(„ÕlôuYeâV(W(„òƒNÊSvQTãN„vßu»lNnÑSUS:N?–^XÜb†uÍ‘‰„v?e»l¿R›RKNNv^VËYú^Ëz?eCg0(„ÕlôuYeâV^SŽNASŒNO›sîv>mÿYe•N­ˆÿv^SYe•Æ‰:NgT„vO›sîvFzUØž·V·lškê(WºNô•„vãNhˆÿuóN›NÀoÛ±R.OSYe•Æ‰:Nlškê,g«Ž0"
+EDG_BDX_sufi_order_mushasha_title:0 "¨cT§MFz™l™lYeâV§!"
+EDG_BDX_sufi_order_mushasha_desc:0 "Fz™l™lYeâV=fN*N15NªubËz„vÀNöS>mÏ‚òƒYeâVÿ`YúWºN=fOÉbKQ^yfR¶RFzUØž·V·O,g·ÕlÉbk0O,g·ÕlÉbk=fúQuŽNOÉbKQ„v—æ—OýlÿTegMRŽV^Éb¥c×S^yfRYe²wÿv^ÎNÙöeVËYøváOêñT=fO›sîv?–Ì‘ŒTlškê(WºNô•„vãNhˆÿSêñT„v^yfRÂ‰¹p°d:N0lškê„vYeINÿKalam al-Mahdi	ÿ00ÖN±RðyêñT=f,rNãNO›sîvFz(„·aSPŸÆY„vTÔˆv^åN—æ—Oýl:N9hnc0Wú^Ëz†NFz™l™lYeâV0Fz™l™lYeâVÇÂríp„vCSµyt^ININŒTO¯epQ+gNº‹8TV†N'YÏ‘áO’Vÿb:N†NáwPŸ¯efW„vN¡wÍ‘‰¿R›R0"
+EDG_BDX_sufi_order_bektashi_title:0 "¨cT§MÜbKQTXÀNYeâV§!"
+EDG_BDX_sufi_order_bektashi_desc:0 "ÜbKQTXÀNYeâV=fN*N13NªubËz„vÀNöS>mÏ‚òƒYeâVÿ`YúWºN=fÈT	T·ÜbKQTXÀN0ÜbKQTXÀNúQuŽN±‚LRPR!j„v<S™l^Sÿþf=fšN(„ôuYeâV„vý–wÿTegeg0R†NWÆYÏ‚9NýV0ÜbKQTXÀNYeâV„vYe’VáOIY„vÀNöSYe>mðy:N?–Rôu>mÿ?–Rôu>muªVÜbKQTXÀN„v`ó`ÿ(WASŒNO›sîv>m„vúWNxN‡T†N8ngrl„v•u)Y.Oßu0ÜbKQTXÀNYeâVyr+RTle?–Ì‘ÿuó²‹:NHQåwFzUØž·VN?–Ì‘=fNºN0eY¯eüf„v6w<SRÌ‘SÜbKQTXÀNYeâVIY:N˜R¹e—RYe0"
+EDG_BDX_rekindle_the_fire_title:0 "Í‘Ãq1Wkp"
+EDG_BDX_rekindle_the_fire_desc:0 ""
+
+EDG_BDX_hide_alexandria_city_decisions_title:0 "–Ï…Í‘ú^šN†SqS'YÌ‘šNÎW¦³Q®‹"
+EDG_BDX_hide_alexandria_city_decisions_desc:0 ""
+EDG_BDX_show_alexandria_city_decisions_title:0 ">f:yÍ‘ú^šN†SqS'YÌ‘šNÎW¦³Q®‹"
+EDG_BDX_show_alexandria_city_decisions_desc:0 ""
+EDG_BDX_rebuild_alexandria_eschate_title:0 "Í‘ú^ÎW¦ÿ§YgßWšN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_eschate_desc:0 ""
+EDG_BDX_rebuild_alexandria_oxiana_title:0 "Í‘ú^ÎW¦ÿ§YLNRm³lTušN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_oxiana_desc:0 ""
+EDG_BDX_rebuild_alexandria_caucasus_title:0 "Í‘ú^ÎW¦ÿ§YØš R0tšN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_caucasus_desc:0 "¡l™Q•ÿ^JºN¡rtQý“^ÀNqSmNëSØš R0tqS0"
+EDG_BDX_rebuild_alexandria_ariana_title:0 "Í‘ú^ÎW¦ÿ§Y?–Ì‘‰R±šN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_ariana_desc:0 ""
+EDG_BDX_rebuild_alexandria_arachosia_title:0 "Í‘ú^ÎW¦ÿ§Y?–Éb—‰šNšN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_arachosia_desc:0 ""
+EDG_BDX_rebuild_alexandria_orietai_title:0 "Í‘ú^ÎW¦ÿ§YeYÌ‘ÃWTXšN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_orietai_desc:0 ""
+EDG_BDX_rebuild_alexandria_on_indus_title:0 "Í‘ú^ÎW¦ÿ§YpS¦^³lTušN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_on_indus_desc:0 ""
+EDG_BDX_rebuild_alexandria_nicaea_title:0 "Í‘ú^ÎW¦ÿ§YÜw)RšN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_nicaea_desc:0 "bwëS0<S‰šNšN†SqS'YÌ‘šN0ÿ<S‰šNsSÜw)RKNaÿ:NªuõVwm¾¯eiO¯e³lbyVÜw)R0"
+EDG_BDX_rebuild_alexandria_margiana_title:0 "Í‘ú^ÎW¦ÿ§YlšS	TšN³ušN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_margiana_desc:0 ""
+EDG_BDX_rebuild_alexandria_carmania_title:0 "Í‘ú^ÎW¦ÿ§YaSüf<SšNšN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_carmania_desc:0 ""
+EDG_BDX_rebuild_alexandria_issum_title:0 "Í‘ú^ÎW¦ÿ§YOÏ‚¯ešN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_issum_desc:0 ""
+EDG_BDX_expand_alexandria_title:0 "Í‘ú^ÎW¦ÿib.V§YÃWÊSšN†SqS'YÌ‘šN§!"
+EDG_BDX_expand_alexandria_desc:0 ""
+EDG_BDX_rebuild_alexandria_latmos_title:0 "Í‘ú^ÎW¦ÿ§YÉbyrid¯ešN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_latmos_desc:0 ""
+EDG_BDX_rebuild_alexandria_troas_title:0 "Í‘ú^ÎW¦ÿ§Yyrm?–¯ešN†SqS'YÌ‘šN§!"
+EDG_BDX_rebuild_alexandria_troas_desc:0 ""
+EDG_BDX_rebuild_alexandropolis_maedica_title:0 "Í‘ú^ÎW¦ÿ§YÆR•^aSšN†SqS·VWâl)R¯e§!"
+EDG_BDX_rebuild_alexandropolis_maedica_desc:0 ""
+
+#modifiers
+EDG_BDX_wild_storm_modifier:0 "NåeÄ–îr"
+EDG_BDX_backstab_modifier:0 "ÌwáOVIN"
+EDG_BDX_revive_bactrian_culture_modifier:0 "YtQôTKQyrÌ‘šN‡eS"
+EDG_BDX_suppress_afghan_modifier:0 "s^šR?–ÌRWl"
+EDG_BDX_provisional_capital_modifier:0 "j–ý"
+EDG_BDX_eschate_modifier:0 "gßW"
+EDG_BDX_parthia_governorate_modifier: "^ÐcšNI`cw:S"
+# EDG_BDX_top_of_the_world_modifier: "Û›QNLuKNÅT"
+EDG_BDX_indo_greek_kingdom_modifier: "pS¦^-^J‹sýV"
+EDG_BDX_complete_unfinished_business_modifier: "žR°s*gßzKNN"
+# EDG_BDX_chakravarti_modifier: "ln1W‹s"
+EDG_BDX_hindustan_padishah_modifier: "pS¦^¯efW„v^ê™l"
+EDG_BDX_persian_pearl_modifier:0 "âl¯eàs"
+EDG_BDX_mocha_coffee_modifier:0 "idaS–TaU"
+EDG_BDX_defender_of_two_holy_cities_modifier:0 "2N1W0W„vˆR²bw"
+EDG_BDX_tyrian_purple_modifier:0 "¨cW+t"
+EDG_BDX_build_navy_modifier:0 "ú^Ëz0W-Nwmwm›Q"
+EDG_BDX_egyptian_pharaoh_modifier:0 "ÃWÊSÕlw"
+EDG_BDX_pharaoh_canal_modifier:0 "ÕlwÐ³l"
+EDG_BDX_suppress_cappadocia_modifier:0 "s^šRaS^Y‰šN"
+EDG_BDX_kingdom_of_pontus_modifier:0 ",gý‹sýV"
+EDG_BDX_lord_of_asia_modifier:0 "šNÆušNKN‹s"
+# EDG_BDX_kereit_and_naiman_tribes_modifier:0 "6eKQÈp-CNî†è"
+EDG_BDX_drachma_modifier:0 "·VÉbKQlš"
+EDG_BDX_eagle_fly_alone_modifier:0 "Ä–pžìrÞ˜"
+EDG_BDX_frendly_with_fra_modifier:0 "²N‹YÕlpQ‰"
+EDG_BDX_frendly_with_eng_modifier:0 "²N‹YNR ˜"
+EDG_BDX_frendly_with_spa_modifier:0 "²N‹Y‰ísYr"
+EDG_BDX_frendly_with_adu_modifier:0 "²N‹Y‰R¾bS¯e"
+EDG_BDX_frendly_with_hre_modifier:0 "²N‹Y‡v^"
+EDG_BDX_frendly_with_pap_modifier:0 "÷‹BlASWR›Q"
+EDG_BDX_tame_city_states_modifier:0 "ošgÎW¦"
+EDG_BDX_solidify_thrace_modifier:0 "éTúV2–¡V"
+EDG_BDX_league_of_corinth_modifier:0 "Ñy—g¯eTßv"
+EDG_BDX_armenian_kingdom_modifier:0 "šNŽ<SšN‹sýV"
+EDG_BDX_armenian_march_modifier:0 "šNŽ<SšNkSbýV"
+EDG_BDX_ancient_battlefield_modifier:0 "äSb:W"
+EDG_BDX_sufi_order_safavi_modifier:0 "ý–(„ÕlôuYeâV"
+EDG_BDX_sufi_order_mushasha_modifier:0 "ý–Fz™l™lYeâV"
+EDG_BDX_sufi_order_bektashi_modifier:0 "ý–ÜbKQTXÀNYeâV"
+EDG_BDX_greek_fire_modifier:0 "^Jkp"
+EDG_BDX_supply_network_modifier:0 "eˆÙuQÜu"
+EDG_BDX_besieger_modifier:0 "ôVÎWw"
+EDG_BDX_hetairoi_modifier:0 "OËS‘šuQ"
+EDG_BDX_adm_alexandria_city_modifier:0 "Lˆ?e‹WšN†SqS'YÌ‘šNÎW¦"
+EDG_BDX_eco_alexandria_city_modifier:0 "ÏuNm‹WšN†SqS'YÌ‘šNÎW¦"
+EDG_BDX_mil_alexandria_city_modifier:0 "›Q‹N‹WšN†SqS'YÌ‘šNÎW¦"
+EDG_BDX_expand_alexandria_port_modifier:0 "ib.VšN†SqS'Y=n"
+EDG_BDX_revive_bactra_modifier:0 "Í‘ú^ôTKQyrÉb"
+EDG_BDX_modern_army_modifier:0 "°sãNS¹e5–"
+EDG_BDX_rationalism_modifier:0 "t'`ININ"
+EDG_BDX_the_greatest_conquer_modifier:0 "'Y0WKNN8lR`Ãqçp„vNK„*Y3–"
+EDG_BDX_ill_modifier:0 "«ŽSO±bY`"
+EDG_BDX_king_of_diadochis_modifier:0 "çuNwKN‹s"
+EDG_BDX_low_argead_legitimacy_modifier:0 "gÎ‘µOîv"
+EDG_BDX_expand_infrastructure_1_modifier:0 "ibú^úWNx¾‹Ëeÿ1	ÿ"
+EDG_BDX_expand_infrastructure_2_modifier:0 "ibú^úWNx¾‹Ëeÿ2	ÿ"
+EDG_BDX_expand_infrastructure_3_modifier:0 "ibú^úWNx¾‹Ëeÿ3	ÿ"
+EDG_BDX_balas_ruby_modifier:0 "ôTLR`¢uRów"
+EDG_BDX_balas_ruby_modifier_desc:0 "ôT¾kSµNúQNÍyT:N0ôTLR`0„v¢uRówÿa:N0d¢uhfæf0ÿåNê•®N:Yîv„v¢ur‚wû•T0vQ-NgW„T„v^—0Ñž‹sPR¢uRów0«ƒ^SÿÙ—˜Rów(W1367t^1uaS¯e‚„)RšN„viO·VWNN`Nñ‚<hpQ„vÑž‹sPR1r·VNSÿêdkåNTNôv«ˆv•LTŽNñ‚<hpQ‹s Q„vck-NÃV0"
+EDG_BDX_ear_cleaned_modifier:0 "3w9hnÀQ"
+EDG_BDX_greek_buddhist_art_province_modifier:0 "^JSiOYez‚=g"
+EDG_BDX_golden_family_modifier:0 "ÄžÑ‘¶RÏe„vcˆµ”"
+EDG_BDX_purge_timurid_modifier:0 "nm^(g?Q¶RÏe"
+EDG_BDX_medical_accident_modifier:0 "IS—u‹NEe"
+EDG_BDX_phalanx_modifier:0 "lšvQ˜¹e5–"
+EDG_BDX_go_west_modifier:0 "âl¯eÄ–ÃV"
+EDG_BDX_king_of_king_of_aryan_modifier:0 "Å–)R‰RºN„vN‹sKN‹s"
+EDG_BDX_prester_john_modifier:0 "myøS‹s¦uðÿ"
+EDG_BDX_overturn_council_of_ephesus_modifier:0 "¨cûåNVNb'YlQO®‹Áˆ³Q"
+EDG_BDX_invalid_organization_modifier:0 "^—ÕlÄuÇu"
+
+EDG_BDX_armenian_march_triggered_modifier:0 "šNŽ<SšNkSbýV"
+EDG_BDX_hammer_and_anvil_tactics_1_triggered_modifier:0 "2•'xb=gÿ10	ÿ"
+EDG_BDX_hammer_and_anvil_tactics_2_triggered_modifier:0 "2•'xb=gÿ20	ÿ"
+EDG_BDX_hammer_and_anvil_tactics_3_triggered_modifier:0 "2•'xb=gÿ30	ÿ"
+EDG_BDX_offense_idea_1_triggered_modifier:0 "ÛIetõVÿ1	ÿ"
+EDG_BDX_offense_idea_2_triggered_modifier:0 "ÛIetõVÿ2	ÿ"
+EDG_BDX_offense_idea_3_triggered_modifier:0 "ÛIetõVÿ3	ÿ"
+EDG_BDX_offense_idea_4_triggered_modifier:0 "ÛIetõVÿ4	ÿ"
+EDG_BDX_offense_idea_5_triggered_modifier:0 "ÛIetõVÿ5	ÿ"
+EDG_BDX_offense_idea_6_triggered_modifier:0 "ÛIetõVÿ6	ÿ"
+EDG_BDX_offense_idea_7_triggered_modifier:0 "ÛIetõVÿ7	ÿNÎ‘ÃV"
+EDG_BDX_defense_idea_1_triggered_modifier:0 "2–ˆRtõVÿ1	ÿ"
+EDG_BDX_defense_idea_2_triggered_modifier:0 "2–ˆRtõVÿ2	ÿ"
+EDG_BDX_defense_idea_3_triggered_modifier:0 "2–ˆRtõVÿ3	ÿ"
+EDG_BDX_defense_idea_4_triggered_modifier:0 "2–ˆRtõVÿ4	ÿ"
+EDG_BDX_defense_idea_5_triggered_modifier:0 "2–ˆRtõVÿ5	ÿ"
+EDG_BDX_defense_idea_6_triggered_modifier:0 "2–ˆRtõVÿ6	ÿ"
+EDG_BDX_defense_idea_7_triggered_modifier:0 "2–ˆRtõVÿ7	ÿNÎ‘ÃV"
+EDG_BDX_quality_idea_1_triggered_modifier:0 "(Ï‘tõVÿ1	ÿ"
+EDG_BDX_quality_idea_2_triggered_modifier:0 "(Ï‘tõVÿ2	ÿ"
+EDG_BDX_quality_idea_3_triggered_modifier:0 "(Ï‘tõVÿ3	ÿ"
+EDG_BDX_quality_idea_4_triggered_modifier:0 "(Ï‘tõVÿ4	ÿ"
+EDG_BDX_quality_idea_5_triggered_modifier:0 "(Ï‘tõVÿ5	ÿ"
+EDG_BDX_quality_idea_6_triggered_modifier:0 "(Ï‘tõVÿ6	ÿ"
+EDG_BDX_quality_idea_7_triggered_modifier:0 "(Ï‘tõVÿ7	ÿNÎ‘ÃV"
+EDG_BDX_quantity_idea_1_triggered_modifier:0 "peÏ‘tõVÿ1	ÿ"
+EDG_BDX_quantity_idea_2_triggered_modifier:0 "peÏ‘tõVÿ2	ÿ"
+EDG_BDX_quantity_idea_3_triggered_modifier:0 "peÏ‘tõVÿ3	ÿ"
+EDG_BDX_quantity_idea_4_triggered_modifier:0 "peÏ‘tõVÿ4	ÿ"
+EDG_BDX_quantity_idea_5_triggered_modifier:0 "peÏ‘tõVÿ5	ÿ"
+EDG_BDX_quantity_idea_6_triggered_modifier:0 "peÏ‘tõVÿ6	ÿ"
+EDG_BDX_quantity_idea_7_triggered_modifier:0 "peÏ‘tõVÿ7	ÿNÎ‘ÃV"
+EDG_BDX_update_tolerance_heathen_1_triggered_modifier:0 "VYe¹RÍVÿ1	ÿ"
+EDG_BDX_update_tolerance_heathen_2_triggered_modifier:0 "VYe¹RÍVÿ2	ÿ"
+EDG_BDX_update_tolerance_heathen_3_triggered_modifier:0 "VYe¹RÍVÿ3	ÿ"
+EDG_BDX_update_tolerance_heathen_4_triggered_modifier:0 "VYe¹RÍVÿ4	ÿ"
+EDG_BDX_update_tolerance_heathen_5_triggered_modifier:0 "VYe¹RÍVÿ5	ÿ"
+
+#opinions
+EDG_BDX_reject_submission_to_timurid_opinion:0 "ÒbÝuHeàV"
+EDG_BDX_prester_john_opinion:0 "myøS‹s¦uð"
+
+#diplomacy
+EDG_BDX_CANT_DECLARE_WARS_DURING_DIADOCHI_WAR:0 "(WçuNwb‰Ngô•àeÕlÑS¨Rb‰N0"
+
+#reforms
+EDG_BDX_Argead_Dynasty:0 "?–	T·V‹sg"
+EDG_BDX_Argead_Dynasty_desc:0 ""
+EDG_BDX_Argead_Dynasty_Achaemenid:0 "?–	T·V-?–QYŽ<S·V‹sg"
+EDG_BDX_Argead_Dynasty_Achaemenid_desc:0 ""
+EDG_BDX_Argead_Empire:0 "?–	T·V^ýV"
+EDG_BDX_Argead_Empire_Achaemenid_desc:0 ""
+EDG_BDX_Argead_Empire_Achaemenid:0 "?–	T·V^ýV"
+EDG_BDX_Argead_Empire_desc:0 ""
+EDG_BDX_Diadochi:0 "çuNw‹sýV"
+EDG_BDX_Diadochi_desc:0 ""
+mechanic_EDG_BDX_increase_cultural_assimilation_chance_ability:0 "§GÐcØš§!§V‡eSTS§!‘˜‡s0"
+mechanic_EDG_BDX_increase_cultural_assimilation_chance_ability_yes:0 "§GÐcØš§!§V‡eSTS§!‘˜‡s0"
+EDG_BDX_Persian_Bureaucracy:0 "âl¯e˜RÚP"
+EDG_BDX_Persian_Bureaucracy_desc:0 ""
+EDG_BDX_Reformed_Governorate:0 "9ei—I`cw:S"
+EDG_BDX_Reformed_Governorate_desc:0 ""
+EDG_BDX_Holy_king:0 ")YàeŒNåe"
+EDG_BDX_Holy_king_desc:0 ""
+EDG_BDX_World_Culture:0 "NLu‡eS"
+EDG_BDX_World_Culture_desc:0 ""
+EDG_BDX_Stable_Succession:0 "3zšR„vçub6R¦^"
+EDG_BDX_Stable_Succession_desc:0 ""
+EDG_BDX_Imamate_Of_Nizari:0 "<SNbÌ‘O›sîvýV"
+EDG_BDX_Imamate_Of_Nizari_desc:0 ""
+EDG_BDX_Chakravartin:0 "ln1W‹s"
+EDG_BDX_Chakravartin_desc:0 ""
+mechanic_EDG_BDX_update_tolerance_heathen_ability:0 "Ïk§Y1§!¹pck§YVYe¹RÍV¦^§!Ðc›O§G+1.00§!ckßuáOðN¹RÍV¦^ŒT§G+1.0%§!.OYe:V¦^0"
+mechanic_EDG_BDX_update_tolerance_heathen_ability_yes:0 "Ïk§Y1§!¹pck§YVYe¹RÍV¦^§!Ðc›O§G+1.00§!ckßuáOðN¹RÍV¦^ŒT§G+1.0%§!.OYe:V¦^0"
+EDG_BDX_Three_Holy_Fires:0 ")YRKNýV"
+EDG_BDX_Three_Holy_Fires_desc:0 ""
+EDG_BDX_Seleucia_Ctesiphon_Patriarch:0 "^X	t‰šN-ðl‰S'Ygr–™"
+EDG_BDX_Seleucia_Ctesiphon_Patriarch_desc:0 ""
+mechanic_EDG_BDX_nestorianism_aspect_ignore_condition_ability:0 "ïSåNàeagöNO(u§YofYe§!„v£dip£§YY²NYeag§!ŒT£mil£§Y›Q‹NYeag§!0"
+mechanic_EDG_BDX_nestorianism_aspect_ignore_condition_ability_yes:0 "ïSåNàeagöNO(u§YofYe§!„v£dip£§YY²NYeag§!ŒT£mil£§Y›Q‹NYeag§!0"
+
+mechanic_EDG_more_stability_loss_on_monarch_death:0 "ßu»lw‰k¡Nöe˜Y1Y»S§R1§!¹p3zšR¦^0"
+mechanic_EDG_more_stability_loss_on_monarch_death_yes:0 "ßu»lw‰k¡Nöe˜Y1Y»S§R1§!¹p3zšR¦^0"
+
+#estates
+estate_EDG_nomad_name:0 "8ngrl"
+estate_EDG_BDX_nomadic_mercenaries:0 "8ngrÇ–cOuQ"
+estate_EDG_BDX_nomadic_mercenaries_desc:0 ""
+estate_EDG_BDX_silk_road_trade:0 "NïFU–"
+estate_EDG_BDX_silk_road_trade_desc:0 ""
+estate_EDG_BDX_greek_buddhist_art:0 "^JSiOYez‚=g"
+estate_EDG_BDX_greek_buddhist_art_desc:0 ""
+estate_EDG_BDX_greek_buddhist_art_tt1:0 "»lNNb	gáOðN§Y'YXNiOYe§!Nú^	g§YúR™^§!b§Y'YúR™^§!„vwýN·ƒ—V‚YN Rbÿ"
+estate_EDG_BDX_greek_buddhist_art_tt2:0 "0§Y^JSiOYez‚=g§!0îOckSÎN»lNNb	gwýNûyd–0"
+estate_EDG_BDX_kereit_and_naiman_tribes:0 "6eKQÈp-CNî†è"
+estate_EDG_BDX_kereit_and_naiman_tribes_desc:0 ""
+estate_EDG_BDX_kereit_and_naiman_tt:0 "§Y[Root.GetName]§!ÿ(W§Y[This.GetName]§!·ƒ—V§G5§!–0§GïSWl²NkS§!0§Y‘šuQ§!0"
+
+#mechanics
+EDG_BDX_argead_legitimacy:0 "§O?–	T·V‹sgckßu'`§!"
+ability_EDG_BDX_argead_legitimacy:0 "§O?–	T·V‹sgckßu'`§!"
+EDG_BDX_argead_legitimacy_power:0 "§O?–	T·V‹sgckßu'`§!"
+EDG_BDX_argead_legitimacy_power_desc:0 ""
+monthly_EDG_BDX_argead_legitimacy_power:0 "g¦^§O?–	T·V‹sgckßu'`§!"
+EDG_BDX_government_interactions_recruit_one_hetairoi:0 "ÛbßROËS‘šuQ"
+EDG_BDX_government_interactions_recruit_one_hetairoi_desc:0 ""
+EDG_BDX_government_interactions_recruit_hetairoi_to_limit:0 "ybÏ‘ÛbßROËS‘šuQ"
+EDG_BDX_government_interactions_recruit_hetairoi_to_limit_desc:0 ""
+EDG_BDX_recruit_hetairoi_less_than_limit_trigger_tt:0 "§YOËS‘šuQ§!peÏ‘SŽN§O?–	T·V‹sgckßu'`§!0"
+EDG_BDX_recruit_hetairoi_to_limit_tt:0 "ÛbßR§YOËS‘šuQ§!ôv0RàeÕlçuíuÛbßR0"
+
+#holy orders
+EDG_BDX_mevlevi_holy_order:0 "…h+YÉbôuYeâV"
+EDG_BDX_mevlevi_holy_order_desc:0 "…h+YÉbôuYeâV=fN*N13NªubËz„v<S>mÏ‚òƒYeâVÿwnŽNWÆYÏ‚9NýV„v–™ýÑy<SšNÿ`YúWºN=fâl¯e×‹ºNNYeÕlfR¶Rœs|0œs|IN.V‰ŠbwIN„v1r>e(W–™MOÿw^—ØbålŽNYeag0…h+YÉbôuYeâVg'Yyr¹p=fHywyöe‰ÛLˆlWêNVÿáO’VìNøváOïSåNÇÙÍyaÆ‹NwINú^ËzTwû|ÿàVdk…h+YÉbôuYeâV„váO’VmN«ˆðy:NËelæ‚LˆçP0…h+YÉbôuYeâV(WSšNÆušN„vz¥SºNKN-N	gNw>N³‰Í‘„vqVÍT›R0"
+EDG_BDX_qadiri_holy_order:0 "aSêÌ‘YeâV"
+EDG_BDX_qadiri_holy_order_desc:0 "aSêÌ‘YeâV=f13NªubËz„v<S>mÏ‚òƒYeâVÿ`YúWºN=fUŒvÌ‘>mfRw?–jSjgÒR·aSêS·	TÉb<S0aSêSúQuŽNOg„v	TpQÿTegMRŽVôT<h¾fR`NO¯epQYeÕlÿŒRbfRNT(WOÉbKQ„v™l.oÌ‘Amjm†N25t^ÿgÈu(WZft^ÞV0RôT<h¾Yeˆc1W­‹v^SO¯epQYeÕlN^yØyININÓuT0KS¡raSêS^SŽNUŒvÌ‘>mÿFO=fÖNS™leêN>mŒTUŒvÌ‘>m„vYeÕl>e(WTIr0WMOÿv^Töe9hnc2NwÙuúQYeäNÿåNóŽNºNìNSaSêSTöeÆ‰:NUŒvÌ‘>mN™leêN>m„v0Œk0aSêÌ‘YeâV:VŒÀQS…QÃVŒT^y1WKN1rÿùRªRSNŒT(„ÉbNµNuÇñmIR„vqVÍT0aSêÌ‘YeâV(W™„äSºNùRôT<h¾„vVg-Nx^XR†NNegv^VgceöSÿR=e‰óidmåT0lšÌ‘ÿNó-NýVÿM^NLu0"
+EDG_BDX_naqshbandi_holy_order:0 "³u<hÀNísêYeâV"
+EDG_BDX_naqshbandi_holy_order_desc:0 "³u<hÀNísêYeâV=fN*N14NªubËz„v<S>mÏ‚òƒYeâVÿ`YúWºN=f^ÈTÉb„vTX	TKQºN‹vÈT‡eN·³u<hÀNís·V·^ÈTÌ‘0³u<hÀNís·VÍSùRÇRæ‚LˆŒTÂríp„vêNVÿØš¦^Í‘Æ‰O¯epQYeÕlŒT^’Vô•„v¾|^y²NAmÿvQŠLˆ«ˆè•’VÆ–bŒQÿ‰kTl„(W^ÈTÉb0³u<hÀNís·VNÍ‹(Wâl¯eí‹-Na:NIu¶RÿàVYeâVbXT(WØžõ‹äSpQÏuöe(WøwMRåNKbcIu¿uÿåN’cd–BgõVÿþRIu…QÃV„vwŒRŽƒXLuw—VT0³u<hÀNísêYeâV=f^(g?Q‹sgESŽNßu»l0WMO„vO¯epQYe>m+Rÿ(WpS¦^ŒT-NýVmN	g>N³‰Í‘„vqVÍT›R0"
+EDG_BDX_safavi_holy_order:0 "(„ÕlôuYeâV"
+EDG_BDX_safavi_holy_order_desc:0 "(„ÕlôuYeâV=fN*N13NªubËz„vÀNöS>mÏ‚òƒYeâVÿ`YúWºN=f(„òƒN·?–S¾Ôk)R0(„òƒNúQuŽN?–^XÜb†u„v?–S¾ÔkÒRÿÖN„v¶R­^	g“^S·VNˆßu0(„òƒNTegb:N†NÉb^yŠÏ‚òƒ>m'Y^Nbkê·	TpQ<S„vsYZŒTçubºNÿSNbkê†˜üR„vNbkêYeâV9ei—:N†N(„ÕlôuYeâV0(„ÕlôuYeâV(W(„òƒNÊSvQTãN„vßu»lNnÑSUS:N?–^XÜb†uÍ‘‰„v?e»l¿R›RKNNv^VËYú^Ëz?eCg0(„ÕlôuYeâV^SŽNASŒNO›sîv>mÿYe•N­ˆÿv^SYe•Æ‰:NgT„vO›sîvFzUØž·V·lškê(WºNô•„vãNhˆÿuóN›NÀoÛ±R.OSYe•Æ‰:Nlškê,g«Ž0"
+EDG_BDX_mushasha_holy_order:0 "Fz™l™lYeâV"
+EDG_BDX_mushasha_holy_order_desc:0 "Fz™l™lYeâV=fN*N15NªubËz„vÀNöS>mÏ‚òƒYeâVÿ`YúWºN=fOÉbKQ^yfR¶RFzUØž·V·O,g·ÕlÉbk0O,g·ÕlÉbk=fúQuŽNOÉbKQ„v—æ—OýlÿTegMRŽV^Éb¥c×S^yfRYe²wÿv^ÎNÙöeVËYøváOêñT=fO›sîv?–Ì‘ŒTlškê(WºNô•„vãNhˆÿSêñT„v^yfRÂ‰¹p°d:N0lškê„vYeINÿKalam al-Mahdi	ÿ00ÖN±RðyêñT=f,rNãNO›sîvFz(„·aSPŸÆY„vTÔˆv^åN—æ—Oýl:N9hnc0Wú^Ëz†NFz™l™lYeâV0Fz™l™lYeâVÇÂríp„vCSµyt^ININŒTO¯epQ+gNº‹8TV†N'YÏ‘áO’Vÿb:N†NáwPŸ¯efW„vN¡wÍ‘‰¿R›Rÿv^N(„ÕlôuYeâV•g²Qz0"
+EDG_BDX_bektashi_holy_order:0 "ÜbKQTXÀNYeâV"
+EDG_BDX_bektashi_holy_order_desc:0 "ÜbKQTXÀNYeâV=fN*N13NªubËz„vÀNöS>mÏ‚òƒYeâVÿ`YúWºN=fÈT	T·ÜbKQTXÀN0ÜbKQTXÀNúQuŽN±‚LRPR!j„v<S™l^Sÿþf=fšN(„ôuYeâV„vý–wÿTegeg0R†NWÆYÏ‚9NýV0ÜbKQTXÀNYeâV„vYe’VáOIY„vÀNöSYe>mðy:N?–Rôu>mÿ?–Rôu>muªVÜbKQTXÀN„v`ó`ÿ(WASŒNO›sîv>m„vúWNxN‡T†N8ngrl„v•u)Y.Oßu0ÜbKQTXÀNYeâVyr+RTle?–Ì‘ÿuó²‹:NHQåwFzUØž·VN?–Ì‘=fNºN0eY¯eüf„v6w<SRÌ‘SÜbKQTXÀNYeâVIY:N˜R¹e—RYe0"
+EDG_BDX_nizari_holy_order:0 "<SNbÌ‘YeâV"
+EDG_BDX_nizari_holy_order_desc:0 "<SNbÌ‘>mwnŽN11Nªu„vÕl‚„›s‹sgÿ=fO¯e›sêN>m„vR=e0Õl‚„›s‹sg,rkQãNÈTÌ‘ÑS|QO›sîvFz¯efWåuS·ÔkÉb»SNTÿôuPŸS?–+Y¾S·™lIl™l?–ætVCg=gÿŸ^Üž†NcšRçubºN•PR<SNbS·O,g·Fz¯efWåuSÿ9eËz<SNbS„vFz¯eTX)R:N°eÈTÌ‘ÑS0<SNbS»yVWÿ(WšN†SqS'Y=nÑS¨RÛSqNÿuQ%«Ž‰k0åNÈTQh·O,g·(„ôTk:N–™„v<SNbS=ecw:YÖS†Nâl¯eSèqS:S„v?–ÉbFzyr!XjO:Nnc¹pRËz†N0?–(„›YeâV0ÿv^ÎN‹N:RNgIm¨R0(W™„äS^ýV‰V-Nÿ?–(„›Õ‹þV:RNg™„åTwN™„äSºNÓuÇNÿgÈu«ˆíeÈpNQRmp0‹†6q?–(„›òTÏump¡NÿFO=fÍN	g<SNbS„v=ecwAmK„ŽNNLuT0WÿvQ-NôT¾kSb:N†N<SNbÌ‘>mgIN‰„vZwÆ–0W0"
+EDG_BDX_nagasena_holy_order:0 "±KOŽr±çPKO"
+EDG_BDX_nagasena_holy_order_desc:0 ""
+EDG_BDX_metropolitanate_holy_order:0 "N¹eYeOýINYe:S"
+EDG_BDX_metropolitanate_holy_order_desc:0 ""
+
+#cultures
+EDG_bactrian_culture:0 "ôTKQyrÌ‘šN"
+EDG_greco_bactrian_culture:0 "^J-ôTKQyrÌ‘šN"
+
+#personalities
+EDG_ambitious_personality:0 "Î‘ÃVÃRÃR"
+
+#mercenaries
+merc_EDG_BDX_badakhshan_mountain_hunters: "§OôT¾kSqS0WsKb§!"
+merc_EDG_BDX_sparta_champions: "§O¯eôT¾ÇRëX§!"
+
+#disasters
+EDG_BDX_diadochi_war_disaster:0 "çuNwb‰N"
+EDG_BDX_for_high_argead_legitimacy_tt:0 "- 1uŽN§O?–	T·V‹sgckßu'`§!§G^—8^Øš§!ÿ"
+EDG_BDX_for_common_argead_legitimacy_tt:0 "- 1uŽN§O?–	T·V‹sgckßu'`§!§GƒØš§!ÿ"
+EDG_BDX_for_low_argead_legitimacy_tt:0 "- 1uŽN§O?–	T·V‹sgckßu'`§!§YN,‚§!ÿ"
+EDG_BDX_for_very_low_argead_legitimacy_tt:0 "- 1uŽN§O?–	T·V‹sgckßu'`§!§RƒNO§!ÿ"
+EDG_BDX_diadochi_has_weaker_army_tt:0 "§Y[This.GetName]§!„vuQ›R§G'YE^JR1V§!0"
+EDG_BDX_diadochi_has_stronger_army_tt:0 "§Y[This.GetName]§!„vuQ›R	gNb§GJR1V§!0"
+EDG_BDX_diadochi_has_very_stronger_army_tt:0 "§Y[This.GetName]§!„vuQ›R§R'YE^žX:V§!0"
+
+#cbs and wargoals
+EDG_BDX_COUNTRIES_IN_GREAT_CONQUER_SCOPE:0 "–™ý(WO'YVg(u:SßW…Q„vøv»ýV¶R"
+EDG_BDX_GREAT_CONQUER_WAR_NAME:0 "$ORDER$$FIRST$O'YVgb‰N"
+EDG_BDX_DIADOCHI_WAR_NAME:0 "$ORDER$$FIRST$çuNwb‰N"
+EDG_BDX_great_conquer_wargoal:0 "O'YVg"
+EDG_BDX_great_conquer_wargoal_desc:0 "Üww:N‹s"
+cb_EDG_BDX_great_conquer:0 "§OO'YVg§!"
+cb_EDG_BDX_great_conquer_desc:0 "b‰Nîvh=fUS°s8—Cg0"
+EDG_BDX_diadochi_war_wargoal:0 "çuNwb‰N"
+EDG_BDX_diadochi_war_wargoal_desc:0 "b‰Nîvh=fUS°s8—Cg0"
+cb_EDG_BDX_diadochi_war:0 "çuNwb‰N"
+cb_EDG_BDX_diadochi_war_desc:0 "b‰Nîvh=fUS°s8—Cg0"
+
+#military doctrine
+EDG_BDX_mil_doc_var:0 "§J›Q‹Ntº‹¹ppe§!"
+EDG_BDX_no_idea_group_tt:0 "§YbìNîvMRØ¡l	g	éb›Q‹NtõVÄu0§!"
+EDG_BDX_offense_idea_group_tt:0 "SVMRòTÏuã‰•†N§YÛIe§!tõVÄu-N„v§G[Root.EDG_BDX_mil_doc_var.GetValue]§!*NtõV0"
+EDG_BDX_defense_idea_group_tt:0 "SVMRòTÏuã‰•†N§Y2–ˆR§!tõVÄu-N„v§G[Root.EDG_BDX_mil_doc_var.GetValue]§!*NtõV0"
+EDG_BDX_quality_idea_group_tt:0 "SVMRòTÏuã‰•†N§Y(Ï‘§!tõVÄu-N„v§G[Root.EDG_BDX_mil_doc_var.GetValue]§!*NtõV0"
+EDG_BDX_quantity_idea_group_tt:0 "SVMRòTÏuã‰•†N§YpeÏ‘§!tõVÄu-N„v§G[Root.EDG_BDX_mil_doc_var.GetValue]§!*NtõV0"
+EDG_BDX_battle_of_thebes_yes_tt:0 "£yes£§G•^Ôk¯ebyV§!ÿMOŽN§Y[146.GetName]§!	ÿ"
+EDG_BDX_battle_of_thebes_no_tt:0 "£no£§g•^Ôk¯ebyV§!ÿMOŽN§Y[146.GetName]§!	ÿ"
+EDG_BDX_battle_of_granicus_yes_tt:0 "£yes£§G<hÉb<S“^¯e³lbyV§!ÿMOŽN§Y[2296.GetName]§!	ÿ"
+EDG_BDX_battle_of_granicus_no_tt:0 "£no£§g<hÉb<S“^¯e³lbyV§!ÿMOŽN§Y[2296.GetName]§!	ÿ"
+EDG_BDX_battle_of_issus_yes_tt:0 "£yes£§GOÏ‚¯ebyV§!ÿMOŽN§Y[2313.GetName]§!	ÿ"
+EDG_BDX_battle_of_issus_no_tt:0 "£no£§gOÏ‚¯ebyV§!ÿMOŽN§Y[2313.GetName]§!	ÿ"
+EDG_BDX_battle_of_tyre_yes_tt:0 "£yes£§G¨cWôVÎWb§!ÿMOŽN§Y[1855.GetName]§!	ÿ"
+EDG_BDX_battle_of_tyre_no_tt:0 "£no£§g¨cWôVÎWb§!ÿMOŽN§Y[1855.GetName]§!	ÿ"
+EDG_BDX_battle_of_gaugamela_yes_tt:0 "£yes£§GØš Rs|ÉbbyV§!ÿMOŽN§Y[411.GetName]§!	ÿ"
+EDG_BDX_battle_of_gaugamela_no_tt:0 "£no£§gØš Rs|ÉbbyV§!ÿMOŽN§Y[411.GetName]§!	ÿ"
+EDG_BDX_battle_of_persian_gate_yes_tt:0 "£yes£§Gâl¯eè•byV§!ÿMOŽN§Y[2217.GetName]§!	ÿ"
+EDG_BDX_battle_of_persian_gate_no_tt:0 "£no£§gâl¯eè•byV§!ÿMOŽN§Y[2217.GetName]§!	ÿ"
+EDG_BDX_battle_of_hydaspes_yes_tt:0 "£yes£§Gwm¾¯eiO¯e³lbyV§!ÿMOŽN§Y[4511.GetName]§!	ÿ"
+EDG_BDX_battle_of_hydaspes_no_tt:0 "£no£§gwm¾¯eiO¯e³lbyV§!ÿMOŽN§Y[4511.GetName]§!	ÿ"
+
+#cultural assimilation
+EDG_BDX_cultural_assimilation_1_modifier:0 "‡eSTSVY±Rÿ10	ÿ"
+EDG_BDX_cultural_assimilation_2_modifier:0 "‡eSTSVY±Rÿ20	ÿ"
+EDG_BDX_cultural_assimilation_3_modifier:0 "‡eSTSVY±Rÿ50	ÿ"
+EDG_BDX_cultural_assimilation_4_modifier:0 "‡eSTSVY±Rÿ100	ÿ"
+EDG_BDX_cultural_assimilation_5_modifier:0 "‡eSTSVY±Rÿ150	ÿ"
+EDG_BDX_cultural_assimilation_6_modifier:0 "‡eSTSVY±Rÿ200	ÿ"
+EDG_BDX_cultural_assimilation_7_modifier:0 "‡eSTSVY±Rÿ300	ÿ"
+EDG_BDX_cultural_assimilation_8_modifier:0 "‡eSTSVY±Rÿ500	ÿ"
+EDG_BDX_cultural_assimilation_9_modifier:0 "‡eSTSVY±Rÿ700	ÿ"
+EDG_BDX_cultural_assimilation_10_modifier:0 "‡eSTSVY±Rÿ1000	ÿ"
+EDG_BDX_assimilated_culture_greco_bactria_tt:0 "- §Y^J-ôTKQyrÌ‘šN§!\n"
+EDG_BDX_assimilated_culture_greek_tt:0 "- §Y^J§!\n"
+EDG_BDX_assimilated_culture_pontic_tt:0 "- §Y,gý§!\n"
+EDG_BDX_cultural_assimilation_bonus_1_yes_tt:0 "£yes£ÿ§Y10§!	ÿhQýVÛSqN¦^ÿ§G-1.00§!"
+EDG_BDX_cultural_assimilation_bonus_1_no_tt:0 "£no£§gÿ§Y10§!	ÿhQýVÛSqN¦^ÿ-1.00§!"
+EDG_BDX_cultural_assimilation_bonus_2_yes_tt:0 "£yes£ÿ§Y20§!	ÿ3zšR¦^±‚9îOckÿ§G-25.0%§!"
+EDG_BDX_cultural_assimilation_bonus_2_no_tt:0 "£no£§gÿ§Y20§!	ÿ3zšR¦^±‚9îOckÿ-25.0%§!"
+EDG_BDX_cultural_assimilation_bonus_3_yes_tt:0 "£yes£ÿ§Y50§!	ÿ`no.O­dÿ§G+25.0%§!"
+EDG_BDX_cultural_assimilation_bonus_3_no_tt:0 "£no£§gÿ§Y50§!	ÿ`no.O­dÿ+25.0%§!"
+EDG_BDX_cultural_assimilation_bonus_4_yes_tt:0 "£yes£ÿ§Y100§!	ÿtõV±‚9ÿ§G-10.0%§!"
+EDG_BDX_cultural_assimilation_bonus_4_no_tt:0 "£no£§gÿ§Y100§!	ÿtõV±‚9ÿ-10.0%§!"
+EDG_BDX_cultural_assimilation_bonus_5_yes_tt:0 "£yes£ÿ§Y150§!	ÿßu»lwT‡eSŒ˜î•±‚9ÿ§G-20.0%§!"
+EDG_BDX_cultural_assimilation_bonus_5_no_tt:0 "£no£§gÿ§Y150§!	ÿßu»lwT‡eSŒ˜î•±‚9ÿ-20.0%§!"
+EDG_BDX_cultural_assimilation_bonus_6_yes_tt:0 "£yes£ÿ§Y200§!	ÿNb	g6–BSàVÚ‹GWaˆ¹pÿ§G+5.0%§!"
+EDG_BDX_cultural_assimilation_bonus_6_no_tt:0 "£no£§gÿ§Y200§!	ÿNb	g6–BSàVÚ‹GWaˆ¹pÿ+5.0%§!"
+EDG_BDX_cultural_assimilation_bonus_7_yes_tt:0 "£yes£ÿ§Y300§!	ÿøv¹R‡eSwýNºN›Rÿ§G+20.0%§!"
+EDG_BDX_cultural_assimilation_bonus_7_no_tt:0 "£no£§gÿ§Y300§!	ÿøv¹R‡eSwýNºN›Rÿ+20.0%§!"
+EDG_BDX_cultural_assimilation_bonus_8_yes_tt:0 "£yes£ÿ§Y500§!	ÿR»yININt^peÿ§G-5§!"
+EDG_BDX_cultural_assimilation_bonus_8_no_tt:0 "£no£§gÿ§Y500§!	ÿR»yININt^peÿ-5§!"
+EDG_BDX_cultural_assimilation_bonus_9_yes_tt:0 "£yes£ÿ§Y700§!	ÿhQýVÛSqN¦^ÿ§G-2.00§!"
+EDG_BDX_cultural_assimilation_bonus_9_no_tt:0 "£no£§gÿ§Y700§!	ÿhQýVÛSqN¦^ÿ-2.00§!"
+EDG_BDX_cultural_assimilation_bonus_10_yes_tt:0 "£yes£ÿ§Y1000§!	ÿã‰•§Y9§!µu?eœ^9ei—0§YNLu‡eS§!00"
+EDG_BDX_cultural_assimilation_bonus_10_no_tt:0 "£no£§gÿ§Y1000§!	ÿã‰•9µu?eœ^9ei—0NLu‡eS0§!0"
+
+#logs
+# EDG_BDX_log1:0 "Great conquer: EDG_BDX_great_conquer_core_creation_var = [This.EDG_BDX_great_conquer_core_creation_var.GetValue]"
+# EDG_BDX_log2:0 "Great conquer: EDG_BDX_great_conquer_all_power_cost_var = [This.EDG_BDX_great_conquer_all_power_cost_var.GetValue]"
+# EDG_BDX_log3:0 "Great conquer: EDG_BDX_great_conquer_adm_cost_var = [This.EDG_BDX_great_conquer_adm_cost_var.GetValue]"
+# EDG_BDX_log4:0 "Great conquer: EDG_BDX_great_conquer_adm_power_var = [This.EDG_BDX_great_conquer_adm_power_var.GetValue]"
+# EDG_BDX_log5:0 "Great conquer: EDG_BDX_great_conquer_administrative_efficiency_var = [This.EDG_BDX_great_conquer_administrative_efficiency_var.GetValue]"
+
+#start screen
+EDG_string_start_BDX:0 "§Os|SØžUØž·VN?–	T·V‹sg§!\n§YôT¾KQqS§!=ftQý“^ÀNqSN…–„vOPûPSýV0ôT¾KQqS„vßu»lw«ˆðy:N§Ys|S§!ÿSVMR„vs|S§YÏ‚9N·FzUØž·V§!ncðy=f§YšN†SqS'Y'Y^§!„v„vTÔˆÿws|S„v¶RÏe=fßu»l§YlšvQ˜^ýV§!„v§Y?–	T·V‹sg§!°sXRŽNN„v=UNTãNÏeû|0FzUØž·VNÖN„v?QPR§YO¯eNW·VS§!NôvåN•ENåNegNôvåNÁNHaßu»lNwÙ*NOPÜSýVÿFO=fÃV-NtSÎN*g>eVÍ‘=c?–	T·V¶RÏecƒIQ„v¦hó`0\n\n§OôT¾kS§!\n§YôT¾kS§!åNúQµNNÍyT:N0ôTLR`0„v¢uRówwû•TÿÙÍy¢uRów	gNwê•®N:Yîv„v¢ur‚ÿFUºNÇ0¢uRówKNï0SôT¾kS„v¢uRów¿lNwNøuKNï•ŽVNLuT0W0\nôT¾kSN¹eb—jO:NšN2m'YF–ASWRïãSÿ|bˆRNwOg-þVpQ0pS¦^!k'YF–åNÊSN¹e„v²NLuKN0WÿæSN¹eb—×S²qS¯sÕu„v0WbVP–6RwNYLu:ON²NAmÿàVdkµNu†NgvQYCQwYBg„v—RYeŒT‡eS>y:S0ôT¾kSºN„vpS¦^-Å–)R‰RVyHQý–tWšN¯e·VˆvO†N§YÜbkpYe§!0(WšN†SqS'Y'Y^„vNV-NôT¾kS«ˆ³ueQ†N§Y^J-ôTKQyrÌ‘šN‹sýV§!„vHrþVÿÏu†S†N+o•„v§Y^JS§!6–µk0wTRÀ–‹sg„vqVÍTNÿôTKQyrÌ‘šN'YybºNãSˆvO†N§YiOYe§!ÿdkTNCSYt^iOYeNôv=fôT¾kS„vINAmáOðN0«ˆÈTÌ‘ÑSýVVgTÿKS¡riOYe’V«ˆKˆN†N0PŸs|00WMOÿFOiOYe(WÍN6qNïSMQ0WnV®Vÿs|S[Root.Monarch.GetName]„vVyHQmN(WÙ*NÇz-NˆvO†NO¯epQYe§Y<S>m§!0lQCQ11NªuÿÕl‚„›s‹sg„v§YO¯e›sêNfR>m§!fRw§Y³u‰S·“^`w§!eg0RôT¾kS.OYeÿbVb†N3zúV„vO¯e›sêN>m>y:Sÿn`SncINAm0–Nw§YKQÈp-CNî†è§!‰ÁŒT§YaSSÐc·V‹sg§!„v9eáOÿôT¾kS„v—RYe>y:S×S0R†N§YofYe§!„v²QûQ0\n\n§O^(g?Q·g•§!\nôT¾KQqS•ENåNegNôvOD–ŽN:V'Y„v§Y^(g?Q‹sg§!ÿôT¾KQqSs|SÇT^(g?QN!¢uRówåNÝOhQêñTMQmvQeQµO0^(g?Q„vÏ‚9N§Y™lÈTœ§!nc.OòTÏu‹TNENãwÿçubºNî•˜˜tS¬`w*g³QÿN:WèT'Y„v4–Œck(W’dlšSUk‘‘ÿw(WS¹eIƒŸSNÿ§YgsS+RWlýV§!„v§Y?–^wm?QWl§!ckN†Æ‰wwÿ:O:gw¨R0ôT¾KQqS(WÙ:W·u‰N-NÅV6qàeÕlìr„UvQ«ŽÿmN¸‹1c1^(g?Q·g•„vÝusO:gOòTÏu0Reg..."
+
+#nestorianism church aspect
+# EDG_Nestorianism_aspects_B6:0 "^X	t‰šN-ðl‰S'Ygr–™"
+# desc_EDG_Nestorianism_aspects_B6:0 ""
+# EDG_Nestorianism_aspects_B6_modifier:0 "^X	t‰šN-ðl‰S'Ygr–™"
+# EDG_Nestorianism_event.12.t:0 "^X	t‰šN-ðl‰S'Ygr–™"
+# EDG_Nestorianism_event.12.d:0 ""
+# EDG_Nestorianism_event.12.a:0 "áOðN=ft'`„vVïzÿt'`=fáOðN„vbŸq0"

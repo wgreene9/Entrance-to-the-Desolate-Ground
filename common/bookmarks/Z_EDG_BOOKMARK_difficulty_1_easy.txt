@@ -1,0 +1,49 @@
+bookmark =
+{
+	name = "EDG_BOOKMARK_difficulty_easy"
+	desc = "EDG_BOOKMARK_difficulty_easy_DESC"
+	date = 1444.11.11
+	
+	#简单
+	country = CDC
+	country = MLO
+	country = BUL
+	country = SCO
+	country = VOL
+	country = ARL
+	country = AKK
+	country = SAX
+	country = VEN
+	country = TEU
+	country = ETH
+	country = GEN
+	country = RIG
+
+	# #中等
+	# country = PIT
+	# country = LER
+	# country = BDH
+	# country = ASU
+	# country = SWE
+	# country = AEL
+	# country = MRK
+	# country = TVE
+	# country = GOT
+	# country = HSA
+	# country = LIT
+	# country = SMI
+
+	# # #较难
+	# country = CBI
+	# country = ZAZ
+	# country = SMO
+	# country = FRA
+	# country = WUR
+	# country = CAT
+	# country = BRA
+	# country = SWI
+	# country = WAL
+
+	
+	
+}

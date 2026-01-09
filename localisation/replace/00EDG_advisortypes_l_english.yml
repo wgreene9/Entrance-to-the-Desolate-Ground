@@ -1,0 +1,60 @@
+﻿l_english:
+    economist:0 "ÏuNmfR¶R"
+    innovator:0 "i—°efRw"
+    administrative_experts:0 "Lˆ?eN¶R"
+    chamberlain:0 "«R÷^I`¡r"
+    bailiff:0 "gb¾˜R"
+    architect:0 "ú^Qr^"
+    reformer:0 "9ei—¶R"
+    procurator:0 "ÀhßR˜R"
+    country_representative:0 "^SýVãNhˆ"
+    historian:0 "†SòSfR¶R"
+    admiral:0 "wm›QCQ^"
+    resettlement_specialist:0 "TNÁNXT"
+    educationist:0 "Ye²w¶R"
+    cardinal:0 "¢g:gINYe"
+    negotiator:0 "Œ2RN¶R"
+    feudal_tax_official:0 "Sú^zT"
+    infantry_commander:0 "ekuQc%c˜R"
+    cavalry_commander:0 "‘šuQc%c˜R"
+    artillery_commander:0 "®puQc%c˜R"
+    siege_engineer:0 "ôVÎWN¶R"
+    mercenary_leader:0 "cOuQâV•"
+    xungui:0 "ËR5"
+    logistics_specialist:0 "TäRN¶R"
+    castle_master:0 "/XIN"
+    
+    EDG_Grand_Vizier:0 "'YôuPŸS"
+    EDG_Secretary_General:0 "‡erØyfN•"
+    EDG_ghulam_chief:0 "äSÉbÆY•˜R"
+EDG_Praetorian_Prefect:0 "ykS›Q•˜R"
+    
+    economist_desc:0 "ÙÌ‘„vÏuNmN¶Rc„v/f±›NùRÎW^ú^¾‹NaNQgÑSUS	gHQÛtº‹4ls^„vºNMbÿÖNìNïSåNÃOÛýV…Q:SßW„vÑSUS0"
+    innovator_desc:0 "i—°efRw/f±›NùRHQÛåwÆ‹ŒTýV¶RaÆ‹ú^¾‹	gEQR†Nã‰„vºNÿÖNìNïSåNÃOÛýV¶R`ó`„vnfÊS0.O­dŒTÑSUS0"
+    administrative_experts_desc:0 "Lˆ?eN¶R„UŽNOSŒ?eœ^ÐjOÿÙÌ‘„vLˆ?eN¶Ryrc±›N„UŽN¡rt°eVg0W:S„v˜RXTÿÖNìNýwYôf‹Y0W(WSV0WéTúVbìN„vßu»lÿM–NOˆmS°e†˜0W„vLˆ?e‹S›R0"
+    chamberlain_desc:0 "«R÷^I`¡r„UŽNºNE–²NAmNô‹gŸlÿÖNìNùR«R÷^„v¡rt	gôfØš„v4ls^ÿf‹v‚YUO(W¡rt¹eb—Vn‚‚Am0"
+    bailiff_desc:0 "gb¾˜R/f-N.YN>m0R0W¹e„v˜RXTÿÖNìNT0W¹enfÊS-N.Y„vÕl‹Vÿôu²b-N.Y„vCgZÿ R:V-N.YùR0W¹e„vµc6R0"
+    architect_desc:0 "ú^Qr^¾|ú^.„vz‚/gÿÖNìNýwYÔknfºNôfÆQnx0W2R­e0KmÏ‘ŒTÄ‰RÿÏQSú^¾‹Çz-N„vkpwŒTàe(uŸR0"
+    reformer_desc:0 "9ei—¶RùR?eœ^Óu„gÊSvQÐLˆ	gñmIR„v²‹åwÿ‚YœgÖNìN(W?eœ^-Ng¡RbìN„výV¶R†˜üRºNÿ1SýwÃOÛ?eœ^SO6R„vŒR„UŒTÑSUS0"
+    procurator_desc:0 "ÀhßR˜RLˆOlQÉ‹Cg›RÿÖNìNOSbûQýV…Q„vNÕl*alRPRÿÏQP%OýV¶R)Tƒn„v¦^0"
+    country_representative_desc:0 "Ù›NãNhˆâVbXTegêbìN„v^SýVÿÖNìNãNhˆ†N^SýVßu»l6–BS„v)RÊvÿÉbâbÖNìNïSåN©‹bìNùR^SýV„vTv^ŒTteTôf:N‰Œg0"
+    historian_desc:0 "†SòSfR¶RSOÎN†SòS°‹UV„vÛ†Nlšù-N·ƒ—VáOo`ÿ(uåN/ecbìN„v±RðyW0WŒTùRYib.Vÿ‚YœgžR(WŒbN0RÁ‹ncÿbìN'YïSÑSf†SòS0"
+    admiral_desc:0 "wm›QCQ^†˜üRNwhQýV„v4l^ÿßuNOSŒhQýVwm›QS†˜„våTjOÿv^(uôfHQÛ„vÍdÃuŽb/gŒTwm›Qb/g.^©RbìNÐcØšwm›Q„v(Ï‘0"
+    resettlement_specialist_desc:0 "ýV…Q„vN›NYÏeºNNánbìN„vßu»lÿbìNïSåN>mcTNÁNXTSÙ›NYÏeºNMRŽV+RYÿ1udk9eØSÐg›N0W:S„vºNãSÓu„g0"
+    educationist_desc:0 "Ye²wfR¶ROSHQÛ„v`no.O­d0RýV¶R„vôfY0W¹eÿÖNìNv^NNšR—‰ÇfR/h.O­dåwÆ‹0"
+    cardinal_desc:0 "Ù›NINYe/f)YINYe÷^„vÍ‘‰bXTÿÖNìNNYe—R	gNw'tÆR„vTwû|ÿN¢g:gINYeÝOco‚‹Y„vsQû|ÿïSåN©‹bìN(WWlšYe÷^-N«N	gôfY„vÝ‹í‹Cg0"
+    negotiator_desc:0 "	göePYýV„vY²NOâVI`/fUªg‚QR0‹U‹UNOÿÙŽrôv/f(Wjm9bìN„vöeô•ÿŒ2RN¶RïSåNÿfbìN±‚9ãS‚ÿuóïSåNZP—Vôf‹Y0"
+    feudal_tax_official_desc:0 "Sú^ININ‹†6qòTÏu	g›NK„O†NÿFOÍN6qïSåN«ˆbìN)R(uÿ©‹.Oßu„vSú^zTZPÖNìNÅd•„v‹NÅ`ÿïSåN RëVbìNùR^SýV„veRJR0"
+    infantry_commander_desc:0 "c%c˜R/f›Q–„v8hÃVbXTÿNNùRãS„vc%c˜RïSåN'Y'YÐcGS›Q–„vb—e›R0"
+    cavalry_commander_desc:0 "c%c˜R/f›Q–„v8hÃVbXTÿNNùRãS„vc%c˜RïSåN'Y'YÐcGS›Q–„vb—e›R0"
+    artillery_commander_desc:0 "c%c˜R/f›Q–„v8hÃVbXTÿNNùRãS„vc%c˜RïSåN'Y'YÐcGS›Q–„vb—e›R0"
+    siege_engineer_desc:0 "M^LeýV„v‰^X8lÜ/f©‹bìN„v'Y›Q4Y¼u„vœ–xÿôVÎWN¶RÅd•)R(uTÍyIN¢RÂ‰àV.tIe4xLeºN„v‰^X0"
+    mercenary_leader_desc:0 "Ç–cOuQïSåN/f<P—VáOV„vËS›QÿNwS„vÇ–cOuQâV•Œr¢‹N*N•g„vTTÿýwY©‹Ù›NcOuQâVôf‹Y0W:NbìNg¡R0"
+    xungui_desc:0 "ËR5/f±›NO`—›QŸR·ƒ—V?e»l0WMO„vºNÿÖNìNïSýwOÑSUSbI–xýV¶R9ei—„v›RÏ‘ÿFOÖNìNmN/f›Q˜RâV„vãNhˆ0"
+    logistics_specialist_desc:0 "TäR/fb‰N-NósQÍ‘‰„vN¯sÿÝOœ–›Q–„vTäReˆÙuùRŽNM–NOb›Q„v2O¡N/fASRsQ.•„v0"
+    castle_master_desc:0 "/XIN/f¡rt†˜INÎW/X„v0W¹e˜RXTÿàVÚ‹„v/XINOôf‹Y0Wôu²b0ÝOkSbìN„v‰^Xÿ©‹OÀy„v/XINSVn‚‚Am„vÏuŒš¨c^VegÿùRôu²býV…Q„v‰^XSOû|/f	gÊv„v0"
+    
+    EDG_Grand_Vizier_desc:0 "'YôuPŸSÏPvQÖNØšµu˜RXTN7hÿmNåb	g^YÙNcƒ‰Š4YTˆ0^Y„va`/fÏ‚9NKN³ÿÙÍyðy|T¹eVˆVÏPäSãNâl¯e„vZPÕlÿSVöe„v˜RXTŽVŽV«ˆðyjOýV‹s„v<wiwŒTKb0ôuPŸSR+R#Œc¡rLˆ?e0Õl‹VŒT0?e‹N¡Rÿ(WÖNìN„vèè•…Qèåb	gNšR„vêINCgÿFOý‰ôv¥cùRÏ‚9N,gºN#0"
+    EDG_Secretary_General_desc:0 "‡erØyfN•#:gsQåe8^‹N¡RŒTINcžRlQ…SåTjOÿýwY:NbìNÐc›OôfYLˆ?e©R›R0"
+    EDG_ghulam_chief_desc:0 "äSÉbÆYjO:N^ýVÍ‘‰„v›Q‹N›RÏ‘ÿå‚äSÉbÆY„v•˜RýwY:NbìNÐc›O›Q‹N/ecÿSO:NbìN&^egôfY„vïSýw'`0"
+EDG_Praetorian_Prefect_desc:0 "å‹Œ˜î•ßu†˜NwbýV„vykS›QÿÖNìN„vaÁ‰ýwY:N R:VbýV„v¾|•›Q‹N›RÏ‘Ðc›OR5„vaÁ‰ŒTcüR0"

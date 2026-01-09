@@ -1,0 +1,19 @@
+﻿l_english:
+ #province_group
+ ireland_province_group:"1rSpQ›S"
+
+ #trigger_tooltip
+ NKZEDG_eng_british_subject_tt:"Nb	g§YNR ˜§!0W:S„v^SýVìrËz>PTNOŽN§Y10.00%§!"
+ NKZEDG_eng_french_subject_tt:"Nb	g§YÕlpQ‰§!0W:S„v^SýVìrËz>PTNOŽN§Y10.00%§!"
+ NKZEDG_eng_no_french_appanage_tt:"¡l	gD–¸^/f§Mñ‚^SMRÕl5ÏeS‘§!"
+ NKZEDG_eng_french_appanage_trigger_tt:"Nb	g§Mñ‚^SMRÕl5ÏeS‘§!ÿ\n    [Root.NKZEDG_eng_french_appanage_opinion]\n    [Root.NKZEDG_eng_french_appanage_dynasty]\n    [Root.NKZEDG_eng_french_appanage_liberty_desire]"
+ NKZEDG_eng_religion_mission_trigger_tt:"å‹ûN¡R„vŒRbagöNÖS³QŽNbìN(W§Y—RYeðVƒX§!-NZPúQ„v	éb"
+ NKZEDG_eng_only_religion_trigger_tt:"å‹ûN¡RÅNýwjO:N§Y)YINYe§!b§Y#WlQ—R§!ýV¶RŒRb"
+
+ #localisation_key
+ NKZEDG_eng_french_appanage_opinion_no_key:"£no£ùR§Y[Root.GetName]§!„v‹Ya¦^óS:N:N§Y150§!"
+ NKZEDG_eng_french_appanage_opinion_yes_key:"£yes£ùR§Y[Root.GetName]§!„v‹Ya¦^óS:N:N§Y150§!"
+ NKZEDG_eng_french_appanage_dynasty_no_key:"£no£ßu»l¶RÏe/f0§Y[Root.Monarch.Dynasty.GetName]§!0"
+ NKZEDG_eng_french_appanage_dynasty_yes_key:"£yes£ßu»l¶RÏe/f0§Y[Root.Monarch.Dynasty.GetName]§!0"
+ NKZEDG_eng_french_appanage_liberty_desire_no_key:"£no£ìrËz>PTNOŽN§Y10.00%§!"
+ NKZEDG_eng_french_appanage_liberty_desire_yes_key:"£yes£ìrËz>PTNOŽN§Y10.00%§!"

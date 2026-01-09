@@ -1,0 +1,58 @@
+﻿l_english:
+ EDG_BRA_Territory:0 "—¨N0t&O¶RÏe†˜0W"
+ EDG_BRA_Territory_desc:0 "—¨N0t&O¶RÏewnŽNëXæt,glQýVƒX…Q„vÑž1k9hD–ÑÿvQËYVy^SY·VNN(W11NªuRöS×SS:N0t&O=O5r0†˜0WþfÏu(WÊNN…QaS³l0Ëeæt,gqSŒTNYYt³lKNô•00t&O¶RÏeþf=f^y1WWlš^ýVàVžR„v=ecwÿdkTå‹¶RÏe(W0t&OMR QåN—¨NWR7hÿðy:N—¨N0t&O¶RÏe0w—¨N0t&O¶RÏe(WàQŒvt^„vöeô•Ì‘ÿÇùRƒX…Q5ÏeÍSY„vÉbob-NÿbVb†NùR0W¹e5Ïe:V'Y„vŒcµc›RÿåNnxÝO—¨N0t&O¶RÏe„vCg›RN¹Rn‘u0—¨N0t&O¶RÏeàVdk·ƒ—V†Nôf‹YŒšmš5Ïe„výw›R0"
+ EDG_BRA_Markgraf:0 "—¨N0t&O¹é…†˜"
+ EDG_BRA_Markgraf_desc:0 "—¨N0t&O¶RÏe(WÕlpQKQ<SšN0Ëeæt,g0W:ShTl†NàQŒvt^*gÁ‰*YYbHeÿw¶RÏeKNNbåN(WTb—Í‘°e·ƒ—V†NsQèl¦^ÿÍSw=fàV:NþfÏu(WS¹eNˆNkp„v†SÃu-NSbúQ„vkkZT01440t^ÿ—¨N0t&O(WÕlpQKQ<SšN„vçubqS:g-N%S0ÏuÇ†N—¨N0t&O¶RÏe(WN¹eâlpQ0W:S„vÏuŒšÿ¶RÏeÞVgÇ»S0gÈufŸ`†Nwtÿ:VCgegnŽNQR•KNN0—¨N0t&O¶RÏe‰V•^>eV†N‰lxm(WY²N†˜ßW„v¡eËeÿw=f³QÃVåNfk›RMckSCgÊv0—¨N0t&OíQPNwùR5Ïe…NNûR8^„vŒšmšýw›RåNÊSNˆNkp„v†SÃuÿÍ‘°e‰vN‚ðS0"
+
+ mechanic_limited_strong_duchies_yes:0 "§Y:V'YlQ5r†˜§!yrCgNQÙuˆNqVÍT›R"
+ mechanic_EDG_BRA_vassal_ability_yes:0 "=T(uyrŠk^SýV‰|‹Wÿ§Y¹é…yr¸‹Ç‘‘§!"
+ mechanic_EDG_BRA_ban_annex_yes:0 "§Rybk§!§YTv^D–¸^ýV§!b§YTv^TwßuýV§!"
+
+ ability_EDG_BRA_Markgraf_ability:0 "§Y—¨N0t&O›Q‹NCgZ§!"
+ ability_EDG_BRA_Markgraf_ability_yes:0 "§Y—¨N0t&O›Q‹NCgZ§!"
+ EDG_BRA_Markgraf_ability:0 "§Y—¨N0t&O›Q‹NCgZ§!"
+ EDG_BRA_Markgraf_ability_yes:0 "§Y—¨N0t&O›Q‹NCgZ§!"
+ EDG_BRA_Markgraf_power:0 "§Y—¨N0t&O›Q‹NCgZ§!"
+ EDG_BRA_Markgraf_power_desc:0 "g¦^§Y—¨N0t&O›Q‹NCgZ§!¹ppe×S0RåNNàV.t„vqVÍTÿ\nßu»lw=f§Y—¨N0t&O§!‹sgÿ§G+0.1§!\n100Zgÿ§G+0.1§!\nÏk1¹pY²NðX‰Šÿ§G+0.03§!\nØšŽN50ckßu'`ÿ§G+0.05§!\n100F–›Q.Oßuÿ§G+0.1§!\nYŽNb‰N-Nÿ§G+0.075§!\nÏk1¹pŒSb¦^ÿ§R-0.05§!\nNOŽN50ckßu'`ÿ§R-0.1§!\nÏk1¹pP%¦^ÿ§R-0.1§!\nÏk1¹pTIN„v›Q‹Nýw›Rÿ§G+0.08§!\nÏk1*N§Y¹é…yr¸‹Ç‘‘§!ÿ§G+0.02§!\nTINLˆ?eýw›RNOŽN3ÿ§R-0.04§!\nTINY²Nýw›RNOŽN3ÿ§R-0.04§!"
+ monthly_EDG_BRA_Markgraf_power:0 "g¦^§Y—¨N0t&O›Q‹NCgZ§!"
+
+ ability_EDG_BRA_Markgraf_use_ability:0 "§Y—¨N0t&O›Q‹NCgZ’N¨R§!"
+ ability_EDG_BRA_Markgraf_use_ability_yes:0 "§Y—¨N0t&O›Q‹NCgZ’N¨R§!"
+ EDG_BRA_Markgraf_use_ability:0 "§Y—¨N0t&O›Q‹NCgZ’N¨R§!"
+ EDG_BRA_Markgraf_use_ability_yes:0 "§Y—¨N0t&O›Q‹NCgZ’N¨R§!"
+ EDG_BRA_Markgraf_use_power_1:0 "g¦^§Y:VlxVuQïS(uÛ¦^§!"
+ EDG_BRA_Markgraf_use_power_2:0 "g¦^§Y:VlxVzïS(uÛ¦^§!"
+ EDG_BRA_Markgraf_use_power_3:0 "g¦^§Y:VlxTv^ïS(uÛ¦^§!"
+ monthly_EDG_BRA_Markgraf_use_power_1:0 "g¦^§Y:VlxVuQïS(uÛ¦^§!"
+ monthly_EDG_BRA_Markgraf_use_power_1_desc:0 "g¦^§Y:VlxVuQïS(uÛ¦^§!×S0RåNNàV.t„vqVÍTÿ\núWÆQžX•ÿ§G+0.1§!\nÏk1¹pTIN„v›Q‹Nýw›Rÿ§G+0.082§!"
+ monthly_EDG_BRA_Markgraf_use_power_2:0 "g¦^§Y:VlxVzïS(uÛ¦^§!"
+ monthly_EDG_BRA_Markgraf_use_power_2_desc:0 "g¦^§Y:VlxVzïS(uÛ¦^§!×S0RåNNàV.t„vqVÍTÿ\núWÆQžX•ÿ§G+0.1§!\nÏk1¹pTIN„vLˆ?eýw›Rÿ§G+0.082§!"
+ monthly_EDG_BRA_Markgraf_use_power_3:0 "g¦^§Y:VlxTv^ïS(uÛ¦^§!"
+ monthly_EDG_BRA_Markgraf_use_power_3_desc:0 "g¦^§Y:VlxTv^ïS(uÛ¦^§!×S0RåNNàV.t„vqVÍTÿ\núWÆQžX•ÿ§G+0.1§!\nÏk1¹pTIN„vY²Nýw›Rÿ§G+0.082§!"
+ EDG_BRA_Markgraf_use_interaction_1:0 "T^SýV:VlxVuQ"
+ EDG_BRA_Markgraf_use_interaction_1_desc:0 "SV§Y:VlxVuQïS(uÛ¦^§!¾0R100öeÿbìNïSåNTbìNNb	g„v§Y^SýV§!ÿS+TD–¸^0kSb0yr¸‹Ç‘‘0TwßuýVÊSvQÖNïSýw‰|‹W„v^SýV	ÿÛLˆ:VlxVuQ0\nå‹’N¨RÏk!k±‚9200¹p§Y›Q‹N¹p§!£mil£ÿÎNÏk*N^SýVY·ƒ—VvQ10%„vºN›R£icon_manpower£ÿ:NdkNb	g^SýVSO§R+10%§!§YìrËz>PT§!0\nÏk!kO(uå‹’N¨ROžX R2¹p§Y—¨N0t&O›Q‹NCgZ§!0\nå‹’N¨RÏk10t^ïS(uN!k\n\n"
+ EDG_BRA_Markgraf_use_interaction_2:0 "T^SýV:VlxVz"
+ EDG_BRA_Markgraf_use_interaction_2_desc:0 "SV§Y:VlxVzïS(uÛ¦^§!¾0R100öeÿbìNïSåNTbìNNb	g„v§Y^SýV§!ÿS+TD–¸^0kSb0yr¸‹Ç‘‘0TwßuýVÊSvQÖNïSýw‰|‹W„v^SýV	ÿÛLˆ:VlxVz0\nå‹’N¨RÏk!k±‚9200¹p§YLˆ?e¹p§!£adm£ÿÎNÏk*N^SýVY·ƒ—VvQ50%„v6eeQ¤ÿ:NdkNb	g^SýVSO§R+10%§!§YìrËz>PT§!0\nÏk!kO(uå‹’N¨ROžX R2¹p§Y—¨N0t&O›Q‹NCgZ§!0\nå‹’N¨RÏk10t^ïS(uN!k\n\n"
+ EDG_BRA_Markgraf_use_interaction_3:0 ":VlxTv^^SýV"
+ EDG_BRA_Markgraf_use_interaction_3_desc:0 "SV§Y:VlxTv^ïS(uÛ¦^§!¾0R100öeÿbìNïSåNTbìNNb	g„v§Y^SýV§!ÿS+TD–¸^0kSb0yr¸‹Ç‘‘0TwßuýVÊSvQÖNïSýw‰|‹W„v^SýV	ÿÛLˆ:VlxTv^0\nå‹’N¨RÏk!k±‚9200¹p§YY²N¹p§!£dip£ÿ–:gçubN*N^SýV„vWµNÿ:NdkNb	gvQÖN^SýVSO§R+10%§!§YìrËz>PT§!0\nÏk!kO(uå‹’N¨ROžX R2¹p§Y—¨N0t&O›Q‹NCgZ§!0\nå‹’N¨RÏk10t^ïS(uN!k\n\n"
+ 
+ EDG_BRA_Markgraf_power_modifier_1:0 "—¨N0t&O›Q‹NCgZÿßu»lw‹sg=f—¨N0t&O"
+ EDG_BRA_Markgraf_power_modifier_2:0 "—¨N0t&O›Q‹NCgZÿckßu'`ØšŽN50"
+ EDG_BRA_Markgraf_power_modifier_3:0 "—¨N0t&O›Q‹NCgZÿYŽNb‰N-N"
+ EDG_BRA_Markgraf_power_modifier_4:0 "—¨N0t&O›Q‹NCgZÿckßu'`NOŽN50"
+ EDG_BRA_Markgraf_power_modifier_5:0 "—¨N0t&O›Q‹NCgZÿTINLˆ?eýw›RNOŽN3"
+ EDG_BRA_Markgraf_power_modifier_6:0 "—¨N0t&O›Q‹NCgZÿTINY²Nýw›RNOŽN3" 
+
+ EDG_BRA_MARKGRAF_TT_1:0 "—¨N0t&O¹é…lQýV"
+ EDG_BRA_MARKGRAF_TT_2:0 "—¨N0t&O¹é…‹sýV"
+ EDG_BRA_MARKGRAF_TT_3:0 "—¨N0t&O^ýV"
+ EDG_BRA_MARKGRAF_MALE_1:0 "—¨N0t&O¹é…lQ5r"
+ EDG_BRA_MARKGRAF_MALE_2:0 "—¨N0t&O¹é…‹s5r"
+ EDG_BRA_MARKGRAF_MALE_3:0 "—¨N0t&O‡v^"
+ EDG_BRA_MARKGRAF_FEMALE_1:0 "—¨N0t&O¹é…sYlQ5r"
+ EDG_BRA_MARKGRAF_FEMALE_2:0 "—¨N0t&O¹é…sY‹s5r"
+ EDG_BRA_MARKGRAF_FEMALE_3:0 "—¨N0t&O¹é…sYlQ5r"
+
+
+
+ 

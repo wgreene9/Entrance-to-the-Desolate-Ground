@@ -1,0 +1,225 @@
+graphical_culture = muslimgfx
+color = {
+  85
+  78
+  115
+}
+historical_idea_groups = {
+  defensive_ideas
+  religious_ideas
+  offensive_ideas
+  trade_ideas
+  spy_ideas
+  economic_ideas
+  diplomatic_ideas
+  administrative_ideas
+}
+historical_units = {
+  persian_footsoldier
+  persian_cavalry_charge
+  persian_shamshir
+  qizilbash_cavalry_unit
+  tofongchis_musketeer
+  topchis_artillery
+  afsharid_reformed
+  afsharid_reformed_infantry
+  muslim_mass_infantry
+  muslim_dragoon
+  persian_rifle
+}
+monarch_names = {
+  "›sÌ‘šNÆY #0" = 30 	# Maryam #0
+  "^S‡e #0" = 30 	# Maryam #0
+  "›sWl #0" = 30 	# Maryam #0
+  "lšyQ¾KQ #0" = 30 	# Maryam #0
+  "›syQ9N #0" = 30 	# Maryam #0
+  "lšPŸšNS #0" = 30 	# Maryam #0
+  "…hkÉb #0" = 30 	# Maryam #0
+  "…hkšNS #0" = 30 	# Maryam #0
+  "lšªRRS #0" = 30 	# Maryam #0
+  "…hk¾ #0" = 30 	# Maryam #0
+  "lšyQís #0" = 30 	# Maryam #0
+  "…hkNb·V #0" = 30 	# Maryam #0
+  "s|SNb #0" = 30 	# Maryam #0
+  "eYS›syQ·V #0" = 30 	# Maryam #0
+  "^S(„ #0" = 30 	# Maryam #0
+  "^SôuyQ #0" = 30 	# Maryam #0
+  "^šNÆY #0" = 30 	# Maryam #0
+  "iOêÆY #0" = 30 	# Maryam #0
+  "iOüf #0" = 30 	# Maryam #0
+  "®vœyQ #0" = 30 	# Maryam #0
+  "nfÌ‘šN #0" = 30 	# Maryam #0
+  "nfšN #0" = 30 	# Maryam #0
+  "nffV #0" = 30 	# Maryam #0
+  "?–S=OyQ #0" = 30 	# Joneid #0
+  "eYS›syQ·V wm¾S #0" = 30 	# Haidar #0
+  "?–S=OyQ eYS›syQ·V #0" = 30 	# Ismâ'îl #0
+  "O¯eNW·VS #0" = 20 	# Tamâshp #0
+  "O¯eNW·VS ^SôuyQ #0" = 10 	# Mohammad Kodabânda #0
+  "O¯eNW·VS wm¾S #0" = 30 	# 'Abbâs #0
+  "ğl‰R #0" = 15 	# Safi #0
+  "aS+Y #0" = 20 	# Solaymân #0
+  ">WS #0" = 10 	# Hosayn #0
+  "Œ‚‡e #0 ™l" = 10 	# Nâder #0 Shâh
+  "XoğlšN #0 ™l" = 10 	# 'Âdel #0 Shâh
+  "aSN #0" = 10 	# Ebrâhim #0
+  "W^ #0" = 10 	# Shâh Rukh #0
+  "³uêS eYS›syQ·V #0" = 5 	# Nâder Mirza #0
+  "aSÌ‘ÆY #0 Wl" = 10 	# Karim #0 Khân
+  "?–^ÒR Õlyrk #0" = 10 	# Abu'l Fath #0
+  "ôTêšN #0" = 10 	# Mohammad Ali #0
+  "÷–N #0" = 10 	# Mohammad Sâdiq #0
+  "?–Éb<h^ #0" = 10 	# 'Ali Morâd #0
+  ">ÕlS #0" = 10 	# Ja'far #0
+  "bSşV #0" = 10 	# Loft Ali #0
+  "?–æ #0" = 10 	# Aga Muhammad #0
+  "(„êKQ #0" = 10 	# Fath Alî #0
+  "³u	TÆY #0" = 30 	# Najm-e #0
+  "?–klš·V NbÕlS #0" = 30 	# Ahmad #0
+  "NbÕlS #0" = 30 	# Hatem #0
+  "³u‰SNb·V #0" = 30 	# Shahqoli #0
+  "^Éb¯eşV #0" = 30 	# Rajab Ali #0
+  "ÕlÉbNbÉb #0" = 30 	# Farajollah #0
+  "?–üfú‹Ébk #0" = 30 	# Amanollah #0
+  "ªR^ #0" = 30 	# Ebrahim #0
+  "³u^·V #0" = 30 	# Ali #0
+  "?–ÉbwmS #0" = 30 	# Allahyar #0
+  "O¯eNW·VS ›s<SòT #0" = 30 	# Abdol #0
+  "ÈTs|·V #0" = 30 	# Hamid #0
+  "Õl)R·V #0" = 30 	# Farid #0
+  "?–ĞcšN #0" = 30 	# Atiya #0
+  "^Ì‘ #0" = 30 	# Pari #0
+  "wmS ^s|¾ #0" = 30 	# Khayr al-Nisa #0
+  "TX	Tœ #0" = 30 	# Tajlu #0
+  "êÉbÉbÆY #0" = 30 	# Dilaram #0
+  "™lkôTªR #0" = 30 	# Shahbanu #0
+  "ÉbPŸšN #0" = 30 	# Razia #0
+}
+leader_names = {
+  "(„Ôk)R"  # Sabiri
+  ">)R)R"  # Jalili
+  "?–PŸyQ"  # Azizi
+  "™l^"  # Shahy
+  "4bO"  # Daei
+  "aS‹e"  # Qazai
+  "¾N·V"  # Dalwand
+  "?–kÉbÌ‘"  # Ahrari
+  "Õl‚„s|"  # Fatemi
+  "(„Ôkyr"  # Sabet
+  "‰R(„Ì‘"  # Ansari
+}
+ship_names = {
+  "?–ôTşVS"  # Abathur
+  "–Øy„všNSV"  # Adamn Kasia
+  "2a`KNT›"  # Aesma Daeva
+  "?– R¯e"  # Agas
+  "?–kÌ‘üf"  # Ahriman
+  "?–áwÉb"  # Ahura
+  "?–áwÉb·lšyQ¾"  # Ahura Mazda
+  "?–áwÉb<S"  # Ahurani
+  "Å–)R‰Rüf"  # Airyaman
+  "ªõV"  # Aka Manah
+  "?–ÉbN"  # Aladdin
+  "?–ÉbşVÆY"  # Allatum
+  "?–lš™l¯eXo"  # Amashaspan
+  "N‰k"  # Ameratat
+  "mQ'Y)YO"  # Amesha Spentas
+  "‰RZ^TX"  # Anahita
+  "‰RåTÉbüfËu"  # Angra Mainyu
+  "FyYe•wO"  # Anjuman
+  "4lKNPR"  # Apam-natat
+  "?–^eY(„"  # Apaosa
+  "?–÷–·Vôu"  # Aredvi
+  "?–Ì‘ÀNTXyr"  # Arishtat
+  "?–S¦‚„"  # Armaiti
+  "?–S™lKQ"  # Arsaces
+  "pgúQwt"  # Asha vahista
+  "Í‚yz"  # Asman
+  "¶n¨šw"  # Asto Vidatu
+  "ckINw"  # Astvat-Ereta
+  "1Wkp"  # Atar
+  "v`™Ÿ"  # Azi Dahaka
+  "„…æ"  # Baga
+  "ôTkÉbÆY"  # Bahram
+  "^Ì‘KO¯e"  # Burijas
+  "^ÀNÅ–¯eTX"  # Bushyasta
+  "^Å–¯eTX"  # Buyasta
+  "aSÆYW¯e"  # Camros
+  "ckáO"  # Daena
+  "ãNO"  # Daevas
+  "?–ÈTaS"  # Ahaka
+  "¾ÈTaS"  # Dahhak
+  "·V³uqS"  # Dena
+  "bqNKNT›"  # Dev
+  "êôu"  # Diwe
+  "ªv`"  # Drug
+  "·VSæt¯e^"  # Drvaspa
+  "‰Lq„vR."  # Frashegird
+  "iOÉbætGY"  # Fravashis
+  "u¾÷–æt"  # Gandarewa
+  "irÒ‰h"  # Gao-kerena
+  " R¦u›s·V"  # Gayomard
+  " R¦u›syr"  # Gayomart
+  "bäS¯e ğlîh"  # Geus-Tasan
+  "bäS¯e LNN"  # Geus-Urvan
+  "jŒ»"  # Haoma
+  "áwSætTXyr"  # Haurvatat
+  "äQğQ"  # Humay
+  "kætS"  # Hvar
+  "kætÒRk™lÃWTX"  # Hvarekhshaeta
+  "àV¾S"  # Indar
+  "àVN–W"  # Indra
+  "ONb"  # Izha
+  ">ÆY^·V"  # Jamshid
+  "Éupš"  # Jeh
+  "ïQËe®vyr"  # Karshipta
+  "æ×k"  # Kavi
+  "ÈT‡U"  # Khara
+  "k™lyrÉb ætOÌ‘šN"  # Khshathra vairya
+  "dW·VLN"  # Kundrav
+  "›sk"  # Mah
+  "…hS"  # Mahre
+  "lšÌ‘šN³u<h"  # Mahrianag
+  "idtY"  # Manu
+  "›sªRRkS"  # Manuchihir
+  "g^y"  # Mao
+  "lš^Å–®Y"  # Mashyane
+  "lš^‰R"  # Mashye
+  "lš9ƒ"  # Menog
+  "ÆRyrÉb"  # Mithra
+  "WS2SQhÈT"  # Nairyosangha
+  "*jZ"  # Nanghaithya
+  "Oc^tQh"  # Neriosang
+  "'klšyQyr"  # Ormazd
+  ">mÌ‘¯e"  # Peris
+  "şOÀN¾êø‹‹s"  # Peshdadians
+  "Éb®v¯e)n"  # Rapithwin
+  "ÉbÀNªR"  # Rashnu
+  "œ¯eTXÆY"  # Rustam
+  "(„2SÉb"  # Saurva
+  "`id+Y"  # Simurgh
+  "1Wup"  # Spenta Mainyu
+  "¯e³R(„"  # Sraosa
+  "¯e³R`"  # Srosh
+  "TXôuGY"  # Tawrich
+  "şV³u^"  # Thunaupa
+  "Ğc¯eyrÉb"  # Tistrya
+  "şVÀN³u›sTX"  # Tushnamatay
+  "ætWSyr"  # Vanant
+  "OÖN"  # Vata
+  "LNœ¯eÉb<h³u"  # Verethragna
+  "ckõV"  # Vohu Manah
+  "ƒlbS(„aS™l"  # Vouruskasha
+  "šNÆY"  # Yam
+  "Yasht"
+  "šN^TX"  # Yazata
+  "Å–yQê"  # Yezidi
+  "šNlš"  # Yima
+  "NbÌ‘"  # Zal
+  "'Y0W"  # Zam
+  "'Yê6qÍk²N"  # Zam-Armatay
+  "ågÉbşV¯eyrÉb"  # Zarathustra
+  "pˆwKNT›"  # Zarich
+  "^·V-?–ôu¯eTX"  # Zend-Avesta
+  "VySN"  # Zurvan
+}

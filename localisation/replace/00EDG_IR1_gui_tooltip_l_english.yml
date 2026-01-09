@@ -1,0 +1,161 @@
+﻿l_english:
+
+ EDG_IR1_button_close_tt:0 "sQí•Lub—"
+ EDG_IR1_button_open_tt:0 "V=T^y1WLub—"
+ EDG_IR1_button_off_tt:0 "sQí•^y1WLub—"
+ EDG_IR1_overlord_1_tt:0 "=f§O^y1W[EDG_IR1_overlord_1_target.Country.GetName]^ýV§!\n\njO:N§O^y1W[EDG_IR1_overlord_1_target.Country.GetName]^ýV§!ýwÇ‘ÖSåNNLˆ¨Rÿ\nY²NLˆ¨RùRD–¸^ýVú^ËzOgê»l†˜0W\n³Q®‹ú^ËzOgê»l†˜0W\n(WŒte^SýVsQû|’N¨RÌ‘ïSåN-pNY²NsQû|Ir'YÏ‘ Rb"
+ EDG_IR1_overlord_1_flag_tt_1:0 "*g±Rðy§O^y1W0WMO§!\n\njO:N§O^y1W[EDG_IR1_overlord_1_target.Country.GetName]^ýV§!ýwÇ‘ÖSåNNLˆ¨Rÿ\nY²NLˆ¨RùRD–¸^ýVú^ËzOgê»l†˜0W\n³Q®‹ú^ËzOgê»l†˜0W\n(WŒte^SýVsQû|’N¨RÌ‘ïSåN-pNY²NsQû|Ir'YÏ‘ Rb"
+ EDG_IR1_overlord_1_button_tt:0 "§OnxËz^y1W0WMO§!"
+ EDG_AK2_decree_trigger_A1_tt:0 "òTÏunxËz§O^y1W0WMO§!"
+
+ EDG_IR1_overlord_1_text_bg_1:0 "§O^y1W[EDG_IR1_overlord_1_target.Country.GetName]^ýV§!"
+ EDG_IR1_overlord_1_text_bg_2:0 "§O^y1W[EDG_IR1_overlord_1_target.Country.GetName]^ýV§!"
+ EDG_IR1_overlord_1_text_bg_3:0 "§O^y1W[EDG_IR1_overlord_1_target.Country.GetName]^ýV§!"
+
+ EDG_IR1_reform_1_text_bg:0 "ýV‹NÏ‹fN"
+ EDG_IR1_reform_2_text_bg:0 "^ýVi—°e"
+
+ EDG_IR1_reform_0_bg_tt:0 "SVMR§MtQpˆ<P§!SŽN§R1§!"
+ EDG_IR1_reform_1_bg_tt:0 "SVMR§MtQpˆ<P§!'YŽN§G85§!ÿïSåNÛLˆ§Y^ýVi—°e§!"
+ EDG_IR1_reform_5_bg_tt:0 "SVMR§MtQpˆ<P§!SŽN§G85§!,'YŽN§G75§!0"
+ EDG_IR1_reform_2_bg_tt:0 "SVMR§MtQpˆ<P§!SŽN§Y75§!,'YŽN§Y50§!0"
+ EDG_IR1_reform_3_bg_tt:0 "SVMR§MtQpˆ<P§!SŽN§Y50§!,'YŽN§R25§!0"
+ EDG_IR1_reform_4_bg_tt:0 "SVMR§MtQpˆ<P§!SŽN§R25§!,'YŽN§R1§!0"
+
+
+
+ EDG_AK2_decree_trigger_modifier_tt:0 "Ñg§R¡l	g§!˜^Ç§YýV‹NÏ‹fN§!"
+ EDG_refom_num_var:0 "9ei—peÏ‘"
+ EDG_power_num_var:0 "ïS:VS¹ppe"
+
+ EDG_IR1_decree_select_1:0 "§bibUSúWNxú^¾‹§!"
+ EDG_IR1_decree_select_2:0 "§b^©ROgz‚=g§!"
+ EDG_IR1_decree_select_3:0 "§bâdûNS^ºNMb§!"
+ EDG_IR1_decree_select_4:0 "§bD©R^yfRxvz§!"
+ EDG_IR1_decree_select_5:0 "§bt	˜RLwºNMb§!"
+ EDG_IR1_decree_select_1_modifier:0 "ibUSúWNxú^¾‹"
+ EDG_IR1_decree_select_2_modifier:0 "^©ROgz‚=g"
+ EDG_IR1_decree_select_3_modifier:0 "âdûNS^ºNMb"
+ EDG_IR1_decree_select_4_modifier:0 "D©R^yfRxvz"
+ EDG_IR1_decree_select_5_modifier:0 "t	˜RLwºNMb"
+
+ EDG_IR1_decree_select_1_modifier_t:0 "ibUSúWNxú^¾‹"
+ EDG_IR1_decree_select_2_modifier_t:0 "^©ROgz‚=g"
+ EDG_IR1_decree_select_3_modifier_t:0 "âdûNS^ºNMb"
+ EDG_IR1_decree_select_4_modifier_t:0 "D©R^yfRxvz"
+ EDG_IR1_decree_select_5_modifier_t:0 "t	˜RLwºNMb"
+
+ EDG_IR1_reform_select_1_tool_1:0 "·ƒ—V:g6Rÿ§Yb—Vb‰N§!·ƒ—V§G+10§!§MtQpˆ<P§!"
+ EDG_IR1_reform_select_2_tool_1:0 "·ƒ—V:g6Rÿ§Y9eØSwýN—RYe§!·ƒ—V§G+2§!§MYeO›RÏ‘§!"
+ EDG_IR1_reform_select_2_tool_2:0 "·ƒ—V:g6Rÿ§Y9eØSwýN—RYe§!·ƒ—V§G+1§!§MtQpˆ<P§!,NÛLˆ§Y^ýVi—°e§!öe·ƒ—V˜Y§M+10tQpˆ<P§!0"
+ EDG_IR1_reform_select_7_tool:0 "–™HQjO:N§O^y1W[EDG_IR1_overlord_1_target.Country.GetName]^ýV§!ýwÇ‘ÖSåNNLˆ¨Rÿ\nY²NLˆ¨RùRD–¸^ýVú^ËzOgê»l†˜0W\n³Q®‹ú^ËzOgê»l†˜0Wÿ\n(WŒte^SýVsQû|’N¨RÌ‘ïSåN-pNY²NsQû|Ir'YÏ‘ Rb,\n\nvQ!kÿÇå‹^ýVi—°eïSåNã‰•Y²NLˆ¨Rÿ§Y:VLˆeR:Y†˜0W§!ÿïSåN:VLˆeR:YyrŠk^SýV§M(„yrÉbnf§!(c§MOgê»l†˜0W§!)hQè†˜W0"
+ EDG_IR1_reform_select_5_tool:0 "ã‰•§YäSÉbÆY6–BS§!yrCg§Y0äSÉbÆY‘šuQ0§!ÿå‹yrCgïSåNAQ¸‹ÛbßR6w<SRÌ‘‘šuQ0"
+ EDG_IR1_reform_select_12_tool:0 "ïSåNàeagöNO(u£dip£§YY²NYeag§!ŒT£mil£§Y›Q‹NYeag§!"
+ EDG_IR1_reform_select_12_tool_1:0 "òTÇ§Y^ýVi—°e§!§MÎ˜wS‹k‘N§!0"
+ EDG_IR1_reform_select_12_tool_2:0 "=T(u³Q®‹§YÎ˜wS‹k‘N§!0"
+ EDG_IR1_reform_select_12_decisions_title:0 "Î˜wS‹k‘N"
+ EDG_IR1_reform_select_12_decisions_desc:0 "Î˜wS‹k‘N"
+
+
+
+ EDG_IR1_reform_select_1_tt:0 "£no£±Rðy,r”NTINýVÍ‘u"
+ EDG_IR1_reform_select_2_tt:0 "£no£:VSTIN^y1W0WMO"
+ EDG_IR1_reform_select_3_tt:0 "£no£Í‘ø”^ýVehh"
+ EDG_IR1_reform_select_4_tt:0 "£no£°sãNS8^Y›Q"
+ EDG_IR1_reform_select_5_tt:0 "£no£äSÉbÆY¾|•‘šuQ"
+ EDG_IR1_reform_select_6_tt:0 "£no£hg^VßW"
+ EDG_IR1_reform_select_7_tt:0 "£no£%Nþ‹sQz6R¦^"
+ EDG_IR1_reform_select_8_tt:0 "£no£ßuNšN2m^:W"
+ EDG_IR1_reform_select_9_tt:0 "£no£éb2o‚^…*YPR"
+ EDG_IR1_reform_select_10_tt:0 "£no£ R:V-N.YÆ–Cg"
+ EDG_IR1_reform_select_11_tt:0 "£no£^ýVN6RININ"
+ EDG_IR1_reform_select_12_tt:0 "£no£Î˜wS‹k‘N"
+
+ EDG_IR1_reform_select_1_ttt:0 "£yes£±Rðy,r”NTINýVÍ‘u"
+ EDG_IR1_reform_select_2_ttt:0 "£yes£:VSTIN^y1W0WMO"
+ EDG_IR1_reform_select_3_ttt:0 "£yes£Í‘ø”^ýVehh"
+ EDG_IR1_reform_select_4_ttt:0 "£yes£°sãNS8^Y›Q"
+ EDG_IR1_reform_select_5_ttt:0 "£yes£äSÉbÆY¾|•‘šuQ"
+ EDG_IR1_reform_select_6_ttt:0 "£yes£hg^VßW"
+ EDG_IR1_reform_select_7_ttt:0 "£yes£%Nþ‹sQz6R¦^"
+ EDG_IR1_reform_select_8_ttt:0 "£yes£ßuNšN2m^:W"
+ EDG_IR1_reform_select_9_ttt:0 "£yes£éb2o‚^…*YPR"
+ EDG_IR1_reform_select_10_ttt:0 "£yes£ R:V-N.YÆ–Cg"
+ EDG_IR1_reform_select_11_ttt:0 "£yes£^ýVN6RININ"
+ EDG_IR1_reform_select_12_ttt:0 "£yes£Î˜wS‹k‘N"
+
+ EDG_IR1_reform_select_1_t:0 "±Rðy,r”NTINýVÍ‘u"
+ EDG_IR1_reform_select_2_t:0 ":VSTIN^y1W0WMO"
+ EDG_IR1_reform_select_3_t:0 "Í‘ø”^ýVehh"
+ EDG_IR1_reform_select_4_t:0 "°sãNS8^Y›Q"
+ EDG_IR1_reform_select_5_t:0 "äSÉbÆY¾|•‘šuQ"
+ EDG_IR1_reform_select_6_t:0 "hg^VßW"
+ EDG_IR1_reform_select_7_t:0 "%Nþ‹sQz6R¦^"
+ EDG_IR1_reform_select_8_t:0 "ßuNšN2m^:W"
+ EDG_IR1_reform_select_9_t:0 "éb2o‚^…*YPR"
+ EDG_IR1_reform_select_10_t:0 " R:V-N.YÆ–Cg"
+ EDG_IR1_reform_select_11_t:0 "^ýVN6RININ"
+ EDG_IR1_reform_select_12_t:0 "Î˜wS‹k‘N"
+
+ EDG_IR1_reform_select_1_modifier:0 "±Rðy,r”NTINýVÍ‘u"
+ EDG_IR1_reform_select_2_modifier:0 ":VSTIN^y1W0WMO"
+ EDG_IR1_reform_select_3_modifier:0 "Í‘ø”^ýVehh"
+ EDG_IR1_reform_select_4_modifier:0 "°sãNS8^Y›Q"
+ EDG_IR1_reform_select_5_modifier:0 "äSÉbÆY¾|•‘šuQ"
+ EDG_IR1_reform_select_6_modifier:0 "hg^VßW"
+ EDG_IR1_reform_select_7_modifier:0 "%Nþ‹sQz6R¦^"
+ EDG_IR1_reform_select_8_modifier:0 "ßuNšN2m^:W"
+ EDG_IR1_reform_select_9_modifier:0 "éb2o‚^…*YPR"
+ EDG_IR1_reform_select_10_modifier:0 " R:V-N.YÆ–Cg"
+ EDG_IR1_reform_select_11_modifier:0 "^ýVN6RININ"
+ EDG_IR1_reform_select_12_modifier:0 "Î˜wS‹k‘N"
+ EDG_IR1_reform_select_12_modifier_1:0 "Î˜wS‹k‘N"
+
+
+ EDG_IR1_strengthen_button_1:0 "9eo‚Lˆ?eSOû|"
+ EDG_IR1_strengthen_button_2:0 "˜^ÏuNm?eVr"
+ EDG_IR1_strengthen_button_3:0 ":VS›Q‹N”^(u"
+ EDG_IR1_strengthen_select_pic_1_t:0 "bìNïSåNÇ^ýVi—°e·ƒ—V§GïS:VS¹ppeÿSVMRïS:VS¹ppeÿ[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!,ˆmw§GïS:VS¹ppeÿSVMRïS:VS¹ppeÿ[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!ŒT§MtQpˆ<P§!eg:VSbìN„vLˆ?eøvsQ…Q¹R0\nSVbìN:VSó§YIrµuIVöe§!N(W—‰:VS¹ppe0"
+
+ EDG_IR1_strengthen_select_pic_2_t:0 "bìNïSåNÇ^ýVi—°e·ƒ—V§GïS:VS¹ppeÿSVMRïS:VS¹ppeÿ[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!,ˆmw§GïS:VS¹ppeÿSVMRïS:VS¹ppeÿ[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!ŒT§MtQpˆ<P§!eg:VSbìN„vÏuNmøvsQ…Q¹R0\nSVbìN:VSó§YIrµuIVöe§!N(W—‰:VS¹ppe0"
+
+ EDG_IR1_strengthen_select_pic_3_t:0 "bìNïSåNÇ^ýVi—°e·ƒ—V§GïS:VS¹ppeÿSVMRïS:VS¹ppeÿ[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!,ˆmw§GïS:VS¹ppeÿSVMRïS:VS¹ppeÿ[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!ŒT§MtQpˆ<P§!eg:VSbìN„v›Q‹NøvsQ…Q¹R0\nSVbìN:VSó§YIrµuIVöe§!N(W—‰:VS¹ppe0"
+
+ EDG_IR1_strengthen_flag_A_1_t:0 "ïSåN:VS:N§YLˆ?eýw›RI§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+ EDG_IR1_strengthen_flag_A_2_t:0 "ïSåN:VS:N§YLˆ?eýw›RII§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+ EDG_IR1_strengthen_flag_A_3_t:0 "ïSåN:VS:N§YLˆ?eýw›RIII§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+ EDG_IR1_strengthen_flag_A_4_t:0 "ïSåN:VS:N§YLˆ?eýw›RIV§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+
+ EDG_IR1_strengthen_flag_B_1_t:0 "ïSåN:VS:N§YÏuNmýw›RI§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+ EDG_IR1_strengthen_flag_B_2_t:0 "ïSåN:VS:N§YÏuNmýw›RII§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+ EDG_IR1_strengthen_flag_B_3_t:0 "ïSåN:VS:N§YÏuNmýw›RIII§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+ EDG_IR1_strengthen_flag_B_4_t:0 "ïSåN:VS:N§YÏuNmýw›RIV§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+
+ EDG_IR1_strengthen_flag_C_1_t:0 "ïSåN:VS:N§Y›Q‹Nýw›RI§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+ EDG_IR1_strengthen_flag_C_2_t:0 "ïSåN:VS:N§Y›Q‹Nýw›RII§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+ EDG_IR1_strengthen_flag_C_3_t:0 "ïSåN:VS:N§Y›Q‹Nýw›RIII§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+ EDG_IR1_strengthen_flag_C_4_t:0 "ïSåN:VS:N§Y›Q‹Nýw›RIV§!,SVMRïS:VS¹ppeÿ§G[EDG_IR1_overlord_1_target.EDG_power_num_var.GetValue]	ÿ§!"
+
+ EDG_IR1_strengthen_button_3_effect_1:0 "›Q‹N:VSI"
+ EDG_IR1_strengthen_button_3_effect_2:0 "›Q‹N:VSII"
+ EDG_IR1_strengthen_button_3_effect_3:0 "›Q‹N:VSIII"
+ EDG_IR1_strengthen_button_3_effect_4:0 "›Q‹N:VSIV"
+ EDG_IR1_strengthen_button_3_effect_modifier:0 ":VS›Q‹N”^(u"
+
+ EDG_IR1_strengthen_button_2_effect_1:0 "ÏuNm:VSI"
+ EDG_IR1_strengthen_button_2_effect_2:0 "ÏuNm:VSII"
+ EDG_IR1_strengthen_button_2_effect_3:0 "ÏuNm:VSIII"
+ EDG_IR1_strengthen_button_2_effect_4:0 "ÏuNm:VSIV"
+ EDG_IR1_strengthen_button_2_effect_modifier:0 "˜^ÏuNm?eVr"
+
+ EDG_IR1_strengthen_button_1_effect_1:0 "Lˆ?e:VSI"
+ EDG_IR1_strengthen_button_1_effect_2:0 "Lˆ?e:VSII"
+ EDG_IR1_strengthen_button_1_effect_3:0 "Lˆ?e:VSIII"
+ EDG_IR1_strengthen_button_1_effect_4:0 "Lˆ?e:VSIV"
+ EDG_IR1_strengthen_button_1_effect_modifier:0 "OSLˆ?eSOû|"
+
+
+
+
+
+

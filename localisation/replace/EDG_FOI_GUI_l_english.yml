@@ -1,0 +1,162 @@
+﻿l_english:
+ EDG_FOI_UCI_GUI_province_ability_1_tooltip:0 "ÃOÛlQ>yÑSUS"
+ EDG_FOI_UCI_GUI_province_ability_1_effect_tooltip:0 "Så‹wýNNb	g§YúWNxz6e§!lbcb§YúWNxuµN§!\n"
+ EDG_FOI_UCI_GUI_province_ability_2_tooltip:0 "9eÛuµNåTwQ"
+ EDG_FOI_UCI_GUI_province_ability_2_effect_tooltip:0 "Så‹wýNNb	g§YúWNxuµN§!lbc:N§YúWNxºN›R§!N§YúWNxz6e§!\n\nÏk§Y1§!¹p§YúWNxuµN§!ïSåNlbc:N§Y1§!¹p§YúWNxºN›R§!N§Y1§!¹p§YúWNxz6e§!\n"
+ EDG_FOI_UCI_GUI_province_ability_3_tooltip:0 "VìSlQ>yluQ"
+ EDG_FOI_UCI_GUI_province_ability_3_effect_tooltip:0 "å‹wýNÏk§Y2§!¹p§YúWNxºN›R§!ïSVìS§Y1k§!ekuQÿóSýwVßR§Y1k§!ekuQ\n"
+ EDG_FOI_UCI_GUI_province_ability_4_tooltip:0 "Tv^S‹WlQ>y"
+ EDG_FOI_UCI_GUI_province_ability_4_effect_tooltip:0 "å‹wýN1Y»S§YNb	gÑSUS¦^§!ÿv^S1Y»S„vNb	gÑSUS¦^§Y–:gRM‘§!0RbìNNbåb	g„vvQÖN§Y8hÃV§!wýN\n"
+ EDG_FOI_UCI_GUI_province_ability_5_tooltip:0 "nRÛSqNfkÅˆ"
+ EDG_FOI_UCI_GUI_province_ability_5_effect_tooltip:0 "å‹wýNN„v§YNb	gÛS›Q§!S«ˆnd–"
+ EDG_FOI_UCI_GUI_province_ability_6_tooltip:0 "­‹Ãui—‹TkS–"
+ EDG_FOI_UCI_GUI_province_ability_6_effect_tooltip:0 "å‹wýN1Y»SNb	g§YúWNxºN›R§!ÿv^Äuú^N=ehQè1u§Yi—‹TkS–§!Äub„vè–"
+ EDG_FOI_UCI_GUI_province_ability_7_tooltip:0 "Ÿ¨RlO"
+ EDG_FOI_UCI_GUI_province_ability_8_tooltip:0 "8hÃVn"
+ EDG_FOI_UCI_GUI_province_ability_8_effect_tooltip:0 "bìNS·ƒ—Vå‹wýN„v§Y8hÃV§!ÿÏk§Y1§!¹pÑSUS¦^ýOcbd–bìN§Y5§!£adm£"
+ EDG_FOI_UCI_GUI_province_ability_8_effect_up_tooltip:0 "bìNS·ƒ—Vå‹wýN„v§Y8hÃV§!ÿÏk§Y1§!¹pÑSUS¦^ýOcbd–bìN§Y3§!£adm£"
+ EDG_FOI_UCI_GUI_province_ability_9_tooltip:0 "vbcƒXY¿R›R"
+ EDG_FOI_UCI_GUI_province_ability_9_effect_tooltip:0 "bìNS·ƒ—VNð§YÛS›Q§!Nb`S†˜wýN„v§T8hÃV§!ÿSVå‹§YÛS›Q§!:V6RîvhýV¶R§Y¥c×S‰Bl§!öeÿbìNSàeagöN§Tçub§!å‹ýV¶R"
+ EDG_FOI_UCI_GUI_mil_ability_1_tooltip:0 "hQýV¨RXTÕläN"
+ EDG_FOI_UCI_GUI_mil_ability_1_effect_tooltip:0 "ÙSùRbìNNbåb	g„vNb	g§Y&rT‰Bl§!„vwýNÛLˆN!k§YVìSlQ>yluQ§!„vwýNLˆ¨R"
+ EDG_FOI_UCI_GUI_mil_ability_2_tooltip:0 "lQ>y2–kSÕläN"
+ EDG_FOI_UCI_GUI_mil_ability_2_effect_tooltip:0 "ÙSùRbìNNbåb	g„vNb	g§Y&rT‰Bl§!„vwýNÛLˆN!k§YnRÛSqNfkÅˆ§!„vwýNLˆ¨R"
+ FOI_UCI_UI_government_reform_buffon_1:0 "?e»l6R¦^"
+ FOI_UCI_UI_government_reform_buffon_1_tooltip:0 "Rbc>f:y§Y?e»l6R¦^§!ïSýw„v9ei—"
+ FOI_UCI_UI_government_reform_buffon_2:0 "	>N‘˜‡s"
+ FOI_UCI_UI_government_reform_buffon_2_tooltip:0 "Rbc>f:y§Y	>N‘˜‡s§!ïSýw„v9ei—"
+ FOI_UCI_UI_government_reform_buffon_3:0 "ÏuNmSOû|"
+ FOI_UCI_UI_government_reform_buffon_3_tooltip:0 "Rbc>f:y§YÏuNmSOû|§!ïSýw„v9ei—"
+ FOI_UCI_UI_government_reform_buffon_4:0 "›Q‹NÄuÇu"
+ FOI_UCI_UI_government_reform_buffon_4_tooltip:0 "Rbc>f:y§Y›Q‹NÄuÇu§!ïSýw„v9ei—"
+ FOI_UCI_UI_government_reform_buffon_5:0 "ùRY‹N¡R"
+ FOI_UCI_UI_government_reform_buffon_5_tooltip:0 "Rbc>f:y§YùRY‹N¡R§!ïSýw„v9ei—"
+ FOI_UCI_UI_government_reform_buffon_6:0 "lÏe»lt"
+ FOI_UCI_UI_government_reform_buffon_6_tooltip:0 "Rbc>f:y§YlÏe»lt§!ïSýw„v9ei—"
+ FOI_UCI_UI_government_reform_buffon_7:0 "—RYe>y:S"
+ FOI_UCI_UI_government_reform_buffon_7_tooltip:0 "Rbc>f:y§Y—RYe>y:S§!ïSýw„v9ei—"
+ FOI_UCI_UI_government_reform_buffon_8:0 "ã‰>eŸSR"
+ FOI_UCI_UI_government_reform_buffon_8_tooltip:0 "Rbc>f:y§Yã‰>eŸSR§!ïSýw„v9ei—"
+ EDG_FOI_encourage_production:0 "Ÿ±RuµN"
+ FOI_UCI_UI_government_button1_tooltip:0 "uµNÍ‘ÃVÿjugrN"
+ FOI_UCI_UI_government_button2_tooltip:0 "uµNÍ‘ÃVÿœQN"
+ FOI_UCI_UI_government_button3_tooltip:0 "uµNÍ‘ÃVÿ*‚wmN"
+ FOI_UCI_UI_government_button4_tooltip:0 "uµNÍ‘ÃVÿ6R.N"
+ FOI_UCI_UI_government_button5_tooltip:0 "uµNÍ‘ÃVÿÿwN"
+ FOI_UCI_UI_government_button6_tooltip:0 "uµNÍ‘ÃVÿÍyiN"
+ FOI_UCI_UI_government_reform_effect_tooltip:0 "Nð®‹HhÇKNTÿSO·ƒ—V‚YNHeœgÿ"
+ FOI_UCI_UI_government_reform_1_tooltip:0 "lQ>yãNhˆ"
+ FOI_UCI_UI_government_reform_2_tooltip:0 "ôv¥cÂSN"
+ FOI_UCI_UI_government_reform_3_tooltip:0 "2Nt^nbc"
+ FOI_UCI_UI_government_reform_4_tooltip:0 "ÛVt^nbc"
+ FOI_UCI_UI_government_reform_5_tooltip:0 "kQt^nbc"
+ FOI_UCI_UI_government_reform_6_tooltip:0 "Qg>yê»l"
+ FOI_UCI_UI_government_reform_7_tooltip:0 "lQ>yê»l"
+ FOI_UCI_UI_government_reform_8_tooltip:0 "lQ>yµb—bäN"
+ FOI_UCI_UI_government_reform_9_tooltip:0 "6R¦^SVìS"
+ FOI_UCI_UI_government_reform_10_tooltip:0 "ckVSfkÅˆ"
+ FOI_UCI_UI_government_reform_11_tooltip:0 "Zw&q…Qè"
+ EDG_FOI_has_end_iberia_great_famine:0 "§YOÔk)RšN'Ye™RƒòTÏuÓumg§!"
+ FOI_UCI_UI_government_reform_12_tooltip:0 "“úQi—‹T"
+ FOI_UCI_UI_government_reform_13_tooltip:0 "fkÅˆ—e‰N"
+ FOI_UCI_UI_government_reform_14_tooltip:0 "lÏeóN"
+ FOI_UCI_UI_government_reform_15_tooltip:0 "ÍyÏe’c¥e"
+ FOI_UCI_UI_government_reform_16_tooltip:0 "ýVYe"
+ FOI_UCI_UI_government_reform_17_tooltip:0 "áOðNê1u"
+ FOI_UCI_UI_government_reform_18_tooltip:0 "?eYeR»y"
+ FOI_UCI_UI_government_reform_19_tooltip:0 "ºNlKN%f"
+ FOI_UCI_UI_government_reform_20_tooltip:0 "NLui—‹T"
+ FOI_UCI_UI_government_reform_21_tooltip:0 "TwTi—‹T›Q"
+ FOI_UCI_UI_government_reform_22_tooltip:0 "lÏeýV¶R"
+ FOI_UCI_UI_government_reform_23_tooltip:0 "‡eS‡T"
+
+
+ FOI_UCI_UI_court_adm_power_button_tooltip:0 "ÐcØšLˆ?e4ls^"
+ FOI_UCI_UI_court_dip_power_button_tooltip:0 "3zšRÏuNmSOû|"
+ FOI_UCI_UI_court_mil_power_button_tooltip:0 "i—°e›Q‹NtõV"
+ FOI_UCI_UI_court_adm_power_button_effect_tooltip:0 "±‚9§Y100§!¹p§YÏuŒš<P§!ÿÐcØš§Y0hQSOlQ>yãNhˆ'YO0§!§G1§!¹p£adm£"
+ FOI_UCI_UI_court_dip_power_button_effect_tooltip:0 "±‚9§Y100§!¹p§YÏuŒš<P§!ÿÐcØš§Y0hQSOlQ>yãNhˆ'YO0§!§G1§!¹p£dip£"
+ FOI_UCI_UI_court_mil_power_button_effect_tooltip:0 "±‚9§Y100§!¹p§YÏuŒš<P§!ÿÐcØš§Y0hQSOlQ>yãNhˆ'YO0§!§G1§!¹p£mil£"
+ FOI_UCI_UI_court_trait_select_button_1_tooltip:0 "	éb0hQSOlQ>yãNhˆ'YO0tõV"
+ FOI_UCI_UI_court_trait_select_button_2_tooltip:0 "	éb0hQSOlQ>yãNhˆ'YO0tõV"
+ FOI_UCI_UI_court_trait_select_button_3_tooltip:0 "	éb0hQSOlQ>yãNhˆ'YO0tõV"
+ FOI_UCI_UI_court_trait_button_1_tooltip:0 "lQck"
+ FOI_UCI_UI_court_trait_button_2_tooltip:0 "s^Ir"
+ FOI_UCI_UI_court_trait_button_3_tooltip:0 "É^m"
+ FOI_UCI_UI_court_trait_button_4_tooltip:0 "ckIN"
+ FOI_UCI_UI_court_trait_button_5_tooltip:0 "Ûek"
+ FOI_UCI_UI_court_trait_button_6_tooltip:0 "äR³R"
+ FOI_UCI_UI_court_trait_button_7_tooltip:0 "tó`"
+ FOI_UCI_UI_court_trait_button_8_tooltip:0 "ÌR³"
+ FOI_UCI_UI_court_trait_button_9_tooltip:0 "ZWç—"
+ FOI_UCI_UI_court_trait_button_10_tooltip:0 "ÇRl"
+ FOI_UCI_UI_court_trait_button_11_tooltip:0 "ípÅ`"
+ FOI_UCI_UI_court_trait_button_12_tooltip:0 "%N‰S"
+ FOI_UCI_UI_court_trait_button_13_tooltip:0 "tel™"
+ FOI_UCI_UI_court_trait_button_14_tooltip:0 "ŒŒT"
+ FOI_UCI_UI_court_trait_button_15_tooltip:0 "b‰N"
+ FOI_UCI_UI_court_trait_button_16_tooltip:0 "»lt"
+
+ EDG_FOI_UCI_GUI_mil_army_ability_1_tooltip:0 "ekuQ­‹Ãu"
+ EDG_FOI_UCI_GUI_mil_army_ability_1_trigger_tooltip:0 "bìN*g	ébå‹y˜›Q‹NµOÍ‘ÿ"
+ EDG_FOI_UCI_GUI_mil_army_ability_2_tooltip:0 "‘šuQ­‹Ãu"
+ EDG_FOI_UCI_GUI_mil_army_ability_3_tooltip:0 "®puQ­‹Ãu"
+
+
+
+
+ EDG_FOI_UCI_collectivization_of_the_commune:0 "Æ–SOjON"
+ desc_EDG_FOI_UCI_collectivization_of_the_commune:0 ""
+ EDG_FOI_UCI_armed_mobilization:0 "fkÅˆ¨RXT"
+ desc_EDG_FOI_UCI_armed_mobilization:0 ""
+ EDG_FOI_UCI_reform_of_production_tools:0 "9eÛuµN"
+ desc_EDG_FOI_UCI_reform_of_production_tools:0 ""
+ EDG_FOI_UCI_stimulate_the_development:0 "ÃOÛÑSUS"
+ desc_EDG_FOI_UCI_stimulate_the_development:0 ""
+ EDG_FOI_HRE_call_a_parliament:0 "ìSV®‹O"
+ desc_EDG_FOI_HRE_call_a_parliament:0 ""
+ EDG_FOI_UCI_agitate_the_bottom:0 "Ÿ¨RlO"
+ desc_EDG_FOI_UCI_agitate_the_bottom:0 ""
+ EDG_FOI_UCI_revolution_artillery_modifier:0 "®puQ­‹Ãu"
+ desc_EDG_FOI_UCI_revolution_artillery_modifier:0 ""
+ EDG_FOI_UCI_revolution_cavalry_modifier:0 "‘šuQ­‹Ãu"
+ desc_EDG_FOI_UCI_revolution_cavalry_modifier:0 ""
+ EDG_FOI_UCI_revolution_infantry_modifier:0 "ekuQ­‹Ãu"
+ desc_EDG_FOI_UCI_revolution_infantry_modifier:0 ""
+ EDG_FOI_UCI_revolution_army_change_modifier:0 "›Q‹NµOÍ‘ôf9e"
+ desc_EDG_FOI_UCI_revolution_army_change_modifier:0 ""
+ EDG_FOI_UCI_commune_reform:0 "lQ>y9ei—"
+ desc_EDG_FOI_UCI_commune_reform:0 ""
+ EDG_FOI_UCI_production_center_of_gravity_shift:0 "uµNÍ‘ÃVOPûy"
+ desc_EDG_FOI_UCI_production_center_of_gravity_shift:0 ""
+ EDG_FOI_UCI_production_production_boom:0 "uµNAucƒ"
+ desc_EDG_FOI_UCI_production_production_boom:0 ""
+ 
+
+
+ EDG_FRA_GUI_big_shield_tooltip:0 "jO:NÕlpQKQKN‹sÿbìNåb	gRËYýw›Rÿv^ïSåNÇ·ƒÖS§TÕlpQKQCgZ§!åN¨cÛÕlpQKQ‹sýV9ei—ÿåN·ƒÖSôfYýw›R0"
+ EDG_FRA_GUI_ability_1_tooltip:0 "£adm£§YÇ‘‘6R¦^§!\nbìNSýwYã‰•§M‹s²RÇ‘‘§!ŒT§MyrCgÇ‘‘§!„v^SýV‰|‹W0"
+ EDG_FRA_GUI_ability_2_tooltip:0 "£adm£§Y)Y6q†uLu§!\nbìNSýwYã‰•§Mú^Ëz)Y6q†uLu§!øvsQ„vNû|R³Q®‹ŒT…Q¹RÿÙSAQ¸‹bìNæ‰ÑSNû|RîOckŒT‹NöN0"
+ EDG_FRA_GUI_ability_3_tooltip:0 "£adm£§YÕlpQ‰ÝO²býV§!\nbìNSýwYã‰•§MÕlpQ‰ÝO²býV§!^SýV‰|‹Wÿå‹‰|‹W^SýVS:NbìNÐc›O!KŒT›Q–NP–ÿv^NOIN¨R ReQbìN„vb‰NÿFOÏk*N§MÕlpQ‰ÝO²býV§!SO.bbìN„v§M-0.25§!t^¦^Zg0"
+ EDG_FRA_GUI_ability_4_tooltip:0 "£adm£§YýV¶RF–›Q§!\nbìNSýwYã‰•§M9ei—ýV¶RF–›Q§!øvsQ„vNû|R³Q®‹ŒT…Q¹RÿÙSAQ¸‹bìNæ‰ÑSNû|RîOckŒT‹NöN0"
+ EDG_FRA_GUI_ability_5_tooltip:0 "£adm£§Y‹sg?e»l§!\nbìN„vÏk*N§M‹s²RÇ‘‘§!ŒT§MyrCgÇ‘‘§!S:NbìNÐc›O§M10%§!„vçubºN·ƒÖS‚i‡sÿv^NbìNïSåNcšR§M‹s²RÇ‘‘§!„vçubºNjO:NbìN„v‹s¨P0"
+ EDG_FRA_GUI_ability_6_tooltip:0 "£adm£§YÕlpQ‰lÏe¾|^y§!\nbìNSýwYÇŒRbûN¡RQX.§YÕlpQ‰lÏe¾|^y§!ÿÙS:NbìNŒTNb	g§MÕlpQ‰§!‡eSÄu„výV¶RÐc›ONšR„vîOck0"
+ EDG_FRA_GUI_ability_7_tooltip:0 "£adm£§Y‡eSTS§!\nbìNŒTvQÖN§MÕlpQ‰§!‡eSÄu„výV¶RÿOba0WS§MÉbN§!‡eSÄu0§MOÔk)RšN§!‡eSÄu0§Måe3wüf§!‡eSÄuŒT§MNR ˜§!‡eSÄu„vwýN‡eSteTeQ§MÕlpQ‰§!‡eSÄu0"
+ EDG_FRA_GUI_ability_8_tooltip:0 "£adm£§Y'YF–Tßv§!\nbìNSýwYú^Ëz§M'YF–TßvýV§!‰|‹W„v^SýVÿå‹‰|‹W„v^SýVSåb	ggNO„vìrËz>PTÿýwYÇ±‚9ºNÅ`ìS2UÛeQb‰Nÿv^ýwY:NbìNÐc›OyršR„v Rb0"
+
+ EDG_HRE_parliament_country_shield_tooltip:0 "^ýV®‹O"
+ EDG_HRE_proceed_at_once_parliament_button_Text:0 "ìSV^ýV®‹O"
+ EDG_HRE_proceed_at_once_parliament_button_trigger_1_tooltip:0 "^ýV®‹Ock(WìSV"
+ EDG_HRE_proceed_at_once_parliament_button_trigger_2_tooltip:0 "‡v^Ïk§Y5§!t^ìSVN!k^ýV®‹O"
+ EDG_HRE_reform_label:0 "^ýV!k‰9ei—"
+
+ EDG_FOI_UCI_empirical_value:0 "§YÏuŒš<P§!"
+ FOI_UCI_UI_court_label:0 "=t¡‹ÏuŒš<P"
+ FOI_UCI_UI_court_content:0 "[EDG_FOI_UCI_empirical_target.EDG_FOI_UCI_empirical_value.GetValue]"
+ FOI_UCI_UI_court_content_tt:0 "§YÏuŒš<P§!ãNhˆ†N'YO(WYtTwTSOTy˜‹N¡R-NNbïy=t„vÏuŒšÿwÙ›NÏuŒšïSåN(ueg:VS'YO„vLwýwÿåNdkO—VvQýwYôf RØšHe„v¡rtte*NýV¶R0\n\n'YOÏk*NgSOê¨R·ƒ—V§Y1§!ÏuŒš<P0"
+ EDG_FOI_UCI_UI_select_trait_next_effect:0 "NN!k§YŒRhQÍ‘Äu§!'YOKNTÿSOûm Rå‹yr("
+ EDG_FOI_UCI_UI_deselect_trait_effect:0 "ÖSˆm	ébSVMRyr("
+ FOI_UCI_UI_has_select_this_trait:0 "vQÖNýiMO¡l	g	ébå‹yr(ÿ"
+ FOI_UCI_UI_please_select_a_slot:0 "÷‹HQ	ébN*NýiMO"
+
+ FOI_UCIEvents.900.aa:0 "[EDG_FOI_UCI_empirical_target.EDG_FOI_UCI_empirical_value.GetName][EDG_FOI_UCI_empirical_target.EDG_FOI_UCI_empirical_value.GetValue],[root.EDG_FOI_UCI_empirical_value.GetName][root.EDG_FOI_UCI_empirical_value.GetValue]"

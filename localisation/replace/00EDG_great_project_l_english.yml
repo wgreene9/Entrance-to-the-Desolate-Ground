@@ -1,0 +1,300 @@
+﻿l_english:
+
+EDG_FRAs_SPA_culture_trigger_tt:0 "/f§YÕlpQ‰§!S„v§YOÔk)RšN§!‡eS"
+EDG_FRAs_GER_culture_trigger_tt:0 "/f§YÕlpQ‰§!S„v§Yåe3wüf§!‡eS"
+EDG_FRAs_ITA_culture_trigger_tt:0 "/f§YÕlpQ‰§!S„v§YÉbN§!‡eS"
+EDG_TURs_PER_culture_trigger_tt:0 "/f§YÎžáQyr§!S„v§YOg§!‡eS"
+
+ St_Andrew_Cathedral:0 "#W‰R·VÈp'YYeX"
+ EDG_Daphne_Palace:0 "¾+Y³u«R"
+ EDG_Chrysotriclinium:0 "Éblš<SeYS«R"
+ EDG_Galata_Tower:0 " RÉb*YTX"
+ EDG_Ali_Qapu_Palace:0 "?–Ì‘aSnf«R"
+ EDG_four_Garden_school:0 "ÛV±‚íVfR/h"
+ EDG_Blue_Mosque:0 "Ý„r‚nwúR"
+ EDG_Arg_e_Alishah:0 "?–<h?–)R™l"
+ EDG_Tabriz_Bazaar:0 "'YNÌ‘ëXÆ–^"
+ EDG_Hanging_Garden:0 "zz-N±‚íV"
+ EDG_Golden_Leaves_and_Silver_Branches_Palace:0 "Ñ‘öSö”gh«R"
+ 
+ EDG_Ulugh_Beg_Observatory:0 "NQœ/O)Y‡eðS"
+ EDG_Lekistan_Seminary:0 "RúW¯efW^yfRb–"
+ EDG_Golestan_Palace:0 "bÒR¯efW‡v«R"
+ EDG_Tehran_University:0 "·VÑžpQ'YfR"
+ EDG_Palace_Nyawaran:0 "<SÅ–ætg‡v«R"
+ EDG_Theodosian_Wall:0 "ÄreYY‰ÎW™X"
+ 
+ EDG_Urmia_Fire_Temple:0 "LNSs|6w#Wkp™^"
+ EDG_Urmia_mosque:0 "?–ænwúR"
+ EDG_Selimiye_mosque:0 "^X)Rs|6wnwúR"
+ EDG_Sivas_Palace:0 "/•æt¯e‡v«R"
+ EDG_Kara_Sellar:0 "aSÉb·^XÉbS"
+ EDG_St_Mary_Syrian_Orthodox_Church:0 "#W›s)RšNÙS)RšNckYeX"
+ EDG_Dajuli_Temple:0 "'YZw<yúR"
+ EDG_Diyarbakir_Wall:0 "êšNôTKQSÎW™X"
+ 
+ EDG_Hisn_Kayfa_Fortress:0 "ÈTQhïQO+Y‰^X"
+ 
+ EDG_OrientalPalace:0 "N¹e«R"
+ EDG_MayorSquare:0 "lš¦uS^:W"
+ EDG_tuoleiduo_temple:0 "Xb÷–Y'YYeX"
+ EDG_Tornellias_Mosque:0 "XbS…Q)RšN¯enwúR"
+ EDG_Badahos_Cathedral:0 "ôTTXS'S¯enwúR"
+ EDG_Abdul_Mosque:0 "?–jSÉbjgnwúR"
+ EDG_Porto_Cathedral:0 "âlSþV'YYeX"
+ EDG_Porto_Port:0 "âlSþV/n"
+ EDG_OviedoPalace:0 "eYôu6wY«R"
+ EDG_GaliciaPalace:0 "ÉbÑyœ<SšNI`cw«R"
+ EDG_Hercules_Tower:0 "ÃW“^±ƒ¯eTX"
+ EDG_Maria_Pita_Square:0 "›sKNšN·®vTX^:W"
+ EDG_Saint_Anton_Castle:0 "#W‰RNÎW/X"
+ EDG_Queluz_palace:0 "?–¹e0t«R"
+ EDG_Granada_University:0 "<hÉb³u¾'YfR"
+ EDG_Granada_temple:0 "<hÉb³u¾INµ^YeX"
+ EDG_Cordoba_cathedral:0 "ÑySYæt'YYeX"
+ EDG_Cordoba_palace:0 "ÑySYæt‹s«R"
+ EDG_Cordoba_Kalaola:0 "aSÉb'kÉbKNTX"
+ EDG_Almeria_Alcazaba:0 "?–SaS(„ætÎW/X"
+ EDG_Lisbon_Cathedral:0 "Ì‘¯e,g'YYeX"
+ EDG_Lisbon_Palace:0 "<hœyQ«R"
+ EDG_Lisbon_Monastery:0 "#WòTWÆY>mîOSb–"
+ EDG_Zaragoza_university:0 "(„Ébb(„'YfR"
+ EDG_Zaragoza_temple:0 "®vÉbS#WÍk#W¿kINYeµ^X"
+ EDG_Valencia_Catedral:0 "æt&O‰šN'YYeX"
+ EDG_Valencia_Torre:0 "s|KOÒRTX"
+ EDG_Barcelona_Cathedral:0 "ôT^XW±'YYeX"
+ EDG_Barcelona_Amphitheatre:0 "TXÉbb±WlšWbVgR:W"
+ EDG_Barcelona_Palau_Nacional:0 "ýV¶R«R"
+ EDG_Hativa_Castle:0 "ÈT‚„ætÎW/X"
+ EDG_Teruel_Textile_mill:0 "yrœÃWS'YåTJW"
+ EDG_Bilbao_port:0 "ÕkSôT‘/n"
+ EDG_Sevilla_Cathedral:0 "^Xôu)RšN'YYeX"
+ EDG_Sevilla_palace:0 "^Xôu)RšN‹s«R"
+ EDG_Sevilla_castle:0 "?–aS(„ÎW/X"
+ EDG_Koka_Castle:0 "?–aS(„ÎW/X"
+ 
+ EDG_Primatiale_St-Jean:0 "#W©‹–™-^'YYeX"
+ EDG_St_Michels_Cathedral:0 "#W·s|GkS'YYeX"
+ EDG_Palais_des_Papes:0 "nm>mYe—R«R"
+ EDG_Aix_palace:0 "Œ‚KQ¯e‹s«R"
+ EDG_St_John_Cathedral:0 "#W¦uð'YYeX"
+ EDG_Merrana_Library:0 "…h‰Q³uþVfN†™"
+ EDG_Peyrou:0 "iOœè•"
+ EDG_Nabona_Wine_Farm:0 "³uZS·‹a„„R‘œQ:W"
+ EDG_Toulun_Commercial_Port:0 "W&OFU/n"
+ EDG_Francois_Textile_Factory:0 "Vg0tætºuÇu‚S"
+ EDG_La_Cathedrale_Saint_Croix:0 "#W·ASWR'YYeX"
+ EDG_Cathedrale_Saint-Andre:0 "#W‰R·Vœ'YYeX"
+ EDG_Palais_Jacque:0 "Å–KQÑyS«R¿k"
+ EDG_Carcassonne_castle:0 "aSSaSŒgÎW/X"
+ EDG_Louvre:0 "bSnm«R"
+ EDG_Bulua_Castle:0 "^bSætÎW/X"
+ EDG_Chambord_Castle:0 "™™/X"
+ EDG_Fontainebleau:0 "«g9N‹v2—«R"
+ EDG_Mont_Saint_Michel:0 "#Ws|GkSqS"
+ #第戎 第戎圣母院
+ EDG_Notre_Dame_Dijon:0 ",rb#WÍkb–"
+ #哥兰德圣母院
+ EDG_Notre_Dame_of_Goland:0 "åTpQ·V#WÍkb–"
+#图卢兹 米迪运河
+EDG_Canal_du_Midi:0 "s|êÐ³l"
+#图卢兹 苍红之城
+EDG_Episcopal_City_of_Albi:0 "Í‚¢uKNÎW"
+#波尔多 月亮港
+EDG_Port_of_the_Moon:0 "g®N/n"
+#弗朗什孔泰 符腾堡公爵城堡
+EDG_Duke_of_Wuertenburg_Castle:0 "&rŒ/XlQ5rÎW/X"
+#弗朗什孔泰 阿尔克-塞南皇家盐场
+EDG_Royal_Saltwork_of_Arc:0 "?–SKQ-^XWS‡v¶RÐv:W"
+#里昂 祈福山
+EDG_Fourviere:0 "HyyqS"
+#波尔多 科尔杜昂灯塔
+EDG_Cordouan_Lighthouse:0 "ÑySjgfopTX"
+#曼恩 格拉巴托尔宫
+EDG_Palais_du_Grabatoire:0 "<hÉbôTXbS«R"
+#南特 圣皮埃尔与圣保罗大教堂
+EDG_cathedral_de_Nantes:0 "#W®vÃWSN#WÝOW'YYeX"
+#布雷斯特 唐居伊塔
+EDG_Tour_Tanguy:0 "UESOTX"
+
+
+#明斯克 米尔城堡
+EDG_Castle_Complex:0 "s|SÎW/X"
+#明斯克 古萨罗夫卡造纸厂
+EDG_Gusarovka_Paper_Mill:0 "äS(„W+YaS.¸u‚S"
+#诺夫哥罗德 雅罗斯拉夫宅邸
+EDG_Yaroslav_Residence:0 "Å–W¯eÉb+Y…R¸"
+#诺夫哥罗德 大公市场
+EDG_Dagong_Market:0 "'YlQ^:W"
+#涅斯维日 拉济维乌家族城堡
+EDG_Complex_of_the_Radziwill_Fa:0 "ÉbNmôuLN¶RÏeÎW/X"
+#斯摩棱斯克 英雄广场
+EDG_Hero_Square:0 "ñ‚Ä–^:W"
+#斯摩棱斯克 亚历山大元帅军事学院
+EDG_Alexander_Fortress:0 "šN†SqS'YCQ^›Q‹NfRb–"
+#斯摩棱斯克 斯摩棱斯克堡
+EDG_Smolensk_Castle:0 "¯eidñh¯eKQ/X"
+#维亚济马 胜利大厅
+EDG_Victory_Hall:0 "Üw)R'Y…S"
+#维亚济马 维亚济马堡
+EDG_Viazima_Fort:0 "ôušNNmlš/X"
+#布良斯克 布良斯克修道院
+EDG_Bryansk_Monastery:0 "^o‚¯eKQîOSb–"
+#沃罗涅日 沃罗涅日大教堂
+EDG_Voronezh_Monastery:0 ")YO¥bœU'YYeX"
+#沃里尼亚 沃里尼亚宫
+EDG_Volhynia_palace:0 "ƒlÌ‘<SšN«R"
+#沃里尼亚 缙绅大会堂
+EDG_Jingentry_Hall:0 "Åu'YOX"
+#切尔尼戈夫 切尔尼戈夫王宫
+EDG_Chernigov_Palace:0 "RS<Sb+Y‹s«R"
+#佩列亚斯拉夫 佩列亚斯拉夫大教堂
+EDG_Pereyaslav_Temple:0 "iORšN¯eÉb+Y'YYeX"
+#波德拉谢 波德拉谢猎场
+EDG_Podlasie_hunting_ground:0 "âl·VÉb0Œs:W"
+#雅罗斯拉夫尔 雅罗斯拉夫尔王宫
+EDG_Yaroslavl_Palace:0 "Å–W¯eÉb+YS‹s«R"
+#沃洛格达 沃洛格达大桥
+EDG_Vologda_Bridge:0 "ƒlm<h¾'Yeh"
+#斯摩棱斯克 斯摩棱斯克铸炮厂
+EDG_Smolensk_Factory:0 "¯eidñh¯eKQø”®p‚S"
+#弗拉基米尔 弗拉基米尔王宫
+EDG_Vladimir_palace:0 "VÉbúWs|S‹s«R"
+#弗拉基米尔 阿纳斯塔西娅大教堂
+EDG_Vladimir_temple:0 "?–³u¯eTX‰Z'YYeX"
+#特维尔 特维尔议事厅
+EDG_Tver_assembly_hall:0 "yrôuS®‹‹N…S"
+#苏兹达尔 集市广场
+EDG_Suzdar_Market_Square:0 "Æ–^^:W"
+#普斯科夫 普斯科夫大市场
+EDG_Pskov_market:0 "nf¯eÑy+Y'Y^:W"
+#波洛茨克 弗谢斯拉夫王座厅
+EDG_Polotsk_throne:0 "V0Œ¯eÉb+Y‹sµ^…S"
+#梁赞 菲多罗维奇大军营
+EDG_Ryazan_Camp:0 "òƒYWôuGY'Y›Q%„"
+#波多里亚 波多里亚军事基地
+EDG_Podolia_Camp:0 "âlYÌ‘šN›Q‹NúW0W"
+#佩列亚斯拉夫 亚历山大-涅夫斯基大教堂
+EDG_Alexandria_Nevsky_Cathedral:0 "šN†SqS'Y-…m+Y¯eúW'YYeX"
+ #莫斯科 大彼得罗夫歌剧院
+EDG_Grand_Petrov_Theatre:0 "'Y|V—VW+YLkgRb–"
+ #莫斯科 新圣女修道院
+EDG_New_Virgin_Monastery:0 "°e#WsYîOSb–"
+ #莫斯科 圣瓦西里圣天大教堂
+EDG_Saint_Vasili_Cathedral:0 "#Wæt‰Ì‘#W)Y'YYeX"
+ #圣彼得堡 涅瓦大街
+EDG_Nevsky_Prospect:0 "…mæt'YWˆ"
+ #圣彼得堡 夏宫
+EDG_Summer_Palace:0 "Y«R"
+ #圣彼得堡 彼得要塞
+EDG_Petropavlovskaya_krepost:0 "|V—V‰^X"
+ #圣彼得堡 马林斯基剧院
+EDG_Mariinsky_Theater:0 "lš—g¯eúWgRb–"
+
+#洛锡安 爱丁堡
+EDG_Edinburgh:0 "m/•‰R«R"
+edinburgh_castle:0 "1rN/X"
+#洛锡安 圣吉尔斯大教堂
+EDG_Elis_Cathedral:0 "#W	TS¯e'YYeX"
+#洛锡安 荷里路德宫
+EDG_Holyrood_Palace:0 "wƒÌ‘ï·V«R"
+#阿伯丁 阿伯丁大学
+EDG_University_of_Aberdeen:0 "?–/ON'YfR"
+#伦敦 威斯敏斯特宫
+EDG_Palace_of_Westminster:0 "Z¯eOe¯eyr«R"
+#伦敦 伊丽莎白塔
+EDG_the_Elizabeth_Tower:0 "OKNŽƒ‹vTX"
+#伦敦 圣保罗大教堂
+EDG_St_Paul_Cathedral:0 "#WÝOW'YYeX"
+#伦敦 西敏寺
+EDG_Westminster_Abbey:0 "‰OeúR"
+#伦敦 格林尼治天文台
+EDG_Royal_Greenwich_Observatory:0 "<h—g<S»l)Y‡eðS"
+#约克 约克大教堂
+EDG_York_Minster:0 "¦uKQ'YYeX"
+#约克 霍华德庄园
+EDG_Castle_Howard:0 "—NS·V„^íV"
+#格洛斯特 格洛斯特大教堂
+EDG_Gloucester_Cathedral:0 "<hm¯eyr'YYeX"
+#牛津 牛津大学
+EDG_Oxford_University:0 "ir%m'YfR"
+#牛津 布莱尼姆宫
+EDG_Blenheim_Palace:0 "^±ƒ<SÆY«R"
+#汉普郡 海克利尔城堡
+EDG_Highclere_Castle:0 "wmKQ)RSÎW/X"
+#格温内斯 康威城堡
+EDG_Conwy_Castle:0 "·^ZÎW/X"
+#格拉摩根 卡菲利城堡
+EDG_Caerphilly_Castle:0 "aSòƒ)RÎW/X"
+#什里斯伯里 伍斯特大教堂
+EDG_Worcester_Cathedral:0 "O¯eyr'YYeX"
+#贝德福郡（赫特福德郡） 哈特菲尔德宫
+EDG_Hatfield_Palace:0 "ÈTyròƒS·V«R"
+#肯特 多佛城堡
+EDG_Dover_Castle:0 "YiOÎW/X"
+#肯特 罗切斯特城堡
+EDG_Rochester_Castle:0 "WR¯eyrÎW/X"
+#肯特 坎特伯雷大教堂
+EDG_Canterbury_Cathedral:0 "NWyr/O÷–'YYeX"
+#切斯特 切斯特城堡
+EDG_Chester_Castle:0 "R¯eyrÎW/X"
+#诺森伯兰 哈德里安城堡
+EDG_Hadrian_Castle:0 "ÈT·VÌ‘‰RÎW/X"
+#德比 查茨沃斯庄园
+EDG_Chatsworth_House:0 "åg(ƒƒl¯e„^íV"
+#莱斯特 莱切斯特大学
+EDG_University_Leicester:0 "±ƒR¯eyr'YfR"
+#埃塞克斯 埃塞克斯大学
+EDG_University_Essex:0 "ÃW^XKQ¯e'YfR"
+#艾尔郡 艾尔皇家科学院
+EDG_Aier_Royal_Academy_of_Sciences:0 "Œ‚S‡v¶RÑyfRb–"
+#格拉摩根 格拉摩根官邸
+EDG_Glamorgan_Mansion:0 "<hÉbid9h˜R¸"
+#伊法尔列（奥法利） 比尔城堡庄园
+EDG_Birr_Castle:0 "ÔkSÎW/X„^íV"
+#康纳赫特 阿什福德城堡
+EDG_Ashford_Castle:0 "?–ÀNy·VÎW/X"
+#都柏林 路特尔斯顿城堡
+EDG_Luttrellstown_Castle:0 "ïyrS¯e˜ÎW/X"
+#北物万 阿代尔庄园
+EDG_Adare_Manor:0 "?–ãNS„^íV"
+#都柏林 圣玛利亚临时主教座堂
+EDG_ArdeaglaisNaomhMuire:0 "#W›s)RšN4NöeINYeµ^X"
+#奥蒙德 凯袖宫
+EDG_Rock_of_Cashel:0 "ïQ–ˆ«R"
+#剑桥 剑桥大学
+EDG_Cambridge_University:0 "QReh'YfR"
+ 
+ 
+ province_is_or_accepts_EDG_Bogomili_tt:0 "§Y[This.GetName]§!„v—RYe:N§Yâl<hs|ÒR>m§!ÿN:Nåb	gw„výVYebøv¹RáOðN0"
+ province_is_or_accepts_EDG_catharism_tt:0 "§Y[This.GetName]§!„v—RYe:N§Ynm>m§!ÿN:Nåb	gw„výVYebøv¹RáOðN0"
+ EDG_SPA_Great_projects_use_tt:0 "§Y[This.GetName]§!„v—RYe^SŽN§YúWcwYe§!b§YFz¯e—g§!—RYeÄu-NÿN:NwýNNb	gw„výVYebøv¹RáOðN0"
+
+
+ #波兰:0 ""
+EDG_Waclawa_w_Krakowie:0 "ætôuSINYeµ^X"
+EDG_Castle_Square:0 "NS™lÎW/X^:W"
+EDG_Wilanow_Palace:0 "ôuÉbªR+Y«R"
+EDG_Katedra_Sandomierz:0 "QhY…håe'YYeX"
+EDG_Katedra_Poznan:0 "âlyQWS'YYeX"
+
+
+#埃及
+EDG_Kataba_Palace:0 "aSyrôT«R"
+EDG_Damietta_Krafata:0 "KQÉbÕlTX"
+hellas_build_canal_flag_trigger_tooltip:0 "Ç§YûN¡R§!ÐcMRã‰•†Nå‹GYÂ‰"
+
+
+#奥斯曼
+EDG_Topkapi_Sarayi_Muzesi:0 "XbnfaS^«R"
+EDG_Grand_Sarakirio_Palace:0 "'Y(„ÉbúWÌ‘eY«R"
+EDG_TUR_ven_doges_palace:0 "^Y«R"
+
+
+palace_of_the_popes:0 "lQYeOYe—R«R"
+
+
+#洛塔林吉亚
+EDG_Aachen_Lotharingia_Palace:0 "šNt#W6r'Y‡v«R"
+EDG_Herrera_Governor_Palace:0 "wmS÷–TwwI`cw«R"
+EDG_Aachen_University:0 "šNt'YfR"

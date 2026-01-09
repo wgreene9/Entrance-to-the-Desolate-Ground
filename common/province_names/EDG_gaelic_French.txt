@@ -1,0 +1,82 @@
+183 = {
+  "ôTÎeY¯e"
+  "ôTÎeY¯e"
+}
+172 = {
+  "WSyr" 	# Bro Naoned
+  "WSyr" 	# Naoned
+}
+4384 = {
+  "œæt—R0W" 	# Bro Roazhon
+  "œæt—R" 	# Roazhon
+}
+171 = {
+  "æt…Qyr0W" 	# Bro Wened
+  "-W…Qyr" 	# Gwened
+}
+170 = {
+  "iO³uyr" 	# Penn-ar-Bed
+  "^÷–¯eyr" 	# Brest
+}
+169 = {
+  "?–ƒlS" 	# Arvor
+  "1WlšbS" 	# Sant-Maloù
+}
+183 = {
+  "^Î(ƒ" 	# Pariz
+  "^Î(ƒ" 	# Pariz
+}
+236 = {
+  "&O·V÷–(ƒ" 	# Londrez
+  "&O·V÷–(ƒ" 	# Londrez
+}
+373 = {
+  "jg&O" 	# Dulenn
+  "jg&O" 	# Dulen
+}
+248 = {
+  "ê…QN" 	# Dinedin
+  "ê…QN" 	# Dinedin
+}
+233 = {
+  "ïQS…Q+Y" 	# Kernev
+  "yrœW" 	# Truro
+}
+372 = "‚„S'ki`" 	# Tir Eoghain
+373 = "s|·V" 	# Mide
+374 = "ÉbOi`" 	# Laighin
+375 = "SfkN" 	# Tuadhmhumhain
+376 = "·^³ukyr" 	# Connacht
+4119 = "ÀN)R<hk" 	# Sligeach
+4120 = "úWS¾Éb" 	# Cill Dara
+4121 = "LN±ƒ" 	# Ulaidh
+4378 = "WSfkN" 	# Deas-Mhumhain
+4379 = "PROVINCE4379IRISH"
+236 = "&O9N" 	# Londain 	# London
+4373 = "êšNætS" 	# Diabhal 	# Devon
+233 = "·^³u^Éb˜" 	# Corn na Breataine 	# Cornwall
+245 = "?–ætÉbKQ" 	# Eabhrac 	# York
+247 = "NW^÷–šN" 	# Kembrea 	# Cumbria
+4365 = "PROVINCE4365IRISH" 	# Mann
+248 = "ÃW9N!X" 	# Dun Eideann 	# Lothian
+253 = "V¦ºN›S" 	# Inse Gall 	# Outer Hebridies
+4364 = "YıVºN›S" 	# Na hInse Gall 	# Inner Hebridies
+69 = "aSŒ‚ÒRætÒRfe" 	# Caerfyrddin 	# Carmarthen
+1978 = "eYKQ›S" 	# Inse Orc 	# Orkney
+4366 = "°eÎW" 	# An Baile Nua 	# Montgomery
+240 = "³lãSŒn:S" 	# An t-Inbhear 	# Shrewsbury
+239 = "PROVINCE239IRISH" 	# Gloucester
+4130 = "s|šN±" 	# Mianach 	# Somerset
+4374 = "PROVINCE4374IRISH" 	# Dorset
+234 = "WSá" 	# Contae an Deiscirt 	# Hampshire
+237 = "¯eXbKQ-?–jg…h" 	# Stoc Adhmaid 	# Oxford
+4371 = " RS" 	# Geal 	# Sussex
+235 = "PROVINCE235IRISH" 	# Kent
+238 = "PROVINCE238IRISH" 	# Essex
+1860 = "aS9" 	# Caife 	# Norfolk
+4370 = "PROVINCE4370IRISH" 	# Bedfordshire
+243 = "ê‰RTX™lÆY" 	# Deontasham 	# Lincolnshire
+1861 = "PROVINCE1861IRISH" 	# Derby
+4376 = "­pá" 	# Guail 	# Leicester
+4372 = "y^t‰R" 	# Foireann 	# Coventry
+

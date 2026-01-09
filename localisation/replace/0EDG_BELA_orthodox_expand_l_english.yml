@@ -1,0 +1,57 @@
+﻿l_english:
+ icon_andrew_EDG:0 "1W‰R·VÈpÏP"
+ icon_george_EDG:0 "1WTN»lÏP"
+ icon_peter_and_paul_EDG:0 "1W|V—VN1WÝOWÏP"
+ icon_wuyan_infinite_EDG:0 "1Wáw‰R"
+ icon_laner_saphira_EDG:0 "1WpQb"
+ desc_icon_andrew_EDG:0 "1W‰R·VÈp=f1W|V—V„vVVÿmN=fO’VKNN0(W.Oô‹-N0R¾†NÄOW¯e0W:SÛLˆ.OYe0"
+ desc_icon_george_EDG:0 "8^Üww1WTN»l=f.Oô‹-NbÜwv`™Ÿ„v1W’Vÿ=fW¯e0W:SSTNœU1r„v1W’VKNN01WTN»l`S™Ÿ„v.Oô‹(WÜb`S­^ŒTW¯e0W:S^:NAm.OÿùR1WTN»l„vTÜbàQNNb:N†NW¯e‡eS„vNèR0"
+ desc_icon_peter_and_paul_EDG:0 "úWcw„vNb	gO’VŒThQèè•’V(WúWcwYeNLuýñm×SSTÿFOvQ-NgIN‰„v0gØš„vO’Vÿ=f|V—VŒTÝOWÿÖNìN„v1WÏPÇ»SàQNN(WÏkN*NNckYe’V¶RÌ‘ý	g0"
+ desc_icon_wuyan_infinite_EDG:0 "àeŠÿbìNggle1r„v'YINYeÿRVè•0"
+ desc_icon_laner_saphira_EDG:0 "Ý„×rÿbìNgggle1r„vRV4Yÿ"
+ EDG_constantinople_orthodox_modifier:0 "TëXfWN!XnfNgr–™"
+ EDG_patriarchate_orthodox_modifier:0 "ýV¶RYeOgr–™"
+ EDG_orthodox_zizhujiaohui_modifier:0 "êINYeO"
+ EDG_orthodox_zizhijiaohui_modifier:0 "ê»lYeO"
+ EDG_orthodox_xiashujiaohui_modifier:0 "N^SYeO"
+ EDG_orthodox_has_annex_jiaohui_tt:0 "ê»lCg›R"
+ desc_EDG_constantinople_orthodox_modifier:0 "TëXfWN!Xgr–™(WTINN„vLwMO=fTëXfWN!XNckYeO„vgr–™ÿå‹gr–™LwMO=fNckYe4*Ngée„vgr–™LwMOKNN0TëXfWN!Xgr–™(WTINN=fhQèNckYeO„v–™†˜ÿv^Nåb	gnfNgr–™ðy÷Sÿ0WMO(WTINNØšŽNvQÖN0W:S„vgr–™0"
+ desc_EDG_patriarchate_orthodox_modifier:0 "gr–™:S=fNckYegr–™¡r–„vYe:SÿN*N:V'YýV¶R„vYeOtNb”^SV=fN*Ngr–™:S0"
+ desc_EDG_orthodox_zizhujiaohui_modifier:0 "NckYeêINYeO=fNckYegØšµu+R„vìrËzYeOÿNb	gêINYeOGWN×SvQÖNYeO„v¡r–0"
+ desc_EDG_orthodox_zizhijiaohui_modifier:0 "ÔkêINYeONONµu„v=fê»lYeOÿƒRìN1uÐgNêINYeO„v†˜–ˆ¡r–0"
+ desc_EDG_orthodox_xiashujiaohui_modifier:0 " "
+ EDG_orthodox_shuguojiaohuizizhi_actions:0 "ˆcCg^SýVYeOê»l"
+ EDG_orthodox_shuguojiaohuizizhi_actions_title:0 "ˆcCg^SýVYeOê»l"
+ EDG_orthodox_shuguojiaohuizizhi_actions_desc:0 "S^SýVYeOÐcGS:Nê»lYeOÿÙSOžX RÖNìN„vt^¦^gr–™CgZ·ƒÖS0"
+ EDG_orthodox_shuguojiaohuizizhi_actions_tooltip:0 "S^SýVYeOÐcGS:Nê»lYeOÿÙSOžX RÖNìN„vt^¦^gr–™CgZ·ƒÖS0"
+ EDG_orthodox_shuguojiaohuizizhi_actions_alert_tooltip:0 "ˆcCg^SýVYeOê»l"
+ EDG_orthodox_hebingshuguojiaohui_actions:0 ":VäNTv^^SýVYeO"
+ EDG_orthodox_hebingshuguojiaohui_actions_title:0 ":VäNTv^^SýVYeO"
+ EDG_orthodox_hebingshuguojiaohui_actions_desc:0 "S^SýVYeOTv^:NN^SYeOÿÙSOM–NOÖNìN„vckßuáOðN¹RÍVÿt^¦^gr–™CgZ·ƒÖSŒTìrËz>PT0"
+ EDG_orthodox_hebingshuguojiaohui_actions_tooltip:0 "S^SýVYeOTv^:NN^SYeOÿÙSOM–NOÖNìN„vckßuáOðN¹RÍVÿt^¦^gr–™CgZ·ƒÖSŒTìrËz>PT0"
+ EDG_orthodox_hebingshuguojiaohui_actions_alert_tooltip:0 ":VäNTv^^SýVYeO"
+ EDG_orthodox_shuguojiaohuizizhi_actions_tt:0 "S^SýVYeOÐcGS:Nê»lYeOÿÙSOžX RÖNìN„vt^¦^gr–™CgZ·ƒÖS0"
+ EDG_orthodox_hebingshuguojiaohui_actions_tt:0 "S^SýVYeOTv^:NN^SYeOÿÙSOM–NOÖNìN„vckßuáOðN¹RÍVÿt^¦^gr–™CgZ·ƒÖSŒTìrËz>PT0"
+ EDG_bela_orthodox_caidan_decision_title:0 "£icon_EDG_orthodox_icon£=T(uiVË†1WÏP"
+ EDG_bela_orthodox_bachumushou_decision_title:0 "£icon_EDG_orthodox_icon£bÜž—RYe†˜–ˆ"
+ EDG_bela_orthodox_zhichitongzhi_decision_title:0 "£icon_EDG_orthodox_icon£‰BláO’V=ecßu»l"
+ EDG_bela_orthodox_junduizhusheng_decision_title:0 "£icon_EDG_orthodox_icon£:N›Q–ky1W"
+ EDG_bela_orthodox_suijunmushi_decision_title:0 "£icon_EDG_orthodox_icon£ú^Ëz–›Qgr^SOû|"
+ EDG_bela_orthodox_qingsuanjiaohuitudi_decision_title:0 "£icon_EDG_orthodox_icon£n—rYeOW0W"
+ EDG_bela_orthodox_caidan_decision_desc:0 "=T(uiVË†1WÏP0"
+ EDG_bela_orthodox_bachumushou_decision_desc:0 ":V6RÍ‘°e	>NNMOYeO†˜üRºNÿåNnxÝOYeOùRýV¶R„vàVÚ‹0"
+ EDG_bela_orthodox_zhichitongzhi_decision_desc:0 "‰BlYeO(WáO’V-N±Rlb=ecbìNßu»l„v`ó`0"
+ EDG_bela_orthodox_junduizhusheng_decision_desc:0 ":NbìN„v›Q–ky1Wÿ©‹ëXuQìNøváO^yOÝOQOÖNìN·ƒÜw0"
+ EDG_bela_orthodox_suijunmushi_decision_desc:0 "–›Q„vNckYegr^OkyySëXìN:NýVRú^ŸRËRÿv^Ÿ‚=`æawÿ‰Ršb2OXTÿùW‰Q›Q–„v—RYeáOðN0ñ‚ÇR0êbzrrrIr¾|^yÿSb.›Q–ªu‹V0"
+ EDG_bela_orthodox_qingsuanjiaohuitudi_decision_desc:0 "YeONb	g„vW0WòTÏu`S†NbìN†˜0W„vøvSVNèRÿbìNÅV‰˜ó`žRÕlŒbúQvQ-NNTÕl„vW0Wv^6e4KN0"
+ EDG_bela_orthodox_zhushengjundui_modifier:0 "ky1W›Q–"
+ EDG_bela_orthodox_suijunmushi_modifier:0 "–›Qgr^"
+ EDG_bela_orthodox_qingsuanjiaohuitudi_modifier:0 "n—rYeOW0W"
+ orthodox_icon_events.8.t:0 "1WTN»lKNŸ‚"
+ orthodox_icon_events.8.d:0 "gÑ(W[george_icon_church_province.GetName]„vN!kVuQÙubìN&^eg„vuQXTKNYòSàeMR‹O0SV0W„v^yLwºNXTøváOÙ=fºNìNùR1WTN»lÏP„vÂrípTÜbNb&^eg„vÓuœg0ÖNìNðyÿÙN&^„vt^‰ºN·uó“legÿNyw8^Üww1WTN»lÏPÿ‚YdkÖNìN1Sýw(Wb:WNb—VÜw)R0"
+ orthodox_icon_events.8.a:0 ":N†NÜw)Rÿ"
+ orthodox_icon_events.9.t:0 "R—t^.OYeëX"
+ orthodox_icon_events.9.d:0 "NMOt^‰FOMbNS*j¢n„vR—t^.OYeëX©‹[peter_and_paul_icon_church_province.GetName]„vºNlÿÁ‰Æ‹0R†NbìNáOðN„v›RÏ‘ÿN1uêIN0W	éb¥c×SƒRÿ©‹ÖNìN„v„vupB›—V0R†NQeN0"
+ orthodox_icon_events.9.a:0 "ÖNìNSb:NbìN„vDQV0"
+ EDG_bela_orthodox_bachumushou_modifier:0 "°egr–™"
+ EDG_bela_orthodox_zhichitongzhi_modifier:0 "YeO=ec"

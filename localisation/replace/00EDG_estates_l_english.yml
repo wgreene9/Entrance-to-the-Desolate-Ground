@@ -1,0 +1,600 @@
+﻿l_english:  
+EDG_disables_estate_burghers_tooltip:0 "[Root.GetAdjective]Sy(u$Y^l$!6–BS"
+
+EDG_estate_opinion_happy_modifier_tt:0 "ána"
+EDG_estate_opinion_unhappy_modifier_tt:0 "Nán"
+
+EDG_GSR_estate_nobles_name:0 "'Y9ƒXo"
+EDG_GSR_estate_church_name:0 "'Ygr–™"
+EDG_GSR_estate_burghers_name:0 "'YÌRFU"
+
+EDG_zoroastrian_estate_church_name:0 "?–¯eWWS"
+EDG_zoroastrian_estate_nobles_name:0 "æt÷–yQ"
+EDG_zoroastrian_estate_burghers_name:0 "?–Sf"
+
+EDG_HZB_estate_nobles_name:0 "z¥S5Äw"
+estate_EDG_HZB_tribes_name:0 "™„äSèÏe"
+estate_EDG_HZB_Kipchaks_name:0 "¦”ßRCg5"
+EDG_estate_HZB_privilege_noble:0 "âl¯ez¥S›Q‹N5Äw"
+EDG_estate_HZB_privilege_nomadic:0 "™„äSèÏeŒcCg"
+EDG_estate_HZB_privilege_Caledonia:0 "¦”ßR¶RÏeyrCg"
+EDG_estate_HZB_privilege_noble_desc:0 "bìN„vúWBS«ˆéeòT(Wâl¯e,gWNb9h†N„vz¥S›Q‹N5ÏeŠbácÿÖNìNµc6RNwýV¶R„vuQnŒTzn0"
+EDG_estate_HZB_privilege_nomadic_desc:0 "(WÇ»SÿbìNÇŽNOV™„äSèÏe„v›Q‹N›RÏ‘ÿ‚YÊNÿÖNìNµc6R†N›Q–„vc%cCgÿv^(u™„äSºN„v¹eV4xOWck8^„vuµNIm¨R0"
+EDG_estate_HZB_privilege_Caledonia_desc:0 "ÎN±‚LRPR/j‹sgöegwÿ¦”ßRèÏe1S(WOg„vW0WNYuN†NqVÍT›R0bìN„výV¶R…QT7h	g¦”ßRèÏe„v›RÏ‘ÿÖNìN(WOg¡l	g9húWÿ:NbìN(W R:VTINN6R¹eb—Ðc›O†N.^©RÿFOvQ-Npe*N¦”ßR'YÏemN+eÖS†N¸‹Y„výV¶RCg›Rÿv^üRô†N^ýV…Qè„vP%NXK„0"
+
+
+#议程建议
+estate_privileges_and_agendas_events.3.00:0 "[Root.Get‘šëXâVName]„vÐc®‹"
+estate_privileges_and_agendas_events_edg_copt_name:0 "[Root.GetÑynfyrºNName]„vÐc®‹"
+estate_privileges_and_agendas_events_EDG_habishi_name:0 "ÈTÔkÀN„vÐc®‹"
+estate_privileges_and_agendas_events_edg_Paladin_name:0 "#W‘šëX„vÐc®‹"
+
+#佣兵领主
+NOT_Mercenary_Lord_government_desc:0 "N/fcOuQ†˜IN?eCg: §Y-5%§!"
+estate_EDGMercenaryLord:0 "cOuQ†˜IN"
+estate_EDGMercenaryLord_name:0 "cOuQ†˜IN"
+estate_EDGMercenaryLord_desc:0 "‘˜Au„vb‹NäNa'Y)R.Oßu„vluQŒTSú^‘šëXŠegŠ›RNÎNÃV00W-Nwm8fïy/twèT˜0ÌR„va'Y)Rø‹ýVÛbßRLwN›QºNNFOÏuNmNïSLˆÿwNSÎW¦lQlÎN›Q‹NIN¡R-Nã‰>eúQegÿEQRÑS%cvQ(W8f0FUN0KbåTNŒTÑ‘‡†˜ßW„vÔkƒO¿R0luQŒT‘šëXÄub„v›Q–‹†6qmN	gÜwéuÿFOìSÆ–ÇzbaÿgyVöeô•	gP–ÿ›Q‹N.t(ÂSîTNPŸ0Ç–cO›QRïSåN–öe”^bÿwN	g0NÌR„vjObÏuŒš0luQŽVŽV¾–LeÍ‘Åˆ‘šuQ„v²QûQÿÇ–cO›QekuQ(WžRb-N·ƒ—V„vÏuŒšåNÊSo‚‹Y„vOSTM‘Tÿ³åNbÜwÍ‘Åˆ‘šuQ0"
+
+
+EDGMercenaryLord_loyalty_modifier:0 "cOuQ†˜INàVÚ‹¦^"
+EDGMercenaryLord_influence_modifier:0 "cOuQ†˜INqVÍT›R"
+EDGMercenaryLord_privilege_slots:0 "[Country.GetcOuQ†˜INàVÚ‹¦^Name]g'YyrCgpe"
+estate_EDGMercenaryLord_ownership:0 "cOuQ†˜INW0WNb	gCg"
+
+#黑手党
+NOT_Mafia_government_desc:0 "N/fÑžKbZQ?eCg: §Y-5%§!"
+estate_edg_mafia:0 "ÑžKbZQ"
+estate_edg_mafia_name:0 "ÑžKbZQ"
+estate_edg_mafia_desc:0 "ÑžKbZQêbËzOËYÿ1S/fN*NTS´f›R„vÄuÇu0ÖN	g:NwzºNúQ4Y0ÿfŒvÓY8O.VckIN„vNb—0FO‚Yœg¡l	gcknx„vtº‹jO:NcüRÿ±HNàQNNïSåN¯wšRÿƒROpTêñT„vÍSb—0–Nwöeô•„v¨cûyÿÑžKbZQ„v'`(mNÑSu†NØSSÿƒR‡ØSb:NN*Nàev`NjOäNºNRŸÛuh`„v¯rjâVO0ÖNìNíQP´f›Rµc6R†N‰‰Ì‘›SN„vjugr0`S°R0œgíVŒT/nãSÿv^TÁyºNNIN6eÖSÝO²b90Ç´f›RÿÑžKbZQ(W‰‰Ì‘›SnxšR†NêñT„vCgZÿv^bVb†N³Y„vqVÍT›R0"
+
+
+EDG_Mafia_loyalty_modifier:0 "ÑžKbZQàVÚ‹¦^"
+EDG_Mafia_influence_modifier:0 "ÑžKbZQqVÍT›R"
+EDG_Mafia_privilege_slots:0 "[Country.GetÑžKbZQName]g'YyrCgpe"
+estate_edg_mafia_ownership:0 "ÑžKbZQW0WNb	gCg"
+
+estate_edg_mafia_privilege_1:0 "W0WNb	gCg"
+estate_edg_mafia_privilege_2:0 "ÑžKbZQyrCg"
+estate_edg_mafia_privilege_3:0 "ÑžKbZQ–™‰0WMO"
+estate_edg_mafia_privilege_4:0 "pÁyTjO"
+estate_edg_mafia_privilege_5:0 "S‡^¯rj"
+estate_edg_mafia_privilege_6:0 "´f›R»l‰R"
+estate_edg_mafia_privilege_7:0 "—fNgÄuÇu"
+estate_edg_mafia_privilege_8:0 "Ñu¶gOS©R"
+estate_edg_mafia_privilege_9:0 "¦”šR®‹OãNhˆ"
+estate_edg_mafia_privilege_10:0 "TÑžKbZQ7>k"
+
+estate_edg_mafia_privilege_1_desc:0 "ÑžKbZQŒTvQÖN6–BSN7hÿ	g·ƒÖSW0W„vê1u0"
+estate_edg_mafia_privilege_2_desc:0 "sQèlÑžKbZQ(WýV…Q„vyrCgS	g)RŽNÝOœ–ÖNìN„vàVÚ‹0"
+estate_edg_mafia_privilege_3_desc:0 "ÑžKbZQ(WbìN„vùRYIm¨R-N`SncNwÍ‘‰„v0WMO0"
+estate_edg_mafia_privilege_4_desc:0 ":NÑžKbZQ(WýVY„vpÁyIm¨RÐc›O.^©RïSåN:NbìN&^egN›N¿O)R0"
+estate_edg_mafia_privilege_5_desc:0 "ÑžKbZQ/fýV¶R„vO4OÿÖNìN	g(W«ˆS‡^„vCg)R0"
+estate_edg_mafia_privilege_6_desc:0 "‚Yœg	g´flÆwbeÍS—bbìN„vßu»lÿÑžKbZQ„vSbKbŒTNgKblšN1SO0RÖNìN„v¶Rè•ãS0"
+estate_edg_mafia_privilege_7_desc:0 "I`	gN›N¥Q‹˜NS„vYýVºNŒT,gýV„vÍSùR>m—‰«ˆirtˆmmp0"
+estate_edg_mafia_privilege_8_desc:0 "Ñu¶gmN/fˆm-VÍSùRðXó—„vo‚‹Y¹eÕl0"
+estate_edg_mafia_privilege_9_desc:0 ":N†NÝOc?eœ^(WýV¶R®‹O-N„vqVÍT›RÿbìNÅV‰˜©‹ÑžKbZQ.^©RbìN0"
+estate_edg_mafia_privilege_10_desc:0 "bìNïSåNÎNÑžKbZQ„vKb-N·ƒ—VÉ^÷N„v7>k0"
+
+estate_edg_mafia_privilege_4_effect_tooltip:0 "bìNSïSåN(WY²NLub—-NÛLˆ§YpÁyIm¨R§!0"
+estate_edg_mafia_privilege_7_effect_tooltip:0 "bìNSïSåN(WY²NLub—-NÛLˆ§Y—fNgIm¨R§!0"
+estate_edg_mafia_privilege_8_effect_tooltip:0 "bìNSïSåNã‰•§YÑu¶gÍSùR>m§!³Q®‹0"
+
+EDG_estate_edg_mafia_privilege_8_decision_title:0 "ùRýV…QÍSùR>mžRLˆÑu¶gIm¨R"
+EDG_estate_edg_mafia_privilege_8_decision_desc:0 "ýV…Q„vÍSùR>mžR(W/f*YRwjV†NÿN›NÑu¶gIm¨RïSåN©‹ÖNìN‰RY—Neg0"
+EDG_estate_edg_mafia_privilege_8_decision_modifier:0 "ùRýV…QÍSùR>mžRLˆÑu¶gIm¨R"
+
+#官僚
+estate_EDG_officials:0 "˜RÚP"
+estate_EDG_officials_name:0 "˜RÚP"
+estate_EDG_officials_name_2:0 "Cg5"
+estate_EDG_officials_desc:0 "˜RÚP/fýV¶R:ghV„vÐLˆwÿ(WLˆ?e:gsQbyršR„v´f›R:gsQ-NnboÍ‘‰Ò‰r‚ÿÖNìNïSåNNœQlTÃVT·VÿmNïSåNNœQlÙz(WùRËzb—0"
+
+EDG_officials_loyalty_modifier:0 "˜RÚPàVÚ‹¦^"
+EDG_officials_influence_modifier:0 "˜RÚPqVÍT›R"
+EDG_officials_privilege_slots:0 "[Country.Get˜RÚPName]g'YyrCgpe"
+estate_EDG_officials_ownership:0 "˜RÚPW0WNb	gCg"
+
+
+estate_EDG_officials_privilege_8_effect_tooltip:0 "MOŽN8f0W:S§Y‹vwmyr¸‹8f:S§!„vwýNSO·ƒ—V§Y08fyr:S0§!îOckÿÙuˆNSìbFUÁTµNúQŒT8fÞz‰N›R(W…Q„vžXÊvÿv^žX RwýN„vÛSqN¦^"
+estate_EDG_officials_privilege_9_effect_tooltip:0 "MOŽN8f0W:S§YKQÌ‘s|šNyr¸‹8f:S§!„vwýNSO·ƒ—V§Y08fyr:S0§!îOckÿÙuˆNSìbFUÁTµNúQŒT8fÞz‰N›R(W…Q„vžXÊvÿv^žX RwýN„vÛSqN¦^"
+estate_EDG_officials_privilege_8_province_modifier_mod:0 "8fyr:S"
+estate_EDG_officials_privilege_8_province_modifier_mod_desc:0 "å‹wýNYŽNN*N1u?eœ^INüR„v8fyr:Sÿ'YÏ‘„vŽb/gŒTDn«ˆ•beQdk0W0"
+estate_EDG_officials_privilege_9_province_modifier_mod:0 "8fyr:S"
+estate_EDG_officials_privilege_9_province_modifier_mod_desc:0 "å‹wýNYŽNN*N1u?eœ^INüR„v8fyr:Sÿ'YÏ‘„vŽb/gŒTDn«ˆ•beQdk0W0"
+
+estate_EDG_officials_privilege_1:0 "˜RÚP…R0WCg"
+estate_EDG_officials_privilege_2:0 "˜RÚPÈu«Ž6R"
+estate_EDG_officials_privilege_3:0 "˜RÚP–™‰0WMO"
+estate_EDG_officials_privilege_4:0 "˜RÚPyr›OCg"
+estate_EDG_officials_privilege_5:0 "˜RÚPyrYeCg"
+estate_EDG_officials_privilege_6:0 "˜RÚPyrçuCg"
+estate_EDG_officials_privilege_7:0 "˜RÚPyr/eCg"
+estate_EDG_officials_privilege_8:0 "âlW„vwmyr:S"
+estate_EDG_officials_privilege_9:0 "Ñžwmyr:S"
+estate_EDG_officials_privilege_10:0 "upImËzÕl"
+estate_EDG_officials_privilege_11:0 "±Rlby¥b"
+estate_EDG_officials_privilege_12:0 "bVV	>N"
+estate_EDG_officials_privilege_13:0 "ê1u„v:P¡RtY¶–"
+estate_EDG_officials_privilege_14:0 "ê?a„v˜YåTjOöeô•"
+estate_EDG_officials_privilege_15:0 "ŒR„U¡Råg6R¦^"
+estate_EDG_officials_privilege_16:0 "Ç–cOuQlQøS"
+
+estate_EDG_officials_privilege_1_desc:0 "˜RÚPåb	gW0W„vCg)R«ˆýV¶RÝOœ–ÿNýV¶RNOývzÖNìN`Snc†NYS„vW0W0"
+estate_EDG_officials_privilege_2_desc:0 "˜RÚP„vLwMO/fÈu«Ž6R„vÿd–^—×S0R9V¾R0"
+estate_EDG_officials_privilege_3_desc:0 "˜RÚP/fýV¶RgÍ‘‰„v›RÏ‘ÿÖNìNINüR?e»l‹N¡Rÿ/fýV¶Rwck„vú^¾‹w0"
+estate_EDG_officials_privilege_4_desc:0 "Tµu˜RXT	gyr¾‹„v…QèFU—^0™…Sÿ	cgq˜RLw'YS00WMOØšNO«N×SyrŠk›O”^0"
+estate_EDG_officials_privilege_5_desc:0 "áQ/fØšµu˜RXT„vPRsYÿýýw¥c×Sg‹Y„vYe²w0Øšµu›Q˜R„v?QPRRôv¥c›Q‹Nb–/hùW‰Q0"
+estate_EDG_officials_privilege_6_desc:0 "˜RXTyr+R/fØšµu˜RXTïSåNTÕl0W:NêñT„vPRsYYuN'YÏ‘„vÁyµNÿ›OÖNìNÈu«Ž«N(u0"
+estate_EDG_officials_privilege_7_desc:0 "MOESÑ‘WRTXv˜ïz„v˜RXT(WýV¶Rö”Lˆ	g^eV7b4YÿsS7bINïSåNN×SP–6R–aÐcÖS>ky˜„v7b4Y0"
+estate_EDG_officials_privilege_8_desc:0 "bìNSV¾‹N*N8fyr:Sÿ(uåNibUSbìN„v8fŒTuµNIm¨Rÿ8fyr:S…QSÙuˆNSìbMQz(W…Q„vOYyrCgÿôfÍ‘‰„v/fÿ8fyr:S…Q„vuµNS×S0RôfS„vÑvcw0"
+estate_EDG_officials_privilege_9_desc:0 "bìNSV¾‹N*N8fyr:Sÿ(uåNibUSbìN„v8fŒTuµNIm¨Rÿ8fyr:S…QSÙuˆNSìbMQz(W…Q„vOYyrCgÿôfÍ‘‰„v/fÿ8fyr:S…Q„vuµNS×S0RôfS„vÑvcw0"
+estate_EDG_officials_privilege_10_desc:0 "ËzÕlåTjO/fN*NŽb/g'`åTjOÿbìN„vËzÕlIm¨RASRupImÿÙ7hMbýwÝOÁ‹yrCg6–BS„v)RÊv0"
+estate_EDG_officials_privilege_11_desc:0 "ªR›RåTjO„v:gO,g«Ž/fNÍyy¥bÿºNìN”^å‹ùRÙuˆNÖNìNØš:V¦^åTjO„vºNa0R1uwˆ„vai`0"
+estate_EDG_officials_privilege_12_desc:0 "	>NNÇ/fN*NAmzÿùR	>N„vwckÓuœg¡l	gûNUOqVÏPÿ³QšR•bhyÓuœg„vÎNegN/f•bhy„vºNÿw/f¡‹hy„vºN0"
+estate_EDG_officials_privilege_13_desc:0 "	g›NºNhˆb—N«N	gèT'Y„vê1uÿFOÖNìN«ˆèT'Y„v:P¡RmgNwÿv^ê²‹:N/f(W:NêñTwªR›R³R¨R0"
+estate_EDG_officials_privilege_14_desc:0 "˜Y„våTjOöeô•/fNÍyVY±Rÿê?a„v RåT/fN—‰ûNUOl‘³R„vÿwbìN„výVlI`/fê?a0WÛLˆ˜Y„våTjO0"
+estate_EDG_officials_privilege_15_desc:0 "bìN„v¡Råg6R¦^ôf:N%N<hÿûNUON)RŽN?eœ^„vŠº‹ýS«ˆ|bNg(WGdîrKN-N0"
+estate_EDG_officials_privilege_16_desc:0 ",gýVºNý/fØVi`IN„vík†ÿÖNìN1VwNåwai`ÿbìN—‰Ç–cOYýV„v›Q–egˆmmp,gýV„vÍSùR¿R›R0"
+
+
+#农民
+estate_EDG_present_burghers:0 "KbåTNw"
+estate_EDG_present_burghers_name:0 "KbåTNw"
+
+estate_EDG_peasants:0 "œQl"
+estate_EDG_peasants_name:0 "œQl"
+estate_EDG_peasants_desc:0 "œQl/fåNUS*N¶R­^:NÏuNmUSMOÿÎN‹NwÇuøvÓuT„v*NSOœQN³R¨R„v*NSOSuµNwÿw(WbìN„výV¶RÿœQl”^SV/fýV¶R„vINºN0"
+
+EDG_peasants_loyalty_modifier:0 "œQlàVÚ‹¦^"
+EDG_peasants_influence_modifier:0 "œQlqVÍT›R"
+
+estate_EDG_peasants_privilege_11_province_modifier_mod:0 "¦W–k'YIƒŸS"
+estate_EDG_peasants_privilege_11_province_modifier_mod_desc:0 "N'k0W:S„v'YIƒŸS	gèT'Y„vV¦Wjo›Rÿ‚YœgbìNýwY¥Y„UVÑSå‹0W:SÿSýw:NbìNÐc›OôfY„vo‚0u0"
+
+estate_EDG_peasants_privilege_12_province_modifier_mod:0 "¦W–kîh—g"
+estate_EDG_peasants_privilege_12_province_modifier_mod_desc:0 "N'k0W:S„vîh—g	gèT'Y„vV¦Wjo›Rÿ‚YœgbìNýwY¥Y„UVÑSå‹0W:SÿSýw:NbìNÐc›OôfY„vo‚0u0"
+
+estate_EDG_peasants_privilege_12_effect_tooltip:0 "Nb	gîh—g0WbV„vwýN§Y,g0WÑSUSb,g-15%§!"
+estate_EDG_peasants_privilege_12_remove_tooltip:0 "Nb	gîh—g0WbV„vwýNS1Y»S§Y,g0WÑSUSb,g-15%§!„vîOck"
+
+estate_EDG_peasants_privilege_1:0 "œQl†˜0WCg"
+estate_EDG_peasants_privilege_2:0 "ÝOœ–œQlCg)R"
+estate_EDG_peasants_privilege_3:0 "œQl–™‰0WMO"
+estate_EDG_peasants_privilege_4:0 "ÝOœ–êwœQìrËz"
+estate_EDG_peasants_privilege_5:0 "Æ–SOœQ„^"
+estate_EDG_peasants_privilege_6:0 "œQl	>NCg"
+estate_EDG_peasants_privilege_7:0 "ib'YIN¡RuQyV"
+estate_EDG_peasants_privilege_8:0 ":V6R'`®|ß˜V6e"
+estate_EDG_peasants_privilege_9:0 "œQl‚‚"
+estate_EDG_peasants_privilege_10:0 "IN¡R›Q‹N­‹Ãu"
+estate_EDG_peasants_privilege_11:0 "¦W–k'YIƒŸS"
+estate_EDG_peasants_privilege_12:0 "¦W–kîh—g"
+
+estate_EDG_peasants_privilege_1_desc:0 "bìN>yO„vœQl,ÔkwvQÖN6–BSegôf4nBlW0Wÿán³ÖNìN„v?agS:NbìN&^egÖNìNg'Y„vaÀo0"
+estate_EDG_peasants_privilege_2_desc:0 "bìNSOÝOœ–œQl„vCgÊvÿÝOÁ‹ÖNìN(W?e»lÏuNmŒT‡eSuIm-Nåb	gêñT„vN-^KN0W0"
+estate_EDG_peasants_privilege_3_desc:0 "(WbìN„výV¶R-NÿœQlåb	ggØš„v?e»lCg)RÿvQÖN6–BS”^SVùRœQlÝOcSÍ‘0"
+estate_EDG_peasants_privilege_4_desc:0 "bìNSOêwœQ²SO„vìrËzÿêwœQ„vÏuNmŒT?e»lCg)RýwY—V0RÝOœ–ÿÖNìNVåN:Nu„vw0WNO«ˆÇûNa¹eÕl|Qv^0"
+estate_EDG_peasants_privilege_5_desc:0 "œQ7bqQT³R¨Rÿ6eeQ(WjO†NTy˜ÅV‰cbd–T	cÂS R³R¨R„vpeÏ‘RM‘ÿÄuTœQ7bïSåNÝOYuSœQwQŒTNšRpeÏ‘„v¶Rju¶RËy0Ïu%„Ä‰šR„v…RÁe0u0WŒT¶R­^oRNjO:N…©R6eeQ0"
+estate_EDG_peasants_privilege_6_desc:0 "bt^„v7u'`œQlýåb	g	>NCg)RÿÖNìN„vÏkN.V	hyýS/fbìN	>N6R¦^„vúWów0"
+estate_EDG_peasants_privilege_7_desc:0 "bìNSžRLˆ:V6RKbµkib'YœQl„vIN¡RuQyVÿÎN4xŽx„v¶R­^-N:VVôfY„vºN›R0"
+estate_EDG_peasants_privilege_8_desc:0 "Nb	gºNý”^å‹:NÝOÁ‹bìN„vìrËzŒT‰RhQZPúQ/.sÿœQlôf”^SV:NÝOœ–®|ß˜›OÙuÐc›OôfY„vDnÿbìNS:VLˆåNNOÉ^„v÷N<hÎNœQlKb-N6e-®|ß˜ŒTrrãS0"
+estate_EDG_peasants_privilege_9_desc:0 "bìN”^SVÏPSÍ‘#WºNN7hSÍ‘ýV¶R„vœQlÿ:NœQlRžRN*N^SŽNÖNìN„v‚‚åe0"
+estate_EDG_peasants_privilege_10_desc:0 "¥c×S›Q‹N­‹Ãu/fœQl„vIN¡RÿœQl¥c×S›Q‹N­‹ÃuïSåN R:VýV2–TYú^¾‹›RÏ‘0"
+estate_EDG_peasants_privilege_11_desc:0 "N'k0W:S„v'YIƒŸS	gèT'Y„vV¦Wjo›Rÿ‚YœgbìNýwY¥Y„UVÑSå‹0W:SÿSýw:NbìNÐc›OôfY„vo‚0u0"
+estate_EDG_peasants_privilege_12_desc:0 "N'k0W:S„vîh—g	gèT'Y„vV¦Wjo›Rÿ‚YœgbìNýwY¥Y„UVÑSå‹0W:SÿSýw:NbìNÐc›OôfY„vo‚0u0"
+
+
+estate_EDG_peasants_ownership:0 "œQlW0WNb	gCg"
+EST_HIGH_EDG_Peasant_regime:0 "/fN*NœQl?eCg: §Y+15%§!"
+EST_HIGH_EDG_Peasant_regime_op:0 "/fN*NœQl?eCg: §Y-15%§!"
+EDG_peasants_privilege_slots:0 "[Country.GetœQlName]g'YyrCgpe"
+
+
+#贵族
+EDG_estate_LOT_Conscripts_noble:0 "IN¡RuQ"
+EDG_estate_LOT_Conscripts_noble_desc:0 "Sú^›Q–ŒTÇ–cO›Qv^NïS`—ÿbìNÎNùRýV¶RàVÚ‹„vãl-NVìSIN¡RuQ0"
+EDG_estate_LOT_Conscripts_burghers:0 "IN¡RuQ"
+EDG_estate_LOT_Conscripts_burghers_desc:0 "Sú^›Q–ŒTÇ–cO›Qv^NïS`—ÿbìNÎNùRýV¶RàVÚ‹„vãl-NVìSIN¡RuQ0"
+
+estate_nobles_LIT_Grand_nobles_privilege:0 "Ëzv–›RØšIrlQ5r"
+estate_nobles_LIT_Grand_nobles_privilege_desc:0 "Ëzv–›RØšIrlQ5regnŽNú^ËzËzv–›RýV¶R„vø‹¯OÿKS¡rÖNìN(WTINNôu²bNwËzv–›R'YlQýV„vßuNÿFOÖNìNŠbcNwËzv–›R„v'YGrW0WŒT'YÏ‘ºNãSÿMOØšCgÍ‘NùRgØšßu»lw„vCgZµNuNwNïS0OÏ‘„vqVÍT0"
+
+estate_EDG_HAB_Marquis_Brandenburg_privilege:0 "ÃRpQ‰v/Xé…P"
+estate_EDG_HAB_Marquis_Brandenburg_privilege_desc:0 "bìNµc6R†NÃRpQ‰v/Xé…PÿSvQjO:NbìN„v^SýVbrbrµc6RŽN^ýVKN-N0"
+
+estate_EDG_Aberdeen_decree_privilege:0 "?–/ONÕläN"
+estate_EDG_Aberdeen_decree_privilege_desc:0 "0?–/ONÕläN0ÝOœ–†NÏ‚<hpQ'Y5Ïe(WhQSO'Y5Ïe®‹O-N„vø‹YCg)RÿSìbåNÕl‹VbVVÄ‰šR'Y5Ïe„W­e®‹-^ÿv^KˆNNšR„vÏQzyrCgÿTöeÿ0?–/ONÕläN0mN R:V†N'Y5Ïe„v›Q‹NIN¡R0"
+
+estate_EDG_Lothian_Crown_privilege:0 "šN†SqS'YÕläN"
+estate_EDG_Lothian_Crown_privilege_desc:0 "šN†SqS'YÛVNÇ9ei—Ï‚<hpQ®‹Oÿ(W®‹O-N ReQS5Ïe0^lŒT°e„v^yLwºNXTÿùR'Y5ÏeÛLˆ†NøvSVz¦^„vP–6Rÿv^Ç¢gÆRb– R:VùR'Y5Ïe„vµc6R0"
+
+estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege:0 "ÝOœ–?–SÔk-ÌRæt>m)RÊv"
+estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege_desc:0 "?–SÔk-ÌRæt>m1ußu»l?–SÔk/O5r†˜„v·V·úeTXYi`¶RÏeŒT·V·ÌRæt¶RÏe†˜üRÿå‹>mû|åN5Ïe:NINÿIN.VùRYib.Vÿ(W«R÷^…Qåb	gèT'Y„vqVÍT›Rÿ‚YœgýwÝOœ–‹Y?–SÔk-ÌRæt>m„v)RÊvÿbìNNýV…Q5Ïe„vTjOSOôf RbŸR0"
+
+estate_EDG_Strengthening_the_serfdom_systems_privilege:0 " R:VœQtY6R¦^"
+estate_EDG_Strengthening_the_serfdom_systems_privilege_desc:0 "œQtYueg1S”^å‹«ˆmg(WW0WNÿbìNShQb— R:VœQtY6R¦^0"
+
+estate_EDG_Norman_Sicilian_Parliament_privilege:0 "5Ïe.Oßu®‹OyrCg"
+estate_EDG_Norman_Sicilian_Parliament_privilege_desc:0 "bìN	cgq.Oßuÿ:N5Ïe(W®‹O-NÝOYu†NyrCgÿÙS©‹bìNb—V5Ïe„vôfY/ec0"
+
+EDG_LIT_estate_nobles_name:0 "ØšIrlQ5r"
+EDG_LIT_estate_nobles_name_2:0 "	Tú‹¯e"
+
+EDG_estate_noble_LOT_privilege_old_right:0 "äSw„vºN«ŽCg)R"
+EDG_estate_noble_LOT_privilege_old_right_desc:0 "êÎNågtüföeãNVËYÿbìN„v5Ïe1Såb	gNïS«ˆµO¯r„vºN«ŽCg)RÿTINàeCg†wa.Uc5ÏeÿmNN—VùR5ÏeR¯‹<›O0"
+
+EDG_estate_noble_LOT_privilege_exemption:0 "·Va×V5ÏeÏQMQuQyV"
+EDG_estate_noble_LOT_privilege_exemption_desc:0 ":N†NÝOc·Va×V0W:S„v3zšRÿï·Vôu^NN:N·Va×V5ÏeÏQMQ†NuQyVIN¡RÿFObìNýåwSÿÙêS/f‚föe„v0"
+
+#市民 商人
+estate_EDG_Latin_National_privilege:0 "ib'YýVl›Q"
+estate_EDG_Latin_National_privilege_desc:0 "bìNSib'YýVl›Q„vÄ‰/jÿ1udkžR°sMckSýV¶RINCg„vîv„v0"
+
+estate_EDG_Minister_of_General_Affairs_privilege:0 "¦”šRI`¡R'Yã"
+estate_EDG_Minister_of_General_Affairs_privilege_desc:0 "I`¡Rè„v#ºNSÎN^l6–BS„vãNhˆ-N	úQÿv^1ugØšßu»lwÎN-N¦”šR0"
+
+estate_EDG_Theatines_privilege:0 "4b‚„<SO"
+estate_EDG_Theatines_privilege_desc:0 "jO:N16Nªu)YINYe9ei—„vÍS”^ÿ4b‚„<SO(Wa'Y)RJS›ST0Wÿyr+R/f(WáOðNNôf:N.Oßu„vWS¹eú^Ëz†NêñT„v>y:S0Ù›N±R“ŠZWˆR+wzÿz˜gŒTm„v>y:SÿS«ˆˆcˆNYe‡v„vkyyÿv^(W0W¹e·ƒ—V‡˜wQqVÍT›RŒTßu»l'`„v0WMO"
+
+estate_EDG_Alawite_tolerance_privilege_effect_tooltip:0 "bìN»lN„vNb	g§M?–Ébôu>m§!wýNSO·ƒ—V‚YNîOckÿ\n,g0W—RYeßuN/.s§!: §G-100%§!\n,g0W.OYe:V¦^: §R-100%§!\n,g0WVïz¹RÍV§!: §G+3%§!"
+estate_EDG_Alawite_tolerance_privilege_revoke_effect_tooltip:0 "bìN»lN„vNb	g§M?–Ébôu>m§!wýNSO1Y»S‚YNîOckÿ\n,g0W—RYeßuN/.s§!: §M-100%§!\n,g0W.OYe:V¦^§!: §M-100%§!\n,g0WVïz¹RÍV§!: §M+3%§!"
+EDG_Alawite_tolerance_guaranteed_autonomy_mod:0 "N?–Ébôu>mTjO"
+EDG_Alawite_tolerance_guaranteed_autonomy_mod_desc:0 "bìNN?–Ébôu>mUSVTjOÿÙôu²b†NbìN(WSV0W„v)RÊv0"
+estate_EDG_Alawite_tolerance_privilege_enable_flag_tt:0 "/T(uyrCg §MN?–Ébôu>mTjO§!"
+estate_EDG_Alawite_tolerance_privilege:0 "N?–Ébôu>mTjO"
+estate_EDG_Alawite_tolerance_privilege_desc:0 "bìNïSåNT?–Ébôu>mUSVTjOÿåNôu²bbìN(WSV0W„v)RÊv0"
+
+estate_EDG_LOT_Grand_Charter_privilege:0 "'Yyr¸‹¶r"
+estate_EDG_LOT_Grand_Charter_privilege_desc:0 ":N†NN<S·VpQºNÛLˆôf‹Y„vTjOÿbìN:NNO0W„vFUºNŒTCg5ˆcˆN0'Yyr¸‹¶r0ÿå‹Õl‹V‡eöNÝOÁ‹†NNO0W„v¸‹YCg›RÿSìbøSÕlìrËz0,g0W˜RXTûNLwCgÊSí‹ŠO(uCgÿ‚Y?eœ^‡eöN—(u<S·VpQí‹w^—Õlí‹0"
+
+#卡勒多巴拉骑士团
+estate_privileges_and_agendas_events_EDG_Caledonia_name:0 "[Root.Get¾|ñ‚›QâVName]„vÐc®‹"
+estate_EDG_The_Mamluk_name:0 "lšFzœKQ"
+estate_edg_caledonia:0 "¾|ñ‚›QâV"
+estate_EDG_The_Gray_army_name:0 "pp›Q"
+estate_edg_caledonia_Spanish:0 "aSÒRYôTÉb‘šëXâV"
+estate_edg_caledonia_andalucian:0 "ÈTÉbyr‘šëXâV"
+estate_edg_caledonia_desc:0 "å‹6–BS/fýV…Q„vN/e¾|•›Q‹N›RÏ‘„vãNhˆÿÖNìNåb	gv˜S„v›Q‹NjObýw›RŒTž^'Y„vqVÍT›R0"
+
+estate_edg_caledonia_ownership:0 "‘šëXâVW0WNb	gCg"
+
+EDG_privilege_CAS_Caledonia_privilege:0 "ib'Y[Root.Get¾|ñ‚›QâVName]"
+EDG_privilege_CAS_Caledonia_privilege_desc:0 "[Root.Get¾|ñ‚›QâVName]bXTåb	gôfØš„vb—e.t‰Qÿ‚Yœgýwib'Y[Root.Get¾|ñ‚›QâVName]„vÄ‰/jÿ/fïSåNžX:VbìNýV¶R„v›Q‹N.t(„v0"
+EDG_estate_Caledonia_land_rights:0 "ˆcˆN[Root.Get¾|ñ‚›QâVName]†˜0WCg"
+EDG_estate_Caledonia_land_rights_desc:0 "[Root.Get¾|ñ‚›QâVName]/fbìNýV…Q„vÍ‘‰?e»l›RÏ‘ÿÖNìN”^SV·ƒ—V†˜0W„vê»lCg›R0"
+EDG_STRONG_Caledonia_privilege:0 " R:V[Root.Get¾|ñ‚›QâVName]yrCg"
+EDG_STRONG_Caledonia_privilege_desc:0 "[Root.Get¾|ñ‚›QâVName]/fbìN›Q‹N›RÏ‘„v8hÃVÿ R:VÖNìN„vCg›RŒT›Q‹N›RÏ‘SýwY.^©RbìNú^¾‹g:V'Y„v›Q–0"
+EDG_Caledonia_indebted_to_Caledonia:0 "T[Root.Get¾|ñ‚›QâVName]P:P"
+EDG_Caledonia_indebted_to_Caledonia_desc:0 "[Root.Get¾|ñ‚›QâVName]	gpe˜èT'Y„vDµNÿbìNïSåNÎNÖNìN„vKb-N·ƒÖS)Ro`ôfNO„v7>k0"
+EDG_Caledonia_coin_privilege:0 "[Root.Get¾|ñ‚›QâVName]Ñ‘‡yrCg"
+EDG_Caledonia_coin_privilege_desc:0 "[Root.Get¾|ñ‚›QâVName]/fbìN„vÍ‘‰fkÅˆ›RÏ‘ÿˆcˆNÖNìNÑ‘‡¹eb—„vyrCgSýwY©‹ÖNìN(W:NbìNg¡R¹eb—ôfwQ	gIN¨R'`0"
+estate_edg_caledonia_indebted_to_Caledonia_effect_tooltip:0 "åN§Y1.0%§!„v)Ro`,·ƒ—V§Y5§!r”Nt^g„v7>k0SVØn7>köeÿå‹[Root.Get¾|ñ‚›QâVName]yrCgS«ˆê¨Rûyd–0"
+estate_edg_caledonia_nobility_primacy:0 "[Root.Get¾|ñ‚›QâVName]–™‰0WMO"
+estate_edg_caledonia_nobility_primacy_desc:0 "S›Q‹NN„v¿OœRLˆ‹NCg›RˆcˆN[Root.Get¾|ñ‚›QâVName]OObýVýV›R>fW„žX:VÿsSO(W¥bTrÖNìN„v/.söe±‚9Nòƒ0"
+estate_edg_caledonia_fort:0 "ˆcˆN[Root.Get¾|ñ‚›QâVName]‰^X"
+estate_edg_caledonia_fort_desc:0 "bìNïSåNSýV…Q„vN›N‰^X²NˆN[Root.Get¾|ñ‚›QâVName]ÛLˆ¡rtÿåNdkM–NObìN„v‰^Xôu²bb,g0"
+estate_edg_caledonia_advisors:0 "[Root.Get¾|ñ‚›QâVName]…Q–'Yã"
+estate_edg_caledonia_advisors_desc:0 "bìNAQ¸‹[Root.Get¾|ñ‚›QâVName](W…Q–-Nåb	gN*N8^‰š-^MOÿ1udk¿OœR[Root.Get¾|ñ‚›QâVName]„v›Q‹NN¶RÑShˆêñT„vaÁ‰0"
+estate_edg_caledonia_autonomy:0 "ÝOœ–[Root.Get¾|ñ‚›QâVName]ê»lCg"
+estate_edg_caledonia_autonomy_desc:0 "[Root.Get¾|ñ‚›QâVName]ÄuÇu„vê»lCgt”^—V0RÝOœ–ÿÙ7hMbýwÝOÁ‹[Root.Get¾|ñ‚›QâVName]„vqVÍT›RŒTàVÚ‹0"
+estate_edg_caledonia_officer_corp:0 "ÐcÔb[Root.Get¾|ñ‚›QâVName]›Q˜R"
+estate_edg_caledonia_officer_corp_desc:0 "[Root.Get¾|ñ‚›QâVName]„vc%c˜RwQ	gôfOÀy„v‘šuQc%cýw›Rÿ[Root.Get¾|ñ‚›QâVName]bXTmNåb	gôf:NSSŠ„v‘šuQjObýw›RÿSôfY„v[Root.Get¾|ñ‚›QâVName]bXTÐcÔb:NbìN„vc%c˜RÿïSåNEQR)R(u[Root.Get¾|ñ‚›QâVName]„vÏuŒšŒTDn0"
+
+EDG_estate_Caledonia_enlist_the_mamluks:0 "ÛbßRlšFzœKQëXuQ"
+EDG_estate_Caledonia_enlist_the_mamluks_desc:0 "lšFzœKQëXuQ=f†SòSN„vtY¶–bëXÿÖNìN=fT*NO¯epQ^ýV„v¾|•›Q‹Nè–ÿSìbÃWÊSŒTÙS)RšN„v?–2S^‹sgŒTTeg„vlšFzœKQÏ‚9NýV0ÖNìN8^ÎNNTÌwof„vºN-NÛbßRÿåN%N<h„v­‹ÃuW„ðy0"
+
+EDG_estate_Caledonia_FYM_mamluks_privilege_1:0 "ôTkÌ‘¶RÏeyrCg"
+EDG_estate_Caledonia_FYM_mamluks_privilege_1_desc:0 "1380t^ÿlšFzœKQ‹sggTN*NôTkÌ‘Ï‚9NÈT	TŒNN«ˆqšúQVWÿFO^S	TN	v^¡lýwÅµc6ROONS¿Rÿ1udkVÑS†NN:WlšFzœKQ„v…QbÿÌS¹eUSVÀoÈp„v—e‰NÿùRÃWÊS0W:S„vÏuNm.b†NAS³„v4xOW0ôTkÌ‘Ï‚9NÈT	TŒNNT(„ÈT¾‹sgBlôcÿbú‹S?–Éb/O‰WSè„v†˜0W²NÙu(„ÈT¾‹sg„v'Ylš)RKQ³u‰SNNÿv^S:N³u‰SNNÐc›OøvSV0NšS„vS/060S„v³u‰SNN(Wñm`ŸqQ†TÿaÆ‹0RÙ/fwINPˆNÖN„vg‹Y„v'YÿR:<yÿŽN/f‡s›QÛeQÃWÊSÿFO³u‰SNN(W.^©RôTkÌ‘Ï‚9Ns^šRÛSqNTÿÈSùRôTkÌ‘?eCgUSV†NÛIeÿv^gÈuÖS†NlšFzœKQb:N†NÃWÊS„v'Ylš)RKQÿFOôTkÌ‘¶RÏe(WÃWÊS„vqVÍTO6qXR(W0"
+EDG_estate_Caledonia_FYM_mamluks_privilege_2:0 "^S	T¶RÏeyrCg"
+EDG_estate_Caledonia_FYM_mamluks_privilege_2_desc:0 "1380t^ÿlšFzœKQ‹sggTN*NôTkÌ‘Ï‚9NÈT	TŒNN«ˆqšúQVWÿFO^S	TN	v^¡lýwÅµc6ROONS¿Rÿ1udkVÑS†NN:WlšFzœKQ„v…QbÿÌS¹eUSVÀoÈp„v—e‰NÿùRÃWÊS0W:S„vÏuNm.b†NAS³„v4xOW0ôTkÌ‘Ï‚9NÈT	TŒNNT(„ÈT¾‹sgBlôcÿbú‹S?–Éb/O‰WSè„v†˜0W²NÙu(„ÈT¾‹sg„v'Ylš)RKQ³u‰SNNÿv^S:N³u‰SNNÐc›OøvSV0NšS„vS/060S„v³u‰SNN(Wñm`ŸqQ†TÿaÆ‹0RÙ/fwINPˆNÖN„vg‹Y„v'YÿR:<yÿŽN/f‡s›QÛeQÃWÊSÿFO³u‰SNN(W.^©RôTkÌ‘Ï‚9Ns^šRÛSqNTÿÈSùRôTkÌ‘?eCgUSV†NÛIeÿv^gÈuÖS†NlšFzœKQb:N†NÃWÊS„v'Ylš)RKQÿFO^S	T¶RÏe(WÃWÊS„vqVÍTO6qXR(W0"
+EDG_estate_noble_FYM_mamluks_privilege_1:0 "W^XTX¶RÏeyrCg"
+EDG_estate_noble_FYM_mamluks_privilege_1_desc:0 "‰š0WMOŽN<SW³l	NÒ‰2mW^XTX0W:S„vN*NÃWs|S¶RÏenib'Y†NÖNìN(W(„ÈT¾‹sg…Qè„vqVÍTÿÖNìN«ˆðy:NW^XTX¶RÏe0W^XTX¶RÏeÇ(WôTkÌ‘¶RÏeŒT^S	T¶RÏeKNô•ÛLˆ¡eËeÿ(WÃWÊS·ƒ—V†N«ƒ'Y„vqVÍT›Rÿb:N†N(„ÈT¾‹sg(WÃWÊS„v?e»lZSV-Ngö‹sQ.•„vN*N©s¶R0"
+
+EDG_estate_noble_FYM_mamluks_privilege_2:0 "mNè•ÃWs|SN?e"
+EDG_estate_noble_FYM_mamluks_privilege_2_desc:0 "(„ÈT¾‹sgTwŽNmNè•ÿmNè•„vÃWs|SùRbìN„vqVÍTASRÍ‘'YÿbìN„v›Q–ŒT?eœ^-NXR(WNw'YÏ‘„vmNè•5ÏeÿÖNìNŠbcNwbìNýV¶R„v‹T	0"
+
+estate_EDG_dhimmi_FYM_privilege:0 ">eûNÑynfyr˜RÚP"
+estate_EDG_dhimmi_FYM_privilege_desc:0 "êÎNbìNeQINÃWÊSåNegÿbìNNôvOVÑynfyrºN˜RÚPeg:NbìN¡rt?eœ^ÿÙ›NÑynfyrCg5*alP%0ån(uLwCgÿFOÖNìN/fbìN6RaˆlšFzœKQŒTmNè•ÃWs|S„vÍ‘‰×ePR0"
+estate_EDG_dhimmi_FYM_privilege_2:0 "O…V^JcOuQ"
+estate_EDG_dhimmi_FYM_privilege_2_desc:0 ":N†N6RaˆýV…Q„vlšFzœKQŒTmNè•ÃWs|SÿbìNÇ–cO†NNyb^JÔˆcOuQÿÖNìN	gOÀy„v›Q˜RŒT0NÌR„v›Q‹NDn0"
+
+EDG_Caledonia_loyalty_modifier:0 "[Country.Get¾|ñ‚›QâVName]àVÚ‹¦^"
+EDG_Caledonia_influence_modifier:0 "[Country.Get¾|ñ‚›QâVName]qVÍT›R"
+EDG_Caledonia_privilege_slots:0 "[Country.Get¾|ñ‚›QâVName]g'YyrCgpe"
+
+
+EDG_estate_Caledonia_Tax_exemption_reduction_privilege:0 "[Country.Get¾|ñ‚›QâVName]W0WzÏQMQ"
+EDG_estate_Caledonia_Tax_exemption_reduction_privilege_desc:0 "[Country.Get¾|ñ‚›QâVName]ùRbýV„vqVÍTASRèT'Yÿ:N†NnxÝOÖNìNùRýV¶R„vàVÚ‹ÿbìN”^SVÏQMQÖNìN„vW0Wz0"
+
+EDG_estate_Caledonia_Priority_for_military_products_privilege:0 "[Country.Get¾|ñ‚›QâVName]›Q(uirDOHQ"
+EDG_estate_Caledonia_Priority_for_military_products_privilege_desc:0 "[Country.Get¾|ñ‚›QâVName]/fbìN„v›Q‹N/eñgÿbìNÅV‰˜ÝOÁ‹ÖNìN(Wb:WNýwYOHQ·ƒ—V›Q‹Nôc©RŒTirDeˆÙu0"
+
+#哥萨克
+EDG_privilege_cossacks_Shakirada_privilege:0 "Äuú^0ŒQYÉb¾"
+EDG_privilege_cossacks_Shakirada_privilege_desc:0 "0ŒQYÉb¾/f1uåT(„KQºNÄuú^„v›Q‹N®‹Oÿ(WNbâlWípÿ0ŒQYÉb¾/fýV¶RCg›R„v-NÃV0bìNê6qNýw©‹åT(„KQºNb:NýV¶R„vßu»lwÿFObìNïSåNÄuú^N*NCg›R	gP–tS³åN.^©RbìNÄuÇuŒT­‹ÃuåT(„KQºN„v0ŒQYÉb¾ÿ©‹Ù*N0ŒQYÉb¾ÐcGSåT(„KQºN„vb—e›R0"
+EDG_privilege_cossacks_hetman_privilege:0 "ûN‹TÖvyrüf"
+EDG_privilege_cossacks_hetman_privilege_desc:0 "Övyrüf/fåT(„KQºN›Q‹N†˜–ˆ„v4YTˆÿbìNïSåNÄuú^0ŒQYÉb¾ÿv^˜R¹eûN‹TÖvyrüf†˜üRÙ*N0ŒQYÉb¾ÿ1udkÉbâbåT(„KQNBS›Q˜R0"
+
+
+#市民
+estate_EDG_burghers_Latin_National_Army_privilege:0 "ib'YýVl›Q"
+estate_EDG_burghers_Latin_National_Army_privilege_desc:0 "êS	gýVl›QMbýwMckSbìN„v‰RhQNìrËzÿbìNÅV‰˜ib'YýVl›Q„vÄ‰/j0"
+
+
+
+#柏柏尔部落
+estate_EDG_Berber_tribes:0 "ÏgÏgSèK„"
+estate_EDG_Berber_tribes_name:0 "ÏgÏgSèK„"
+estate_EDG_Berber_tribes_desc:0 "ÏgÏgSºN/fNESS^—„vlÏeÿÊNIN‰R^ŽN^—2m‰SèÿÝu'YYpeºNãS/fFz¯e—g0ÏgÏgSÙ*Nðy|Tv^^—ÏgÏgSºN„vêðyÿw/fÉbNí‹-N„vÎ‘î†ºN„vØSó—ÿNÇ	g„vÏgÏgSºNêðy:N?–lšPŸS<hºN, a:NØš5„vºNbê1uºN0(W8nb-Nÿ:N†NÝOÁ‹Æ‹+R¦^ÿbìNO6qðyKN:NÏgÏgSºN0"
+
+
+EDG_Berber_tribes_loyalty_modifier:0 "ÏgÏgSèK„àVÚ‹¦^"
+EDG_Berber_tribes_influence_modifier:0 "ÏgÏgSèK„qVÍT›R"
+estate_EDG_Berber_tribes_ownership:0 "ÏgÏgSèK„W0WNb	gCg"
+
+estate_nomadic_tribes_autonomy_of_the_tribes:0 "[Root.GetèÏeName]ê»l"
+estate_nomadic_tribes_autonomy_of_the_tribes_desc:0 "bìN„v†˜WASRË–ÿ:N†Nµc6R^'Y„vVYeNVïz0W:SÿbìNÅV‰˜AQ¸‹[Root.GetèÏeName]ãNhˆbìNåb	g»ltvQ†˜W„vê»lCg0"
+
+estate_nomadic_tribes_secured_succession:0 "nxÝOçubCg"
+estate_nomadic_tribes_secured_succession_desc:0 "(W[Root.GovernmentName]-NÿçubCg1užR›RegÌwfN06qwïSùS„v/fÿžR›R/fwQ	g:k—š'`„vÿt^‰„vçubºN(WÇ»SegNÊSÁ‹fêñTÿ1SSm0RNg³R0\nKS¡rÙSäN[Root.GetèÏeName]a0RN‰RÿFOçubCgÅV‰˜—V0RÝOÁ‹0"
+
+estate_EDG_Saadi_hereditary_Emir_privilege_enable_falg:0 "AQ¸‹/T(uyrCg („?–·VN­ˆÃWs|SyrCg"
+estate_EDG_Saadi_hereditary_Emir_privilege_enable_falg_tt:0 "AQ¸‹/T(u§YÃWs|S§!yrCg §Y(„?–·VN­ˆÃWs|SyrCg§!0"
+estate_EDG_Saadi_hereditary_Emir_privilege:0 "(„?–·VN­ˆÃWs|SyrCg"
+estate_EDG_Saadi_hereditary_Emir_privilege_desc:0 "idmåTWSè„v(„?–·V¶RÏe/fbìN„vÍ‘‰ßvËSÿÖNìN„vàVÚ‹ùRŽNbìNµc6RÏgÏgSOèÏewŠ	gÍ‘‰jO(u0"
+
+estate_EDG_Tribal_choice_nomadic_privileges:0 "[Root.GetèÏeName]gr:W	ébyrCg"
+estate_EDG_Tribal_choice_nomadic_privileges_desc:0 "[Root.GetèÏeName]S	gCgOHQc	ûNUO:W0WÛLˆ>egrÿKS¡rÙOùRbìN„vÏuNm.bNšR4xOWÿFObìN„vlš9SŒTlšNbëXSO'Y›R/ecbìN0"
+
+estate_EDG_Equestrian_training_funding_privileges:0 "lš/g­‹Ãuèb>k"
+estate_EDG_Equestrian_training_funding_privileges_desc:0 "bìNSO:NèÏeÐc›Olš/g­‹Ãuèb>kÿÝOœ–ÖNìN„v›Q‹N­‹ÃuýwY•g3zšRN	gHe0WÛLˆ0"
+
+estate_EDG_Priority_of_Turkmen_Tribes_privileges:0 "W“^üfèÏeOHQCg"
+estate_EDG_Priority_of_Turkmen_Tribes_privileges_desc:0 "W“^üfèÏe„vCg)RÅV‰˜—V0ROHQÝOœ–ÿTX	TKQºN0?–ÌRWlºNŒTvQÖNlÏe†v”^å‹:NW“^üf„v?e»lCg)R©‹ek0"
+
+estate_EDG_Beduin_tribes_name:0 "ýàVèK„"
+
+estate_EDG_FYM_hereditary_Emir_privilege:0 "ýàVN­ˆÃWs|SyrCg"
+estate_EDG_FYM_hereditary_Emir_privilege_desc:0 "ýàVø‹èK„(WbìN„v›Q–-N	g«ƒ'Y„vqVÍT›Rÿ(WbìNWSVSb„v†SòS-NÿýàV„v¸‹Y0Œk:NbìNËzN†NWllšŸR³Rÿ:NdkÿbìNˆcˆN†NÖNìNN­ˆÃWs|S„vyrCg0"
+
+#教士
+estate_EDG_FYM_Abbasid_caliphate_privilege:0 "µc6R?–Ôb¯eÈTÌ‘ÑS"
+estate_EDG_FYM_Abbasid_caliphate_privilege_desc:0 "(WbìNeQINÃWÊSTÿbìNµc6R†N<S>m„v?–Ôb¯eÈTÌ‘ÑSÿàeº‹ùRŽNbìNýV…Q„vÀNöS>mØ/f<S>mwŠÿýaINÍ‘'Y0"
+
+estate_EDG_FYM_Abbasid_caliphate_privilege_2:0 "ošg?–Ôb¯eÈTÌ‘ÑS"
+estate_EDG_FYM_Abbasid_caliphate_privilege_2_desc:0 "(WbìNeQINÃWÊSTÿbìNµc6R†N<S>m„v?–Ôb¯eÈTÌ‘ÑS0‚YÊN„v?–Ôb¯eÈTÌ‘ÑSòT6qŒRhQ¦l:NbìN„vŽP/QÿùRbìNïO–™^3wÿàeº‹ùRŽNbìNýV…Q„vÀNöS>mØ/f<S>mwŠÿýaINÍ‘'Y0"
+
+
+estate_EDG_FYM_Fatima_caliphate_privilege:0 "µc6RÕl‚„›sÈTÌ‘ÑS"
+estate_EDG_FYM_Fatima_caliphate_privilege_desc:0 "bìNµc6R†NÀNöS>m„vÕl‚„›sÈTÌ‘ÑSÿàeº‹ùRŽNbìNýV…Q„vÀNöS>mØ/f<S>mwŠÿýaINÍ‘'Y0"
+
+estate_EDG_FYM_Fatima_caliphate_privilege_2:0 "ošgÕl‚„›sÈTÌ‘ÑS"
+estate_EDG_FYM_Fatima_caliphate_privilege_2_desc:0 "bìNµc6R†N<S>m„v?–Ôb¯eÈTÌ‘ÑSÿ‚YÊN„vÕl‚„›sÈTÌ‘ÑSòT6qŒRhQ¦l:NbìN„vŽP/QÿùRbìNïO–™^3wÿàeº‹ùRŽNbìNýV…Q„vÀNöS>mØ/f<S>mwŠÿýaINÍ‘'Y0"
+
+estate_EDG_FYM_Abbasid_caliphate_privilege_2_on_granted_tooltip:0 "ˆcˆNå‹yrCgSO:NbìN»lN„vNb	g§Y<S>m§!wýNûm R‚YNîOckÿûyd–å‹yrCgSûyd–å‹îOck0"
+estate_EDG_FYM_Fatima_caliphate_privilege_2_on_granted_tooltip:0 "ˆcˆNå‹yrCgSO:NbìN»lN„vNb	g§YÀNöS>m§!wýNûm R‚YNîOckÿûyd–å‹yrCgSûyd–å‹îOck0"
+estate_EDG_FYM_Abbasid_caliphate_privilege_2_province_modifier_mod:0 "Ye>mteT"
+estate_EDG_FYM_Abbasid_caliphate_privilege_2_province_modifier_mod_desc:0 "å‹Ye>m„vÈTÌ‘ÑSòTÏu«ˆbìNošgÿSV0W„váOOòTÏu«ˆbìNteT0"
+
+EDG_estate_TUR_privilege_Allah_authorizes_the_emperor:0 "‰RÉbˆcCg^ê™l"
+EDG_estate_TUR_privilege_Allah_authorizes_the_emperor_desc:0 "‰RÉbkyybìN„vßu»lwÿKˆNÖNßu»lNLu„vCg›Rÿ"
+
+EDG_estate_Church_LOT_catholic_protector:0 "lQYeO„våb²bw"
+EDG_estate_Church_LOT_catholic_protector_desc:0 "êÎNNs^.sWVËYÿ Rm—g‹sg1SNôvý/f)YINYeO„våb²bwÿbìNmNåb	gÙN^y#W„vðy÷S0"
+
+#哈比什
+estate_edg_habishi_enable_flag_tt:0 "bìNSã‰•6–BS§YÈTÔkÀN§!"
+estate_habishi_muslim_name:0 "ÈTÔkÀN"
+estate_edg_habishi_name:0 "ÈTÔkÀN"
+estate_edg_habishi:0 "ÈTÔkÀN"
+estate_edg_habishi_desc:0 "ÑžºN¦R˜R8^ÎNeÜ„vVýV-—VÿÖNìN(WbýVýV…QàQNN¡l	gûNUO?e»lqVÍT›RÿàVwïSåN«ˆ‰V•^µc6Rÿb:Ny«R…QïO–™^3w„vÆNÎN0(WN6RTIN«Ž¹gO„v¦R˜RmN/fN'YÍ‘‰Æ–âV0	göeÿÖNìN„vqVÍT›RýwY—V0RSV?ew%N‰S„v³”6Rÿ6qwNæeCgÄg²NÙu†N—f1VàeýwKNTÿÖNìNˆVëV1SOŠbTIN,gºNØSb¾|ÃVFd^„vŽP/Q0"
+edg_habishi_influence_modifier:0 "[Root.GetÑžºN¦R˜RName]qVÍT›R"
+edg_habishi_loyalty_modifier:0 "[Root.GetÑžºN¦R˜RName]àVÚ‹GWaˆ¹p"
+edg_habishi_privilege_slots:0 "[Root.GetÑžºN¦R˜RName]g'YyrCgpe"
+edg_habishi_influence_modifier:0 "[Root.GetÑžºN¦R˜RName]qVÍT›R"
+edg_habishi_loyalty_modifier:0 "[Root.GetÑžºN¦R˜RName]àVÚ‹GWaˆ¹p"
+edg_habishi_privilege_slots:0 "[Root.GetÑžºN¦R˜RName]g'YyrCgpe"
+estate_edg_habishi_ownership:0 "[Root.GetÈTÔkÀNName]W0WNb	gCg"
+
+estate_edg_habishi_bookkeepers_privilege:0 "IN¡r…Q–"
+estate_edg_habishi_bookkeepers_privilege_desc:0 "(WgØšßu»lw„væTóSOIYÿv^Œc¡rºspS0µc6RŠï/fg:NÍ‘‰„vCg›RÿŒýwÿb0RÙNCgÄgÿŒ¿OýwôfÛNekÿÛwŒcµc-N.Y0"
+estate_edg_habishi_outwards_perfection_privilege:0 "gbQRôuPŸS"
+estate_edg_habishi_outwards_perfection_privilege_desc:0 "êT`/fbìN«R÷^…Q„vÆNºNÿmN	gN›N‡˜wQ›Q‹N)YK„vGYMbÿbìNïSåNSvQûN‹T:NbìN„vgbQRôuPŸSÿKS¡rÙïSýwO:NbìN&^eg^—®‹0"
+
+estate_edg_habishi_palace_bureaucracy_privilege:0 "pgúQ…Q÷^˜RÚP"
+estate_edg_habishi_palace_bureaucracy_privilege_desc:0 "T^ýV„vÏk*NÒ‰K„cHy?eVr=fNy˜p‚èT„vûN¡RÿwNŽVŽVO×S0RûRBlê»l„v0W¹eSVNS„vÛNekI–x0[Root.GetÑžºN¦R˜RName]ìNˆVPNaTbìN„v[Root.Monarch.GetTitle]8OúQôcKbÿåNbcÖSôfY„vyrCgÿv^.^©RbìN¡rt¹ƒX…Q„v‹N¡R0"
+estate_edg_habishi_delegate_provincial_administration_privilege:0 "ÔYûNcww"
+estate_edg_habishi_delegate_provincial_administration_privilege_desc:0 "KS¡rbg†˜ßW…QàVLˆ?e¡rtÇŽNAuÍ‘wúQ°s†NÂˆÕuÿFO[Root.GetÑžºN¦R˜RName]KN-N„vpgúQãNhˆSÙzúQegÿ(W^ýV„vÏk*NOPÜwýNÛNekgbLˆ[Root.Monarch.GetTitle]„va×V0"
+estate_edg_habishi_imperial_council_privilege:0 "[Root.GetÑžºN¦R˜RName]…Q–"
+estate_edg_habishi_imperial_council_privilege_desc:0 "åb	g'YÏ‘o‚‹Y„v…Q–P	ºNÿ/fùR[Root.GetÑžºN¦R˜RName]Lw#„vNÍyfzf„veˆEQÿïSåNnxÝON*NeP·^ŒTY7hS„v¡rtBS0"
+estate_edg_habishi_land_rights_privilege:0 "[Root.GetÑžºN¦R˜RName]†˜0WCg"
+estate_edg_habishi_land_rights_privilege_desc:0 "[Root.GetÑžºN¦R˜RName]/fýV¶Rg‹Y„v¡rtwÿïSåNåN‡v²R„vTIN6e-v^¡rtW0W0"
+estate_edg_habishi_royal_intrigue_keepers_privilege:0 " R:VºN«Žµc6R"
+estate_edg_habishi_royal_intrigue_keepers_privilege_desc:1 "nxÝOùR[Root.GetÑžºN¦R˜RName]„vºN«Žµc6Rÿ/fžRËeªu‹Vv^nxÝOÏk*NºNùR‡vCg„vàVÚ‹„vÝusO¹eV0"
+estate_edg_habishi_promote_eunuch_rights:0 "ÐcGS[Root.GetÑžºN¦R˜RName]Cg)R"
+estate_edg_habishi_promote_eunuch_rights_desc:0 "ÇÐcØš[Root.GetÑžºN¦R˜RName]„vCg)RÿbìNSbŸRnxÝOÖNìN(WbìNûRBl9ei—^ýVŒTŒcµc…Qè„vÇz-N•gÝOcàVÚ‹0"
+
+estate_edg_habishi_delegate_subject_diplomacy_privilege:0 "IN¡rY¡R"
+estate_edg_habishi_delegate_subject_diplomacy_privilege_desc:0 "ÎN°s(WVËYÿ³u/„vé…^SŒT[Root.Monarch.GetTitle]KNô•„vY²N‹N¡RS1u[Root.GetÑžºN¦R˜RName]Ytÿv^:d&^[Root.Monarch.GetTitle]„vpSàz0"
+estate_edg_habishi_supremacy_over_crown_privilege_fym:0 "c6R[Root.Monarch.GetTitle]"
+estate_edg_habishi_supremacy_over_crown_privilege_fym_desc:0 "–NwCg›RRSÿT6–BS°s(WïSåNT[Root.Monarch.GetTitle]ÐcúQ‰BlÿO[Root.Monarch.GetHerHim]+Ràe	ébÿêSýwHSÎNÖNìN„va?a0"
+
+estate_edg_habishi_establish_favor_system_privilege:0 "¨cÚ‹ˆNà`"
+estate_edg_habishi_establish_favor_system_privilege_desc:0 "NÍyºNÅ`6R¦^ÿˆcˆN[Root.GetÑžºN¦R˜RName]jOHNbìNŒT»ýVKNô•„vOw„vÒ‰r‚ÿ=fÐcGSbìN„vROŒTbìN„vÝ‹í‹„vÍ‘‰'`„vN*NˆV‹Y„vek²š0"
+estate_edg_habishi_allow_personal_fortunes_privilege:0 "ÆQAQÁy0"
+estate_edg_habishi_allow_personal_fortunes_privilege_desc:0 "NbìN»lN„v¸‹YºNN7hÿ[Root.GetÑžºN¦R˜RName]°s(WmNýwY(WbìN„v†˜ßW…Q·ƒ—V0ÝOYuŒTúQ.Uú^Qr0µN0"
+
+estate_edg_habishi_bey_privilege:0 "[Root.GetÑžºN¦R˜RName]O"
+estate_edg_habishi_bey_privilege_desc:0 "êS	g[Root.GetÑžºN¦R˜RName]ùRbìNÝuùRàVÚ‹ÿ–Nw^ýV„v†uWN­eib'YÿêS	g[Root.GetÑžºN¦R˜RName]ÅbûN„vOMbýw©‹[Root.Monarch.GetTitle]N,‚áOûN0Ù›NùR[Root.Monarch.GetTitle]ÝuùRàVÚ‹„vtYÆNSOÿfbìNàVÃV¡rt^ýV0"
+
+estate_edg_habishi_royal_scribe_privilege:0 "[Root.GetÑžºN¦R˜RName]‡v¶R„b™QXT"
+estate_edg_habishi_royal_scribe_privilege_desc:0 "dawdrÿsS‡v¶R„b™QXTÿ#°d™Q[Root.Monarch.GetTitle]„vÏ‹fNÿs^8^(WgOŽN[Root.Monarch.GetTitle]æTóSÿÙNT/fN*NÍ‘‰„v˜RLwÿýwYñm—V[Root.Monarch.GetTitle]áOûNÿbìNSÔYûN[Root.GetÑžºN¦R˜RName]jO:NbìN„v‡v¶R„b™QXTÿ/U	gÖNìNýwYñmf[Root.Monarch.GetTitle]wa0"
+
+estate_edg_habishi_Director_of_Prosecutions_privilege:0 "[Root.GetÑžºN¦R˜RName]|Q†˜Àhåg•"
+estate_edg_habishi_Director_of_Prosecutions_privilege_desc:0 "ks23h23if al-kus23h23s23h23fÿsSÀhßR•ÿ/f1u[Root.Monarch.GetTitle]ûN‹T„vcwßRvQÖN˜RT„v˜RXTÿùRŽNôu²b^ýVLˆ?e„vÉ^mŒT3zšRósQÍ‘‰0FO†SûNÀhßR•v^^—ý/fàVÃV?w?wKN’VÿbìNÅV‰˜©‹[Root.GetÑžºN¦R˜RName]ŒcácÙN‰Lw0"
+
+estate_edg_habishi_plenipotentiary_enforcement_officer_privilege:0 "[Root.GetÑžºN¦R˜RName]hQCggbÕl˜R"
+estate_edg_habishi_plenipotentiary_enforcement_officer_privilege_desc:0 "bìNSûN‹T[Root.GetÑžºN¦R˜RName]:Nåb	gùRhQSO˜RXTYRyrCg„vjndrÿsShQCggbÕl˜Rÿ[Root.GetÑžºN¦R˜RName]hQCggbÕl˜RSŒcáchQSO˜RÚP„vu‰kÿÖNìNY‰kûNUOs^lŒT˜RXTýN—‰—V0R[Root.Monarch.GetTitle]„vTa0"
+
+# estate_edg_habishi_Vizier_privilege:0 "[Root.Get黑人宦官Name]大维齐尔"
+# estate_edg_habishi_Vizier_privilege_desc:0 "我们将委任[Root.Get黑人宦官Name]为我们的大维齐尔，帝国第二大的权力将被我们的奴仆掌握，但这将必然引起其他势力的不满。"
+
+estate_edg_habishi_Vizier_privilege:0 "[Root.GetÑžºN¦R˜RName]'YôuPŸS"
+estate_edg_habishi_Vizier_privilege_desc:0 "bìNSÔYûN[Root.GetÑžºN¦R˜RName]:NbìN„v'YôuPŸSÿ^ýV,rŒN'Y„vLˆ?eCg›RS«ˆbìN„vtYÆNŒcácÿFOÙSÅV6qVwvQÖN¿R›R„vNán0"
+
+estate_edg_habishi_sword_Vizier_privilege:0 "[Root.GetÑžºN¦R˜RName]gbQRôuPŸS"
+estate_edg_habishi_sword_Vizier_privilege_desc:0 "bìNSÔYûN[Root.GetÑžºN¦R˜RName]:NbìN„vgbQRôuPŸSÿ^ýV,rŒN'Y„v›Q‹NCg›RS«ˆbìN„vtYÆNŒcácÿFOÙSÅV6qVwvQÖN¿R›R„vNán0"
+
+#科普特人
+estate_edg_copt:0 "ÑynfyrºN"
+estate_edg_copt_desc:0 "Fz¯e—gßu»lÃWÊSTÿ(W—RYeNžRLˆ†NPŸs|6R¦^ÿg¡RŽNÖNìN(WÃWÊSú^Ëz3zšRŒT	gHeßu»l„vbeuaþV0(WšN†SqS'Y„vÑynfyr'YINYeÿ/fÃWÊSÑynfyrúWcwYe’V„v–™ÿÖN†˜üR„všN†SqS'YYeOŒTTIN‰ÎW^„vINYeNw6RšR—RYe?eVr0ÑS^—RYe‹TäNÿv^#ãNhˆêñT„váO’VNFz¯e—gßu»lwùRÝ‹0Œ2R0"
+edg_copt_influence_modifier:0 "[Root.GetÑynfyrºNName]qVÍT›R"
+edg_copt_loyalty_modifier:0 "[Root.GetÑynfyrºNName]àVÚ‹GWaˆ¹p"
+edg_copt_privilege_slots:0 "[Root.GetÑynfyrºNName]g'YyrCgpe"
+edg_copt_influence_modifier:0 "[Root.GetÑynfyrºNName]qVÍT›R"
+edg_copt_loyalty_modifier:0 "[Root.GetÑynfyrºNName]àVÚ‹GWaˆ¹p"
+edg_copt_privilege_slots:0 "[Root.GetÑynfyrºNName]g'YyrCgpe"
+estate_edg_copt_ownership:0 "[Root.GetÑynfyrºNName]W0WNb	gCg"
+
+estate_edg_copt_nile_goods_transport:0 "<SW³l'ÐCg"
+estate_edg_copt_hydraulic_rights:0 "RM‘4lnyrCg"
+estate_edg_copt_nile_goods_transport_desc:0 "ÑynfyrºN·ƒ—V†N<SW³l„v'ÐyrCgÿÖNìNSôf RàVÃV0"
+estate_edg_copt_hydraulic_rights_desc:0 "bìNSÍs5„v4lDn²N1uÑynfyrºN¡rtÿÖNìNSO¥Y„UÐ(uÙ›NDn0"
+estate_edg_copt_enslaving_rights_gt:0 "Nb	g™l.o0IƒŸSwýNÿSO·ƒ—V‚YNîOckÿ"
+
+estate_dhimmi_administrative_privileges:0 "[Root.GetPŸs|Name]ê»l"
+estate_dhimmi_administrative_privileges_desc:0 "[Root.GetAdjective]wýNO¸‹Y—RYe„vqQT¶RíV0ÇAQ¸‹[Root.GetPŸs|Name]ÄuÇuê»lâVSOÿbìNýw(WG•NaNô•nxÝONVYe’Vô•„v•»lEN‰R0"
+
+estate_edg_copt_protected_communities_scaling:0 "ÝO²bPŸs|âVSO"
+
+
+estate_edg_copt_Aswan_law_privilege:0 "?–¯eúeÕläN"
+estate_edg_copt_Aswan_law_privilege_desc:0 "0?–¯eúeÕläN0S(W<SW³lAmßWV6eKbåTNzK„vèT'YCg›RˆcˆN†NÑynfyrºNÿÑynfyrºN„vFUOŒTÄuÇuSýwYbÅbbìN(Wdk0W„vSz0"
+
+estate_edg_copt_Military_distribution_privilege:0 "›Q(uÏu•FU"
+estate_edg_copt_Military_distribution_privilege_desc:0 "bìNSÎNyršR„vFUºNKb-N-pN›Q‹N(uÁTÿÙS©‹Ù›NyrCgFUºNùRbìNôf:NàVÚ‹0"
+
+estate_edg_copt_General_Affairs_Department_privilege:0 "[Root.GetÑynfyrºNName]I`¡Rè"
+estate_edg_copt_General_Affairs_Department_privilege_desc:0 "[Root.GetÑynfyrºNName]SO/fbìNýV¶RLˆ?e›RÏ‘„v/eñgÿbìNSú^ËzN*N1uÑynfyrºNINüR„vI`¡RèÿåNnxÝOýV¶R:g„g„vàVÚ‹ŒTØšHe0"
+
+estate_edg_copt_General_Mediterranean_Charter_privilege:0 "0W-Nwmyr¸‹¶r"
+estate_edg_copt_General_Mediterranean_Charter_privilege_desc:0 "bìNSAQ¸‹[Root.GetÑynfyrºNName](W0W-Nwm8f-Nåb	gFUNzÏQMQ„vyrCgÿÖNìNS:NdkaÀo•mö–0"
+
+estate_edg_copt_Protecting_churches_privilege:0 "ÝO²b[Root.GetÑynfyrºNName]YeX"
+estate_edg_copt_Protecting_churches_privilege_desc:0 "[Root.GetÑynfyrºNName]NbìNáOðNNTÿÖNìNT†Ú‹0WáOIYÑynfyrYe0bìNSÍ‘ÖNìN„váOðNÿv^SÖNìN„vYeXNnwúRnŽNTIrz¦^„vÝO²bKNN0"
+
+estate_edg_copt_control_over_the_mint:0 "Ñ‘^ø”^yrCg"
+estate_edg_copt_control_over_the_mint_desc:0 "bìNOSýV…Q„vÑ‘ÿwÔYXbÙu[Root.GetÑynfyrºNName]ÛLˆVÇ‘ÿÖNìNSO(uôf:NÑyfRŒTTt„v¹eÕlÐ%„^ýV„vÑ‘ÿw0"
+
+estate_edg_copt_condemn_privilege:0 "aSê2R‹OÕl"
+estate_edg_copt_conceal_privilege:0 "ïSLˆS‡^Õl"
+estate_edg_copt_condense_privilege:0 "NÉ‹ybk—Q‡e"
+estate_edg_copt_concession_privilege:0 "ib'Yyr¸‹Cg"
+estate_edg_copt_condemn_privilege_desc:0 "aSê2R‹OÕl/f1uNbO·VNN˜^„v2R‹OÕlxQÿ/fvQßu»lg…Q²Nê¡Rt„vø‹YR‹NHhöN„v2R‹OGlÿ„gb†N^ýVÕl‹VSOû|…QÍ‘‰„vN¯s0"
+estate_edg_copt_conceal_privilege_desc:0 "[Root.GetÑynfyrºNName]èlÍ‘²NsQû|ÿÙNbìNO(utY¶–ÛLˆ»lt„v?eœ^SO6R	gˆV'YNT0FObìNÍN6qAQ¸‹[Root.GetÑynfyrºNName]	cgqêñT„v`Nï`ÛLˆuImÿ[Root.GetÑynfyrºNName]`Nï`ŽNS‡^êñT„v²N^SÿwbìN?aaùRÖNìN„vS‡^Lˆ:NÏQ‰YZ0"
+estate_edg_copt_condense_privilege_desc:0 "bìN„v˜RÚP:g„gˆV¹RfúQ°sÃ¿w0NOHe„vVÅuÿ˜RXTØbålŽNbVVININÿteåeSöeô•jm9(WlQ‡e°d™QŒTLˆ?eO®‹NÿÙg'YqVÍT†NbìN„vLˆ?eHe‡s0bìNSAQ¸‹Nµu˜RXTùRêñT±›NTŒ˜Lˆ?eHe‡swIYLˆbVVININ„vNµuÛLˆwÉ‹0"
+estate_edg_copt_concession_privilege_desc:0 "[Root.GetÑynfyrºNName]„vyr¸‹Cg”^å‹—V0Rib'YÿÙýwYÃOÛbìN„vÏuNml‹W0"
+
+#耶尼切里
+EDG_estate_TUR_privilege_Albania_janisary:0 "0¯eNW·VùW0bâV"
+EDG_estate_TUR_privilege_Albania_janisary_desc:0 "0¯eNW·VùW0bâV/fN/e1u?–SôT<SšNºNÄub„v6w<SRÌ‘bâVÿÖNìNSIY¯eNW·VùW:Nñ‚Ä–ÿv^fR`N¯eNW·VùW„v¾|^yÿ:N^ýVwñ‚ÇRb—e0"
+
+EDG_estate_TUR_privilege_Georgia_janissaries:0 "<hœ	TšN6w<SRÌ‘"
+EDG_estate_TUR_privilege_janissaries_Priority_distribution_of_spoils:0 "b)RÁTOHQRM‘"
+EDG_estate_TUR_privilege_janissaries_Grand_Legion:0 "'Y›QâVjOb"
+EDG_estate_TUR_privilege_janissaries_Extra_allowance:0 "˜Y„vekuQ%m4"
+EDG_estate_TUR_privilege_janissaries_Extra_rough_discipline:0 "%N<h„vfR’V6R¦^"
+EDG_estate_TUR_privilege_janissaries_ITA:0 "ÉbN6w<SRÌ‘"
+
+EDG_estate_TUR_privilege_Georgia_janissaries_desc:0 "bìNSÎN<hœ	TšNºN-NVßRôfY„v6w<SRÌ‘0"
+EDG_estate_TUR_privilege_janissaries_Priority_distribution_of_spoils_desc:0 "6w<SRÌ‘/fbìNgÍ‘‰„v›Q‹N›RÏ‘ÿÖNìN	gCgOHQRM‘b)RÁT0"
+EDG_estate_TUR_privilege_janissaries_Grand_Legion_desc:0 "6w<SRÌ‘bâVS«ˆ^Ûl0W(uŽNT'Y›QâVjOb0"
+EDG_estate_TUR_privilege_janissaries_Extra_allowance_desc:0 ":NekuQžX R%m4ÿÏP­‹Ãu6w<SRÌ‘N7h­‹ÃuÖNìNÿïSåNžX:VÖNìN„vb—e›R0"
+EDG_estate_TUR_privilege_janissaries_Extra_rough_discipline_desc:0 "bìNSú^Ëz%N<h„v6w<SRÌ‘fR’V6R¦^"
+EDG_estate_TUR_privilege_janissaries_ITA_desc:0 "bìNSÎNÉbN0W:SVßRôfY„vVYe’V ReQbìN„v›Q–0"
+
+EDG_estate_TUR_privilege_janissaries_Grand_Legion_enable_flag_tt:0 "ã‰•6w<SRÌ‘yrCg§Y0'Y›QâVjOb0§!ÿå‹yrCg	g‚YNHeœgÿ"
+EDG_estate_TUR_privilege_janissaries_Extra_rough_discipline_enable_flag_tt:0 "ã‰•6w<SRÌ‘yrCg§Y0%N<h„vfR’V6R¦^0§!ÿå‹yrCg	g‚YNHeœgÿ"
+EDG_estate_TUR_privilege_janissaries_ITA_enable_flag_tt:0 "ã‰•6w<SRÌ‘yrCg§Y0ÉbN6w<SRÌ‘0§!ÿå‹yrCg	g‚YNHeœgÿ"
+
+EDG_estate_TUR_privilege_janissaries_aga_prior:0 "ÐcÔbàVÚ‹?–æ"
+EDG_estate_TUR_privilege_janissaries_aga_prior_desc:0 "bìNSÐcÔbùR^ê™lgàVÚ‹„v?–æÿ1udkžR°s›Q‹NCg›R„vÆ–-N0"
+
+EDG_estate_TUR_privilege_janissaries_Increase_rewards:0 "žX ROP"
+EDG_estate_TUR_privilege_janissaries_Increase_rewards_desc:0 "bìNOÐcØšùR6w<SRÌ‘„vOPÿÝOÁ‹ÖNìN„vàVÚ‹0"
+
+
+#圣骑士
+
+estate_edg_paladin:0 "#W‘šëX"
+estate_edg_paladin_desc:0 "#W‘šëXÿvQÍ‹9hegnŽNPalatinusÿPalatinusRa:N0^SŽN^ÉbNqS„v0ÿÙ*NÉbNí‹USÍ‹(WäSWlšöeãN/facN^ÉbNqSøvsQ„vØš˜R5Ïeÿ1uŽNdkqS/fWlš‡v«R„vNb(W0WÿNbåNPalatinus8^mN(uegcãN±›NOIYŽNWlš‡v^v^:NvQYt›Q?e‹N¡R„v«R÷^gã0ÛeQ-NNªuKNTÿågt'Y^¾žNASŒNTgpgúQ„v‘šëX«ˆðyjO:NTwelve Peersÿac0ASŒNÑO0ÿhˆ:yÖNìN/fOIYŽN‡v^„vÃVy‰kZQ0(W Rm—g‹sgTgÿ2SvQ/f(WmTX—g	TšN‹sýVƒX…Qÿ0#W‘šëX0„vpeÏ‘N­eib'YÿvQÄ‰/jNQNSP–ŽNASŒNºNÿmNNQ/fCgã„vãNTÍ‹ÿwb:N†NN*N‰|<OŽN‘šëXâV„vÄuÇu00#W‘šëX0„v«ŽýN1u Rm—gTINˆcˆNÿTöe—‰ÏuÇYeO²‹ïSÿàVdk#W‘šëXâe/f›Q‹N5ÏeÿmN/f^yLwºNXTFOsQŽN#W‘šëX/f&T”^SVÉycìr«ŽININ„vº‹­eËYÈu¡l	gjPbkÇ0#W‘šëX„v	ÔbhÆQASR%N<hÿ«ˆˆcˆN#W‘šëX4YTˆ„vºNÅV‰˜/f5Ïeÿ¥c×SÇ%N<h„v›Q‹N­‹ÃuŒT—RYefR`NÿNùR‡v²RÝO	gàVÚ‹mNckàVdkÿ#W‘šëXb:N†NbìNýV…QN/e:V'YNïSåNOV„v›RÏ‘0"
+edg_Paladin_influence_modifier:0 "#W‘šëXqVÍT›R"
+edg_Paladin_loyalty_modifier:0 "#W‘šëXàVÚ‹GWaˆ¹p"
+edg_Paladin_privilege_slots:0 "#W‘šëXg'YyrCgpe"
+edg_Paladin_influence_modifier:0 "#W‘šëXqVÍT›R"
+edg_Paladin_loyalty_modifier:0 "#W‘šëXàVÚ‹GWaˆ¹p"
+edg_Paladin_privilege_slots:0 "#W‘šëXg'YyrCgpe"
+estate_edg_paladin_ownership:0 "#W‘šëXW0WNb	gCg"
+
+estate_edg_paladin_privilege_1:0 "#W‘šëX†˜0WCg"
+estate_edg_paladin_privilege_2:0 "#W‘šëX–™‰0WMO"
+estate_edg_paladin_privilege_3:0 "#W‘šëX›Q˜RâV"
+estate_edg_paladin_privilege_4:0 "#W‘šëXÂSNYeO"
+estate_edg_paladin_privilege_5:0 "#W‘šëXINc%V’d"
+estate_edg_paladin_privilege_6:0 "˜Y%m4"
+estate_edg_paladin_privilege_7:0 "àVÚ‹ŽN[Root.GovernmentName]"
+estate_edg_paladin_privilege_8:0 "ÏQRyrCg"
+estate_edg_paladin_privilege_9:0 "«R÷^…QHd¥e#W‘šëX"
+estate_edg_paladin_privilege_10:0 "ÝO²bFU–"
+estate_edg_paladin_privilege_11:0 "#W‘šëXt‹NO"
+estate_edg_paladin_privilege_12:0 "Ye—R#W‘šëXyrO"
+estate_edg_paladin_privilege_13:0 "#W‘šëX‰šY'YO"
+estate_edg_paladin_privilege_14:0 "Äuú^#W‘šëXbâV"
+estate_edg_paladin_privilege_15:0 "ib'Y#W‘šëXbâV"
+estate_edg_paladin_privilege_16:0 "%N‰S„v#W‘šëX­‹Ãu"
+estate_edg_paladin_privilege_17:0 "D©R#W‘šëX^S"
+estate_edg_paladin_privilege_18:0 "JSLwN#W‘šëX"
+estate_edg_paladin_privilege_19:0 "W0Wª…D/eØN"
+estate_edg_paladin_privilege_20:0 "#W‘šëX›Q‹NÔYXTO"
+estate_edg_paladin_privilege_21:0 "M–NO	Ôbè•Ûi"
+estate_edg_paladin_privilege_22:0 "—|6Rån.„v#W‘šëXÅˆY"
+estate_edg_paladin_privilege_23:0 "Ã¿w„v‘šuQÞ–"
+estate_edg_paladin_privilege_24:0 "VßR#W‘šëXOÎNÂS›Q"
+estate_edg_paladin_privilege_25:0 "‘šuQóNININ"
+estate_edg_paladin_privilege_26:0 "#W‘šëXkpªguQâV"
+estate_edg_paladin_privilege_27:0 ""
+estate_edg_paladin_privilege_28:0 ""
+estate_edg_paladin_privilege_29:0 ""
+
+estate_edg_paladin_privilege_1_desc:0 "bìNS:N#W‘šëXˆcˆN†˜0Wÿ©‹ÖNìNOS©RbìNÛLˆßu»l0"
+estate_edg_paladin_privilege_2_desc:0 "#W‘šëX/fbýVgÍ‘‰„v?e»l›RÏ‘ÿbìNÅV‰˜SÍ‘ÖNìN„v0WMOŒTCg)R0"
+estate_edg_paladin_privilege_3_desc:0 "bìN„v›Q˜RâV-N	g'YÏ‘„v#W‘šëXÿÖNìN¾|‘šuQjOb0"
+estate_edg_paladin_privilege_4_desc:0 "#W‘šëXNbìN„vYeO'tÆRTwû|ÿbìN/föePS#W‘šëXckV³ueQYeOSOû|ÿv^R«N,gå‹1uYeëXLˆO„vCg›R†N0"
+estate_edg_paladin_privilege_5_desc:0 "bìN„v%V’dIm¨RS1u#W‘šëXw^—YeëXÛLˆÄuÇu0"
+estate_edg_paladin_privilege_6_desc:0 "bìNSO:NNb	g(WLw„v#W‘šëXÛLˆÑ‘±”eˆ40""
+estate_edg_paladin_privilege_7_desc:0 "T[Root.GovernmentName]±R“ŠHeàV/f#W‘šëXÅV‰˜bÅb„vIN¡R0"
+estate_edg_paladin_privilege_8_desc:0 "#W‘šëX×S0RN^‡^²bÿ«N	gÏQRyrCg0"
+estate_edg_paladin_privilege_9_desc:0 "#W‘šëX„vàVÚ‹¡l	gÏuÇwŒšÿbìNÅV‰˜(W«R÷^?e»l-NJR1VÖNìN„vqVÍT›R0"
+estate_edg_paladin_privilege_10_desc:0 "bìNÔYûN#W‘šëXÝO²bFU–ÿåNdkÝOÁ‹8f„v‰RhQŒTEu0"
+estate_edg_paladin_privilege_11_desc:0 "bìN(WýV¶RgØšCg›R:gsQN¾‹Ëz†NN*N#W‘šëXt‹NOÿå‹t‹NOwQ	gèT'Y„vCg›R0"
+estate_edg_paladin_privilege_12_desc:0 "bìN(WYe—R„v«R÷^…Q>mc#W‘šëXO‚‚ÿÖNìNSOùRYe÷^Ëe RqVÍT0"
+estate_edg_paladin_privilege_13_desc:0 "bìN„v‰šYO†™-N	g#W‘šëXÿÖNìNS	gCgãNhˆbìN„výV¶R0"
+estate_edg_paladin_privilege_14_desc:0 "(WågtüföegÿÕlpQKQ‹sýV1S	g#W‘šëXÄuÇuÿbìNmN”^å‹ÄuÇuN*N#W‘šëXbâVÿåN.^©RbìNWSVSb0"
+estate_edg_paladin_privilege_15_desc:0 "bìN”^SVib'Y#W‘šëXbâVÿÙS	g©RŽNbìN„v›Q‹NLˆ¨R0"
+estate_edg_paladin_privilege_16_desc:0 " R:VùR#W‘šëX„v­‹ÃuÿÙb¸‹OVwÖNìN„vNánÿFOýwÐcØšÖNìN„vb—e›R0"
+estate_edg_paladin_privilege_17_desc:0 "#W‘šëXmN¥c×SÇo‚‹Y„v^yfR­‹ÃuÿÖNìN	gýw›RÛLˆ^SÿêSNÇ—‰N›ND©R0"
+estate_edg_paladin_privilege_18_desc:0 "bìN„v#W‘šëXïSåN(WŒTs^öegZP›NSpNVS0"
+estate_edg_paladin_privilege_19_desc:0 "bìNSÏu8^åNˆcˆNW0W„v¹eVÙuˆN#W‘šëX’rOÿw^—Ñ‘±”0"
+estate_edg_paladin_privilege_20_desc:0 "…Q–N¾‹	g#W‘šëX›Q‹NÔYXTOÿÖNìNS¡rtbìN„v›Q‹N‹N¡R0"
+estate_edg_paladin_privilege_21_desc:0 "#W‘šëX„v	ÔbhÆQ*Y%N<h†NÿbìN”^SVÛbßRôfY#W‘šëXÿSÖNìN^XeQbìN„v‘šuQè–0"
+estate_edg_paladin_privilege_22_desc:0 "S#W‘šëX„vÅˆY6RjOhÆQšR—VÇØšÿOüRôbìN:S²Q•„v#W‘šëX0àVdkÿbìN—‰M–NO#W‘šëX„vÅˆYhÆQÿ©‹ôfY„vºN ReQ‘šuQè–0"
+estate_edg_paladin_privilege_23_desc:0 "‘šuQŠYŠ‹YÿêT`ÖNìN:ON­‹ÃuŒTØžQYÿuóàeÕlÛLˆµOüIeûQÿFOêS‰bìN„v›Q–Ì‘2cán‘šuQÿ1SNšRýwÜw)R0"
+estate_edg_paladin_privilege_24_desc:0 "bìNO©‹#W‘šëX„vOÎNmN‰ ReQ0RbìN„v‘šuQè–-NÿÙëkàe‘uî•O©‹¸‹Y#W‘šëX—V0RTzzw™„v:gOÿFOêS‰bìNýwSè–^Xán‘šuQÿÙNRý/f<P—V„v0"
+estate_edg_paladin_privilege_25_desc:0 "bìN—‰ôfY„v‘šuQÿêS‰bìN„v‘šuQ³YYÿêS‰bìN„v›Q–Ì‘EQán‘šuQÿNRý/fïSåN«ˆzrrr„vÿêT`bìNåwS›Q‹NÑyŽb„v*geg(WêTÿbìNmNÅV‰˜øváObìN„v‘šuQïSåN•dŽxNR0"
+estate_edg_paladin_privilege_26_desc:0 "ûNUOºNýàeÕlI–/c›Q‹NÑyŽb„vnfÊSÿêS	g¥Q‹˜NS„vwäSc„MbO²‹:N#W‘šëXÅV‰˜ÿbRQRMbýwNgLe0:N†Nôf‹Y0WMckSêñT„váOðNŒTcƒ‰Šÿwckjwf„v#W‘šëXée1SŠbêñT­‹Ãub^yªgKb†N0"
+estate_edg_paladin_privilege_27_desc:0 ""
+estate_edg_paladin_privilege_28_desc:0 ""
+estate_edg_paladin_privilege_29_desc:0 ""
+
+estate_qizilbash_supremacy_over_the_aristocracy:1 "MOR[Root.Get5ÏeName]KNN"
+

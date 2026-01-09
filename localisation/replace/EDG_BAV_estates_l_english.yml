@@ -1,0 +1,92 @@
+﻿l_english:
+ estate_edg_artists: "z‚=g¶R"
+ estate_edg_artists_desc: "z‚=g¶RåNIur0Õ–RN4t&VOIYýV¶R„vcƒIQ0ÖNìN8npŽN«R÷^N^•NKNô•ÿ(uÁXIuNòS×‹QX.TIN„vbVaŒÿ(ubgRN‚˜LkÝQZwlÃVÿ(uú^QrNÕ–QX©‹Üw)RNáOðN—VåN8lXR0z‚=g¶Rv^Nôv¥cuµN®|ß˜bø”.ªg®pÿtSýwSàebV„vZgS:NïSÁ‰„véy^ÿ(WÛvxQ-N±RlbTÕl'`ÿ(W¨Raƒöe‰RšbNánÿ(WV¦MRUS:y‡efNÌR¶^0\n\n6qwÿupa—‰D©RÿTðXmN4ng‚ðS0å‚«ˆýVÆ‰ÿÖNìNOlTË‹:RNyb2Rÿ©‹AmŠÔkIujOôfëV.O­dÿå‚«ˆšS…VÿÖNìN¿Oýw:NýV¶RÇu1SNBSw<w„vIQ¯sÿO‡eSqVÍT›RÜÜwRQRNbÊS0"
+ edg_artists_loyalty_modifier: "z‚=g¶RàVÚ‹GWaˆ¹p"
+ edg_artists_influence_modifier: "z‚=g¶RqVÍT›R"
+ edg_artists_privilege_slots: "z‚=g¶Rg'YyrCgpe"
+ estate_edg_artists_ownership: "†˜0WýN˜"
+ unlock_estate_edg_artists_tt: "ã‰•0§Yz‚=g¶R§!06–BS0"
+ estate_privileges_and_agendas_events_edg_artists_name: "z‚=g¶R„vÐc®‹"
+ estate_edg_artists_privilege_every_owned_heretic_province: "bìNŒTbìN^SýV»lNNb	g§YVïz§!wýNÿ·ƒ—V‚YNHeœgÿ"
+ estate_edg_artists_privilege_every_owned_heretic_and_church_province: "bìNŒTbìN^SýV»lNNb	gú^	g§Yz6e§!ú^Qr„v§YVïz§!wýNÿ·ƒ—V‚YNHeœgÿ"
+ estate_edg_artists_agenda_1: "-eQz‚=gÍsÏ…"
+ estate_edg_artists_agenda_1_desc: "z‚=g¶R^gýV¶RúQb—-eQv^6eÏ…NybwQ	gãNhˆ'`„vz‚=gjOÁTÿ(uåNEQžRlQqQ†™Ï…0hËz‡eSÁTsTÿv^åNdkÐcGS,gýV(Wz‚=g†˜ßW„vðXg0"
+ estate_edg_artists_agenda_1_tt: "(W®‹zÛLˆgô•ÿgbLˆÇN!k?eœ^’N¨R0§M-eQz‚=gÍsÏ…§!00"
+ estate_edg_artists_agenda_2: ">NžRz‚=gUSÈ‰"
+ estate_edg_artists_agenda_2_desc: "z‚=g¶RÐc®‹>NžRN:Wb—TlQO„vz‚=gUSÈ‰ÿŽ÷‹T0WT¶RN°eÀyTðSUSúQÿåNÝQZwlÃV0ImÃÎW^‡eSuImÿv^pV>fýV¶RùRz‚=g„vvbc0"
+ estate_edg_artists_agenda_2_tt: "(W®‹zÛLˆgô•ÿgbLˆÇN!k?eœ^’N¨R0§M>NžRz‚=gUSÈ‰§!00"
+ estate_edg_artists_agenda_3: "ÃOÛz‚=g²NAm"
+ estate_edg_artists_agenda_3_desc: "z‚=g¶RIN.VNÖNýVbËS‹Y¿R›RVUSz‚=g²NAmÿ’N>mIu^0Õ–IR^NPN^RËxŽbz‚ÿ8T6e°eÎ˜<hN°etõVÿ¨c¨R,gýVz‚=gR°e0"
+ estate_edg_artists_agenda_3_tt: "(W®‹zÛLˆgô•ÿgbLˆÇN!k?eœ^’N¨R0§MÃOÛz‚=g²NAm§!00"
+ estate_edg_artists_agenda_4: "ÝO²bz‚=g÷N<P"
+ estate_edg_artists_agenda_4_desc: "z‚=g¶R‰Bl6RšRv^K„žRùRz‚=gÁT„vÝO²bªcËeÿSbûQ×vVSNÿN.ÿîOY×SmcÍsÁTÿnxÝOÍ‘‰jOÁT—VåN.Obÿv^ôu²bz‚=gjO:NýV¶R0ÌR„v÷N<P0"
+ estate_edg_artists_agenda_5: "ÑSUS¶RÏe†˜0W"
+ estate_edg_artists_agenda_5_desc: "z‚=g¶R^gibú^v^9e„UbìNôuyrS¯eôTk¶RÏe†˜0W„vjOJW¯sƒXÿtQú^åTjO²R0H–R†™NfR’VåTJWÿåNùW‰Q°eNãN.S^v^bVb3zšR„vz‚=guµNN^©RSOû|0"
+ estate_edg_artists_privilege_1: "z‚=g¶R†˜0WCg"
+ estate_edg_artists_privilege_1_desc: "b²‹z‚=g¶R6–BSùRvQ.Oßu†˜0WNµNN„v¡rtCgÿAQ¸‹vQ(W†˜0W…Qê¾‹jOJW0fRb–NUS…Sÿv^ùRøvsQzKN»l‰R‹N¡R«N	gôf'YêINzzô•0"
+ estate_edg_artists_privilege_2: "ÙuˆNfR=gê1u"
+ estate_edg_artists_privilege_2_desc: "KˆNfRwNz‚=g¶RôfËR^„vxvzNRjOê1uÿÏQS¡RågNr^„˜ÿO°e`ó`—VåN„ÑSÿFOå‚vQ¿R›RPW'YbÃV`NánÿdkIrê1u¦NïSýwlS:NùRýV¶Réy^„vcb0"
+ estate_edg_artists_privilege_2_tt_yes: "§G=T(u§!åNNN§YqVÍT›R§!bckÔk„vîOckÿ(W6–BS§YqVÍT›R§!:N§Y100%§!öeÿ¾0Rg'Y<Pÿ\nSV6–BS§GàVÚ‹§!öeÿÑyŽb±‚9 §G-15.0%§!\nSV6–BS§Y-NËz§!öeÿÑyŽb±‚9 §G-5.0%§!\nSV6–BS§RNán§!öeÿÑyŽb±‚9 §R+10.0%§!"
+ estate_edg_artists_privilege_2_tt_no: "§Ry(u§!åNNN§YqVÍT›R§!bckÔk„vîOckÿ(W6–BS§YqVÍT›R§!:N§Y100%§!öeÿ¾0Rg'Y<Pÿ\nSV6–BS§GàVÚ‹§!öeÿÑyŽb±‚9 §G-15.0%§!\nSV6–BS§Y-NËz§!öeÿÑyŽb±‚9 §G-5.0%§!\nSV6–BS§RNán§!öeÿÑyŽb±‚9 §R+10.0%§!"
+ estate_edg_artists_privilege_3: "Ž÷‹ÂSN?e»l"
+ estate_edg_artists_privilege_3_desc: "Ž÷‹z‚=g¶RÂSN®‹?eNlQqQ‹N¡R¨Tâ‹ÿåNvQfRÆ‹NTg¨c¨R9ei—N6R¦^ŒR„Uÿ6qwÿå‚vQËz:WNg÷^øvæTÿ?e»l±c˜wmNS–KN RgR0"
+ estate_edg_artists_privilege_3_tt_yes: "§G=T(u§!åNNN§YqVÍT›R§!bckÔk„vîOckÿ(W6–BS§YqVÍT›R§!:N§Y100%§!öeÿ¾0Rg'Y<Pÿ\nSV6–BS§GàVÚ‹§!öeÿ9ei—Û¦^žX• §G+25.0%§!\nSV6–BS§Y-NËz§!öeÿ9ei—Û¦^žX• §G+10.0%§!\nSV6–BS§RNán§!öeÿ9ei—Û¦^žX• §R-25.0%§!"
+ estate_edg_artists_privilege_3_tt_no: "§Ry(u§!åNNN§YqVÍT›R§!bckÔk„vîOckÿ(W6–BS§YqVÍT›R§!:N§Y100%§!öeÿ¾0Rg'Y<Pÿ\nSV6–BS§GàVÚ‹§!öeÿ9ei—Û¦^žX• §G+25.0%§!\nSV6–BS§Y-NËz§!öeÿ9ei—Û¦^žX• §G+10.0%§!\nSV6–BS§RNán§!öeÿ9ei—Û¦^žX• §R-25.0%§!"
+ estate_edg_artists_privilege_4: "ÏcØuYtQMRof"
+ estate_edg_artists_privilege_4_desc: "ÔYXbz‚=g¶RåNÁXIu0òS×‹NbgRÏcØuýV¶RYtQ„v?aofÿQX.qQT²‹Tv^Ÿ‚lÃVÿP‡eSÙS‹NéTúVßu»lTÕl'`N>yOÝQZw›R0"
+ estate_edg_artists_privilege_5: "žX Rz‚=gV=e"
+ estate_edg_artists_privilege_5_desc: "ÐcØš«R÷^NlQqQy˜îv„vz‚=g„˜—rÿibEQ^©R0VY–cNÔYXbRjOÿåNùW‰QºNMb0Aucƒ‡eSÿøv”^0Wÿ0?eÅbNÍSùRKNðX¦NOžX R0"
+ estate_edg_artists_privilege_6: "úQ.U‹s²R†˜0W"
+ estate_edg_artists_privilege_6_desc: "úQ.UèR‹s²R†˜0WåNyrªcDÑ‘ÿv^SW0Wl©‹Ùuz‚=g¶R¶RÏeNvQ^©RwÏu%„ÿbcÖSvQùRg÷^?eVr„v=ecNcíu•bD0"
+ estate_edg_artists_privilege_7: "SÍ‘—RYeê1u"
+ estate_edg_artists_privilege_7_desc: "SÍ‘v^ÝOœ–NTáOðNNYe>m„v<yÜbN`ó`zzô•ÿOz‚=gNfR=gMQŽN—RYe‰NïzùˆcÿÎNwôuc>yO3zšRv^8TVYegºNMb0"
+ estate_edg_artists_privilege_8: "ÝO²bVïz0µN"
+ estate_edg_artists_privilege_8_desc: "ÝO²bVïzNSpeYe>m„vÁyºN0µNNçubCgÿP–6RåN—RYeTIN„v¡l6eNë³RÿåNbcÖSvQùRýV¶R„v³uzNg¡Rÿv^ÏQS>yO¨Raƒ0"
+ estate_edg_artists_privilege_9: "ÃOÛÎW^ÑSUS"
+ estate_edg_artists_privilege_9_desc: "Ÿ±Rz‚=g¶RÂSNÎW^Ä‰RNlQqQú^¾‹ÿ¨c¨RgRb–0^:W0fRb–NåTJWÑSUSÿOÎW^ôfwQ8TV›RNuµN›Rÿ&^¨RFUNNºNãSÆ–Zw0"
+ estate_edg_artists_privilege_10: "V6e0—RYeê1uz0"
+ estate_edg_artists_privilege_10_desc: "åNÕl‹VbVVV6e0—RYeê1uz0ÿSùR—RYeËR¹R„vbú‹lS:N3zšR0?eegnÿdk>NbýwŒTYe>m²QzÿFOmNïSýwÀoSÝOˆR¿R›RNán0"
+ estate_edg_artists_privilege_10_tt_yes: "§GAQ¸‹§!V6e0§Y—RYeê1uz§!00"
+ estate_edg_artists_privilege_10_tt_no: "§Rybk§!V6e0§Y—RYeê1uz§!00"
+ estate_edg_artists_privilege_11: "I–bkYe÷^r^‰m…Q?e"
+ estate_edg_artists_privilege_11_desc: "åNýV¶RINCg:N1uP–6RYe÷^ùR…Q?e„vr^‰mÿÒbÝuåNÝuZbyYeäNËe‹SÿÎNwÝOœ–?eVrìrËzN>yOéy^ÿFOSONYe÷^sQû|ôf‹'t.V0"
+ estate_edg_artists_privilege_11_tt_yes: "§Gybk§!ùRbìN§YÝuZ§!b§Y˜^yYeäN§!0\nå‚òT«ˆ§YÝuZ§!b§Y˜^yYeäN§!ÿS§GËzsSã‰d–§!øvsQ¶r`0"
+ estate_edg_artists_privilege_11_tt_no: "§RAQ¸‹§!ùRbìN§YÝuZ§!b§Y˜^yYeäN§!0"
+ EDG_BAV_CAN_NOT_EXCOMMUNICATE_WITHIN_PRIVILEGE: "1uŽN0§YI–bkYe÷^r^‰m…Q?e§!0yrCg„vHeœgÿbìNàeÕlùRå‹ýV¶RÛLˆ§YÝuZ§!b§Y˜^yYeäN§!0"
+ estate_edg_artists_privilege_12: "˜^ú^QrÕl"
+ estate_edg_artists_privilege_12_desc: "˜^ßuN„vú^QrÕlNåT.SÄ‰ƒÿfnxWˆ:S^NS02–kphÆQNPg™e:S¦^ÿåNÏQSŒp³RN u·uÿv^OÎW^b—ŒŒôf:NtePŸ0RO0"
+ estate_edg_artists_privilege_13: "ôu²b0Whú^Qr"
+ estate_edg_artists_privilege_13_desc: "¾‹Ëz0Whú^Qr„vôu²b6R¦^ÿèb>kîO.Í‘‰«R¿k0YeXNlQqQªuõVirÿnxÝOvQaŒVaINNžR(uŸRýwö^íuÿjO:NýV¶Rcƒw„vïSÁ‰Á‰Á‹0"
+ estate_edg_artists_privilege_13_tt_yes: "§GAQ¸‹§!(W§YVïz§!wýNO(u	g—RYeP–6R„v§YGYÂ‰§!0"
+ estate_edg_artists_privilege_13_tt_no: "§Rybk§!(W§YVïz§!wýNO(u	g—RYeP–6R„v§YGYÂ‰§!0"
+ estate_edg_artists_privilege_14: "Ðc!P`ó`ê1u"
+ estate_edg_artists_privilege_14_desc: "Ðc!P`ó`ê1uNlQV¨‹º‹ÿÝO²bfR=g©º‹Nz‚=ghˆ¾ÿŸ±R°etº‹N°eÎ˜<húQ°sÿFOÇ¦^„vŠº‹zzô•mNïSýwËnuÍSCgZ`no0"
+ estate_edg_artists_privilege_15: "ýVE–z‚=g²NAm"
+ estate_edg_artists_privilege_15_desc: "¨c¨RNÖNýV„vz‚=gNfR=gŽVegÿ’N>mT¶R0²NbcÏ…ÁTNŽbÕlÿO,gýV‡eSôfwQqVÍT›Rÿv^P‡eSËu&^ÃOÛY²NN8f0"
+ estate_edg_artists_privilege_16: "VïzVìSÕlHh"
+ estate_edg_artists_privilege_16_desc: "˜^b—TVïz²SO„vVìSÕlHhÿAQ¸‹vQåNgyV0åT.S³R¡RbD©RbcÖSTÕl0WMONÝO²bÿåNeˆEQýV¶RºN›Rv^ã‰—RYeùRËz0"
+ estate_edg_artists_privilege_17: "ê1u±RYeCg"
+ estate_edg_artists_privilege_17_desc: "ˆcˆNwyJT>môfê1u„v±RYeNÄuÇuCgÿOvQ—VåN(W,gýVÊS^SýV.O­dNib.VÿåN—RYeQÜu:VS>yO¨RXTÿTöemNïSýwVÑSvQÖNYe>m„vÞz‰NN²Qz0"
+ estate_edg_artists_privilege_17_tt_yes: "§GAQ¸‹§!§YwyJT>m§!(WbìNŒTbìN^SýV„vwýN§Yib.V§!0"
+ estate_edg_artists_privilege_17_tt_no: "§Rybk§!§YwyJT>m§!(WbìNŒTbìN^SýV„vwýN§Yib.V§!0"
+ estate_edg_artists_privilege_18: "(W§M¶RÏe†˜0W§!>NžRz‚=gUSÈ‰O"
+ estate_edg_artists_privilege_18_desc: "AQ¸‹v^D©R(WôuyrS¯eôTk¶RÏe†˜0W…QšRg>NžR'Y‹Wz‚=gUSÈ‰OÿGlZwT0WjOÁTN^©RwÿÃOÛ²NfNTðX.O­dÿO†˜0Wb:N‡eSN0ÌR„v-NÃV0"
+ estate_EDG_BAV_german_expansion: "·Va×V'YVÑS"
+ estate_EDG_BAV_german_expansion_desc: ""
+ unlock_privilege_estate_EDG_BAV_german_expansion_tt: "ã‰•§Y^l§!yrCg0§Y·Va×V'YVÑS§!00"
+ estate_EDG_BAV_german_expansion_modifier_glacier: "·Va×V'YVÑS0°QÝT0"
+ estate_EDG_BAV_german_expansion_modifier_forest: "·Va×V'YVÑS0îh—g0"
+ estate_EDG_BAV_german_expansion_modifier_hills: "·Va×V'YVÑS0Nu–0"
+ estate_EDG_BAV_german_expansion_modifier_woods: "·Va×V'YVÑS0—g0W0"
+ estate_EDG_BAV_german_expansion_modifier_mountain: "·Va×V'YVÑS0qS	0"
+ estate_EDG_BAV_german_expansion_modifier_jungle: "·Va×V'YVÑS0N—g0"
+ estate_EDG_BAV_german_expansion_modifier_marsh: "·Va×V'YVÑS0¼lýl0"
+ estate_EDG_BAV_german_expansion_modifier_desert: "·Va×V'YVÑS0™l.o0"
+ estate_EDG_BAV_german_expansion_modifier_coastal_desert: "·Va×V'YVÑS0wm¸S™l.o0"
+ estate_EDG_BAV_german_expansion_modifier_coastline: "·Va×V'YVÑS0wm¸S¿u0"
+ estate_EDG_BAV_german_expansion_modifier_drylands: "·Va×V'YVÑS0ñe0W0"
+ estate_EDG_BAV_german_expansion_modifier_highlands: "·Va×V'YVÑS0Øš0W0"
+ estate_EDG_BAV_german_expansion_modifier_savannah: "·Va×V'YVÑS0zhIƒŸS0"
+ estate_EDG_BAV_german_expansion_modifier_steppe: "·Va×V'YVÑS0IƒŸS0"
+ estate_EDG_BAV_german_expansion_tt_yes: "Nb	g1ubìNbbìN^SýVc	g„v§Y·Va×V§!wýNÿvQ0WbVüRô„v§YÑSUSb,g§!§Ré`Z§!S§GÏQSNJS§!0"
+ estate_EDG_BAV_german_expansion_tt_no: "Nb	g1ubìNbbìN^SýVc	g„v§Y·Va×V§!wýNÿvQ0WbVüRô„v§YÑSUSb,g§!§Ré`Z§!S§Rb`YŸS¶r§!0"

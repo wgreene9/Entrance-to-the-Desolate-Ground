@@ -1,0 +1,322 @@
+﻿l_english:
+ EDG_SHY_northern_frontier:0 "Sè¹†u"
+ desc_EDG_SHY_northern_frontier:0 ""
+ EDG_SHY_pasture:0 "lš:W"
+ desc_EDG_SHY_pasture:0 ""
+ EDG_SHY_great_expedition:0 "'YÜV"
+ desc_EDG_SHY_great_expedition:0 ""
+ EDG_SHY_whip_of_god:0 "N^KN­—"
+ desc_EDG_SHY_whip_of_god:0 ""
+ EDG_SHY_recruit_guards_modifier:0 "VßRÑkS‘šuQ"
+ desc_EDG_SHY_recruit_guards_modifier:0 ""
+ EDG_SHY_mobile_capital:0 "Am¨RWl^"
+ desc_EDG_SHY_mobile_capital:0 ""
+ EDG_SHY_tame_the_bulgars:0 "ošgÝO RSºN"
+ desc_EDG_SHY_tame_the_bulgars:0 ""
+ EDG_SHY_indian_ambition:0 "pS¦^Î‘ÃV"
+ desc_EDG_SHY_indian_ambition:0 ""
+ EDG_SHY_knell:0 "reÍT'NŸ”"
+ desc_EDG_SHY_knell:0 ""
+ EDG_SHY_into_the_baltic:0 ":cÛâlW„v"
+ desc_EDG_SHY_into_the_baltic:0 ""
+ EDG_SHY_irresistible:0 "àeI–Ie¿R"
+ desc_EDG_SHY_irresistible:0 ""
+ EDG_SHY_sustained:0 "cENIe¿R"
+ desc_EDG_SHY_sustained:0 ""
+ EDG_SHY_lowland_wealth:0 "NO0W„v0ÌR"
+ desc_EDG_SHY_lowland_wealth:0 ""
+ EDG_SHY_treasury_of_rome:0 "Wlš„vR“^"
+ desc_EDG_SHY_treasury_of_rome:0 ""
+ EDG_SHY_cross_the_sahara:0 "èÇ’dÈTÉb"
+ desc_EDG_SHY_cross_the_sahara:0 ""
+ EDG_SHY_bedouin_tribe:0 "™l.o‘šuQ"
+ desc_EDG_SHY_bedouin_tribe:0 ""
+ EDG_SHY_homeward_journey:0 "RV"
+ desc_EDG_SHY_homeward_journey:0 ""
+ EDG_SHY_unified_chagatai:0 "6eÞVWµN"
+ desc_EDG_SHY_unified_chagatai:0 ""
+ EDG_SHY_imperial_earl:0 "^ýVfàs"
+ desc_EDG_SHY_imperial_earl:0 ""
+ EDG_SHY_dragon_throne:0 "èT™Ÿ‹sµ^"
+ desc_EDG_SHY_dragon_throne:0 ""
+ EDG_SHY_treasure_house_of_wisdom:0 "zfgaR“^"
+ desc_EDG_SHY_treasure_house_of_wisdom:0 ""
+ EDG_SHY_return_to_tengger_modifier:0 "Ñg„v9eYe"
+ desc_EDG_SHY_return_to_tengger_modifier:0 ""
+ EDG_SHY_ether_light:0 "Í‚yzKNIQ"
+ desc_EDG_SHY_ether_light:0 ""
+ EDG_SHY_mongolian_navy:0 "™„äSwm›Q"
+ desc_EDG_SHY_mongolian_navy:0 ""
+ EDG_SHY_nomadic_civil_war:0 "lšNø‹‹s"
+ desc_EDG_SHY_nomadic_civil_war:0 ""
+ EDG_SHY_fall_apart:0 "W)Tætã‰"
+ desc_EDG_SHY_fall_apart:0 ""
+ EDG_SHY_heart_of_world:0 "NLuKNÃV"
+ desc_EDG_SHY_heart_of_world:0 ""
+ EDG_SHY_old_world:0 "ÇŽV"
+ desc_EDG_SHY_old_world:0 ""
+ EDG_SHY_new_world:0 "SVN"
+ desc_EDG_SHY_new_world:0 ""
+ EDG_SHY_future:0 "*geg"
+ desc_EDG_SHY_future:0 ""
+ EDG_SHY_dark_sign:0 "wSWÍ‘eg"
+ desc_EDG_SHY_dark_sign:0 ""
+ EDG_SHY_eastward_strategy:0 "NÛbeu"
+ desc_EDG_SHY_eastward_strategy:0 ""
+ EDG_SHY_sunset:0 "K„åe"
+ desc_EDG_SHY_sunset:0 ""
+ EDG_SHY_to_the_end_of_the_sea:0 "ôv0Rwm„vKS4Y"
+ desc_EDG_SHY_to_the_end_of_the_sea:0 ""
+ EDG_SHY_unfinished_siness:0 "*gßzKN‹N"
+ desc_EDG_SHY_unfinished_siness:0 ""
+ EDG_SHY_adaptive_plateau:0 "”^ØšŸS"
+ desc_EDG_SHY_adaptive_plateau:0 ""
+ EDG_SHY_agricultural_development:0 "œQNÑSUS"
+ desc_EDG_SHY_agricultural_development:0 ""
+ EDG_SHY_preparation_for_attack:0 "ÛIeÆQY"
+ desc_EDG_SHY_preparation_for_attack:0 ""
+ EDG_SHY_unite_the_arab_tribes:0 "ßuT?–Éb=OèK„"
+ desc_EDG_SHY_unite_the_arab_tribes:0 ""
+ EDG_SHY_other_door:0 "æSNGbè•"
+ desc_EDG_SHY_other_door:0 ""
+ EDG_SHY_decommissioning_of_navy:0 "²dÁˆwm›Q"
+ desc_EDG_SHY_decommissioning_of_navy:0 ""
+ EDG_SHY_guards_cavalry_modifier:0 "ÑkS‘šuQ"
+ desc_EDG_SHY_guards_cavalry_modifier:0 ""
+ EDG_SHY_unexpected_split:0 "a™eKNY„vRÂˆ"
+ desc_EDG_SHY_unexpected_split:0 ""
+ EDG_SHY_sabani_conquest:0 "fís<SVg"
+ desc_EDG_SHY_sabani_conquest:0 ""
+ EDG_SHY_war_preparation:0 "b‰NÆQY"
+ desc_EDG_SHY_war_preparation:0 ""
+
+
+
+ EDG_SHY_tech_adapt_maghrib:0 "b=g”^ÿlš<hÌ‘^"
+ desc_EDG_SHY_tech_adapt_maghrib:0 ""
+ EDG_SHY_tech_adapt_noma:0 "b=g”^ÿ8ngr"
+ desc_EDG_SHY_tech_adapt_noma:0 ""
+ EDG_SHY_tech_adapt_chi:0 "b=g”^ÿ-NNS"
+ desc_EDG_SHY_tech_adapt_chi:0 ""
+ EDG_SHY_tech_adapt_india:0 "b=g”^ÿpS¦^"
+ desc_EDG_SHY_tech_adapt_india:0 ""
+ EDG_SHY_tech_adapt_muslim:0 "b=g”^ÿFz¯e—g"
+ desc_EDG_SHY_tech_adapt_muslim:0 ""
+ EDG_SHY_tech_adapt_anatolia:0 "b=g”^ÿ‰R³uXb)RšN"
+ desc_EDG_SHY_tech_adapt_anatolia:0 ""
+ EDG_SHY_tech_adapt_west:0 "b=g”^ÿ‰'k"
+ desc_EDG_SHY_tech_adapt_west:0 ""
+ EDG_SHY_tech_adapt_east:0 "b=g”^ÿN'k"
+ desc_EDG_SHY_tech_adapt_east:0 ""
+ EDG_SHY_tech_adapt_iran:0 "b=g”^ÿOg"
+ desc_EDG_SHY_tech_adapt_iran:0 ""
+
+
+
+ EDG_SHY_armor_modifier_1:0 "0§YI§!0²bwQÿ§Y‰‹W²bwQ§!"
+ desc_EDG_SHY_armor_modifier_1:0 ""
+ EDG_SHY_armor_modifier_1_1:0 "0§OII§!0²bwQÿ§Y‰‹W²bwQ§!"
+ desc_EDG_SHY_armor_modifier_1_1:0 ""
+ EDG_SHY_armor_modifier_1_2:0 "0§RIII§!0²bwQÿ§Y‰‹W²bwQ§!"
+ desc_EDG_SHY_armor_modifier_1_2:0 ""
+
+ EDG_SHY_armor_modifier_2:0 "0§YI§!0²bwQÿ§Y²bwQ§!"
+ desc_EDG_SHY_armor_modifier_2:0 ""
+ EDG_SHY_armor_modifier_2_1:0 "0§OII§!0²bwQÿ§Y²bwQ§!"
+ desc_EDG_SHY_armor_modifier_2_1:0 ""
+ EDG_SHY_armor_modifier_2_2:0 "0§RIII§!0²bwQÿ§Y²bwQ§!"
+ desc_EDG_SHY_armor_modifier_2_2:0 ""
+
+
+ EDG_SHY_armor_modifier_3:0 "0§YI§!0²bwQÿ§YhQ«Ž²bwQ§!"
+ desc_EDG_SHY_armor_modifier_3:0 ""
+ EDG_SHY_armor_modifier_3_1:0 "0§OII§!0²bwQÿ§YhQ«Ž²bwQ§!"
+ desc_EDG_SHY_armor_modifier_3_1:0 ""
+ EDG_SHY_armor_modifier_3_2:0 "0§RIII§!0²bwQÿ§YhQ«Ž²bwQ§!"
+ desc_EDG_SHY_armor_modifier_3_2:0 ""
+
+ EDG_SHY_mount_modifier_1:0 "0§YI§!0PW‘šÿ§Yblš§!"
+ desc_EDG_SHY_mount_modifier_1:0 ""
+ EDG_SHY_mount_modifier_1_1:0 "0§OII§!0PW‘šÿ§Yblš§!"
+ desc_EDG_SHY_mount_modifier_1_1:0 ""
+ EDG_SHY_mount_modifier_1_2:0 "0§RIII§!0PW‘šÿ§Yblš§!"
+ desc_EDG_SHY_mount_modifier_1_2:0 ""
+ EDG_SHY_mount_modifier_1_3:0 "0§BIV§!0PW‘šÿ§Yblš§!"
+ desc_EDG_SHY_mount_modifier_1_3:0 ""
+ EDG_SHY_mount_modifier_1_4:0 "0§TV§!0PW‘šÿ§Yblš§!"
+ desc_EDG_SHY_mount_modifier_1_4:0 ""
+
+
+ EDG_SHY_mount_modifier_2:0 "PW‘šÿ§Y†š|š§!"
+ desc_EDG_SHY_mount_modifier_2:0 ""
+ EDG_SHY_mount_modifier_3:0 "PW‘šÿ§YbaŒ§!"
+ desc_EDG_SHY_mount_modifier_3:0 ""
+ EDG_SHY_mount_modifier_4:0 "PW‘šÿ§YbŠq§!"
+ desc_EDG_SHY_mount_modifier_4:0 ""
+
+ EDG_SHY_weapon_modifier_1:0 "IN‰fkhVÿ§Y‰‹WfkhV§!"
+ desc_EDG_SHY_weapon_modifier_1:0 ""
+ EDG_SHY_weapon_modifier_2:0 "IN‰fkhVÿ§Y•ÄgfkhV§!"
+ desc_EDG_SHY_weapon_modifier_2:0 ""
+ EDG_SHY_weapon_modifier_3:0 "IN‰fkhVÿ§YÍ‘‹WfkhV§!"
+ desc_EDG_SHY_weapon_modifier_3:0 ""
+ EDG_SHY_weapon_modifier_4:0 "IN‰fkhVÿ§Ykpªg§!"
+ desc_EDG_SHY_weapon_modifier_4:0 ""
+
+ EDG_SHY_minor_weapon_modifier_1:0 "!k‰fkhVÿ§YþvLr§!"
+ desc_EDG_SHY_minor_weapon_modifier_1:0 ""
+ EDG_SHY_minor_weapon_modifier_2:0 "!k‰fkhVÿ§Y‰‹WfkhV§!"
+ desc_EDG_SHY_minor_weapon_modifier_2:0 ""
+ EDG_SHY_minor_weapon_modifier_3:0 "!k‰fkhVÿ§YV§!"
+ desc_EDG_SHY_minor_weapon_modifier_3:0 ""
+ EDG_SHY_minor_weapon_modifier_4:0 "!k‰fkhVÿ§YS‹Wkpªg§!"
+ desc_EDG_SHY_minor_weapon_modifier_4:0 ""
+
+
+
+ EDG_SHY_extended_meadow_title:"@[Root.GetTag] ûRŒb°e„v>egr¹p"
+ EDG_SHY_extended_meadow_desc:0 ""
+ EDG_SHY_extended_meadow.effect.tt:0 "Nb	gán³§Y³Q®‹agöN§!„vwýN§TµNir§!ýSØS:N§Yrrju§!v^§Rmc1Y§!§Y4§!§TúWNxuµN§!£icon_production_in_text£\n"
+ EDG_SHY_building_pasture_title:0 "@[Root.GetTag] °eú^lš:W"
+ EDG_SHY_building_pasture_desc:0 ""
+ EDG_SHY_building_pasture.effect.tt:0 "bìNSTÏk*N§TµNir§!:N§Yrrju§!„vwýNîOú^§Ylš:W§!\n\nÏkNY§Y*gîOú^lš:W„vwýN§!ýS±‚9bìN§Y50§!¤ÿôv0R§YhQèîOú^ŒRb§!b§RN³§!§Y50§!¤\n"
+ EDG_SHY_recruit_guards_title:0 "@[Root.GetTag] Äuú^ÑkS‘šuQ"
+ EDG_SHY_recruit_guards_desc:0 ""
+ EDG_SHY_return_to_tengger_title:0 "@[Root.GetTag] ÞVRV§Y•u)Y§!"
+ EDG_SHY_return_to_tengger_desc:0 ""
+ EDG_SHY_change_tag_title:0 "@[Root.GetTag] ýV¶R²‹T"
+ EDG_SHY_change_tag_desc:0 ""
+ EDG_SHY_change_tag.effect.tt:0 "AQ¸‹bìN	ébN*N°e„v§YýV¶R²‹T§!\n\n§YÏkûNTIN§!êSýwYÇ‘(u§Y1§!!kå‹³Q®‹ÿ"
+ EDG_SHY_change_name_title:0 "@[Root.GetTag] §TiVË†§!0NiVWl^0"
+ EDG_SHY_change_name_desc:0 ""
+ EDG_SHY_change_name.effect.tt:0 "9hncSVMR§TýV¶RhŒr§!ôf9eTðy\n"
+ EDG_SHY_BYZ_Horde:0 "+t^"
+ EDG_SHY_BYZ_Horde_ADJ:0 "+t^"
+ EDG_SHY_SHY_Horde:0 "R—^"
+ EDG_SHY_SHY_Horde_ADJ:0 "R—^"
+ EDG_SHY_BUK_Horde:0 "Äž^"
+ EDG_SHY_BUK_Horde_ADJ:0 "Äž^"
+ EDG_SHY_YUA_Horde:0 "¢u^"
+ EDG_SHY_YUA_Horde_ADJ:0 "¢u^"
+ EDG_SHY_TAS_Horde:0 "Ñž^"
+ EDG_SHY_TAS_Horde_ADJ:0 "Ñž^"
+ EDG_SHY_MUG_Horde:0 "ÿu^"
+ EDG_SHY_MUG_Horde_ADJ:0 "ÿu^"
+ EDG_SHY_MOT_Horde:0 "‹v^"
+ EDG_SHY_MOT_Horde_ADJ:0 "‹v^"
+ EDG_SHY_ILK_Horde:0 "Yj^"
+ EDG_SHY_ILK_Horde_ADJ:0 "Yj^"
+
+ EDG_SHY_tech_maghrib.tt:0 "lš<hÌ‘^ÑyŽbÄu"
+ EDG_SHY_tech_noma.tt:0 "8ngrÑyŽbÄu"
+ EDG_SHY_tech_chi.tt:0 "-NNSÑyŽbÄu"
+ EDG_SHY_tech_india.tt:0 "pS¦^ÑyŽbÄu"
+ EDG_SHY_tech_muslim.tt:0 "Fz¯e—gÑyŽbÄu"
+ EDG_SHY_tech_anatolia.tt:0 "‰R³uXb)RšNÑyŽbÄu"
+ EDG_SHY_tech_west.tt:0 "‰'kÑyŽbÄu"
+ EDG_SHY_tech_east.tt:0 "N'kÑyŽbÄu"
+ EDG_SHY_tech_iran.tt:0 "OgÑyŽbÄu"
+ EDG_SHY_tech_icon.tt:0 "SVMRÑyŽbÄu"
+
+ EDG_SHY_mil_custom_equipment_button_1_tooltip:0 "²b2u"
+ EDG_SHY_mil_custom_equipment_button_2_tooltip:0 "PW‘š"
+ EDG_SHY_mil_custom_equipment_button_3_tooltip:0 "IN‰fkhV"
+ EDG_SHY_mil_custom_equipment_button_4_tooltip:0 "!k‰fkhV"
+
+
+
+ EDG_SHY_mil_custom_equipment_button_1_slot_1:0 "§Y‰‹W²bwQ§!"
+ EDG_SHY_mil_custom_equipment_button_1_slot_2:0 "§Y²bwQ§!"
+ EDG_SHY_mil_custom_equipment_button_1_slot_3:0 "§YhQ«Ž²bwQ§!"
+
+ EDG_SHY_mil_custom_equipment_button_2_slot_1:0 "§Yblš§!"
+ EDG_SHY_mil_custom_equipment_button_2_slot_2:0 "§Y†š|š§!"
+ EDG_SHY_mil_custom_equipment_button_2_slot_3:0 "§YbaŒ§!"
+ EDG_SHY_mil_custom_equipment_button_2_slot_4:0 "§YbŠq§!"
+
+ EDG_SHY_mil_custom_equipment_button_3_slot_1:0 "§Y‰‹WfkhV§!"
+ EDG_SHY_mil_custom_equipment_button_3_slot_2:0 "§Y•ÄgfkhV§!"
+ EDG_SHY_mil_custom_equipment_button_3_slot_3:0 "§YÍ‘‹WfkhV§!"
+ EDG_SHY_mil_custom_equipment_button_3_slot_4:0 "§Ykpªg§!"
+
+ EDG_SHY_mil_custom_equipment_button_4_slot_1:0 "§YþvLr§!"
+ EDG_SHY_mil_custom_equipment_button_4_slot_2:0 "§Y‰‹WfkhV§!"
+ EDG_SHY_mil_custom_equipment_button_4_slot_3:0 "§YV§!"
+ EDG_SHY_mil_custom_equipment_button_4_slot_4:0 "§YS‹Wkpªg§!"
+
+
+ EDG_SHY_mil_custom_equipment_button_1_slot_1_tooltip:0 "ÅˆY§Y‰‹W²bwQ§!"
+ EDG_SHY_mil_custom_equipment_button_1_slot_2_tooltip:0 "ÅˆY§Y²bwQ§!"
+ EDG_SHY_mil_custom_equipment_button_1_slot_3_tooltip:0 "ÅˆY§YhQ«Ž²bwQ§!"
+
+ EDG_SHY_mil_custom_equipment_button_2_slot_1_tooltip:0 "ÅˆY§Yblš§!"
+ EDG_SHY_mil_custom_equipment_button_2_slot_2_tooltip:0 "ÅˆY§Y†š|š§!"
+ EDG_SHY_mil_custom_equipment_button_2_slot_3_tooltip:0 "ÅˆY§YbaŒ§!"
+ EDG_SHY_mil_custom_equipment_button_2_slot_4_tooltip:0 "ÅˆY§YbŠq§!"
+
+ EDG_SHY_mil_custom_equipment_button_3_slot_1_tooltip:0 "ÅˆY§Y‰‹WfkhV§!"
+ EDG_SHY_mil_custom_equipment_button_3_slot_2_tooltip:0 "ÅˆY§Y•ÄgfkhV§!"
+ EDG_SHY_mil_custom_equipment_button_3_slot_3_tooltip:0 "ÅˆY§YÍ‘‹WfkhV§!"
+ EDG_SHY_mil_custom_equipment_button_3_slot_4_tooltip:0 "ÅˆY§Ykpªg§!"
+
+ EDG_SHY_mil_custom_equipment_button_4_slot_1_tooltip:0 "ÅˆY§YþvLr§!"
+ EDG_SHY_mil_custom_equipment_button_4_slot_2_tooltip:0 "ÅˆY§Y‰‹WfkhV§!"
+ EDG_SHY_mil_custom_equipment_button_4_slot_3_tooltip:0 "ÅˆY§YV§!"
+ EDG_SHY_mil_custom_equipment_button_4_slot_4_tooltip:0 "ÅˆY§YS‹Wkpªg§!"
+
+ EDG_SHY_mil_custom_equipment_button_4_slot_1.trigger_1.tt:0 "§YÍ‘‹WfkhV§!àeÕlT§YþvLr§!NwÅˆYÿ"
+ EDG_SHY_mil_custom_equipment_button_4_slot_1.trigger_2.tt:0 "§Ykpªg§!àeÕlT§YþvLr§!NwÅˆYÿ"
+ EDG_SHY_mil_custom_equipment_button_4_slot_3.trigger_1.tt:0 "§Ykpªg§!àeÕlT§YV§!NwÅˆYÿ"
+ EDG_SHY_mil_custom_equipment_button_4_slot_4.trigger_1.tt:0 "àeÕlTöeÅˆY2NŠbkpªgÿ"
+
+
+
+ EDG_SHY_main_war_win_count:0 "ˆ”ùR§TÑyŽbÄu§!:N§YFz¯e—g§!ýV¶R„v§Yb‰NÜw)R§!!kpe"
+
+
+ EDG_SHY_raze_button_tooltip:0 "q cwýN"
+ EDG_SHY_raze_button.effect.tt:0 "ùR§Y[This.GetName]§!ÛLˆN!k§Tq cwýN§!Lˆ¨Rÿ6eÊv§RNOŽN§!ôv¥c§Tq cwýN§!ÿTöe§Y[This.GetName]§!—‰§Yôfíw„vöeô•§!egb`YuµN\n"
+ EDG_SHY_raze_button.subject_effect.tt:0 "§Y[This.GetName]§!mc1Y„v§RÏk¹pÑSUS§!ýSÐcØš§O[Owner.GetName]§!§R5%§!„v§YìrËz>PT§!\n"
+
+ EDG_SHY_raze_all_possible_province.tt:0 "q cNb	gwýN"
+ EDG_SHY_raze_all_possible_province.effect.tt:0 "§Yq cNb	gýwY«ˆbìNq c„vwýN§!\n"
+ EDG_SHY_raze_all_possible_province.trigger_1.tt:0 "óS	gN*N§YbìNNbåb	g§!„vwýN§Yán³q c‰Bl§!\n"
+ EDG_SHY_raze_all_possible_province.trigger_2.tt:0 "óS	gN*N§Y«ˆbìNNbµc6R§!FO§YN«ˆbìNNbåb	g§!„vwýN§Yán³q c‰Bl§!\n"
+
+ EDG_SHY_station_farm.tt:0 "oS0u"
+ EDG_SHY_station_farm.trigger.tt:0 "§RwýN0WbVNAQ¸‹ÛLˆå‹Lˆ¨R§!ÿ"
+ EDG_SHY_station_farm_remove_core.tt:0 "§Gûyd–§!å‹wýN„v§YvQÖNýV¶R§!§T8hÃV§!\n"
+ EDG_SHY_station_farm.effect.tt:0 "VËY§Yã‰ce§!å‹wýN„vè–ÿôvóè–§RhQèˆmw§!b¾0Rå‹0W:S§YgØšïS=ecÑSUS¦^§!\n\n§YNT0WbV§!Nbåb	g„v§YgØšïS=ecÑSUS¦^§!NT\n\nÏkã‰ce§G1k§!è–S§Y–:gžX R§!SV0W§Y1§!¹pÑSUS¦^\n"
+ EDG_SHY_station_farm_count:0 "0oS0u0’N¨R!kpe"
+
+
+
+ SHY_M03:0 "™lÆYÆR¯eS"
+ SHY_M03_ADJ:0 "™lÆYÆR¯eS"
+
+
+ EDG_SHY_grenadier_guards:0 "ÑkS‘šuQâV"
+ EDG_SHY_grenadier_guards_desc:0 ""
+ ability_EDG_SHY_elite_cavalry_mechanic:0 "§Y‘šuQ¾|•S§!"
+ EDG_SHY_elite_cavalry:0 "§Y‘šuQ¾|•S§!"
+ EDG_SHY_elite_cavalry_gain_modifier:0 "§Y‘šuQ¾|•S§!ÙuˆN„vîOck"
+ monthly_EDG_SHY_elite_cavalry:0 "g¦^§Y‘šuQ¾|•S§!Û¦^"
+
+ EDG_SHY_khanate_of_bukhara:0 "^ÈTÉbWlýV"
+ EDG_SHY_khanate_of_bukhara_desc:0 ""
+ EDG_SHY_khanate_of_uzbeg:0 "gsS+RWlýV"
+ EDG_SHY_khanate_of_uzbeg_desc:0 ""
+
+ EDG_SHY_civil_war:0 "ÂršS"
+ EDG_SHY_civil_war_can_end.tt:0 "§Y)TOWØ*gÓumg§!"
+
+ po_EDG_SHY_get_ship:0 "§T6ewm›Q§!"
+ po_EDG_SHY_get_ship_desc:0 "·ƒ—Vå‹ýV¶R§Y°s	g9‚êS§!§GNJSpeÏ‘§!„v9‚êSÿTöe(W§Y10§!t^…Qå‹ýV×S0RN*N§R%NÍ‘§!„vwm›QøvsQ„v§Yb—îOck§!\n"
+ CB_ALLOWED_po_EDG_SHY_get_ship:0 "§T6ewm›Q§!"
+ PEACE_po_EDG_SHY_get_ship:0 "§T6ewm›Q§!"
+ po_EDG_annex_all:0 "Tv^ýV¶R"
+ po_EDG_annex_all_desc:0 "‰BlhQb—Tv^ùR¹e"
+ CB_ALLOWED_po_EDG_annex_all:0 "Tv^ýV¶R"
+ PEACE_po_EDG_annex_all:0 "Tv^ýV¶R"
+
+ EDG_SHY_steppe_horde:0 "WlýV"

@@ -1,0 +1,143 @@
+﻿l_english:
+#Og
+   EDG_Iran_groups:0 "Og"
+    #‘šuQ
+   iranian_cavalry_1_1:0 "OgèK„‘šuQ"
+   iranian_cavalry_1_2:0 "OgV‘šuQ"
+   iranian_cavalry_6_1:0 "?–^XÜb†u²QûQ‘šuQ"
+   iranian_cavalry_10_1:0 "9eo‚?–^XÜb†u²QûQ‘šuQ"
+   iranian_cavalry_10_2:0 "þVpQ‰‘šuQ"
+   iranian_cavalry_14_1:0 "9eo‚þVpQ‰‘šuQ"
+   iranian_cavalry_14_2:0 "Ogkpªg‘šuQ"
+   iranian_cavalry_17_1:0 "9eo‚Ogkpªg‘šuQ"
+   iranian_cavalry_17_2:0 "|TWÊsz­ˆ‘šuQ"
+   iranian_cavalry_23_1:0 "9eo‚|TWÊsz­ˆ‘šuQ"
+   iranian_cavalry_23_2:0 "?–ÌRWl™Ÿ‘šuQ"
+   iranian_cavalry_26_1:0 "9eo‚?–ÌRWl™Ÿ‘šuQ"
+   iranian_cavalry_26_2:0 "OgiOR‘šuQ"
+   iranian_cavalry_28_1:0 "9eo‚OgiOR‘šuQ"
+   iranian_cavalry_28_2:0 "Ogøw2u‘šuQ"
+   iranian_cavalry_1_1DESCR:0 "Og„v.Oßu0W¹e?e»lú^Ëz(WN*NÈSN*N8^«ˆðy:NèK„„v0W¹e?e»lžRSOKNN0Ù›NèK„ïS'YïSSÿv^’c^:NIrµu6RÿgØšµuR=fýV¶R„vgØš†˜üRºN0wOg„véeg‘šuQYegnŽN0W¹e„vT*NèK„-Nÿ	ÔbåN›O-N.YŒcÛLˆb‰N0"
+   iranian_cavalry_1_2DESCR:0 "V‘šuQ=fOg‘šuQ-N„vÍ‘‰ÄubèR0(WäSŽVÊNeg„v8ngrlÏeN­e²QûQOg„v‡eSŒT‡eföeÿÖNìNmNSêñT„v›Q‹N.Oßu&^Ùu†NOgºN0pš‹š(WOgØšŸS„vV‘šuQck=fvQ-NNïSb:„vNèR0"
+   iranian_cavalry_6_1DESCR:0 "?–^XÜb†uºN(WENÜ„v?–QYŽ<S·V‹sgöeg1S=fOgSè'Y0W„vŸSOOl0ÖNìNmN=fOglÏe-N„vÍ‘‰èR0?–^XÜb†uºNšÇR„UbÿÖNìN„v‘šuQI`=f²Q•(WMRÿ=fOg‘šuQ„vIN›RKNN0"
+   iranian_cavalry_10_1DESCR:0 "(WuµN›R„vnÐcGSTÿ?–^XÜb†u²QûQ‘šuQ	g†Nôf‹Y„vßuNÅˆYåNÊSôf¾|ÆuS„v­‹ÃuÇz0?–^XÜb†u²QûQ‘šuQ„vb—e›R·ƒ—V†Ng'YÐcGS0"
+   iranian_cavalry_10_2DESCR:0 "þVpQ=fâl¯eí‹-NùRŽN-NšN8ngrlÏe„vðy|T0þVpQºN8^t^(WlšNjObÿ^yúQ<›¡lÿbàeNÜw0ÎNz¥SSöeãNåNegÿOgºN1SVËYÇ–cOb—e›R:V²R„vþVpQÇ–cOuQ0"
+   iranian_cavalry_14_1DESCR:0 ".Oßu„vþVpQ‰‘šuQ8^8^:ON2–²bÿv^NfkhV(Ï‘mNo‚ ƒNPŸ0w–NwýV¶RuµN¶rµQ„vn9e„UÿbìN	gýw›R(WN`HNmc2O:g¨R„vÅ`µQNÙuþVpQ‰‘šuQÅˆNôf R	gHe„vÔv2uÿŒTôf•)R„vfkhV0"
+   iranian_cavalry_14_2DESCR:0 "(W15-16NªuÿeY¯eüfW3wvQºNÎN‰¹efR`N0R„vkphV1SVËYnnOg0Og0W:S„vT*NfkÅˆmNnVËYVÛkpªgÿv^SÕ‹SvQN‘šuQ„vØš:g¨R'`ÓuT0"
+   iranian_cavalry_17_1DESCR:0 "RÅˆkpªg„vûQÑSÅˆnÏu†S†N1ukpóuûQÑS0RçqówidædûQÑS„vÇz0ùRŽNOgºNegô‹ÿ‹†6qÛUSbaÿFO=fùRkpªguQ„v9eÛmN(WnÛLˆ09eo‚T„vOgkpªg‘šuQôf‹Y0W”^†Nb‰N„v—‰0"
+   iranian_cavalry_17_2DESCR:0 "OgWSè„v|TWÊsºN8^t^YŽN—bûQpS¦^ºNŒTz¥SºN„vjOb,rN¿u0ÖNìN„v‘šuQupIm'`:VÿSVÖNìNz6qúQ°s(WLeºN„vµOüuó=fÌwTöeÿI`ýwÙuÖNìNaó`N0R„vÊ`œUÿ–KNweg„v1S=f‚Yno4l,‚„v'Yƒn%0"
+   iranian_cavalry_23_1DESCR:0 "ÅˆY†NôfHQÛkpªg„v|TWÊsz­ˆ‘šuQýwYÎNôfÜYÙuˆNLeºNëXlŒTb—e›R„vÍ‘'YSbûQ0v^NÁ‰¿RN™YmNýw(WNôv¥c¥cLe„vÅ`µQN²dúQb:W0ÙO—VvQ„vb—e›RÛNekÐcGS0"
+   iranian_cavalry_23_2DESCR:0 "8^t^uIm(WqS0W„v?–ÌRWlºNùRŽNYBg0WbV	gNwêñTìr0R„vÁ‰ã‰0ÅˆY†NÑn›ªg„v?–ÌRWl™Ÿ‘šuQýwY(WLeºNaó`N0R„v0W¹eNlšVkpÿ–Tˆm1Y„vàeqVàe*Ž0"
+   iranian_cavalry_26_1DESCR:0 "éeg™Ÿ‘šuQŽVŽVêS=fŽrUS„v©‹kpªgKbýwYÛLˆNlšûy¨R0–NwöeãN„vÛekÿ?–ÌRWl™Ÿ‘šuQVËYÑSUSúQêñT„vìr	gÅˆYÿ™Ÿ‘šuQjO:NN*NìrËzuQÍyôf RbŸq0"
+   iranian_cavalry_26_2DESCR:0 "(W¿uRb=gn(WOgVËYbŸqTÿOgºNVËYû|ßu'`ùW‰Q‰‘šuQåN”^ùRb‰N„v—‰0OgiOR‘šuQ1S=fvQ-N„vxQ‹WKNN0%c‚Nw'YR„vOgiOR‘šuQýw©‹ùR¹e„v¿uR¹e5–ÃVÊ`ÆwÒR0"
+   iranian_cavalry_28_1DESCR:0 "ÏuÇNšR9eo‚„vOgiOR‘šuQVËYÅˆYôfY‰¹e.OeQ„v š‘šuQÅˆYÿ‚Y š‘šuQ8^Á‰„v9YKQIr0v^NÇ°sãNS­‹ÃuÿOgiOR‘šuQ„vùW‰QmNnhÆQSÿAmzS0"
+   iranian_cavalry_28_2DESCR:0 "–NwOg¢”Á”µNÏ‘„vnÐcØšÿ.÷NØšf„vøw2u‘šuQmNVËY(WOg‘šuQ–O-NúQ°s0ïSåNô‹ÿ¿uRöeãN„vOg‘šuQwckÑSUSúQ†N°e„vØš¦^0"
+
+    #ekuQ
+   iranian_infantry_1_1:0 "Og²QûQekuQ"
+   iranian_infantry_1_2:0 "OgqS0WekuQ"
+   iranian_infantry_5_1:0 "|TWÊs•VKb"
+   iranian_infantry_5_2:0 "“^S·V²Q•ekuQ"
+   iranian_infantry_9_1:0 "9eo‚“^S·V²Q•ekuQ"
+   iranian_infantry_9_2:0 "OgkpóuªgKb"
+   iranian_infantry_12_1:0 "OgkpªguQ"
+   iranian_infantry_15_1:0 "Og¹e5–ekuQ"
+   iranian_infantry_18_1:0 "9eo‚Og¹e5–ekuQ"
+   iranian_infantry_18_2:0 "OgÑn›ªgekuQ"
+   iranian_infantry_22_1:0 "9eo‚OgÑn›ªgekuQ"
+   iranian_infantry_22_2:0 "|TWÊs¹2–ekuQ"
+   iranian_infantry_26_1:0 "9eo‚|TWÊs¹2–ekuQ"
+   iranian_infantry_26_2:0 "?–^XÜb†u8nûQekuQ"
+   iranian_infantry_28_1:0 "9eo‚?–^XÜb†u8nûQekuQ"
+   iranian_infantry_28_2:0 "Og°e›QekuQ"
+   iranian_infantry_30_1:0 "9eo‚Og°e›QekuQ"
+   iranian_infantry_30_2:0 "?–ÌRWlsuQ"
+   iranian_infantry_30_3:0 "Og÷mT–ekuQ"
+   iranian_infantry_1_1DESCR:0 "ÅˆY†N•ªg„vOg²QûQekuQNPŸ²Q•ÿŽVŽVýwY	gHe„vùRLe¹eÛLˆSbûQ0Õkßz¡l	gºNOœU0kb—ùRNw‚Y:R,sN,‚„vÿ’cqSPwm„vLe›QgêñT²Qeg0"
+   iranian_infantry_1_2DESCR:0 "OgØšŸSåNÊShT¹„v?–^XÜb†uÿ?–ÌRWlIr0W:S0WbVT–SÿqSï?‡‡0àVdkqS0WekuQ=fOgéegekuQ„vÍ‘‰ÄubèR0ÖNìNýwYúWŽNYBg„v0WbVÿÙuˆNLeºNaó`N0R„vSbûQ0"
+   iranian_infantry_5_1DESCR:0 "|TWÊs0W:S„vESl8^8^—‰ÇSbseg·ƒÖSêñT„våe8^n™ß˜ÿÙmN©‹SV0WºNÃu1S†N¾|in„vV­rŽb=g0|TWÊs„vV­rKbŒvekzhgÿýwY(WCSÌ‘KNYÙuLeºNåNP``„vSbûQ0"
+   iranian_infantry_5_2DESCR:0 "“^S·VºN=fOgƒX…Q„v8ngrèK„0ÛVwm:N¶R„vÖNìN	gNw:V'Y„vb—ea×VŒTëXl0SV“^S·V²Q•ekuQÑSw²Q•ÿIQ=fÖNìN„vëSŠUðX1Sýw©‹Le›QÆwbÃVÊ`0"
+   iranian_infantry_9_1DESCR:0 ".Oßu“^S·V8ngrè–‹†6qëXlØšfÿFO=fŽVŽV:ONo‚‹Y„vÅˆYŒTßuN„vÄuÇu0ÏuÇùR“^S·V²Q•ekuQ„vÅˆYbcÅˆŒT­‹ÃuÿbìN„v›Q–ýwY	gôf:V„vb—e›R0"
+   iranian_infantry_9_2DESCR:0 "óß(W16NªuéegÿOg1SòTÏuúQ°s†N«ˆðy:NXb¹eGY„vkpóuªguQ0jO:N•bSfkhV„vNÍyˆV‹Y„veˆEQÿOgkpóuªguQýwYz²b2uÿåNNÍy^—.Oßu„v¹eVZÁw.Oßu›Q–0"
+   iranian_infantry_12_1DESCR:0 "16NªuZfg0R17NªuéegÿOgnú^ËzwNWYbŸq„v8^Y›QSOû|0RÅˆ„vkpªgKbmN(WvQ-N0Ù›NkpªgKbŽVŽV(WœQl-NÛbßRÿÏuÇ­‹ÃuTýwYR5–v^ÛLˆSûQ0"
+   iranian_infantry_15_1DESCR:0 "(WOg8^Y›Qú^ËzTÿOgºNSÕ‹ôf R	gHe„vÄuÇuekuQÄuÇuYBg„v¹e5–ÛLˆb—e0PŸtew	gÄuÇu„v¹e5–ýwY	gHe2–bk›Q–ƒnÿv^NžX:VvQteSOb—e›R0"
+   iranian_infantry_18_1DESCR:0 "OgºNSÕ‹SkpóuªgeQ¹e5–TÿúQNNa™e'Y×SbŸR0ÇkpªgŒT•ªg„v÷mÿ¹e5–ýwY·ƒ—V	gHe„vÜzSbûQýw›RÿTöeýwYÝOÁ‹kpªgKbN«ˆÑÝ»y­ˆûQ0"
+   iranian_infantry_18_2DESCR:0 "(WçqówûQÑSÅˆn.OeQOgTÿkpóuªg«ˆˆVëVÖSãN0çqÑSªg„vƒØšSÿƒS„vßpSÿåNÊSNO(WYZf´f2—ê«Ž„vyr'`ÅOvQb:NINAm0Og¹e5–-Nkpªg„vÔk‹OnNGSÿ•ªg„vÔk‹OnÏQS0"
+   iranian_infantry_22_1DESCR:0 ":RR.OeQOgTÿÑn›ªguQckV1»y†N•ÛwuQ„vÝO²bÿb:NN=eïSåNìrËzjOb„vuQÍy0Ç’cbÆRÆ–„v¿uRÿkpªguQýwY(WÝOÁ‹:V'Ykp›R„vúWNxNÍN	gùR²QûQ„v	gHeµb—býw›R0"
+   iranian_infantry_22_2DESCR:0 "Og„vekuQSOû|(W17Nªu9ei—TnbŸq0|TWÊs„v¹2–›QjO:NOg¹†u„vˆRkSè–ÿ•gÅbNwùRpS¦^„v2–kSåTjO0SV0Wè–„vjObÏuŒš0NÌRÿýw	gHeùRLe›QbVbSbûQ0"
+   iranian_infantry_26_1DESCR:0 "VeQ†NHQÛÑn›ªg„v|TWÊs¹2–ekuQùRŽNegêN¹e„vLeºNýwYµNuôf:V'Y„vkp›RSbûQÿTöeÝOÁ‹êñTùR‘šuQ„v2–²býw›R0"
+   iranian_infantry_26_2DESCR:0 "Og(WÑn›ªgöeãN„vÛvgÿVËYùW‰QêñT„vceuQè–0?–^XÜb†uºNlÎNS¾|ŽNV­rÿÎNÖNìNKN-NËbÖSëXRSÛLˆ­‹ÃuÿýwYw0RŒvekzhg„vGYHe0"
+   iranian_infantry_28_1DESCR:0 "ceuQgRêS=fÎNnfÑn›ªguQ-N	úQ„v^ySKb0w–Nw›Q‹NÅˆY„vÑSUSÿN(u„vceuQÅˆYn‰vN†SòS‚ðS0?–ÌRWl8nûQekuQýwYôf‹Y„vÎNÜYSbûQLeºN0"
+   iranian_infantry_28_2DESCR:0 "¿u›ªg„vÑSUSOOgnZiaÆ‹0RêñT›Q‹N„vK„T0Og°e›Q'YÏ‘Ç‘(u†N†N¿u›ªgRÅˆÿvQ¾|¦^ŒTSûQÝ»yÔk.OßuÑn›ªgÐcØš†NpeP0"
+   iranian_infantry_30_1DESCR:0 "éeg¿u›ªg	g%NÍ‘„vÅˆkXî•˜˜ÿSKbuó—‰SPR9VreeQªg›-N0s|<S9V.OeQOgTÿÙ*Nî•˜˜«ˆˆV‹Y„vã‰³Qÿekªg„vSàVdk	g†Ng'YÐcGS0"
+   iranian_infantry_30_2DESCR:0 "?–ÌRWlsuQ(WÅˆYN†Ng°e„v¿u›ªgTÿSÝÐcGSf>f0ÖNìN„vceuQb=gýwYôf‹Y„vÙuˆNLeºNaó`N0R„vSbûQ0"
+   iranian_infantry_30_3DESCR:0 "Tÿb4xÑNöeãNTÿOgVËYRÅˆ÷mekuQ0ÇNTuQÍy„v÷mÿýwYˆV‹Y„vã‰³QÑÜÝ»ykp›R„v.k:î•˜˜ÿÐcØš¿uRekuQ„vb—eýw›R0"
+
+
+#lš<hÌ‘^
+   EDG_Maghreb_groups:0 "lš<hÌ‘^"
+    #‘šuQ
+   maghreb_cavalry_1_1:0 "ÏgÏgSÇ–cO‘šuQ"
+   maghreb_cavalry_1_2:0 "idSV‘šuQ"
+   maghreb_cavalry_6_1:0 "WS¹ewQÅˆ‘šuQ"
+   maghreb_cavalry_10_1:0 "pgþV‘šëXâV"
+   maghreb_cavalry_10_2:0 "lš<hÌ‘^ š‘šuQ"
+   maghreb_cavalry_14_1:0 "^yrW¯e‘šuQ"
+   maghreb_cavalry_14_2:0 "?–Éb=O²QûQ‘šuQ"
+   maghreb_cavalry_17_1:0 ">›sk‘šuQâV"
+   maghreb_cavalry_17_2:0 "ÏgÏgS²QûQ‘šuQ"
+   maghreb_cavalry_23_1:0 "ÏgÏgS™Ÿ‘šuQ"
+   maghreb_cavalry_26_1:0 "9eo‚ÏgÏgS™Ÿ‘šuQ"
+   maghreb_cavalry_28_1:0 "ÏgÏgSøw2u‘šuQ"
+    #ekuQ
+   maghreb_infantry_1_1:0 "ASWR›Q•bekuQ"
+   maghreb_infantry_1_2:0 "idS¯eÑyekuQ"
+   maghreb_infantry_5_1:0 "?–OnfY¯e•VKb"
+   maghreb_infantry_5_2:0 "‰‰Ì‘cOuQ"
+   maghreb_infantry_9_1:0 "ÑynfyrkpªguQâV"
+   maghreb_infantry_9_2:0 "ÉbNYM|uQâV"
+   maghreb_infantry_12_1:0 "FzSÑkS›QâV"
+   maghreb_infantry_15_1:0 "‰ísYr¹e5–uQâV"
+   maghreb_infantry_18_1:0 "?–SÊSSkpªgekuQ"
+   maghreb_infantry_18_2:0 "ÉbNYM|uQâV"
+   maghreb_infantry_23_1:0 "idmåT¿uRekuQ"
+   maghreb_infantry_23_2:0 "þV?–÷–<huQâV"
+   maghreb_infantry_26_1:0 "‹vcˆuQâV"
+   maghreb_infantry_28_1:0 "‹vcˆ8nûQ›Q"
+   maghreb_infantry_28_2:0 "lš<hÌ‘^°e›Q"
+   maghreb_infantry_30_1:0 "‹vcˆegYªguQâV"
+   maghreb_infantry_30_2:0 "lš<hÌ‘^¹e5–›QâV"
+
+Maghreb_infantry_1_1DESCR:0 "éeg„vÏgÏgSºN>y:S„vÍS—b›RÏ‘Ôkƒ:V'YÿàVdkvQIN‰‰š›QŒTb—eUSMO:NASWR›Q0vQ-Ng:N	gT„v1S=fASWR›Q•bekuQÿÖNìN„v•býwöQs0WˆRVLeºN„v4Y…˜ÿÙuÖNìNåN—Qa0"
+Maghreb_infantry_5_2DESCR:0 "‰‰Ì‘cOuQ(W-NNªuöeû•TŽNNÿb=fô‹ÿ	c?–Éb=OºN„vô‹ÕlÿíT-fW„0éeg„vS^—úWcw’V>y:SÏu8^Ç–cO4NÑ„v‰‰Ì‘cOuQÿåNYt»l‰Rî•˜˜ŒTÛLˆjOb0"
+Maghreb_infantry_9_1DESCR:0 "ÃWÊSÑynfyrºN=f^—2m:NpeNY(WO¯epQYeTwTO6qáOðNúWcwYe„v²SO0mN=fSpeŒcác†NéewkpªgŽb=g„v²SO0ÇùRÖNìN„vÇ–cOÿS^—úWcwYe?eCg„vb—e›R—V0R†Ng'YžX:V0"
+Maghreb_infantry_9_2DESCR:0 "(WéegÏgÏgSºNØôucŸS	g„vèK„ßu»lÿè–:ON­‹Ãu„vÅ`µQNÿYM|ekuQ=fÏgÏgSúWcwYe?eCg›Q‹N›RÏ‘„vN*NIN‰egn0‹†6qÖNìN÷N<hf5ÿFO=fÖNìNÿb±”žR‹NÿwNb—e›RØšf0"
+Maghreb_infantry_12_1DESCR:0 "FzSuQâV=fidS¯eÑyýV‹sg:N¾|•„v›QâVÿÖNìNÎNOÔk)RšN0W:S„vFzNbVjS>máO’V-NVßRÿê|^¥c×Sg:N%N<h„v­‹Ãuÿ³åN9SLeÏgÏgSºN„vÇ–cO›Q0"
+Maghreb_infantry_15_1DESCR:0 "‰ísYr'Y¹e5–(W'k2mT0WjObTÿ>NNû•T0OÔk)RšNŒTS^—„vidSºNŒTÏgÏgSºN?eCgê6q=fÑ4l|iðSHQ—VgÿýwYÿNgq‰ísYr„v¹eVVÑSúQêñT„vqSèRHr¹e5–0"
+Maghreb_infantry_18_1DESCR:0 "–Nwkpªgè–(W'k2m„vImÃÿS^—ºNmNVËYO(uwÙÍy°sãN¾‹Y0vQ-N¹råN?–SÊSSºN:Ng01uŽNÖNìN„v)Y6qo‚=nÿÖNìNýwYôf‹Y0W¥cæ‰HQÛÑyŽbÿÎNwŒcácƒY„vkpªgŽb=g0"
+Maghreb_infantry_18_2DESCR:0 "(WéegÏgÏgSºNØôucŸS	g„vèK„ßu»lÿè–:ON­‹Ãu„vÅ`µQNÿYM|ekuQ=fÏgÏgSúWcwYe?eCg›Q‹N›RÏ‘„vN*NIN‰egn0‹†6qÖNìN÷N<hf5ÿFO=fÖNìNÿb±”žR‹NÿwNb—e›RØšf0"
+Maghreb_infantry_23_1DESCR:0 "¿uRekuQ(W17Nªunb:N'k2m›Q‹NjOb„vINAm0idmåTºN4NÑOÔk)RšNÿvQmNÑSUSúQ†NØš¦^ÑS¾„v¿uRekuQ„vb=g0idmåT¿uRekuQèO6qb:NS^—N=e:V²R„v›RÏ‘0"
+Maghreb_infantry_23_2DESCR:0 "þV?–÷–<hgR=fidS¯eÑy„vNT›Q˜RÿT(WÑynfyr‹sýVKfGS:NS›QÿÖN„UŽNÓuTwQ	g:g¨R'`„v‰‘šuQè–N­‹Ãu	g.t„vekuQ›QâVNbwQ	g„vO¿RÿVR†N°e‹W„v¹e5–b=g0"
+Maghreb_infantry_26_1DESCR:0 ":N†Nµb!clš<hÌ‘^óÃWÊSŒT?–Éb=O0W:S:VÈp„v3–IQÿSV0WºN8^8^åN‹vcˆN‹viˆjO:NgOÿÙ¿Ob:NSV0W‰ekuQ›QâV„vãNTÍ‹0"
+Maghreb_infantry_28_1DESCR:0 "‹vcˆuQâV(WbËzKNTÿn9eØSŸS	gb=gÿVËY)R(u™l.oŒTñe0W„v	g)R0WbVÛLˆ8nûQb‰NIm¨R0‹vcˆ8nûQ›Qb:NOÔk)RšNŒTS^—N¡w^yúQ<›¡l„v›RÏ‘0"
+Maghreb_infantry_28_2DESCR:0 "lš<hÌ‘^Sú^IN:N†NvNÑãNS„vnoAmÿú^Ëz†N'kV›Q–°e›Q0ÙÍy›Q–åN'k2m¹eVÛLˆ­‹Ãuÿv^O(uHQÛ„vfkhVÿÙ=eè–(WS^—ðXTÜ­d0"
+Maghreb_infantry_30_1DESCR:0 "(W‹vcˆuQâVÇ‘ÖS†N8nûQb=gTÿÍN6q	gekªgSÇbaÿ¾|¦^ƒNO„vî•˜˜0FO=f–NwegYªg„vVeQÿNRýÎRwã‰0egYªgØš¾|¦^„vSûQïSåN(WàQŒvs|Y‰Œgr^‰cLeºN0"
+Maghreb_infantry_30_2DESCR:0 "(Wlš<hÌ‘^°e›Qú^ËzKNTÿlš<hÌ‘^Sú^INib'Y†N°sãNS9ei—„vè–0lš<hÌ‘^¹e5–›QâVàVdkú^ËzwegÿYuQÍy„vTwTjObOvQb—e›RëVÐcGS0"
+
+
+Maghreb_cavalry_1_1DESCR:0 "–Nw)YINYeùROÔk)RšNŒTS^—„vnÿ)YINYeÛvLˆ„vÇ–cO›Q‡eSmN.OeQSV0W0S^—„vÏgÏgSºNùR™l.ojObASRŸq‰`ÿ^yúQ<›¡lÿ'YÏ‘†š|š‘šKbVËY:N)YINYe¿R›REQSVÇ–cO›Q0"
+Maghreb_cavalry_1_2DESCR:0 "–Nw'YÏ‘idSºNùRúWcwYe„vRVD–ÿÖNìN„v‘šuQè–×S0ROÔk)RšNSú^IN„v'YÏ‘O(u0ÙÍyidSV‘šuQåNvQìryr„v‘šSŽbz‚Á‰•ÿýwYˆV‹Y0WeˆEQ)YINYe›Q–:g¨RUSMO„vN³0"
+Maghreb_cavalry_6_1DESCR:0 "wQÅˆ‘šuQjO:N'k2m-NNªub‰NÑSUS0Rgô„vµNirÿ‰óOÔk)RšNÿNóâlpQàQNNýASRÛvLˆ0ÙÍyÅˆY–Nw)YINYe„v.OeQ«ˆNv^&^0R†NS^—úWcw’V>y:SÿS^—Sú^INmNVËYÅˆYÙ‰|f5„vÅˆY0"
+Maghreb_cavalry_10_1DESCR:0 "pgþV=fa'Y)Rí‹-NŽ‰s(W?–Éb=Oí‹-N„vó—Ñ‹0–NwS^—úWcwYe„v^Ûl.O­dÿN*N°e„v‘šëXâVpgþV‘šëXâV«ˆú^ËzwegÿåN6e³uÂríp„vÏgÏgSºNYeOÂSN›Q‹NLˆ¨R0"
+Maghreb_cavalry_10_2DESCR:0 "lš<hÌ‘^ºN•g(W™l.o-NuXR0ÎNlš<hÌ‘^ÛbßR„v š‘šuQ^yúQ<›¡lÿÖNìNÂa—V‚YUON™l.oSb²NSÿN™l.o-N„vLeºNSb²NS0‚YN5–Î˜9TÇÿÖNìN„vlšR1SòTÏu0R¾LeºN„vˆ˜0"
+Maghreb_cavalry_14_1DESCR:0 "^yrW¯e=fidS¯eÑy‹sýV(WASmQNªu+gg:NOÀy„vS†˜KNNÿÖN­‹Ãu†NN=e¾|•„vkpªg‘šuQÿv^SvQ•beQb:Wÿ·ƒ—V†NN×O„vbéu0"
+Maghreb_cavalry_14_2DESCR:0 ".Oßu„v?–Éb=O‘šuQYM‘YlšRÿÇ‘(uÑb‘šuQ„v8nûQjOb¹eV0ÙÍyŒgce–bVb—ùR‰ekuQŽrUS	gHeÿFO=fùRekuQ¹e5–6eHeu®V0ÇSvQÄu:N²QûQ‘šuQÿÇ‘(u'k2m„vb=gÿýwYôf‹Y0WO?–Éb=O‘šuQÑS%cúQ›RÏ‘0"
+Maghreb_cavalry_17_1DESCR:0 ">›sk=fNTÏgÏgSºNS†˜ÿÖN:N‘šuQâVM‘Y°e‹W„vkpªgÿv^Ç‘(uÞVËeb=gÿO—V‘šuQôf R”^°eöeãN„vb‰N0"
+Maghreb_cavalry_17_2DESCR:0 "ÏgÏgSºNjO:NS^—„vIN‰²SOÿ8^t^¿l8ngruIm0SÙ›N8ngrè–Æ–-NÄuÇuwegÿÛLˆ­‹ÃuÿbVbo‚‹Y„v–ÿâeýwYÑS%cvQùR‘š=g„vŒcácÿmNýwYÑS%cvQªu‹V'`0"
+Maghreb_cavalry_23_1DESCR:0 "™Ÿ‘šuQ=fNÍyM‘Y†Nkpªg„v‘šuQÿÖNìN8^:g¨RLˆÛóîvh0W¹pÿQNlšjOb0ÙÍyHQÛ„vb=gÎN'k2m.OeQ0RS^—Tÿ«ˆÏgÏgSºNnÇ‘(uÿÏgÏgS™Ÿ‘šuQnb:N?–Éb=OÑãN‘šuQ„vãNhˆ0"
+Maghreb_cavalry_26_1DESCR:0 "éeg„v™Ÿ‘šuQN,‚M‘YNekuQN7h•íw„v•ªgÿÙÍyM‘YN)RŽNlšN„vLˆÛjOb0–NwùRªg¡r„v)íwŒT™Ÿ‘šuQN(u¾‹Y„vxÑSÿÏgÏgS™Ÿ‘šuQ„vb—e›R'Y'YžX:V0"
+Maghreb_cavalry_28_1DESCR:0 "øw2u‘šuQjO:NNÍyÍ‘‘šuQýwYˆV‹Y0WReQkpªg¹e5–ÿ.b5–‹WceqNŒTëXl„vSbûQ0–NwS¹eúWcwYe’VÑSUSúQÙ7h„vb=gÿÏgÏgSºNê6qmNNöeñOÛÿ	g†NêñT„vøw2u‘šuQ0"
+
+
+infantry:0 "ekuQ"
+INFANTRY:0 "ekuQ"

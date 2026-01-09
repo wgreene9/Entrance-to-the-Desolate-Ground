@@ -1,0 +1,9 @@
+bookmark = {
+	name = EDG_FOI_BOOKMARK
+	desc = EDG_FOI_BOOKMARK_DESC
+	date = 1444.11.11
+
+	country = BDH
+	country = CAT
+	country = ASU
+}

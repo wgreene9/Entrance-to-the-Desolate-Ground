@@ -1,0 +1,301 @@
+﻿l_english:
+#波斯统一战争
+EDG_WG_superiority_PER_unification:0 "âl¯eßuNb‰N"
+EDG_WG_superiority_PER_unification_desc:0 "bìN„vîvh/fUS°s8—CgÿžR°sâl¯e0W:S„vßuN0"
+EDG_WG_PER_unification_prov_desc:0 "Nb	g^SŽN§Yâl¯e§!ŒT§Y|TWÊs§!0W:Sb^SŽN§YOg§!‡eSÄu„vwýN"
+
+cb_EDG_WG_superiority_PER_unification:0 "§Yâl¯eßuNb‰N§!"
+cb_EDG_WG_superiority_PER_unification_desc:0 "bìN/f«ˆˆcˆNßuNâl¯eO‹T„výV¶R0"
+
+#波斯争霸战争
+EDG_WG_superiority_PER_war:0 "âl¯e‰N8—b‰N"
+EDG_WG_superiority_PER_war_desc:0 "bìN„vîvh/fUS°s8—Cgÿ|Qv^vQÖN„vâl¯eýV¶R0"
+
+cb_EDG_WG_superiority_PER_war:0 "§Yâl¯e‰N8—b‰N§!"
+cb_EDG_WG_superiority_PER_war_desc:0 "bìNS	gCgùRvQÖNâl¯eýV¶RÑS¨R‰N8—b‰N0"
+
+cb_EDG_WG_superiority_PER_war_enable_flag_tt:0 "bìNS/T(ub‰NPãS§Yâl¯e‰N8—b‰N§!\n-å‹b‰NPãSAQ¸‹bìN0tÖSNb	g^SŽN§Yâl¯e§!ŒT§Y|TWÊs§!0W:Sb^SŽN§YOg§!‡eSÄu„vwýN\n-å‹b‰NPãSÅN(W§YOgQßuNb‰N§!òTÏuV/TNS*gÓumg„vÅ`µQNýwYO(u"
+
+#游牧入侵伊朗
+EDG_horde_to_iranian:0 "eQµOOg"
+EDG_horde_to_iranian_desc:0 "8ngr^ýV„vÁ”DŽSŽŽxOg0"
+
+cb_EDG_horde_to_iranian:0 "§YeQµOOg§!"
+cb_EDG_horde_to_iranian_desc:0 "bìNSïSåNùROgýV¶RÑS¨RµOeub‰N0"
+
+#伊玛目吉哈德
+
+EDG_WG_superiority_ARL_Imam_Jihad:0 "§YO›sîv	TÈT·V§!"
+EDG_WG_superiority_ARL_Imam_Jihad_desc:0 "bìN/f?–Ì‘„vçubwÿbìNSjO:NO›sîvÑS¨RO'Y„v	TÈT·V0"
+
+
+cb_EDG_WG_superiority_ARL_Imam_Jihad:0 "§YO›sîv	TÈT·V§!"
+cb_EDG_WG_superiority_ARL_Imam_Jihad_desc:0 "jO:N?–Ì‘„vçubwÿbìNïSåNTÖNìNÑS¨RO'Y„v	TÈT·V0"
+
+
+#帝国敕令
+EDG_WG_Imperial_edict_country_desc:0 "âl¯eßuNb‰N"
+EDG_WG_Imperial_edict_war_name:0 "Ï‹¨‹"
+EDG_WG_Imperial_edict_desc:0 "S«ˆ)YPRNÏ‹V¨‹„výV¶R‰V•^7Ympÿ©‹vQNYXR(WŽNðR:S0"
+cb_EDG_Imperial_edict:0 "Ï‹¨‹"
+cb_EDG_Imperial_edict_desc:0 "IY)YPRfÏ‹ÿ¨‹NãKN<"
+EDG_Imperial_edict_desc:0 "O«ˆÏ‹¨‹ýV¶RNXR(W"
+
+#统一伊比利亚
+
+EDG_WG_superiority_IBR_unification_outside:0 "OÔk)RšN—RYeb‰N"
+EDG_WG_superiority_IBR_unification_outside_desc:0 "bìN„vîvh/fUS°s8—CgÿžR°sOÔk)RšN„vßuN0"
+EDG_WG_superiority_IBR_unification_outside_prov_desc:0 "Nb	g^SŽN§YOÔk)RšN§!0W:Sb^SŽN§YOÔk)RšN§!‡eSÄu„vwýN"
+
+cb_EDG_WG_superiority_IBR_unification_outside:0 "§YOÔk)RšN—RYeb‰N§!"
+cb_EDG_WG_superiority_IBR_unification_outside_desc:0 "SV§Y0OÔk)RšN·u‰N0§!YŽN§Y0²Qz0§!ŒT§Y0&q|p0§!¶r`öeÿbìNïSåNùRLeºNÑS¨RßuNb‰N0"
+
+
+EDG_WG_superiority_IBR_unification:0 "OÔk)RšN—RYeb‰N"
+EDG_WG_superiority_IBR_unification_desc:0 "bìN„vîvh/fUS°s8—CgÿžR°sOÔk)RšN„vßuN0"
+EDG_WG_superiority_IBR_unification_prov_desc:0 "Nb	g^SŽN§YOÔk)RšN§!0W:Sb^SŽN§YOÔk)RšN§!‡eSÄu„vwýN"
+
+cb_EDG_WG_superiority_IBR_unification:0 "§YOÔk)RšN—RYeb‰N§!"
+cb_EDG_WG_superiority_IBR_unification_desc:0 "SV§Y0OÔk)RšN·u‰N0§!YŽN§Y0²Qz0§!ŒT§Y0&q|p0§!¶r`öeÿbìNïSåNùRLeºNÑS¨RßuNb‰N0"
+
+#斯摩棱斯克革命
+EDG_WG_Liberation_SMO:0 "œQlã‰>eb‰N"
+EDG_WG_Liberation_SMO_desc:0 "bìNSOSbìN„vTÞwÎNSú^‹SëKNNã‰>eúQeg0"
+
+cb_EDG_WG_Liberation_SMO:0 "œQlã‰>eb‰N"
+cb_EDG_WG_Liberation_SMO_desc:0 "bìN„vîvh/fUS°s8—Cgÿ“úQœQli—‹T0"
+
+#统一罗斯民族
+EDG_russian_Unification_War_tooltip:0 "ã‰•§YßuNW¯elÏe§!±RbPãSÿïSåN0tÖSNb	g^SŽN§Yœ^X<SšN§!ÿ§YÄOW¯e§!ŒT§YLNÉbS§!0W:Sb^SŽN§YN¯eÉb+Y§!‡eSÄu„vwýN"
+
+EDG_WG_superiority_RUS_unification:0 "§YW¯elÏeßuNb‰N§!"
+EDG_WG_superiority_RUS_unification_desc:0 "bìN„vîvh/fUS°s8—CgÿŒRbßuNW¯elÏe„vîX>N0"
+EDG_WG_superiority_RUS_unification_prov_desc:0 "Nb	g^SŽN§Yœ^X<SšN§!ÿ§YÄOW¯e§!ŒT§YLNÉbS§!0W:Sb^SŽN§YN¯eÉb+Y§!‡eSÄu„vwýN"
+
+cb_EDG_WG_superiority_RUS_unification:0 "§YW¯elÏeßuNb‰N§!"
+cb_EDG_WG_superiority_RUS_unification_desc:0 "bìN/f«ˆˆcˆNßuNW¯elÏeO‹T„výV¶R0"
+
+
+#意大利战争
+
+EDG_WG_superiority_ITA_war:0 "§Ya'Y)Rb‰N§!"
+EDG_WG_superiority_ITA_war_desc:0 "a'Y)Rb‰N:Nø‹ýV&^eg†N÷mqNNŒp¾–ÿwbìNSÈuÓua'Y)RRÂˆ„v°s¶r0"
+EDG_WG_superiority_ITA_war_prov_desc:0 "Nb	g^SŽN§Ya'Y)R§!0W:Sb^SŽN§YÉbN§!‡eSÄu„vwýN"
+
+cb_EDG_WG_superiority_ITA_war:0 "§Ya'Y)Rb‰N§!"
+cb_EDG_WG_superiority_ITA_war_desc:0 "bìNSÈuÓua'Y)Rb‰N0"
+
+
+#神圣罗马入侵
+
+EDG_WG_superiority_Holy_Roman_Invasion:0 "§Y^y#WWlšeQµO§!"
+EDG_WG_superiority_Holy_Roman_Invasion_desc:0 "bìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+
+cb_EDG_WG_superiority_Holy_Roman_Invasion:0 "§Y^y#WWlšeQµO§!"
+cb_EDG_WG_superiority_Holy_Roman_Invasion_desc:0 "bìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+
+EDG_WG_superiority_Holy_Roman_Invasion_france_flag_tt:0 "ã‰•ˆ”ùR§YÕlpQ‰§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_iberia_flag_tt:0 "ã‰•ˆ”ùR§YOÔk)RšN§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_poland_flag_tt:0 "ã‰•ˆ”ùR§YâlpQ§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_Balkan_flag_tt:0 "ã‰•ˆ”ùR§YôTSr^§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_Ruthenian_flag_tt:0 "ã‰•ˆ”ùR§Yœ^X<SšN§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_Baltica_flag_tt:0 "ã‰•ˆ”ùR§YâlW„v§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_Britain_flag_tt:0 "ã‰•ˆ”ùR§YNR ˜§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_Scandinavia_flag_tt:0 "ã‰•ˆ”ùR§Y¯e*X„v³uôušN§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_Russia_flag_tt:0 "ã‰•ˆ”ùR§YÄOW¯e§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_Italy_flag_tt:0 "ã‰•ˆ”ùR§Ya'Y)R§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_Netherlands_flag_tt:0 "ã‰•ˆ”ùR§Y<S·VpQ§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+EDG_WG_superiority_Holy_Roman_Invasion_Anatolia_flag_tt:0 "ã‰•ˆ”ùR§Y‰R³uXb)RšN§!0W:SwýN„v§Y^y#WWlšeQµO§!±Rbt1uÿbìNSïSåNùR^—^ýVbXTVUSeQµOÿ¢wã‰ÖNìNv^SÕ‹SÊ‘>eúQ„výV¶RŽ÷‹eQ^y#WWlš^ýV0"
+
+
+
+#帝国禁令
+
+EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war:0 "§Y^ýVyäN§!"
+EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war_desc:0 "ÖNìN«ˆ‡v^Ëe R†N^ýVyäNÿjO:N^y#WWlš^ýVø‹¯OÿbìNïSåNTÕl0WeQµOÖNìNÿ:YÖSÖNìN„vwýNb¢wã‰ÖNìN0"
+
+
+cb_EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war:0 "§Y^ýVyäN§!"
+cb_EDG_WG_superiority_Holy_Roman_Imperial_Prohibition_war_desc:0 "ÖNìN«ˆ‡v^Ëe R†N^ýVyäNÿjO:N^y#WWlš^ýVø‹¯OÿbìNïSåNTÕl0WeQµOÖNìNÿ:YÖSÖNìN„vwýNb¢wã‰ÖNìN0"
+
+
+
+#马赫迪救世
+
+EDG_WG_superiority_Mahdi_invasion:0 "§YlškêQeN§!"
+EDG_WG_superiority_Mahdi_invasion_desc:0 "bìN/f‰RÉbìrNwÿ/fFzæt^·Vÿ/f‰RÉb(WºNô•„v)RRÿbìNS(Wlškê„v†˜üRNïbQete*NN×ONLu0"
+
+cb_EDG_WG_superiority_Mahdi_invasion:0 "§YlškêQeN§!"
+cb_EDG_WG_superiority_Mahdi_invasion_desc:0 "d–‰RÉbYÿ+Ràe^yupÿwlškêSïbQeOu0"
+
+#驱逐突厥人
+EDG_allow_Expel_Turks_cb_enable_flag_tt:0 "/T(ub‰Nt1u 0§Yqšz¥SºN§!0"
+EDG_WG_superiority_Expel_Turks_war:0 "§Yqšz¥SºN§!"
+EDG_WG_superiority_Expel_Turks_war_desc:0 "z¥SºN:N^ýVŒTúWcw’V&^eg†N÷mqNNŒp¾–ÿwbìNSÈuÓuz¥SºNÛlånbŒp„v°s¶r0"
+
+cb_EDG_WG_superiority_Expel_Turks_war:0 "§Yqšz¥SºN§!"
+cb_EDG_WG_superiority_Expel_Turks_war_desc:0 "bìNSqšôTSr^ŒT‰R³uXb)RšNåNÊSvQÖN0W:S„vNb	gz¥SºN0"
+
+#大入侵
+EDG_MISSION_BUL_Slavic_invasion:0 "§Y'YeQµO§!"
+EDG_MISSION_BUL_Slavic_invasion_desc:0 "¯eÉb+YºN„vÁ”DŽÈuSŽs^NRLeºN0"
+
+cb_EDG_MISSION_BUL_Slavic_invasion:0 "§Y'YeQµO§!"
+cb_EDG_MISSION_BUL_Slavic_invasion_desc:0 "bìNSïSåNùRÖNìNžRLˆ'YeQµOÿ:YÖSÖNìN„vNb	gW0W0"
+
+#帝国再征服
+EDG_empire_reconquer_war:0 "§Y^ýVQVg§!"
+EDG_empire_reconquer_war_desc:0 "bìN/fWlš^ýVàeïS‰N®‹„vçubwÿKS¡rî†ÏeòTÏu`S†˜†N^ýVþfÏu„v†˜W•¾pe*NNªuÿbìNO6q	gCg‰BlIQY^ýV„vHrþV0"
+
+cb_EDG_empire_reconquer_war:0 "§Y^ýVQVg§!"
+cb_EDG_empire_reconquer_war_desc:0 "bìNSïSåNùRÖNìNÑS¨R^ýVQVgb‰Nÿ:YÖSÖNìN„vNb	gW0W0"
+
+cb_EDG_empire_reconquer_war_enable_flag_tt:0 "bìNSã‰•b‰Nt1u §Y^ýVQVg§! ÿå‹b‰Nt1uAQ¸‹bìNùRNb	g(W§MôTSr^§!0§M‰R³uXb)RšN§!0§MÕlpQ‰§!0§MNR ˜§!0§MOÔk)RšN§!0§Ma'Y)R§!0§Mlš<hÌ‘^§!0§MÃWÊS§!ŒT§MlšÀNÌ‘KQ§!	gwýN„výV¶RÛLˆ‰V•^„vVg0"
+
+#法兰西对 阿尔勒十字军
+EDG_WG_superiority_FRA_to_AEL_Crusades:0 "§Y?–SÒRASWR›Q§!"
+EDG_WG_superiority_FRA_to_AEL_Crusades_desc:0 "bìNSïSåNùR?–SÒRÑS¨RASWR›QÿSÖNìN¢wã‰ÿv^SÊ‘>eúQ„v^SýVlØS:NbìN„vÇ‘‘0"
+
+cb_EDG_WG_superiority_FRA_to_AEL_Crusades:0 "§Y?–SÒRASWR›Q§!"
+cb_EDG_WG_superiority_FRA_to_AEL_Crusades_desc:0 "bìNSïSåNùR?–SÒRÑS¨RASWR›QÿSÖNìN¢wã‰ÿv^SÊ‘>eúQ„v^SýVlØS:NbìN„vÇ‘‘0"
+
+#强迫皇帝退位
+EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate:0 "§Y:Vë‡v^MO§!"
+EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate_desc:0 "bìNÔkSVÊN„v^y#WWlš‡v^ôfwQ	gTÕl'`ŒTckßu'`ÿàVwbìN	gD<h‰BlSVMR„v‡v^MO0"
+
+cb_EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate:0 "§Y:Vë‡v^MO§!"
+cb_EDG_WG_superiority_Forcing_HRE_Emperor_to_abdicate_desc:0 "bìN	g:Vë^y#WWlš‡v^MO„vCg›Rÿ"
+
+#解散施马尔卡尔登联盟
+
+EDG_schmalkaldic_league_emp_war:0 "§Yã‰ceËelšSaSS‰vTwßv§!"
+EDG_schmalkaldic_league_emp_war_desc:0 "ËelšSaSS‰vTwßvÅV‰˜«ˆã‰ce0"
+
+cb_EDG_schmalkaldic_league_emp_war:0 "§Yã‰ceËelšSaSS‰vTwßv§!"
+cb_EDG_schmalkaldic_league_emp_war_desc:0 "ËelšSaSS‰vTwßvÅV‰˜«ˆã‰ce0"
+
+ EDG_schmalkaldic_league_emp_war_name:0 "$ORDER$ËelšSaSS‰vTwßvb‰N"
+
+#强迫成为陪成国
+EDG_HRE_vassal_vassalize_mission:0 "§G:Vëb:Nj–ãýV§!"
+EDG_HRE_vassal_vassalize_mission_desc:0 "bìNïSåN:VëÖNìNb:NbìN„vj–ãýVÿ"
+
+cb_EDG_HRE_vassal_vassalize_mission:0 "§G:Vëb:Nj–ãýV§!"
+cb_EDG_HRE_vassal_vassalize_mission_desc:0 "bìNïSåN:VëÖNìNb:NbìN„vj–ãýVÿ"
+
+#游牧cb
+
+ cb_EDG_tribal_feud:0 "8ngr‰N8—"
+ cb_EDG_tribal_feud_desc:0 "bìNèÏeÔkÖNìNèÏeôf:V'Yÿ"
+ cb_EDG_horde_vs_civ:0 "8ngrVg"
+ cb_EDG_horde_vs_civ_desc:0 "8ngrlÏeNšRESwKNô•NïSýwXR(WŒTs^ÿ"
+
+#萨哈达征服
+EDG_FYM_empire_conquer_war:0 "§Y(„ÈT¾Vg§!"
+EDG_FYM_empire_conquer_war_desc:0 "(„ÈT¾^ýV„v¹ƒX¡l	gKS4Y0"
+
+cb_EDG_FYM_empire_conquer_war_mission:0 "§Y(„ÈT¾ÜV§!"
+cb_EDG_FYM_empire_conquer_war_mission_desc:0 "bìNSïSåNùRÖNìNÑS¨RVgb‰Nÿ:YÖSûNUOwýN0"
+
+cb_EDG_FYM_empire_conquer_war:0 "§Y(„ÈT¾Vg§!"
+cb_EDG_FYM_empire_conquer_war_desc:0 "bìNSïSåNùRÖNìNÑS¨RVgb‰Nÿ:YÖSûNUOwýN0"
+
+cb_EDG_FYM_empire_conquer_war_enable_flag_tt:0 "bìNSã‰•b‰Nt1u §Y(„ÈT¾Vg§! 0\nå‹b‰Nt1uAQ¸‹bìNùRNb	g§M»ýV§!ýV¶RÛLˆ‰V•^„vVg0å‹±Rbt1u„vHeœg‚YNÿ\n-SVbìNYŽN§RŒp¾–§!öeÿå‹b‰Nt1uS§RNïS(u§!\n-§YµOeuib.VîOck§!ÿ§M90%§!\n-§Y·ƒÖSZgîOck§!ÿ§M125%§!\n-§YwýNRpeîOck§!ÿ§M75%§!"
+
+EDG_HZB_great_conquer:0 "§Y'YeQµO§!"
+EDG_HZB_great_conquer_desc:0 "bìN„v¹ƒX¡l	gKS4Y0"
+
+cb_EDG_HZB_great_conquer:0 "§Y'YeQµO§!"
+cb_EDG_HZB_great_conquer_desc:0 "bìNSïSåNùRÖNìNÑS¨RVgb‰Nÿ:YÖSûNUOwýN0"
+
+
+#法兰西 强迫成为大陆同盟
+EDG_WG_superiority_FRA_to_alliance_war:0 "§Y:Vëb:N'YF–Tßv§!"
+EDG_WG_superiority_FRA_to_alliance_war_desc:0 "bìNSïSåNùRÖNìNÑS¨Rb‰Nÿ:VëÖNìNb:NbìN„v'YF–Tßv0"
+
+cb_EDG_WG_superiority_FRA_to_alliance_war:0 "§Y:Vëb:N'YF–Tßv§!"
+cb_EDG_WG_superiority_FRA_to_alliance_war_desc:0 "ÖNìN„výV¶RòTÏu«ˆbìNnÿbìNSïSåNùRÖNìNÑS¨Rb‰Nÿ:VëÖNìNb:NbìN„v'YF–ÖNìN0"
+
+#奥斯曼征服
+cb_EDG_TUR_empire_conquer_war_1_enable_flag_tt:0 "bìNSã‰•b‰Nt1u §YeY¯eüfVg§! 0\nå‹b‰Nt1uAQ¸‹bìNùRNb	g§M»ýV§!ýV¶RÛLˆ‰V•^„vVg0å‹±Rbt1u„vHeœg‚YNÿ\n-SVbìNYŽN§RŒp¾–§!öeÿå‹b‰Nt1uS§RNïS(u§!\n-§YµOeuib.VîOck§!ÿ§M90%§!\n-§Y·ƒÖSZgîOck§!ÿ§M125%§!\n-§YwýNRpeîOck§!ÿ§M90%§!"
+cb_EDG_TUR_empire_conquer_war_2_enable_flag_tt:0 "b‰Nt1u §YeY¯eüfVg§!S«ˆGSµu\nå‹b‰Nt1u„v§YwýNRpeîOck§!S«ˆÐcGSó§M75%§!"
+
+EDG_TUR_empire_conquer_war_1:0 "§YeY¯eüfVg§!"
+EDG_TUR_empire_conquer_war_1_desc:0 "eY¯eüf^ýV„v¹ƒX¡l	gKS4Y0"
+
+cb_EDG_TUR_empire_conquer_war_1:0 "§YeY¯eüfVg§!"
+cb_EDG_TUR_empire_conquer_war_1_desc:0 "bìNSïSåNùRÖNìNÑS¨RVgb‰Nÿ:YÖSûNUOwýN0"
+
+EDG_TUR_empire_conquer_war_2:0 "§YeY¯eüfVg§!"
+EDG_TUR_empire_conquer_war_2_desc:0 "eY¯eüf^ýV„v¹ƒX¡l	gKS4Y0"
+
+cb_EDG_TUR_empire_conquer_war_2:0 "§YeY¯eüfVg§!"
+cb_EDG_TUR_empire_conquer_war_2_desc:0 "bìNSïSåNùRÖNìNÑS¨RVgb‰Nÿ:YÖSûNUOwýN0"
+
+#洛塔林吉亚 法兰克继任者战争
+EDG_LOT_to_FRA_war:0 "§YÕlpQKQçuûNwb‰N§!"
+EDG_LOT_to_FRA_war_desc:0 "bìNMb/fÕlpQKQ/UN„vTÕlßu»lwÿ"
+
+cb_EDG_LOT_to_FRA_war:0 "§YÕlpQKQçuûNwb‰N§!"
+cb_EDG_LOT_to_FRA_war_desc:0 "ÕlpQKQêSýw	gN*Nßu»lwÿ*O‹sÅV‰˜«ˆŸ^Üžÿ"
+
+#洛塔林吉亚 惩戒不信者
+cb_EDG_LOT_Catholic_holy_war_enable_flag_tt:0 "bìNSã‰•b‰Nt1u §Yé`bNáOw§! 0\nå‹b‰Nt1uAQ¸‹bìNùRNb	g§M«ˆÝuZ§!b§M«ˆ˜^yYeäN§!„v)YINYeýV¶RÛLˆ‰V•^„vVg0å‹±Rbt1u„vHeœg‚YNÿ\n-SVbìNYŽN§RŒp¾–§!bNáOðN§Y)YINYe§!öeÿå‹b‰Nt1uS§RNïS(u§!\n-§YµOeuib.VîOck§!ÿ§M90%§!\n-§Y·ƒÖSZgîOck§!ÿ§M125%§!\n-§YwýNRpeîOck§!ÿ§M90%§!"
+EDG_LOT_Catholic_holy_war:0 "§Yé`bNáOw§!"
+EDG_LOT_Catholic_holy_war_desc:0 "ÖNìN/fNSIYwáO„vNáOw0"
+
+cb_EDG_LOT_Catholic_holy_war:0 "§Yé`bNáOw§!"
+cb_EDG_LOT_Catholic_holy_war_desc:0 "bìN/f)YINYe„vˆR²bwÿ	gCg›Ré`bNT†Ú‹„váO’V0"
+
+#大殇歌战争
+EDG_LOT_drank_war:0 "§Y'Y‡kLkb‰N§!"
+EDG_LOT_drank_war_desc:0 "bìNÅV‰˜Í‘°eßuNÕlpQKQ^ýV0"
+
+cb_EDG_LOT_drank_war:0 "§Y'Y‡kLkb‰N§!"
+cb_EDG_LOT_drank_war_desc:0 "ÕlpQKQÅV‰˜ßuN0"
+EDG_LOT_drank_war_war_name:0 "$ORDER$$FIRST$-$SECOND$§Y'Y‡kLkb‰N§!"
+
+#合约
+po_Holy_Roman_Invasion_opinion:0 "(W^ýVeQµO-NÊ‘>ebìN"
+ PEACE_po_Holy_Roman_Invasion:0 "§Y^y#WWlšeQµO§!"
+ CB_ALLOWED_po_Holy_Roman_Invasion:0 "§Y^y#WWlšeQµO§!"
+ po_Holy_Roman_Invasion:0 "§Y^y#WWlšeQµO§!"
+ po_Holy_Roman_Invasion_desc:0 "ÖNìNSO«ˆ§M¢wã‰§!:N¸‹YýV¶RÿÖNìNåNÊSag¦u…QÊ‘>e„výV¶RSO«ˆlØS:NbìN„v§Y—RYe§!ÿ(W§M'k2m/k'YF–§!„vwýNSO«ˆteTeQ§Y^y#WWlš^ýV§!ÿÏk*N ReQ§Y^y#WWlš^ýV§!„výV¶RSÙuˆNbìN§M3§!¹p§Y^ýVCgZ§!0"
+
+po_FRA_to_AEL_Crusades_opinion:0 "(W^ýVeQµO-NÊ‘>ebìN"
+ PEACE_po_FRA_to_AEL_Crusades:0 "§Y?–SÒRASWR›Q§!"
+ CB_ALLOWED_po_FRA_to_AEL_Crusades:0 "§Y?–SÒRASWR›Q§!"
+ po_FRA_to_AEL_Crusades:0 "§Y?–SÒRASWR›Q§!"
+ po_FRA_to_AEL_Crusades_desc:0 "ÖNìNSO«ˆ§M¢wã‰§!:N¸‹YýV¶RÿÖNìNåNÊSag¦u…QÊ‘>e„výV¶RSO«ˆlØS:NbìN„v§Y—RYe§!ÿv^b:NbìN„v§YÇ‘‘§!ÿÇ‘‘‰|‹WÖS³QŽNbìN(WÇ»SZPúQ„v	éb0"
+
+
+ PEACE_po_EDG_Mahdi_invasion:0 "§YlškêQeN§!"
+ CB_ALLOWED_po_EDG_Mahdi_invasion:0 "§YlškêQeN§!"
+ po_EDG_Mahdi_invasion:0 "§YlškêQeN§!"
+ po_EDG_Mahdi_invasion_desc:0 "bìNSˆmw§M20§!¹p§YlškêCgZ§!ÿhQb—Tv^ÖNìN„v§YNb	gwýN§!0"
+
+ PEACE_po_Forcing_HRE_Emperor_to_abdicate:0 "§Y:Vë‡v^MO§!"
+ CB_ALLOWED_po_Forcing_HRE_Emperor_to_abdicate:0 "§Y:Vë‡v^MO§!"
+ po_Forcing_HRE_Emperor_to_abdicate:0 "§Y:Vë‡v^MO§!"
+ po_Forcing_HRE_Emperor_to_abdicate_desc:0 "ÙMO§Y^y#WWlš‡v^§!SO«ˆëMO0"
+
+ PEACE_po_schmalkaldic_league_emp_war:0 "§Yã‰ceËelšSaSS‰vTwßv§!"
+ CB_ALLOWED_po_schmalkaldic_league_emp_war:0 "§Yã‰ceËelšSaSS‰vTwßv§!"
+ po_schmalkaldic_league_emp_war:0 "§Yã‰ceËelšSaSS‰vTwßv§!"
+ po_schmalkaldic_league_emp_war_desc:0 "§Yã‰ceËelšSaSS‰vTwßv§!S«ˆã‰ceÿ^ýV)YINYeø‹¯O„vb—îOckSO«ˆûyd–0"
+
+ PEACE_po_subjugate_HRE_vassal:0 "§G:Vëb:Nj–býV§!"
+ CB_ALLOWED_po_subjugate_HRE_vassal:0 "§G:Vëb:Nj–býV§!"
+ po_subjugate_HRE_vassal:0 "§G:Vëb:Nj–býV§!"
+ po_subjugate_HRE_vassal_desc:0 "ÖNìNSb:NbìN„v§Y^y#WWlšj–býV§!ÿå‹‰|‹W„v^SýVN`S(uY²NsQû|ÿïSåNO(uºNÅ`‰Bl ReQb‰NÿïSåNTv^ÿmNïSåNlØS:ND–¸^ýV0"
+
+
+ PEACE_po_FRA_to_alliance_war:0 "§Y:Vëb:N'YF–Tßv§!"
+ CB_ALLOWED_po_FRA_to_alliance_war:0 "§Y:Vëb:N'YF–Tßv§!"
+ po_FRA_to_alliance_war:0 "§Y:Vëb:N'YF–Tßv§!"
+ po_FRA_to_alliance_war_desc:0 "ÖNìNSOb:NbìN„v§Y'YF–Tßv§!0"
+
+ PEACE_po_EDG_LOT_to_FRA_war:0 "§YÕlpQKQßuN§!"
+ CB_ALLOWED_po_EDG_LOT_to_FRA_war:0 "§YÕlpQKQßuN§!"
+ po_EDG_LOT_to_FRA_war:0 "§YÕlpQKQßuN§!"
+ po_EDG_LOT_to_FRA_war_desc:0 "ÖNìN„vNb	g†˜W0D–¸^ŒTS‘S«ˆbìNNb§Yçub§!0"

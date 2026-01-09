@@ -1,0 +1,143 @@
+graphical_culture = indiangfx
+color = {
+  175
+  82
+  16
+}
+revolutionary_colors = {
+  9
+  0
+  9
+}
+historical_idea_groups = {
+  defensive_ideas
+  offensive_ideas
+  trade_ideas
+  diplomatic_ideas
+  spy_ideas
+  economic_ideas
+  quantity_ideas
+  administrative_ideas
+}
+historical_units = {
+  persian_footsoldier
+  persian_cavalry_charge
+  persian_shamshir
+  qizilbash_cavalry_unit
+  tofongchis_musketeer
+  topchis_artillery
+  afsharid_reformed
+  afsharid_reformed_infantry
+  muslim_mass_infantry
+  muslim_dragoon
+  persian_rifle
+}
+monarch_names = {
+  "›sÌ‘šNÆY #0" = 30 	# Maryam #0
+  "^S‡e #0" = 30 	# Maryam #0
+  "›sWl #0" = 30 	# Maryam #0
+  "lšyQ¾KQ #0" = 30 	# Maryam #0
+  "›syQ9N #0" = 30 	# Maryam #0
+  "lšPŸšNS #0" = 30 	# Maryam #0
+  "…hkÉb #0" = 30 	# Maryam #0
+  "…hkšNS #0" = 30 	# Maryam #0
+  "lšªRRS #0" = 30 	# Maryam #0
+  "…hk¾ #0" = 30 	# Maryam #0
+  "lšyQís #0" = 30 	# Maryam #0
+  "…hkNb·V #0" = 30 	# Maryam #0
+  "s|SNb #0" = 30 	# Maryam #0
+  "eYS›syQ·V #0" = 30 	# Maryam #0
+  "^S(„ #0" = 30 	# Maryam #0
+  "^SôuyQ #0" = 30 	# Maryam #0
+  "^šNÆY #0" = 30 	# Maryam #0
+  "iOêÆY #0" = 30 	# Maryam #0
+  "iOüf #0" = 30 	# Maryam #0
+  "®vœyQ #0" = 30 	# Maryam #0
+  "nfÌ‘šN #0" = 30 	# Maryam #0
+  "nfšN #0" = 30 	# Maryam #0
+  "nffV #0" = 30 	# Maryam #0
+  "?–S=OyQ #0" = 30 	# Joneid #0
+  "eYS›syQ·V wm¾S #0" = 30 	# Haidar #0
+  "?–S=OyQ eYS›syQ·V #0" = 30 	# Ismâ'îl #0
+  "O¯eNW·VS #0" = 20 	# Tamâshp #0
+  "O¯eNW·VS ^SôuyQ #0" = 10 	# Mohammad Kodabânda #0
+  "O¯eNW·VS wm¾S #0" = 30 	# 'Abbâs #0
+  "ğl‰R #0" = 15 	# Safi #0
+  "aS+Y #0" = 20 	# Solaymân #0
+  ">WS #0" = 10 	# Hosayn #0
+  "Œ‚‡e #0 ™l" = 10 	# Nâder #0 Shâh
+  "XoğlšN #0 ™l" = 10 	# 'Âdel #0 Shâh
+  "aSN #0" = 10 	# Ebrâhim #0
+  "W^ #0" = 10 	# Shâh Rukh #0
+  "³uêS eYS›syQ·V #0" = 5 	# Nâder Mirza #0
+  "aSÌ‘ÆY #0 Wl" = 10 	# Karim #0 Khân
+  "?–^ÒR Õlyrk #0" = 10 	# Abu'l Fath #0
+  "ôTêšN #0" = 10 	# Mohammad Ali #0
+  "÷–N #0" = 10 	# Mohammad Sâdiq #0
+  "?–Éb<h^ #0" = 10 	# 'Ali Morâd #0
+  ">ÕlS #0" = 10 	# Ja'far #0
+  "bSşV #0" = 10 	# Loft Ali #0
+  "?–æ #0" = 10 	# Aga Muhammad #0
+  "(„êKQ #0" = 10 	# Fath Alî #0
+  "³u	TÆY #0" = 30 	# Najm-e #0
+  "?–klš·V NbÕlS #0" = 30 	# Ahmad #0
+  "NbÕlS #0" = 30 	# Hatem #0
+  "³u‰SNb·V #0" = 30 	# Shahqoli #0
+  "^Éb¯eşV #0" = 30 	# Rajab Ali #0
+  "ÕlÉbNbÉb #0" = 30 	# Farajollah #0
+  "?–üfú‹Ébk #0" = 30 	# Amanollah #0
+  "ªR^ #0" = 30 	# Ebrahim #0
+  "³u^·V #0" = 30 	# Ali #0
+  "?–ÉbwmS #0" = 30 	# Allahyar #0
+  "O¯eNW·VS ›s<SòT #0" = 30 	# Abdol #0
+  "ÈTs|·V #0" = 30 	# Hamid #0
+  "Õl)R·V #0" = 30 	# Farid #0
+  "?–ĞcšN #0" = 30 	# Atiya #0
+  "^Ì‘ #0" = 30 	# Pari #0
+  "wmS ^s|¾ #0" = 30 	# Khayr al-Nisa #0
+  "TX	Tœ #0" = 30 	# Tajlu #0
+  "êÉbÉbÆY #0" = 30 	# Dilaram #0
+  "™lkôTªR #0" = 30 	# Shahbanu #0
+  "ÉbPŸšN #0" = 30 	# Razia #0
+}
+leader_names = {
+  "Å–«ƒ"  # Jamot
+  "ôT<hĞc"  # Bugti
+  "PŸKQÌ‘"  # Zikri
+  "	TÒR°R"  # Ghilzai
+  "ôTÉbKQ-g"  # Barakzay
+  "ôTyQ¾S"  # Bozdar
+  "s|pQ<S"  # Mirrani
+  "s|kÉbís"  # Mihrabanid
+  "—ÈTS"  # Khokhar
+  "—g·V"  # Rind
+  "™lS"  # Shar
+  "Éb™lÌ‘"  # Lashari
+  "†–·V"  # Lund
+  "áw¯e"  # Hooth
+  "Ñy³RO"  # Korai
+  "pgYO"  # Jatoi
+  "ú‹0Œæt<S"  # Nausherwani
+}
+ship_names = {
+  "?–KNZ"  # Alia
+  "?–œ™l"  # Arusa
+  "¾ÀNyr"  # Dasht
+  "Õl‚„›s"  # Fatimah
+  "—S(gyQ"  # Hormuz
+  "pS¦^³l"  # Indus
+  "Övpg"  # Kech
+  "Wl"  # Khan
+  "lšÀNaSS"  # Mashkaal
+  "<StQ"  # Nihing
+  "®YïSZyQ"  # Niknaz
+  "<SbSÕl"  # Niloufa
+  "ªRS"  # Noor
+  "Ébk„U"  # Rakhshan
+  "ŒTs^"  # Salima
+  "9R…hZ"  # Shameena
+  "Ï‚wmÉb"  # Suhalia
+  "6w‰`ƒ"  # Yasmine
+  "Nb^Éb"  # Zahira
+  "NbjS"  # Zhab
+}

@@ -1,0 +1,152 @@
+﻿l_english:
+EDG_CWN_trade_1_modifier:0 "ÃOÛuµNI"
+EDG_CWN_trade_2_modifier:0 "ÃOÛuµNII"
+EDG_CWN_trade_3_modifier:0 "ÃOÛuµNIII"
+EDG_CWN_3_I_modifier:0 "Tw¦®‹OI"
+EDG_CWN_3_II_modifier:0 "Tw¦®‹OII"
+EDG_CWN_3_III_modifier:0 "Tw¦®‹OIII"
+EDG_CWN_3_IV_modifier:0 "Tw¦®‹OIV"
+EDG_CWN_3_V_modifier:0 "Tw¦®‹OV"
+EDG_CWN_4_I_modifier:0 "NR ˜²‹TI"
+EDG_CWN_4_II_modifier:0 "NR ˜²‹TII"
+EDG_CWN_4_III_modifier:0 "NR ˜²‹TIII"
+EDG_CWN_4_IV_modifier:0 "NR ˜²‹TIV"
+EDG_CWN_4_V_modifier:0 "NR ˜²‹TV"
+EDG_CWN_3_1_modifier:0 "'kF–TwTÕlHh"
+EDG_CWN_2_5_modifier:0 "ŒTwNT"
+EDG_CWN_2_7_modifier:0 ":V'Y„vFUNTwT"
+EDG_CWN_5_6_modifier:0 "ÓbWÎ‘ÃV"
+EDG_CWN_4_9_modifier:0 "Tw¦wm›QF–b–"
+EDG_HER_4_11_modifier:0 "ÝO²b:S"
+EDG_HER_5_14_modifier:0 "ê6qŒTŒ"
+EDG_CWN_2_20_modifier:0 "Tw¦OS©Rßu»l"
+EDG_CWN_2_27_modifier:0 "pS¦^Î‘ÃV"
+EDG_CWN_4_22_modifier:0 "WS¹e*‚¿u"
+EDG_CWN_kjdaxue_modifier:0 "ibú^'YfR"
+EDG_CWN_guofang_1_modifier:0 "¦umgcOuQ"
+EDG_CWN_guofang_1_fuzuoyong_modifier:0 "cOuQNán"
+EDG_CWN_guofang_2_modifier:0 "×e0‚¡‹R"
+EDG_CWN_guofang_3_modifier:0 "F–›Q¾|•S"
+EDG_CWN_twilight_again_modifier:0 "NqSQw"
+EDG_CWN_TW_H_1_modifier:0 "Ÿ^V„v0u0W"
+EDG_CWN_TW_H_2_modifier:0 "f5„vºuÇuÁT"
+EDG_CWN_TW_H_3_modifier:0 "àe›R„vAml"
+EDG_CWN_baixu_modifier:0 "%ntvQ-N"
+EDG_CWN_france_modifier:0 "ÕlpQ‰>y:S"
+EDG_CWN_iberia_modifier:0 "OÔk)RšN>y:S"
+EDG_CWN_german_modifier:0 "åe3wüf>y:S"
+EDG_CWN_latin_modifier:0 "ÉbN>y:S"
+EDG_CWN_little_modifier:0 "S‹Wûyl>y:S"
+EDG_CWN_big_modifier:0 "'Y‹Wûyl>y:S"
+EDG_CWN_zhsq_modifier:0 "teT>y:S"
+EDG_CWN_event_1_modifier:0 "—RYe²Qz"
+EDG_CWN_USP_develop_modifier:0 "Rce–klN¡R"
+
+EDG_CWN_univercity_1_title:"@CWNibú^'YfR"
+EDG_CWN_univercity_1_desc:""
+EDG_CWN_creat_USA_title:0 "@USATO:NN"
+EDG_CWN_creat_USA_desc:0 ""
+EDG_CWN_kill_HSA_title:0 "@CWNS•Il(„Tßv"
+EDG_CWN_kill_HSA_desc:0 ""
+EDG_CWN_provoke_trade_conflict_war_tt:0 "NR ˜Tw¦ùRŽNå‹wýN„våb	gwÿ‰HN§YÓußv§!ÿ‰HNËeLˆ§Y8fyÐ§!ÿ‰HNŒcác§Y8f‰Nïz§!„v±RbPãS0"
+EDG_CWN_kill_hsa_tt:0 "å‚NðwýN„våb	gw=fbìN„v§YßvËS§!NÑSUS¦^SŽN§Y100§!ÿæ‰ÑS‹NöN§YTw¦N^ýV„v	éb§!ÿ&TRVñ‹NðwýN„våb	gwIN¨RcwNbìN„v8f‰Nïz0"
+EDG_CWN_seadog_1_title:0 "Ê‘>e@GOTåT·VpQZP:Nwms¬r"
+EDG_CWN_seadog_1_desc:0 ""
+EDG_CWN_seadog_1_TT:0 "Ê‘>e@GOTåT·VpQb:NbìN„v§Twms¬r§!ÿÖNìNåb	gåT·VpQ›SZP:NúW0W"
+EDG_CWN_seadog_2_title:0 "Ê‘>e@MJOlšeuaSZP:Nwms¬r"
+EDG_CWN_seadog_2_desc:0 "Ê‘>e@MJOlšeuaSb:NbìN„v§Twms¬r§!ÿÖNìNåb	gôT)R?–Ì‘:SßWZP:NúW0W"
+EDG_CWN_guofang_1_title:0 "@CWNýV2–‹NœRÿte˜cOuQ^:W"
+EDG_CWN_guofang_1_desc:0 ""
+EDG_CWN_guofang_2_title:0 "@CWNýV2–‹NœRÿ×e0‚¡‹R"
+EDG_CWN_guofang_2_desc:0 ""
+EDG_CWN_guofang_3_title:0 "@CWNýV2–‹NœRÿF–›Q¾|•S"
+EDG_CWN_guofang_3_desc:0 ""
+EDG_CWN_create_SCA_title:0 "Rú^@SCASƒXTw¦/SƒXTw¦ibUS"
+EDG_CWN_create_SCA_desc:0 ""
+EDG_CWN_SCA_TT:0 "å‹³Q®‹êSýwO(uN!k"
+EDG_CWN_creat_CAN_title:0 "Rú^@CANÈT·VYRŒnlQøS/ÓbUSÈT·VYRŒnlQøS"
+EDG_CWN_creat_CAN_desc:0 ""
+EDG_CWN_creat_H06_title:0 "Rú^@H06YYtTw¦/ÓbUSYYtTw¦"
+EDG_CWN_creat_H06_desc:0 ""
+EDG_CWN_creat_H10_title:0 "Rú^@H10fSTw¦/ÓbUSfSTw¦"
+EDG_CWN_creat_H10_desc:0 ""
+EDG_CWN_create_USP_title:0 "Rú^@USP‰ísYrTwßv/ÓbUS‰ísYrTwßv"
+EDG_CWN_create_USP_desc:0 ""
+EDG_CWN_create_EIC_title:0 "ÓbUS@EICNpS¦^lQøS"
+EDG_CWN_PAP_1_title:0 "@CWNTw¦.sW"
+EDG_CWN_PAP_1_desc:0 "Sa'Y)RS=fbìN.sÙuYe÷^„v<yir"
+EDG_CWN_PAP_2_title:0 "@PAP)YINKN‚"
+EDG_CWN_PAP_2_desc:0 ""
+EDG_CWN_TW_ONE_title:0 "@CWNÍSW0W®‹Hhÿb`YœQ(uW0W"
+EDG_CWN_TW_ONE_desc:0 ""
+EDG_CWN_TW_TWO_title:0 "@CWNÍSW0W®‹Hhÿ¥c¡rºuÇuµNN"
+EDG_CWN_TW_TWO_desc:0 ""
+EDG_CWN_TW_THR_title:0 "@CWNÍSW0W®‹Hhÿ6eâbAml"
+EDG_CWN_TW_THR_desc:0 ""
+EDG_TW_kill_nobles_TT:0 "bìN„v2N*NNR ˜wýNSOrÑS5ÏeÛSqN"
+EDG_CWN_TW_FOUR_title:0 "@CWNÏuNm9ei—:Í‘=cTw¦µNN"
+EDG_CWN_TW_FOUR_desc:0 ""
+EDG_CWN_TW_FIVE_title:0 "@CWNÏuNm9ei—:ÏQ‰'¨Àw"
+EDG_CWN_TW_FIVE_desc:0 ""
+EDG_CWN_TW_SIX_title:0 "@CWNÏuNm9ei—:4xd–LˆO„W­e"
+EDG_CWN_TW_SIX_desc:0 ""
+EDG_CWN_SCA_develop_title:0 "@SCAVÑSSƒX"
+EDG_CWN_SCA_develop_desc:0 ""
+EDG_CWN_USP_develop_title:0 "@USPÍ‘teOÔk)RšN–klN¡R"
+EDG_CWN_USP_develop_desc:0 ""
+EDG_USP_CWN_own_TT:0 "S@USP‰ísYrTwßvNb	gwmYwýNlûyóbìNµc6R"
+
+EDG_CWN_ideas:0 "NR ˜Tw¦tõV"
+EDG_CWN_ideas_start:0 "NR ˜Tw¦.Oßu"
+EDG_CWN_ideas_bonus:0 "NR ˜Tw¦Î‘ÃV"
+EDG_CWN_idea_1:0 "FUºN.Oßu"
+EDG_CWN_idea_1_desc:0 "býVåb	gwmN8f„v `EN†SòSÿFUºNQÜuÜÊS0Ws^¿u0"
+EDG_CWN_idea_3:0 "Î˜=n"
+EDG_CWN_idea_3_desc:0 "9‚6‚ŽVŽV(W‰N—e-N«ˆmcOW=fN*NNx^„v‹NžRÿwNT7hNx^„v=fÙ›NmcOWˆVSýw(WwmNÛLˆîOY0:N†Nã‰Ù*Nî•˜˜ÿbìN”^å‹R.N*N(WbìN„vwm¸S¿uNïSåNîOeˆ9‚êS„vÎ˜=nû|ßu0"
+EDG_CWN_idea_4:0 "ÑyfRi—‹T"
+EDG_CWN_idea_4_desc:0 "bìN”^å‹OÑyŽb4ls^·ƒ—V•³ÛekÿÃOÛ>yONÏuNm„vØSi—ÿhQb—ÛºNåTNSöeãN0"
+EDG_CWN_idea_5:0 "ê1u8f"
+EDG_CWN_idea_5_desc:0 "°s(W„vFUN¶RÏeìNëR^gýwYnxÝOÖNìNùRŽNFUNN%„Cg„v„W­eÿFObìNv^N^g‚Ydkÿw=f^gte*NFUºN6–BSýwYhQb—ÑSUS0"
+EDG_CWN_idea_6:0 "ibEQ?eVr"
+EDG_CWN_idea_6_desc:0 "?eVrùRbýV„v¹eTŒT*gegósQÍ‘‰0bìN”^SV R'YùRÕl‹VÕlÄ‰„v•bºNÿ‚Ydk¿Oýwôf‰Œg0Wôuc?eVr†N0"
+
+EDG_CWN_city_cluster_holy_order:0 "ÎW^²"
+EDG_CWN_city_cluster_order_full:0 "ÎW^²"
+EDG_CWN_city_cluster_holy_order_desc:0 "ÎW^²=f(W0WßWNÆ–-NR^„vå‚r^yr'YÎW^ŒT'YÎW^Æ–Zwwb„vž^'Y„v0Y8hÃV0YBS!kÎW^Æ–âVÿ=f'Yý^:S„vTwTSO0"
+EDG_CWN_city_cluster_order_short:0 "ÎW^²"
+EDG_CWN_city_cluster_TT:0 "—‰1¹pÎW^»ltÏuŒšÿSVMR:N§Y[Root.EDG_HER_CITY_EX_var.GetValue]§!0"
+EDG_CWN_city_cluster_2_TT:0 "1Y»S1¹pÎW^»ltÏuŒšÿSVMR:N§Y[Root.EDG_HER_CITY_EX_var.GetValue]§!0"
+
+estate_edg_CWN_new_army_name:0 "°e›Q"
+
+EDG_CWN_Caledonia_from_peasants:0 " R:V­‹Ãu"
+EDG_CWN_Caledonia_from_peasants_desc:0 ""
+EDG_CWN_Caledonia_anti_burghers_privilege:0 "ÛúQãS¡r6R"
+EDG_CWN_Caledonia_anti_burghers_privilege_desc:0 ""
+EDG_CWN_peasants_lands:0 "W0W¡r6R"
+EDG_CWN_peasants_lands_desc:0 ""
+
+EDG_CWN_burghers_privilege_rich_man:0 "ÛbFUVD"
+EDG_CWN_burghers_privilege_rich_man_desc:0 ""
+EDG_CWN_burghers_privilege_guilds_money:0 "LˆO‡D"
+EDG_CWN_burghers_privilege_guilds_money_desc:0 ""
+
+EDG_CWN_twilight:0 "®fIQöeãN"
+EDG_CWN_twilight_end_flag:0 "óSÏu†SÇN!k®fIQöeãN"
+EDG_CWN_disasters_end_flag:0 "Œp¾–®fIQöeãNòTÓumg"
+EDG_CWN_twilight_start_flag:0 "Œp¾–®fIQöeãNòTVËY"
+EDG_CWN_mission_3_event_flag:0 "òTæ‰ÑS‹NöNwmr‚"
+EDG_CWN_TW_2_flag:0 "òTã‰³Q§R®fIQöeãN§!Œp¾–‹NöNÄuÿ%ntvQ-N"
+EDG_CWN_twilight_103_flag:0 "§R®fIQöeãN§!Œp¾–‹NöN§RRƒt^§!òTÏuÑSu"
+
+EDG_CWN_CAN_had:0 "ÈT·VYRŒnlQøS"
+EDG_CWN_CAN_had_ADJ:0 "ÈT·VYRŒnlQøS"
+EDG_CWN_CAN_had_ADJ2:0 "ÈT·VYRŒnlQøS"
+
+EDG_CWN_SCA_had:0 "SƒXTw¦"
+EDG_CWN_SCA_had_ADJ:0 "SƒXTw¦"
+EDG_CWN_SCA_had_ADJ2:0 "SƒXTw¦"
+
+EDG_CWN_H10_had:0 "fSTw¦"
+EDG_CWN_H10_had_ADJ:0 "fSTw¦"
+EDG_CWN_H10_had_ADJ2:0 "fSTw¦"

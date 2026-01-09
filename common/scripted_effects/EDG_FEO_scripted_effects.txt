@@ -1,0 +1,43 @@
+EDG_FEO_add_heir = {
+	define_heir = {
+		female = yes
+		dynasty = ROOT
+		name = "öSaSwc3tZ ?–RKQ0Œ6w™‚Z"
+		claim = 100
+		age = 1
+		adm = 6
+		dip = 5
+		mil = 6
+	}
+	add_heir_personality = legendary_conqueror_personality
+}
+EDG_FEO_general = {
+	define_general = {
+	name = "ÍuOäS iR?QêS²e"
+	
+			shock = 5
+			fire = 0
+			manuever = 3
+			siege = 3
+			trait = defensive_planner_personality
+	}
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

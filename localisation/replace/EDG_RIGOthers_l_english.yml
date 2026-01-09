@@ -1,0 +1,1079 @@
+﻿l_english:
+ RIG_EXPAND_BOOKMARK:0 "§G4NöegR,g§! - 1WÍkKN0W"
+ RIG_EXPAND_BOOKMARK_DESC:0 "(W±S Ræt³lNÌ‘ RŒn„v²NGlYÿ+OËzNwNµ^‰Lq„vÎW^0ê1150t^åT—VpQFUºN(W‰·Vôu³u³l³lãSYVËYÑSUS00R1201t^ASWR›Q,rN!k0R¾)Rƒl<SšNv^ú^Ëz!X’W0Ïu†SS¹eASWR›Q„vÈuÓuÿQ0R1366t^'YINYe:S(Wb:NìrËzÎW^ÿ°s(W„vÌ‘ RòTÏu¦^Ç†N¥cÑ	NŒvt^„vöeIQ0\nPå‚XR(WN*NQY:gÿŠbácOO`ONbýwY“bOO„v:gOÿÙµ^ÎW^SOQ!kqÑS°eu\nÍ‘°e2U’‘òTÏu÷1YRÃV„v‘šëXâVÿ(W`O„v†˜üRKNN©‹ÖNìNÍ‘ÞVckhÿQ!kþbw(WÍu±ƒ˜b­e„vRQRN°QVn-N«ˆ°QS„vASWRÌe×eÿQ¦^Í‘=TS¹eASWR›Qÿ±›N™„S„vÇŽVS(WIN„vgqwKNNÍ‘°eèpèpu‰ÿgTEeWÿÅbwtel™'kWôTKN0WVïz„vO‹TÿQ!khËz)YINYeO„vCgZÿgTÜ¹eÿSIN„vIQ’‚mT^–„vIƒŸSNôTSr^KN0WÿQ0R1WÎW6wï’d·Q...\n§Yw›s)RšNKN0WAucƒOçeÿÌ‘ RSçuíuMRLˆÿÈT*geg0§!"
+ 
+ rig_riga_episcopal_ties_modifier:0 "Ye÷^Ow"
+ desc_rig_riga_episcopal_ties_modifier:0 ""
+ rig_restructure_internal_affairs:0 "Lˆ?eÍ‘Äu"
+ desc_rig_restructure_internal_affairs_desc:0 ""
+ rig_restructure_internal_affairs_subject:0 "Lˆ?eÍ‘Äu"
+ desc_rig_restructure_internal_affairs_subject:0 ""
+ riga_stability_city_modifier:0 "Ì‘ RÎW^kS–"
+ desc_riga_stability_city_modifier:0 ""
+ riga_reinforce_the_wall_modifier:0 " RúVÎW™X"
+ desc_riga_reinforce_the_wall_modifier:0 ""
+ rig_trade_city_overlord_modifier:0 "Ì‘ Ryr¸‹8f:S"
+ desc_rig_trade_city_overlord_modifier:0 ""
+ rig_trade_city_subject_modifier:0 "Ì‘ Ryr¸‹8f:S"
+ desc_rig_trade_city_subject_modifier:0 ""
+ rig_knightage_vissal_subject_modifier:0 "‘šëXâV"
+ desc_rig_knightage_vissal_subject_modifier:0 ""
+ rig_knightage_vissal_subject_modifier_more:0 "¾|•‘šëXâV"
+ desc_rig_knightage_vissal_subject_modifier_more:0 ""
+ rig_knightage_vissal_subject_modifier_one_city:0 "ÝOkSÌ‘ R"
+ desc_rig_knightage_vissal_subject_modifier_one_city:0 ""
+ rig_knightage_vissal_overlord_modifier:0 "=eôc‘šëXâV"
+ desc_rig_knightage_vissal_overlord_modifier:0 ""
+ rig_episcopal_administrative_district_subject_modifier:0 "INYeLˆ?e:S"
+ desc_rig_episcopal_administrative_district_subject_modifier:0 ""
+ rig_episcopal_administrative_district_overlord_modifier:0 "Lˆ?e:SÐLˆ"
+ desc_rig_episcopal_administrative_district_overlord_modifier:0 ""
+ rig_episcopal_economic_district_subject_modifier:0 "INYeÏuNm:S"
+ desc_rig_episcopal_economic_district_subject_modifier:0 ""
+ rig_episcopal_economic_district_subject_modifier_more_1:0 "Aucƒ„vÏuNm:S"
+ desc_rig_episcopal_economic_district_subject_modifier_more_1:0 ""
+ rig_episcopal_economic_district_subject_modifier_more_2:0 "VÑSÏuNm:S"
+ desc_rig_episcopal_economic_district_subject_modifier_more_2:0 ""
+ rig_episcopal_economic_district_overlord_modifier:0 "ÏuNm:SÐLˆ"
+ desc_rig_episcopal_economic_district_overlord_modifier:0 ""
+ rig_episcopal_military_district_subject_modifier:0 "INYe›Q:S"
+ desc_rig_episcopal_military_district_subject_modifier:0 ""
+ rig_episcopal_military_district_subject_modifier_more:0 "'Y¹:S"
+ desc_rig_episcopal_military_district_subject_modifier_more:0 ""
+ rig_episcopal_military_district_subject_TEU:0 "ag˜‘šëXâVcüR"
+ desc_rig_episcopal_military_district_subject_TEU:0 ""
+ rig_episcopal_military_district_subject_LIV:0 "RQR‘šëXâVcüR"
+ desc_rig_episcopal_military_district_subject_LIV:0 ""
+ rig_episcopal_military_district_subject_KNI:0 "ISb–‘šëXâVcüR"
+ desc_rig_episcopal_military_district_subject_KNI:0 ""
+ rig_episcopal_military_district_subject_KTP:0 "1W¿k‘šëXâVcüR"
+ desc_rig_episcopal_military_district_subject_KTP:0 ""
+ rig_episcopal_military_district_overlord_modifier:0 "›Q:SÐLˆ"
+ desc_rig_episcopal_military_district_overlord_modifier:0 ""
+ cathedral_of_riga_modifier:0 "Ì‘ RINYePWX"
+ desc_cathedral_of_riga_modifier:0 ""
+ market_of_riga_modifier:0 "Ì‘ RwmNè•7b"
+ desc_market_of_riga_modifier:0 ""
+ fortification_of_riga_modifier:0 "Ì‘ RÎW!X"
+ desc_fortification_of_riga_modifier:0 ""
+ rig_integrated_the_danzig_confederacy:0 "teT‘šëXâV"
+ desc_rig_integrated_the_danzig_confederacy:0 ""
+ riga_barrier_modifier:1 "Ì‘ RÁX’W²"
+ desc_riga_barrier_modifier:0 ""
+ rig_scandinavian_strategy_modifier:0 "¯e*X„v³uôušNbeu"
+ desc_rig_scandinavian_strategy_modifier:0 ""
+ rig_commercial_espionage_modifier:0 "FUNô•Œ"
+ desc_rig_commercial_espionage_modifier:0 ""
+ rig_safty_north_tt:0 "Ì‘ RâlW„vwm8f8—Cg"
+ rig_greate_north_war_sca_modifier:0 "'YS¹eb‰N"
+ desc_rig_greate_north_war_sca_modifier:0 ""
+ rig_greate_north_war_modifier:0 "'YS¹eb‰N"
+ desc_rig_greate_north_war_modifier:0 ""
+ rig_hansa_league_mercantile_modifier:0 "Ì‘ RFUNbeu"
+ desc_rig_hansa_league_mercantile_modifier:0 "Ì‘ RINYe:SùRIl(„TT„vbeu>eV†Nê«ŽùR8f„vŒcµcÿ‰V•^²NÙu†N^:WåNÊS^SýVÛLˆVüR8fÿbìNjO:NÌ‘ R„v^SýVïSåNÎN-N·ƒ—VèT'Y6eÊvÿNÇ8f¹eT„v>PœeOüRôbìNàe‡fŒ˜ÊS›Q–„v‹NÅ`0"
+ rig_hansa_league_goods_output_modifier:0 "Ì‘ RFUNbeu"
+ desc_rig_hansa_league_goods_output_modifier:0 ""
+ rig_hsa_trade_solution:0 "Il(„Tßv8fbeu"
+ desc_rig_hsa_trade_solution:0 ""
+ rig_riga_hansa_trade_conflict_normal:0 "Ì‘ R-Il(„8f‰NïzÄ‰!jÿ§GS§!"
+ desc_rig_riga_hansa_trade_conflict_normal:0 ""
+ rig_riga_hansa_trade_conflict_aggravate:0 "Ì‘ R-Il(„8f‰NïzÄ‰!jÿ§YN,‚§!"
+ desc_rig_riga_hansa_trade_conflict_aggravate:0 ""
+ rig_riga_hansa_trade_conflict_seriousness:0 "Ì‘ R-Il(„8f‰NïzÄ‰!jÿ§O'Y§!"
+ desc_rig_riga_hansa_trade_conflict_seriousness:0 ""
+ rig_riga_hansa_trade_conflict_extremely_seriousness:0 "Ì‘ R-Il(„8f‰NïzÄ‰!jÿ§MèT'Y§!"
+ desc_rig_riga_hansa_trade_conflict_extremely_seriousness:0 ""
+ rig_riga_hansa_trade_conflict_out_of_control:0 "Ì‘ R-Il(„8f‰NïzÄ‰!jÿ§R1Y»Sµc6R§!"
+ desc_rig_riga_hansa_trade_conflict_out_of_control:0 ""
+ rig_the_rigan_trade_league_modifier:0 "Ì‘ RFUNTßv"
+ desc_rig_the_rigan_trade_league_modifier:0 ""
+ rig_north_german_trade_battle_seriousness:0 "8fb‰NÍ‘Œp:S"
+ desc_rig_north_german_trade_battle_seriousness:0 ""
+ rig_north_german_trade_battle_common:0 "8fb‰NqVÍT0W:S"
+ desc_rig_north_german_trade_battle_common:0 ""
+ rig_north_german_trade_bttle_rig_subject_modifier:0 "S·Va×V8fb‰N¡‹R"
+ desc_rig_north_german_trade_bttle_rig_subject_modifier:0 ""
+ rig_north_german_trade_victor:0 "S·Va×V8fb‰NÜw)Rw"
+ desc_rig_north_german_trade_victor:0 ""
+ rig_ros_war_modifier:0 "NSW¯ebeu"
+ desc_rig_ros_war_modifier:0 ""
+ rig_hide_an_weapon:0 "…Vöew¨R"
+ desc_rig_hide_an_weapon:0 ""
+ rig_ros_war_modifier_1:0 "cENbeu"
+ desc_rig_ros_war_modifier_1:0 ""
+ rig_ros_war_modifier_2:0 "Iebeu"
+ desc_rig_ros_war_modifier_2:0 ""
+ rig_an_unexpected_war:0 "ËY™e*gÊS„vb‰N"
+desc_rig_an_unexpected_war:0 "nf¯eÑy+Y„vz6qwINSb4x†NbìN„vbeuèrÿàVdk(WÍ‘ú^beuèrKNMRÿbìNè–„vOSŒ'`SO'YE^¦^NM–0"
+ rig_rus_war_psk_uprising:0 "W¯eEeW"
+ desc_rig_rus_war_psk_uprising:0 ""
+ rig_liv_morale_is_high:0 "ê–Iw°QVn"
+ desc_rig_liv_morale_is_high:0 ""
+ rig_poland_ruthenia_strategy:0 "âlpQ-œ^X<SšNbeu"
+ desc_rig_poland_ruthenia_strategy:0 ""
+ rig_advance_sloly_fight_quickly:0 "Û%`Iebeu"
+ desc_rig_advance_sloly_fight_quickly:0 ""
+ rig_riga_high_devotion_modifier:0 "Ì‘ Råb	gØšIY.s¦^"
+ desc_rig_riga_high_devotion_modifier:0 ""
+ rig_riga_low_devotion_modifier:0 "Ì‘ Råb	gNOIY.s¦^"
+ desc_rig_riga_low_devotion_modifier:0 ""
+ rig_riga_high_prestige_modifier:0 "Ì‘ Råb	gØšZg"
+ desc_rig_riga_high_prestige_modifier:0 ""
+ rig_riga_high_diplomatic_reputation_modifier:0 "Ì‘ Råb	gØšY²NðX‰Š"
+ desc_rig_riga_high_diplomatic_reputation_modifier:0 ""
+ rig_province_adm_integration:0 "teTÍ‘ú^"
+ desc_rig_province_adm_integration:0 ""
+ rig_estate_rig_knightage_enlarge_the_knight_modifier:0 "ib‘šëXâV"
+ desc_rig_estate_rig_knightage_enlarge_the_knight_modifier:0 ""
+ rig_joint_operation_subject:0 "TwTjOb"
+ desc_rig_joint_operation_subject:0 ""
+ rig_joint_operation_overlord:0 "TwTjOb"
+ desc_rig_joint_operation_overlord:0 ""
+ the_heart_of_baltic_modifier:0 "âlW„vKNÃV"
+ desc_the_heart_of_baltic_modifier:0 ""
+ rig_riga_military_system:0 "Ì‘ R›Q‹NSOû|"
+ desc_rig_riga_military_system:0 ""
+ rig_foreign_missionary_reform_modifier:0 "Yc.OYeëX"
+ desc_rig_foreign_missionary_reform_modifier:0 ""
+ rig_armed_pilgrimage_reform_modifier:0 "fkÅˆg1W"
+ desc_rig_armed_pilgrimage_reform_modifier:0 ""
+ rig_the_holy_knights_reform_modifier:0 "1W‘šëXâV"
+ desc_rig_the_holy_knights_reform_modifier:0 ""
+ rig_riga_legate_of_holy_see_reform_modifier:0 "Ì‘ RYe÷^O‚‚"
+ desc_rig_riga_legate_of_holy_see_reform_modifier:0 ""
+ rig_riga_military_region_system_reform_modifier:0 "Ì‘ R›Q:S"
+ desc_rig_riga_military_region_system_reform_modifier:0 ""
+ rig_northern_crusades_reform_modifier:0 "S¹eASWR›Q"
+ rig_congress_of_the_people_and_dioceses_of_all_riga_reform_modifier:0 "Lˆ?eÓbUS"
+ desc_rig_congress_of_the_people_and_dioceses_of_all_riga_reform_modifier:0 ""
+ desc_rig_northern_crusades_reform_modifier:0 ""
+ rig_riga_administrative_system_reform_modifier:0 "R:SLˆ?eû|ßu"
+ desc_rig_riga_administrative_system_reform_modifier:0 ""
+ rig_feed_the_people_reform_modifier:0 "‰Q²wºNl"
+ desc_rig_feed_the_people_reform_modifier:0 ""
+ rig_city_expand_project:0 "ÎW^ÓbUS¡‹R"
+ desc_rig_city_expand_project:0 ""
+ rig_world_city_fulcrum:0 "§GnfNÎW¡‹R=e¹pÎW^§!"
+ desc_rig_world_city_fulcrum:0 ""
+ rig_adm_system_of_riga:0 "§YÐLˆSïS„vÌ‘ RLˆ?eSOû|§!"
+ desc_rig_adm_system_of_riga:0 ""
+ rig_military_system_of_riga:0 "§RP%„vÌ‘ R›Q‹NSOû|§!"
+ desc_rig_military_system_of_riga:0 ""
+ rig_riga_religious_dilemma:0 "§YÌ‘ R—RYeðVƒX§!"
+ desc_rig_riga_religious_dilemma:0 ""
+ rig_riga_religious_dilemma_subject:0 "§YÌ‘ R—RYeðVƒX§!"
+ desc_rig_riga_religious_dilemma_subject:0 ""
+ rig_military_reorganization_modifier:0 "›Q–Í‘Äu"
+ desc_rig_military_reorganization_modifier:0 ""
+ rig_military_theory_innovation_modifier:0 "›Q‹Ntº‹i—°e"
+ desc_rig_military_theory_innovation_modifier:0 ""
+ rig_promotion_of_new_talent_modifier:0 "ÐcÔb°eÀy"
+ desc_rig_promotion_of_new_talent_modifier:0 ""
+ rig_uniform_oreder_modifier_overlord:0 "ßuN÷SäN"
+ desc_rig_uniform_oreder_modifier_overlord:0 ""
+ rig_uniform_oreder_modifier_subject:0 "ßuN÷SäN"
+ desc_rig_uniform_oreder_modifier_subject:0 ""
+ rig_military_organization_reform_modifier:0 "›Q‹NÄuÇu9ei—"
+ desc_rig_military_organization_reform_modifier:0 ""
+ rig_riga_steel_guardian_modifier:0 "Ì‘ RÁ”kS"
+ desc_rig_riga_steel_guardian_modifier:0 ""
+ rig_border_brave_army_modifier:0 "¹:S`ÇR"
+ desc_rig_border_brave_army_modifier:0 ""
+ rig_new_army_of_riga:0 "Ì‘ R°e›Q"
+ desc_rig_new_army_of_riga:0 ""
+ rig_use_more_army_modifier_overlord:0 "HQÛeˆÙu¿u"
+ desc_rig_use_more_army_modifier_overlord:0 ""
+ rig_use_more_army_modifier_subject:0 "HQÛeˆÙu¿u"
+ desc_rig_use_more_army_modifier_subject:0 ""
+ rig_rig_use_less_army_modifier_overlord:0 "HQÛÍdÃuû|ßu"
+ desc_rig_rig_use_less_army_modifier_overlord:0 ""
+ rig_use_less_army_modifier_subject:0 "HQÛÍdÃuû|ßu"
+ desc_rig_use_less_army_modifier_subject:0 ""
+ rig_riga_campaig_planig_departmet_reform_modifier:0 "Ì‘ Rb‰N¡‹Rè"
+ desc_rig_riga_campaig_planig_departmet_reform_modifier:0 ""
+ rig_government_stability_low:0 "SVMR?eœ^3zšR¦^ÿƒNO"
+ desc_rig_government_stability_low:0 ""
+ rig_government_stability_seriousness:0 "SVMR?eœ^3zšR¦^ÿgNO"
+ desc_rig_government_stability_seriousness:0 ""
+ rig_government_stability_collapse:0 "SVMR?eœ^3zšR¦^ÿ)Tƒn"
+ desc_rig_government_stability_collapse:0 ""
+ rig_make_war_plans_1_modifier:0 "Ì‘ Rb‰N¡‹RÍ‘ÃVÿÛIe"
+ desc_rig_make_war_plans_1_modifier:0 ""
+ rig_make_war_plans_2_modifier:0 "Ì‘ Rb‰N¡‹RÍ‘ÃVÿ2–ˆR"
+ desc_rig_make_war_plans_2_modifier:0 ""
+ rig_make_war_plans_3_modifier:0 "Ì‘ Rb‰N¡‹RÍ‘ÃVÿˆmw"
+ desc_rig_make_war_plans_3_modifier:0 ""
+ rig_riga_military_preparations:0 "N‹NñOY"
+ desc_rig_riga_military_preparations:0 ""
+ rig_greate_war_of_riga_modifier:0 "O'YbyV"
+ desc_rig_greate_war_of_riga_modifier:0 ""
+ rig_administrative_restructuring_modifier:0 "Lˆ?eÍ‘Äu"
+ desc_rig_administrative_restructuring_modifier:0 ""
+ riga_be_ready_for_battle:0 "•gb…Væe"
+ desc_riga_be_ready_for_battle:0 ""
+ riga_conflagration_modifier:0 "Ì‘ R'Ykp"
+ desc_riga_conflagration_modifier:0 ""
+ KNI_stronghold_modifier:0 "ISb–‘šëXâVI`è"
+ desc_KNI_stronghold_modifier:0 "ISb–‘šëXâV„vI`è¾‹Ëz(WÙÌ‘ÿÏu%„NwÙµ^›SSÿÝOkSNwâlW„vwm„vFUïv^ÑSUSåT—VpQ„vÏuNmÿv^(WÅV‰KNöe:N†NáOðNwb0"
+ rig_church_state:0 "YeOKNýV"
+ desc_rig_church_state:0 ""
+ rgl_the_promised_land:0 "”^¸‹KN0W"
+ desc_rgl_the_promised_land:0 ""
+ rgl_material_shortage:0 "irD.SON"
+ desc_rgl_material_shortage:0 ""
+ rig_overseas_mission_reform_modifier:0 "wmY±RYe"
+ desc_rig_overseas_mission_reform_modifier:0 ""
+ rig_joint_publicity_reform_modifier:0 "TwT±RYe"
+ desc_rig_joint_publicity_reform_modifier:0 ""
+ rig_cultural_melting_pot:0 "‡eS'Y”q‰p"
+ desc_rig_cultural_melting_pot:0 ""
+ rig_adm_military_readiness_act_reform_modiifer:0 "›Q‹NÆQYag‹O"
+ desc_rig_adm_military_readiness_act_reform_modiifer:0 ""
+ rig_adm_cultural_integration_act_reform_modifier:0 "‡eS‡Tag‹O"
+ desc_rig_adm_cultural_integration_act_reform_modifier:0 ""
+ rig_adm_decentralization_act_reform_modifier:0 "RCgag‹O"
+ desc_rig_adm_decentralization_act_reform_modifier:0 ""
+ rig_adm_administrative_expansion_act_modifier:0 "Lˆ?eib.Vag‹O"
+ desc_rig_adm_administrative_expansion_act_modifier:0 ""
+ rig_eco_self_defence_act_reform_modifier:0 "êkSag‹O"
+ desc_rig_eco_self_defence_act_reform_modifier:0 ""
+ rig_eco_emancipation_act_reform_modifier:0 "ã‰>eag‹O"
+ desc_rig_eco_emancipation_act_reform_modifier:0 ""
+ rig_eco_chartered_economic_zone_ordinance_reform_modifier:0 "yr¸‹ag‹O"
+ desc_rig_eco_chartered_economic_zone_ordinance_reform_modifier:0 ""
+ rig_mil_integration_act_reform_modifier:0 "›Q‹NNSOSag‹O"
+ desc_rig_mil_integration_act_reform_modifier:0 ""
+ rig_mil_garrison_act_reform_modifier:0 "kSbag‹O"
+ desc_rig_mil_garrison_act_reform_modifier:0 ""
+ rig_use_lightning_war_modifier:0 "ÛIeÍ‘ÃV"
+ desc_rig_use_lightning_war_modifier:0 ""
+ rig_use_protracted_war_modifier:0 "2–¡VÍ‘ÃV"
+ desc_rig_use_protracted_war_modifier:0 ""
+ rig_use_more_supplies_modifier:0 "eˆÙuÍ‘ÃV"
+ desc_rig_use_more_supplies_modifier:0 ""
+ rig_use_faster_replenishment_modifier:0 "eˆXTÍ‘ÃV"
+ desc_rig_use_faster_replenishment_modifier:0 ""
+ rig_add_modifier_for_subject_and_self:0 "bìN„v^SýVmNS·ƒ—V‚YNîOck"
+ rig_a_thriving_shipbuilding_industry:0 "Aucƒ„v.9‚N"
+ desc_rig_a_thriving_shipbuilding_industry:0 ""
+ rig_riga_combined_fleet_reform_overlord_modifier:0 "Ì‘ RTwT0‚–"
+ desc_rig_riga_combined_fleet_reform_overlord_modifier:0 ""
+ rig_riga_combined_fleet_reform_subject_modifier:0 "Ì‘ RTwT0‚–"
+ desc_rig_riga_combined_fleet_reform_subject_modifier:0 ""
+ rig_riga_city_size_1:0 "§YÌ‘ RÎW^Ä‰!j(§G1§!)§!"
+ desc_rig_riga_city_size_1:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y100§!"
+ rig_riga_city_size_2:0 "§YÌ‘ RÎW^Ä‰!j(§G2§!)§!"
+ desc_rig_riga_city_size_2:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y200§!"
+ rig_riga_city_size_3:0 "§YÌ‘ RÎW^Ä‰!j(§G3§!)§!"
+ desc_rig_riga_city_size_3:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y300§!"
+ rig_riga_city_size_4:0 "§YÌ‘ RÎW^Ä‰!j(§G4§!)§!"
+ desc_rig_riga_city_size_4:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y400§!"
+ rig_riga_city_size_5:0 "§YÌ‘ RÎW^Ä‰!j(§G5§!)§!"
+ desc_rig_riga_city_size_5:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y500§!"
+ rig_riga_city_size_6:0 "§YÌ‘ RÎW^Ä‰!j(§G6§!)§!"
+ desc_rig_riga_city_size_6:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y600§!"
+ rig_riga_city_size_7:0 "§YÌ‘ RÎW^Ä‰!j(§G7§!)§!"
+ desc_rig_riga_city_size_7:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y700§!"
+ rig_riga_city_size_8:0 "§YÌ‘ RÎW^Ä‰!j(§G8§!)§!"
+ desc_rig_riga_city_size_8:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y800§!"
+ rig_riga_city_size_9:0 "§YÌ‘ RÎW^Ä‰!j(§G9§!)§!"
+ desc_rig_riga_city_size_9:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y900§!"
+ rig_riga_city_size_10:0 "§YÌ‘ RÎW^Ä‰!j(§G10§!)§!"
+ desc_rig_riga_city_size_10:0 "ïSú^¾‹g'YÑSUS¦^ÿ§Y1000§!"
+ rig_urban_renewal:0 "ÎW^Í‘ú^¡‹R"
+ desc_rig_urban_renewal:0 ""
+ rig_support_rigalia_modifier:0 "Ì‘ R)RšN=eôc¡‹R"
+ desc_rig_support_rigalia_modifier:0 ""
+ rig_heading_for_the_dense_forest:0 "TÆR—gÛÑS"
+ desc_rig_heading_for_the_dense_forest:0 ""
+ rig_early_coffee_plantations:0 "éeg–TaUÍyiíV"
+ desc_rig_early_coffee_plantations:0 ""
+ rig_unified_mining_system:0 "ßuNVÇ‘6R¦^"
+ desc_rig_unified_mining_system:0 ""
+ rig_urban_revitalization_plan:0 "ÎW^=ctQ¡‹R"
+ desc_rig_urban_revitalization_plan:0 ""
+ rig_egy_mediterranean_granary:0 "0W-Nwm®|ÓN"
+ desc_rig_egy_mediterranean_granary:0 ""
+ rig_country_rehabilitate:0 "îO‰Quo`"
+ desc_rig_country_rehabilitate:0 ""
+ rig_build_largely_modifier:0 "'YtQW(g"
+ desc_rig_build_largely_modifier:0 ""
+ rig_build_silk_farm:0 "ú^ËzNøuœQ:W"
+ desc_rig_build_silk_farm:0 ""
+ rig_siberian_fur_exchange:0 "tQú^Ûk®v²NfNb"
+ desc_rig_siberian_fur_exchange:0 ""
+ rig_riga_ideal_city_complex_modifier:0 "Ì‘ Rtó`ÎWüuTSO"
+ desc_rig_riga_ideal_city_complex_modifier:0 "bìNS‡NLuŽNNÎWÿQrNÎW:NNLu"
+ rig_heavenly_praise:0 ")Yyz<y^"
+ desc_rig_heavenly_praise:0 ""
+ rig_heavenly_praise_subject:0 ")YX*mAm"
+ desc_rig_heavenly_praise_subject:0 ""
+
+ greate_war_of_riga_name:0 "$ORDER$$FIRST$ˆ”ùR$SECOND_NAME$„v§YO'YbyV§!"
+ po_rig_dismemberment_country:0 "¢wã‰ýV¶R"
+ po_rig_dismemberment_country_desc:0 ""
+ CB_ALLOWED_po_rig_dismemberment_country:0 "«ˆ¢wã‰ýV¶RÑSUS¦^ÅV‰˜'YŽN350"
+ PEACE_po_rig_dismemberment_country:0 "¢wã‰ýV¶R"
+ cb_greate_war_of_riga_conquer_provice:0 "O'YbyV"
+ cb_greate_war_of_riga_conquer_provice_desc:0 ""
+ riga_greate_war_conquer_provice:0 "O'YbyV"
+ riga_greate_war_conquer_provice_desc:0 ""
+ cb_greate_war_of_riga_vassalize:0 "O'YbyV"
+ cb_greate_war_of_riga_vassalize_desc:0 ""
+ riga_greate_war_vassalize:0 "O'YbyV"
+ riga_greate_war_vassalize_desc:0 ""
+ cb_greate_war_of_riga_dismemberment_country:0 "O'YbyV"
+ cb_greate_war_of_riga_dismemberment_country_desc:0 ""
+ riga_greate_war_dismemberment_country:0 "O'YbyV"
+ riga_greate_war_dismemberment_country_desc:0 ""
+ riga_papaer_need:0 "Ì‘ RLˆ?e—Bl"
+ rig_overseas_episcopate_overlord_modifier:0 "wmYINYe:S"
+ desc_rig_overseas_episcopate_overlord_modifier:0 ""
+ rig_overseas_episcopate_subject_modifier:0 "wmYINYe:S"
+ desc_rig_overseas_episcopate_subject_modifier:0 ""
+ rig_ecumenopolis_ideal_modifier:0 "nfNÎWtó`"
+ desc_rig_ecumenopolis_ideal_modifier:0 ""
+ rig_faith_and_people_modifier:0 "áOðNNºNl"
+ desc_rig_faith_and_people_modifier:0 ""
+ rig_heart_of_world_modifier:0 "NLuKNÃV"
+ desc_rig_heart_of_world_modifier:0 ""
+
+ rig_change_sbject_trade_city_actions_title:0 "lbc:N§GÌ‘ Ryr¸‹8f:S§!"
+ rig_change_sbject_trade_city_actions_desc:0 "Sîvh^SýVlbc:NyrŠkD–¸^ÿ§GÌ‘ Ryr¸‹8f:S§!\n\n§GÌ‘ Ryr¸‹8f:S§!åb	gåNNyr¹pÿ\n\n1.êSýwåb	gNµ^ÎW^0\n\n2.NO ReQ§YÌ‘ R§!„vÛIeb‰N0\n\n3.Ïk*N§GÌ‘ Ryr¸‹8f:S§!ýOÐc›OÙu§YÌ‘ R§!SÏ‘„vFUÁTµNúQ08fHe‡s0t^¦^z6e0uµNHe‡s Rb0\n\n4.å‹‰|‹W^SýVåb	g§G˜Y§!„v§YFUºNâV§!åNÊS§Y8føvsQ„v Rb§!0"
+ rig_change_sbject_trade_city_actions_tooltip:0 "Sîvh^SýVlbc:NyrŠkD–¸^ÿ§GÌ‘ Ryr¸‹8f:S§!"
+ rig_end_inspection_of_vassal_title:0 "§YÓumgáTÆ‰§!"
+ rig_end_inspection_of_vassal_desc:0 "ÓumgùR^SýV„váTÆ‰ÿÔÞVÌ‘ R"
+ rig_end_inspection_of_vassal_tooltip:0 "å‹ÞV¶R†N"
+ rig_inspection_of_vassal_title:0 "§YáTÆ‰^SýV§!"
+ rig_inspection_of_vassal_desc:0 "Rbcóå‹ýV¶RÛLˆ8n©sÿAQ¸‹bìNùRvQck(WÛLˆ„vLˆ:NÛLˆ®VÍd0‚Yœg`ON?a(rË†AIegµc6RÌ‘ R„vÝ‹ÿ§R÷‹‚fjPÍdjOÿ§!"
+ rig_inspection_of_vassal_tooltip:0 "Rbcóå‹ýV¶RÛLˆ8n©s"
+ rig_inspection_of_vassal.effect.tt:0 "ïSåN(W§YY²NLˆ¨R§!-N	éb§YÓumgáTÆ‰§!RbcÞV§YÌ‘ R§!"
+ rig_change_sbject_episcopal_administrative_district_actions_title:0 "lbc:N§YINYeLˆ?e:S§!"
+ rig_change_sbject_episcopal_administrative_district_actions_desc:0 "Sîvh^SýVlbc:NyrŠkD–¸^ÿ§YINYeLˆ?e:S§!\n\n§YINYeLˆ?e:S§!åb	g§G˜Y„vLˆ?e¹RÏ‘§!N§G.OYeøvsQ„v Rb§!ÿv^	g§Gƒ:V„vôu3z Rb§!ÿýwY	gHe¡rt'YÏ‘°eVg„vVYeV‡eSW0WÿvQØåb	gåNNyr¹pÿ\n\n1.Ïk*N§YINYeLˆ?e:S§!SO§RÏQS§!§YÌ‘ R§!„v§Y8fHe‡s§!0§Yz6eåNÊSºN›R§!0\n\n2.(W§YÌ‘ R§!åb	g§YØšIY.s¦^§!KNöe·ƒ—V˜Y„v§Y—RYeßuN§!0\n\n3.(W§YÌ‘ R§!åb	g§YNOIY.s¦^§!b§YNOZg§!KNöe§RžX RìrËz>PT§!ÿÍSKNR§GM–NOìrËz>PT§!0"
+ rig_change_sbject_episcopal_administrative_district_actions_tooltip:0 "Sîvh^SýVlbc:NyrŠkD–¸^ÿ§YINYeLˆ?e:S§!"
+ rig_change_sbject_episcopal_economic_district_actions_title:0 "lbc:N§MINYeÏuNm:S§!"
+ rig_change_sbject_episcopal_economic_district_actions_desc:0 "Sîvh^SýVlbc:NyrŠkD–¸^ÿ§MINYeÏuNm:S§!\n\n§MINYeÏuNm:S§!	g§GƒØš„vFUÁTµNúQ§!0§GuµNHe‡s Rb§!v^åb	g§Gƒ:V„v8f›RÏ‘ Rb§!01uŽNwQ	g§RƒØš„vF–›Qôu²b9§!åNÊS§RôfNO„vF–›QÄ‰!j§!ÿàVdkb—e›Rv^NØšÿTôuc‰RšRÑSUSÏuNmÿvQØåb	gåNNyr¹pÿ\n\n1.§MINYeÏuNm:S§!„v§R8fHe‡sASRNON§!ÿFOwQ	gƒØš„v8fÞz‰N›RÿàVdkú^®‹©‹vQ§Ylûy8fÞz‰N›R§!0\n\n2.(W§YÌ‘ R§!åb	g§YØšIY.s¦^§!KNöe·ƒ—V˜Y„v§Y—RYeßuN§!0\n\n3.(W§YÌ‘ R§!åb	g§YNOIY.s¦^§!b§YNOZg§!KNöe§RžX RìrËz>PT§!ÿÍSKNR§GM–NOìrËz>PT§!0"
+ rig_change_sbject_episcopal_economic_district_actions_tooltip:0 "Sîvh^SýVlbc:NyrŠkD–¸^ÿ§MINYeÏuNm:S§!"
+ rig_change_sbject_episcopal_military_district_actions_title:0 "lbc:N§RINYe›Q:S§!"
+ rig_change_sbject_episcopal_military_district_actions_desc:0 "Sîvh^SýVlbc:NyrŠkD–¸^ÿ§RINYe›Q:S§!\n\n§RINYe›Q:S§!åb	gF–›Q¹e¹eb—b—„v Rbÿ(Wb—e¹eb—åb	gASR:V'Y„vžR›RÿvQØåb	gåNNyr¹pÿ\n\n1.SV§RINYe›Q:S§!åb	g…Ç§Y25§!µ^ÎW^KNTSO·ƒ—V·ƒ—V§GÛNek„v›Q‹N Rb§!0\n\n2.§RINYe›Q:S§!„v§R8hÃVSb,gASRØš§!ÿàVdkNú^®‹S8hÃVS„våTjO²NÙuå‹‰|‹W^SýV0\n\n3.§RINYe›Q:S§!SOÎN§YÌ‘ R§!„vT*N§R‘šëXâV^SýV§!SV-N·ƒ—V˜Y„v Rb0\n\n4.(W§YÌ‘ R§!åb	g§YØšIY.s¦^§!KNöe·ƒ—V˜Y„v§Y—RYeßuN§!0\n\n5.(W§YÌ‘ R§!åb	g§YNOIY.s¦^§!b§YNOZg§!KNöe§RžX RìrËz>PT§!ÿÍSKNR§GM–NOìrËz>PT§!0"
+ rig_change_sbject_episcopal_military_district_actions_tooltip:0 "Sîvh^SýVlbc:NyrŠkD–¸^ÿ§RINYe›Q:S§!"
+ rig_transfer_control_area_to_subject_title:0 "lûyµc6R:S0Rå‹ýV"
+ rig_transfer_control_area_to_subject_desc:0 "bìNSŠbbìNNb	g„vböe`S†˜:Sûy²NÙuå‹ýV"
+ rig_transfer_control_area_to_subject_tooltip:0 "ShQèµc6R:SlûyÙuå‹ýV"
+ rig_transfer_control_area_to_overlord_title:0 "Så‹ýVµc6R:S6eÞV"
+ rig_transfer_control_area_to_overlord_desc:0 "bìNS6eÞVbìND–¸^Nb	gböe`S†˜:S"
+ rig_transfer_control_area_to_overlord_tooltip:0 "Så‹ýVhQè„vµc6R:S6eÞV"
+ rig_take_back_the_vassal_title:0 "6eÞVD–¸^"
+ rig_take_back_the_vassal_desc:0 "Så‹ýV—RINCglûy0RbìNýV¶R"
+ rig_take_back_the_vassal_tooltip:0 "1uŽNbìN„v§YINYe:S§!=få‹ýV„v—RINýVÿbìNïSåNTt„vSå‹ýV„v—RINCglûy0RbìN"
+ rig_select_the_client_to_transfer_title:0 "D–¸^lûyîvh	éb"
+ rig_select_the_client_to_transfer_desc:0 "bìNS	šRå‹ýV:NbìNlûyD–¸^„vîvh0\n\nT§YINYe:S§!SOúQ°sN*N°e„vY²NLˆ¨R§YlûyD–¸^0Rå‹ýV§!eg¥c×Så‹D–¸^0"
+ rig_select_the_client_to_transfer_tooltip:0 "	šRå‹ýVjO:NbìN—‰lûy„vîvhD–¸^ÿŒRbå‹Y²NLˆ¨RKNTSO(WbìN„vT*N§YINYe:S§!úQ°sN*N°e„vY²NLˆ¨R§YlûyD–¸^0Rå‹ýV§!egS—RINCgl²N0RvQÖN§YINYe:S§!"
+ rig_transfer_of_client_to_the_country_title:0 "§YlûyD–¸^0Rå‹ýV§!"
+ rig_transfer_of_client_to_the_country_desc:0 "SbìNKNMR	éb„vD–¸^„v—RINCgS²NˆNå‹ýV0"
+ rig_transfer_of_client_to_the_country_tooltip:0 "1uŽNbìN	éb†NN*N—‰lûy—RINCg„vD–¸^îvhÿàVdkbìNïSåNSå‹îvh—RINCglûy0RûNa§YINYe:S§!^SýV"
+ rig_change_vassal_to_rig_vassal_title:0 "ú^Ëz§JÌ‘ Ryr¸‹D–^SýV§!"
+ rig_change_vassal_to_rig_vassal_desc:0 "Så‹ýVlbcb§JÌ‘ Ryr¸‹D–^SýV§!"
+ rig_change_vassal_to_rig_vassal_tooltip:0 "SnfD–¸^lbcb§JÌ‘ Ryr¸‹D–^SýV§!ÿå‹‰|‹W^SýVd–àeÕl«ˆTv^KNYÿvQÖNyr'`NnfD–¸^ýVNô"
+ rig_change_rig_vassal_to_vassal_title:0 "lbc:NnfD–¸^ýV"
+ rig_change_rig_vassal_to_vassal_desc:0 "Så‹ýVlbc:NnfD–¸^ýV"
+ rig_change_rig_vassal_to_vassal_tooltip:0 "S§JÌ‘ Ryr¸‹D–^SýV§!lbc:NnfD–¸^ýVÿO—VvQýwY«ˆTv^"
+ rig_drag_into_battle_title:0 "§YìS2U^SýVÂSb§!"
+ rig_drag_into_battle_desc:0 "å‹^SýVS«ˆbìNÉbeQbìNNbY„vNb	gb‰N"
+ rig_drag_into_battle_tooltip:0 "å‹§Y^SýV§!SO ReQbìN°s(WNbY„v§YNb	gb‰N§!"
+ rig_concession_trade_ordinance_title:0 "§Gyr¸‹8fag‹O§!"
+ rig_concession_trade_ordinance_desc:0 "úWNx„v8fTwßvòTÏuàeÕlán³bìNKNô•„vsQû|ÿmN¸‹2N*NýV¶RKNô•àVSVwQ†NNôfÛNek„vTjO0"
+ rig_concession_trade_ordinance_tooltip:0 "îvhýV¶RSOb:NbìN„v§GÌ‘ Ryr¸‹8f:S§!"
+ BASE_AI_ACCEPTANCE:0 "úWNxa?a"
+ rig_episcopal_administrative_district_title:0 "§YINYeLˆ?e:S§!"
+ rig_episcopal_administrative_district_title_plural:0 "§YINYeLˆ?e:S§!"
+ rig_episcopal_administrative_district_long_desc:0 "§YINYeLˆ?e:S§!"
+ rig_episcopal_administrative_district_is_our:0 "§YINYeLˆ?e:S§!"
+ rig_episcopal_economic_district_title:0 "§MINYeÏuNm:S§!"
+ rig_episcopal_economic_district_title_plural:0 "§MINYeÏuNm:S§!"
+ rig_episcopal_economic_district_long_desc:0 "§MINYeÏuNm:S§!"
+ rig_episcopal_economic_district_is_our:0 "§MINYeÏuNm:S§!"
+ rig_episcopal_military_district_title:0 "§RINYe›Q:S§!"
+ rig_episcopal_military_district_title_plural:0 "§RINYe›Q:S§!"
+ rig_episcopal_military_district_long_desc:0 "§RINYe›Q:S§!"
+ rig_episcopal_military_district_is_our:0 "§RINYe›Q:S§!"
+ rig_trade_city:0 "§GINYe8fÎW^§!"
+ rig_trade_city_title:0 "§GINYe8fÎW^§!"
+ rig_trade_city_title_plural:0 "§GINYe8fÎW^§!"
+ rig_trade_city_long_desc:0 "§GINYe8fÎW^§!"
+ rig_trade_city_is_our:0 "§GINYe8fÎW^§!"
+ rig_knightage_vissal:0 "§O‘šëXâV§!"
+ rig_knightage_vissal_title:0 "§O‘šëXâV§!"
+ rig_knightage_vissal_title_plural:0 "§O‘šëXâV§!"
+ rig_knightage_vissal_long_desc:0 "§O‘šëXâV§!"
+ rig_knightage_vissal_is_our:0 "§O‘šëXâV§!"
+ rig_overseas_episcopate:0 "§TwmYINYe:S§!"
+ rig_overseas_episcopate_title:0 "§TwmYINYe:S§!"
+ rig_overseas_episcopate_title_plural:0 "§TwmYINYe:S§!"
+ rig_overseas_episcopate_long_desc:0 "§TwmYINYe:S§!"
+ rig_overseas_episcopate_is_our:0 "§TwmYINYe:S§!"
+ rig_vassal:0 "§JÌ‘ Ryr¸‹D–^SýV§!"
+ rig_vassal_title:0 "§JÌ‘ Ryr¸‹D–^SýV§!"
+ rig_vassal_title_plural:0 "§JÌ‘ Ryr¸‹D–^SýV§!"
+ rig_vassal_long_desc:0 "§JÌ‘ Ryr¸‹D–^SýV§!"
+ rig_vassal_is_our:0 "§JÌ‘ Ryr¸‹D–^SýV§!"
+ incident_north_german_trade_war:0 "S·Va×V8fb‰N"
+ incident_north_german_trade_war_member_alert:0 "1uŽN(WFUNN„v²QzÿÌ‘ RINYe:SNIl(„Tßv†˜üRwTKQUSV†NN›NR„vFUN²QzÿwgÑÿ1uÌ‘ RINYe:SN9N¦žTÎW¦°eÄuú^„v8fTwßvSÙNb‰N¨cT†NØšno0S·Va×Vø‹¯OýV:NÝO²bê«Ž)RÊvwVËYTN¹e>Pœeÿv^ËeåN?eVr…©RNLˆ¨RåN·ƒ—Vôf'Y„v)R¦mÿFOTöeÙôf RrRÂˆ†N,g1ST	gNán„vø‹¯OKNô•„vsQû|0T0WÇ–cOuQ„vSÄ‰!j²N•N­eÿuµNÏuNm„vN3zšRmNüRô†NT0WœQlwINôf R‘˜Auÿ–Nw8fb‰N„vN­eÛLˆÿte*N^ýVýbYbS×S0R†NS·Va×V8fb‰N„vqVÍT0"
+ incident_north_german_trade_war_emperor_alert:0 "1uŽN(WFUNN„v²QzÿÌ‘ RINYe:SNIl(„Tßv†˜üRwTKQUSV†NN›NR„vFUN²QzÿwgÑÿ1uÌ‘ RINYe:SN9N¦žTÎW¦°eÄuú^„v8fTwßvSÙNb‰N¨cT†NØšno0S·Va×Vø‹¯OýV:NÝO²bê«Ž)RÊvwVËYTN¹e>Pœeÿv^ËeåN?eVr…©RNLˆ¨RåN·ƒ—Vôf'Y„v)R¦mÿFOTöeÙôf RrRÂˆ†N,g1ST	gNán„vø‹¯OKNô•„vsQû|0T0WÇ–cOuQ„vSÄ‰!j²N•N­eÿuµNÏuNm„vN3zšRmNüRô†NT0WœQlwINôf R‘˜Auÿ–Nw8fb‰N„vN­eÛLˆÿte*N^ýVýbYbS×S0R†NS·Va×V8fb‰N„vqVÍT0‡v^ÅV‰˜ùRdkÛLˆr^‰mÿåN2–bk‹N`ÛNekib'Y0"
+ north_german_trade_war_opinion_good:0 "S·Va×V8fTjO"
+ north_german_trade_war_opinion_bad:0 "S·Va×V8f²Qz"
+ rig_danmark_trade_league:0 "9N¦ž-Ì‘ R8fTwßv"
+ skn_liberty_desire_modifier:0 "ìrËzKN¦h"
+
+ riga_hansa_trade_war_modifier_for_trade_goods:0 "Ì‘ R-Il(„8fb‰NqVÍT"
+
+ estate_rig_knightage:0 "‘šëXâV"
+ estate_rig_knightage_desc:0 ""
+ estate_rig_knightage_ownership:0 "‘šëXâVNbåb	g„v†˜0W"
+ rig_knightage_loyalty_modifier:0 "‘šëXâVàVÚ‹¦^"
+ rig_knightage_influence_modifier:0 "‘šëXâVqVÍT›R"
+ rig_knightage_privilege_slots:0 "‘šëXâVyrCgýiMO"
+ EST_RIG_KNIGHTAGE_ONE_KNIGHT_COUNTRY:0 "ag˜‘šëXâV"
+ EST_RIG_KNIGHTAGE_TWO_KNIGHT_COUNTRY:0 "RQR‘šëXâV"
+ EST_RIG_KNIGHTAGE_THREE_KNIGHT_COUNTRY:0 "ISb–‘šëXâV"
+ EST_RIG_KNIGHTAGE_FOUR_KNIGHT_COUNTRY:0 "1W¿k‘šëXâV"
+ estate_rig_knightage_land_rights:0 "ˆcˆN‘šëXâV†˜0W"
+ estate_rig_knightage_land_rights_desc:0 ""
+ estate_rig_knightage_TEU_quartered:0 "ag˜‘šëXâV"
+ estate_rig_knightage_TEU_quartered_desc:0 ""
+ estate_rig_knightage_LIV_quartered:0 "RQR‘šëXâV"
+ estate_rig_knightage_LIV_quartered_desc:0 ""
+ estate_rig_knightage_KNI_quartered:0 "ISb–‘šëXâV"
+ estate_rig_knightage_KNI_quartered_desc:0 ""
+ estate_rig_knightage_KTP_quartered:0 "1W¿k‘šëXâV"
+ estate_rig_knightage_KTP_quartered_desc:0 ""
+ estate_rig_knightage_enlarge_the_knight:0 "ib‘šëXâV"
+ estate_rig_knightage_enlarge_the_knight_desc:0 ""
+ estate_rig_knightage_enlarge_the_knight_tt:0 "bìN„v§O‘šëXâV§!^SýVS—V0R‚YN Rbÿ\n§Y§G+50%§!F–›QÄ‰!j§!\n§Y§G+50%§!hQýVºN›R§!\n§Y§G-20%§!F–›Qôu²b9§!"
+ estate_rig_knightage_armed_escort:0 "bËzÌ‘ R‘šëXkS–"
+ estate_rig_knightage_armed_escort_desc:0 ""
+ estate_rig_invite_the_knights_for_guidance:0 "Ž÷‹‘šëXâVcüR"
+ estate_rig_invite_the_knights_for_guidance_desc:0 ""
+ estate_rig_enlist_the_knighs:0 "VìS‘šëXâV‘šëX"
+ estate_rig_enlist_the_knighs_desc:0 ""
+
+ merc_rig_TEU_kinght:0 "ag˜‘šëXâV"
+ merc_rig_LIV_kinght:0 "RQR‘šëXâV"
+ merc_rig_KNI_kinght:0 "ISb–‘šëXâV"
+ merc_rig_KTP_kinght:0 "1W¿k‘šëXâV"
+ merc_rig_riga_holy_kinght:0 "Ì‘ R1W‘šëX"
+ mer_rig_knights_of_saintess:0 "1WsY‘šëXâV"
+
+ rig_deal_with_prussian_confederation_title:0 "@RIG YtnfœëXTwßv"
+ rig_deal_with_prussian_confederation_desc:0 ""
+ rig_integration_scandinavia_title:0 "@RIG Tv^§Y¯e*X„v³uôušN§!ø‹ýV"
+ rig_integration_scandinavia_desc:0 ""
+ rig_integration_russia_title:0 "@RIG Tv^§YNSW¯e§!ø‹ýV"
+ rig_integration_russia_desc:0 ""
+ rig_integration_ruthenia_title:0 "@RIG Tv^§YúW…W¯e§!ø‹ýV"
+ rig_integration_ruthenia_desc:0 ""
+ rig_integration_iberia_title:0 "@RIG Tv^§YOÔk)RšN§!ø‹ýV"
+ rig_integration_iberia_desc:0 ""
+ rig_integration_italy_title:0 "@RIG Tv^§Ya'Y)R§!ø‹ýV"
+ rig_integration_italy_desc:0 ""
+ rig_integration_Netherlands_title:0 "@RIG Tv^§YNO0W§!ø‹ýV"
+ rig_integration_Netherlands_desc:0 ""
+ rig_integration_german_title:0 "@RIG Tv^§Y·Va×V§!ø‹ýV"
+ rig_integration_german_desc:0 ""
+ rig_integration_france_title:0 "@RIG Tv^§YÕlpQ‰§!ø‹ýV"
+ rig_integration_france_desc:0 ""
+ rig_integration_britain_title:0 "@RIG Tv^§YNR ˜§!ø‹ýV"
+ rig_integration_britain_desc:0 ""
+ rig_integration_malaya_title:0 "@RIG Tv^§YlšegšN§!ø‹ýV"
+ rig_integration_malaya_desc:0 ""
+ rig_integration_rajput_title:0 "@RIG Tv^§YpS¦^§!ø‹ýV"
+ rig_integration_rajput_desc:0 ""
+ rig_integration_myanmar_title:0 "@RIG Tv^§YNWSšN§!ø‹ýV"
+ rig_integration_myanmar_desc:0 ""
+ rig_papal_influence_to_improvement_title:0 "@RIG •bDNb	gYe÷^qVÍT›R›RóÑSUS¦^"
+ rig_papal_influence_to_improvement_desc:0 "§!Ïk§Y6§!¹pYe÷^qVÍT›Rlbc§Y3§!¹pÑSUS¦^(§Y1§!¹pz6e+§Y1§!¹puµN+§Y1§!¹pºN›R)\n\nÏk*NIrµuÎW^Nbýw•bDú^¾‹„vÑSUS¦^ý	gNP–ÿvQ<P:N§YÌ‘ RÎW^Ä‰!j§!„v§Y100§!P\n\nSVÑSUS¦^…ÇÏk*NIrµu„vNP–öeÿSàeÕlQÇå‹³Q®‹Ðc:yÑSUS¦^\n\nïSåNÇ³Q®‹§YibUSÌ‘ RÎW^Ä‰!j§!egÐcGS§YÌ‘ RÎW^Ä‰!j§!\n\nÎN§YÌ‘ RÎW^Ä‰!j(§G1§!)§!VËYÿÏk§YÐcGS§!§G1§!µu§YÎW^Ä‰!j§!ÿSO˜Yˆmw§Y3§!Ye÷^qVÍT›R\n\nYe÷^qVÍT›RˆmwgYÐcGSóÏk§Y30§!¹pYe÷^qVÍT›Rlbc§Y3§!¹pÑSUS¦^"
+ rig_papal_influence_to_improvement_tt:0 "SNb	gYe÷^qVÍT›Rlbc:NÑSUS¦^"
+ rig_expand_riga_city_title:0 "@RIG §YibUSÌ‘ RÎW^Ä‰!j§!"
+ rig_expand_riga_city_desc:0 "ÙSO±‚9NšRöeô•ÿibú^„vÄ‰!jŠ'YÿNb—„vöeô•mNŠ•0"
+ rig_expand_riga_city_progress_title:0 "@RIG ågw§YÌ‘ RÎW^ibú^§!Û¦^"
+ rig_expand_riga_city_progress_desc:0 ""
+ rig_expand_riga_city_progress.tt:0 "[root.rig_riga_city_building_progress_per.GetName]ÿ§Y[root.rig_riga_city_building_progress_per.GetValue]§!%"
+ rig_riga_city_building_progress_per:0 "ú^¾‹Û¦^"
+ rig_riga_change_religion_title:0 "@RIG ÷åwÔ"
+ rig_riga_change_religion_desc:0 ""
+ rig_riga_world_city_project_title:0 "@RIG §GnfNÎW¡‹R§!ÿVËYnfNÎW¡‹R"
+ rig_riga_world_city_project_desc:0 ""
+ rig_riga_stop_world_city_project_title:0 "@RIG §GnfNÎW¡‹R§!ÿ‚fjPnfNÎW¡‹R"
+ rig_riga_stop_world_city_project_desc:0 ""
+ world_city_project_investment_pool:0 "irDI`Ï‘"
+ world_city_project_base_develpment_cost:0 "úWNxÑSUSb,g"
+ world_city_project_base_develpment_cost_1:0 "§Y,rN‚‚¹p§!ÑSUSb,g"
+ world_city_project_base_develpment_cost_2:0 "§Y,rŒN‚‚¹p§!ÑSUSb,g"
+ world_city_project_base_develpment_cost_3:0 "§Y,r	N‚‚¹p§!ÑSUSb,g"
+ world_city_project_base_develpment_speed:0 "ÐcGSN!kÑSUS¦^Nb—‰„vöeô•"
+ rig_riga_add_investment_pool_title:0 "@RIG §GnfNÎW¡‹R§!ÿžX RirDÏ‘"
+ rig_riga_add_investment_pool_desc:0 ""
+ rig_riga_check_world_city_projcet_title:0 "@RIG §GnfNÎW¡‹R§!ÿågwnfNÎW¡‹RáOo`"
+ rig_riga_check_world_city_projcet_desc:0 "nfNÎWÑSUS¡‹RSåN	-N„vT*N=e¹pÎW^VËYTT*NwýNibceÐcGSÑSUS¦^ÿ‚Yå‚wýNÑSUS¦^¾0R25RçuíuThTôVSibceÑSUS¦^0"
+ rig_riga_check_world_city_projcet.tt:0 "îvMRnfNÎW¡‹RáOo`ÿ\n\n§Y[root.world_city_project_investment_pool.GetName]§!ÿ§Y[root.world_city_project_investment_pool.GetValue]§!\n§Y[root.world_city_project_base_develpment_cost.GetName]§!:N§Y[root.world_city_project_base_develpment_cost.GetValue]§!\n\n§Y,rN‚‚¹p§!MOŽNÿ§Y[rig_world_city_project_fulcrum_target_1.GetName]§!\n§Y,rN‚‚¹p§!ÑSUSîvh:Nÿ§Y[rig_world_city_project_fulcrum_province_work_target_1.GetName]§!\n[world_city_project_base_develpment_cost_1.GetName]ÿ[world_city_project_base_develpment_cost_1.GetValue]\n\n§Y,rŒN‚‚¹p§!MOŽNÿ§Y[rig_world_city_project_fulcrum_target_2.GetName]§!\n§Y,rŒN‚‚¹p§!ÑSUSîvh:Nÿ§Y[rig_world_city_project_fulcrum_province_work_target_2.GetName]§!\n[world_city_project_base_develpment_cost_2.GetName]ÿ[world_city_project_base_develpment_cost_2.GetValue]\n\n§Y,r	N‚‚¹p§!MOŽNÿ§Y[rig_world_city_project_fulcrum_target_3.GetName]§!\n§Y,r	N‚‚¹p§!ÑSUSîvh:Nÿ§Y[rig_world_city_project_fulcrum_province_work_target_3.GetName]§!\n[world_city_project_base_develpment_cost_3.GetName]ÿ[world_city_project_base_develpment_cost_3.GetValue]\n\n[root.world_city_project_base_develpment_speed.GetName]ÿ[root.world_city_project_base_develpment_speed.GetValue])Y"
+ rig_add_word_city_project_investment_pool_power_title:0 "@RIG §GnfNÎW¡‹R§!ÿåNTIN¹ppebcÖSirD"
+ rig_add_word_city_project_investment_pool_power_desc:0 ""
+ rig_add_word_city_project_investment_pool_power.tt:0 "ˆmw§Y33§!¹pÏkÍyTIN¹ppe"
+ rig_add_word_city_project_investment_pool_pap_influence_title:0 "@RIG §GnfNÎW¡‹R§!ÿåNYe÷^qVÍT›RbcÖSirD"
+ rig_add_word_city_project_investment_pool_pap_influence_desc:0 ""
+ rig_add_word_city_project_investment_pool_pap_influence.tt:0 ""
+ rig_add_word_city_project_investment_pool_all_pap_influence_title:0 "@RIG §GnfNÎW¡‹R§!ÿShQèYe÷^qVÍT›RbcÖS:NirD"
+ rig_add_word_city_project_investment_pool_all_pap_influence_desc:0 ""
+ rig_add_word_city_project_investment_pool_all_pap_influence.tt:0 ""
+ rig_add_word_city_project_investment_pool_all_power_title:0 "@RIG §GnfNÎW¡‹R§!ÿShQèTIN¹ppebcÖS:NirD"
+ rig_add_word_city_project_investment_pool_all_power_desc:0 ""
+ rig_add_word_city_project_investment_pool_all_power.tt:0 ""
+ rig_enable_automatic_investment_title:0 "@RIG §GnfNÎW¡‹R§!ÿê¨R•beQÑSUSirD"
+ rig_enable_automatic_investment_desc:0 ""
+ rig_enable_automatic_investment.tt:0 "Ïk”–§Y30§!)YSOê¨R•beQ§Y3§!¹pÏkÍyTIN¹ppeN§G6§!Ye÷^qVÍT›RbcÖSNšR„virDpeÏ‘"
+ rig_dye_for_subject_title:0 "2nÓg^SýVœ˜r‚"
+ rig_dye_for_subject_desc:0 ""
+ rig_dye_for_subject.tt:0 "ÙSOŠbNb	g^SýVÓgNbìN„vœ˜r‚ÿ"
+ rig_reset_color_for_subject_title:0 "b`Y^SýVœ˜r‚"
+ rig_reset_color_for_subject_desc:0 ""
+ rig_reset_color_for_subject.tt:0 "ÙSb`YNb	g^SýVê«Ž„vœ˜r‚ÿ"
+ rig_disenable_automatic_investment_title:0 "@RIG §GnfNÎW¡‹R§!ÿjPbkê¨R•beQÑSUSirD"
+ rig_disenable_automatic_investment_desc:0 ""
+ rig_make_war_plans_title:0 "@RIG ¡‹RN:Wb‰N"
+ rig_make_war_plans_desc:0 "1uŽNbìNyrŠk„vLˆ?e›Q‹NSOû|ÿbìNùRLeºN„v±Rb³QNýwIƒ‡sLˆ‹NÿbìNÅV‰˜ÏuÇEQR„vÆQYegÑSwN:Wb‰N0"
+ rig_make_war_plans_cd.tt:0 "bìNÏk§Y3§!t^MbýwÑSwN!kb‰N¡‹Rÿ"
+ rig_start_grate_campaign_title:0 "@RIG §Y=T¨RO'YbyV§!"
+ rig_start_grate_campaign_desc:0 ""
+ rig_grate_campaign_cd_flag.tt:0 "bìNÏk§Y5§!t^MbýwÑSwN!k§YO'YbyV§!"
+ rig_stop_all_war_project_title:0 "@RIG §YÈubkNb	gb‰N¡‹R§!"
+ rig_stop_all_war_project_desc:0 "	göea™eKNY„v‹NÅ`SO%NÍ‘qVÍT0RbìN„v¡‹RÿàVdk(WÅV‰öeIR>eVbìN„v¡‹RmNv^^—NïS¥c×S"
+ rig_stop_all_war_project.tt:0 "§RÙSÈubkbìNNbck(WÛLˆ„vNRb‰N¡‹R§!"
+ fennoscandia_nation_title:"ßuN¬‚ú‹¯e*X•^šNgWW"
+ fennoscandia_nation_desc:0 "•ENåNeggSKN0W„v‹s QÛVceÿgÈuÍN6q¡l	gûNUOºNÜwúQÿ¯e*X„v³uôušNJS›S„vßuNeeàeg0'k2m„v»ýVN†Æ‰wwÿbìN”^SVSîvIQgTN¹eÿåb±b¬‚ú‹¯e*X•^šN0W:SÿQX.N*NhQ°e„vS¹e^ýV..."
+ rig_relocate_KNI_title:0 "@RIG N§YISb–‘šëXâV§!'YâV•¥cKm"
+ rig_relocate_KNI_desc:0 "1uŽNTÍyT7h„vàV.tÿISb–‘šëXâVN—VN>eVÖNìNW·V›S„v!X’WåNÊS†˜0W0KS¡r°s(WISb–‘šëXâVòTÏuÔÞVa'Y)R0W:SIm¨RÿFOISb–‘šëXâV'YâV•OçeggýwY—V0RNSWWS0WåNjO:N‘šëXâV„vnc¹pùRŽNÌ‘ R'YINYeegô‹ÿåT—VpQ›S¿O=fN•„v	éb0'YINYeS²NêMRŽVa'Y)RNYe—RÊSISb–‘šëXâV'YâV•Á‰b—ÿISb–‘šëXâVSTbìNHeàVeg·ƒ—VåT—VpQ›SN'YINYe„vÏuNm=ecåNçuíuÖNìN„vO‹T0"
+ rig_relocate_KTP_title:0 "@RIG N§Y1W¿k‘šëXâV§!'YâV•¥cKm"
+ rig_relocate_KTP_desc:0 "ÕlpQ‰ASWR›Q‹†6qv^*gÖS„vgVËY„v„˜gÿFOÍN6q(WS^—lbw†NúWcwYe„v×e^NÇÙv^NasTNwÜw)R=f8lR`„v0–Nw§Y1W¿k‘šëXâV§!S^—†˜0W„v0N1YNz<S‰šN‹sýV„v†‰mpÿÕlpQ‰ASWR›Q„vWµNòT6qS:Nppìpÿ°s(WÖNìNêSýwYÔÞVÕlpQ‰Im¨R0ùRŽN‘šëXâVegô‹ÿ¡l	gêñT„v†˜0WSOüRôê«ŽYƒX*XçVÿÍNºNFd^ÿàVdk'YINYeggåNKQÌ‘s|šNJS›S„v†˜0W·ƒÖS§Y1W¿k‘šëXâV§!„vHeàVåNçuíuÖNìN„vO‹T0"
+ rig_check_riga_authority_of_the_diocese_title:0 "@RIG ågw§Y[riga_authority_of_the_diocese.GetName]§!"
+ rig_check_riga_authority_of_the_diocese_desc:0 ""
+ rig_check_riga_authority_of_the_diocese.tt:0 "SVMR§Y[riga_authority_of_the_diocese.GetName]§!ÿ§O[riga_authority_of_the_diocese.GetValue]§!\n\n§Y[riga_authority_of_the_diocese.GetName]§!ÏkgúVšRÏQS§R1§!ÿÇ§YûN¡Rh§!åNÊSŒp¾–SV-N„v§YT‰|–:g‹NöN§!ïSåNžXÏQå‹<P\n\nŠNO„v§Y[riga_authority_of_the_diocese.GetName]§!SOæ‰ÑSŠ%NÍ‘„vb—‹NöN"
+ rig_support_rigalia_title:"@RIG =eôc§YÌ‘ R)RšN§!"
+ rig_support_rigalia_desc:0 ""
+ rig_dividing_the_administrative_system_of_the_new_world_title:0 "RR°eNLuLˆ?eSOû|"
+ rig_dividing_the_administrative_system_of_the_new_world_desc:0 ""
+ rig_check_vassal_property_title:0 "@RIG ågwT*N^SýVNbÙuˆN„vîOck"
+ rig_check_vassal_property_desc:0 "å‹³Q®‹(WŽNUS:yÌ‘ RT‰|§Y^SýV§!ÙuˆN§YÌ‘ R§!„vT‰|îOckÿ¹e¿O†Nã‰T‰|§Y^SýV§!ùRÌ‘ R„vqVÍT0"
+ rig_check_vassal_property.tt:0 "Ì‘ RNb	g§YINYe:S§!^SýVÿd–§TwmYINYe:S§!	ÿýOÙuˆN—RINýV‚YNîOckÿ\n§R-0.5§!t^¦^Zg\n§G+0.5§!t^¦^Ye÷^qVÍT›R\n\n§Y¹pûQ³Q®‹ïSåNUSVô‹f‹NöN§!\n\nÏk*N§GÌ‘ Ryr¸‹8f:S§!SOÙuˆN—RINýV‚YNîOckÿ\n§G+2%§!8fHe‡s\n§G+1%§!8fVüR\n§G+12§!t^¦^z6e\n§G+2%§!uµNHe‡s\n§G+1%§!hQNSFUÁTµNúQ\n\nÏk*N§YINYeLˆ?e:S§!SOÙuˆN—RINýV‚YNîOckÿ\n§G+15%§!uµNHe‡s\n§G+5%§!F–›QNP–\n§R-15%§!z6e6eeQ\n§R-15%§!hQýVºN›R\n§R-15%§!8fHe‡s\n\nÏk*N§MINYeÏuNm:S§!SOÙuˆN—RINýV‚YNîOckÿ\n§G+0.3§!hQNSFUÁTµNúQ\n§G+2%§!hQNSFUÁTµNúQ\n§G+10%§!hQýVºN›R\n§G+10%§!z6e6eeQ\n§G+1§!FUºNâV\n§R-15%§!hQNS8f›RÏ‘\n§R-10%§!uµNHe‡s\n\nÏk*N§RINYe›Q:S§!SOÙuˆN—RINýV‚YNîOckÿ\n§G+5%§!hQýVºN›R\n§R-15%§!F–›QNP–\n§R-10%§!z6e6eeQ\n\nÏk*N§O‘šëXâV§!SOÙuˆN—RINýV‚YNîOckÿ\n§G+0.25%§!t^¦^F–›QLwN¦^\n§G+10%§!2–¡VHe‡s\n§R+10%§!F–›Qôu²b9\n§R-24§!t^¦^z6e\n\nÏk*N§TwmYINYe:S§!SOÙuˆN—RINýV‚YNîOckÿ\n§G+3§!FUºNâV\n§G+25%§!hQNS8f›RÏ‘\n§R-25%§!hQýVºN›R\n§R-25%§!hQýV4lKb\n\n"
+ rig_declar_war_with_all_word_title:0 "@RIG §Y)YXIe¿R§!"
+ rig_declar_war_with_all_word_desc:0 "NR.Oßu„vb‰NýS(WbìNO'Y„vîvhb—MRïž6q1Yr‚ÿ:N†N¾0RbìNgÿÙ=fÅV‰˜„vb‰N¹eVÿ"
+ rig_declar_war_with_all_word_tooltip:0 "§YbìNSùRNb	g*gNbìNÓußv„výV¶R±Rb§!"
+ rig_construction_EDG_Ruins_Gate_title:0 "@RIG ú^¾‹§YRVŸXKNè•§!"
+ rig_construction_EDG_Ruins_Gate_desc:0 ""
+ 
+
+
+ rig_episcopal_administrative_district_structural_reform:0 "INYeLˆ?e:SÓu„g"
+ rig_land_military_doctrines:0 "F–›QfRô‹NÄuÇu"
+ rig_naval_military_doctrines:0 "wm›QfRô‹NÄuÇu"
+ rig_episcopal_economic_district_structural_reform:0 "INYeÏuNm:SÓu„g"
+ rig_episcopal_military_district_structural_reform:0 "INYe›Q:SÓu„g"
+ rig_episcopal_administrative_district_special_reform:0 "Ì‘ RINYeLˆ?e:S"
+ rig_episcopal_administrative_district_special_reform_desc:0 ""
+ rig_common_administrative_system:0 "N,‚Lˆ?eSOû|"
+ rig_common_administrative_system_desc:0 ""
+ rig_episcopal_economic_district_special_reform:0 "Ì‘ RINYeÏuNm:S"
+ rig_episcopal_economic_district_special_reform_desc:0 ""
+ rig_common_economic_system:0 "N,‚ÏuNmSOû|"
+ rig_common_economic_system_desc:0 ""
+ rig_episcopal_military_district_special_reform:0 "Ì‘ RINYe›Q:S"
+ rig_episcopal_military_district_special_reform_desc:0 "N,‚›Q‹NSOû|"
+ rig_common_military_system:0 "N,‚›Q‹NSOû|"
+ rig_common_military_system_desc:0 ""
+ rig_adm_military_readiness_act_reform:0 "›Q‹NÆQYag‹O"
+ rig_adm_military_readiness_act_reform_desc:0 ""
+ mechanic_subject_adm_military_readiness_act_yes:0 "Nb	g§YINYeLˆ?e:S§!^SýV·ƒ—VåNNîOckÿ\n\n§G+25%§!F–›QNP–\n§G-15%§!F–›Qôu²b9\n§G+10%§!F–›QëXl\n§G+25%§!hQýVºN›R\n§R-400§!Lˆ?e¹RÏ‘\n§R-10%§!Lˆ?e¹RÏ‘"
+ rig_adm_cultural_integration_act_reform:0 "‡eS‡Tag‹O"
+ rig_adm_cultural_integration_act_reform_desc:0 ""
+ mechanic_subject_adm_cultural_integration_act_yes:0 "Nb	g§YINYeLˆ?e:S§!^SýV·ƒ—VåNNîOckÿ\n\n§G+6§!ïS¥c×S‡eSNP–\n§G-25%§!¥c³u‡eS±‚9\n§G+100§!Lˆ?e¹RÏ‘\n§G-2§!hQýVÛSqN¦^\n§R+1000%§!lbc‡eS±‚9\n§R+1000%§!lbc‡eSöeô•"
+ rig_adm_decentralization_act_reform:0 "RCgag‹O"
+ rig_adm_decentralization_act_reform_desc:0 ""
+ mechanic_subject_adm_decentralization_act_yes:0 "Nb	g§YINYeLˆ?e:S§!^SýV·ƒ—VåNNîOckÿ\n\n§G+4§!Y²NsQû|\n§R-10%§!F–›QNP–\n§R-10%§!Lˆ?e¹RÏ‘"
+ rig_adm_administrative_expansion_act:0 "Lˆ?eib.Vag‹O"
+ rig_adm_administrative_expansion_act_desc:0 ""
+ mechanic_subject_adm_administrative_expansion_yes:0 "Nb	g§YINYeLˆ?e:S§!^SýV·ƒ—VåNNîOckÿ\n\n§G+250§!Lˆ?e¹RÏ‘\n§G+25%§!Lˆ?e¹RÏ‘\n§R-25%§!z6e6eeQ\n§R-25%§!uµNHe‡s"
+ rig_eco_self_defence_act_reform:0 "êkSag‹O"
+ rig_eco_self_defence_act_reform_desc:0 "Nb	g§MINYeÏuNm:S§!^SýV·ƒ—VåNNîOckÿ\n\n§G+10%§!ekuQb—e›R\n§G+10%§!‘šuQb—e›R\n§G+10%§!®puQb—e›R\n§G+25%§!F–›QNP–\n§G-25%§!F–›Qôu²b9"
+ mechanic_subject_eco_self_defence_act_yes:0 ""
+ rig_eco_emancipation_act_reform:0 "ã‰>eag‹O"
+ rig_eco_emancipation_act_reform_desc:0 ""
+ mechanic_subject_eco_emancipation_act_yes:0 "Nb	g§MINYeÏuNm:S§!^SýV·ƒ—VåNNîOckÿ\n\n§R-100%§!z6e6eeQ\n§G+50%§!uµNHe‡s\n§G+25%§!F–›QëXl"
+ rig_eco_chartered_economic_zone_ordinance_reform:0 "yr¸‹ag‹O"
+ rig_eco_chartered_economic_zone_ordinance_reform_desc:0 ""
+ mechanic_subject_eco_chartered_economic_zone_ordinance_yes:0 "Nb	g§MINYeÏuNm:S§!^SýV·ƒ—VåNNîOckÿ\n\n§G+200§!Lˆ?e¹RÏ‘\n§G+15%§!Lˆ?e¹RÏ‘\n§R-25%§!uµNHe‡s"
+ rig_mil_integration_act_reform:0 "›Q:SNSOSag‹O"
+ rig_mil_integration_act_reform_desc:0 ""
+ mechanic_subject_mil_integration_act_yes:0 "Nb	g§RINYe›Q:S§!^SýV·ƒ—VåNNîOckÿ\n\n§G+25%§!z6e6eeQ\n§G+25%§!uµNHe‡s\n§G+25%§!8fHe‡s\n§G+250§!Lˆ?e¹RÏ‘\n§G+15%§!Lˆ?e¹RÏ‘\n§R-25%§!2–¡VHe‡s\n§R-15%§!F–›QëXl"
+ rig_mil_garrison_act_reform:0 "kSbag‹O"
+ rig_mil_garrison_act_reform_desc:0 ""
+ mechanic_subject_mil_garrison_act_yes:0 "Nb	g§RINYe›Q:S§!^SýV·ƒ—VåNNîOckÿ\n\n§G+25%§!2–¡VHe‡s\n§G+25%§!F–›QëXl\n§R-25%§!z6e6eeQ\n§R-25%§!uµNHe‡s\n§R-25%§!8fHe‡s\n§R-250§!Lˆ?e¹RÏ‘"
+ rig_diocesan_renovation_ordinace_desc:0 ""
+ rig_crusader_states:0 "ASWR›QýV¶R"
+ rig_crusader_states_desc:0 ""
+ rig_theocracy_name:0 "Ì‘ R^yCg6R"
+ rig_theocracy_desc:0 ""
+ rig_rigalia_theocratic_republic:0 "Ì‘ R)RšN^y1WqQŒTýV"
+ rig_rigalia_theocratic_republic_desc:0 ""
+ rig_theocracy_mechanic:0 "Ì‘ R^yCg6R"
+ rig_theocracy_mechanic_desc:0 ""
+ rig_world_peace_territory:0 "NLuŒTs^†˜"
+ rig_world_peace_territory_desc:0 ""
+ rig_rigalia_world_peace_territory:0 "NLuŒTs^†˜"
+ rig_rigalia_world_peace_territory_desc:0 ""
+ rig_riga_archdiocese_reform:0 "Ì‘ R'YINYe:S"
+ mechanic_enables_estate_rig_knightage_yes:0 "=T(u§O‘šëXâV§!6–µu"
+ mechanic_can_use_pap_influence_for_development_yes:"=T(u§YÌ‘ RÎW^•bDú^¾‹§!:g6R"
+ rig_riga_archdiocese_reform_desc:0 ""
+ rig_riga_archdiocese_reorganization_reform:0 "Ì‘ R'YINYe:SÇ!n?eœ^"
+ rig_riga_archdiocese_reorganization_reform_desc:0 ""
+ rig_land_of_maria_reform:0 "›s)RšNKN0W"
+ rig_land_of_maria_reform_desc:0 ""
+ rig_knightage_order_reform:0 "‘šëXâV"
+ rig_knightage_order_reform_desc:0 ""
+ rig_knights_of_apologetics_reform:0 "²bYe‘šëXâV"
+ rig_knights_of_apologetics_reform_desc:0 ""
+ rig_leading_clergy_reform:0 "9ei—INYe:SLˆ?eSOû|"
+ rig_leading_clergy_reform_desc:0 ""
+ rig_trading_city_reform:0 "Ì‘ Ryr¸‹8f:S"
+ rig_trading_city_reform_desc:0 ""
+ rig_foreign_missionary_reform:0 "Yc.OYeëX"
+ rig_foreign_missionary_reform_desc:0 ""
+ mechanic_subject_foreign_missionary_yes:0 "Nb	g§YINYe:S§!^SýVN§O‘šëXâV§!^SýV·ƒ—V§G+5%§!.OYe›RÏ‘\n"
+ rig_overseas_mission_reform:0 "wmY±RYe"
+ rig_overseas_mission_reform_desc:0 ""
+ mechanic_subject_overseas_mission_yes:0 "Nb	g§TwmYINYe:S§!^SýVS·ƒ—VåNNîOckÿ\n\nýwYú^Ëz§Y‰=O)RšNÓbRƒ:S§!\n§G+5%§!Lˆ?eHe‡s"
+ rig_armed_pilgrimage_reform:0 "fkÅˆg1W"
+ rig_armed_pilgrimage_reform_desc:0 ""
+ mechanic_subject_armed_pilgrimage_yes:0 "Nb	g§YINYe:S§!^SýVN§O‘šëXâV§!^SýV(WNVYeýV¶R²NböeÿºN›Rb`Y:Ns^öe„v§G300%§!\n"
+ rig_joint_publicity_reform:0 "TwT±RYe"
+ rig_joint_publicity_reform_desc:0 ""
+ mechanic_subject_joint_publicity_yes:"Nb	g§YINYe:S§!^SýVN§O‘šëXâV§!^SýV·ƒ—VåNNîOckÿ\n\n(WNVYeýV¶R²NböeÿºN›Rb`Y:Ns^öe„v§G300%§!\n§G+1§!.OYeëX\n§G+3%§!.OYe›RÏ‘\n"
+ rig_the_holy_knights_reform:0 "1W‘šëXâV"
+ rig_the_holy_knights_reform_desc:0 ""
+ mechanic_subject_the_holy_knights_yes:0 "Nb	g§YINYe:S§!^SýVN§O‘šëXâV§!^SýV)YINYewýNÛSqN¦^§G-2§!\n"
+ rig_riga_legate_of_holy_see_reform:0 "Ì‘ RYe÷^O‚‚"
+ rig_riga_legate_of_holy_see_reform_desc:0 ""
+ mechanic_subject_riga_legate_of_holy_see_yes:0 "Nb	g§YINYe:S§!^SýVN§O‘šëXâV§!^SýVt^¦^Ye÷^qVÍT›R§G+1§!\n"
+ rig_components_of_the_holy_order_of_riga_reform:0 "Äuú^Ì‘ R1W‘šëXâV"
+ rig_components_of_the_holy_order_of_riga_reform_desc:0 ""
+ mechanic_components_of_the_holy_order_of_riga_yes:0 "ýwYÛbßRyrŠkÇ–cOuQ§YÌ‘ R1W‘šëX§!\n"
+ rig_riga_military_region_system_reform:0 "Ì‘ R›Q:Sû|ßu"
+ rig_riga_military_region_system_reform_desc:0 ""
+ mechanic_subject_riga_military_region_yes:0 "Nb	g§RINYe›Q:S§!^SýV·ƒ—VåNNîOckÿ\n\n§G-100%§!b‰Nz±‚9\n§G+25%§!g'YF–›QNP–\n"
+ rig_northern_crusades_reform:0 "S¹eASWR›Q"
+ rig_northern_crusades_reform_desc:0 ""
+ mechanic_subject_northern_crusades_yes:0 "Nb	g§O‘šëXâV§!^SýV·ƒ—VåNNîOckÿ\n\n§G-100%§!b‰Nz±‚9\n§G+10%§!g'YF–›QNP–\n§G+10§!g'YF–›QNP–\n§G+5%§!­‹Ãu¦^\n"
+ rig_riga_campaig_planig_departmet_reform:0 "Ì‘ Rb‰N¡‹Rè"
+ rig_riga_campaig_planig_departmet_reform_desc:0 ""
+ mechanic_greate_battle_of_riga_yes:0 "=T(u§YÌ‘ RO'YbyV§!:g6R"
+ mechanic_subject_riga_campaig_planig_departmet_yes:0 "Nb	g§YINYe:S§!N§O‘šëXâV§!^SýV·ƒ—VåNNîOckÿ\n\nVìSF–›QS†˜±‚9§G-50%§!\nF–›QS†˜kp›R^S'`§G+2§!\nF–›QS†˜²QûQ^S'`§G+2§!\nF–›QS†˜:g¨R^S'`§G+2§!\nF–›QS†˜ôVÎW^S'`§G+2§!\n"
+ rig_commercial_fleet_reform:0 "FUN0‚–"
+ rig_commercial_fleet_reform_desc:0 ""
+ rig_inland_sea_fleet_reform:0 "…Qwm0‚–"
+ rig_inland_sea_fleet_reform_desc:0 ""
+ rig_riga_combined_fleet_reform:0 "Ì‘ RTwT0‚–"
+ rig_riga_combined_fleet_reform_desc:0 ""
+ mechanic_subject_riga_combined_fleet_yes:0 "bìNåb	g„vÏkN*N§YINYe:S§!^SýVSÙuˆNbìN‚YNîOckÿ\n\n§G+1§!×e0‚g'Y¹RÏ‘\n§G+1§!MQôu²b„vwm›QS†˜\n\nbìNNb	g§YINYe:S§!^SýV§G+25%§!wm›QNP–"
+ rig_riga_administrative_system_reform:0 "R:SLˆ?eû|ßu"
+ rig_riga_administrative_system_reform_desc:0 ""
+ mechanic_subject_riga_administrative_system_yes:0 "Nb	g§YINYe:S§!^SýVN§O‘šëXâV§!^SýV·ƒ—VåNNîOckÿ\n\nÏkg˜Y§G+1§!Lˆ?e¹ppe\nÏkg˜Y§G+1§!Y²N¹ppe\nÏkg˜Y§G+1§!›Q‹N¹ppe\nNb	g¹ppe±‚9§G-5%§!\nt^¦^P%¦^§G-0.1§!\n"
+ rig_combined_trading_system_reform:0 "TwT8fSOû|"
+ rig_combined_trading_system_reform_desc:0 ""
+ mechanic_subject_combined_trading_system_yes:0 "Nb	g§YINYe:S§!^SýV·ƒ—V‚YNîOckÿ\n\nhQNSFUÁTµNúQ§G+0.5§!\nhQNSFUÁTµNúQîOck§G+20%§!\n"
+ rig_feed_the_people_reform:0 "‰Q²wºNl"
+ rig_feed_the_people_reform_desc:0 ""
+ mechanic_subject_feed_the_people_yes:0 "Nb	g§YINYe:S§!^SýVN§O‘šëXâV§!^SýV·ƒ—VåNNîOckÿ\n\nuµNHe‡s§G+25%§!\nÑyŽb±‚9§G-5%§!\n"
+ rig_conferring_power_on_diocesan_assembly_reform:0 "Ì‘ RINYe:SãNhˆ'YO"
+ rig_conferring_power_on_diocesan_assembly_reform_desc:0 ""
+ mechanic_riga_parliament_yes:0 "=T(u§YÌ‘ RINYe:SãNhˆ'YO§!\n"
+ rig_congress_of_the_people_and_dioceses_of_all_riga_reform:0 "hQÌ‘ RºNlÊSINYe:SãNhˆ'YO"
+ rig_congress_of_the_people_and_dioceses_of_all_riga_reform_desc:0 ""
+ mechanic_subject_congress_of_the_people_and_dioceses_of_all_riga_yes:0 "Nb	g§YINYe:S§!^SýVN§O‘šëXâV§!^SýV·ƒ—V§G20%§!Lˆ?eHe‡s"
+ rig_inspection_regulations_reform:0 "áTÆ‰ag‹O"
+ rig_inspection_regulations_reform_desc:0 ""
+ mechanic_subject_inspection_regulations_yes:0 "ã‰•§YY²NLˆ¨R§!ÿ§TáTÆ‰^SýV§!"
+ rig_faith_and_people_reform:0 "áOðNNºNl"
+ rig_faith_and_people_reform_desc:0 ""
+ mechanic_subject_faith_and_people_yes:0 "bìNåb	g„vÏkN*N§YINYe:S§!^SýVSÙuˆNbìN‚YNîOckÿ\n\n§G-1%§!Nb×SëXlSbûQ"
+ rig_heart_of_world_center:0 "NLuKNÃV"
+ rig_heart_of_world_center_desc:0 ""
+ mechanic_subject_heart_of_world_center_yes:0 "Nb	g§YINYe:S§!^SýV·ƒ—V‚YNîOckÿ\n\nÑSUSb,g§G-50%§!\nÑSUSb,gîOck§G-25%§!\n"
+ rig_ecumenopolis_ideal_reform:0 "nfNÎWtó`"
+ rig_ecumenopolis_ideal_reform_desc:0 ""
+ mechanic_subject_ecumenopolis_ideal_yes:0 "Nb	g§YINYe:S§!^SýV·ƒ·ƒ—VåNNîOckÿ\n\nú^Qröeô•§G-50%§!\nGSµuO'YåTzNb—±‚9§G-50%§!\nGSµuO'YåTzNb—öeô•§G-50%§!"
+ mechanic_expansion_of_war_city_project_yes:0 "bìNSïSåNT^—âlW„vwm0W:Sib.VnfNÎW¡‹R"
+
+ ability_rig_administrative_reform_mechanic:0 "§YÌ‘ RLˆ?e9ei—§!"
+ rig_administrative_reform:0 "Ì‘ RLˆ?e9ei—"
+ rig_administrative_reform_desc:0 ""
+ rig_administrative_reform_gain_modifier:0 "Ì‘ RLˆ?e9ei—ÙuˆN„vîOck"
+ monthly_rig_administrative_reform:0 "g¦^Ì‘ RLˆ?e9ei—Û¦^"
+ ability_rig_military_reform_mechanic:0 "§YÌ‘ R›Q‹N9ei—§!"
+ rig_military_reform:0 "Ì‘ R›Q‹N9ei—"
+ rig_military_reform_desc:0 ""
+ rig_military_reform_gain_modifier:0 "Ì‘ R›Q‹N9ei—ÙuˆN„vîOck"
+ monthly_rig_military_reform:0 "g¦^Ì‘ R›Q‹N9ei—Û¦^"
+ ability_rig_government_mechanics:0 "§YÌ‘ RINYe:S^SýV’N¨R§!"
+ rig_government_mechanics_adm_power:0 "Lˆ?eteTÛ¦^"
+ rig_government_mechanics_adm_power_gain_modifier:0 "Lˆ?eteTÙuˆN„vîOck"
+ monthly_rig_government_mechanics_adm_power:0 "g¦^Lˆ?eteTÛ¦^"
+ rig_government_mechanics_dip_power:0 "Y²N¡eËeÛ¦^"
+ rig_government_mechanics_dip_power_gain_modifier:0 "Y²N¡eËeÙuˆN„vîOck"
+ monthly_rig_government_mechanics_dip_power:0 "g¦^Y²N¡eËeÛ¦^"
+ rig_government_mechanics_mil_power:0 "›Q‹NÆQYag‹O"
+ rig_government_mechanics_mil_power_gain_modifier:0 "›Q‹NÆQYÙuˆN„vîOck"
+ monthly_rig_government_mechanics_mil_power:0 "›Q‹NÆQYÛ¦^"
+ rig_government_ability_adm:0 "Lˆ?eteTag‹O"
+ rig_government_ability_adm_desc:0 ""
+ rig_government_ability_dip:0 "Y²N¡eËeag‹O"
+ rig_government_ability_dip_desc:0 ""
+ rig_government_ability_mil:0 "›Q‹NÆQYag‹O"
+ rig_government_ability_mil_desc:0 ""
+ rig_government_ability_adm.tt:0 "Nb	g^—§YÌ‘ Ryr¸‹8f:S§!N^—§Yg!ýV§!^SýV·ƒ—V§G250§!Lˆ?e¹ppe"
+ rig_government_ability_dip.tt:0 "Nb	g^—§YÌ‘ Ryr¸‹8f:S§!N^—§Yg!ýV§!^SýVNb	grÑSÛS›QÛ¦^§G-50§!"
+ rig_government_ability_mil.tt:0 "Nb	g^—§YÌ‘ Ryr¸‹8f:S§!N^—§Yg!ýV§!^SýV1Y»S§G5§!ŒSb¦^"
+
+
+ rig_cultivate_act:0 "w¦Wag‹O"
+ rig_cultivate_act_desc:0 ""
+ rig_cultivate_act.effect.tt:0 "–:gS§Y1§!*NbìN^SýVNbåb	g„vÑSUS¦^SŽN§Y10§!„vwýNÑSUS¦^ÐcGS0R§Y10§!\n"
+ rig_building_act:0 "úWú^ag‹O"
+ rig_building_act_desc:0 ""
+ rig_building_act.effect.tt:0 "bìNNb	g„v^SýV§Y–:gwýN§!·ƒ—V§Y5§!–:gÑSUS¦^\n"
+ rig_architecture_act:0 "ú^Qrag‹O"
+ rig_architecture_act_desc:0 ""
+ rig_architecture_act.effect.tt:0 "bìNNb	g„v^SýV»lN§Yck(Wú^.§!„v§Yú^Qr§!N§YGYÂ‰§!ËzIR§GŒRbú^.§!"
+ rig_reform_regulation:0 "9ei—ag‹O"
+ rig_reform_regulation_desc:0 ""
+ rig_reform_regulation.tt:0 "bìNNb	g„v^SýV?eœ^9ei—Û¦^§G+50§!"
+ rig_joint_draft_act:0 "TwTVuQag‹O"
+ rig_joint_draft_act_desc:0 ""
+ rig_joint_draft_act.tt:0 "bìNNb	g„v^SýVS·ƒ—Vt^¦^ºN›RÞVYpeÏ‘§G2.5§!P„vºN›R"
+ rig_military_parade_ordinance:0 "–uQag‹O"
+ rig_military_parade_ordinance_desc:0 ""
+ rig_military_parade_ordinance.tt:0 "bìNNb	g„v^SýVS·ƒ—V§Y50§!Zg"
+ rig_tax_reduction_regulations:0 "ÏQzag‹O"
+ rig_tax_reduction_regulations_desc:0 ""
+ rig_monetary_regulations:0 "'^¡rtag‹O"
+ rig_monetary_regulations_desc:0 ""
+ rig_monetary_regulations.tt:0 "bìNNb	g„v^SýV§G-5§!'¨Àw"
+ rig_ordinances_of_papal_legations:0 "Ye÷^O‚‚ag‹O"
+ rig_ordinances_of_papal_legations_desc:0 ""
+ rig_ordinances_of_papal_legations.tt:0 "bìNNb	g„v^SýV§G+25§!Ye÷^qVÍT›R"
+ rig_relief_ordinance:0 "HNmag‹O"
+ rig_relief_ordinance_desc:0 ""
+ rig_relief_ordinance.tt:0 "bìNNb	g„v^SýVS·ƒ—Vt^¦^jgaSyr§Y1§YP„v6eeQ"
+ rig_joint_exercise_act:0 "TwTo`Nag‹O"
+ rig_joint_exercise_act_desc:0 ""
+ rig_joint_exercise_act.tt:0 "bìNNb	g„v^SýVS·ƒ—V§G5%§!F–›QLwN¦^"
+ rig_diplomatic_regulations:0 "Y²Nag‹O"
+ rig_diplomatic_regulations_desc:0 ""
+ rig_diplomatic_regulations.tt:0 "bìNNb	g„v^SýV1Y»S§G10%§!ìrËz>PT"
+ rig_penetration_regulation:0 "nag‹O"
+ rig_penetration_regulation_desc:0 ""
+ rig_penetration_regulation.tt:0 "bìN(WòTÏuåb	gô•ŒQÄ‰!j„výV¶R„vô•ŒQÄ‰!j§G+50§!"
+ rig_inventory_ordinance:0 "någag‹O"
+ rig_inventory_ordinance_desc:0 ""
+ rig_inventory_ordinance.tt:0 "bìNNb	g„v^SýV§G-5§!P%¦^"
+ rig_riga_festival_act:0 "'Y†^xQag‹O"
+ rig_riga_festival_act_desc:0 ""
+ rig_riga_festival_act.tt:0 "bìNNb	g„v^SýV§G+1§!3zšR¦^"
+ rig_joint_draft_act_carolin:0 "yr+RVßRag‹Oÿ§YaSm—gekuQ§!"
+ rig_joint_draft_act_carolin_desc:0 ""
+ rig_joint_draft_act_carolin.tt:0 "ÙS(WbìNN§Y[SWE.GetName]§!„v–™ýÛbßR§G5§!=e§YaSm—gekuQ§!"
+ rig_joint_draft_act_winged_cavalry:0 "yr+RVßRag‹Oÿ§Yü‘šuQ§!"
+ rig_joint_draft_act_winged_cavalry_desc:0 ""
+ rig_joint_draft_act_winged_cavalry.tt:0 "ÙS(WbìNN§Y[POL.GetName]§!„v–™ýÛbßR§G5§!=e§Yü‘šuQ§!"
+ rig_joint_draft_act_carolin_infantry_reform:0 "§YekuQ§!yr+RVßRag‹Oÿ§YaSS›Q§!"
+ rig_joint_draft_act_carolin_infantry_reform_desc:0 ""
+ rig_joint_draft_act_hussars_cavalry_reform:0 "§Y‘šuQ§!yr+RVßRag‹Oÿ§Yü‘šuQ§!"
+ rig_joint_draft_act_hussars_cavalry_reform_desc:0 ""
+ rig_joint_draft_act_streltsy_infantry_reform:0 "§YekuQ§!yr+RVßRag‹Oÿ§YSûQ›Q§!"
+ rig_joint_draft_act_streltsy_infantry_reform_desc:0 ""
+ rig_joint_draft_act_cawa_infantry_reform:0 "§YekuQ§!yr+RVßRag‹Oÿ§Yp`æt§!"
+ rig_joint_draft_act_cawa_infantry_reform_desc:0 ""
+ rig_joint_draft_act_tercio_infantry_reform:0 "§YekuQ§!yr+RVßRag‹Oÿ§Y'Y¹e5–§!"
+ rig_joint_draft_act_tercio_infantry_reform_desc:0 ""
+ rig_joint_draft_act_janissaries_infantry_reform:0 "§YekuQ§!yr+RVßRag‹Oÿ§Y6w<SRÌ‘§!"
+ rig_joint_draft_act_janissaries_infantry_reform_desc:0 ""
+ rig_joint_draft_act_mustekeer_infantry_reform:0 "§YekuQ§!yr+RVßRag‹Oÿ§YkpªgKb§!"
+ rig_joint_draft_act_mustekeer_infantry_reform_desc:0 ""
+ rig_joint_draft_act_cossacks_cavalry_reform:0 "§Y‘šuQ§!yr+RVßRag‹Oÿ§YåT(„KQ§!"
+ rig_joint_draft_act_cossacks_cavalry_reform_desc:0 ""
+ rig_joint_draft_act_carolin_cavalry_reform:0 "§Y‘šuQ§!yr+RVßRag‹Oÿ§YaSS›Q§!"
+ rig_joint_draft_act_carolin_cavalry_reform_desc:0 ""
+ rig_joint_draft_act_streltsy_artillery_reform:0 "§Y®puQ§!yr+RVßRag‹Oÿ§YSûQ›Q§!"
+ rig_joint_draft_act_streltsy_artillery_reform_desc:0 ""
+ rig_joint_draft_act_mustekeer_artillery_reform:0 "§Y®puQ§!yr+RVßRag‹Oÿ§YkpªgKb§!"
+ rig_joint_draft_act_mustekeer_artillery_reform_desc:0 ""
+
+ rig_revitalization_act:0 "=ctQag‹O"
+ rig_revitalization_act_desc:0 ""
+ rig_revitalization_act.tt:0 "bìNNb	g^SýV„vwýN1Y»S§G10%§!RƒŸ^¦^"
+ rig_rodeo_act:0 "‘šëXÞzŽb'YOag‹O"
+ rig_rodeo_act_desc:0 ""
+ rig_rodeo_act.tt:0 "bìNNb	g„v^SýV1Y»S§G50%§!ìrËz>PT"
+ rig_conversion_religion_act:0 "ˆvOag‹O"
+ rig_conversion_religion_act_desc:0 ""
+ rig_conversion_religion_act.tt:0 "ˆm»SbìN§Y^SýV§!N§Y^SýV„v^SýV§!Nb	gVYewýNN¹e„v§Y—RYeípÅ`§!\n\nOóY§G5§!*N«ˆbìN§Y^SýV§!b§Y^SýV„v^SýV§!Nbåb	g„v§GVïzwýN§!SO§GˆvO§!bìN„výVYe"
+ rig_joint_research_act:0 "TwTxÑSag‹O"
+ rig_joint_research_act_desc:0 ""
+ rig_joint_research_act.tt:0 "bìNNb	g„v^SýV·ƒ—V	NÍyTIN¹ppeT§G200§!"
+ rig_land_acquisition_act:0 "W0W6e-ag‹O"
+ rig_land_acquisition_act_desc:0 ""
+ rig_land_acquisition_act.tt:0 "bìNNb	g§YINYe:S§!N§O‘šëXâV§!^SýV·ƒ—V§G5§!‹s²R†˜0W"
+ rig_placate_maid_act:0 "sYÆN‰Ršbag‹O"
+ rig_placate_maid_act_desc:0 ""
+ rig_placate_maid_act.tt:0 "bìNNb	g„v^SýV1Y»S§G20%§!ìrËz>PT"
+
+
+ rig_knights:0 "‘šëX"
+ rig_knights_influence:0 "‘šëXqVÍT›R"
+ rig_knights_FACTION_DESC:0 "INYe:SNôvåNegý×S0R‘šëXâV„vÝO²bÿw(Wb‰Ngô•ôf=f‚Ydk0‘šëXNôv=fINYe:SgàVÃV„v²bkSÿÖNìN(Wb:WNSO)R(uê«Ž„vÏuŒšNžRE–Lˆ¨RcüRëXuQ‚YUOôf‹Y„vjOb0"
+ support_rig_knights_title:0 "D©R‘šëX"
+ support_rig_knights_desc:0 ""
+
+ FSD:0 "¬‚ú‹¯e*X•^šN"
+ FSD_ADJ:0 "¬‚ú‹¯e*X•^šN"
+ FSD_ADJ2:0 "¬‚ú‹¯e*X•^šN"
+ FSD_ideas:0 "¬‚ú‹¯e*X•^šNtõV"
+ FSD_ideas_bonus:0 "¬‚ú‹¯e*X•^šNT†áO"
+ FSD_ideas_start:0 "¬‚ú‹¯e*X•^šN.Ob"
+ WORLD_PEACE_TERRITORY:0 "NLuŒTs^†˜"
+ WORLD_PEACE_TERRITORY_ADJ:0 "NLuŒTs^†˜"
+ RGL:0 "Ì‘ R)RšN"
+ RGL_ADJ:0 "Ì‘ R)RšN"
+ RGL_ADJ2:0 "Ì‘ R)RšN"
+ RGL_ideas:0 "Ì‘ R)RšNtõV"
+ RGL_ideas_bonus:0 "Ì‘ R)RšNT†áO"
+ RGL_ideas_start:0 "Ì‘ R)RšN.Ob"
+ fsd_land_of_snow_and_aurora:0 "°Qê–NgIQKN0W"
+ fsd_land_of_snow_and_aurora_desc:0 "bìN„výV¶Rán†‰°Qê–ÿÙNFO¡l	g©‹bìN„vºNltSÿÍSw©‹bìN(WùR—b'Yê6qKNöeåeÊv:VePÿ(WNSŽgIQ„vj–4OKNNVÓbNwÙGrW0W0"
+ fsd_a_trip_to_baltic:0 "âlW„vKNÅe"
+ fsd_a_trip_to_baltic_desc:0 "bìN„výV¶Rµc6RNwâlW„vwm^–„vwm¸S¿uÿÙSO—VbìNýwY(WâlW„vwm„v8f-N·ƒ—VASRèT'Y„vO¿R0"
+ fsd_northern_border_region:0 "gS¹:S"
+ fsd_northern_border_region_desc:0 "•ENåNegbìNý=f'k2mgS¹e„výV¶Rÿ(WûNUOöePbìNýSåNê«Ž„v)RQRˆR²bNwÙGrW0Wv^MckSbìN„váOðN0"
+ fsd_country_of_god_and_church:0 "N^NYeOKNýV"
+ fsd_country_of_god_and_church_desc:0 "T†Ú‹=fbìNXR(W„vt1uÿûNUOVYe’V„vµO­ˆýàeÕl¼d¨RbìN„váOðN0"
+ rig_riga_free_city:0 "Ì‘ Rê1u^"
+ rig_riga_free_city_desc:0 "Ì‘ R•ENåNegýjO:NâlW„vwm„vÍ‘‰=nãSÎW^ÿFONº‹=fRQR‘šëXâVØ=fIl(„Tßv„vÝO²býN³åNÝOÁ‹bìN„v‰RhQÿ‡v^„vÝOÁ‹MbýwO—VbìN(WâlW„vwm„v‰RhQ—V0Rg3zšR„vÝOœ–0"
+ rig_new_hanseatic_unity:0 "°eIl(„Tßv"
+ rig_new_hanseatic_unity_desc:0 "Il(„TßvjO:NN*N¯u¹|FUºNÐjO„vÄuÇuÿvQ,g«Žv^NµNúQûNUOžR(„vFUÁTÿÅNÅNO`—NT0W:SFUÁT„v÷NMONTw·ƒ)RÿÙÍyLˆ:NmN¸‹°s(WØýw·ƒ—VNšR„v)R¦mÿFO>f6qNY•ENÿÌ‘ RNOPWåN…VÙkÿN*N°e„vIl(„TßvS(WâlW„vwm‰Q‰QGSw0"
+ rig_hearts_of_baltic:0 "âlW„vKNÃV"
+ rig_hearts_of_baltic_desc:0 "Ì‘ RMOŽNâlW„v„v-NÃVÿÏuÇpeŒvt^„vÑSUSÿÌ‘ RòTÏub:N†NâlW„vwmàeïSn‘u„vÃV0"
+ rig_church_state:0 "YeOKNýV"
+ rig_church_state_desc:0 "bìN„výV¶R1S=fN*NèT'Y„vYeOÿwYeOmN‡eQ†NbìNºNl„vuImSV-N0"
+ rig_restart_the_northern_crusade:0 "Í‘=TS¹eASWR›Q"
+ rig_restart_the_northern_crusade_desc:0 "S¹eASWR›Q„v×e^gÈuØ=f(W°QVnbyVKNTK„Nÿw°s(WbìNåb	g†NøvƒŽNåNŽVôf R:V'YÿbìNSçuíubìN*gKS„v‹NNÿ"
+ rig_idea_city_project:0 "nfNÎWtó`" 
+ rig_idea_city_project_desc:0 "Èu	gN)YÿÌ‘ RSžR°sƒRg:NRO„vtó`ÿ›s)RšNKN0WSO»laNô•NR„væ‚¾–0"
+ rgl_peace_mission:0 "ŒTs^±R²‹"
+ rgl_peace_mission_desc:0 ""
+ rgl_riga_bond:0 "Ì‘ RËu&^"
+ rgl_riga_bond_desc:0 ""
+ rgl_vanguard_spirit:0 "HQ•¾|^y"
+ rgl_vanguard_spirit_desc:0 ""
+ rig_west_pilgrimage_road:0 "‰èg1WKNï"
+ rig_west_pilgrimage_road_desc:0 ""
+ rgl_ocean_song:0 "wmmKNLk"
+ rgl_ocean_song_desc:0 ""
+ rig_riga_vassal_system:0 "R:SLˆ?eSOû|"
+ rig_riga_vassal_system_desc:0 ""
+ rgl_universal_ideal:0 "nfN?aof"
+ rgl_universal_ideal_desc:0 ""
+
+
+ riga_dawn_of_war:0 "4xSfKNb"
+ desc_riga_dawn_of_war:0 ""
+ riga_dawn_of_war_end.tt:0 "§R¡l	g¥YOSïSŠÌ‘ R‰HNßu»lÿ‰HNmp¡Nÿ§!"
+ riga_dawn_of_war_subject:0 "4xSfKNb"
+ rig_battle_of_heaven:0 "@RIG §R)YXKNb§!"
+ desc_rig_battle_of_heaven:0 ""
+ rig_battle_of_hell:0 "§R0WñrKNb§!"
+ desc_rig_battle_of_hell:0 ""
+ riga_supporter_rebel_name:0 "wIN›Q"
+ riga_supporter_rebel_title:0 "wIN›Q"
+  riga_supporter_rebel_demands_description:0 ""
+ riga_supporter_rebel_desc:0 "INCg=ecwSô›RŽNã‰>eýV¶Rÿb`YýV¶R„vìrËz'`0"
+ riga_supporter_rebel_army:0 "wIN›Q"
+ riga_opponent_rebel_name:0 "Ì‘ RwIN›Q"
+ riga_opponent_rebel_title:0 "Ì‘ RwIN›Q"
+ riga_opponent_rebel_demands_description:0 ""
+ riga_opponent_rebel_desc:0 "Ì‘ RINCg=ecwSô›RŽNã‰>eÌ‘ Rÿb`YýV¶R„vìrËz'`0"
+ riga_opponent_rebel_army:0 "wIN›Q"
+
+ rig_universal_ideas:0 "nfN"
+ rig_universal_ideas_bonus:0 "ŒRbnfNtõV"
+ rig_universal_ideas_friendly:0 "ËS„U"
+ rig_universal_ideas_friendly_desc:0 ""
+ rig_universal_ideas_equality:0 "s^Ir"
+ rig_universal_ideas_equality_desc:0 ""
+ rig_universal_ideas_fair:0 "lQck"
+ rig_universal_ideas_fair_desc:0 ""
+ rig_universal_ideas_devout:0 "T†Ú‹"
+ rig_universal_ideas_devout_desc:0 ""
+ rig_universal_ideas_advance:0 "ÛÖS"
+ rig_universal_ideas_advance_desc:0 ""
+ rig_universal_ideas_unity:0 "âVÓu"
+ rig_universal_ideas_unity_desc:0 ""
+ rig_universal_ideas_vision:0 "?aof"
+ rig_universal_ideas_vision_desc:0 ""
+
+
+ rig_missionary_unite_act:0 "TwT±R²‹ÕlHh"
+ desc_rig_missionary_unite_act:0 ""
+ rig_economic_average_act:0 "GWRÕlHh"
+ desc_rig_economic_average_act:0 ""
+ rig_diversity_act:0 "YCQSÕlHh"
+ desc_rig_diversity_act:0 ""
+ rig_ideal_city_construction_act:0 "tó`ÎWÕlHh"
+ desc_rig_ideal_city_construction_act:0 ""
+ rig_forward_act:0 "MRÛÕlHh"
+ desc_rig_forward_act:0 ""
+ rig_mutual_aid_act:0 "qQNmÕlHh"
+ desc_rig_mutual_aid_act:0 ""
+ rig_harmony_act:0 "ŒTfwÕlHh"
+ desc_rig_harmony_act:0 ""
+ rig_infiltration_act:0 "nÕlHh"
+ desc_rig_infiltration_act:0 ""
+ rig_joint_act:0 "TwTÕlHh"
+ desc_rig_joint_act:0 ""
+ rig_sailing_act:0 "lb^ÕlHh"
+ desc_rig_sailing_act:0 ""
+ rig_icebreaking_act:0 "4x°QÕlHh"
+ desc_rig_icebreaking_act:0 ""
+ rig_amnesty_act:0 "fMQÕlHh"
+ desc_rig_amnesty_act:0 ""
+ rig_crusade_act:0 "ASWR›QÕlHh"
+ desc_rig_crusade_act:0 ""
+ rig_border_defense_act:0 "¹2–ÕlHh"
+ desc_rig_border_defense_act:0 ""
+ rig_knighthood_recruit_act:0 "‘šëXVßRÕlHh"
+ desc_rig_knighthood_recruit_act:0 ""
+ rig_pioneer_deployment_act:0 "HQ•èrÕlHh"
+ desc_rig_pioneer_deployment_act:0 ""
+ rig_country_stability_act:0 "ýV¶R‰RšRÕlHh"
+ desc_rig_country_stability_act:0 ""
+ rig_fulcrum_act:0 "=e¹pÕlHh"
+ desc_rig_fulcrum_act:0 ""
+
+
+
+ riga_greate_war_area_carpathia:0 "aS^ÐcšN"
+ riga_greate_war_area_balkan:0 "ôTSr^"
+ riga_greate_war_area_crimea:0 "N'k'Ys^ŸS"
+ riga_greate_war_area_russia:0 "ÄOW¯e"
+ riga_greate_war_area_scandinavia:0 "¯e*X„v³uôušN"
+ riga_greate_war_area_north_german:0 "S·Va×V"
+ riga_greate_war_area_south_german:0 "WS·Va×V"
+ riga_greate_war_area_anatolia:0 "‰R³uXb)RšN"
+ riga_greate_war_area_arabia:0 "?–Éb=O"
+ riga_greate_war_area_persia:0 "âl¯e"
+ riga_greate_war_area_egypt:0 "ÃWÊS"
+ riga_greate_war_area_maghreb:0 "lš<hÌ‘^"
+ riga_greate_war_area_iberia:0 "OÔk)RšN"
+ riga_greate_war_area_horn_of_africa:0 "^—2mKNÒ‰"
+ riga_greate_war_area_khorasan_region:0 "|TWÊs"
+ riga_greate_war_area_europe_superregion:0 "‰'k"
+ riga_greate_war_area_india_superregion:0 "pS¦^"
+ riga_greate_war_area_china_superregion:0 "-NNS"
+ riga_greate_war_area_south_america_superregion:0 "šNlš"
+ riga_greate_war_area_oceania_superregion:0 "'Ym2m"
+ riga_greate_war_area_tartary_superregion:0 "‘—|—"
+ riga_greate_war_area_andes_superregion:0 "‰R,r¯e"
+ riga_greate_war_area_east_indies_superregion:0 "NpS¦^"
+ riga_greate_war_area_central_america_superregion:0 "-NŽ2m"
+ riga_greate_war_area_southern_africa_superregion:0 "WS^—"
+ riga_greate_war_area_far_east_superregion:0 "ÜN"
+ riga_greate_war_area_north_america_superregion:0 "SŽ2m"
+ riga_greate_war_target_conquer_provice:0 "VgwýN"
+ riga_greate_war_target_vassalize:0 "=eM‘ýV¶R"
+ riga_greate_war_target_dismemberment_country:0 "¢wã‰0W:S"
+ 
+ riga_subject_of_subject_owned_land.tt:0 "1ubìNb§YbìN„vD–¸^§!b§YbìND–¸^„vD–¸^§!Nbåb	g"
+ enable_great_battle_for_arabia_persia_egypt:0 "bìNSã‰•ˆ”ùR§Y?–Éb=O§!0§Yâl¯e§!0§YÃWÊS§!0W:S„v§YO'YbyV§!\n"
+ enable_great_battle_for_maghreb_horn_of_africa_khorasan_flag:0 "bìNSã‰•ˆ”ùR§Ylš<hÌ‘^§!0§YOÔk)RšN§!0§Y^—2mKNÒ‰§!0§Y|TWÊs§!0W:S„v§YO'YbyV§!\n"
+ enable_great_battle_for_europe:0 "bìNSã‰•ˆ”ùR§Y‰'k§!!k'YF–„v§YO'YbyV§!\n"
+ enable_great_battle_for_india:0 "bìNSã‰•ˆ”ùR§YpS¦^§!!k'YF–„v§YO'YbyV§!\n"
+ enable_great_battle_for_word:0 "bìNSã‰•ˆ”ùRNb	g§Y!k'YF–§!„v§YO'YbyV§!\n"
+ riga_Saint_Mary_Basilica:0 "Ì‘ R1W›sKNINYeX"
+ riga_Saint_Mary_Basilica_title:0 "Ì‘ R1W›sKNINYeX"
+ great_project_riga_Saint_Mary_Basilica:0 "Ì‘ R1W›sKNINYeX"
+ riga_world_city:0 "Ì‘ RnfNÎW"
+ riga_world_city_title:0 "Ì‘ RnfNÎW"
+ great_project_riga_world_city:0 "Ì‘ RnfNÎW"
+ riga_hall_of_representatives_of_the_people_and_diocese_of_riga:0 "Ì‘ RINYe:SãNhˆ'YOOX"
+ riga_hall_of_representatives_of_the_people_and_diocese_of_riga_title:0 "Ì‘ RINYe:SãNhˆ'YOOX"
+ great_project_riga_hall_of_representatives_of_the_people_and_diocese_of_riga:0 "Ì‘ RINYe:SãNhˆ'YOOX"
+ EDG_Ruins_Gate:0 "RVŸXKNè•"
+ EDG_Ruins_Gate_title:0 "RVŸXKNè•"
+ great_project_EDG_Ruins_Gate:0 "RVŸXKNè•"
+ EDG_Ruins_Gate.tier_1:0 "§RPNíV„v'Yè•àVb„vreûQwSbV\n\nbêÈu+gwegÿbv^àeYuK`ÿêS=f(Wdk‰š³\n\nb1S=f±*N¹pÃq^gKNopÿb—ùRNLuKNºN\n\nbOS±gŽ™Y„vÿàeÔkŽt¨t„vSïUS°s(W`OìNb—MR§!"
+ EDG_Ruins_Gate.tier_2:0 "§Rb„vè•’Vÿ×SbkyyKNºN\n\nNæe`OìNý–b„vekOÿv^Œb0R†Nb\n\n±1SasTNw`OìNòTÏuÜ»y†Nªv`KNS\n\n0R†N±N)YÿbOM–4N0R`OìNuIm„v'Y0WKNN\n\nw`OìN„vj‹RS1ubNKbf¥R§!"
+ EDG_Ruins_Gate.tier_3:0 "§Röe:gòT6qbŸqÿäSw„vŸ”ðXQ¦^ÍT‰V\n\nhQ°e„vNLusSSeg4N\n\nweg'Tÿb„vÆNÎNÿ0k1UNwÎ¥cb„v0Reg\n\nbCN‰kÿbCNu0b:N—fÿb¦N:NIQÿ§!"
+ EDG_Alexandria_Lighthouse:0 "šN†SqS'YÌ‘šN'YopTX"
+ EDG_Alexandria_Lighthouse_title:0 "šN†SqS'YÌ‘šN'YopTX"
+ great_project_EDG_Alexandria_Lighthouse:0 "šN†SqS'YÌ‘šN'YopTX"
+ EDG_Library_of_Alexandria:0 "šN†SqS'YÌ‘šNþVfN†™"
+ EDG_Library_of_Alexandria_title:0 "šN†SqS'YÌ‘šNþVfN†™"
+ great_project_EDG_Library_of_Alexandria:0 "šN†SqS'YÌ‘šNþVfN†™"
+ EDG_St_Peter_Cave_Church:0 "1W|V—VmtzYeX"
+ EDG_St_Peter_Cave_Church_title:0 "1W|V—VmtzYeX"
+ great_project_EDG_St_Peter_Cave_Church:0 "1W|V—VmtzYeX"
+ EDG_Temple_of_the_Prophets:0 "HQåwúR"
+ EDG_Temple_of_the_Prophets_desc:0 "HQåwúR=fO¯epQ,rŒN'Y1WúRÿÈSðy¦ž0W±nwúRÿ=fO¯epQYeòSNçu“^ôTnwúRKNT,rŒNµ^nwúR0HQåwúRËYú^ŽNlQCQ622t^ÿ=fO¯epQYeRËYºN0HQåwFzUØž·V²NêÂSNú^.„v0ÈTÌ‘ÑSæt)R·VNNöegÍ‘ú^ÿSFz1WNO¯epQYeMR2NûNÈTÌ‘ÑS?–^ŒT'k¦žS„vu–“XTv^ŽNHQåwúRÿ'YSObVb†NÊN)Y„vú^Qr<hNS0TÏuY!kibú^ÿHQåwúRòTb:NNµ^ž^'Y„vú^Qr²ÿ`S0Wb—ïy:N1.6326Ns^¹es|ÿïS¹R³u100NºNÿb:NhQNLug'Y„vnwúRKNN0HQåwúRYŽN¦ž0W±^-NÃVÿÏkt^ý	gFz¯e—g(WgÐ‰gô•Hywy0<yÜbŒT»wðNHQ1WWù0"
+ EDG_Temple_of_the_Prophets_title:0 "HQåwúR"
+ great_project_EDG_Temple_of_the_Prophets:0 "HQåwúR"
+ EDG_Hanging_Church:0 "¬`zzYeX"
+ EDG_Hanging_Church_title:0 "¬`zzYeX"
+ EDG_Hanging_Church_desc:0 "1WÍklš)RšN'YYeXÿÈST¬`zzYeX	ÿÿ(WVWwÎW:SsSÑynfyr:S01WÍklš)RšNYeXNbåNðy:N¬`zzYeXÿàV:NÖN=fÖv(WåNMR„vÎW™XWSè•NÿN=fw„v¬`T(WJSzz-N0¬`zzYeX”^å‹—r=fÙÌ‘„vNb	gYeX-Ngo®N„vN*N†N0(WinÝ„)Yzz.flˆN„vê–‹vr‚TX|iŒTŽKN„vASWR¶gceÑSNwúWcwYeXìr	g„v1WmŒTIQ‰03–IQNÿYeX±‚W-N„viirwwegý	gNwNïS`®‹„vIQ’‚ÿ©‹ºNÃV-NEQán†Na¨R0"
+ greate_project_EDG_Hanging_Church:0 "¬`zzYeX"
+ EDG_Monastery_of_St_Anthony:0 "1W‰RN<SîOSb–"
+ EDG_Monastery_of_St_Anthony_desc:0 "1W‰RN<SîOSb–=f1u1W‰RN<S„vý–wNbú^ÿÙ›NºNmN«ˆ²‹:N=f,rNyby2kININçPºN01W‰RN<SîOSb–=fÃWÊSgÍ‘‰„vîOSb–KNNÿ:VÈpqVÍT†NvQÖNàQ*NÑynfyrÄuÇuv^(W'YO-N¨c^†NîOLˆ6R¦^0"
+ EDG_Saint_Catherine_Monastery:0 "1WïQmt3tîOSb–"
+ EDG_Saint_Catherine_Monastery_desc:0 "1WïQmt3tîOSb–=f°sXRhQNLugäSw„vîOSb–KNNÿú^ŽN1WÏuçe¦u-NÐc0R„vÃqçpFƒØh„vŸSNWÿPWK„(WÃWÊS‰HYJS›S‰HYqSÿÈSTUOÈpqSÿid‰qS	ÿqSÿsS1WÏu-N„vs|8uKN0WÿwmÔb¦u:N1570 s|0êîOSb–T‰HYqSqSv˜e‰vÿ¿O0R¾1WðSÿHoly peak	ÿ ÿmN1S=fN^Tid‰²NˆcASë‹„v0W¹e0îOSb–ÎNRú^òT†SöeASN*NNªuÿêmQNªuåNegÿ‹†Ïu†S†N?–Éb=OºNeQµO0ASWR›QNV0eY¯eüf^ýVßu»l0ÿb4xÑNßu»låNÊSÃWåNb‰NÿFOtSëkÑS*g2OÿÍNÝOXRŒR‹YÿwNb–…QîOëX Øö^íuNwÎNmQNªuW.ONeg„väSw.Oßu0"
+ EDG_Church_Santa_Maria_Mount_Zion:0 "!•‰RqS1W›sKNšNYeX"
+ EDG_Church_Santa_Maria_Mount_Zion_desc:0 "?–KQÏ‚ÆY!•‰RqS1W›sKNšNYeX=flQíV372t^1uŒ‚Nb³uýV‹sNäNú^.0gR„v•¹ebVYeX	g12*N1WiWÿŠb1WÍk›sKNšNleIY:NÃW^XÄOÔkšN8lR`„vsY‹sÿ1W›sKNšNYeX=fÃW^XÄOÔkšN0WMOgØšÿg^y1W„vYeX09hncÃW^XÄOÔkšN„v.Oô‹ÿŒ‚Nb³uýV‹stfPRŠb¦uÜgÎNTX ”Vn„vKQìb¯e›S÷‹0R?–KQÏ‚ÆYv^SƒRXR>e(WÙ*NYeX…Q„v0"
+ EDG_Zurich_St_Peter_Basilica:0 "Ï‚ÎžN1W|V—V'YYeX"
+ EDG_Zurich_St_Peter_Basilica_desc:0 "Ï‚ÎžN1W|V—VYeX=f^tëXÏ‚ÎžNwÎW„v4µ^IN‰YeXKNNÿYeX×k»—g‰v—+YqSÿfåeWlšÎW!X„v0W¹pÿtQú^(W1g‡^yr^y™^„vWNWN08bw9Nªu„véegYeX:N10X7s|'YSÿ'Y¦u1000t^MRT9eú^:NWüfVYeXÿ1230t^9e:NTgWüfVÿ1460t^Í‘ú^:NåTyrVYeX0YeX…Qè=fÌRKNX‡v„vôTmKQÎ˜<hÿØ	gN*NRO„vIN1WiWåNÊS4SYe6rÕ–ÏP,IN¿kÕ–ÏPÑ‘µx‰Lqÿ„^Í‘ƒwFzÿ‰R>e(WINmyiW„v-N.YY„v=f1WiOyrWÏPÿzN¹eY„vÛVMO1WºNÏP^—8^o®N0"
+ EDG_Monastery_of_St_Maurice:0 "1W«ƒÌ‘¯eîOSb–"
+ EDG_Monastery_of_St_Maurice_desc:0 "Ùµ^YŽN¬`TKNN„vW„TîOSb–îOú^ŽNlQCQ515t^ÿ6eÏ…	gˆVYÍs5‡eir01W«ƒÌ‘¯eîOSb–=f‰¹e°sXRÍN(WÐl„vgäSw„vNNbúRb–ÿncwäSWNW¾‹¡‹ÿ1500Yt^MRú^b„vÙÍyÌwqSb—s^ŸS„v	NWÿgR=fYŽN2–¡VN„vwÏ‘ÿïSÜ`CSQ†N1YÿîOSb–gT«ˆÎN¬`TNÌK„„vèTówgdÁkÿg%NÍ‘„vN!kK„ówÑSu(W1611t^ÿKNT(W1942t^„vN!kAmów-NÿîOSb–„vv˜ïzÈS«ˆûQ­e0lQCQ515t^ú^.„v1W«ƒÌ‘¯eîOSb–þfÏu×SÇY!kkpŒpŒTN!k©S)TÿFO1500t^egîOSb–Nôv›OHywyNb(u0"
+ EDG_Chillon_Castle:0 "^8lÎW!X"
+ EDG_Chillon_Castle_desc:0 "^8lÎW!XÿÈSÑ‹‰¸^ÎW!Xÿ=fNµ^Ä–O„v-NNªu4lNÎW!XÿMOŽNƒlÞT™„yrÒRD–Ñ0ÛVhT¯sÕuNwŽKN„våe…QætVnNÄ–O„v?–SQS¯eqS	ÿ1uŽNƒRú^Ëz(Wåe…QætVnTu„v©SówNÿÜÂ‰ÙuºNåNonm(W4lb—„vGYVaÉ‰ÿEe«ˆðyKN:Nú^QròSNN—˜GYV„vÍsàsÿmN=f^tëXgÛvT„väSùKNNÿ(Wlô•.t	g'k2m10'YäS!XKNðy0"
+ EDG_Habichtsburg:0 "pž!X"
+ EDG_Habichtsburg_desc:0 "pž!X=fÈT^¯e!Xû|^tëXSè?–SØš„vN*NÎW!Xÿ1020t^ÿ.Oô‹Éb·V=Oyr:NýUcN4YÍ‚pž‰v4NqSv˜ÿw-NdkY0W¿RwNäNQr!Xÿ(Wdk0Wú^Ëz†Npž!X01108t^ÿÉb·V=OyrKNYR0ý–‡v^¨N)RÛVN¨‹OSYr)R„veYXb(W‡efN-NrTÈT^¯e!X=O5rÿ=fÎW!Xb:N¶RÏeÓYl„vgée°‹UV0dkT2N*NNªuÿpž!XY!kibú^v^b:N¶RÏeúW0W0ƒéeú^.„vMR!X(WNÿT!X(W‰ÿ-N­^¾‹	g<yÜbX0ÆNyVOONb0rl4lŒT¨P4l¾‹Ëe0AS	NNªuRÿÙµ^ÌSÍ‘ÎW!X¾0R•80s|0ËR30s|„vg'YÄ‰!j0"
+ enable_EDG_Habichtsburg_condition.tt:0 "Nb	gw:N@WUR§Y[WUR.GetName]§!b@HAB§Y[HAB.GetName]§!"
+ EDG_Sans_Souci:0 "àeçV«R"
+ EDG_Sans_Souci_desc:0 "àeçV«R=fW„T„v·Va×V‹s«RŒTíV—gÿMOŽN·VýVâl(ƒfW^SÊÿ:NnfœëXýV‹sSyrÈpŒNN!jÿNÕlýVáQSi«RNbú^0«RTÖSêÕl‡e„vàeçVb«ƒa0te*N‹s«RÊSíV—gb—ïy:N90lQw˜ÿàVú^ŽNN*N™lNNÿEeÈSðy™lNN„v«R¿k0SyrÈpœU‹YTÍy‡eSÿùRN¹eäSýV-NýVmNEQán†N‹YGYŒTTŽVÿàVdkwú^.dk«R0ÖNKS›RdÆ–†NTÍyegêNLuT0W„virÁT‚YNøuŒT÷thVIrÿåNdkÅˆp™êñT„vàeçV«Rÿ(W^nN›RBlbYNSåNùR”^êñTÃVîv-N±*NÌRÕˆNSKN„vŽ‹YNLu0"
+ EDG_Schloss_Charlottenburg:0 "YmÕn!X«R"
+ EDG_Schloss_Charlottenburg_desc:0 "YmÕn!X«RMOŽNïfN^:Wÿ=fNµ^ôTmKQV«R¿k0YmÕn!X«R=f·VýVÏg—g°sXRg'Y„v—¨N0t&O‹sg«R¿k0mN=fÏg—g0W:SÝOXR—Vg‹Y0gÍ‘‰„vnfœëXýV‹s«R¿kú^Qrir0«R¿k„vôTmKQV­^b–ASRn‹^ÿïS(Wdk+oekS©a0±‚íV…Q¾‹	g«R÷^6ƒ†™ÿ±NÒR¯e+R…XV„v°e†™ÿïfN‹sT„vu–“XmNMOŽNdk0«R¿k…Qè„v'Y…SŒT?bô•Åˆp™bYNSÿÎ˜<hOÅ–ÿ	gjŒNS„vcïk0¾|Øu„vË.•¢”4tNÕlýV¹lIuÿ¢ur‚Çu²R	gäNºN<w±‚-qN„v&•NN•Ñ‘„vÉbÛk‰|p™ÿv–÷t«R	gNSKN„viVØu)YÚhÿÙNRýÐc’‘ºNìN—¨N0t&O¶RÏeìNNÅNÅN	g›Q‹Nib.V„vÃRÃRÎ‘ÃV0"
+ EDG_Draculas_Castle:0 "·VäSÉbÎW!X"
+ EDG_Draculas_Castle_desc:0 "·VäSÉbÎW!X=f·VäSÉb'YTT4NætÉbàQšNTÿäN5ÏeŒTs^l:NvQîOú^„vÎW!XÿÎW!XPWK„ŽN0uÎ‘=UN„vSqSNNÿ	gNwkQ*N­wgTX|iŒTØš8w„vÎW™XÿÎW!X8^t^«ˆ4–‘N†‰ÖvÿaŒVNw·VäSÉb'YTP``wÈS8lR`„vßu»l0"
+ EDG_Suchevita:0 "Ï‚RôuTX"
+ EDG_Suchevita_desc:0 "Ï‚RôuTX„vÙµ^YeX(Wte*N'k2mý=fìrNàeŒN„vÿàV:NÙ›NYeXY™XhQèåNnÁXIuŽbÕlØu6R„vÁXIuÅˆp™ÿÙ›NØu6RŽN15ó16Nªuÿ×SÜb`S­^z‚=gôv¥cqVÍT„vÁXIu	gû|ßu0W†‰Öv†NYeXNb	g„vú^QrY™XÿƒRìNNÅN„gþVìryrÿºNirOŽÿr‚iVŒTŒÿwNØŒRŽ0W‡eQ†NhTôV„vofÂ‰0ƒRmN=f=UNNµ^US:y†N1W¦uðKN)Y¯h„vYeX0"
+
+ riga_authority_of_the_diocese:0 "Ì‘ RINYe:SCgZ<P"
+ refresh_modifier_rig_heavenly_praise:0 "bìNS7R°eîOck§Y)Yyz<y^§!„vcíuöeô•\n\nbìN„v^SýVmNS7R°eîOck§Y)YX*mAm§!„vcíuöeô•\n"
+ add_rig_heavenly_praise_modifier:0 "bìN„vNb	g^—§GÌ‘ Ryr¸‹8f:S§!^SýVS·ƒ—Vcíu§G5§!t^„v§Y)YX*mAm§!îOck\n"
+ remove_religious_zeal_at_conv_modifier:0 "ˆm»SbìNND–¸^Nbåb	g„vNb	g§YVïzVYe§!wýN„v§Y—RYeípÅ`§!îOck\n"
+
+
+ estate_rig_knightage_monetary_support:0 "=eôc§O‘šëXâV§!"
+ estate_rig_knightage_monetary_support_desc:0 "§O‘šëXâV§!gÑDÑ‘'t:ÿgg'YINYeýwYRèbNrDÑ‘åNã‰vQÃq	wKN%`0"
+
+ rig_assisted_core_for_subject_tooltip:0 "OS©R8hÃVS"
+ rig_assisted_core_for_subject_effect_tooltip:0 "bìNS±‚9Ïk§Y1§!¹pÑSUS¦^§Y5§!£adm£„vb,g:NÙuˆNwýNNb	gw§Y8hÃV§!"
+
+ ab_EDG_RIG_vassl_system:0 "Ì‘ RINYe:SD–¸^SOû|"
+
+ wuyan1:0 "Exec_Cosmoflips - KOKIA"
+ CHANNEL_music_EDG_Songs:0 "EDG"

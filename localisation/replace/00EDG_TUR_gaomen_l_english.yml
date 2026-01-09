@@ -1,0 +1,186 @@
+﻿l_english:
+EDG_TUR_gaomen_off_button:0 "sQí•§YØšè•§!Lub—"
+EDG_TUR_gaomen_on_button:0 "SbV§YØšè•§!Lub—"
+EDG_TUR_gaomen_on_button_tt:0 "sQí•§YØšè•§!Lub—"
+EDG_TUR_gaomen_off_button_tt:0 "SbV§YØšè•§!Lub—"
+
+EDG_TUR_gaomen_GUI_big_shield_tooltip:0 "[EDG_TUR_gaomen_target.GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip]"
+GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip_self:0 "§Y[EDG_TUR_gaomen_target.Monarch.GetName]§!=f§Y^ê™l§!"
+GetNameEDG_TUR_gaomen_GUI_big_shield_tooltip_regency:0 "§Y[EDG_TUR_gaomen_target.Monarch.GetName]§!=f§Y^ê™lDd?e§!"
+
+EDG_TUR_gaomen_authority_bg:0 "[EDG_TUR_gaomen_target.EDG_TUR_gaomen_authority_var.GetValue]"
+EDG_TUR_gaomen_authority_bg_tt:0 "[EDG_TUR_gaomen_target.EDG_TUR_gaomen_authority_var.GetValue]"
+EDG_TUR_gaomen_trigger_tt:0 "§R=f§!§Y^ê™l§!"
+EDG_TUR_gaomen_target:0 "§Y^ê™l§!"
+EDG_TUR_gaomen_GUI_big_shield_vizier_tooltip:0 "§Y[EDG_TUR_gaomen_vizier_target.Monarch.GetName]§!=f§Y'YôuPŸS§!"
+EDG_TUR_gaomen_vizier_target_modifier:0 "'YôuPŸS"
+
+EDG_TUR_gaomen_the_tag_modifier:0 "=f§Y^ê™l§!"
+NOT_EDG_TUR_gaomen_trigger_tt:0 "N=f§Y^ê™l§!"
+
+EDG_TUR_gaomen_1_reform_title_bg:0 "Lˆ?e?eVr"
+EDG_TUR_gaomen_2_reform_title_bg:0 "ÏuNm?eVr"
+EDG_TUR_gaomen_3_reform_title_bg:0 "Lˆw?eVr"
+
+# ÔYûN'YôuPŸS
+# ÐcÔb‡e˜R²NáO
+# ˆcˆN¦R˜RyrCg
+# AQ¸‹VS˜RI›5r
+# O…V,g0W5Ïe
+# :VSs|)Ryr6R
+
+EDG_TUR_gaomen_1_1_reform_no_tt:0 "£no£ÔYûN'YôuPŸS"
+EDG_TUR_gaomen_1_2_reform_no_tt:0 "£no£ÐcÔb‡e˜R²NáO"
+EDG_TUR_gaomen_1_3_reform_no_tt:0 "£no£ˆcˆN¦R˜RyrCg"
+EDG_TUR_gaomen_1_4_reform_no_tt:0 "£no£AQ¸‹VS˜RI›5r"
+EDG_TUR_gaomen_1_5_reform_no_tt:0 "£no£O…V,g0W5Ïe"
+EDG_TUR_gaomen_1_6_reform_no_tt:0 "£no£:VSs|)Ryr6R"
+
+EDG_TUR_gaomen_1_1_reform_yes_tt:0 "£yes£ÔYûN'YôuPŸS"
+EDG_TUR_gaomen_1_2_reform_yes_tt:0 "£yes£ÐcÔb‡e˜R²NáO"
+EDG_TUR_gaomen_1_3_reform_yes_tt:0 "£yes£ˆcˆN¦R˜RyrCg"
+EDG_TUR_gaomen_1_4_reform_yes_tt:0 "£yes£AQ¸‹VS˜RI›5r"
+EDG_TUR_gaomen_1_5_reform_yes_tt:0 "£yes£O…V,g0W5Ïe"
+EDG_TUR_gaomen_1_6_reform_yes_tt:0 "£yes£:VSs|)Ryr6R"
+
+EDG_TUR_gaomen_1_1_reform_global_flag:0 "0Lˆ?e?eVr0ÔYûN'YôuPŸS"
+EDG_TUR_gaomen_1_2_reform_global_flag:0 "0Lˆ?e?eVr0ÐcÔb‡e˜R²NáO"
+EDG_TUR_gaomen_1_3_reform_global_flag:0 "0Lˆ?e?eVr0ˆcˆN¦R˜RyrCg"
+EDG_TUR_gaomen_1_4_reform_global_flag:0 "0Lˆ?e?eVr0AQ¸‹VS˜RI›5r"
+EDG_TUR_gaomen_1_5_reform_global_flag:0 "0Lˆ?e?eVr0O…V,g0W5Ïe"
+EDG_TUR_gaomen_1_6_reform_global_flag:0 "0Lˆ?e?eVr0:VSs|)Ryr6R"
+
+# ÐcØšSzpe˜
+# Y>mÀhßR˜RXT
+# någhQýVW0W
+# ¡l6eúR™^W0W
+# Ÿ±RFUN8f
+# ib'Y^lCg›R
+
+EDG_TUR_gaomen_2_1_reform_no_tt:0 "£no£ÐcØšSzpe˜"
+EDG_TUR_gaomen_2_2_reform_no_tt:0 "£no£Y>mÀhßR˜RXT"
+EDG_TUR_gaomen_2_3_reform_no_tt:0 "£no£någhQýVW0W"
+EDG_TUR_gaomen_2_4_reform_no_tt:0 "£no£¡l6eúR™^W0W"
+EDG_TUR_gaomen_2_5_reform_no_tt:0 "£no£Ÿ±RFUN8f"
+EDG_TUR_gaomen_2_6_reform_no_tt:0 "£no£ib'Y^lCg›R"
+
+EDG_TUR_gaomen_2_1_reform_yes_tt:0 "£yes£ÐcØšSzpe˜"
+EDG_TUR_gaomen_2_2_reform_yes_tt:0 "£yes£Y>mÀhßR˜RXT"
+EDG_TUR_gaomen_2_3_reform_yes_tt:0 "£yes£någhQýVW0W"
+EDG_TUR_gaomen_2_4_reform_yes_tt:0 "£yes£¡l6eúR™^W0W"
+EDG_TUR_gaomen_2_5_reform_yes_tt:0 "£yes£Ÿ±RFUN8f"
+EDG_TUR_gaomen_2_6_reform_yes_tt:0 "£yes£ib'Y^lCg›R"
+
+EDG_TUR_gaomen_2_1_reform_global_flag:0 "0ÏuNm?eVr0ÐcØšSzpe˜"
+EDG_TUR_gaomen_2_2_reform_global_flag:0 "0ÏuNm?eVr0Y>mÀhßR˜RXT"
+EDG_TUR_gaomen_2_3_reform_global_flag:0 "0ÏuNm?eVr0någhQýVW0W"
+EDG_TUR_gaomen_2_4_reform_global_flag:0 "0ÏuNm?eVr0¡l6eúR™^W0W"
+EDG_TUR_gaomen_2_5_reform_global_flag:0 "0ÏuNm?eVr0Ÿ±RFUN8f"
+EDG_TUR_gaomen_2_6_reform_global_flag:0 "0ÏuNm?eVr0ib'Y^lCg›R"
+
+
+# ÐcØšLˆwê»l
+# SOLˆwI`cw
+# žX6eLˆwKz
+# teTLˆw›Q–
+# ¨iÖSLˆwuQn
+# ŒcLˆw4lKb
+
+EDG_TUR_gaomen_3_1_reform_no_tt:0 "£no£ÐcØšLˆwê»l"
+EDG_TUR_gaomen_3_2_reform_no_tt:0 "£no£SOLˆwI`cw"
+EDG_TUR_gaomen_3_3_reform_no_tt:0 "£no£žX6eLˆwKz"
+EDG_TUR_gaomen_3_4_reform_no_tt:0 "£no£teTLˆw›Q–"
+EDG_TUR_gaomen_3_5_reform_no_tt:0 "£no£¨iÖSLˆwuQn"
+EDG_TUR_gaomen_3_6_reform_no_tt:0 "£no£ŒcLˆw4lKb"
+
+EDG_TUR_gaomen_3_1_reform_yes_tt:0 "£yes£ÐcØšLˆwê»l"
+EDG_TUR_gaomen_3_2_reform_yes_tt:0 "£yes£SOLˆwI`cw"
+EDG_TUR_gaomen_3_3_reform_yes_tt:0 "£yes£žX6eLˆwKz"
+EDG_TUR_gaomen_3_4_reform_yes_tt:0 "£yes£teTLˆw›Q–"
+EDG_TUR_gaomen_3_5_reform_yes_tt:0 "£yes£¨iÖSLˆwuQn"
+EDG_TUR_gaomen_3_6_reform_yes_tt:0 "£yes£ŒcLˆw4lKb"
+
+EDG_TUR_gaomen_3_1_reform_global_flag:0 "0ÏuNm?eVr0ÐcØšLˆwê»l"
+EDG_TUR_gaomen_3_2_reform_global_flag:0 "0ÏuNm?eVr0SOLˆwI`cw"
+EDG_TUR_gaomen_3_3_reform_global_flag:0 "0ÏuNm?eVr0žX6eLˆwKz"
+EDG_TUR_gaomen_3_4_reform_global_flag:0 "0ÏuNm?eVr0teTLˆw›Q–"
+EDG_TUR_gaomen_3_5_reform_global_flag:0 "0ÏuNm?eVr0¨iÖSLˆwuQn"
+EDG_TUR_gaomen_3_6_reform_global_flag:0 "0ÏuNm?eVr0ŒcLˆw4lKb"
+
+EDG_TUR_gaomen_decree_in_10_years_tt:0 "^ê™lÏk§M10t^§!ïSåNMQ9˜^N!k§Y0^ýV9ei—0§!\nå‚(W§M10t^§!t^òTÏu˜^ÇýVfNÿ±HNSˆmw§M25§!¹p§Yâl¯eqVÍT›R§!\n·ƒ—V§M10§!¹p§YïQlbupIQ§!0"
+EDG_TUR_gaomen_decree_in_10_years_tt_1:0 "1uŽNbìN(W§M10t^§!…Q˜^Ç§Y0^ýV9ei—0§!ÿbìNS˜Yˆmw§M25§!¹p§Yâl¯eqVÍT›R§!åN˜^ýVfN0\n·ƒ—V§M10§!¹p§YïQlbupIQ§!0"
+EDG_TUR_gaomen_decree_in_10_years_tt_2:0 "1uŽNbìN(W§M10t^§!…Q*g˜^Ç§Y0^ýV9ei—0§!ÿbìNSïSåNMQ9˜^ýVfN0\n·ƒ—V§M10§!¹p§YïQlbupIQ§!0"
+
+EDG_TUR_gaomen_reform_effect_tt:0 "bìNS§Y=T(u§!å‹?eVr0\nQ!k¹pûQS§MÖSˆm§!å‹?eVrÿFO9(uSNOØ0"
+
+
+EDG_TUR_gaomen_decree_button_1_tt:0 "               §bú^ËzêN®‹O§!"
+EDG_TUR_gaomen_decree_button_2_tt:0 "               §b¾‹ËzÏ‚9NKN<w§!"
+EDG_TUR_gaomen_decree_button_3_tt:0 "               §b9ei—y«R6R¦^§!"
+EDG_TUR_gaomen_decree_button_4_tt:0 "               §bÔYûNy›Q?–æ§!"
+EDG_TUR_gaomen_decree_button_5_tt:0 "               §bJR1V'YôuPŸS§!"
+EDG_TUR_gaomen_decree_button_6_tt:0 "               §b¾‹ËzÒRO§!"
+EDG_TUR_gaomen_decree_button_7_tt:0 "               §bib'Y‚„›sS†˜§!"
+EDG_TUR_gaomen_decree_button_8_tt:0 "               §bSz6RhÆQS§!"
+EDG_TUR_gaomen_decree_button_9_tt:0 "               §b:VSs|)Ryr6R§!"
+EDG_TUR_gaomen_decree_button_10_tt:0 "               §b9ei—FUNz6R§!"
+EDG_TUR_gaomen_decree_button_11_tt:0 "               §b¨cLˆ—RYe9ei—§!"
+EDG_TUR_gaomen_decree_button_12_tt:0 "               §bN6RININLˆ?e§!"
+EDG_TUR_gaomen_decree_button_13_tt:0 "               §b¾‹ËzÑãN'YfR§!"
+
+EDG_TUR_gaomen_decree_1_tt:0 "0^ýV9ei—0§Yú^ËzêN®‹O§!"
+EDG_TUR_gaomen_decree_2_tt:0 "0^ýV9ei—0§Y¾‹ËzÏ‚9NKN<w§!"
+EDG_TUR_gaomen_decree_3_tt:0 "0^ýV9ei—0§Y9ei—y«R6R¦^§!"
+EDG_TUR_gaomen_decree_4_tt:0 "0^ýV9ei—0§YÔYûNy›Q?–æ§!"
+EDG_TUR_gaomen_decree_5_tt:0 "0^ýV9ei—0§YJR1V'YôuPŸS§!"
+EDG_TUR_gaomen_decree_6_tt:0 "0^ýV9ei—0§Y¾‹ËzÒRO§!"
+EDG_TUR_gaomen_decree_7_tt:0 "0^ýV9ei—0§Yib'Y‚„›sS†˜§!"
+EDG_TUR_gaomen_decree_8_tt:0 "0^ýV9ei—0§Y¨cLˆz6R9ei—§!"
+EDG_TUR_gaomen_decree_9_tt:0 "0^ýV9ei—0§Y:VSs|)Ryr6R§!"
+EDG_TUR_gaomen_decree_10_tt:0 "0^ýV9ei—0§Y9ei—FUNz6R§!"
+EDG_TUR_gaomen_decree_11_tt:0 "0^ýV9ei—0§Y¨cLˆ—RYe9ei—§!"
+EDG_TUR_gaomen_decree_12_tt:0 "0^ýV9ei—0§YN6RININLˆ?e§!"
+EDG_TUR_gaomen_decree_13_tt:0 "0^ýV9ei—0§Y¾‹ËzÑãN'YfR§!"
+
+EDG_TUR_gaomen_decree_in_10_years_modifier:0 "ASt^…Q¨cLˆÇ0^ýV9ei—0"
+EDG_TUR_gaomen_decree_button_1_modifier:0 "0^ýV9ei—0ú^ËzêN®‹O"
+EDG_TUR_gaomen_decree_button_2_modifier:0 "0^ýV9ei—0¾‹ËzÏ‚9NKN<w"
+EDG_TUR_gaomen_decree_button_3_modifier:0 "0^ýV9ei—09ei—y«R6R¦^"
+EDG_TUR_gaomen_decree_button_4_modifier:0 "0^ýV9ei—0ÔYûNy›Q?–æ"
+EDG_TUR_gaomen_decree_button_5_modifier:0 "0^ýV9ei—0JR1V'YôuPŸS"
+EDG_TUR_gaomen_decree_button_6_modifier:0 "0^ýV9ei—0¾‹ËzÒRO"
+EDG_TUR_gaomen_decree_button_7_modifier:0 "0^ýV9ei—0ib'Y‚„›sS†˜"
+EDG_TUR_gaomen_decree_button_8_modifier:0 "0^ýV9ei—0¨cLˆz6R9ei—"
+EDG_TUR_gaomen_decree_button_9_modifier:0 "0^ýV9ei—0:VSs|)Ryr6R"
+EDG_TUR_gaomen_decree_button_10_modifier:0 "0^ýV9ei—09ei—FUNz6R"
+EDG_TUR_gaomen_decree_button_11_modifier:0 "0^ýV9ei—0¨cLˆ—RYe9ei—"
+EDG_TUR_gaomen_decree_button_12_modifier:0 "0^ýV9ei—0N6RININLˆ?e"
+EDG_TUR_gaomen_decree_button_13_modifier:0 "0^ýV9ei—0¾‹ËzÑãN'YfR"
+EDG_TUR_gaomen_1_1_reform_modifier:0 "0Lˆ?e?eVr0ÔYûN'YôuPŸS"
+EDG_TUR_gaomen_1_2_reform_modifier:0 "0Lˆ?e?eVr0ÐcÔb‡e˜R²NáO"
+EDG_TUR_gaomen_1_3_reform_modifier:0 "0Lˆ?e?eVr0ˆcˆN¦R˜RyrCg"
+EDG_TUR_gaomen_1_4_reform_modifier:0 "0Lˆ?e?eVr0AQ¸‹VS˜RI›5r"
+EDG_TUR_gaomen_1_5_reform_modifier:0 "0Lˆ?e?eVr0O…V,g0W5Ïe"
+EDG_TUR_gaomen_1_6_reform_modifier:0 "0Lˆ?e?eVr0:VSs|)Ryr6R"
+EDG_TUR_gaomen_2_1_reform_modifier:0 "0ÏuNm?eVr0ÐcØšSzpe˜"
+EDG_TUR_gaomen_2_2_reform_modifier:0 "0ÏuNm?eVr0Y>mÀhßR˜RXT"
+EDG_TUR_gaomen_2_3_reform_modifier:0 "0ÏuNm?eVr0någhQýVW0W"
+EDG_TUR_gaomen_2_4_reform_modifier:0 "0ÏuNm?eVr0¡l6eúR™^W0W"
+EDG_TUR_gaomen_2_5_reform_modifier:0 "0ÏuNm?eVr0Ÿ±RFUN8f"
+EDG_TUR_gaomen_2_6_reform_modifier:0 "0ÏuNm?eVr0ib'Y^lCg›R"
+EDG_TUR_gaomen_3_1_reform_modifier:0 "0Lˆw?eVr0ÐcØšLˆwê»l"
+EDG_TUR_gaomen_3_2_reform_modifier:0 "0Lˆw?eVr0SOLˆwI`cw"
+EDG_TUR_gaomen_3_3_reform_modifier:0 "0Lˆw?eVr0žX6eLˆwKz"
+EDG_TUR_gaomen_3_4_reform_modifier:0 "0Lˆw?eVr0teTLˆw›Q–"
+EDG_TUR_gaomen_3_5_reform_modifier:0 "0Lˆw?eVr0¨iÖSLˆwuQn"
+EDG_TUR_gaomen_3_6_reform_modifier:0 "0Lˆw?eVr0ŒcLˆw4lKb"
+
+
+EDG_TUR_make_great_vizier_action_opinion:0 "ûN‹T'YôuPŸS"
+EDG_TUR_remove_great_vizier_action_opinion:0 "MQd–'YôuPŸS"
+
+EDG_TUR_make_great_vizier_trigger_modifier_1:0 "NðyLw„vôuPŸS"
+EDG_TUR_make_great_vizier_trigger_modifier_3:0 "'YôuPŸS:I0ðyLw0"
+EDG_TUR_make_great_vizier_trigger_modifier_4:0 "'YôuPŸS:II0OÀy0"
+EDG_TUR_make_great_vizier_trigger_modifier_5:0 "'YôuPŸS:III0:V¿R0"
+EDG_TUR_make_great_vizier_trigger_modifier_6:0 "'YôuPŸS:IV0Cgã0"

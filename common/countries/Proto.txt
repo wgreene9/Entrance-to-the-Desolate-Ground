@@ -1,0 +1,465 @@
+graphical_culture = westerngfx
+color = {
+  204
+  253
+  253
+}
+revolutionary_colors = {
+  0
+  1
+  15
+}
+historical_score = 4700
+historical_idea_groups = {
+  exploration_ideas
+  expansion_ideas
+  offensive_ideas
+  religious_ideas
+  economic_ideas
+  maritime_ideas
+  quality_ideas
+  defensive_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "å‚f #0" = 120  # João #0
+  "òƒ)RiO #0" = 60  # Filipe #0
+  "?–¹e0t #4" = 40  # Afonso #4
+  "iO·VW #1" = 40  # Pedro #1
+  "jg?–Syr #0" = 20  # Duarte #0
+  "i`Ì‘KQ #0" = 20  # Henrique #0
+  "å‚ýl #0" = 20  # José #0
+  "üfÿRÃWS #0" = 20  # Manuel #0
+  "^XôT¯e‚„f #0" = 20  # Sebastião #0
+  "s|<hS #0" = 10  # Miguel #0
+  "êÿ<SÀN #1" = 5  # Dinis #1
+  "9ÿSWSY #1" = 5  # Fernando #1
+  "ÿN†SqS'Y #0" = 5  # Alexandre #0
+  "aSm¯e #0" = 5  # Carlos #0
+  "íÿb #0" = 5  # Diego #0
+  "Å–O…h #0" = 5  # Jaime #0
+  "ïÿf¯e #0" = 5  # Luís #0
+  "?–SætW #0" = 0  # Álvaro #0
+  "‰R·VÈp #0" = 0  # André #0
+  "ôTSXbm…hLN #0" = 0  # Bartolomeu #0
+  "aSÃWTXú‹ #0" = 0  # Caetano #0
+  "¾ÿs|f #0" = 0  # Damião #0
+  "ÃW¯eyrúe #0" = 0  # Estevão #0
+  "Vg‰¯eÑy #0" = 0  # Francisco #0
+  "VpQ‰¯eÑy #0 ™lôuS" = 0  # Francisco #0 Xavier
+  " R^Ì‘ÃWS #0" = 0  # Gabriel #0
+  " R‰ÿN #0" = 0  # Garcia #0
+  " R¯e^ #0" = 0  # Gaspar #0
+  "	TS #0" = 0  # Gil #0
+  "!ÿ(„W #0" = 0  # Gonçalo #0
+  "	TRS…h #0" = 0  # Guilherme #0
+  "O³u‰eY #0" = 0  # Inácio #0
+  "å‚?–Ñ‘ #0" = 0  # Joaquim #0
+  "å‚Síp #0" = 0  # Jorge #0
+  "å‚ýl #0 üfÿRÃWS" = 0  # José #0 Manuel
+  "m&O0t #0" = 0  # Lourenço #0
+  "lÿïS #0" = 0  # Marco #0
+  "<SäS³R #0" = 0  # Nicolau #0
+  "eYKQTXôueY #0" = 0  # Octávio #0
+  "ÝOW #0" = 0  # Paulo #0
+  "ÉbÿeS #0" = 0  # Rafael #0
+  "WbÌ‘eY #0" = 0  # Rogério #0
+  "ÿÿO #0" = 0  # Rui #0
+  "‰’‚ #0" = 0  # Simão #0
+  "LNÌ‘S #0" = 0  # Uriel #0
+  "ôuîhyr #0" = 0  # Vicente #0
+  "›s)RÿN #0" = -10  # Maria #0
+  "OÿƒÿS #0" = -5  # Isabel #0
+  "TN‰RZ #0" = -1  # Joana #0
+  "ÿÿNyrÌ‘¯e #0" = -1  # Beatriz #0
+  "›sKNÿN üfÿRÃWÉb #0" = -1  # Maria Manuela #0
+  "òƒ)R^ #0" = -1  # Filipa #0
+  "ïÿfÿƒ #0" = -1  # Luísa #0
+  "aSTX3tZ #0" = -1  # Catarina #0
+  "‰RZ #0" = -1  # Ana #0
+  "­‚­‚Éb #0" = -1  # Barbara #0
+  "MONARCH_NAME_ANTONIO" = 20  # MONARCH_NAME_ANTONIO
+  "MONARCH_NAME_TEODOSIO" = 10  # MONARCH_NAME_TEODOSIO
+  "MONARCH_NAME_ANTONIO_FRANCISCO" = 0  # MONARCH_NAME_ANTONIO_FRANCISCO
+}
+leader_names = {
+  "lÿågY"  # Machado
+  "aS^ÉbS"  # Cabral
+  "ÑyÃWeu"  # Coelho
+  "ÑySyr-÷–ÿNS"  # Corte-Real
+  "Ñy‚„<SeY"  # Coutinho
+  "¾ÿ aSlÿÉb"  # da Câmara
+  "¾ÿ Ñy¯eTX"  # da Costa
+  "¾ÿ “^<SÿN"  # da Cunha
+  "¾ÿ 0N^XaS"  # da Fonseca
+  "·V ?–S^KQSKQ"  # de Albuquerque
+  "·V ?–S…h¾ÿ"  # de Almeida
+  "·V ‰R·V÷–·V"  # de Andrade
+  "·V ?–ZW"  # de Aveiro
+  "·V ?–TXOêÿ"  # de Ataíde
+  "·V ?–ýlôuY"  # de Azevedo
+  "·V ^Ébr^(„"  # de Bragança
+  "·V ^Ébr^(„"  # de Braganza
+  "·V ^Ì‘þV"  # de Brito
+  "·V aSæteu"  # de Carvalho
+  "·V aS¯eyrbS ^pQÑy"  # de Castelo-Branco
+  "·V aS¯eyrW"  # de Castro
+  "·V Ñy÷–ÿN"  # de Correia
+  "·V ÕlÌ‘ÿN"  # de Faria
+  "¾ÿ KOlÿ"  # da Gama
+  "·V 	Tlÿo‚¯e"  # de Guimarães
+  "·V ±ƒ«ƒ¯e"  # de Lemos
+  "·V ¦ÿòT&O"  # de Magalhães
+  "·V lÿÌ‘ÿNSæt"  # de Marialva
+  "·V …hm"  # de Melo
+  "·V è•Y(„"  # de Mendonça
+  "·V …h…Q^X¯e"  # de Meneses
+  "·V ú‹W<SÿN"  # de Noronha
+  "·V eY)Ræ—Éb"  # de Oliveira
+  "·V ^æt"  # de Paiva
+  "·V iO³ulÿÑyS"  # de Penamacor
+  "·V ®vè•yrS"  # de Pimentel
+  "·V NYWyQ"  # de Queiróz
+  "·V („"  # de Sá
+  "·V Qh^¦u"  # de Sampaio
+  "·V ^XïQÉb"  # de Sequeira
+  "·V 0t(„"  # de Sousa
+  "·V 0tXb"  # de Souto
+  "·V TXæt÷–¯e"  # de Tavares
+  "·V TXƒlÉb"  # de Távora
+  "·V ôuR³u"  # de Vilhena
+  "êÿÿN¯e"  # Dias
+  "ÃWÿN…Q¯e"  # Eanes
+  "9ÿ÷–Éb lÿN¯e"  # Ferreira Martins
+  "b…h¯e"  # Gomes
+  "!ÿ(„Sôu¯e"  # Gonçalves
+  "±ƒ«ƒ¯e ·V ^Ì‘þV"  # Lemos de Brito
+  "lÿN¯e ·V lÿ¯eaS÷–<SÿNÀN"  # Martins de Mascarenhas
+  "·V æt¯eTR^XbS¯e"  # de Vasconcelos
+  "è•Y(„ VTXY"  # Mendonça Furtado
+  "ÿR…Q¯e ôT÷–Xb"  # Nunes Barreto
+  "iO÷–Éb"  # Pereira
+  "Ì‘ÿW"  # Rebelo
+  "W·VÌ‘<h¯e"  # Rodrigues
+  "(„Sè•Xb"  # Sarmento
+  "yr0ÿÉb"  # Teixeira
+  "yr±ƒ¯e ·V …h…Q^X¯e"  # Teles de Meneses
+}
+ship_names = {
+  "Uc·ƒw"  # Activo
+  "?–¹e0t ·V ?–S^KQSKQ"  # Afonso de Albuquerque
+  "spÿ"  # Águia
+  "?–SôTKQÉb"  # Albacora
+  "1Wup"  # Almas Santas
+  "ÿNlÿÿ"  # Amazona
+  "‰RYÌ‘<SÿN"  # Andorinha
+  "‰RN<SeY"  # António
+  "|ÿÉS"  # Arpão
+  "ôTNb³u"  # Bazana
+  "ÿ&O"  # Belém
+  ",gpgf"  # Benjamin
+  "ZSÿN‡eþVÉb"  # Boaventura
+  "¦ÿípÏ‚¯e ·VlÿNbÿQ"  # Bom Jesus de Mazagão
+  "1W‡eîhyrÿ‰"  # Cabo de São Vicente
+  "aSTnf0t"  # Calipso
+  "9‚•"  # Capitania
+  "Ñ‘²ƒ±‚"  # Chagas
+  "”N‡k"  # Cinco Chagas
+  "åT&O^"  # Colombo
+  "TRêÿ jg i`Ì‘KQ"  # Conde Dom Henrique
+  "÷–îhêÿ=O5r+YºN"  # Condessa de Resende
+  "6w1z1WÃV"  # Coração de Jesus
+  "‹s Q"  # Coroa
+  "ÑySyr ÷–ÿNS"  # Corte Real
+  "‹YGY"  # Curiosa
+  "¾ÿüf"  # Damão
+  "SV³l"  # Dão
+  "·VS¬‚"  # Delfim
+  "4b‰RZ"  # Diana
+  "äRÉRw"  # Diligente
+  "êÿeYb ·^"  # Diogo Cão
+  "U·å‚fmQN"  # Dom João VI
+  "Uå‚fmQN"  # Don João Sexto
+  "UZ ›sKNÿN II"  # Dona Maria II
+  "jgW"  # Douro
+  "^Ébr^(„lQ5r+YºN"  # Duquesa de Bragança
+  "QR|ÿ"  # Espadarte
+  "s¼–"  # Falcão
+  "äQðQ"  # Fénix
+  "äQðQÿRàz"  # Fénix Constitucional
+  "Íkê–‚ÿ"  # Fereta
+  "VmS ·V Éb›s"  # Flor de la Mar
+  "lQê–‚ÿ"  # Furão
+  "wm%ÿ"  # Gaivota
+  "up¬r"  # Galgo
+  "Í‚mÿ"  # Garça
+  "sYiR"  # Garota
+  " RƒlTX"  # Giavota
+  "wmZÿ"  # Golfinho
+  "^yi`"  # Graça Divina
+  "ÜtêÿÿN³u"  # Guadiana
+  "XiO·VW²N‹s"  # Infante Don Pedro
+  "QeIN6w1z"  # Jesus da Ajuda
+  "±ƒ^÷–"  # Lebre
+  "÷–eY"  # Leio
+  ")RyQ"  # Liz
+  "W=O Ï‚ÿN÷–¯e"  # Lobo Soares
+  "W‰R¾ÿ"  # Luanda
+  "1WÍk"  # Madre de Deus
+  "waha"  # Magnânimo
+  "›sKNÿNNN"  # Maria I
+  "lÿ‚„ÆY ·V V÷–TX¯e"  # Martim de Freitas
+  "ÿjgÿƒ"  # Medusa
+  "%V…m3wæt"  # Minerva
+  "Ñ‘qS"  # Monte du Ouro
+  "…mnfÿ"  # Neptuno
+  "ÿRÕl"  # Ninfa
+  "ÿ&O1WÍk"  # N. Sra. Belém
+  ".^©R1WÍk"  # N. Sra. da Ajuda
+  ".^©R1WÍkÿT1W¹eNmT"  # N. Sra. da Ajuda e São Fransisco
+  ".^©R1WÍkÿT1W=OY„y"  # N. Sra. da Ajuda e São Pedro
+  "Áÿ™V1WÍk"  # N. Sra. da Arribada
+  "ÿNÿgîh„v1WÍk"  # N. Sra. da Assunção
+  "­wgTX1WÍk"  # N. Sra. da Atalaia
+  "‹Yöe1WÍk"  # N. Sra. da Boa Hora
+  "ÿ‹YÞVÆV1WÍk"  # N. Sra. da Boa Memória
+  "Lÿ‰R1WÍk"  # N. Sra. da Boa Viagem
+  "ÁNHa1WÍk"  # N. Sra. da Caridade
+  "ÁNHa1WÍkÿT1W¹eNmT"  # N. Sra. da Caridade e São Fransisco
+  "1WÍk‚iõV"  # N. Sra. da Conceicao
+  "ËYUR1WÍkÿT1W¦uð"  # N. Sra. da Conceição e São João
+  "ËYUR1WÍkÿT1Wå‚mt"  # N. Sra. da Conceição e São José
+  "ËYUR1WÍkÿT1W‡eîhyr"  # N. Sra. da Conceição e Sao Vicente
+  "1WÍkS«ÿ"  # N. Sra. da Encarnação
+  "g·V1WÍk"  # N. Sra. da Esperanca
+  "f°ÿ1WÍk"  # N. Sra. da Estrela
+  "IQcƒ1WÍk"  # N. Sra. da Glória
+  "Ëei`1WÍk"  # N. Sra. da Graça
+  "V*‚1WÍk"  # N. Sra. da Guia
+  "pQ^Y(„„v1WÍk"  # N. Sra. da Lampadosa
+  "IQf1WÍk"  # N. Sra. da Luz
+  "úWcwKNÍk1WÍk"  # N. Sra. da Madre de Deus
+  "`¯`1WÍk"  # N. Sra. da Misericórdia
+  "1WÞ‹1WÍk"  # N. Sra. da Natividade
+  "ÿb’dÿR„v1WÍk"  # N. Sra. da Nazaré
+  "ÿb’dÿR„v1WÍkÿT1W‰RZ"  # N. Sra. da Nazaré e Santa Ana
+  "ÿb’dÿR„v1WÍkÿT1W‰RN<SeY"  # N. Sra. da Nazaré e Santo António
+  "eY)RôuÉb„v1WÍk"  # N. Sra. da Oliveira
+  "	Tlÿo‚¯eeY)RôuÉb„v1WÍk"  # N. Sra. da Oliveira de Guimarães
+  "eY)RôuÉb„v1WÍkÿT1W‰RN<SeY"  # N. Sra. da Oliveira e Santo António
+  "^Slÿ„v1WÍkÿT1W=OY„y"  # N. Sra. da Palma e São Pedro
+  "iO<SÿNÕlpQ‰„v1WÍk"  # N. Sra. da Penha de Franca
+  "`¯`1WÍk"  # N. Sra. da Piedade
+  "Üw)R1WÍk"  # N. Sra. da Vitória
+  "æ‚Ûu1WÍk"  # N. Sra. das Angústias
+  "^WTX¯e„v1WÍk"  # N. Sra. das Brotas
+  "FUN1WÍk"  # N. Sra. das Merces
+  "—Bl1WÍk"  # N. Sra. das Necessidades
+  "wmjm1WÍk"  # N. Sra. das Ondas
+  "«spt)YXKNè•1WÍk"  # N. Sra. das Portas do Céu de Rosette
+  "ÿ&O„v1WÍkÿT1Wå‚mt"  # N. Sra. de Belem e São José
+  "ÿÕnäSS„v1WÍk"  # N. Sra. de Bettencourt
+  "Üt·VWnf„v1WÍk"  # N. Sra. de Guadalupe
+  "ÿ&O„v1WÍk"  # N. Sra. de Belém
+  "ÁN„U1WÍk"  # N. Sra. do Bom
+  "„Uéy1WÍk"  # N. Sra. do Bom Despacho
+  "1WÍkbÿR"  # N. Sra. do Bom Sucesso
+  "aSâl1WÍk"  # N. Sra. do Cabo
+  "aSâl„v1WÍkÿT1W=OY„y"  # N. Sra. do Cabo e São Pedro
+  "1WÍk¢gHg"  # N. Sra. do Cardais
+  "1WÍkXbØN"  # N. Sra. do Livramento
+  "ã‰>e1WÍkÿT1Wå‚mt"  # N. Sra. do Livramento e São José
+  "m÷–Xb„v1WÍk"  # N. Sra. do Loreto
+  "aSS«ƒqS„v1WÍk"  # N. Sra. do Monte do Carmo
+  "1WÍk9húW"  # N. Sra. do Pilar
+  "l`Y—1WÍk"  # N. Sra. do Quietação
+  "W(„Ì‘eY„v1WÍk"  # N. Sra. do Rosário
+  "W(„Ì‘eY„v1WÍkÿT1W‰R·VÈp"  # N. Sra. do Rosário e Santo André
+  "7ÿ-N1WÍk"  # N. Sra. do Vale
+  "Üw)R1WÍkÿT1Wå‚mt"  # N. Sra. do Vencimento e São José
+  "GYùÿ1WÍk"  # N. Sra. dos Milagres
+  "	aëV1WÍk"  # N. Sra. dos Prazeres
+  "	aëV1WÍkÿT1W‰RN<SeY"  # N. Sra. dos Prazeres e Santo Antonio
+  "aS(„ÿ„vISoƒ1WÍk"  # N. Sra. dos Remédios dos Cassabe
+  "úWcwKNÍk1WÍk"  # N. Sra. Madre de Deus
+  "Þ‹^ysY1WÍkÿT1W¹eNmT"  # N. Sra. Madre de Deus e São Fransisco
+  "Þ‹^ysY1WÍkÿT1Wå‚mt"  # N. Sra. Madre de Deus e São José
+  "—Bl1WÍkÿT1W‰RN<SeY"  # N. Sra. Necessidades e Santo Antonio
+  "IQcƒ1WÍk"  # Nossa Senhora da Glória
+  "—Bl1WÍk"  # Nossa Senhora das Necessidades
+  "ËYUR1WÍk"  # Nossa Senhora da Conceição
+  "^g1WÍk"  # Nossa Senhora da Esperanca
+  "—VÜw1WÍk"  # Nossa Senhora da Vitória
+  "eY)Ræ—Éb ·V 	Tlÿo‚¯e"  # Oliveira de Guimarães
+  "8lR`1W6r"  # Padre Eterno
+  "Ísàs"  # Pérola
+  "ìr<wèTºN"  # Polifemo
+  "aSmTX‹ssY"  # Princesa Carlota
+  "ÿÉblQIN"  # Princesa da Beira
+  "ÿÉbNa„„YrlQIN"  # Princesa da Beira e Portuguesa
+  "ôT‰lQIN"  # Princesa do Brasil
+  ")YKNlQIN"  # Princesa do Céu
+  "‡v¶RlQIN"  # Princesa Real
+  "ôT‰²N‹s"  # Príncipe do Brasil
+  "U |V—VW²N‹s"  # Príncipe Dom Pedro
+  "‹sPR"  # Príncipe Real
+  "Dd?e‹s"  # Príncipe Regente
+  "‰Ræ‹"  # Quietação
+  "a„„YrsY‹s"  # Rainha de Portugal
+  ")YOsY‹s"  # Rainha dos Anjos
+  "1WOÿƒÿSsY‹s"  # Rainha Santa Isabel
+  "‡v¶RaSWeg³u"  # Real Carolina
+  "‡v¶RàVÚ‹"  # Real Fidelíssima
+  "‡v¶R0N0t"  # Real Fonsor
+  "‡v¶R0N(„"  # Real Fonza
+  "‡v¶RÞÿÔ"  # Real Voador
+  "1WWÿir"  # Relíquias
+  "1W‹N"  # Sacramento
+  "NLuïbQew"  # Salvador do Mundo
+  "1W‰RZ"  # Santa Ana
+  "1W‰RZÿT›s)RÿN"  # Santa Ana e Maria
+  "1W‰RZÿT1Wå‚?–^ÆY"  # Santa Ana e São Joaquim
+  "1WaSTX3tZ"  # Santa Catarina
+  "‰HYqS„v1WaSTX3tZ"  # Santa Catarina do Monte Sinai
+  "1WKQÉbÉb"  # Santa Clara
+  "1WASWR"  # Santa Cruz
+  "1WÑ‘ASWR"  # Santa Cruz do Ouro
+  "(„OÿO„v1W›s)RÿNOÿƒÿS"  # Santa Maria Isabel de Saboia
+  "1WW(„"  # Santa Rosa
+  "1Wyrÿ…ÿƒ"  # Santa Teresa
+  "ípÏ‚¯e„v1Wyrÿ…ÿƒ"  # Santa Teresa de Jesus
+  "1WÅ–T"  # Santiago
+  "'Y1W0WÿNåT"  # Santiago Maior
+  "óÿ1WxQ<y"  # Santíssimo Sacramento
+  "óÿ1W	NN"  # Santíssima Trinidade
+  "1W?–SÿþV"  # Santo Alberto
+  "1W‰R·VÈp"  # Santo Andre
+  "1W‰RN<SeY"  # Santo António
+  "ÿym÷–¯e„v1W‰RN<SeY"  # Santo António de Flores
+  "^¦^ÿN„v1W‰RN<SeY"  # Santo António de Padua
+  "TX³u„v1W‰RN<SeY"  # Santo António de Tanna
+  "1W‰RN<SeYÿT1Wå‚?–^ÆY"  # Santo António e São Joaquim
+  "1W‰RN<SeYÿT1Wå‚mt"  # Santo António e São José
+  "1WeY¯eN"  # Santo Agustinho
+  "1Ws|<hS"  # Santo Miguel
+  "1W‰RN<SeY"  # São António
+  "1WôTXbm*"  # São Bartholomeu
+  "1Wÿ…QêÿþV"  # São Benedito
+  "1W,gr"  # São Bento
+  "1WÿS³uY"  # São Bernardo
+  "1WZSÿN‡eþVÉb"  # São Boaventura
+  "1W^ÉbÀNÿT1Wm&O0t"  # São Brás e São Lourenço
+  "1WKQÌ‘¯eXbúe"  # São Cristovão
+  "?–‰¯e„v1W¹eNmT"  # São Fransisco de Assis
+  "ÝOÉb„v1W¹eNmT"  # São Fransisco de Paula
+  "1W¹eNmT·™lÿReu"  # São Fransisco Xavier
+  "1W¹eNmT·™lÿReuN1W‰RN<S"  # São Fransisco Xavier e Santo António
+  "1W¹eNmT·™lÿReuÿT‹YÐÿ"  # São Fransisco Xavier e Todo o Bem
+  "1Wå‚f"  # São João
+  "1Wå‚f ôTnf‚„¯eTX"  # São João Baptista
+  "IN„v1Wå‚f"  # São João de Deus
+  "waha„v1Wå‚f"  # São João Magnânimo
+  "1Wå‚Síp"  # São Jorge
+  "1Wå‚mt"  # São José
+  "1Wå‚mtÿTËYUR1WÍk"  # São José e N. Sra. da Conceição
+  "1Wå‚mtÿTÁNHa1WÍk"  # São José e N. Sra. das Mercês
+  "1Wå‚mt^KQyr^—2m"  # São José Paquete África
+  "1Wm&O0t"  # São Lourenço
+  "1WlÿN<SeY"  # São Martinho
+  "1W<SäS³R"  # São Nicolau
+  "1WiO·VW"  # São Pedro
+  "1WiO·VW !ÿ(„Sôu¯e"  # São Pedro Goncalves
+  "1WÉbÿeS"  # São Rafael
+  "1W(„SætY"  # São Salvador
+  "1W^XôT¯eÐceY"  # São Sebasteio
+  "1W‰’‚"  # São Simão
+  "1WYÿ"  # São Tomé
+  "1W‹N"  # Sacramento
+  "óÿ1WxQ<y"  # Santíssimo Sacramento
+  "àeT"  # Sem Nome
+  "ÿ‡Ç†"  # Serpente
+  "wmÇ†"  # Serpento do Mar
+  "‰™„TX ·V aSæteu"  # Simenta de Carvalho
+  "bÿR"  # Successo
+  "TXiO÷–ÿN"  # Taforea
+  "yr9ƒ"  # Tejo
+  "‡ÿºN„va„„YrºN"  # Temível Portuguesa
+  "ø‹1W"  # Todos os Santos
+  "	Nf»l"  # Torta
+  "ÿºN|ÿ"  # Tritão
+  "2S)R‰¯e"  # Ulisses
+  "ßuN"  # União
+  "Twßv"  # Unido
+  "âVÓu"  # Unilo
+  "LNÉb<SÿN"  # Urania
+  "³l7ÿ"  # Vale
+  "æt¯eÑy ¾ÿ KOlÿ"  # Vasco da Gama
+  "ôu³u¯e"  # Vénus
+  "YÇN"  # Vingança
+  "ÞÿÔ"  # Voador
+  "ÞÿÔ"  # Volador
+  "kpqS"  # Vulcano
+  "Nb^Éb eYäS¯eTX"  # Zabra Augusta
+  "Nb^Éb 2S)RZ"  # Zabra Júlia
+  "1W RÿvR"  # São Gabriel
+  "ÿSÌ‘eY"  # Bérrio
+  "!ÿ(„W"  # Gonçalo
+  "ÿR…Q¯e"  # Nunes
+  "?–Sb"  # Argo
+  "ú‹ÿN¹e‚"  # Arca de Noé
+  "1g‡^yr"  # Júpiter
+  "6w1z"  # Jesus
+  "úWcw"  # Cristo
+  "6w1zúWcw"  # Jesus Cristo
+  "Ì‘¯e,g"  # Lisboa
+}
+army_names = {
+  "‡v¶RkS–"  # Guarda Real
+  "$PROVINCE$›QâV"  # Terço de $PROVINCE$
+  "$PROVINCE$›Q"  # Exército de $PROVINCE$
+  "$PROVINCE$×e›Q"  # Bandeira de $PROVINCE$
+  "a„„Yr‡v¶R0‚–F–b¹e5–"  # Terço da Armada Real da Coroa de Portugal
+}
+fleet_names = {
+  "‡v¶Rwm›Q"  # Armada Real
+  "$PROVINCE$0‚–"  # Armada de $PROVINCE$
+  "$PROVINCE$0‚–"  # Esquadra de $PROVINCE$
+  "$PROVINCE$0‚–"  # Frota de $PROVINCE$
+  "'Y‰mwm›Q"  # Armada do Atlântico
+  "'Y‰mwm›Q0‚–"  # Esquadra do Atlântico
+  "'Y‰m0‚–"  # Frota do Atlântico
+  "ôT‰wm›Q"  # Armada do Brasil
+  "ôT‰wm›Q0‚–"  # Esquadra do Brasil
+  "ôT‰0‚–"  # Frota do Brasil
+  "àQ…QÿNwm›Q"  # Armada da Guiné
+  "àQ…QÿNwm›Q0‚–"  # Esquadra da Guiné
+  "àQ…QÿN0‚–"  # Frota da Guiné
+  "wmÿ‰wm›Q"  # Armada do Cabo
+  "wmÿ‰wm›Q0‚–"  # Esquadra do Cabo
+  "wmÿ‰0‚–"  # Frota do Cabo
+  "pS¦^mwm›Q"  # Armada do Índico
+  "pS¦^mwm›Q0‚–"  # Esquadra do Índico
+  "pS¦^m0‚–"  # Frota do Índico
+  "wmáSwm›Q"  # Armada do Estreito
+  "wmáSwm›Q0‚–"  # Esquadra do Estreito
+  "wmáS0‚–"  # Frota do Estreito
+  "ÜÿNwm›Q"  # Armada do Extremo Oriente
+  "ÜÿNwm›Q0‚–"  # Esquadra do Extremo Oriente
+  "ÜÿN0‚–""*Ys^m›RÏ‘"  # Frota do Extremo Oriente""Armada do Pacífico
+  "*Ys^mwm›Q0‚–"  # Esquadra do Pacífico
+  "*Ys^m0‚–"  # Frota do Pacífico
+}

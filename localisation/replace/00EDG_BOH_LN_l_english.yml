@@ -1,0 +1,53 @@
+﻿l_english:
+  EDG_BOH_1:0 "^Éb<hfäN"
+   EDG_BOH_2:0 "âl‰s|šN‡eS²NGl"
+   EDG_BOH_3:0 "áw¯eb‰N„vqVÍT"
+   EDG_BOH_4:0 "‡v¶RýQöN"
+   EDG_BOH_5:0 "áw¯eWµN"
+   EDG_BOH_6:0 "‡v¶R™Ÿ‘šëXâV"
+   EDG_BOH_7:0 "	Tnfi"
+   EDG_BOH_1_desc:0 "áw¯eb‰NS*gK„šRÿFO/f:N†NýV¶R„v3zšRÿ©‹bìNËRU`KNMR„vj‹R0"
+   EDG_BOH_2_desc:0 "âl‰s|šN„výV‹sTeg1S/f‰×S0RYÍ‘í‹ŠYe²wSìbSYr)Rí‹0·Ví‹0ÉbNí‹0Õlí‹ŒTa'Y)Rí‹ÿåNnxÝOùR^y#WWlš^ýV„vµc6R0"
+   EDG_BOH_3_desc:0 "(Wáw¯eb‰Ngô•ÿbìN„v›Q–×SbfÁX’W„vqVÍTÿôfÂa—V	ébêñT„v2–ˆRMO0"
+   EDG_BOH_4_desc:0 "áw¯eb‰N(WwcKQ„vW0WNWYuNïS`„váOðNRÂˆ0âl^s|šNå‚‰AucƒÑSUSÿbìN1SÅV‰˜ÓumgRgkv^b`Yéy^0bìNSO˜^NýN‡v¶RýQöNegÝOœ–Nb	gºN„v—RYeê1u0"
+   EDG_BOH_5_desc:0 "WlšYeO(Wb—ùR—RYe9ei—„vcböeØS—VŠegŠÍS¨RÿFO(Wâl^s|šNÿbìNùRdkôf R>eŒgÿÙO—VbìNôf¹Rf¥cæ‰0R°e`ó`0"
+   EDG_BOH_6_desc:0 "‡v¶R™Ÿ‘šëXâV/f1u^y#WWlš^ýV‡v^‰	T¯e™„·VÿŒT^y#WWlš^ýV‡vT0SYr)RŒTâl^s|šN‹sTÇ‘R„v­‚­‚ÉbRú^„v0Ù*N‘šëXâV-N1u5Ïe	úQ„vâVXTìN—‰ˆRkSASWR¶gÿv^NúWcwYe„vLeºNìNb—e0"
+   EDG_BOH_7_desc:0 "âl^s|šNdkÍ‹ÿ°sÊNòT:N^Ûl¥c×S:NùRNÍy‡ez‚„v	TjSiºN„vÏcðÿNº‹ô‹UOÍyí‹ŠÿNº‹ESêTNÎW^ÿ(WuImNŒTz‚/gÌ‘1»yN×O8^Ä‰0" 
+ 
+ EDG_CDC_1:0 "ùRFz¯e—g„vQùR—b"
+  EDG_CDC_2:0 "ÕlpQ÷SàeOuç`"
+  EDG_CDC_3:0 "0‚9‚áT*‚"
+  EDG_CDC_4:0 "lš<hÌ‘^Sú^6R"
+  EDG_CDC_5:0 "—RYeáOõV"
+  EDG_CDC_6:0 "ùRz<S‰šN„vµc6R"
+  EDG_CDC_7:0 "3zúV‰^X"
+  EDG_CDC_1_desc:0 "²Q•JUÿegêÕlpQKQŒT·Va×V„vëXuQìNÿIN(WwNwbìNÿ"
+  EDG_CDC_2_desc:0 "bìNÅV‰˜ÐcGSbìN„v0‚–åNÝOcbìNùR‰‰Ì‘„v8f0"
+  EDG_CDC_3_desc:0 "(WÜ»yÕlpQKQŒT·Va×V„vW0WbìN/U	g R:V0‚–MbýwÝOcNÖNìN„vTwû|0"
+  EDG_CDC_4_desc:0 "ÎN‰'k&^egS^—„v?eVr©‹bìNz6e—V0RôfØš„vTÕl'`0"
+  EDG_CDC_5_desc:0 "bìN„vºNlNôvÝOcNwZWšR„váOðN0Nº‹Ùz(WYe—R±¹b/fùR—bÖNÿbìNÅV‰˜'t'tŠbácêñT„váOõV!"
+  EDG_CDC_6_desc:0 "bìNVgÙGrW0WTÿÕlpQKQ„v‡eSÅVšR&^egÙfIQ0"
+  EDG_CDC_7_desc:0 "bìNhTôVý/fVYe’VÿŠbµc‹Y‰^Xÿf‹Õ`ÖNìNwSWÍ‘eg0"
+
+  
+ GUY_ideas:0 "?–úWfWtõV"
+  GUY_ideas_start:0 "?–úWfW.Oßu"
+  GUY_ideas_bonus:0 "?–úWfWÎ‘ÃV"
+  EDG_GUY_1:0 "àVÜw)RwlbT"
+  EDG_GUY_2:0 "ñ‚<hpQ„v/ec"
+  EDG_GUY_3:0 "1rKNÕl­^"
+  EDG_GUY_4:0 "âlSYuµN"
+  EDG_GUY_5:0 "ÛVýVb‰N„vYO—"
+  EDG_GUY_6:0 "‰R9ƒ^ýV"
+  EDG_GUY_7:0 "cíuN­e„v2–Y"
+  EDG_GUY_1_desc:0 "ñ‚<hpQºNþfÏu.^©RbìNb—V†N¸‹Yb—eÿ(Wb:WNˆmmp†N¸‹YÕlpQ‰ŒTÖNìNàVÚ‹D–¸^„v›Q–0"
+  EDG_GUY_2_desc:0 "ñ‚<hpQ	gNw'YÏ‘ck(WŒbImr^„vÇ–cOuQÿbìNmNŒTÖNìN„vDQV	gNwo‚‹Y„vsQû|ÿàVwÖNìNýwS6ebìN”NRKNN„v±”0"
+  EDG_GUY_3_desc:0 "bìN?–úWfW„vÃW‰ƒú‹/fÑ‘À–±‚‹sg„v–™MOñ‚<hpQ‹sTÿyY„vY²Nýw›RÜÑû•Tÿ«ˆ‰Š:N'k2m‡v¶RVyÍk0"
+  EDG_GUY_4_desc:0 "âlSY/f'k2m‰¹e„vKS4YÿÙu†NbìNýwT°eNLuuµNFU'„v:gO0"
+  EDG_GUY_5_desc:0 "ÛVýVb‰NòTÏuõuö^peASt^KNENÿ•g„vb‰NYeO†NbìN‚YUOVßRôfY„v°euQ0"
+  EDG_GUY_6_desc:0 "bìN/fþfÏu:V'Y„v‰R9ƒ^ýV„vNèRÿƒR:NbìN&^egRžR„výV¶RêjŒÿ"
+  EDG_GUY_7_desc:0 "ÕlpQ‰cíuN­e„v«R cbýV„v¹ƒX‰^XÿàVdkbìN„v‰^XýM‘Y†N˜Y„v2–¡V¾‹Ëe0"
+  
+  
+ EDG_HAB_4:0 "Nt^b‰NKNÛu"
+  EDG_HAB_4_desc:0 "Nt^b‰NNbYuN„v2OÛuO6qqVÍTNwbìNýV¶Rÿ:N†NN©‹²`gRQ/kÑSuÿ°e„vb/gåN|T2UÆ–-NuQ›R0åN|kmpLe›Q	gu›RÏ‘:NIN‰îvh„v³Qbÿ"

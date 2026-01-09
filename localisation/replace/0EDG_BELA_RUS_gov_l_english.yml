@@ -1,0 +1,29 @@
+﻿l_english:
+ EDG_BELA_shejijun_power_1_yes:0 "£yes££mil£§RYŽNb‰N-N§!N£icon_manpower£§YºN›RÔk‡s§!§TóS§!§G20%§!"
+ EDG_BELA_shejijun_power_2_yes:0 "£yes££mil£§RYŽNb‰N-N§!N£icon_manpower£§YºN›RÔk‡s§!§RN³§!§G20%§!"
+ EDG_BELA_shejijun_power_3_yes:0 "£yes££mil£§T¡l	gYŽNb‰N-N§!N£icon_manpower£§YºN›RÔk‡s§!§TóS§!§G20%§!"
+ EDG_BELA_shejijun_power_4_yes:0 "£yes££mil£§T¡l	gYŽNb‰N-N§!N£icon_manpower£§YºN›RÔk‡s§!§RN³§!§G20%§!"
+ EDG_BELA_shejijun_power_1_no:0 "£no££mil£§RYŽNb‰N-N§!N£icon_manpower£§YºN›RÔk‡s§!§TóS§!§G20%§!"
+ EDG_BELA_shejijun_power_2_no:0 "£no££mil£§RYŽNb‰N-N§!N£icon_manpower£§YºN›RÔk‡s§!§RN³§!§G20%§!"
+ EDG_BELA_shejijun_power_3_no:0 "£no££mil£§T¡l	gYŽNb‰N-N§!N£icon_manpower£§YºN›RÔk‡s§!§TóS§!§G20%§!"
+ EDG_BELA_shejijun_power_4_no:0 "£no££mil£§T¡l	gYŽNb‰N-N§!N£icon_manpower£§YºN›RÔk‡s§!§RN³§!§G20%§!"
+ #EDG_RYA_tartar_vs_rus_mechanic:0 "h^qVÍT›R—e‰N:g6R"
+ #ability_EDG_RYA_tartar_vs_rus_mechanic:0 "h^qVÍT›R—e‰N:g6R"
+ #tartar_rus_power:0 "qVÍT›ROPT<P"
+ #tartar_rus_power_desc:0 "h^«R÷^XR(W2N*Nþl-nRf„v>mû|ÿ.Oßu„vW¯e>mŒT°etQ„v‘—|—>mÿR+RãNhˆNTúQ«Ž„v5Ïe„v)RÊvÿh^‹slQÅV‰˜(W2N>mô•ôucNšR„vs^aˆÿÇŽNOPTÐgN>mOüRôqVÍT›R1YaˆÿqVÍT«R÷^„vck8^ÐjOÿuó	gïSýw&^eg§RŒp¾–'`„vTœg§!!0\n\n----------------\n§OqVÍT›ROPT<PSŽN-33ãNhˆ‹slQOPT‘—|—>m§!\n§GqVÍT›ROPT<P(W-33ŒT+33KNô•ãNhˆqVÍT›Rs^aˆ§!\n§OqVÍT›ROPT<P'YŽN+33ãNhˆ‹slQOPTW¯e>m§!\n\n----------------\nqVÍT›ROPT<PS×S0RåNNàV.tqVÍTÿ\nŒRbyršR§YûN¡R§!\n	éb§Y–:g‹NöN	y˜§!\nŒRbyršR§Y³Q®‹§!"
+#\n\nqVÍT›ROPT<PSŽN-33ãNhˆ‹slQOPT‘—|—>mÿ(Wg'Y<PöeÿbìNO·ƒ—VåNNHeœgÿ\n«R c·ƒ—V„vTIN¹ppeÿ+50%\n‘šuQjObýw›Rÿ+30%\n‘šuQÔk‹Oÿ+50%\n.OYe:V¦^ÿ+1\nùRVYe.OYe:V¦^ÿ+2\n\n\n\n\n \n\nqVÍT›ROPT<P(W-33ŒT+33KNô•ãNhˆqVÍT›Rs^aˆÿbìNSO·ƒ—VåNNHeœgÿ\nhQýVÛSqN¦^ÿ-1.00ÿ\nq c·ƒ—V¹ppeÿ+25.0%ÿ\nýV¶Rz6eîOckÿ+10%\n \n\nqVÍT›ROPT<P'YŽN+33ãNhˆ‹slQOPTW¯e>mÿ(Wg'Y<PöeÿbìNO·ƒ—VåNNHeœgÿ\n
+ #EDG_russian_reform_ability_province_modifier_1:0 "°e`ó`.O­d"
+ #EDG_russian_reform_ability_province_modifier_2:0 "°e`ó`.O­d"
+ #EDG_BELA_RYA_tartar_vs_rus_gov:0 "h^ŒNCQ5ÏeSO6R"
+ #EDG_rya_disaster_potential_tt:0 "òTÏu=T(uqS:g§RáOûN)TLX§!"
+ #EDG_rya_no_disaster_potential_tt:0 "òTÏuMQqS:g§RáOûN)TLX§!"
+ #EDG_has_landshare_tt:0 "òTÏu§BRM‘†˜0W§!"
+ EDG_BELA_RYA_boyal_landshare_reform:0 "5ÏeW0WRM‘Cg"
+ EDG_BELA_RYA_boyal_landshare_reform_desc:0 ":N†NŸ±Rib.VÿNb	ggyVâlÅ–SýO—V0R°eib.VW0W„vNèRÿw	gŸRwØOæS	gVYO0"
+ EDG_RYA_GK_P:0 "aS<SšNjR†˜0W"
+ EDG_RYA_GK:0 "O›RaS<SšNjR"
+ EDG_RYA_GKA:0 "O›RaS<SšN	TZ"
+ KNIAZHICH:0 "aS<SåeGY"
+ KNIAZHNA:0 "aS<SåeZ"
+
+

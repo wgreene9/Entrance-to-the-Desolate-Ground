@@ -1,0 +1,241 @@
+﻿l_english:
+#天主教
+#好感
+EDG_flavorCatholic_1_a_opinion_modifier:0 "-pNbìN„vNj8R"
+EDG_flavorCatholic_1_b_opinion_modifier:0 "ÒbÝu-pNNj8R"
+EDG_flavorCatholic_1_c_opinion_modifier:0 "ybkNj8RAm"
+EDG_Catholic_decision_unable_redemption_vouchers_opinion:0 "ybkjQ.UNj8R"
+EDG_flavorCatholic_131_opinion:0 "?BbìN"
+EDG_Prohibition_order_to_us_opinion:0 "ùRbìN˜^yYeäN"
+
+EDG_HRE_under_Prohibition_order_global_flag_hre_member_trigger_tt:0 "/f§Y^ýVø‹¯O§!NYe—RùR^ýV˜^†N§YyYeäN§!"
+EDG_NOT_under_Prohibition_order_trigger_tt:0 "S*gYŽN§YyYeäN§!„vqVÍTN"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_opinion:0 "IN.V#W‹NêIN"
+
+#决议
+
+edg_add_reform_desire_tiny_effect_tt:0 ")YINYe·ƒ—V§Y0.1%§!9ei—|TðX0"
+
+EDG_Redemption_voucher_enable_global_flag_trigger_tt:0 "@PAPYe—R*gybkê1ujQ.U§YNj8R§!"
+EDG_Redemption_voucher_unable_global_flag:0 "Ye—RòTybkê1ujQ.UNj8R"
+
+EDG_Catholic_decision_Redemption_voucher_domestic_title:0 "£icon_EDG_Catholic£T,gýVjQ.UNj8R"
+EDG_Catholic_decision_Redemption_voucher_domestic_desc:0 "-NNªu)YINYeO(WÑS.UNj8RKNMRÿ	gNWYfj„v^yfR9hnc0)YINYe^yfR²‹:N¯rjáO’VÇJTã‰)YIN·ƒ—VËRU`TÿYeOïSMQd–vQ1ujw—V„v°sNé`ZÿsS0MQjZ00)YINYe²‹:NúWcw«ˆ‰”ASWR¶gNÿŸR·VàeÏ‘ÿ#WÍkÊS#W’VmNïy	g¸‹Y0„UŸR0ÿd–eˆNêñTjÇYÿS	gYYOŸR³Rÿïy/twegb:NYeO„v0ŸR“^0YeO	gCg³QšR(WjºNNbjO„UŸRN³åNŒRhQeˆjöeÿïSÎNŸR“^-N·ƒ—VN›NŸR·VåNµbPjZKN:Pÿws^áO’V8^—‰Ç-pNNj8RåN·ƒÖSŸR·V0bìN/f)YINYeO„vNXTÿbìN	gCgT,gýV„váO’VjQ.UNj8R0"
+
+EDG_Catholic_decision_Redemption_voucher_foreign_title:0 "£icon_EDG_Catholic£T»ýVjQ.UNj8R"
+EDG_Catholic_decision_Redemption_voucher_foreign_desc:0 "-NNªu)YINYeO(WÑS.UNj8RKNMRÿ	gNWYfj„v^yfR9hnc0)YINYe^yfR²‹:N¯rjáO’VÇJTã‰)YIN·ƒ—VËRU`TÿYeOïSMQd–vQ1ujw—V„v°sNé`ZÿsS0MQjZ00)YINYe²‹:NúWcw«ˆ‰”ASWR¶gNÿŸR·VàeÏ‘ÿ#WÍkÊS#W’VmNïy	g¸‹Y0„UŸR0ÿd–eˆNêñTjÇYÿS	gYYOŸR³Rÿïy/twegb:NYeO„v0ŸR“^0YeO	gCg³QšR(WjºNNbjO„UŸRN³åNŒRhQeˆjöeÿïSÎNŸR“^-N·ƒ—VN›NŸR·VåNµbPjZKN:Pÿws^áO’V8^—‰Ç-pNNj8RåN·ƒÖSŸR·V0bìN/f)YINYeO„vNXTÿbìN	gCgT»ýV„váO’VjQ.UNj8R0"
+EDG_Catholic_decision_Redemption_voucher_foreign_gain_money_tt:0 "bìNSOTNb	gáOðN§Y)YINYe§!„v§Y»ýV§!jQ.UNj8Rÿå‚ÖNìN¥c×S÷‹BlÿbìNSýwY6e·ƒNr£icon_EDG_cash£§TÑ‘±”§!0"
+
+EDG_Redemption_voucher_unable_global_flag_tt:0 "@PAPYe—RS§Yybk§!YeOê1ujQ.UNj8R0"
+EDG_Redemption_voucher_enable_global_flag_tt:0 "@PAPYe—RS§YAQ¸‹§!YeOê1ujQ.UNj8R0"
+
+
+EDG_Catholic_decision_unable_redemption_vouchers_title:0 "£icon_EDG_Catholic£ybkê1ujQ.UNj8R"
+EDG_Catholic_decision_unable_redemption_vouchers_desc:0 "Nj8R/fYeOP%„vaŒVÿbìNå‚‰I–bkYeëXìN„v*jZ‘b'Y•ÿ1SÅV‰˜ybkê1ujQ.UNj8R0"
+
+EDG_Catholic_decision_enable_redemption_vouchers_title:0 "£icon_EDG_Catholic£AQ¸‹ê1ujQ.UNj8R"
+EDG_Catholic_decision_enable_redemption_vouchers_desc:0 "Nj8R/fYeO0ÌR„vaŒVÿbìNå‚‰ôucYeO^y#W„vO‹Tÿ1SÅV‰˜AQ¸‹ê1ujQ.UNj8R0"
+
+EDG_Catholic_decision_Vatican_Treasury_take_title:0 "£icon_EDG_Catholic£*c(uYe÷^Ñ‘“^"
+EDG_Catholic_decision_Vatican_Treasury_take_desc:0 "jO:NYe—RÿbìNSV6q	gCg*c(uYe÷^Ñ‘“^ÿSlQqQ0µNÆQØS:NYe—R„vÁyµNÿKS¡rÙO.bN›NP%î•˜˜0"
+
+edg_vatican_treasury_take:0 "*c(uYe÷^Ñ‘“^"
+
+EDG_Catholic_decision_Vatican_Treasury_donate_title:0 "£icon_EDG_Catholic£TYe÷^Ñ‘“^Pc.sÁyµN"
+EDG_Catholic_decision_Vatican_Treasury_donate_desc:0 "bìN”^SVTYe÷^Ñ‘“^Pc.sN›NÁyµNÿåNEQžRÑ‘“^0"
+
+EDG_Catholic_decision_Bribing_Pope_title:0 "£icon_EDG_Catholic£TYe—RLˆ?"
+EDG_Catholic_decision_Bribing_Pope_desc:0 "Ye—RjO:N)YINYeNLugwQ	gCg¿R„v^yLwKNNÿwQ	g«ƒ'Y„vqVÍT›Rÿb¸‹bìNïSåNÇùRYe—RLˆ?åNžR°sbìN„v?e»lîv„v0"
+
+EDG_Catholic_decision_Bribing_Pope_tt:0 "bìN(WyrŠkÅ`µQNïSåNã‰•å‹‹NöN„v§YyrŠk	y˜§!ÿ\n-ck(W§YÏu†SÝuZäN§!\n-ck(W§YÏu†SyYeäN§!\nYe—RS	gCg	ébTabÒbÝuÿqVÍTàV.tSìbåNN¹eb—ÿ\n\n-§Mckb—qVÍT§!\n-[Root.GetAdjective]„v§GY²NðX‰Š§!\n-[Root.GetAdjective]„v§GZg§!\n-ùR[Root.GetAdjective]„v§G‹Ya§!\n-/f[Root.GetAdjective]„v§G›Q‹NTßv§!\n-/f[Root.GetAdjective]„v§G^SýV§!\n-[PAP.GetAdjective]„v§G0?e¶rµQ§!\n-[PAP.GetAdjective]„v§Gßu»lwyr(§!\n\n-§Mb—qVÍT§!\n-/f[Root.GetAdjective]„v§R¿RLe§!\n-N[Root.GetAdjective]YŽN§R²Nb§!\n-ùR¹e„v§RÑSUS¦^§!\n-[Root.GetAdjective]NYe—RbYe÷^Ñv²b§RLeùR§!"
+
+EDG_HRE_under_Prohibition_order_global_flag:0 "Ye—RùR^ýV˜^yYeäN"
+EDG_HRE_under_Prohibition_order_global_flag_no_tt:0 "Ye—RS*gùR^ýV˜^§YyYeäN§!"
+EDG_HRE_under_Prohibition_order_global_flag_yes_tt:0 "Ye—RòTÏuùR^ýV˜^§YyYeäN§!"
+EDG_HRE_under_Prohibition_order_global_flag_tt:0 "Ye—RSOùRte*N§Y^y#WWlš^ýV§!˜^§YyYeäN§!ÿNb	gáOðN§Y)YINYe§!„v§Y^ýVø‹¯O§!ýS¥c×Sb—îOck0\nø‹¯OïSýwOÇTÍy„VÄ‰§YyYeäN§!„vé`ZÿSìb§G?BYe—R§!0§G?Båe3wüf8lN'Ygr–™§!bN§RYe÷^³QÂˆ§!Ir0"
+EDG_Catholic_decision_Prohibition_order_to_HRE_title:0 "£icon_EDG_Catholic£ùR^ýV˜^yYeäN"
+EDG_Catholic_decision_Prohibition_order_to_HRE_desc:0 "yYeäN/fYe—R„v:V'YfkhVÿ«ˆ˜^yYeäN„výV¶RÿvQ†˜0WN„vºNlSO1Y»S·ƒ—VQeN„v:gOÿÖNìNSOùRêñT„vßu»lwa0RNán0"
+EDG_HRE_under_Prohibition_order_global_flag_clr_tt:0 "ˆ”ùR§Y^y#WWlš^ýV§!„v§YyYeäN§!SO«ˆ²d•0"
+
+EDG_Catholic_decision_Prohibition_order_to_HRE_remove_title:0 "£icon_EDG_Catholic£²d•ˆ”ùR^y#WWlš^ýV„vyYeäN"
+EDG_Catholic_decision_Prohibition_order_to_HRE_remove_desc:0 "ˆ”ùR^y#WWlš^ýV„vyYeäN©‹)YINYeOw–eQ†NèT'Y„v•dÂˆ-NÿbìNÅV‰˜jPbkÙN²Qz0"
+
+EDG_Catholic_decision_Donate_to_the_Church_title:0 "£icon_EDG_Catholic£TYeO©‹/n)RÊv"
+EDG_Catholic_decision_Donate_to_the_Church_desc:0 ")YINYeO	gž^'Y„v¿R›RÿbìNïSåNÇTÖNìN©‹/nNèR)RÊvåN·ƒÖSÖNìN„v/ec0"
+EDG_Catholic_decision_Donate_to_the_Church_tt:0 "(W	éb†N§Y©‹/n„v)RÊv§!TÿbìNSïSåN	éb§Y—‰„v.^©R§!0"
+
+EDG_Catholic_decision_Bribing_MAI_title:0 "£icon_EDG_Catholic£Tåe3wüf–™-^'YINYeLˆ?"
+EDG_Catholic_decision_Bribing_MAI_desc:0 "åe3wüf–™-^'YINYe/fYe—R(W·Va×V„vãNtºNÿ1uŽNvQ,g«Ž|QûN^y#WWlš^ýV°RøvÿEewåe3wüf–™-^'YINYemN/fYe—R(W^ýVƒX…Q„vãNtºN0'YINYeåb	gYe—RNb©‹/n„vNèRyrCgÿ‚YœgbìNàeÕlÎNYe—RKb-N·ƒ—V/ecÿbìNïSåNSÕ‹©‹'YINYe.^©RbìN0"
+
+EDG_Catholic_decision_Bribing_MAI_tt:0 "§Yåe3wüf–™-^'YINYe§!„vCgP–ÔkYe—RôfSÿFOÔkYe—Rôf¹Rf§Y?BbŸR§!0\nbìN(WyrŠkÅ`µQNïSåNã‰•å‹‹NöN„v§YyrŠk	y˜§!ÿ\n-/f§Y^y#WWlš^ýV„v‡v^§!\n-ck(W§YÏu†SyYeäN§!\nåe3wüf–™-^'YINYeS	gCg	ébTabÒbÝuÿqVÍTàV.tSìbåNN¹eb—ÿ\n\n-§Mckb—qVÍT§!\n-[Root.GetAdjective]„v§GY²NðX‰Š§!\n-[Root.GetAdjective]„v§GZg§!\n-ùR[Root.GetAdjective]„v§G‹Ya§!\n-/f[Root.GetAdjective]„v§G›Q‹NTßv§!\n-/f[Root.GetAdjective]„v§G^SýV§!\n-'YINYe„v§G0?e¶rµQ§!\n-'YINYe„v§Gßu»lwyr(§!\n\n-§Mb—qVÍT§!\n-/f[Root.GetAdjective]„v§R¿RLe§!\n-N[Root.GetAdjective]YŽN§R²Nb§!\n-ùR¹e„v§RÑSUS¦^§!\n-[Root.GetAdjective]Nåe3wüf–™-^'YINYebYe÷^Ñv²b§RLeùR§!"
+
+EDG_under_Prohibition_order_tt:0 "[Root.GetName]YŽN§YyYeäN§!N"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_modifier_tt:0 "êS‰å‹îOckXR(WÿbìN1SSMQ×S§Y)YINYeyYeäN§!„vqVÍT0"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_title:0 "£icon_EDG_Catholic£IN.V#W‹NêIN"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_desc:0 "Ye÷^ùRbìN„vØveRòTÏu0R†NbìNàeÕlÍV×S„v0WekÿbìNÅV‰˜±R^&T²‹)YINYe÷^(W#W‹N¹eb—„vCgZÿ&TRbìN„výVlSàeÕlGSeQ)YX0"
+
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_cancel_title:0 "£icon_EDG_Catholic£²d•#W‹NêIN"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_cancel_desc:0 "#W‹N”^SV1uYe÷^IN¡rÿbìN(W#W‹NêIN¹eb—„vIN.V/f•ï‹„vÿbìN”^SVÍ‘°eÞVRVYe÷^„v`±b0"
+
+EDG_Catholic_decision_theocracy_investigate_heresy_title:0 "£icon_EDG_Catholic£ƒwn,gýVVïz"
+EDG_Catholic_decision_theocracy_investigate_heresy_desc:0 "bìN/f)YINYeO„vNXTÿë³RVïz/fbìN„vLw#0"
+EDG_Catholic_decision_theocracy_investigate_heresy_in_5_years_modifier:0 "ƒwn,gýVVïz"
+
+#事件
+
+EDG_flavorCatholic.1.t:0 "[From.GetName]TbìNjQ.UNj8R"
+EDG_flavorCatholic.1.d:0 "-NNªu)YINYeO(WÑS.UNj8RKNMRÿ	gNWYfj„v^yfR9hnc0)YINYe^yfR²‹:N¯rjáO’VÇJTã‰)YIN·ƒ—VËRU`TÿYeOïSMQd–vQ1ujw—V„v°sNé`ZÿsS0MQjZ00)YINYe²‹:NúWcw«ˆ‰”ASWR¶gNÿŸR·VàeÏ‘ÿ#WÍkÊS#W’VmNïy	g¸‹Y0„UŸR0ÿd–eˆNêñTjÇYÿS	gYYOŸR³Rÿïy/twegb:NYeO„v0ŸR“^0YeO	gCg³QšR(WjºNNbjO„UŸRN³åNŒRhQeˆjöeÿïSÎNŸR“^-N·ƒ—VN›NŸR·VåNµbPjZKN:Pÿws^áO’V8^—‰Ç-pNNj8RåN·ƒÖSŸR·V0[From.GetName]/f)YINYeO„vNXTÿ	gCgTjO:N»ýV„vbìNjQ.UNj8Rÿå‚bìN-pNNj8RÿïSýwïSåN©‹Ye÷^ŒTbìNýV…Q„vYeëXa0Rána0"
+EDG_flavorCatholic.1.a:0 "bìNPNŽNm7Rj‹Rÿ"
+EDG_flavorCatholic.1.b:0 "Ù*YRƒ,Œ†N0"
+EDG_flavorCatholic.1.c:0 "YeOOó`ÎNbìN„vKb-NÿbpNR±”ÿ"
+
+EDG_flavorCatholic.2.t:0 "Ye—RAQ¸‹jQ.UNj8R"
+EDG_flavorCatholic.2.d:0 "KS¡rNj8RþfàV«ˆÆ‰:N/fP%„v9hnwN¦^m0RybkÿFO‹NžRÁ‹fÿNj8RùRŽNYeOwŠ/fÅVNïSS„v0:N†Nôu²bYeO„vÐlŒTnfNYeO„v3zšRÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]±R^ÿÍ‘°eAQ¸‹YeëXê1ujQ.UNj8R0"
+EDG_flavorCatholic.2.a:0 "0.Olbyó—,†˜ºNRVIN0/fYeO„vO‹T0"
+
+EDG_flavorCatholic.3.t:0 "Ye—RybkjQ.UNj8R"
+EDG_flavorCatholic.3.d:0 "P%î•˜˜•gåNegðVpbNwte*NnfNYeOÿ(W°sãNí‹ƒXNÿNj8RŽVŽVb:NYeOP%„vaŒV0-NNªu)YINYeO(WÑS.UNj8RKNMRÿ	gNWYfj„v^yfR9hnc0)YINYe^yfR²‹:N¯rjáO’VÇJTã‰)YIN·ƒ—VËRU`TÿYeOïSMQd–vQ1ujw—V„v°sNé`ZÿsS0MQjZ00)YINYe²‹:NúWcw«ˆ‰”ASWR¶gNÿŸR·VàeÏ‘ÿ#WÍkÊS#W’VmNïy	g¸‹Y0„UŸR0ÿd–eˆNêñTjÇYÿS	gYYOŸR³Rÿïy/twegb:NYeO„v0ŸR“^0YeO	gCg³QšR(WjºNNbjO„UŸRN³åNŒRhQeˆjöeÿïSÎNŸR“^-N·ƒ—VN›NŸR·VåNµbPjZKN:Pÿws^áO’V8^—‰Ç-pNNj8RåN·ƒÖSŸR·VÿÙ,g/fnfNYeO„vNmNKNS0FO1uŽN¸‹YYeëXån(uLwCgÿ†wajQ.UNj8RÿåNdkZwie†N'YÏ‘„v0ÌR0ÙO—VNj8RàQNNb:N†NYeOP%„vãNTÍ‹ÿb:N†N—RYe9ei—ININw¨bûQYeO„våTwQ0:N†NjgÝuYeOP%ÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]±R^ÿybkYeëXê1ujQ.UNj8R0"
+EDG_flavorCatholic.3.a:0 "Ù/fw„vTÿ"
+
+EDG_flavorCatholic_4_if_success_tt:0 "‚Yœg@PAP§YYe—R§!§G¥c×S§!†NbìN„v?Bÿ±HN"
+EDG_flavorCatholic_4_if_success_MAI_tt:0 "‚Yœg§Yåe3wüf–™-^'YINYe§!§G¥c×S§!†NbìN„v?Bÿ±HN"
+EDG_flavorCatholic_4_if_success_pap_tt:0 "‚YœgÖNìN§GeSLˆ§!†N?Bÿ±HN"
+EDG_flavorCatholic_4_a0_tt:0 "NYe—RTwÜu—‰NrúWNx9(uÿ‚YœgbìN	éb>eVÿ±HNå‹9(uSO«ˆØ0"
+
+EDG_flavorCatholic.4.t:0 "TYe—RLˆ?"
+EDG_flavorCatholic.4.d:0 "#Wµ^/fte*N)YINYeNLu-Ng	gCg¿R„v#WLwÿbìNïSåNÕ‹þV?BYe—RÿåNdkbcÖSYe—R„v/ec0"
+EDG_flavorCatholic_4_a0:0 "b9eØSINa†N0"
+EDG_flavorCatholic_4_111:0 "bìN^gã‰d–ÝuZ0"
+EDG_flavorCatholic_4_121:0 "bìN^gã‰d–yYeäN0"
+EDG_flavorCatholic_4_131:0 "bìNêSó`:NYe—RRçV0"
+EDG_flavorCatholic_4_141:0 "bìN^g6R¦uýV…Q„vYeëX0"
+EDG_flavorCatholic_4_151:0 "bìN÷‹BlYe—RûN‹TNT¢g:g0"
+EDG_flavorCatholic_4_161:0 "bìN÷‹BlYe—RR—PwbìN„vO‚‚0"
+EDG_flavorCatholic_4_171:0 "÷‹BlYe—ROS©RbìNƒwnVïz0"
+
+EDG_flavorCatholic.5.t:0 "[From.GetName]ÒbÝu†NbìN„vLˆ?"
+EDG_flavorCatholic.5.d:0 "b¸‹/fàV:NN›NY²NŸSàVÿÈSb¸‹/fàV:N[From.Monarch.GetTitle]„vÑ‘“^ØˆVEQÕˆÿ[From.Monarch.GetTitle]gÈuÒbÝu†NbìN„v÷‹Bl0"
+EDG_flavorCatholic.5.a:0 "ÖNìNw/f(g·‹FTg&&"
+
+EDG_flavorCatholic.6.t:0 "[From.GetName]¥c×S†N<yir"
+EDG_flavorCatholic.6.d:0 "[From.Monarch.GetTitle]Ta†NbìN„v÷‹BlÿÖNìN#k6q6eN†NbìN„vÄžÑ‘ÿv^bú‹SOán³bìN„v‰Bl0"
+EDG_flavorCatholic.6.a:0 "a0Œ6w#zÿ"
+
+
+EDG_flavorCatholic.7.t:0 "²d•ˆ”ùR^ýV˜^„vyYeäN"
+EDG_flavorCatholic.7.d:0 "–Nw[Root.GetName]Œcác†NYe÷^ÿˆ”ùR^y#WWlš^ýV„vyYeäN«ˆã‰d–†Nÿag˜^ýV„vºNlQN/k«ˆAQ¸‹Lˆ#W‹Nÿ·Va×VpQ„v)YINYe’VQ/k·ƒ—V†NGSeQ)YX„vCg)R0"
+EDG_flavorCatholic.7.a:0 "0ÎNMR„v‹NNQ«ˆ°‹õV00"
+EDG_flavorCatholic.7.b:0 ""
+EDG_flavorCatholic.7.c:0 ""
+
+EDG_flavorCatholic.8.t:0 "ùR^ýV˜^yYeäN"
+EDG_flavorCatholic.8.d:0 "Ye—RùRte*N^y#WWlš^ýV˜^†NyYeäN0(W)YINYeNLu-Nÿ(W«ˆyYe„výV¶Rb0W:S…Qÿd–†NúQu„vm<yŒT‰k¡N„vl„<yKNYÿNRZZ'NÁZ6Z„v`N×OýN×SúWcwYeOb²‹ÿÙ1SasTNwúWcwYeÎNÙ*N0W:SŒRhQ²dúQÿå‹0W:S„vNb	gºNý1Y»S†NLˆ#W<y0·ƒQeN„vCg)R0yYeäNOùRSV0W„vßu»lw.b«ƒ'Y„vqVÍTÿSV0W„v)YINYe’VOùRßu»lwg:NNánÿv^Õ‹þV¨cûTIN„vßu»l0‚YÊNÿYe—R„vyYeäNµb¾†N·Va×VpQÿÅV6qŽcw^ýVƒX…Q„v¨Raƒ0"
+EDG_flavorCatholic.8.a:0 "0åN<wØ<wÿåNYrØYr00"
+EDG_flavorCatholic.8.b:0 ""
+EDG_flavorCatholic.8.c:0 ""
+EDG_HRE_under_Prohibition_order_trigger_modifier:0 ")YINYeyYeäN"
+EDG_HRE_under_Prohibition_order_trigger_modifier_desc:0 "(W)YINYeNLu-Nÿ(W«ˆyYe„výV¶Rb0W:S…Qÿd–†NúQu„vm<yŒT‰k¡N„vl„<yKNYÿNRZZ'NÁZ6Z„v`N×OýN×SúWcwYeOb²‹ÿÙ1SasTNwúWcwYeÎNÙ*N0W:SŒRhQ²dúQÿå‹0W:S„vNb	gºNý1Y»S†NLˆ#W<y0·ƒQeN„vCg)R0yYeäNOùRSV0W„vßu»lw.b«ƒ'Y„vqVÍTÿSV0W„v)YINYe’VOùRßu»lwg:NNánÿv^Õ‹þV¨cûTIN„vßu»l0"
+
+EDG_flavorCatholic.9.t:0 "[From.GetName]ùRbìN˜^yYeäN"
+EDG_flavorCatholic.9.d:0 "[From.GetName]ùRbìN˜^†NyYeäN0(W)YINYeNLu-Nÿ(W«ˆyYe„výV¶Rb0W:S…Qÿd–†NúQu„vm<yŒT‰k¡N„vl„<yKNYÿNRZZ'NÁZ6Z„v`N×OýN×SúWcwYeOb²‹ÿÙ1SasTNwúWcwYeÎNÙ*N0W:SŒRhQ²dúQÿå‹0W:S„vNb	gºNý1Y»S†NLˆ#W<y0·ƒQeN„vCg)R0yYeäNOùRSV0W„vßu»lw.b«ƒ'Y„vqVÍTÿSV0W„v)YINYe’VOùRßu»lwg:NNánÿv^Õ‹þV¨cûTIN„vßu»l0‚YÊNÿYe—R„vyYeäNµb¾†N[Root.GetName]ÿÅV6qŽcw[Root.GetName]ƒX…Q„v¨Raƒ0"
+EDG_flavorCatholic.9.a:0 "0åN<wØ<wÿåNYrØYr00"
+
+EDG_flavorCatholic.10.t:0 "TYeO©‹/n)RÊv"
+EDG_flavorCatholic.10.d:0 ")YINYeO	gž^'Y„v¿R›RÿbìNïSåNÇTÖNìN©‹/nNèR)RÊvåN·ƒÖSÖNìN„v/ec0(WbìN	éb©‹/n)RÊv„v¹eVTÿbìNSïSåN	ébÎNYeëXKb-N·ƒÖSUOÍy/ec0"
+EDG_flavorCatholic_10_a0:0 "b9eØSINa†N0"
+EDG_flavorCatholic.10.a:0 "TYeOPc.s0WµN0"
+EDG_flavorCatholic.10.b:0 "TYeOPc.sÑ‘±”0"
+EDG_flavorCatholic.10.c:0 "TYeO©‹/nLˆ?eCg›R0"
+EDG_flavorCatholic.10.e:0 "TYeO©‹/nY²NCg›R0"
+EDG_flavorCatholic.10.f:0 "TYeO©‹/n›Q‹NCg›R0"
+EDG_flavorCatholic.10.g:0 "ÙuˆNYeOz6eyrCg0"
+EDG_flavorCatholic.10.i:0 "ÙuˆNYeOFUNyrCg0"
+EDG_flavorCatholic.10.h:0 "ÙuˆNYeOuQyVyrCg0"
+
+EDG_flavorCatholic.11.t:0 "TYeOÐcúQ‰Bl"
+EDG_flavorCatholic.11.d:0 "bìNòTÏuT)YINYeO¸‹ú‹†N)RÊvÿ°s(WbìN—‰ÐcúQbìN„v‰Bl0"
+EDG_flavorCatholic.11.a:0 "bìN—‰Ye÷^„vyó—0"
+EDG_flavorCatholic.11.b:0 "bìN—‰#WLk„v^Ž0"
+EDG_flavorCatholic.11.c:0 "bìN—‰YeëX„vàVÚ‹0"
+EDG_flavorCatholic.11.e:0 "bìN4ngYe—R„v‚W`0"
+EDG_flavorCatholic.11.f:0 "bìN—‰b‹N„v/ec0"
+EDG_flavorCatholic.11.g:0 "bìN—‰.OYe„v©R›R0"
+EDG_flavorCatholic.11.h:0 "bìN—‰…Qè„v3zšR0"
+EDG_flavorCatholic.11.i:0 "bìNó`Ž÷‹NMO¡R¯‹˜R0"
+EDG_flavorCatholic.11.j:0 "bìNó`Ž÷‹NMO^yfR¶R0"
+EDG_flavorCatholic.11.k:0 "bìNó`Ž÷‹NMO¢g:g0"
+
+EDG_flavorCatholic.111.t:0 "[From.GetName]÷‹Blã‰d–ÝuZ"
+EDG_flavorCatholic.111.d:0 "[From.GetName]b—4Nm×SÝuZ„vðVƒXÿÖNìN„vßu»lwÚ‹c0W÷‹BlbìNã‰d–ˆ”ùRÖNìN„vÝuZÿb`YÖNìN„vYeM|v^ËRU`ÖNìN„vjLˆ0"
+EDG_flavorCatholic.111.a:0 "[Root.Monarch.GetTitle]#k6q¥c×S0"
+EDG_flavorCatholic.111.b:0 "bìNNOTr”^0"
+EDG_flavorCatholic_gain_cash_for_1_year_income_tt:0 "bìNS·ƒ—VÖNìN§Yt^6eeQ§!„v§G100%§!ÿå‚Ñ‘˜N³ÿRóS6eÖS§G600§!0"
+EDG_flavorCatholic_gain_cash_for_0d4_year_income_tt:0 "bìNS·ƒ—VÖNìN§Yt^6eeQ§!„v§G40%§!ÿå‚Ñ‘˜N³ÿRóS6eÖS§G240§!0"
+EDG_flavorCatholic_gain_cash_for_0d2_year_income_tt:0 "bìNS·ƒ—VÖNìN§Yt^6eeQ§!„v§G20%§!ÿå‚Ñ‘˜N³ÿRóS6eÖS§G120§!0"
+EDG_flavorCatholic_gain_cash_for_0d1_year_income_tt:0 "bìNS·ƒ—VÖNìN§Yt^6eeQ§!„v§G10%§!ÿå‚Ñ‘˜N³ÿRóS6eÖS§G60§!0"
+
+EDG_flavorCatholic.121.t:0 "[From.GetName]÷‹Blã‰d–yYeäN"
+EDG_flavorCatholic.121.d:0 "[From.GetName]b—4Nm×SyYeäN„vðVƒXÿÖNìN„vßu»lwÚ‹c0W÷‹BlbìNã‰d–ˆ”ùRÖNìN„vyYeäNÿb`YÖNìNltmúWcwyó—„vCg)R0"
+EDG_Prohibition_order_invalid_in_20_years_effect_tt:0 "(W*geg§M20§!t^…QN×S§YyYeäN§!„vqVÍT0"
+
+EDG_flavorCatholic.131.t:0 "[From.GetName]IYN<yir"
+EDG_flavorCatholic.131.d:0 "[From.GetName]:N[Root.Monarch.GetTitle]N†NNýN<yirÿÖNìNv^N‰BlÞV¥bÿêS^gýwYNbìNÝOcËS„U„vsQû|0"
+
+EDG_flavorCatholic.141.t:0 "[From.GetName]÷‹Bl6R¦uýV…QYeëX"
+EDG_flavorCatholic.141.d:0 "[From.GetName]„vßu»lwNýV…Q„vYeëXYŽN't.V„vsQû|KN-Nÿ:NdkÿÖNìNTbìNÐcúQ÷‹Blÿ^gbìNýwYåN[Root.Monarch.GetTitle]„vTIN‰BlýV…Q„vYeëXHeàV?eœ^0SV6qÿÖNìNOIYNNèRÑ‘±”jO:N¥bl‘0"
+
+EDG_flavorCatholic.151.t:0 "[From.GetName]^gûN‹T¢g:g"
+EDG_flavorCatholic.151.d:0 "[From.GetName]^gbìNýwYTÖNìN„v†˜WÔY>mNT¢g:gÿÖNìN?aa(uNrNòƒ„v¥bl‘jO:N²Nbc0"
+EDG_random_province_add_cardinal_tt:0 "»lN–:gN*N)YINYewýNSO·ƒ—VNT§Y¢g:g§!0"
+
+EDG_flavorCatholic.161.t:0 "[From.GetName]4ng·ƒ—VR—Pw"
+EDG_flavorCatholic.161.d:0 "[From.GetName]„vßu»lw^gýwY—V0RYe—R„vR—PwÿåN¿O(WYe÷^N·ƒ—Vôf^Ûl„vqVÍT›R0"
+
+EDG_flavorCatholic.171.t:0 "[From.GetName]÷‹BlƒwnVïz"
+EDG_flavorCatholic.171.d:0 "[From.GetName]„vßu»lwùRýV…Q„vVïza0RP`ç`ÿÖNìN÷‹BlbìN>mcN›NYbfO„vYeëXOS©RÖNìNú^Ëz—RYeÁˆ2RNb0"
+
+EDG_flavorCatholic.12.t:0 "ùRåe3wüf–™-^'YINYeLˆ?"
+EDG_flavorCatholic.12.d:0 "åe3wüf–™-^'YINYe/fYe—R(W·Va×V„vãNtºNÿ1uŽNvQ,g«Ž|QûN^y#WWlš^ýV°RøvÿEewåe3wüf–™-^'YINYemN/fYe—R(W^ýVƒX…Q„vãNtºN0'YINYeåb	gYe—RNb©‹/n„vNèRyrCgÿ‚YœgbìNàeÕlÎNYe—RKb-N·ƒ—V/ecÿbìNïSåNSÕ‹©‹'YINYe.^©RbìN0"
+EDG_flavorCatholic_12_a:0 "nxÝO'YINYeùR^ýV„vàVÚ‹0"
+EDG_flavorCatholic_12_131:0 "bìNêSó`:N'YINYeRçV0"
+EDG_flavorCatholic_12_a0_tt:0 "Nåe3wüf–™-^'YINYeTwÜu—‰NrúWNx9(uÿ‚YœgbìN	éb>eVÿ±HNå‹9(uSO«ˆØ0"
+
+#修正
+
+EDG_Catholic_decision_Bribing_MAI_in_10_years_modifier:0 "ASt^…QÕ‹þVùRåe3wüf–™-^'YINYeLˆ?Ç"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_modifier:0 "IN.V#W‹NêIN"
+
+EDG_Catholic_decision_Redemption_voucher_domestic:0 "T,gýVjQ.UNj8R"
+EDG_Catholic_decision_Redemption_voucher_foreign:0 "T»ýVjQ.UNj8R"
+EDG_flavorCatholic_1_a_modifier:0 "T#WLw-pNNj8R"
+EDG_flavorCatholic_bought_voucher_in_10_years_modifier:0 "ASt^…Q«ˆjQ.UÇNj8R"
+EDG_flavorCatholic_1_c_modifier:0 "(W†˜0W…QybkAmNj8R"
+EDG_flavorCatholic_1_b_hre_modifier:0 "ÒbÝu-pNNj8R„v·Va×Vø‹¯O"
+EDG_Catholic_decision_unable_redemption_vouchers_ruler_domestic:0 "°sûNYe—R˜^ÇybkjQ.UNj8R„vYeŒ"
+EDG_Catholic_decision_enable_redemption_vouchers_ruler_domestic:0 "°sûNYe—R˜^ÇAQ¸‹jQ.UNj8R„vYeŒ"
+edg_vatican_treasury_take_modifier:0 "*c(uYe÷^Ñ‘“^"
+investigate_heresy_in_5_years_modifier:0 "”Nt^…QÛLˆÇƒwnVïz"
+EDG_Catholic_decision_Bribing_Pope_in_10_years_modifier:0 "ASt^…QÕ‹þVùRYe—RLˆ?Ç"
+EDG_Prohibition_order_invalid_in_20_years_modifier:0 "Ye—Ryr¸‹ŒNASt^…QMQ×SyYeäN"
+EDG_under_Prohibition_order_modifier:0 "«ˆ˜^yYeäN"
+EDG_flavorCatholic_4_141_modifier:0 "0Ye—RUeäN0‰BlYeëXàVÚ‹"
+EDG_flavorCatholic_4_161_modifier:0 "0Ye—RUeäN0R—PwO‚‚"
+EDG_flavorCatholic_4_171_modifier:0 "0Ye—RUeäN0>mcYfbOYeëX"
+EDG_Catholic_decision_Prohibition_order_to_HRE_in_25_years_modifier:0 "25t^…QùR^ýV˜^ÇyYeäN"
+EDG_under_Prohibition_order_to_others_in_10_years_modifier:0 "10t^…QùRvQÖNýV¶R˜^ÇyYeäN"
+EDG_under_Prohibition_order_tt_modifier:0 ")YINYeyYeäN"
+EDG_Catholic_decision_Donate_to_the_Church_in_10_years_modifier:0 "10t^…QTYeO©‹/nÇCg›R"
+EDG_flavorCatholic_10_c_modifier:0 "TYeO©‹/nLˆ?eCg›R"
+EDG_flavorCatholic_10_e_modifier:0 "TYeO©‹/nY²NCg›R"
+EDG_flavorCatholic_10_f_modifier:0 "TYeO©‹/n›Q‹NCg›R"
+EDG_flavorCatholic_10_g_modifier:0 "ÙuˆNYeOz6eyrCg"
+EDG_flavorCatholic_10_h_modifier:0 "ÙuˆNYeOuQyVyrCg"
+EDG_flavorCatholic_10_i_modifier:0 "ÙuˆNYeOFUNyrCg"
+EDG_flavorCatholic_11_g_modifier:0 "YeO.OYe/ec"
+EDG_flavorCatholic_11_h_modifier:0 "YeO3zšR/ec"
+EDG_flavorCatholic_11_i_modifier:0 "YeO/ec"
+EDG_Catholic_decision_Bribing_MAI_in_10_years_modifier:0 "ASt^…QÕ‹þVùRåe3wüf–™-^'YINYeLˆ?Ç"
+EDG_Catholic_decision_Advocate_for_Church_Autonomy_modifier:0 "IN.V#W‹NêIN"
+EDG_Catholic_decision_theocracy_investigate_heresy_in_5_years_modifier:0 "ƒwn,gýVVïz"
+
+EDG_HRE_ucontrol_MAI_trigger_modifier:0 "µc6Råe3wüf–™-^'YINYe"

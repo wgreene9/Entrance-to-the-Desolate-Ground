@@ -1,0 +1,57 @@
+﻿l_english:
+ EDG_TEU_double_rome:0 "ÌSÍ‘Wlš"
+ desc_EDG_TEU_double_rome_desc:0 ""
+ EDG_TEU_great_expedition:0 "'YÜV"
+ desc_EDG_TEU_great_expedition:0 ""
+ EDG_TEU_eastern_garrison_modifier:0 "N¹ekSb†˜"
+ desc_EDG_TEU_eastern_garrison_modifier:0 ""
+ EDG_num_won_battles:0 "b—eÜw)R!kpe"
+ HOLY_MONGOL_EMPIR:0 "^y1W™„äS^ýV"
+ HOLY_MONGOL_EMPIR_ADJ:0 "^y1W™„äS^ýV"
+ EDG_TEU_pru_empire:0 "nfœëX^ýV"
+ desc_EDG_TEU_pru_empire:""
+
+ EDG_crusader_kingdom_of_prussia_reform:0 "^y1WnfœëX‹sýV"
+ EDG_crusader_kingdom_of_prussia_reform_desc:0 "‘šëXâVN×OFON‰V•^„vµNir.1S†NÙ*NäS*`„vÄuÇuƒRâebÅbNwÇ»SäSw„vLw1ÿmNcT*geg„vÍyÍyïSýw0b¸‹`OO²‹:NÙ=fVó`)YVKNjOÿFORVŸXKN…QÿN‹NNir†v	gïSýw0"
+ EDG_holy_horde_reform:0 "IƒŸSASWR›Q"
+ EDG_holy_horde_reform_desc:0 "(W'YIƒŸS„vv`±R¯sƒX-NÿbìN„vASWR›Q?eœ^òT«ˆ2•¼pb†NN*N	gÄuÇu„vASWR›Q8ngrýV¶R0ÇùRlš9S„vO(uŒTùRbìN‹NN„vZWšRáOõVÿ^y1W8ngr„vASWR›QbëXìNSŠbwck„váOðN.O­d0RÙ*NNLuNgeÜ„vÒ‰K„ÿ"
+ EDG_holy_nomad_reform:0 "^y1W8ngrl"
+ EDG_holy_nomad_reform_desc:0 "IƒŸS„v8ngrèK„ÏuÇbìN„vYeSKNTòTÏuNQ:N†N c:YNNg.bwVbÿw=f:N†NbìN„váOðNwbÿÙSîX'YbìNTôfÜ¹e„vASWR›Q„v–Oÿ"
+
+
+ ability_EDG_PRU_honor_of_iron_and_blood_mechanic:0 "§YÁ”Nˆcƒw§!"
+ EDG_PRU_honor_of_iron_and_blood:0 "§Ycƒw<P§!"
+ EDG_PRU_honor_of_iron_and_blood_desc:0 "§Ycƒw<P§!S×S0R‚YNàV.tw§GžX R§!ÿ\n-§Gßu»lw„v›Q‹Nýw›R§!\n-§GÜw)R„vF–b§!\n\n§Ycƒw<P§!S×S0R‚YNàV.tw§GÏQS§!ÿ\n-§RùR^yWbXT±Rb§!\n-§R1Y%„vF–b§!\n\nSVbìN=f§Y^y1WWlš^ýV‡v^§!b=f§Y-NNS^ýV‡v^§!öeÿSO·ƒ—V˜Y Rb0"
+ EDG_PRU_honor_of_iron_and_blood_gain_modifier:0 "§YÁ”Nˆcƒw§!NbÙuˆN„vîOck"
+ monthly_EDG_PRU_honor_of_iron_and_blood:0 "g¦^§Ycƒw<P§!"
+
+ PRU_common_ideas:0 "nfœëX.Oßu"
+ PRU_common_ideas_bonus:0 "nfœëXÎ‘ÃV"
+ PRU_common_ideas_start:0 "nfœëX.Oßu"
+ PRU_teu_ideas:0 "^y1WnfœëX.Oßu"
+ PRU_teu_ideas_bonus:0 "^y1WnfœëXÎ‘ÃV"
+ PRU_teu_ideas_start:0 "^y1WnfœëX.Oßu"
+ EDG_PRU_sacred_expedition:0 "^y1WÜV"
+ EDG_PRU_sacred_expedition_desc:0 "IƒŸSNASWR›Q„vÌe×eòT6qGSwÿ©‹bìNß–'YIƒŸSN„v³ùÿTNwôfÜYÛ›Q'Tÿ"
+ EDG_PRU_complementary_advantages:0 "O¿R’Neˆ"
+ EDG_PRU_complementary_advantages_desc:0 "NTuQÍyKNô•GW	gvQO¿RN±R¿Rÿ=U	gSÖNìNKNô•„vO¿R)R(uwegÿMbýwY‹NJSŸRP0"
+ EDG_PRU_iron_and_blood:0 "Á”Nˆ^ýV"
+ EDG_PRU_iron_and_blood_desc:0 "^ýV„vú^ËzÎNegN=fú^Ëz(WŒTs^KNNÿw—‰Ïut¢”Á”„v—e‰NNœœNˆ„vm<y¹eýwwckySËzŽNNLu0"
+ EDG_PRU_combine_east_and_west:0 "N‰Tµt"
+ EDG_PRU_combine_east_and_west_desc:0 "(Wû|ßu„vfR`N†N†SòSNN¹eN‰¹e„vb=gNb‰NSOû|KNTÿbìNùRb‰N„vtã‰SOßÛNek0"
+ EDG_PRU_double_rome:0 "2NÍ‘^ Q"
+ EDG_PRU_double_rome_desc:0 "N‰ŒN^ÿÌSÍ‘Wlšÿ"
+
+ EDG_TEU_CANNOT_DECLARE_WARS_EASTERN_GARRISON:0 "§YN¹ekSb†˜§!ag¦uÄ‰šRÿbìNàeÕlùR§Y^y1WWlš^ýV„vbXT§!ýV±Rbÿ"
+ EDG_TEU_EASTERN_GARRISON_CAN_NOT_JOI:0 "§YN¹ekSb†˜§!ag¦uÄ‰šRÿ§Y^y1WWlš^ýVbXT§!àeÕl ReQˆ”ùRå‹ýV„vSôVQÿ"
+ EDG_TEU_EASTERN_GARRISON_CALL:0 "§YN¹ekSb†˜§!ag¦uÄ‰šRÿ§Y^y1WWlš^ýVbXT§!àeÕl ReQbìNNbY—Vb‰Nÿ"
+
+ EDG_call_eastern_garrision_title:0 "ìSÆ–kSb†˜"
+ EDG_call_eastern_garrision_desc:0 "‡v^×S0R†NLeºN„vÛIeÿbìNå‹©‹kSb†˜eSLˆÖNìN„vLw1†Nÿ"
+ EDG_call_eastern_garrision_tooltip:0 "å‹ýVS«ˆìSÆ– ReQbìNNbY„vNb	g§Y2–¡V'`§!b‰N"
+
+ EDG_TEU_eastern_garrison_title:0 "@TEU T§Y‡v^§!²N§YN¹ekSb†˜ag¦u§!"
+ EDG_TEU_eastern_garrison_desc:0 "bìNùR^ýV…Qè„vib.VëkàeípÅ`ÿmN¸‹bìN”^å‹)R(uÙN¹p:NbìNŒÖSôf'Y„v)RÊv0"
+ EDG_TEU_eastern_garrison.tt:0 "bìNST‡v^²N§YN¹ekSb†˜ag¦u§!ÿå‹ag¦uÄ‰šR‚YNÿ\n-bìNS·ƒ—V'YÏ‘„v§YžXÊv§!\n-bìNSàeÕlùR§Y^ýVbXT§!±Rb\n-§Y^ýVbXT§!àeÕlÄuú^ˆ”ùRbìN—VSôVQ\n-«ˆbìNNb±Rb„výV¶RàeÕl|T2U§Y^ýVbXT§! ReQb‰N\n-‡v^YŽN§Y2–¡Vb‰N§!KNöeÿSýwY§YàeagöN§!ìSÆ–bìN ReQb‰N\n-ÏkSVbìNT§Y^ýVKNY§!„výV¶R±Rbÿ§Y‡v^§!Sý·ƒ—VNšR^ýVCgZ0\n\n§YNðag¦u…Q¹RS(W‡v^TaKNTuHeÿÏkNûNßu»lwêSýw²NN!kå‹ag¦u§!"
+ EDG_PRU_eastern_garrison_title:0 "@PRU T§Y‡v^§!²N§YN¹ekSb†˜ag¦u§!"
+ EDG_PRU_eastern_garrison_desc:0 "bìNùR^ýV…Qè„vib.VëkàeípÅ`ÿmN¸‹bìN”^å‹)R(uÙN¹p:NbìNŒÖSôf'Y„v)RÊv0"

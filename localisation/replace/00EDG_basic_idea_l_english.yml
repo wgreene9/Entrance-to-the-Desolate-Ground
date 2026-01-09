@@ -1,0 +1,275 @@
+﻿l_english:
+    #罗斯理念
+    EDG_Russia_basic_ideas:0 "W¯etõV"
+    EDG_Russia_basic_ideas_start:0 "W¯etõVÎ‘ÃV"
+    EDG_Russia_basic_ideas_bonus:0 "ŒRbW¯etõV"
+    EDG_Russia_basic_ideas_1:0 "teTW¯eø‹ýV"
+    EDG_Russia_basic_ideas_2:0 "‘—|—Ç–cOuQ"
+    EDG_Russia_basic_ideas_3:0 "W¯e„vW0W"
+    EDG_Russia_basic_ideas_4:0 "åT(„KQ‘šuQ"
+    EDG_Russia_basic_ideas_5:0 "9eÛœQtY6R¦^"
+    EDG_Russia_basic_ideas_6:0 "W¯eYeO"
+    EDG_Russia_basic_ideas_7:0 "7ŒirNrrju"
+    EDG_Russia_basic_ideas_1_desc:0 "W¯e0W:S•gYŽNRÂˆrRncKN-Nÿ'Y'YSS„v¦ýV—gËz(WÙGrW0WNÿNÅN©‹YLe	g:gïSXNÿ mNN­eJR1VW¯elÏe„vÝQZw›RÿÙN°s¶rÅV‰˜—V0RÈuÓu0"
+    EDG_Russia_basic_ideas_2_desc:0 "N'k'YIƒŸSN„v‘—|—ºNNôv:NbìNR.¸‹Y„vcbÿFObìNmNïSåNScblS:N:gGÿÇÇ–cO‘—|—ºNÇ–cOuQeg.^©RbìNŒRb›Q‹NLˆ¨R0"
+    EDG_Russia_basic_ideas_3_desc:0 "N'k'Y0WÇŽN^–ÿdk0W„vlP<ëSV0WºN‰Qb†NZWÅk„v)Y'`ÿv^©‹bìN(WT)Y„v›Q‹NžRõ-NŒcác†N(WW¯e'Y0WNŒR„UTäRNeˆÙu„vÀ‹z0"
+    EDG_Russia_basic_ideas_4_desc:0 "åT(„KQºN„všÇR„Ub:NbìNÐc›O†N:V'Y„v‘šuQ	gu›RÏ‘0"
+    EDG_Russia_basic_ideas_5_desc:0 "œQtY6R¦^•gåNeg/fW¯eø‹ýVÏuNmŒT?e»l„vúWówÿFOI`/fXR(Wø‹YVïz09eÛœQtY6R¦^/f R:VbìNžR›R„vÅV6q‰Bl0"
+    EDG_Russia_basic_ideas_6_desc:0 "êÎNW¯eºNˆvOúWcwYeåNegÿúWcwYeÊSvQYeO1S(WbìN„vuIm-NnboNwg:NÍ‘‰„vÒ‰r‚0"
+    EDG_Russia_basic_ideas_7_desc:0 "bìN„vW0WTœQNIm¨Rÿ'Y0WÍk²N:NbìNÐc›O'YÏ‘„v7ŒirŒTrrjuÿúT²w†NOY„vW¯ePRsY0"
+    
+    EDG_Rus_Imperial_Senate_Bill_Act:0 "^ýVÂS?eb–ÕlHh"
+    EDG_Rus_Ross_Industrialization_Act:0 "W¯eåTNSÕlHh"
+    EDG_Rus_Rank_Table_Act:0 "˜RéyhˆÕlHh"
+    EDG_Rus_Army_Commission_Act:0 "F–›QÔYXTOÕlHh"
+    EDG_Rus_Episcopal_Church_Bill_Act:0 "#WINYelQOÕlHh"
+    EDG_Rus_Foreign_Affairs_Commission_Bill_Act:0 "Y²NÔYXTOÕlHh"
+    EDG_Rus_Attorney_General_Office_Bill_Act:0 "I`ÀhßRrÕlHh"
+    EDG_Rus_Provincial_and_District_Bill_Act:0 "^ýV¡rtSO6RÕlHh"
+    EDG_Rus_Foreign_Trade_Commission_Act:0 "ùRY8fÔYXTOÕlHh"
+
+    EDG_Rus_Imperial_Senate_Bill_Act_desc:0 "ÂS?eb–/f8^¾‹'`„vgØš-N.YLˆ?e:g„gÿôv¥cùR™l‡v#ÿCg›RˆV'Yÿ#YtýV¶R?e»l0›Q‹N0øSÕlŒTY²N‹N¡RåNÊSø‹Y0W¹e‹N¡Rÿ™l‡vN(W–™ýöeÿÂS?eb–ãNÿf™l‡vYtýV‹N0"
+    EDG_Rus_Ross_Industrialization_Act_desc:0 "W¯eÍk²NÙuˆNbìN0Nv™„virDÿbìNS)R(uSV0W„vDnÛLˆåTNSÿSb.ÑS¾„vÏuNmSO0"
+    EDG_Rus_Rank_Table_Act_desc:0 "W¯eÍk²NÙuˆNbìN0Nv™„virDÿbìNS)R(uSV0W„vDnÛLˆåTNSÿSb.ÑS¾„vÏuNmSO0"
+    EDG_Rus_Army_Commission_Act_desc:0 "F–›QÔYXTOS8T³uOYå‹†˜ßW„vºNMbÿv^ùR^ýV„vF–›Qû|ßuÛLˆÑyfR¡rt0"
+    EDG_Rus_Episcopal_Church_Bill_Act_desc:0 "#WINYelQO/f¡rtNckYe‹N¡R„vgØšýV¶R:gsQÿÖSãN«ˆŸ^d–„vgr–™6R0"
+    EDG_Rus_Foreign_Affairs_Commission_Bill_Act_desc:0 "Y²NÔYXTOSOS©RgØšßu»lw(WýVE–‚ðSNÑS%côfÍ‘‰„vjO(u0"
+    EDG_Rus_Attorney_General_Office_Bill_Act_desc:0 "I`ÀhßRrSùR˜RXTÛLˆÑvcwÿåNÝOÁ‹ÖNìN„vàVÚ‹ŒTØšHe0"
+    EDG_Rus_Provincial_and_District_Bill_Act_desc:0 "^ýV¡rtSO6RÕlHhÖSˆmw0ÞTŒT¿S	Nµu¡rtSO6Rÿú^Ëzw0¿S2Nµu¡rtSO6RÿžX RwµuLˆ?eUSMOpeÏ‘0"
+    EDG_Rus_Foreign_Trade_Commission_Act_desc:0 "ùRY8fÔYXTOÊSvQŒ˜î•SO:NbìNÐc›OôfYibUS8f„vú^®‹0"
+    
+    
+    #伊比利亚理念
+    EDG_Iberian_basic_ideas:0 "OÔk)RšNtõV"
+    EDG_Iberian_basic_ideas_start:0 "OÔk)RšNtõVÎ‘ÃV"
+    EDG_Iberian_basic_ideas_bonus:0 "ŒRbOÔk)RšNtõV"
+    EDG_Iberian_basic_ideas_1:0 "OÔk)RšN„v·u‰N"
+    EDG_Iberian_basic_ideas_2:0 "Ÿ¨R#Wb"
+    EDG_Iberian_basic_ideas_3:0 "—RYe>yO"
+    EDG_Iberian_basic_ideas_4:0 "‰g'Ym"
+    EDG_Iberian_basic_ideas_5:0 ".OYeípÅ`"
+    EDG_Iberian_basic_ideas_6:0 "àeLe0‚–"
+    EDG_Iberian_basic_ideas_7:0 "pS¦^²NfNb"
+    EDG_Iberian_basic_ideas_1_desc:0 "6eY1Y0WÐ¨RòTÏucíu†Npe*NNªuÿOÔk)RšN„vW0WNËYÈuÃqçpNw—RYe·u‰N„vÈpkpÿbìNÅV6qÈuÓuÙN°s¶r0"
+    EDG_Iberian_basic_ideas_2_desc:0 "bìNÅV‰˜ÇŸ¨R#Wbeg R:Vê«Ž„v›Q‹NžR›RÿÎNwôu²bê«Ž‰RhQv^±RlbckáO0"
+    EDG_Iberian_basic_ideas_3_desc:0 "OÔk)RšNø‹ýVý	gSmšS„v—RYer‚iVÿbìNåb	g:V'Y„v—RYeÝQZw›Rÿv^àVdkýwYKQgÍyÍy^—ckáOàV.t0"
+    EDG_Iberian_basic_ideas_4_desc:0 "OÔk)RšNºNueg1S‰:N¢c0t°eNLu/.súQêñT„v›RÏ‘ÿbìNS(W0Wt'YÑS°s„vöeãNR.‰Lq0"
+    EDG_Iberian_basic_ideas_5_desc:0 "^S„vípÅ`/fIR(WbìN„v¨šPRÌ‘„vÿ.O­dyó—/fbìN„vIN¡R0"
+    EDG_Iberian_basic_ideas_6_desc:0 "Äuú^:V'Y„vwm›Q/fú^Ëz:V'Y›Q‹N›RÏ‘„vNèRÿOÔk)RšNlÏe„vwm2–›RÏ‘àe‘u/fg:V'Y„v0"
+    EDG_Iberian_basic_ideas_7_desc:0 "(WwmY„v–klN8fIm¨R—‰?eœ^„v¡rµcNvbcÿbìN:Ndk¾‹Ëz†NpS¦^²NfNbÿ(uåNibUSbìN„v8f0"
+    
+    EDG_the_ibr_Church_Privileges_Act:0 "YeOyrCgÕlHh"
+    EDG_the_ibr_Industrial_modernization_Act:0 "µNNÑãNS"
+    EDG_the_ibr_Political_Inclusion_Act:0 "—RYeS¹RÕlHh"
+    EDG_the_ibr_Inquisition_Act:0 "—RYeÁˆ2RNb"
+    EDG_the_ibr_Ambition_without_setting_the_sun_Act:0 "åeNK„Î‘ÃV"
+    EDG_the_ibr_Expansion_of_Colonization_Act:0 "ib'Y–klÕlHh"
+    EDG_the_ibr_Spain_Dafang_Formation_Act:0 "‰ísYr'Y¹e5–"
+    EDG_the_ibr_Iberian_casting_gun_Act:0 "OÔk)RšNø”®p"
+    EDG_the_ibr_Noble_Privileges_Act:0 "5ÏeyrCgÕlHh"
+    EDG_the_ibr_Municipal_Council_Act:0 "^?et‹NO"
+    EDG_the_ibr_Build_invincible_fleet_Act:0 "Äuú^àeLe0‚–"
+    
+    EDG_the_ibr_Church_Privileges_Act_desc:0 "YeO/f>yO„v/eñgÿôu²bYeO„v)RÊvýwYôf‹Y0WÝOÁ‹ýV¶R„v3zšR0"
+    EDG_the_ibr_Industrial_modernization_Act_desc:0 "bìNÇ c:Y^—2mŒT°e'YF–„vDnÿ·ƒÖS†NèTÏ‘„v0ÌRÿv^wckåb	g†NeP·^„vÏuNmtº‹ùRbìN„vú^¾‹ÛLˆcüRÿÙO—VbìN„v0ÌRýwY(uŽNýV…Qú^¾‹w^—bYˆOjm9bòvîv„v›Q‹NLˆ¨R-N0"
+    EDG_the_ibr_Political_Inclusion_Act_desc:0 "øvÔkŽN´f›RKbµkÿbìNôf>PTŽNÇôf)nŒT„vKbµkã‰³Q—RYeî•˜˜ÿNTáOðN„v²SO(W>yOuIm-NïSåNøv’NSÍ‘0"
+    EDG_the_ibr_Inquisition_Act_desc:0 "OÔk)RšNJS›SN„v—RYe²Qzî•˜˜NôvASR%NûSÿú^Ëz—RYeÁˆ2RNb	g)RŽNbìNã‰³Q—RYeî•˜˜0"
+    EDG_the_ibr_Ambition_without_setting_the_sun_Act_desc:0 "bìN‹T-NèlšRSú^ËzN*N*jèNLu„våeNK„^ýVÿv^:Ndkú^Ëz†N¸‹Y6R¦^0"
+    EDG_the_ibr_Expansion_of_Colonization_Act_desc:0 "ú^ËzË–„v–kl0W/fbìNžX:VýV¶RžR›R„vKbµkÿbìNÅV‰˜>mcôfY„vºNãSEQžRbìN„v–kl0W0"
+    EDG_the_ibr_Spain_Dafang_Formation_Act_desc:0 "‰ísYr'Y¹e5–/fNÍy›Q‹N6R¦^ÿekuQ¹e5–âe/fbeuUSMOmN/fLˆ?eUSMOÿ:Nú^Ëz:V	g›R„v8^Y›QÐc›O†N6R¦^/e‘d0"
+    EDG_the_ibr_Iberian_casting_gun_Act_desc:0 "(WQVgÐ¨RåNÊSTíu„vNû|Rb‰NKN-NÿOÔk)RšN„vø”®pŽb/gcíuØšÑSUSÿv^(W'k2m'YF–N>fkNöe0"
+    EDG_the_ibr_Noble_Privileges_Act_desc:0 "5Ïe/fbìNýV¶R?e»l0ÏuNmŒT›Q‹N†˜ßW„vúWówÿôu²b5Ïe„v)RÊv1S/fôu²býV¶R„vßuNŒTìrËz0"
+    EDG_the_ibr_Municipal_Council_Act_desc:0 "ãNhˆÎW^)RÊv„vt‹NO0Cabildo0	gTÍyT7h„vLwýwŒTLw#0ÖNìN©wNwôu²bÎW^)RÊvŒT‹sCg)RÊv„v#ûNÿmNbÅbNw¸‹Y¹eb—„v0W¹e»lt„v#ûN0"
+    EDG_the_ibr_Build_invincible_fleet_Act_desc:0 "bìNSOSb.N/ehQNLugž^'Y„v0‚–ÿv^(W^²ˆ„vwmmNNbT«ba—0"
+    
+    #农民理念
+    EDG_Peasant_basic_ideas:0 "œQltõV"
+    EDG_Peasant_basic_ideas_bonus:0 "œQltõVÎ‘ÃV"
+    EDG_Peasant_basic_ideas_1:0 "œQl„v0WMO"
+    EDG_Peasant_basic_ideas_2:0 "ÝOœ–œQlCg)R"
+    EDG_Peasant_basic_ideas_3:0 "ê1u¦W–k"
+    EDG_Peasant_basic_ideas_4:0 "s^Ir›Q–"
+    EDG_Peasant_basic_ideas_5:0 "MckSê1u"
+    EDG_Peasant_basic_ideas_6:0 "œQl	>NCg"
+    EDG_Peasant_basic_ideas_7:0 "äRäRs`s`„v³R¨Rw"
+    
+    EDG_Peasant_basic_ideas_1_desc:0 "(WvQÖNýV¶RÿœQlNôv/f«ˆ‹SëwŒT«ˆeRJRwÿFO(WbìN„výV¶RÿœQl/fýV¶R„vúWówÿ”^å‹«N	gNvQÖN6–BSs^Ir„vCg)RŒT…VGÿuó/fåb	gôfY„vCg)R0"
+    EDG_Peasant_basic_ideas_2_desc:0 "ÝOœ–œQl„vCg)RSMQàe^„vW0W|Qv^ÊSvQüRô„vuµN4xOWÿ'YGrRƒ0WŒT®|ß˜íw:S—V0RMQÿœQQgmNS:NÎW^nnN­e0W“ŸSPg™e0"
+    EDG_Peasant_basic_ideas_3_desc:0 "bìNŸ±RœQlTYÛLˆ¦W–kÿœQl	gCgê1u	éb¦W–k„vW0WÿN×S0WINŒT˜RÚP„vr^pbŒTP–6R0"
+    EDG_Peasant_basic_ideas_4_desc:0 "bìN„v›Q–/fºNºNs^Ir„v›Q–ÿ/f:NÝOkSs^Irwb„v›Q–0•^BSëXuQNOm0R›Q˜R„vØveRŒT‹SëÿhQSO˜RuQ:NÝOœ–êñT„vs^IrŒTCg)RwKYb0"
+    EDG_Peasant_basic_ideas_5_desc:0 ":N†NMckS(WýV…QMbýw«N	g„vê1uÿ^'Y„v•^BS²O	gEQ³„vt1u ReQbìN„v›Q–v^MckSêñT„vê1uNCg)R0"
+    EDG_Peasant_basic_ideas_6_desc:0 ":N^'Y„vœQlÝOœ–	>NCgÿS©‹qQŒTÂ‰õVôf RñmeQºNÃV0"
+    EDG_Peasant_basic_ideas_7_desc:0 "œQlŒT•^BSKbåTNw/f›äR„v³R¨Rwÿ(WCg)R—V0RÝOœ–„vÅ`µQNÿÖNìNS	gEQ³„vípÅ`•beQuµN0"
+    
+    EDG_Peasant_Act_1:0 "ib'YœQl	>NCgÕlHh"
+    EDG_Peasant_Act_2:0 "ê1u¦W–kÕlHh"
+    EDG_Peasant_Act_3:0 "œQlCg)RÕlHh"
+    EDG_Peasant_Act_4:0 "9eÛaNQgYeOÕlHh"
+    EDG_Peasant_Act_5:0 "ã‰>e±RŠÕlHh"
+    EDG_Peasant_Act_6:0 "Ÿ¨RÍS—bÕlHh"
+    EDG_Peasant_Act_7:0 "ê1uTßvÕlHh"
+    EDG_Peasant_Act_8:0 "8fV>eÕlHh"
+    
+    EDG_Peasant_Act_1_desc:0 ":N^'Y„vœQlÝOœ–	>NCgÿS©‹qQŒTÂ‰õVôf RñmeQºNÃV0"
+    EDG_Peasant_Act_2_desc:0 "bìNŸ±RœQlTYÛLˆ¦W–kÿœQl	gCgê1u	éb¦W–k„vW0WÿN×S0WINŒT˜RÚP„vr^pbŒTP–6R0"
+    EDG_Peasant_Act_3_desc:0 "ÝOœ–œQl„vCg)RSMQàe^„vW0W|Qv^ÊSvQüRô„vuµN4xOWÿ'YGrRƒ0WŒT®|ß˜íw:S—V0RMQÿœQQgmNS:NÎW^nnN­e0W“ŸSPg™e0"
+    EDG_Peasant_Act_4_desc:0 "YeO8^8^/fœQQg>yOuIm„v-NÃVÿ9ei—YeOû|ßuv^OvQôf RTbìN„výV¶R»ltSO&^egôfY„vÊvY0"
+    EDG_Peasant_Act_5_desc:0 "bìNSOã‰>ebìN„vTÞwÿSÖNìNÎNeRJRŒT‹Së„v·g•-Nã‰>eúQeg0"
+    EDG_Peasant_Act_6_desc:0 "bìNSOŸ±RbìN„vTÞwùR‹k´f„v?eœ^ÛLˆÍS—bÿÎN…QY2N*N„Vætã‰Sú^IN„vßu»l0"
+    EDG_Peasant_Act_7_desc:0 "ú^ËzN*NMckSê1uŒTs^Ir„vTßvSOû|ÿSýwYÝOœ–bìN„v)RÊvŒTtõVýwY(WýVE–‚ðS-NÛNekib'Y0"
+    EDG_Peasant_Act_8_desc:0 "bìN(WÇ»SÇY0WS¾|›RÆ–-N(WW0WŒTã‰>eãS÷SKNNÿb¸‹9ei—bìN„vSO6Rÿv^žRLˆùRYV>eSO&^egôfY„v:gO0"
+    
+    #神罗理念
+
+    EDG_empire_basic_ideas:0 "^ýVtõV"
+    EDG_empire_basic_ideas_bonus:0 "^ýVtõVÎ‘ÃV"
+    EDG_empire_basic_ideas_1:0 "ø‹¯OyrCg"
+    EDG_empire_basic_ideas_2:0 "ê1uÎW^"
+    EDG_empire_basic_ideas_3:0 "·Va×V5Ïe"
+    EDG_empire_basic_ideas_4:0 "^ýV‡ez‚YtQ"
+    EDG_empire_basic_ideas_5:0 "^ýVLˆ?eW"
+    EDG_empire_basic_ideas_6:0 "^ýVfkÅˆIrµu"
+    EDG_empire_basic_ideas_7:0 "ÞV”^—RYe9ei—"
+    
+    EDG_empire_basic_ideas_1_desc:0 "^y#WWlš^ýV„vø‹¯Oåb	g.OßuKˆN„vê»lyrCgÿø‹¯OìNâVÓu(W^ýV(Wê1u0ê»l0lQck„váOagN0"
+    EDG_empire_basic_ideas_2_desc:0 "^ýV„vê1uÎW^NÅN:N±›N«N	gê»lCg)R„v^l&^eg)RÊvÿff¹p¹p„vê1uÎW^mN:N^ýV„vÏuNmN­eèleQNwIm›R0"
+    EDG_empire_basic_ideas_3_desc:0 "·Va×V0W:Såb	gOYTè•gÏeÿØ	gÍy‰|AuY„v5ÏeÍy‰|ÿN›NºNêðyØšµu5ÏeÿmN	gêðyÎW^5Ïe0^ýV5Ïe0¦ýV5Ïe0SO6R5Ïe„vºNÿÙ›N'Y5ÏeŒTS5ÏeqQTqVÍT^ýV„v?e»lu`0"
+    EDG_empire_basic_ideas_4_desc:0 "‡ez‚YtQñmIR0W9eØS†N'k2m„vb—ŒŒÿ^ýVmNàeÕlMQ×S0R‡ez‚YtQ„vqVÍT0‡ez‚YtQ²QûQ†N^y#WWlš^ýV„v-NNªunfN^ýVtº‹ÿ©‹NºN„vîvIQ1uN^lT†NºN,g«Ž0"
+    EDG_empire_basic_ideas_5_desc:0 "^ýVLˆ?eW/f1u‡v^lšKQ‰)R‰RNNú^Ëz„v6R¦^ÿ:N^ýVø‹¯O2SvQ/f†˜0Wƒ:N4xŽx0W:S„vø‹¯OÐc›O†NN*NÝusO„vOSFUs^ðS0"
+    EDG_empire_basic_ideas_6_desc:0 "^ýVfkÅˆIrµu„vnxËz:N^y#WWlš^ýVžX:VÝQZw›R0ÑS%c^ýV›QjO(uÐc›O†N6R¦^úWNx0"
+    EDG_empire_basic_ideas_7_desc:0 "—RYe9ei—(W'k2mŽcwi6q'Yâlÿ·Va×V0W:S×S0R—RYe9ei—âlÊS„vz¦^g:NèT'YÿbìNÅV‰˜ùRlšN·ï·VÊSvQ`ó`ZPúQhˆ`0"
+    
+    EDG_the_HRE_Act_1:0 "INüR^ýVWÕlHh"
+    EDG_the_HRE_Act_2:0 "^ýV—RYe?eVrÕlHh"
+    EDG_the_HRE_Act_3:0 "^ýV—RYeÔYXTOÕlHh"
+    EDG_the_HRE_Act_4:0 "^ýV‡ez‚YtQÕlHh"
+    EDG_the_HRE_Act_5:0 "^ýVÎW^yrCgÕlHh"
+    EDG_the_HRE_Act_6:0 "·Va×V5ÏeyrCgÕlHh"
+    EDG_the_HRE_Act_7:0 "^ýVFUNyrCgÕlHh"
+    EDG_the_HRE_Act_8:0 "^ýVîOSb–ÕlHh"
+    EDG_the_HRE_Act_9:0 "·Va×VÇ–cOuQÕlHh"
+    EDG_the_HRE_Act_10:0 "^ýVib.VININÕlHh"
+    EDG_the_HRE_Act_11:0 "ëXuQ‹s9ei—ÕlHh"
+    EDG_the_HRE_Act_12:0 "²QýVSOû|ÕlHh"
+    EDG_the_HRE_Act_13:0 "é…PyrCgÕlHh"
+    
+    
+    EDG_the_HRE_Act_1_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_2_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_3_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_4_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_5_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_6_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_7_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_8_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_9_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_10_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_11_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_12_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    EDG_the_HRE_Act_13_desc:0 "^y#WWlš^ýV:Nø‹¯OÐc›O†NN*NìrwQyrr‚„v?e»l‚ðSÿÓuTNT„výV¶RtõVÿbìNïSåN(W^ýV…QèûR—VNT„v/ec0"
+    
+    #保加利亚政策
+EDG_BUL_Venice_trade_Act:0 "a'Y)RyÐÕlHh0ÝO R)RšNN^SÕlHh0"
+EDG_BUL_Venice_trade_desc:0 "a'Y)RºNŒTvQÖN‰'kºNÎNbìN„výV¶R…QƒzÖS†N*YY„v0ÌRÿbìNÅV‰˜ùRÖNìNžRËe8fyÐÿåNMckSbìN„vÏuNm)RÊv0"
+EDG_BUL_Venice_trade_Act_tt:0 "Nb	g§Ya'Y)R§!ýV¶RùRbìN„v‹YaSOM–NO§M50§!"
+
+EDG_BUL_Normalization_queue_Act:0 "–R­‹Ãu8^`SÕlHh0ÝO R)RšNN^SÕlHh0"
+EDG_BUL_Normalization_queue_Act_desc:0 "bìN—‰S–R­‹Ãu8^`SÿåNÝOÁ‹bìN„v›Q–åb	ggØš„v›Q‹N.t‰Q0"
+
+EDG_BUL_Reject_mixed_Act:0 "ÒbÝu÷mTININÕlHh0ÝO R)RšNN^SÕlHh0"
+EDG_BUL_Reject_mixed_Act_desc:0 "÷mTININSOalÓgbìN¯um„váOðNÿâl¯e<SšN0W:S„vVïzYeOòTÏuTbìNUS:y†N÷mTININ„vv`œg0"
+
+
+#奥斯曼
+
+    EDG_TUR_empire_basic_ideas:0 "W3wvQ^ýVtõV"
+    EDG_TUR_empire_basic_ideas_bonus:0 "W3wvQ^ýVtõVÎ‘ÃV"
+    EDG_TUR_empire_basic_ideas_1:0 "NHS„v RPŸÇRëX"
+    EDG_TUR_empire_basic_ideas_2:0 "Vy6rÿVyHQ"
+    EDG_TUR_empire_basic_ideas_3:0 "9e„U‚„›sS6R¦^"
+    EDG_TUR_empire_basic_ideas_4:0 "NLuVgw"
+    EDG_TUR_empire_basic_ideas_5:0 "kpoƒ^ýV"
+    EDG_TUR_empire_basic_ideas_6:0 "nfN^ýV"
+    EDG_TUR_empire_basic_ideas_7:0 "èT'Y„vb‰N:ghV"
+
+    EDG_TUR_empire_basic_ideas_1_desc:0 "0 RPŸ0/fbìNùRÂSN#Wb„vÇRëX„vðy|TÿbìN„v^ýVÎNú^ËzåNeg1S8TV†Nàepe„v RPŸÇRëX ReQbìN„v›Q–ÿbìNOSÙN.OßuÝOcN»S0"
+    EDG_TUR_empire_basic_ideas_2_desc:0 "0Vy6rÿVyHQÿ`O„v›Q–bàeNÜw00"
+    EDG_TUR_empire_basic_ideas_3_desc:0 "èÇØšqSÿŠÇ±'Ywmÿ\n RPŸfkëX(WMRÛÿ\n“Š‰IeKQTëXfWN,\n‰V•^ˆmmpÜb`S­^0\nbìN„v×e^Ógán†NœœNˆÿ\n¢u×ep(WgMRb—ÿ\nôTSr^„v6w<SRÌ‘ÿ\nbìNÇRbe„v‰^^0\nbìN„vZT.O­d0RÛV¹eÿ\n8lÜNO«ˆWØVÿ\nbìNËzNWllšŸR³Rÿ\nNNãNãNŽTlb0\n<SÑyâl)R¯e„v‹v)Yÿ\nŒT±Ñy0tƒlÛIeKNYÿ\nNRØSb^yÝ‹.Oô‹ÿ\n0RYAm.ONèxmp0\nbìNˆmmpLeºN„v–™†˜ÿ\nØŠb‹slQvúQƒXÿ\nôv0RØš R0t„vqSô•ÿ\nŒRbbìN„vÜV0"
+    EDG_TUR_empire_basic_ideas_4_desc:0 "bìNSú^ËzN*NNLu'`„v'Y^ýVÿN¦ø‹ýV„vOãýSSS(WbìN„vN0"
+    EDG_TUR_empire_basic_ideas_5_desc:0 "Nº‹/f6w<SRÌ‘Ø/fLNSís'Y®pÿý—‰'YÏ‘„vO(kpoƒ0bìN„v^ýVú^Ëz(Wkpoƒ„vtQwKNNÿàeº‹(W'k2mØ/fšN2mÿý¡l	gºNÔkbìNôfÅd•O(uÙNHQÛ„v›Q‹NÑyŽb0"
+    EDG_TUR_empire_basic_ideas_6_desc:0 "bìN„v^ýV/fnfN'`„vÿNb	glÏeŒTûNUO—RYe„váO’VýïSåN(WbìN„v^ýV…QûRŒb0R¹R«ŽKNNb0"
+    EDG_TUR_empire_basic_ideas_7_desc:0 "ÿb4xÑNSbìN„v^ýVÄ‹÷N:NNðSïS`„vb‰N:ghV0NæeÙðSO'Y„vb‰N:ghVVËYÐjOÿêS	gwINMbåwS^ýV¹ƒX„vKS4Y(WUOY0"
+
+EDG_the_TUR_Act_1:0 "îO.aSªR<S«ƒ"
+EDG_the_TUR_Act_2:0 "éTúVs|)RyrÕlHh"
+EDG_the_TUR_Act_3:0 "WÆY	TÈT·VÕlHh"
+EDG_the_TUR_Act_4:0 " R:V·V+Yyr¾ÕlHh"
+EDG_the_TUR_Act_5:0 "°ez6eÕlHh"
+EDG_the_TUR_Act_6:0 "^ê™lY²NÕlHh"
+EDG_the_TUR_Act_7:0 "^Y›Q‹NIN¡RÕlHh"
+EDG_the_TUR_Act_8:0 " R:VaSNb¯eKQÕlHh"
+EDG_the_TUR_Act_9:0 "°eFUNSzÕlHh"
+
+EDG_the_TUR_Act_1_desc:0 "0aSªR<S«ƒ0/fbìN„v9h,g'YÕlÿbìNSN­eîO.0aSªR<S«ƒ0ÿOKNN>yOÑSUSøv”^0"
+EDG_the_TUR_Act_2_desc:0 "bìNSéTúVs|)Ryr6R¦^ÿÝOœ–T*N—RYelÏe>y:SOÕlê»l0"
+EDG_the_TUR_Act_3_desc:0 "WÆY„vçubwOåN	TÈT·VKNTTNLuÑS¨RckIN„v#Wb0"
+EDG_the_TUR_Act_4_desc:0 "·V+Yyr¾ÿdefterdars	ÿÿWRb—a`:NO¡‹b°‹&XTÿžR:NŒc¡r0¡RŒT0?e‹N¡R„výV¶R0¡R˜RÿbìNS©‹ÙMO˜RXTôf‹Y0WeSLˆLw#0"
+EDG_the_TUR_Act_5_desc:0 "Ï‚±ƒüf'Y^˜^„v°ez6e?eVrˆV‹Y0Wã‰³Q†N^ýV„v0?eî•˜˜ŒTÑSUSî•˜˜0"
+EDG_the_TUR_Act_6_desc:0 "bìNSåNóØšàeN„v^ê™l„v«ŽýNùRYÛLˆY²NÿN¦ø‹ýVýSãgŽNbìN0"
+EDG_the_TUR_Act_7_desc:0 "bìNS©‹^YbÅbôf:Nïyg„v›Q‹NIN¡RÿbìN„v^SýVS:NbìNÐc›OôfY„v›Q–0"
+EDG_the_TUR_Act_8_desc:0 "aSNb¯eKQÿkadi-askers	ÿÿsS›Q‹NÕl˜R0ÖNìNN*N#‰R³uXb)RšN„vøSÕl‹N¡RÿN*N#œs|)RšN„vøSÕl‹N¡RÿIN‰#ÐcTvQÖNÕl˜R0"
+EDG_the_TUR_Act_9_desc:0 "bìN`Nï`(WFUNNÇ‘(uSz6R¦^ÿv^(WÝOcŸS	g.Oßu„vúWNxNÛLˆîOckÿÝOÁ‹^ýVFUN„vEuN0?e„v3zšR0"
+
+
+EDG_LOT_ADM_ideas:0 "mTX—g	TšNLˆ?etõV"
+EDG_LOT_ADM_ideas_bonus:0 "mTX—g	TšNLˆ?etõVÎ‘ÃV"
+EDG_LOT_ADM_ideas_1:0 "ú^ËzøS“^"
+EDG_LOT_ADM_ideas_2:0 "ÔYûNØy–Oã"
+EDG_LOT_ADM_ideas_3:0 "¾‹Ëz‹s¶RÀhßRr"
+EDG_LOT_ADM_ideas_4:0 "Ti–N±R“ŠHeàV"
+EDG_LOT_ADM_ideas_5:0 "Äuú^¡R¡‹r"
+EDG_LOT_ADM_ideas_6:0 "w•Tw-^O®‹"
+EDG_LOT_ADM_ideas_7:0 "mTX—g	TšN^ýV"
+EDG_LOT_ADM_ideas_1_desc:0 "ú^ËzøS“^„vLˆ?e9ei—ÿèe(W:VS-N.Y0?e¡rt0å‹øS“^#ßuN¡rtýV¶R0?e6eeQÿnxÝOz6eTtRM‘NO(uÿÎNwÐcGSýV¶R0?ef¦^NHe‡s0ÙN9ei—NÅN R:V†N‹sCgùRÏuNmDn„vŒcµcÿmN:NTíu„vLˆ?e9ei—`YšR†NúWNx0"
+EDG_LOT_ADM_ideas_2_desc:0 "å‹9ei—„v8hÃV/fÔYûNØy–OãÿåNÐcGSýV¶R»ltHe‡sv^:VS‹sCgùR0W¹e„vµc6R0Ç¾‹ËzØy–:g„gÿýV‹s—VåNÆ–-NCg›RÿTöeûN‹TàVÚ‹„v˜RXT¡rt0W¹e‹N¡RÿÎNw	gHe”^ùR…QYZÁwÿéTúV‹sýV„v3zšRNßuN0"
+EDG_LOT_ADM_ideas_3_desc:0 "ŸS	g„výV‹sãNtºNNýV‹s‹V^ekoØS:NNLw„výV¶RlQÉ‹ºNÿ#¦Oåg0wÉ‹ÊSÑvcw0W¹eøSÕl‹N¡R0Ç¾‹ËzßuN„vÀhßRSOû|ÿ‹sýVNÅNÐcGS†NùRR‹N¯rj„výÉ‹He‡sÿmN R:V†NùR0W¹eLˆ?e„vÑvcwÿÎNwéTúV†N‹sCgùRTlQýV„vµc6R0ÙN9ei—h×VNwmTX—g	TšNøSÕl6R¦^TÑãNSÈúQÍ‘‰Nek0"
+EDG_LOT_ADM_ideas_4_desc:0 "Nb	g0W¹eLˆ?e•˜RŒT5ÏeýÅV‰˜(WlQV:WTTýV‹s±R“ŠHeàVÿåNnxÝO0W¹eCg›R„vßuNŒT‹sCg„v3zúV0ÙN>Nªcèe(Wˆmd–0W¹e¿R›R„vìrËz'`ÿ:VSýV‹sùRýV¶R„vµc6R›R0"
+EDG_LOT_ADM_ideas_5_desc:0 "¡R¡‹rÑvcw0W¹e0?e6e/eÿnxÝOz6eTtO(uÿv^2–bk*alP%"
+EDG_LOT_ADM_ideas_6_desc:0 "ŸS	g„v5ÏeO®‹n«ˆÑãO®‹ÖSãNÿb:NgØš³QVr:gsQÿÅNP–‹slQ0'YãŒTI`INYeÂSN0TöeÿýV¶RLˆ?e:gsQ?e…S(W15Nªu+gúQ°sÿR¡rTèè•?e¡Rÿ1u'Y5ÏeÅbûNIN¡r00W¹e¡rt¹eb—ÿÍN¿l(u›O‰Q6RÿFO0W¹e˜R„vLw#ôf RfnxÿSìbLˆ?e0øSÕl0z6eŒT›Q‹NLwýw0"
+EDG_LOT_ADM_ideas_7_desc:0 "êÎNågtüfåNegÿÕlpQKQºN¡l	gN*Nwck„v‡v^ÿwbìN/fg	gD<h±Rðyågtüf‡v^4YTˆ„vTIN0"
+
+
+EDG_LOT_DIP_ideas:0 "mTX—g	TšNY²NtõV"
+EDG_LOT_DIP_ideas_bonus:0 "mTX—g	TšNY²NtõVÎ‘ÃV"
+EDG_LOT_DIP_ideas_1:0 "mTX—g	TšN«R÷^"
+EDG_LOT_DIP_ideas_2:0 "Y²N˜RfRb–"
+EDG_LOT_DIP_ideas_3:0 "INüRR:V„vŒ2RLh"
+EDG_LOT_DIP_ideas_4:0 "LˆOÕlHh"
+EDG_LOT_DIP_ideas_5:0 "'kF–8f-NÃV"
+EDG_LOT_DIP_ideas_6:0 "»yûNNIr•˜R"
+EDG_LOT_DIP_ideas_7:0 "IQYÕlpQKQ†˜W"
+EDG_LOT_DIP_ideas_1_desc:0 "mTX—g	TšN(W-NNªuZfgŒT‡ez‚YtQöegÿÇçubŒTYtQågtüf'Y^„vWµNÿåNÊSÇY²NŒT›Q‹NKbµkéTúVvQ0WMOÿn(W'k2m«R÷^-N·ƒ—V†N²‹ïS0mTX—g	TšN«R÷^„vuIm¹eVŒTz‚/gÎ˜<hùR'k2mvQÖN0W:SµNu†NñmÜqVÍTÿ2SvQ/f(Wú^QrŒTØuIu¹eb—0"
+EDG_LOT_DIP_ideas_2_desc:0 "15Nªu/f'k2m‡ez‚YtQŒT0Wt'YÑS°s„vöegÿ'k2mýV¶Rô•„vY²NIm¨RåeÊv‘˜Au0–Nw°eYe.OYeëX0Y²N˜R0FUºNŒTÅeLˆwÖSãN6w#zOb:N‰¹e-NýVbVaŒ„vIN‰.O­dwÿ'k2mùR-NýV„v²‹åwnÑSuØSS0ÙNöegÿY²N˜R„vÒ‰r‚ØS—Vôf RÍ‘‰ÿÖNìNNÅN#ýV¶Rô•„vY²N‹N¡RÿØbÅbNw‡eS²NAm0Å`¥b6eÆ–ŒT?e»l±R.OIrYÍ‘Lwýw0àVdkÿmTX—g	TšN‹sýV¾‹ËzY²N˜RfRb–ÿïSýw/f:N†NùW‰QwQYYí‹Šýw›R0Y²NŽbçTŒT‡eStã‰›R„vY²NºNMbÿåN”^åeÊvYBg„výVE–¯sƒX0"
+EDG_LOT_DIP_ideas_3_desc:0 "bìNïy/t„v?e»lÏuŒšNY²NVreuÿOvQ(W'k2mR:VKNô•ÍNwQ	gNšR„vqVÍT›Rÿ(W'k2mR:VKNô•ÍNýwnboÍ‘‰„vŒã‰Ò‰r‚0"
+EDG_LOT_DIP_ideas_4_desc:0 "bìNAQ¸‹ôfYºN ReQKbåTNLˆOÿÎNwã‰1YN‹S›R0TöeÿÕlHhmNïSýwÄ‰šRLˆObXTÅV‰˜uˆRNšR„vµNÁT(Ï‘hÆQÿåNnxÝOˆm9w)RÊvÿTöemNÐcGSteSOåTz‚4ls^0"
+EDG_LOT_DIP_ideas_5_desc:0 "ÿ–Nw'k2mÏuNm„vYÏ‚ŒTFUNIm¨R„vImÃÿmTX—g	TšNíQPvQ¿O)R„v²NagöNŒT0NÌR„vDnÿnÑSUS:NN*NÍ‘‰„v8f-NÃVÿ±ƒ5ƒ³ljO:Nå‹0W:S„v)Y6q4lSÿNÅNÃOÛ†N…Qè8fÿmN R:V†NNS'k0WS'kCNó0W-Nwm0W:S„vTwû|0"
+EDG_LOT_DIP_ideas_6_desc:0 "bìNS»yûN„v0W¹e•˜RÔYûN0RNè•„v:g„g-NÿåNcíuùR0W¹e•˜RËe RqVÍT›R0"
+EDG_LOT_DIP_ideas_7_desc:0 "êS	gbìN	gçubÕlpQKQ^ýV„vD<h0"
+
+
+EDG_LOT_MIL_ideas:0 "mTX—g	TšN›Q‹NtõV"
+EDG_LOT_MIL_ideas_bonus:0 "mTX—g	TšN›Q‹NtõVÎ‘ÃV"
+EDG_LOT_MIL_ideas_1:0 "‰'k,rN/e8^Y›Q"
+EDG_LOT_MIL_ideas_2:0 "ÕlpQKQ›Q‹N5Ïe"
+EDG_LOT_MIL_ideas_3:0 "Ÿ^d–Sú^uQyV6R"
+EDG_LOT_MIL_ideas_4:0 "b`Y›QŸRˆc5r"
+EDG_LOT_MIL_ideas_5:0 "SZÛžyr›Q‹NfRb–"
+EDG_LOT_MIL_ideas_6:0 "æt†–Í‘‹Wkp®p"
+EDG_LOT_MIL_ideas_7:0 "kp›RO¿RfRô‹"
+EDG_LOT_MIL_ideas_1_desc:0 "bìN¨cLˆ›Q‹N9ei—ÿRú^†N-NNªuåNeg‰'k,rN/e8^Y›Qÿ:NmTX—g	TšNÝuùRININ‹sCg„vtQwŒTýV¶RßuNÐc›O†NsQ.•/ec0"
+EDG_LOT_MIL_ideas_2_desc:0 "ÕlpQKQ›Q‹N5Ïe/f-NNªuéeg‰'kSú^6R¦^„vÍ‘‰ÄubèRÿÖNìN(WÕlpQKQ‹sýV„vú^Ëz0ib.VŒTSú^SÛz-NÑS%c†NsQ.•jO(u0jO:NÕlpQKQ„vçubwÿbìNýV…Q„v5ÏeúW,guªVäSw„vÕlpQKQ.Oßu0"
+EDG_LOT_MIL_ideas_3_desc:0 "Sú^uQyV6R/fSú^>yO-N„vNÍy›Q‹N6R¦^ÿvQ8hÃV(WŽNSuQyVIN¡RNSú^«ŽýN6R¦^øvÓuTÿ8^1u5Ïeb†˜IN#VuQŒT­‹ÃuëXuQ0ÙÍy6R¦^NÅNP–6R†NnflO„v›Q‹NÂSNÿmNI–x†NýV¶R„vßuNŒT°sãNSÛz0Ÿ^d–Sú^uQyV6R8^4O–Nwôf^Ûl„v6R¦^ØSi—ÿ‚Y«ŽýN6R¦^„v9ei—0W0W6R¦^„vŒteåNÊS›Q‹N6R¦^„v°sãNSÿSV6qÿmNasTNwýV›R„vžX:V0"
+EDG_LOT_MIL_ideas_4_desc:0 "bìNú^Ëz†NNÍyúWŽN›Q‹NŸRéuŒTàVÚ‹wˆcˆN5Ïe4YTˆ„v6R¦^ÿvQ8hÃV(WŽNÇSOegÀo±RëXuQŒT5ÏeHeàVýV‹s0"
+EDG_LOT_MIL_ideas_5_desc:0 "SZÛžyrRËz†N‡v¶R›Q‹NfRb–ÿÉcole Royale Militaire	ÿÿåNùW‰Qt^‰„v›Q˜R0ÙNöeg„v›Q‹NYe²w:VŒªu‹VŒTNN­‹ÃuÿåNnxÝO›Q–„vNN'`ŒTHe‡s0"
+EDG_LOT_MIL_ideas_6_desc:0 "kpoƒŽb/g„vbŸqŒTø”Á”åTz‚„vÛekO—Vkp®pnÎNéeg„v•bów:gŒTü®pÑSUSwegÿÍ‘‹Wkp®p„vúQ°smN9eØS†Nb‰N„vb/gŒTbeu0TINŒT5ÏeKNô•„vfk›RDnÓu„gÑSu†NØSSÿTIN1uŽNåb	gôf'Y„vÏuNmžR›RÿýwY-nŒTôu²bÍ‘‹Wkp®pÿÎNw·ƒ—V†NøvùRŽN5Ïe„v/eM‘'`O¿R0"
+EDG_LOT_MIL_ideas_7_desc:0 "kp›RO¿RfRô‹/fNÍy:VŒÇÆ–-NŒTžX:Vkp›R“úQeg‹S6RLeºN„v›Q‹NbeuÿvQ8hÃV`ó`/fÇ:V'Y„vkp›R(Wb:WNÖS—V³QšR'`O¿R0"

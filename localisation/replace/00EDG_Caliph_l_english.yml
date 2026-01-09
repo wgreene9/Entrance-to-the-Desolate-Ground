@@ -1,0 +1,453 @@
+﻿l_english:
+Caliph_GUI_off_button:0 "sQí•§YÈTÌ‘ÑS§!Lub—"
+Caliph_GUI_on_button:0 "SbV§YÈTÌ‘ÑS§!Lub—"
+Caliph_GUI_off_button_tt:0 "sQí•§YÈTÌ‘ÑS§!Lub—"
+Caliph_GUI_on_button_tt:0 "SbV§YÈTÌ‘ÑS§!Lub—"
+
+EDG_Caliph_decree_button_1_a_province_modiffier:0 "AQ¸‹TXúWšN"
+EDG_Caliph_decree_button_1_b_province_modiffier:0 "AQ¸‹TXúWšN"
+EDG_flavor_caliphate_4_a_modifier:0 "¥c×SÈTÌ‘ÑS±Rlb	TÈT·V"
+EDG_Caliph_decree_button_4_province_modifier:0 "Ðc/PYe>m²NAm"
+EDG_flavor_caliphate_6_a_modifier:0 "îO.™l)RšNÕl"
+EDG_Caliph_decree_button_5_b_province_modiffier:0 "îO.™l)RšNÕl"
+EDG_flavor_caliphate_7_a_modifier:0 "¥c×SÈTÌ‘ÑSŸ±R—RYe‡efR"
+EDG_flavor_caliphate_8_a_modifier:0 "¥c×SÈTÌ‘ÑS<rÜuÏ‚òƒYeâV"
+EDG_flavor_caliphate_9_a_modifier:0 "¥c×SÈTÌ‘ÑS|TTÝO²bPŸs|"
+
+EDG_Caliph_decree_1_tt:0 "§bAQ¸‹TXúWšN§!"
+EDG_Caliph_decree_2_tt:0 "§b±Rlb	TÈT·V§!"
+EDG_Caliph_decree_3_tt:0 "§b¦”šRYeÕlfR>m§!"
+EDG_Caliph_decree_4_tt:0 "§bÐc/PYe>m²NAm§!"
+EDG_Caliph_decree_5_tt:0 "§bîO.™l)RšNÕl§!"
+EDG_Caliph_decree_6_tt:0 "§bŸ±R—RYe‡efR§!"
+EDG_Caliph_decree_7_tt:0 "§b<rÜuÏ‚òƒYeâV§!"
+EDG_Caliph_decree_8_tt:0 "§b|TTÝO²bPŸs|§!"
+EDG_Caliph_decree_9_tt:0 "§b>NžR8nLˆÛvxQ§!"
+EDG_Caliph_decree_10_tt:0 "§bˆcˆN^y#WO‹T§!"
+
+EDG_Caliph_decree_tooltip_1_tt:0 "AQ¸‹TXúWšN"
+EDG_Caliph_decree_tooltip_2_tt:0 "±Rlb	TÈT·V"
+EDG_Caliph_decree_tooltip_3_tt:0 "¦”šRYeÕlfR>m"
+EDG_Caliph_decree_tooltip_4_tt:0 "Ðc/PYe>m²NAm"
+EDG_Caliph_decree_tooltip_5_tt:0 "îO.™l)RšNÕl"
+EDG_Caliph_decree_tooltip_6_tt:0 "Ÿ±R—RYe‡efR"
+EDG_Caliph_decree_tooltip_7_tt:0 "<rÜuÏ‚òƒYeâV"
+EDG_Caliph_decree_tooltip_8_tt:0 "|TTÝO²bPŸs|"
+EDG_Caliph_decree_tooltip_9_tt:0 ">NžR8nLˆÛvxQ"
+EDG_Caliph_decree_tooltip_10_tt:0 "ˆcˆN^y#WO‹T"
+
+EDG_Caliph_interaction_button_1_tooltip:0 "ÝO²bÈTÌ‘ÑS"
+EDG_Caliph_interaction_button_2_tooltip:0 ">eÈTÌ‘ÑS"
+EDG_Caliph_interaction_button_3_tooltip:0 "Ÿ^ÜžÈTÌ‘ÑS"
+EDG_Caliph_interaction_button_4_tooltip:0 "ár:YÈTÌ‘ÑS"
+EDG_Caliph_interaction_button_5_tooltip:0 "oyÈTÌ‘ÑS"
+
+
+EDG_Caliph_decree_button_1_a_province_modiffier:0 "AQ¸‹TXúWšN"
+EDG_Caliph_decree_button_1_b_province_modiffier:0 "AQ¸‹TXúWšN"
+EDG_flavor_caliphate_4_a_modifier:0 "¥c×SÈTÌ‘ÑS±Rlb	TÈT·V"
+EDG_Caliph_decree_button_4_province_modifier:0 "Ðc/PYe>m²NAm"
+
+
+EDG_FYM_religion_problem_modifier:0 "ÈTÌ‘ÑS&^eg—RYeðVƒX"
+
+#逊尼派
+EDG_sunni_Caliph_decree_button_9_scriped_effect_a_modifier:0 "ÈTÌ‘ÑS>NžR8nLˆÛvxQ"
+EDG_sunni_Caliph_decree_button_10_scriped_effect_a_modifier:0 "ÈTÌ‘ÑS²Nˆc^y#WO‹T"
+
+EDG_sunni_Caliph_ability_trigger_tt:0 "/f§Y<S>mÈTÌ‘ÑS§!bµc6R†N§Y<S>mÈTÌ‘ÑS§!"
+EDG_sunni_Caliph_GUI_big_shield_tooltip:0 "[EDG_sunni_Caliph_target.GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip]\n\n§Y<S>m§!ÈTÌ‘ÑS„vCgZžX•SÖS³QŽNbìNŒTbìN„v^—g/^SýVNbåb	g„v§Y<S>m§!wýN„vpeÏ‘ÿÏk§M20§!*N<S>mwýNSO:NbìNÐc›O§M1§!¹p<S>mÈTÌ‘ÑSCgZÿÏkt^gY·ƒ—V§M10§!¹pCgZ09hncbìNŒTbìN„v^SýV°s	g„v<S>mwýNÿbìNS·ƒ—V‚YNHeœgÿ"
+
+GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_self:0 "§Y[EDG_sunni_Caliph_target.Monarch.GetName]§!/f§Y<S>mÈTÌ‘ÑS§!"
+GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_regency:0 "§Y[EDG_sunni_Caliph_target.Monarch.GetName]§!µc6RNw§Y<S>mÈTÌ‘ÑS§!"
+GetNameEDG_sunni_Caliph_GUI_big_shield_tooltip_die:0 "§Y<S>mÈTÌ‘ÑS§!òTˆm¡N\n\n-§Y<S>mÈTÌ‘ÑS§!ÅV‰˜áOðN§Y<S>m§!\n-å‚`OáOðN§Y<S>m§!ÿ`OïSåNÇŒRb§YûN¡R§!b§Y0NINNýV0³Q®‹§!·ƒ—V§M0OYeßuN0§!îOckÿb:N§Y<S>mÈTÌ‘ÑS§!0\n-å‚§Y?–Ôb¯eÈTÌ‘ÑSýV§!XR(WNáOðN§Y<S>m§!ÿÖNìNSOHQb:N§Y<S>mÈTÌ‘ÑS§!0\n-Ýu'YYpeýV¶Rý¡l	gžRÕlÇvQƒR¹eÕlYtQ§Y<S>mÈTÌ‘ÑS§!0"
+
+
+
+EDG_sunni_Caliph_authority_var:0 "§YÈTÌ‘ÑSCgZ§!"
+EDG_sunni_Caliph_authority_bg_tt:0 "SVMR„v§YÈTÌ‘ÑSCgZ§!:N§Y[EDG_sunni_Caliph_target.EDG_sunni_Caliph_authority_var.GetValue]§!"
+EDG_sunni_Caliph_authority_title_bg:0 "ÈTÌ‘ÑSCgZ"
+EDG_sunni_Caliph_authority_bg:0 "[EDG_sunni_Caliph_target.EDG_sunni_Caliph_authority_var.GetValue]"
+EDG_sunni_Caliph_authority_bg_tt:0 "[EDG_sunni_Caliph_target.EDG_sunni_Caliph_authority_var.GetValue]"
+EDG_sunni_Caliph_trigger_tt:0 "§Rµc6Rbb:N§!§Y<S>mÈTÌ‘ÑS§!"
+EDG_sunni_Caliph_target:0 "§Y<S>mÈTÌ‘ÑS§!"
+
+EDG_sunni_Caliph_decree_in_10_years_tt_1:0 "bìN(W§M10§!t^…Q*gþf˜^Ç§Y<S>mÈTÌ‘ÑS§!Õlyræt0"
+EDG_sunni_Caliph_decree_cost_effect_tt:0 "bìNS±‚9§M20§!¹p§Y<S>mÈTÌ‘ÑS§!CgZ"
+
+EDG_sunni_Caliph_decree_button_1:0 "§bAQ¸‹TXúWšN§!"
+EDG_sunni_Caliph_decree_button_2:0 "§b±Rlb	TÈT·V§!"
+EDG_sunni_Caliph_decree_button_3:0 "§b¦”šRYeÕlfR>m§!"
+EDG_sunni_Caliph_decree_button_4:0 "§bÐc/PYe>m²NAm§!"
+EDG_sunni_Caliph_decree_button_5:0 "§bîO.™l)RšNÕl§!"
+EDG_sunni_Caliph_decree_button_6:0 "§bŸ±R—RYe‡efR§!"
+EDG_sunni_Caliph_decree_button_7:0 "§b<rÜuÏ‚òƒYeâV§!"
+EDG_sunni_Caliph_decree_button_8:0 "§b|TTÝO²bPŸs|§!"
+EDG_sunni_Caliph_decree_button_9:0 "§b>NžR8nLˆÛvxQ§!"
+EDG_sunni_Caliph_decree_button_10:0 "§bˆcˆN^y#WO‹T§!"
+
+EDG_sunni_Caliph_decree_in_10_years_modifier:0 "ASt^…Q˜^Ç<S>mÈTÌ‘ÑSÕlyræt"
+
+EDG_sunni_Caliph_decree_button_yes:0 "£yes£å‚§Y[EDG_sunni_Caliph_target.GetName]§!áOðN§Y<S>m§!"
+EDG_NOT_sunni_Caliph_decree_button_no:0 "£no£å‚§Y[EDG_sunni_Caliph_target.GetName]§!NáOðN§Y<S>m§!"
+
+EDG_sunni_Caliph_decree_button_no:0 "£no£å‚§Y[EDG_sunni_Caliph_target.GetName]§!áOðN§Y<S>m§!"
+EDG_NOT_sunni_Caliph_decree_button_yes:0 "£yes£å‚§Y[EDG_sunni_Caliph_target.GetName]§!NáOðN§Y<S>m§!"
+
+EDG_sunni_Caliph_decree_button_1_a_tt:0 "Nb	g„v§Y<S>m§!wýNSO·ƒ—V‚YNîOckÿ"
+EDG_sunni_Caliph_decree_button_1_b_tt:0 ",gýV»lNNb	g„v§Y<S>m§!wýNSO·ƒ—V‚YNîOckÿ"
+EDG_sunni_Caliph_decree_every_sunni_country_a_tt:0 "Nb	g§Y<S>m§!ýV¶RSæ‰ÑSå‹‹NöNÿå‚ÖNìNgÎNÈTÌ‘ÑS„va?aÿ±HNSµNu‚YNHeœgÿ§Y[EDG_sunni_Caliph_target.GetName]§!Sôv¥cuHedkHeœg	ÿÿ"
+EDG_sunni_Caliph_decree_3_every_sunni_country_a_tt:0 "Nb	gNbìNåb	g§YøvTYe>m§!„v§Y<S>m§!ýV¶RSæ‰ÑSå‹‹NöNÿå‚ÖNìNgÎNÈTÌ‘ÑS„va?aÿ±HNSµNu‚YNHeœgÿ"
+EDG_sunni_Caliph_decree_4_every_sunni_country_a_tt:0 "Nb	gNbìNåb	g§YNTYe>m§!„v§Y<S>m§!ýV¶RSæ‰ÑSå‹‹NöNÿå‚ÖNìNgÎNÈTÌ‘ÑS„va?aÿ±HNSµNu‚YNHeœgÿ"
+EDG_sunni_Caliph_decree_button_3_tt:0 "N§Y[EDG_sunni_Caliph_target.GetName]§!’NøvžX R§G50§!¹p‹Ya0\nå‚/f§Y[EDG_sunni_Caliph_target.GetName]§!„vßvËSb^SýVÿ±HNØSžX R§G5§!¹páOûN0"
+EDG_sunni_Caliph_decree_button_4_tt:0 "N§Y[EDG_sunni_Caliph_target.GetName]§!’NøvžX R§G50§!¹p‹Ya0\nå‚/f§Y[EDG_sunni_Caliph_target.GetName]§!„vßvËSb^SýVÿ±HNØSžX R§G5§!¹páOûN0"
+EDG_flavor_caliphate_5_opinion_modifier:0 "ÈTÌ‘ÑSYe>m²NAm"
+EDG_sunni_Caliph_decree_button_9_b_tt:0 "bìN„vNb	g§Y<S>m§!^SýVSOµNu‚YNHeœgÿ"
+EDG_sunni_Caliph_interaction_button_5_effect_opinion_modifier:0 "oyÈTÌ‘ÑS"
+EDG_sunni_Caliph_interaction_button_5_effect_modifier:0 "oy<S>mÈTÌ‘ÑS"
+
+EDG_sunni_Caliph_interaction_button_1_effect_tt:0 "bìNOS§Y<S>mÈTÌ‘ÑS§!lûy0RbìN„v–™ý0"
+EDG_sunni_Caliph_interaction_button_2_effect_tt:0 "bìNOS§Y<S>mÈTÌ‘ÑS§!úQbìN„výVWÿå‚bìNNvQÖNFz¯e—gýV¶R¥cäXÿÖNìNïSýwOAmK„0RvQÖNFz¯e—gýV¶R0"
+EDG_sunni_Caliph_interaction_button_3_effect_tt:0 "bìNOS§Y<S>mÈTÌ‘ÑS§!Ÿ^ÜžÿdkTûNUOºNýSàeÕlã‰•NÈTÌ‘ÑS	gsQ„v’N¨R0"
+EDG_sunni_Caliph_interaction_button_4_effect_tt:0 "bìNOár:Y§Y<S>mÈTÌ‘ÑS§!„vÈTÌ‘ÑS4YTˆÿbìNSÈuÓu§Y?–Ôb¯eÈTÌ‘ÑS§!:g6Rÿv^S·ƒ—V§Y<S>mÈTÌ‘ÑS§!„v‚YNžXÊv0"
+EDG_sunni_Caliph_interaction_button_5_effect_tt:0 "bìNOS§Y<S>mÈTÌ‘ÑS§!oyÿÖNìNSNïSýw§RÛSqN§!ÿFObìNS™„×SNšR„vé`Z0"
+
+EDG_sunni_Caliph_interaction_button_2_effect_tt_no_possible:0 "1uŽN¡l	gán³agöN„vFz¯e—gýV¶RïSåN¥c³uÈTÌ‘ÑSÿbìNêSýwSvQŸ^d–0"
+EDG_sunni_Caliph_moving_global_flag_trigger_tt:0 "¡l	gck(WÛLˆ„v<S>mÈTÌ‘ÑS’N¨R"
+
+EDG_sunni_Caliph_decree_use_times:0 "˜^„v§Y<S>mÈTÌ‘ÑS§!Ï‹fN/kpe"
+
+#什叶派
+EDG_shiite_Caliph_decree_button_9_scriped_effect_a_modifier:0 "ÈTÌ‘ÑS>NžR8nLˆÛvxQ"
+EDG_shiite_Caliph_decree_button_10_scriped_effect_a_modifier:0 "ÈTÌ‘ÑS²Nˆc^y#WO‹T"
+
+EDG_shiite_Caliph_ability_trigger_tt:0 "/f§YÀNöS>mÈTÌ‘ÑS§!bµc6R†N§YÀNöS>mÈTÌ‘ÑS§!"
+EDG_shiite_Caliph_GUI_big_shield_tooltip:0 "[EDG_shiite_Caliph_target.GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip]\n\n§YÀNöS>m§!ÈTÌ‘ÑS„vCgZžX•SÖS³QŽNbìNŒTbìN„v^—g/^SýVNbåb	g„v§YÀNöS>m§!wýN„vpeÏ‘ÿÏk§M20§!*NÀNöS>mwýNSO:NbìNÐc›O§M1§!¹pÀNöS>mÈTÌ‘ÑSCgZÿÏkt^gY·ƒ—V§M10§!¹pCgZ09hncbìNŒTbìN„v^SýV°s	g„vÀNöS>mwýNÿbìNS·ƒ—V‚YNHeœgÿ"
+
+GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_self:0 "§Y[EDG_shiite_Caliph_target.Monarch.GetName]§!/f§YÀNöS>mÈTÌ‘ÑS§!"
+GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_regency:0 "§Y[EDG_shiite_Caliph_target.Monarch.GetName]§!µc6RNw§YÀNöS>mÈTÌ‘ÑS§!"
+GetNameEDG_shiite_Caliph_GUI_big_shield_tooltip_die:0 "§YÀNöS>mÈTÌ‘ÑS§!òTˆm¡N\n\n-§YÀNöS>mÈTÌ‘ÑS§!ÅV‰˜áOðN§YÀNöS>m§!\n-å‚`OáOðN§YÀNöS>m§!ÿ`OïSåNÇŒRb§YûN¡R§!b§Y0NINNýV0³Q®‹§!·ƒ—V§M0OYeßuN0§!îOckÿb:N§YÀNöS>mÈTÌ‘ÑS§!0\n-å‚§YÕl‚„›sÈTÌ‘ÑSýV§!XR(WNáOðN§YÀNöS>m§!ÿÖNìNSOHQb:N§YÀNöS>mÈTÌ‘ÑS§!0\n-Ýu'YYpeýV¶Rý¡l	gžRÕlÇvQƒR¹eÕlYtQ§YÀNöS>mÈTÌ‘ÑS§!0\n-§YÕl‚„›sÈTÌ‘ÑS§!(W'YYpe8nbÛLˆ„vÅ`µQNýOˆm¡Nÿ^SŽN¾‹¡‹KN…Q„vÅ`µQÿ÷‹N‰–aSÕ‹ÝOYuÕl‚„›sÈTÌ‘ÑS0"
+
+EDG_shiite_Caliph_authority_var:0 "§YÈTÌ‘ÑSCgZ§!"
+EDG_shiite_Caliph_authority_bg_tt:0 "SVMR„v§YÈTÌ‘ÑSCgZ§!:N§Y[EDG_shiite_Caliph_target.EDG_shiite_Caliph_authority_var.GetValue]§!"
+EDG_shiite_Caliph_authority_title_bg:0 "ÈTÌ‘ÑSCgZ"
+EDG_shiite_Caliph_authority_bg:0 "[EDG_shiite_Caliph_target.EDG_shiite_Caliph_authority_var.GetValue]"
+EDG_shiite_Caliph_authority_bg_tt:0 "[EDG_shiite_Caliph_target.EDG_shiite_Caliph_authority_var.GetValue]"
+EDG_shiite_Caliph_trigger_tt:0 "§Rµc6Rbb:N§!§YÀNöS>mÈTÌ‘ÑS§!"
+EDG_shiite_Caliph_target:0 "§YÀNöS>mÈTÌ‘ÑS§!"
+
+EDG_shiite_Caliph_decree_in_10_years_tt_1:0 "bìN(W§M10§!t^…Q*gþf˜^Ç§YÀNöS>mÈTÌ‘ÑS§!Õlyræt0"
+EDG_shiite_Caliph_decree_cost_effect_tt:0 "bìNS±‚9§M20§!¹p§YÀNöS>mÈTÌ‘ÑS§!CgZ"
+
+EDG_shiite_Caliph_decree_button_1:0 "§bAQ¸‹TXúWšN§!"
+EDG_shiite_Caliph_decree_button_2:0 "§b±Rlb	TÈT·V§!"
+EDG_shiite_Caliph_decree_button_3:0 "§b¦”šRYeÕlfR>m§!"
+EDG_shiite_Caliph_decree_button_4:0 "§bÐc/PYe>m²NAm§!"
+EDG_shiite_Caliph_decree_button_5:0 "§bîO.™l)RšNÕl§!"
+EDG_shiite_Caliph_decree_button_6:0 "§bŸ±R—RYe‡efR§!"
+EDG_shiite_Caliph_decree_button_7:0 "§b<rÜuÏ‚òƒYeâV§!"
+EDG_shiite_Caliph_decree_button_8:0 "§b|TTÝO²bPŸs|§!"
+EDG_shiite_Caliph_decree_button_9:0 "§b>NžR8nLˆÛvxQ§!"
+EDG_shiite_Caliph_decree_button_10:0 "§bˆcˆN^y#WO‹T§!"
+
+EDG_shiite_Caliph_decree_in_10_years_modifier:0 "ASt^…Q˜^ÇÀNöS>mÈTÌ‘ÑSÕlyræt"
+
+EDG_shiite_Caliph_decree_button_yes:0 "£yes£å‚§Y[EDG_shiite_Caliph_target.GetName]§!áOðN§YÀNöS>m§!"
+EDG_NOT_shiite_Caliph_decree_button_no:0 "£no£å‚§Y[EDG_shiite_Caliph_target.GetName]§!NáOðN§YÀNöS>m§!"
+
+EDG_shiite_Caliph_decree_button_no:0 "£no£å‚§Y[EDG_shiite_Caliph_target.GetName]§!áOðN§YÀNöS>m§!"
+EDG_NOT_shiite_Caliph_decree_button_yes:0 "£yes£å‚§Y[EDG_shiite_Caliph_target.GetName]§!NáOðN§YÀNöS>m§!"
+
+EDG_shiite_Caliph_decree_button_1_a_tt:0 "Nb	g„v§YÀNöS>m§!wýNSO·ƒ—V‚YNîOckÿ"
+EDG_shiite_Caliph_decree_button_1_b_tt:0 ",gýV»lNNb	g„v§YÀNöS>m§!wýNSO·ƒ—V‚YNîOckÿ"
+EDG_shiite_Caliph_decree_every_shiite_country_a_tt:0 "Nb	g§YÀNöS>m§!ýV¶RSæ‰ÑSå‹‹NöNÿå‚ÖNìNgÎNÈTÌ‘ÑS„va?aÿ±HNSµNu‚YNHeœgÿ§Y[EDG_shiite_Caliph_target.GetName]§!Sôv¥cuHedkHeœg	ÿÿ"
+EDG_shiite_Caliph_decree_3_every_shiite_country_a_tt:0 "Nb	gNbìNåb	g§YøvTYe>m§!„v§YÀNöS>m§!ýV¶RSæ‰ÑSå‹‹NöNÿå‚ÖNìNgÎNÈTÌ‘ÑS„va?aÿ±HNSµNu‚YNHeœgÿ"
+EDG_shiite_Caliph_decree_4_every_shiite_country_a_tt:0 "Nb	gNbìNåb	g§YNTYe>m§!„v§YÀNöS>m§!ýV¶RSæ‰ÑSå‹‹NöNÿå‚ÖNìNgÎNÈTÌ‘ÑS„va?aÿ±HNSµNu‚YNHeœgÿ"
+EDG_shiite_Caliph_decree_button_3_tt:0 "N§Y[EDG_shiite_Caliph_target.GetName]§!’NøvžX R§G50§!¹p‹Ya0\nå‚/f§Y[EDG_shiite_Caliph_target.GetName]§!„vßvËSb^SýVÿ±HNØSžX R§G5§!¹páOûN0"
+EDG_shiite_Caliph_decree_button_4_tt:0 "N§Y[EDG_shiite_Caliph_target.GetName]§!’NøvžX R§G50§!¹p‹Ya0\nå‚/f§Y[EDG_shiite_Caliph_target.GetName]§!„vßvËSb^SýVÿ±HNØSžX R§G5§!¹páOûN0"
+EDG_flavor_caliphate_5_opinion_modifier:0 "ÈTÌ‘ÑSYe>m²NAm"
+EDG_shiite_Caliph_decree_button_9_b_tt:0 "bìN„vNb	g§YÀNöS>m§!^SýVSOµNu‚YNHeœgÿ"
+EDG_shiite_Caliph_interaction_button_5_effect_opinion_modifier:0 "oyÈTÌ‘ÑS"
+EDG_shiite_Caliph_interaction_button_5_effect_modifier:0 "oyÀNöS>mÈTÌ‘ÑS"
+EDG_shiite_Caliph_interaction_button_5_effect_modifier:0 "oyÀNöS>mÈTÌ‘ÑS"
+EDG_shiite_Caliph_interaction_button_5_effect_modifier:0 "oyÀNöS>mÈTÌ‘ÑS"
+
+EDG_shiite_Caliph_interaction_button_1_effect_tt:0 "bìNOS§YÀNöS>mÈTÌ‘ÑS§!lûy0RbìN„v–™ý0"
+EDG_shiite_Caliph_interaction_button_2_effect_tt:0 "bìNOS§YÀNöS>mÈTÌ‘ÑS§!úQbìN„výVWÿå‚bìNNvQÖNFz¯e—gýV¶R¥cäXÿÖNìNïSýwOAmK„0RvQÖNFz¯e—gýV¶R0"
+EDG_shiite_Caliph_interaction_button_3_effect_tt:0 "bìNOS§YÀNöS>mÈTÌ‘ÑS§!Ÿ^ÜžÿdkTûNUOºNýSàeÕlã‰•NÈTÌ‘ÑS	gsQ„v’N¨R0"
+EDG_shiite_Caliph_interaction_button_4_effect_tt:0 "bìNOár:Y§YÀNöS>mÈTÌ‘ÑS§!„vÈTÌ‘ÑS4YTˆÿbìNSÈuÓuå‹§YÈTÌ‘ÑS§!:g6Rÿv^S·ƒ—V§YÀNöS>mÈTÌ‘ÑS§!„v‚YNžXÊv0"
+EDG_shiite_Caliph_interaction_button_5_effect_tt:0 "bìNOS§YÀNöS>mÈTÌ‘ÑS§!oyÿÖNìNSNïSýw§RÛSqN§!ÿFObìNS™„×SNšR„vé`Z0"
+
+EDG_shiite_Caliph_interaction_button_2_effect_tt_no_possible:0 "1uŽN¡l	gán³agöN„vFz¯e—gýV¶RïSåN¥c³uÈTÌ‘ÑSÿbìNêSýwSvQŸ^d–0"
+EDG_shiite_Caliph_moving_global_flag_trigger_tt:0 "¡l	gck(WÛLˆ„vÀNöS>mÈTÌ‘ÑS’N¨R"
+
+EDG_shiite_Caliph_decree_use_times:0 "˜^„v§YÀNöS>mÈTÌ‘ÑS§!Ï‹fN/kpe"
+
+
+
+#阿拉维派
+EDG_EDG_Alawite_Caliph_decree_button_9_scriped_effect_a_modifier:0 "ÈTÌ‘ÑS>NžR8nLˆÛvxQ"
+EDG_EDG_Alawite_Caliph_decree_button_10_scriped_effect_a_modifier:0 "ÈTÌ‘ÑS²Nˆc^y#WO‹T"
+
+EDG_EDG_Alawite_Caliph_ability_trigger_tt:0 "/f§Y?–Ébôu>mÈTÌ‘ÑS§!bµc6R†N§Y?–Ébôu>mÈTÌ‘ÑS§!"
+EDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip:0 "[EDG_EDG_Alawite_Caliph_target.GetNameEDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip]"
+GetNameEDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip_self:0 "§Y[EDG_EDG_Alawite_Caliph_target.Monarch.GetName]§!/f§Y?–Ébôu>mÈTÌ‘ÑS§!"
+GetNameEDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip_regency:0 "§Y[EDG_EDG_Alawite_Caliph_target.Monarch.GetName]§!µc6RNw§Y?–Ébôu>mÈTÌ‘ÑS§!"
+GetNameEDG_EDG_Alawite_Caliph_GUI_big_shield_tooltip_die:0 "§Y?–Ébôu>mÈTÌ‘ÑS§!òTˆm¡N"
+
+EDG_EDG_Alawite_Caliph_authority_var:0 "§YÈTÌ‘ÑSCgZ§!"
+EDG_EDG_Alawite_Caliph_authority_bg_tt:0 "SVMR„v§YÈTÌ‘ÑSCgZ§!:N§Y[EDG_EDG_Alawite_Caliph_target.EDG_EDG_Alawite_Caliph_authority_var.GetValue]§!"
+EDG_EDG_Alawite_Caliph_authority_title_bg:0 "ÈTÌ‘ÑSCgZ"
+EDG_EDG_Alawite_Caliph_authority_bg:0 "[EDG_EDG_Alawite_Caliph_target.EDG_EDG_Alawite_Caliph_authority_var.GetValue]"
+EDG_EDG_Alawite_Caliph_authority_bg_tt:0 "[EDG_EDG_Alawite_Caliph_target.EDG_EDG_Alawite_Caliph_authority_var.GetValue]"
+EDG_EDG_Alawite_Caliph_trigger_tt:0 "§Rµc6Rbb:N§!§Y?–Ébôu>mÈTÌ‘ÑS§!"
+EDG_EDG_Alawite_Caliph_target:0 "§Y?–Ébôu>mÈTÌ‘ÑS§!"
+
+EDG_EDG_Alawite_Caliph_decree_in_10_years_tt_1:0 "bìN(W§M10§!t^…Q*gþf˜^Ç§Y?–Ébôu>mÈTÌ‘ÑS§!Õlyræt0"
+EDG_EDG_Alawite_Caliph_decree_cost_effect_tt:0 "bìNS±‚9§M20§!¹p§Y?–Ébôu>mÈTÌ‘ÑS§!CgZ"
+
+EDG_EDG_Alawite_Caliph_decree_button_1:0 "§bAQ¸‹TXúWšN§!"
+EDG_EDG_Alawite_Caliph_decree_button_2:0 "§b±Rlb	TÈT·V§!"
+EDG_EDG_Alawite_Caliph_decree_button_3:0 "§b¦”šRYeÕlfR>m§!"
+EDG_EDG_Alawite_Caliph_decree_button_4:0 "§bÐc/PYe>m²NAm§!"
+EDG_EDG_Alawite_Caliph_decree_button_5:0 "§bîO.™l)RšNÕl§!"
+EDG_EDG_Alawite_Caliph_decree_button_6:0 "§bŸ±R—RYe‡efR§!"
+EDG_EDG_Alawite_Caliph_decree_button_7:0 "§b<rÜuÏ‚òƒYeâV§!"
+EDG_EDG_Alawite_Caliph_decree_button_8:0 "§b|TTÝO²bPŸs|§!"
+EDG_EDG_Alawite_Caliph_decree_button_9:0 "§b>NžR8nLˆÛvxQ§!"
+EDG_EDG_Alawite_Caliph_decree_button_10:0 "§bˆcˆN^y#WO‹T§!"
+
+EDG_EDG_Alawite_Caliph_decree_in_10_years_modifier:0 "ASt^…Q˜^Ç?–Ébôu>mÈTÌ‘ÑSÕlyræt"
+
+EDG_EDG_Alawite_Caliph_decree_button_yes:0 "£yes£å‚§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!áOðN§Y?–Ébôu>m§!"
+EDG_NOT_EDG_Alawite_Caliph_decree_button_no:0 "£no£å‚§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!NáOðN§Y?–Ébôu>m§!"
+
+EDG_EDG_Alawite_Caliph_decree_button_no:0 "£no£å‚§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!áOðN§Y?–Ébôu>m§!"
+EDG_NOT_EDG_Alawite_Caliph_decree_button_yes:0 "£yes£å‚§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!NáOðN§Y?–Ébôu>m§!"
+
+EDG_EDG_Alawite_Caliph_decree_button_1_a_tt:0 "Nb	g„v§Y?–Ébôu>m§!wýNSO·ƒ—V‚YNîOckÿ"
+EDG_EDG_Alawite_Caliph_decree_button_1_b_tt:0 ",gýV»lNNb	g„v§Y?–Ébôu>m§!wýNSO·ƒ—V‚YNîOckÿ"
+EDG_EDG_Alawite_Caliph_decree_every_EDG_Alawite_country_a_tt:0 "Nb	g§Y?–Ébôu>m§!ýV¶RSæ‰ÑSå‹‹NöNÿå‚ÖNìNgÎNÈTÌ‘ÑS„va?aÿ±HNSµNu‚YNHeœgÿ§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!Sôv¥cuHedkHeœg	ÿÿ"
+EDG_EDG_Alawite_Caliph_decree_3_every_EDG_Alawite_country_a_tt:0 "Nb	gNbìNåb	g§YøvTYe>m§!„v§Y?–Ébôu>m§!ýV¶RSæ‰ÑSå‹‹NöNÿå‚ÖNìNgÎNÈTÌ‘ÑS„va?aÿ±HNSµNu‚YNHeœgÿ"
+EDG_EDG_Alawite_Caliph_decree_4_every_EDG_Alawite_country_a_tt:0 "Nb	gNbìNåb	g§YNTYe>m§!„v§Y?–Ébôu>m§!ýV¶RSæ‰ÑSå‹‹NöNÿå‚ÖNìNgÎNÈTÌ‘ÑS„va?aÿ±HNSµNu‚YNHeœgÿ"
+EDG_EDG_Alawite_Caliph_decree_button_3_tt:0 "N§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!’NøvžX R§G50§!¹p‹Ya0\nå‚/f§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!„vßvËSb^SýVÿ±HNØSžX R§G5§!¹páOûN0"
+EDG_EDG_Alawite_Caliph_decree_button_4_tt:0 "N§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!’NøvžX R§G50§!¹p‹Ya0\nå‚/f§Y[EDG_EDG_Alawite_Caliph_target.GetName]§!„vßvËSb^SýVÿ±HNØSžX R§G5§!¹páOûN0"
+EDG_flavor_caliphate_5_opinion_modifier:0 "ÈTÌ‘ÑSYe>m²NAm"
+EDG_EDG_Alawite_Caliph_decree_button_9_b_tt:0 "bìN„vNb	g§Y?–Ébôu>m§!^SýVSOµNu‚YNHeœgÿ"
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_opinion_modifier:0 "oyÈTÌ‘ÑS"
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_modifier:0 "oy?–Ébôu>mÈTÌ‘ÑS"
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_modifier:0 "oy?–Ébôu>mÈTÌ‘ÑS"
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_modifier:0 "oy?–Ébôu>mÈTÌ‘ÑS"
+
+EDG_EDG_Alawite_Caliph_interaction_button_1_effect_tt:0 "bìNOS§Y?–Ébôu>mÈTÌ‘ÑS§!lûy0RbìN„v–™ý0"
+EDG_EDG_Alawite_Caliph_interaction_button_2_effect_tt:0 "bìNOS§Y?–Ébôu>mÈTÌ‘ÑS§!úQbìN„výVWÿå‚bìNNvQÖNFz¯e—gýV¶R¥cäXÿÖNìNïSýwOAmK„0RvQÖNFz¯e—gýV¶R0"
+EDG_EDG_Alawite_Caliph_interaction_button_3_effect_tt:0 "bìNOS§Y?–Ébôu>mÈTÌ‘ÑS§!Ÿ^ÜžÿdkTûNUOºNýSàeÕlã‰•NÈTÌ‘ÑS	gsQ„v’N¨R0"
+EDG_EDG_Alawite_Caliph_interaction_button_4_effect_tt:0 "bìNOár:Y§Y?–Ébôu>mÈTÌ‘ÑS§!„vÈTÌ‘ÑS4YTˆÿbìNSÈuÓuå‹§YÈTÌ‘ÑS§!:g6Rÿv^S·ƒ—V§Y?–Ébôu>mÈTÌ‘ÑS§!„v‚YNžXÊv0"
+EDG_EDG_Alawite_Caliph_interaction_button_5_effect_tt:0 "bìNOS§Y?–Ébôu>mÈTÌ‘ÑS§!oyÿÖNìNSNïSýw§RÛSqN§!ÿFObìNS™„×SNšR„vé`Z0"
+
+EDG_EDG_Alawite_Caliph_interaction_button_2_effect_tt_no_possible:0 "1uŽN¡l	gán³agöN„vFz¯e—gýV¶RïSåN¥c³uÈTÌ‘ÑSÿbìNêSýwSvQŸ^d–0"
+EDG_EDG_Alawite_Caliph_moving_global_flag_trigger_tt:0 "¡l	gck(WÛLˆ„v?–Ébôu>mÈTÌ‘ÑS’N¨R"
+
+EDG_EDG_Alawite_Caliph_decree_use_times:0 "˜^„v§Y?–Ébôu>mÈTÌ‘ÑS§!Ï‹fN/kpe"
+
+
+
+
+
+#事件
+
+EDG_flavor_caliphate.1.tt:0 "[From.GetName]ùRbìNÑS¨RÈTÌ‘ÑS6RÁˆ"
+EDG_flavor_caliphate.1.desc:0 "[Root.EDG_flavor_caliphate_1_desc_tt]"
+EDG_flavor_caliphate.1.aa:0 "ÖNìNMb/fàeIwKN’Vÿ"
+EDG_flavor_caliphate.1.bb:0 ""
+EDG_flavor_caliphate_1_opinion_modifier:0 "ùRbìNÑS¨RÈTÌ‘ÑS6RÁˆ"
+EDG_flavor_caliphate_1_opinion_modifier_2:0 "«ˆÈTÌ‘ÑS6RÁˆ"
+
+EDG_flavor_caliphate_1_desc_tt_unified_islam:0 "[From.GetName]åNßuNÈTÌ‘ÑS„vTINTbìNÑS¨R†N6RÁˆÿÖNìNÑS^ÈTÌ‘ÑS„vÏ‹fNÿ4Œ#bìN(Wø‹Y†˜ßW„vNnwÿv^Õ‹þVc#bìN/fT›<›ÿ/fFz¯e—g-N„vÛS’Vÿ/fT›<›„vè•’VÿuóOþVSbìNã‰Ê‘:NVYe’VÿÙ(WbìN„v[Root.Religion.GetName]áO’V-NVw†N«ƒ'Y„vP`LaÿN©‹bìN„v[Root.Religion.GetName]»ýVùRbìNa0RNán0"
+EDG_flavor_caliphate_1_desc_tt_sunni:0 "[From.GetName]µc6R†N[Root.Religion.GetName]„vÕl‚„›sÈTÌ‘ÑSÿÖNìN(WVWÍdµuNwÈTÌ‘ÑSÿv^åNÈTÌ‘ÑS„vTINTbìNÑS¨R†N6RÁˆÿÖNìNÑS^ÈTÌ‘ÑS„vÏ‹fNÿ4Œ#bìN(Wø‹Y†˜ßW„vNnwÿv^Õ‹þVc#bìN/fT›<›ÿ/fFz¯e—g-N„vÛS’Vÿ/fT›<›„vè•’VÿuóOþVSbìNã‰Ê‘:NVYe’VÿÙ(WbìN„v[Root.Religion.GetName]áO’V-NVw†N«ƒ'Y„vP`LaÿN©‹bìN„v[Root.Religion.GetName]»ýVùRbìNa0RNán0"
+EDG_flavor_caliphate_1_desc_tt_shiite:0 "[From.GetName]µc6R†N[Root.Religion.GetName]„vÕl‚„›sÈTÌ‘ÑSÿÖNìNÍdµuNw?–Ì‘„vPRãUÿv^åNÈTÌ‘ÑS„vTINTbìNÑS¨R†N6RÁˆÿÖNìNÑS^ÈTÌ‘ÑS„vÏ‹fNÿ4Œ#bìN(Wø‹Y†˜ßW„vNnwÿv^Õ‹þVc#bìN/fT›<›ÿ/fFz¯e—g-N„vÛS’Vÿ/fT›<›„vè•’VÿuóOþVSbìNã‰Ê‘:NVYe’VÿÙ(WbìN„v[Root.Religion.GetName]áO’V-NVw†N«ƒ'Y„vP`LaÿN©‹bìN„v[Root.Religion.GetName]»ýVùRbìNa0RNán0"
+EDG_flavor_caliphate_1_desc_tt_others:0 "[From.GetName]åNÈTÌ‘ÑS„vTINTbìNÑS¨R†N6RÁˆÿÖNìNÑS^ÈTÌ‘ÑS„vÏ‹fNÿ4Œ#bìN(Wø‹Y†˜ßW„vNnwÿv^Õ‹þVc#bìN/fT›<›ÿ/fFz¯e—g-N„vÛS’Vÿ/fT›<›„vè•’VÿuóOþVSbìNã‰Ê‘:NVYe’VÿÙ(WbìN„v[Root.Religion.GetName]áO’V-NVw†N«ƒ'Y„vP`LaÿN©‹bìN„v[Root.Religion.GetName]»ýVùRbìNa0RNán0"
+
+EDG_Caliph_condemns_action_in_10_years_modifier:0 "ÈTÌ‘ÑS6RÁˆ"
+EDG_Caliph_condemns_action_in_10_years_modifier_desc:0 "bìN«ˆnfM²‹ïS„vÈTÌ‘ÑS6RÁˆ†NÿÙ©‹bìN„vYeëXa0RNánÿ©‹bìNT—R„vDQVùRbìNa0RŒSv`0"
+EDG_did_Caliph_condemns_action_in_10_years_modifier:0 "(W10t^…QÑS¨RÇÈTÌ‘ÑS6RÁˆ"
+
+EDG_flavor_caliphate.2.tt:0 "[From.GetName]TbìNÑS¨R	TÈT·V"
+EDG_flavor_caliphate.2.desc:0 "ªv`„v[From.GetName]åNÈTÌ‘ÑS„vTINTbìNÑS¨R†N	TÈT·VÿÙS©‹bìN„v[From.Religion.GetName]»ESìNNbìNLeùRÿbìNˆVïSýwSO«ˆøv»„v[From.Religion.GetName]ýV¶RåN	TÈT·V„v±Rbt1uÑS¨Rb‰N0"
+EDG_flavor_caliphate.2.aa:0 "Ù›Nªv`„vVYe’Vÿ"
+EDG_flavor_caliphate.2.bb:0 ""
+EDG_flavor_caliphate_2_opinion_modifier:0 "ùRbìNÑS¨R	TÈT·V"
+
+EDG_flavor_caliphate.3.tt:0 "ÈTÌ‘ÑS˜^Õlyræt"
+EDG_flavor_caliphate.3.desc:0 "[From.GetName]åNÈTÌ‘ÑS„vTIN˜^†NÈTÌ‘ÑSÕlyrætÿÈTÌ‘ÑS„vTIN©‹ÖNìNýwY(Wte*N[Root.Religion.GetName]NLu…QµNuqVÍT0"
+EDG_flavor_caliphate.3.aa:0 "‹Y'T0"
+EDG_flavor_caliphate.3.bb:0 ""
+
+EDG_flavor_caliphate.4.tt:0 "ÈTÌ‘ÑS˜^Õlyræt"
+EDG_flavor_caliphate.4.desc:0 "[From.GetName]åNÈTÌ‘ÑS„vTIN˜^†NÈTÌ‘ÑSÕlyrætÿÈTÌ‘ÑS„vTIN©‹ÖNìNýwY(Wte*N[Root.Religion.GetName]NLu…QµNuqVÍT0KS¡r‚YdkÿÖNìN„vÏ‹fNO6qÅV‰˜ÏuÇbìN„vTaMbýw(WbìN„v†˜0WNuHe0"
+EDG_flavor_caliphate.4.aa:0 "bìN?aa²‹ïSÈTÌ‘ÑS„vÕlyræt0"
+EDG_flavor_caliphate.4.bb:0 "ÈTÌ‘ÑSÜ(W)Y¹0"
+
+EDG_sunni_Caliph_interaction_button_3_effect_opinion_modifier:0 "Ÿ^ÜžÈTÌ‘ÑS"
+EDG_sunni_Caliph_interaction_button_4_effect_opinion_modifier:0 "ár:YÈTÌ‘ÑS"
+EDG_flavor_caliphate_kill_opinion_modifier:0 "Ng‰kÈTÌ‘ÑS"
+
+EDG_DO_NOTHING_TT:0 "ÔÞV"
+
+
+
+
+#逊尼派哈里发互动
+EDG_caliphate_decision_sunni_total_title:0 "£icon_EDG_caliphate£§YÈTÌ‘ÑS’N¨R§! - ?–Ôb¯eÈTÌ‘ÑS"
+EDG_caliphate_decision_sunni_total_desc:0 "bìNµc6R†N?–Ôb¯eÈTÌ‘ÑSÿbìNïSåNP©RvQ0WMOùR<S>mNLuµNuqVÍT0"
+
+EDG_flavor_caliphate_sunni.100.tt:0 "?–Ôb¯eÈTÌ‘ÑS"
+EDG_flavor_caliphate_sunni.100.desc:0 "bìNµc6R†N?–Ôb¯eÈTÌ‘ÑSÿbìNïSåNP©RvQ0WMOùR<S>mNLuµNuqVÍT0"
+
+EDG_flavor_caliphate_sunni.101.tt:0 "ÈTÌ‘ÑSeg0RbìN„výVW"
+EDG_flavor_caliphate_sunni.101.desc:0 "<S>m„v?–Ôb¯eÈTÌ‘ÑS«ˆ[From.GetName]qšÿv^Neg0R†NbìN„výVWNÿÖN÷‹BlbìN6eYuÖN0‚YœgbìNµc6R?–Ôb¯eÈTÌ‘ÑSÿb¸‹bìNïSåN)R(uÖN(W<S>mNLu„vqVÍT›R0"
+EDG_flavor_caliphate_sunni.101.aa:0 "bìNN0kÎÖN0"
+EDG_flavor_caliphate_sunni.101.bb:0 "ëV÷‹ÈTÌ‘ÑSYuNÿ"
+EDG_flavor_caliphate_sunni.101.cc:0 "Ÿ^ÜžÙagAmjm×r0"
+EDG_flavor_caliphate_sunni.101.dd:0 "ŠbÖN0R—Rµ^„v6–N0"
+EDG_flavor_caliphate_sunni.101.ee:0 "bìNN(WNNÀNHNÈTÌ‘ÑSÿY‰kÖN0"
+
+EDG_flavor_caliphate_sunni.102.tt:0 "ŒcácÈTÌ‘ÑS"
+EDG_flavor_caliphate_sunni.102.desc:0 "bìNS?–Ôb¯eÈTÌ‘ÑSÎNÖN„vMRûNµc6RwKb-N:YÖS†NÇegÿO'Y„v?–Ôb¯eÈTÌ‘ÑS‚YÊN¦l:N†NbìN„vb)RÁTÿbìN”^SV‚YUOYtÖNÿ"
+EDG_flavor_caliphate_sunni.102.aa:0 ""
+EDG_flavor_caliphate_sunni.102.bb:0 ""
+EDG_flavor_caliphate_sunni.102.cc:0 ""
+EDG_flavor_caliphate_sunni.102.dd:0 ""
+EDG_flavor_caliphate_sunni.102.ee:0 ""
+
+EDG_flavor_caliphate_sunni.103.tt:0 "gÐ‰ÈTÌ‘ÑS"
+EDG_flavor_caliphate_sunni.103.desc:0 "bìN/fÈTÌ‘ÑS„vµc6RwÿbìN¾žN„vFz¯e—g†˜WmN/fÈTÌ‘ÑSCgZ„vNb(W0W0bìN„výVW…ö^0RêTÌ‘ÿÈTÌ‘ÑS„vCgZ¿Oö^8O0RêTÌ‘ÿ”NVnÛVwm„vFz¯e—gýeg0RbìN„výVWåNBlgÐ‰ÈTÌ‘ÑS0"
+EDG_flavor_caliphate_sunni.103.aa:0 "‚YTåeGSåeK„0"
+EDG_flavor_caliphate_sunni.103.bb:0 "NQ>f:yå‹‹NöN0"
+
+EDG_flavor_caliphate_sunni_authority_var_tt:0 "§Y<S>m§!ÈTÌ‘ÑS„vCgZžX•SÖS³QŽNbìNŒTbìN„v^—g/^SýVNbåb	g„v§Y<S>m§!wýN„vpeÏ‘ÿÏk§M20§!*N<S>mwýNSO:NbìNÐc›O§M1§!¹p<S>mÈTÌ‘ÑSCgZÿÏkt^gY·ƒ—V§M10§!¹pCgZ09hncbìNŒTbìN„v^SýV°s	g„v<S>mwýNÿbìNS·ƒ—V‚YNHeœgÿ"
+
+EDG_Caliph_sunni_decree_button_1_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSAQ¸‹TXúWšN"
+EDG_Caliph_sunni_decree_button_2_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS±Rlb	TÈT·V"
+EDG_Caliph_sunni_decree_button_3_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS¦”šRYeÕlfR>m"
+EDG_Caliph_sunni_decree_button_4_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSÐc/PYe>m²NAm"
+EDG_Caliph_sunni_decree_button_5_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSîO.™l)RšNÕl"
+EDG_Caliph_sunni_decree_button_6_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSŸ±R—RYe‡efR"
+EDG_Caliph_sunni_decree_button_7_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS<rÜuÏ‚òƒYeâV"
+EDG_Caliph_sunni_decree_button_8_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS|TTÝO²bPŸs|"
+EDG_Caliph_sunni_decree_button_9_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS>NžR8nLˆÛvxQ"
+EDG_Caliph_sunni_decree_button_10_modifier_a:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSˆcˆN^y#WO‹T"
+EDG_Caliph_sunni_decree_button_1_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSAQ¸‹TXúWšN"
+EDG_Caliph_sunni_decree_button_2_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS±Rlb	TÈT·V"
+EDG_Caliph_sunni_decree_button_3_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS¦”šRYeÕlfR>m"
+EDG_Caliph_sunni_decree_button_4_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSÐc/PYe>m²NAm"
+EDG_Caliph_sunni_decree_button_5_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSîO.™l)RšNÕl"
+EDG_Caliph_sunni_decree_button_6_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSŸ±R—RYe‡efR"
+EDG_Caliph_sunni_decree_button_7_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS<rÜuÏ‚òƒYeâV"
+EDG_Caliph_sunni_decree_button_8_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS|TTÝO²bPŸs|"
+EDG_Caliph_sunni_decree_button_9_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑS>NžR8nLˆÛvxQ"
+EDG_Caliph_sunni_decree_button_10_modifier_b:0 "ASt^…Qµc6R<S>mÈTÌ‘ÑSˆcˆN^y#WO‹T"
+
+#什叶派哈里发互动
+EDG_caliphate_decision_shiite_total_title:0 "£icon_EDG_caliphate£§YÈTÌ‘ÑS’N¨R§! - Õl‚„›sÈTÌ‘ÑS"
+EDG_caliphate_decision_shiite_total_desc:0 "bìNµc6R†NÕl‚„›sÈTÌ‘ÑSÿbìNïSåNP©RvQ0WMOùRÀNöS>mNLuµNuqVÍT0"
+
+EDG_flavor_caliphate_shiite.100.tt:0 "Õl‚„›sÈTÌ‘ÑS"
+EDG_flavor_caliphate_shiite.100.desc:0 "bìNµc6R†NÕl‚„›sÈTÌ‘ÑSÿbìNïSåNP©RvQ0WMOùRÀNöS>mNLuµNuqVÍT0"
+
+EDG_flavor_caliphate_shiite.101.tt:0 "ÈTÌ‘ÑSeg0RbìN„výVW"
+EDG_flavor_caliphate_shiite.101.desc:0 "ÀNöS>m„vÕl‚„›sÈTÌ‘ÑS«ˆ[From.GetName]qšÿv^Neg0R†NbìN„výVWNÿÖN÷‹BlbìN6eYuÖN0‚YœgbìNµc6RÕl‚„›sÈTÌ‘ÑSÿb¸‹bìNïSåN)R(uÖN(WÀNöS>mNLu„vqVÍT›R0"
+EDG_flavor_caliphate_shiite.101.aa:0 "bìNN0kÎÖN0"
+EDG_flavor_caliphate_shiite.101.bb:0 "ëV÷‹ÈTÌ‘ÑSYuNÿ"
+EDG_flavor_caliphate_shiite.101.cc:0 "Ÿ^ÜžÙagAmjm×r0"
+EDG_flavor_caliphate_shiite.101.dd:0 "ŠbÖN0R—Rµ^„v6–N0"
+EDG_flavor_caliphate_shiite.101.ee:0 "bìNN(WNNÀNHNÈTÌ‘ÑSÿY‰kÖN0"
+
+EDG_flavor_caliphate_shiite.102.tt:0 "ŒcácÈTÌ‘ÑS"
+EDG_flavor_caliphate_shiite.102.desc:0 "bìNSÕl‚„›sÈTÌ‘ÑSÎNÖN„vMRûNµc6RwKb-N:YÖS†NÇegÿO'Y„vÕl‚„›sÈTÌ‘ÑS‚YÊN¦l:N†NbìN„vb)RÁTÿbìN”^SV‚YUOYtÖNÿ"
+EDG_flavor_caliphate_shiite.102.aa:0 ""
+EDG_flavor_caliphate_shiite.102.bb:0 ""
+EDG_flavor_caliphate_shiite.102.cc:0 ""
+EDG_flavor_caliphate_shiite.102.dd:0 ""
+EDG_flavor_caliphate_shiite.102.ee:0 ""
+
+EDG_flavor_caliphate_shiite.103.tt:0 "gÐ‰ÈTÌ‘ÑS"
+EDG_flavor_caliphate_shiite.103.desc:0 "bìN/fÈTÌ‘ÑS„vµc6RwÿbìN¾žN„vFz¯e—g†˜WmN/fÈTÌ‘ÑSCgZ„vNb(W0W0bìN„výVW…ö^0RêTÌ‘ÿÈTÌ‘ÑS„vCgZ¿Oö^8O0RêTÌ‘ÿ”NVnÛVwm„vFz¯e—gýeg0RbìN„výVWåNBlgÐ‰ÈTÌ‘ÑS0"
+EDG_flavor_caliphate_shiite.103.aa:0 "‚YTåeGSåeK„0"
+
+EDG_flavor_caliphate_shiite_authority_var_tt:0 "§YÀNöS>m§!ÈTÌ‘ÑS„vCgZžX•SÖS³QŽNbìNŒTbìN„v^—g/^SýVNbåb	g„v§YÀNöS>m§!wýN„vpeÏ‘ÿÏk§M20§!*NÀNöS>mwýNSO:NbìNÐc›O§M1§!¹pÀNöS>mÈTÌ‘ÑSCgZÿÏkt^gY·ƒ—V§M10§!¹pCgZ09hncbìNŒTbìN„v^SýV°s	g„vÀNöS>mwýNÿbìNS·ƒ—V‚YNHeœgÿ"
+
+
+EDG_Caliph_shiite_decree_button_1_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSAQ¸‹TXúWšN"
+EDG_Caliph_shiite_decree_button_2_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS±Rlb	TÈT·V"
+EDG_Caliph_shiite_decree_button_3_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS¦”šRYeÕlfR>m"
+EDG_Caliph_shiite_decree_button_4_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSÐc/PYe>m²NAm"
+EDG_Caliph_shiite_decree_button_5_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSîO.™l)RšNÕl"
+EDG_Caliph_shiite_decree_button_6_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSŸ±R—RYe‡efR"
+EDG_Caliph_shiite_decree_button_7_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS<rÜuÏ‚òƒYeâV"
+EDG_Caliph_shiite_decree_button_8_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS|TTÝO²bPŸs|"
+EDG_Caliph_shiite_decree_button_9_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS>NžR8nLˆÛvxQ"
+EDG_Caliph_shiite_decree_button_10_modifier_a:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSˆcˆN^y#WO‹T"
+EDG_Caliph_shiite_decree_button_1_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSAQ¸‹TXúWšN"
+EDG_Caliph_shiite_decree_button_2_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS±Rlb	TÈT·V"
+EDG_Caliph_shiite_decree_button_3_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS¦”šRYeÕlfR>m"
+EDG_Caliph_shiite_decree_button_4_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSÐc/PYe>m²NAm"
+EDG_Caliph_shiite_decree_button_5_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSîO.™l)RšNÕl"
+EDG_Caliph_shiite_decree_button_6_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSŸ±R—RYe‡efR"
+EDG_Caliph_shiite_decree_button_7_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS<rÜuÏ‚òƒYeâV"
+EDG_Caliph_shiite_decree_button_8_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS|TTÝO²bPŸs|"
+EDG_Caliph_shiite_decree_button_9_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑS>NžR8nLˆÛvxQ"
+EDG_Caliph_shiite_decree_button_10_modifier_b:0 "ASt^…Qµc6RÀNöS>mÈTÌ‘ÑSˆcˆN^y#WO‹T"
+
+
+
+#阿拉维派哈里发互动
+EDG_caliphate_decision_EDG_Alawite_total_title:0 "£icon_EDG_caliphate£§YÈTÌ‘ÑS’N¨R§! - [Root.Monarch.Dynasty.GetName]?–Ébôu>mÈTÌ‘ÑS"
+EDG_caliphate_decision_EDG_Alawite_total_desc:0 "bìN/f?–Ébôu>mÈTÌ‘ÑSÿbìNïSåNP©RvQ0WMOùR?–Ébôu>mNLuµNuqVÍT0"
+
+EDG_flavor_caliphate_EDG_Alawite.100.tt:0 "[Root.Monarch.Dynasty.GetName]?–Ébôu>mÈTÌ‘ÑS"
+EDG_flavor_caliphate_EDG_Alawite.100.desc:0 "bìN/f[Root.Monarch.Dynasty.GetName]?–Ébôu>mÈTÌ‘ÑSÿbìNïSåNP©RvQ0WMOùR?–Ébôu>mNLuµNuqVÍT0"
+
+EDG_flavor_caliphate_EDG_Alawite.101.tt:0 "ÈTÌ‘ÑSeg0RbìN„výVW"
+EDG_flavor_caliphate_EDG_Alawite.101.desc:0 "?–Ébôu>m„vÈTÌ‘ÑS«ˆ[From.GetName]qšÿv^Neg0R†NbìN„výVWNÿÖN÷‹BlbìN6eYuÖN0‚YœgbìNµc6R?–Ébôu>mÈTÌ‘ÑSÿb¸‹bìNïSåN)R(uÖN(W?–Ébôu>mNLu„vqVÍT›R0"
+EDG_flavor_caliphate_EDG_Alawite.101.aa:0 "bìNN0kÎÖN0"
+EDG_flavor_caliphate_EDG_Alawite.101.bb:0 "ëV÷‹ÈTÌ‘ÑSYuNÿ"
+EDG_flavor_caliphate_EDG_Alawite.101.cc:0 "Ÿ^ÜžÙagAmjm×r0"
+EDG_flavor_caliphate_EDG_Alawite.101.dd:0 "ŠbÖN0R—Rµ^„v6–N0"
+EDG_flavor_caliphate_EDG_Alawite.101.ee:0 "bìNN(WNNÀNHNÈTÌ‘ÑSÿY‰kÖN0"
+
+EDG_flavor_caliphate_EDG_Alawite.102.tt:0 "ŒcácÈTÌ‘ÑS"
+EDG_flavor_caliphate_EDG_Alawite.102.desc:0 "bìNS[Root.Monarch.Dynasty.GetName]?–Ébôu>mÈTÌ‘ÑSÎNÖN„vMRûNµc6RwKb-N:YÖS†NÇegÿO'Y„v[Root.Monarch.Dynasty.GetName]?–Ébôu>mÈTÌ‘ÑS‚YÊN¦l:N†NbìN„vb)RÁTÿbìN”^SV‚YUOYtÖNÿ"
+EDG_flavor_caliphate_EDG_Alawite.102.aa:0 ""
+EDG_flavor_caliphate_EDG_Alawite.102.bb:0 ""
+EDG_flavor_caliphate_EDG_Alawite.102.cc:0 ""
+EDG_flavor_caliphate_EDG_Alawite.102.dd:0 ""
+EDG_flavor_caliphate_EDG_Alawite.102.ee:0 ""
+
+EDG_flavor_caliphate_EDG_Alawite.103.tt:0 "gÐ‰ÈTÌ‘ÑS"
+EDG_flavor_caliphate_EDG_Alawite.103.desc:0 "bìN/fÈTÌ‘ÑS„vµc6RwÿbìN¾žN„vFz¯e—g†˜WmN/fÈTÌ‘ÑSCgZ„vNb(W0W0bìN„výVW…ö^0RêTÌ‘ÿÈTÌ‘ÑS„vCgZ¿Oö^8O0RêTÌ‘ÿ”NVnÛVwm„vFz¯e—gýeg0RbìN„výVWåNBlgÐ‰ÈTÌ‘ÑS0"
+EDG_flavor_caliphate_EDG_Alawite.103.aa:0 "‚YTåeGSåeK„0"
+
+EDG_flavor_caliphate_EDG_Alawite_authority_var_tt:0 "§Y?–Ébôu>m§!ÈTÌ‘ÑS„vCgZžX•SÖS³QŽNbìNŒTbìN„v^—g/^SýVNbåb	g„v§Y?–Ébôu>m§!wýN„vpeÏ‘ÿÏk§M20§!*N?–Ébôu>mwýNSO:NbìNÐc›O§M1§!¹p?–Ébôu>mÈTÌ‘ÑSCgZÿÏkt^gY·ƒ—V§M10§!¹pCgZ09hncbìNŒTbìN„v^SýV°s	g„v?–Ébôu>mwýNÿbìNS·ƒ—V‚YNHeœgÿ"
+
+
+EDG_Caliph_EDG_Alawite_decree_button_1_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSAQ¸‹TXúWšN"
+EDG_Caliph_EDG_Alawite_decree_button_2_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS±Rlb	TÈT·V"
+EDG_Caliph_EDG_Alawite_decree_button_3_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS¦”šRYeÕlfR>m"
+EDG_Caliph_EDG_Alawite_decree_button_4_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSÐc/PYe>m²NAm"
+EDG_Caliph_EDG_Alawite_decree_button_5_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSîO.™l)RšNÕl"
+EDG_Caliph_EDG_Alawite_decree_button_6_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSŸ±R—RYe‡efR"
+EDG_Caliph_EDG_Alawite_decree_button_7_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS<rÜuÏ‚òƒYeâV"
+EDG_Caliph_EDG_Alawite_decree_button_8_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS|TTÝO²bPŸs|"
+EDG_Caliph_EDG_Alawite_decree_button_9_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS>NžR8nLˆÛvxQ"
+EDG_Caliph_EDG_Alawite_decree_button_10_modifier_a:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSˆcˆN^y#WO‹T"
+EDG_Caliph_EDG_Alawite_decree_button_1_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSAQ¸‹TXúWšN"
+EDG_Caliph_EDG_Alawite_decree_button_2_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS±Rlb	TÈT·V"
+EDG_Caliph_EDG_Alawite_decree_button_3_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS¦”šRYeÕlfR>m"
+EDG_Caliph_EDG_Alawite_decree_button_4_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSÐc/PYe>m²NAm"
+EDG_Caliph_EDG_Alawite_decree_button_5_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSîO.™l)RšNÕl"
+EDG_Caliph_EDG_Alawite_decree_button_6_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSŸ±R—RYe‡efR"
+EDG_Caliph_EDG_Alawite_decree_button_7_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS<rÜuÏ‚òƒYeâV"
+EDG_Caliph_EDG_Alawite_decree_button_8_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS|TTÝO²bPŸs|"
+EDG_Caliph_EDG_Alawite_decree_button_9_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑS>NžR8nLˆÛvxQ"
+EDG_Caliph_EDG_Alawite_decree_button_10_modifier_b:0 "ASt^…Qµc6R?–Ébôu>mÈTÌ‘ÑSˆcˆN^y#WO‹T"

@@ -1,0 +1,3 @@
+EDG_flavor_LOT_flavor_ruler_name_trigger = {
+	has_ruler = " R^Ì‘ÃWS I 0ürÃV0"
+}

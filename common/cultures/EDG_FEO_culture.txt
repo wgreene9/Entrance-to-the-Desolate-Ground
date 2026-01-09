@@ -1,0 +1,1435 @@
+germanic = {
+	EDG_Volga_Germany = { #OS†R∑Va◊V
+		male_names = {
+			"ZS‰SØeÊt+Y"  # Boguslaw
+			"ÙTS<S∆Y"  # Barnim
+			"eYTX"  # Ota
+			"√W^tKQ"  # Eryk
+			"ÚÉ)Rnf"  # Filip
+			"VgPüGkKQ"  # Franciszek
+			"lb"  # Jan
+			"VÃë∑VÃëKQ"  # Fryderyk
+			"<heYS<h"  # Georg
+			"√WÖQØeyr"  # Ernest
+			"bS∑VÙuKQ"  # Ludwik
+			"?ñS^˜ñ^yr"  # Albrecht
+			"?ñi`yr"  # Arnt
+			"eY‰SØeyr"  # August
+			"=Oi`»T∑V"  # Bernhard
+			"ZSY"  # Bodo
+			"aSS"  # Carl
+			"√Ws|S"  # Emil
+			"VÃë(É"  # Fritz
+			"<h»T∑V"  # Gerhard
+			"‰SØeTX+Y"  # Gustav
+			"»T…bS∑V"  # Harald
+			"®N∑VÃëKQ"  # Hendryk
+			"kç=Oyr"  # Herbert
+			"kçS¸f"  # Hermann
+			"¶ukç∆Y"  # Jochem
+			"löKQâs|)RâR"  # Maximiliam
+			"±É‡VóS∑V"  # Reinhold
+			"Pü<hVÃë∑V"  # Siegfried
+			"ÉlSyr"  # Walter
+			"Z…^"  # Wilhelm
+			"öNÜSqS'Y"  # Alexander
+			"âRpgO"  # Andrzej
+			"âRN<S"  # Antoni
+			"âRN<S™RØe"  # Antoninus
+			"öN&O"  # Aron
+			"ÙTSXb¿N"  # Bartosz
+			"ÙT^Xm*Øe"  # Bartolomeus
+			"ç∑VÃëkç"  # Bedrich
+			"V˜ñ∑VÃëKQ"  # Frederick
+			"‹bnf1mFz"  # Bezprzym
+			"^…b˝lO"  # Blazej
+			"^±É˝l"  # Blaise
+			"ZS	TØe…b+Y"  # Bogislaw
+			"ZSkç9N"  # Bohdan
+			"ZS<h9N"  # Bogdan
+			"=O·ws|S"  # Bohumir
+			"ZS±ÉØeÊt+Y"  # Boleslaw
+			"ZS±ÉØe…b+Y"  # Boleslav
+			"ZSÃëÉl"  # Boriwoj
+			"ZSÂe¶u+Y"  # Borijov
+			"ZSPüæèS"  # Bozydar
+			"leYæèyr"  # Theodat
+			"^…b<Ss|S"  # Branimir
+			"^…b<SØe…b+Y"  # Branislav
+			"^ÌpcRØe…b+Y"  # Bretislav
+			"^˜ñcRØe≥RØe"  # Bretislaus
+			"aSâs|S"  # Casimir
+			"cRyQZSS"  # Ctibor
+			"cRyQZSS"  # Ctibor
+			"Y+RØeÊt+Y"  # Dobieslaw
+			"∑V^ms|S"  # Dobromil
+			"∑VWœÇKQ"  # Drosuk
+			"ÍèyrÃëKQ"  # Dytryk
+			"ÇÑ√WÃë"  # Thierry
+			"VgPüGkKQ"  # Frantisek
+			"VgâØe"  # Francis
+			"†RÊóS"  # Gawel
+			"<hÌpbÂe"  # Grzegorz
+			"<h˜ñbÃë"  # Gregory
+			"»TÙuS"  # Havel
+			"†RbSØe"  # Gallus
+			"öN©ÇÇÑ"  # Jacenty
+			"wmÑSÓhØe"  # Hyacinth
+			"≈ñT^"  # Jakub
+			"≈ñì^¿N"  # Jakusz
+			"≈ñT=O"  # Jacob
+			"≈ñ™R¿N"  # Janusz
+			"¶u"  # John
+			"≈ñWlö"  # Jaromar
+			"öNWs|S"  # Jaromil
+			"öNWs|S"  # Jaromir
+			"≈ñWØe…b+Y"  # Jaroslav
+			"6wpg"  # Jedrzej
+			"‡V∑VÂekç"  # Jindrich
+			"®N)R"  # Henry
+			"OÂe"  # JirÌ
+			"TNªl"  # George
+			"¶umt+Y"  # Jozef
+			"¶umt+Y"  # Joseph
+			"2S)RLN¿N"  # Juliusz
+			"2S)RâR"  # Julian
+			"aS6wfW"  # Kajetan
+			"aSs|S"  # Kamil
+			"aSs|bSØe"  # Camillus
+			"aS˜ñS"  # Karel
+			"Âgt"  # Charles
+			"aSØe¿s"  # Kasper
+			"aSPüs|Âe"  # Kazimierz
+			"KQ)Ryr"  # Kliment
+			"KQ±ÉËïyr"  # Clement
+			"—yS¸f"  # Kolman
+			"—ym¸f"  # Koloman
+			"—yÖQS"  # Kornel
+			"—y<S)RLNØe"  # Cornelius
+			"KQ˜ñ^s|S"  # Kresimir
+			"KQÌpØe…b+Y"  # Krzeslaw
+			"KQÂe¿NXb+Y"  # Krzysztof
+			"KQÃëØeXbV"  # Christopher
+			"Rkç"  # Lech
+			"±É0åKQ"  # Leszek
+			"bSZSs|S"  # Lubomir
+			"bS(Élb"  # Lucjan
+			"bSÓOØe"  # Lucius
+			"bS∑VÙuKQ"  # Ludvik
+			"Ôçf"  # Louis
+			"lö˜ñKQ"  # Marek
+			"löì^Øe"  # Marcus
+			"löÃëâR"  # Marian
+			"löÃëLNØe"  # Marius
+			"löN"  # Martin
+			"löyrLN¿N"  # Mateusz
+			"löÓO"  # Matthew
+			"Öh¿N—y"  # Mieszko
+			"s|—y…b¿N"  # Mikol·s
+			"<S‰S…bØe"  # Nicholas
+			"s|WØe…b+Y"  # Miloslaw
+			"s|m¿N"  # Milosz
+			"s|WØe…b+Y"  # Miroslaw
+			"∆YØePüØe…b+Y"  # Mscislaw
+			"∆YØecRØe…b+Y"  # Mstislav
+			"∆YØePüÉlO"  # Msciwoj
+			"eYS∑VÃë^"  # Oldrich
+			"LNSÃë^"  # Ulrich
+			"¡∑V˜ñ"  # Ondrej
+			"âR∑VÅú"  # Andrew
+			"eYXbaSS"  # Otokar
+			"^yr˜ñKQ"  # Patryk
+			"^yrÃëKQ"  # Patrick
+			"^ÙuS"  # Pawel
+			"›OW"  # Paul
+			"|VóV"  # Piotr
+			"|VóV"  # Peter
+			"nf&OYTX"  # Prendota
+			"nfÌpÖh^S"  # Przemysl
+			"nfÌpÖh^S"  # Premysl
+			"nfÂeçØe…b+Y"  # Przybyslaw
+			"…bYs|S"  # Radomil
+			"…bYs|S"  # Radomir
+			"…bYØe…b+Y"  # Radoslav
+			"WØe–cØe…b+Y"  # Rostislav
+			"˜ñôlS∑V"  # Ryszard
+			"tÂg∑V"  # Richard
+			"QhZS"  # Sambor
+			"0t+RØe…b+Y"  # Sobieslav
+			"0tçØe≥RØe"  # Sobeslaus
+			"ØefW<SØeÊt+Y"  # Stanislaw
+			"ØeTXyQ"  # Strasz
+			"ØeÙuXbçKQ"  # Swietopelk
+			"ØeÊtXbnfbSKQ"  # Svatopluk
+			"^)nXbØeÊt+Y"  # Swietoslaw
+			"ØeÙuöNXbØe…b+Y"  # Sviatoslav
+			"¿NRXo"  # Szczepan
+			"ØeÇÑ¨Ç"  # Stephen
+			"¿N4tØeÖQ"  # Szczesny
+			"âôÑ"  # Szymon
+			"TX∑VLN¿N"  # Tadeusz
+			"leYYS"  # Theodore
+			"Xblö¿N"  # Tomasz
+			"Xblö"  # Thomas
+			"LNæèSÃë^"  # Udalrich
+			"LNSöN¿N"  # Urjasz
+			"ÉlOyrkç"  # Vojtech
+			"?ñSçyr"  # Albert
+			"Êt(É…b+Y"  # Waclaw
+			"Êt&OÇÑ"  # Walenty
+			"Êt&ON"  # Valentin
+			"V…bÍèØe…b+Y"  # Wratislaw
+			"V…bcRØe…b+Y"  # Vratislav
+			"Êt+YÂeÖm(É"  # Wawrzyniec
+			"≥R&OØe"  # Laurence
+			"áe«ëØe…b+Y"  # Wenceslaw
+			"Êt(É…b+Y"  # Vaclav
+			"áeëSÇÑ"  # Wincenty
+			"áeÓhyr"  # Vincent
+			"ÙuyQ…b"  # Wizlaw
+			"ÊtÍèØeÊt+Y"  # Wladyslaw
+			"Él∑VKQ"  # Wlodek
+			"ÉlmyQs|SyQ"  # Wlodzimierz
+			"ÉlPüØeÊt+Y"  # Wlodzislaw
+			"V…bÍèØe…b+Y"  # Wratislaw
+			"yQ‘k<hÖm+Y"  # Zbigniew
+			"yQçÖQKQ"  # Zbynek
+			"yQpgÖQKQ"  # Zdenek
+			"˙WØe…b+Y"  # Zdislav
+			"Pü<hôÑyr"  # Zygmunt
+			"â<hôÑ∑V"  # Sigmund
+		  }
+		  female_names = {
+			"†R^Ãë√W±É"  # Gabriela
+			"wm&OZ"  # Helena
+			"≈ñ<SZ"  # Janina
+			"?ñ<hÖm¿NaS"  # Agnieszka
+			"?ñ<hÖmN"  # Agnes
+			"?ñSyQçTX"  # Alzbeta
+			"âR∑V…b"  # Andela
+			"âRZ"  # Anna
+			"çSTX"  # Berta
+			"ZS·wØe…bZ"  # Bohuslava
+			"ZSÌpZ"  # Bozena
+			"^…b<SØe…bZ"  # Branislava
+			"æè<hõs"  # Dagmar
+			"æè™RTX"  # Danuta
+			"Y^…báÖ"  # Dobravy
+			"Y^WÖm†R"  # Dobroniega
+			"YWTX"  # Dorota
+			"YÑâ"  # Dorothy
+			"∑V…bbs|…b"  # Dragomira
+			"√WÍèTX"  # Edyta
+			"√WZ"  # Ewa
+			"÷v…b"  # Geira
+			"<hSyr2óæè"  # Gertruda
+			"<hyr2ó∑V"  # Gertrude
+			"<h…bPüZ"  # Gracja
+			"<h…bPüZ"  # Grazyna
+			"»T)RZ"  # Halina
+			"IlZ"  # Hanna
+			"OåÖZ"  # Irena
+			"OéÉç…b"  # Izabela
+			"≈ñ∑VÙu	V"  # Jadwiga
+			"≈ñSaS"  # Jarka
+			"ZSs|…b"  # Jarmila
+			"¶upQTX"  # Jolanta
+			"2SÇÑTX"  # Judyta
+			"1gÍèN"  # Judith
+			"aSs|…b"  # Kamila
+			"aSTX3tZ"  # Katarina
+			"ÔQmt3t"  # Catherine
+			"ØwZ"  # Kenna
+			"ÔgSHYâÉöN"  # Kornelia
+			"KQ˜ñØeÇÑZ"  # Krystyna
+			"KQÃëØeÇÑZ"  # Christina
+			"KQ^X<SöN"  # Ksenia
+			"âÉÍèöN"  # Lidia
+			"bS∑Vs|…b"  # Ludmila
+			"õs<hæè"  # Magda
+			"õs<hæè±ÉZ"  # Magdalena
+			"õs<hæè±ÉZ"  # Magdalena
+			"õs<hæè±ÉZ"  # Magdalena
+			"õsS<hNbTX"  # Malgorzata
+			"lö^X)RZ"  # Marcelina
+			"õs)RöN"  # Maria
+			"õsSÔQTX"  # MarkÈta
+			"löNZ"  # Martyna
+			"õswcZ"  # Mateja
+			"õsÇÑSæè"  # Matylda
+			"õsÇÑSæè"  # Matilda
+			"s|R±ê"  # Milena
+			"s|mØe…bZ"  # Miroslava
+			"iOkçZ"  # Pechna
+			"WéÉ"  # RÛza
+			"…bYs|…b"  # Radomila
+			"…bYs|…b"  # Radomira
+			"…bYØe…bZ"  # Radoslava
+			"˜ñZ"  # Raina
+			"·wpg3tæè"  # Regelinda
+			"åÖkçNb"  # Rycheza
+			"(ÑmÖhZ"  # Salomea
+			"^ÖhkçZ"  # Smiechna
+			"ØefW<SØe…bZ"  # Stanislava
+			"Øeyr·Q≥u"  # Stefana
+			"ØeÇÑ¨ÇÆY"  # Stephania
+			"ØeÙuyr…bZ"  # Svetlana
+			"LNSÇ…b"  # Urszula
+			"Êt(É…bZ"  # V·clava
+			"V…bÍèØe…bZ"  # Vladislava
+			"áÖ…b"  # Wera
+			"ÉlOØeÊtZ"  # Wojslawa
+			"yQ∑V<SaS"  # Zdenka
+			"0tÚÉZ"  # Zofia
+			"yQÙu<SØeÊtZ"  # Zwinislawa
+		  }
+		  dynasty_names = {
+			"ØQ KQóg—y+Y"  # von Klinckow
+			"ØQ nfyraSÿû"  # von Puttkamer
+			"ØQ ÙTÖQ—y+Y"  # von Barnekow
+			"ØQ ÀeyrpQ(É"  # von Strantz
+			"<hÃë¨Ç"  # Gryf
+			"ÙuyQ…bÙu"  # Wizlawid
+			"ØQ KQ…b0t+Y"  # von Krassow
+			"ØQ ∑V pQØw"  # von der Lancken
+			"ØQ ÀeÃë¨Ç"  # von Schlieffen
+			"ØQ ¿N*góg"  # von Schwerin
+			"ØQ ÇÅR"  # von Schˆning
+			"ØQ œÇ∆Y"  # von Suhm
+			"ØQ löSp"  # von Maltzahn
+			"ØQ çm+Y"  # von Below
+			"ØQ ^)RKQÓh"  # von Blixen
+			"ØQ ZSSKQ"  # von Borcke
+			"ØQ ^9h»T9h"  # von Buggenhagen
+			"ØQ ¸fNñÚÉS"  # von Manteuffel
+			"ØQ —yØeNyr"  # von Corswant
+			"ØQ Øeyr…b&Owm∆Y"  # von Stralenheim
+			"ØQ ∑VÙu(É"  # von Dewitz
+			"ØQ nf&O"  # von Preen
+			"ØQ ‚l∑VÙuSØe"  # von Podewils
+			"ØQ V±Éf"  # von Flemming
+			"ØQ nf…b’n"  # von Platen
+			"ØQ ˙ãOi`˙WtQ"  # von Neuenkirchen
+			"ØQ byrç<h"  # von Gottberg
+			"ØQ »TKQÙu(É"  # von Hackewitz
+			"ØQ ®N<S^Øe"  # von Hennigs
+			"yrpQ¿s"  # Trampe
+			"ØQ kç(Éç<h"  # von Hertzberg
+			"ØQ wmâv"  # von Heyden
+			"ØQ aSÖhKQ"  # von Kameke
+			"ØQ KQ±ÉØeyr"  # von Kleist
+			"≥u(Éÿû"  # Natzmer
+			"ØQ Pünfóg"  # von Zepelin
+			"ØQ bØeXb+YØe˙W"  # von Gostowski
+			"ØQ ÊtØw<S(É"  # von Wakenitz
+			"ØQ LN˝lY∆Y"  # von Usedom
+			"˛Vi`"  # Thun
+			"ØQ TXâv"  # von Thadden
+			"<hÃëÚÉTX"  # Gryfita
+			"yQ ‚l´É^t"  # z Pomorza
+			"<hÂelö…b"  # Grzymala
+			"öNØeyrÌp‘kGY"  # Jastrzebiec
+			"Åú‘k(É"  # Lubicz
+			"≥u±É(É"  # Nalecz
+			"Øe…bZaS"  # Slaweka
+			"˝l ØefknfØeKQ"  # ze Slupska
+			"<hÖmÉl¿N"  # Gniewosz
+		}
+		female_names = {
+			"†R^Ãë√W…b" 	# Gabriela
+			"wm&OZ" 	# Helena
+			"≈ñ<SZ" 	# Janina
+			"?ñ<hÖm¿NaS" 	# Agnieszka
+			"?ñ<hÖmN" 	# Agnes
+			"?ñSyQçTX" 	# Alzbeta
+			"âR∑V…b" 	# Andela
+			"âRZ" 	# Anna
+			"çSTX" 	# Berta
+			"ZS·wØe…bZ" 	# Bohuslava
+			"ZSÌpZ" 	# Bozena
+			"^…b<SØe…bZ" 	# Branislava
+			"æè<hõs" 	# Dagmar
+			"æè™RTX" 	# Danuta
+			"Y^…báÖ" 	# Dobravy
+			"Y^WÖm†R" 	# Dobroniega
+			"YWTX" 	# Dorota
+			"YÑâ" 	# Dorothy
+			"∑V…bbs|…b" 	# Dragomira
+			"√WÍèTX" 	# Edyta
+			"√WZ" 	# Ewa
+			"÷v…b" 	# Geira
+			"<hSyr2óæè" 	# Gertruda
+			"<hyr2ó∑V" 	# Gertrude
+			"<h…bPüZ" 	# Gracja
+			"<h…bPüZ" 	# Grazyna
+			"»T)RZ" 	# Halina
+			"IlZ" 	# Hanna
+			"OåÖZ" 	# Irena
+			"OéÉç…b" 	# Izabela
+			"≈ñ∑VÙu	V" 	# Jadwiga
+			"≈ñSaS" 	# Jarka
+			"ZSs|…b" 	# Jarmila
+			"¶upQTX" 	# Jolanta
+			"2SÇÑTX" 	# Judyta
+			"1gÍèN" 	# Judith
+			"aSs|…b" 	# Kamila
+			"aSTX3tZ" 	# Katarina
+			"ÔQmt3t" 	# Catherine
+			"ØwZ" 	# Kenna
+			"ÔgSHYâÉöN" 	# Kornelia
+			"KQ˜ñØeÇÑZ" 	# Krystyna
+			"KQÃëØeÇÑZ" 	# Christina
+			"KQ^X<SöN" 	# Ksenia
+			"âÉÍèöN" 	# Lidia
+			"bS∑Vs|…b" 	# Ludmila
+			"õs<hæè" 	# Magda
+			"õs<hæè±ÉZ" 	# Magdalena
+			"õs<hæè±ÉZ" 	# Magdalena
+			"õs<hæè±ÉZ" 	# Magdalena
+			"õsS<hNbTX" 	# Malgorzata
+			"lö^X)RZ" 	# Marcelina
+			"õs)RöN" 	# Maria
+			"õsSÔQTX" 	# MarkÈta
+			"löNZ" 	# Martyna
+			"õswcZ" 	# Mateja
+			"õsÇÑSæè" 	# Matylda
+			"õsÇÑSæè" 	# Matilda
+			"s|R±ê" 	# Milena
+			"s|mØe…bZ" 	# Miroslava
+			"iOkçZ" 	# Pechna
+			"WéÉ" 	# RÛza
+			"…bYs|…b" 	# Radomila
+			"…bYs|…b" 	# Radomira
+			"…bYØe…bZ" 	# Radoslava
+			"˜ñZ" 	# Raina
+			"·wpg3tæè" 	# Regelinda
+			"åÖkçNb" 	# Rycheza
+			"(ÑmÖhZ" 	# Salomea
+			"^ÖhkçZ" 	# Smiechna
+			"ØefW<SØe…bZ" 	# Stanislava
+			"Øeyr·Q≥u" 	# Stefana
+			"ØeÇÑ¨ÇÆY" 	# Stephania
+			"ØeÙuyr…bZ" 	# Svetlana
+			"LNSÇ…b" 	# Urszula
+			"Êt(É…bZ" 	# V·clava
+			"V…bÍèØe…bZ" 	# Vladislava
+			"áÖ…b" 	# Wera
+			"ÉlOØeÊtZ" 	# Wojslawa
+			"yQ∑V<SaS" 	# Zdenka
+			"0tÚÉZ" 	# Zofia
+			"yQÙu<SØeÊtZ" 	# Zwinislawa
+		}
+		dynasty_names = {
+			"ØQ KQóg—y+Y" 	# von Klinckow
+			"ØQ nfyraSÿû" 	# von Puttkamer
+			"ØQ ÙTÖQ—y+Y" 	# von Barnekow
+			"ØQ ÀeyrpQ(É" 	# von Strantz
+			"<hÃë¨Ç" 	# Gryf
+			"ÙuyQ…bÙu" 	# Wizlawid
+			"ØQ KQ…b0t+Y" 	# von Krassow
+			"ØQ ∑V pQØw" 	# von der Lancken
+			"ØQ ÀeÃë¨Ç" 	# von Schlieffen
+			"ØQ ¿N*góg" 	# von Schwerin
+			"ØQ ÇÅR" 	# von Schˆning
+			"ØQ œÇ∆Y" 	# von Suhm
+			"ØQ löSp" 	# von Maltzahn
+			"ØQ çm+Y" 	# von Below
+			"ØQ ^)RKQÓh" 	# von Blixen
+			"ØQ ZSSKQ" 	# von Borcke
+			"ØQ ^9h»T9h" 	# von Buggenhagen
+			"ØQ ¸fNñÚÉS" 	# von Manteuffel
+			"ØQ —yØeNyr" 	# von Corswant
+			"ØQ Øeyr…b&Owm∆Y" 	# von Stralenheim
+			"ØQ ∑VÙu(É" 	# von Dewitz
+			"ØQ nf&O" 	# von Preen
+			"ØQ ‚l∑VÙuSØe" 	# von Podewils
+			"ØQ V±Éf" 	# von Flemming
+			"ØQ nf…b’n" 	# von Platen
+			"ØQ ˙ãOi`˙WtQ" 	# von Neuenkirchen
+			"ØQ byrç<h" 	# von Gottberg
+			"ØQ »TKQÙu(É" 	# von Hackewitz
+			"ØQ ®N<S^Øe" 	# von Hennigs
+			"yrpQ¿s" 	# Trampe
+			"ØQ kç(Éç<h" 	# von Hertzberg
+			"ØQ wmâv" 	# von Heyden
+			"ØQ aSÖhKQ" 	# von Kameke
+			"ØQ KQ±ÉØeyr" 	# von Kleist
+			"≥u(Éÿû" 	# Natzmer
+			"ØQ Pünfóg" 	# von Zepelin
+			"ØQ bØeXb+YØe˙W" 	# von Gostowski
+			"ØQ ÊtØw<S(É" 	# von Wakenitz
+			"ØQ LN˝lY∆Y" 	# von Usedom
+			"˛Vi`" 	# Thun
+			"ØQ TXâv" 	# von Thadden 	# CKII
+			"<hÃëÚÉTX" 	# Gryfita
+			"yQ ‚l´É^t" 	# z Pomorza
+			"<hÂelö…b" 	# Grzymala
+			"öNØeyrÌp‘kGY" 	# Jastrzebiec
+			"Åú‘k(É" 	# Lubicz
+			"≥u±É(É" 	# Nalecz
+			"Øe…bZaS" 	# Slaweka
+			"˝l ØefknfØeKQ" 	# ze Slupska
+			"<hÖmÉl¿N" 	# Gniewosz
+		}
+	}
+
+	gothic_ger = { #ÂTyr
+		primary = FEO
+		dynasty_names = {
+			"ÂTyr" 	# of Gothia
+			"†R+Y…bØe"
+			"—yFzÅR"
+			"âRN<SeY"
+			"ÂgÎXN<S"
+			"÷vLNØe"
+			"KQ≥Rƒr"
+		  }
+		  male_names = {
+			"?ñ±ÉKQÓOØe" 	# Alexios
+			"¶uâR<SØe" 	# Ioannes
+			"¸f™R√WS" 	# Manuel
+			"'YkS" 	# David
+			"ÙTâS" 	# Basileios
+			"ØeNWæèÃëeYØe" 	# Skantarios
+			"âR∑Vm<S—yØe" 	# Andronikos
+			"s|wmS" 	# Michael
+			"TNªleYØe" 	# Georgios
+			"√WÖm?ñØe" 	# Aineias
+			"öNÃëÎXY∑V" 	# Aristoteles
+			"ÙTYWpN" 	# Bartholomaios
+			"KQ±ÉqSXbØe" 	# Chrysanthos
+			",r'k9h<S" 	# Diogenes
+			"ƒrƒO<S0tØe" 	# Dionysos
+			"√WS˜ñHYeYØe" 	# Eirenaios
+			"√WSÆvÍèeYØe" 	# Elpidios
+			"<hÃëÿö)R" 	# Gregorios
+			"kçKQXb" 	# Hektor
+			"O?ñãR" 	# Iason
+			"¶umt+Y" 	# Iosephos
+			"aSØeXb3w" 	# Kastor
+			"—y˜ñf" 	# Kreon
+			"lö*YeYØe" 	# Matthaios
+			"ÖmØeXb3w" 	# Nestor
+			"<S—y≥RØe" 	# Nikolaos
+			"<S—yÖhæèØe" 	# Nikomedes
+			"eY˜ñØeyrØe" 	# Orestes
+			"^±ÉôÑ" 	# Palaemon
+			"^+YmØe" 	# Pavlos
+			"iO…b	TeYØe" 	# Pelagios
+			"öNÜSqS∑VWØe" 	# Alexandros
+			"ÚÉ)RôÑ" 	# Philemon
+			"ÚÉ)R‚lØe" 	# Philippos
+			"nfW—yÆveYØe" 	# Prokopios
+			"Øeyr·Q˙ãØe" 	# Stefanos
+			"ƒreYYWØe" 	# Theodoros
+			"–c´ÉÓOØe" 	# Timotheos
+			"âR^WâeYØe" 	# Ambrosios
+			"iOyrWØe" 	# Petros
+			"kç…bKQ“RØe" 	# Herakles
+			"kçS®XØe" 	# Hermes
+			"^‚lTXbØe" 	# Hippolytos
+			"^^–ceYØe" 	# Hypatios
+			"≈ñ—yZSØe" 	# Iakobos
+			"≈ñT^" 	# Jacob
+			"O<h≥u–ceYØe" 	# Ignatios
+			"O<h±ê–cLNØe" 	# Ignatius
+			"‡V˙ãØw–ceYØe" 	# Innokentios
+			"¶uâR<SØe" 	# Ioannes
+			"¶u" 	# John
+			"¶uâR<S˙WeYØe" 	# Ioannikios
+			"¶uSæè<SØe" 	# Iordanes
+			"¶umt+Y" 	# Ioseph
+			"¶umt+Y" 	# Joseph
+			"O(ÑKQ" 	# Isaakios
+			"åÇiçöNØe" 	# Isaias
+			"OâYWØe" 	# Isidoros
+			"2S)RöN˙ãØe" 	# Ioulianos
+			"2S)RâR" 	# Julian
+			"ÂgÎXN<S" 	# Ioustinianos
+			"ÂgÎXN<S" 	# Justinian
+			"OÎXÇÑ˙ãØe" 	# Ioustinos
+			">çØeNl" 	# Justin
+			"ÔQídÃëeYØe" 	# Kaisarios
+			"z`íd" 	# Caesar
+			"aS)R<S—yØe" 	# Kallinikos
+			"aSÃëØeXbØe" 	# Kallistos
+			"—ys|TXØe" 	# Komitas
+			"TÎXfWN" 	# Konstantinos
+			"TÎXfWN" 	# Constantine
+			"TÎXfW–ceYØe" 	# Konstantios
+			"TÎXfW–cLNØe" 	# Constantius
+			"TÎXfWØe" 	# Konstas
+			"TÎXfWØe" 	# Constans
+			"—yØelöØe" 	# Kosmas
+			"—yØelöØe" 	# Cosmas
+			"ÔQ)RöN—yØe" 	# Kyriakos
+			"âÃëS" 	# Kyrillos
+			"âÃëS" 	# Cyril
+			"ÔQWØe" 	# Kyros
+			"≥R&O–ceYØe" 	# Laurentios
+			"≥R&OØe" 	# Laurence
+			"…b(ÑWØe" 	# Lazaros
+			")Rf" 	# Leon
+			")ReY" 	# Leo
+			")Rf–cLNØe" 	# Leontios
+			"±Éf–cLNØe" 	# Leontius
+			"bSaSØe" 	# Loukas
+			"löaSÃëeYØe" 	# Makarios
+			"¸f™R√WS" 	# Manuel
+			"lö—yØe" 	# Markos
+			"löì^Øe" 	# Marcus
+			"lö*YeYØe" 	# Matthaios
+			"löÓO" 	# Matthew
+			"õsVÃë˙WeYØe" 	# Maurikios
+			"löKQâ´ÉØe" 	# Maximos
+			"löKQâ∆YØe" 	# Maximus
+			"Öh	TØeXbØe" 	# Megistos
+			"lö<h™RØe" 	# Magnus
+			"löKQâ´ÉØe" 	# Meletios
+			"¶ûXbÍè" 	# Methodios
+			"s|wmS" 	# Michael
+			"s|wmS" 	# Michael
+			"≥uSâØe" 	# Narses
+			"<SeYêeXbØe" 	# Neophytos
+			"<S˙WVÅúØe" 	# Nikephoros
+			"<S˙WTXØe" 	# Niketas
+			"<S—y∑V´ÉØe" 	# Nikodemos
+			"<S—y≥RØe" 	# Nikolaos
+			"<S‰S…bØe" 	# Nicholas
+			"<S0N" 	# Niphon
+			"eY˜ñØeyrØe" 	# Orestes
+			"^ÚÉÃëeYØe" 	# Pamphilios
+			"XoKQ…b–ceYØe" 	# Pankratios
+			"XoXb±Éf" 	# Pantoleon
+			"ÙTØe†R" 	# Paschalis
+			"^+YmØe" 	# Pavlos
+			"›OW" 	# Paul
+			"iO…b	TeYØe" 	# Pelagios
+			"œg…bGY" 	# Pelagius
+			"iOyrWØe" 	# Petros
+			"|VóV" 	# Peter
+			"ÚÉ…b˜ñXbØe" 	# Philaretos
+			"ÚÉ)R‚lØe" 	# Philippos
+			"ÚÉ)Rnf" 	# Philip
+			"ÚÉmÓOØe" 	# Philotheos
+			"iOaSØe" 	# Phokas
+			"iO–ceYØe" 	# Photios
+			"áò)RaSSnf" 	# Polykarpos
+			"‚lÚÉ	tØe" 	# Porphyrios
+			"nfW—yÆveYØe" 	# Prokopios
+			"nfW—y9SÑSØe" 	# Procopius
+			"ÆvmÎX" 	# Pyrros
+			"…bêeS" 	# Raphail
+			"W¸f˙ãØe" 	# Romanos
+			"W¸f" 	# Roman
+			"(ÑÙTØe" 	# Sabas
+			"(ÑFz√WS" 	# Samuel
+			"(ÑFz√WS" 	# Samuel
+			"0å…bÆv¡" 	# Serapion
+			"^XÙTØeÇÑöN˙ãØe" 	# Sebastianos
+			"^XÙTØeÇÑâR" 	# Sebastian
+			"^XS	TeYØe" 	# Sergios
+			"^XS	TLNØe" 	# Sergius
+			"Øeyr·Q˙ãØe" 	# Stephanos
+			"ØeÇÑ¨Ç" 	# Stephen
+			"Øevñ…b˙WeYØe" 	# Staurakios
+			"içs|i`" 	# Symeon
+			"âôÑ" 	# Simon
+			"-^lö—yØe" 	# Symmachos
+			"âõsKQ" 	# Symmachus
+			"ƒreYÂgtØeXbØe" 	# Theocharistos
+			"ƒreYYWØe" 	# Theodoros
+			"ƒreYYS" 	# Theodore
+			"ƒreYYâ" 	# Theodosios
+			"ƒreYYâ" 	# Theodosios
+			"ƒreYYXbØe" 	# Theodotos
+			"ƒreYæèyr" 	# Theodat
+			"ƒreYYmØe" 	# Theodoulos
+			"–ceYKQ–cØeXbØe" 	# Theoktistos
+			"ƒreY·QÖQØe" 	# Theophanes
+			"ƒreYÚÉmØe" 	# Theophilos
+			"ƒreYÚÉ…bKQXbØe" 	# Theophylaktos
+			"XblöØe" 	# Thomas
+			"XblöØe" 	# Thomas
+			"–c‘keu" 	# Tiberios
+			"–c‘keu" 	# Tiberius
+			"yr…bO˙ãØe" 	# Traianos
+			"˛V…bw" 	# Trajan
+			"–c´ÉÓOØe" 	# Timotheos
+			"yrÃë0N" 	# Tryphon
+			"Êt±ÉÃëeYØe" 	# Valerios
+			"Êt“RYu" 	# Valerius
+			"ídÊè)RöN" 	# Zacharias
+			"Pü˙ã‘keYØe" 	# Zenobios
+			"ùÇ˙ã" 	# Zenon
+		  }
+		  female_names = {
+			"?ñ†RiO" 	# Agape
+			"èyÇÑ<S" 	# Photine
+			"0tÍèÃëöN" 	# Sotiria
+			"±ÉfZ" 	# Leontia
+			"õs<hKNyr" 	# Margarita
+			"õs<hKNyr" 	# Margaret
+			"õs)RöN" 	# Maria
+			"õs)RöN" 	# Maria
+			"õs˙W≈ñ" 	# Markia
+			"õsâZ" 	# Marcia
+			"õsSTX" 	# Martha
+			"õsSTX" 	# Martha
+			"ÖhâÉéÉ" 	# Melissa
+			"Öh)RQh∑V" 	# Melisende
+			"ÆYaSåÖyr" 	# Nikarete
+			"ÆY—yåÖTX" 	# Nikoletta
+			"úQZ" 	# Nonna
+			"^âZ" 	# Parthena
+			"^+YógZ" 	# Pavlina
+			"‚l3tZ" 	# Paulina
+			"iO…b	T≈ñ" 	# Pelagia
+			"iOXbÆY" 	# Petronia
+			"iOXbÆY" 	# Petronia
+			"ÚÉâÉ^" 	# Philippa
+			"ÚÉâÉ^" 	# Philippa
+			"ÚÉKNN" 	# Phyllis
+			"nfSéUKNöN" 	# Pulcheria
+			"nfSéUKNöN" 	# Pulcheria
+			"W9NN" 	# Rhodanthe
+			"Wõs<S" 	# Romane
+			"W∆RâÉZ" 	# Romylia
+			"^XS	TZ" 	# Sergia
+			"^XS	TZ" 	# Sergia
+			"â‘k…b" 	# Sibylla
+			"â‘k…b" 	# Sibylla
+			"â´ÉÆYN" 	# Simonis
+			"0tÚÉZ" 	# Sophia
+			"0tÚÉZ" 	# Sophia
+			"ØeÇÑ¨ÇÆY≈ñ" 	# Stephania
+			"ØeÇÑ¨ÇÆY≈ñ" 	# Stephania
+			"ƒraS…b" 	# Thekla
+			"ƒreYÂgKNNyr" 	# Theochariste
+			"ƒreYY…b" 	# Theodora
+			"ƒreYY…b" 	# Theodora
+			"ƒreYYâZ" 	# Theodosia
+			"ƒreYYâZ" 	# Theodosia
+			"ƒreY<h˙ãÉZ" 	# Theognosia
+			"ƒreYKQ–cØeyr" 	# Theoktiste
+			"ƒreY’l˙ã" 	# Theophano
+			"Y¶ûN" 	# Thomais
+			"Êt±ÉÃëöN" 	# Valeria
+			"Êt±ÉÃëöN" 	# Valeria
+			"áÖáÖâRZ" 	# Viviana
+			"áÖáÖâRZ" 	# Viviana
+			"ÉZ" 	# Xene
+			"^X˙ãÙuZ" 	# Zenobia
+		  }
+	}  
+
+	EDG_east_german = { #Nπe∑Va◊V
+		male_names = {
+			"ZS‰SØeÊt+Y"  # Boguslaw
+			"ÙTS<S∆Y"  # Barnim
+			"eYTX"  # Ota
+			"√W^tKQ"  # Eryk
+			"ÚÉ)Rnf"  # Filip
+			"VgPüGkKQ"  # Franciszek
+			"lb"  # Jan
+			"VÃë∑VÃëKQ"  # Fryderyk
+			"<heYS<h"  # Georg
+			"√WÖQØeyr"  # Ernest
+			"bS∑VÙuKQ"  # Ludwik
+			"?ñS^˜ñ^yr"  # Albrecht
+			"?ñi`yr"  # Arnt
+			"eY‰SØeyr"  # August
+			"=Oi`»T∑V"  # Bernhard
+			"ZSY"  # Bodo
+			"aSS"  # Carl
+			"√Ws|S"  # Emil
+			"VÃë(É"  # Fritz
+			"<h»T∑V"  # Gerhard
+			"‰SØeTX+Y"  # Gustav
+			"»T…bS∑V"  # Harald
+			"®N∑VÃëKQ"  # Hendryk
+			"kç=Oyr"  # Herbert
+			"kçS¸f"  # Hermann
+			"¶ukç∆Y"  # Jochem
+			"löKQâs|)RâR"  # Maximiliam
+			"±É‡VóS∑V"  # Reinhold
+			"Pü<hVÃë∑V"  # Siegfried
+			"ÉlSyr"  # Walter
+			"Z…^"  # Wilhelm
+			"öNÜSqS'Y"  # Alexander
+			"âRpgO"  # Andrzej
+			"âRN<S"  # Antoni
+			"âRN<S™RØe"  # Antoninus
+			"öN&O"  # Aron
+			"ÙTSXb¿N"  # Bartosz
+			"ÙT^Xm*Øe"  # Bartolomeus
+			"ç∑VÃëkç"  # Bedrich
+			"V˜ñ∑VÃëKQ"  # Frederick
+			"‹bnf1mFz"  # Bezprzym
+			"^…b˝lO"  # Blazej
+			"^±É˝l"  # Blaise
+			"ZS	TØe…b+Y"  # Bogislaw
+			"ZSkç9N"  # Bohdan
+			"ZS<h9N"  # Bogdan
+			"=O·ws|S"  # Bohumir
+			"ZS±ÉØeÊt+Y"  # Boleslaw
+			"ZS±ÉØe…b+Y"  # Boleslav
+			"ZSÃëÉl"  # Boriwoj
+			"ZSÂe¶u+Y"  # Borijov
+			"ZSPüæèS"  # Bozydar
+			"leYæèyr"  # Theodat
+			"^…b<Ss|S"  # Branimir
+			"^…b<SØe…b+Y"  # Branislav
+			"^ÌpcRØe…b+Y"  # Bretislav
+			"^˜ñcRØe≥RØe"  # Bretislaus
+			"aSâs|S"  # Casimir
+			"cRyQZSS"  # Ctibor
+			"cRyQZSS"  # Ctibor
+			"Y+RØeÊt+Y"  # Dobieslaw
+			"∑V^ms|S"  # Dobromil
+			"∑VWœÇKQ"  # Drosuk
+			"ÍèyrÃëKQ"  # Dytryk
+			"ÇÑ√WÃë"  # Thierry
+			"VgPüGkKQ"  # Frantisek
+			"VgâØe"  # Francis
+			"†RÊóS"  # Gawel
+			"<hÌpbÂe"  # Grzegorz
+			"<h˜ñbÃë"  # Gregory
+			"»TÙuS"  # Havel
+			"†RbSØe"  # Gallus
+			"öN©ÇÇÑ"  # Jacenty
+			"wmÑSÓhØe"  # Hyacinth
+			"≈ñT^"  # Jakub
+			"≈ñì^¿N"  # Jakusz
+			"≈ñT=O"  # Jacob
+			"≈ñ™R¿N"  # Janusz
+			"¶u"  # John
+			"≈ñWlö"  # Jaromar
+			"öNWs|S"  # Jaromil
+			"öNWs|S"  # Jaromir
+			"≈ñWØe…b+Y"  # Jaroslav
+			"6wpg"  # Jedrzej
+			"‡V∑VÂekç"  # Jindrich
+			"®N)R"  # Henry
+			"OÂe"  # JirÌ
+			"TNªl"  # George
+			"¶umt+Y"  # Jozef
+			"¶umt+Y"  # Joseph
+			"2S)RLN¿N"  # Juliusz
+			"2S)RâR"  # Julian
+			"aS6wfW"  # Kajetan
+			"aSs|S"  # Kamil
+			"aSs|bSØe"  # Camillus
+			"aS˜ñS"  # Karel
+			"Âgt"  # Charles
+			"aSØe¿s"  # Kasper
+			"aSPüs|Âe"  # Kazimierz
+			"KQ)Ryr"  # Kliment
+			"KQ±ÉËïyr"  # Clement
+			"—yS¸f"  # Kolman
+			"—ym¸f"  # Koloman
+			"—yÖQS"  # Kornel
+			"—y<S)RLNØe"  # Cornelius
+			"KQ˜ñ^s|S"  # Kresimir
+			"KQÌpØe…b+Y"  # Krzeslaw
+			"KQÂe¿NXb+Y"  # Krzysztof
+			"KQÃëØeXbV"  # Christopher
+			"Rkç"  # Lech
+			"±É0åKQ"  # Leszek
+			"bSZSs|S"  # Lubomir
+			"bS(Élb"  # Lucjan
+			"bSÓOØe"  # Lucius
+			"bS∑VÙuKQ"  # Ludvik
+			"Ôçf"  # Louis
+			"lö˜ñKQ"  # Marek
+			"löì^Øe"  # Marcus
+			"löÃëâR"  # Marian
+			"löÃëLNØe"  # Marius
+			"löN"  # Martin
+			"löyrLN¿N"  # Mateusz
+			"löÓO"  # Matthew
+			"Öh¿N—y"  # Mieszko
+			"s|—y…b¿N"  # Mikol·s
+			"<S‰S…bØe"  # Nicholas
+			"s|WØe…b+Y"  # Miloslaw
+			"s|m¿N"  # Milosz
+			"s|WØe…b+Y"  # Miroslaw
+			"∆YØePüØe…b+Y"  # Mscislaw
+			"∆YØecRØe…b+Y"  # Mstislav
+			"∆YØePüÉlO"  # Msciwoj
+			"eYS∑VÃë^"  # Oldrich
+			"LNSÃë^"  # Ulrich
+			"¡∑V˜ñ"  # Ondrej
+			"âR∑VÅú"  # Andrew
+			"eYXbaSS"  # Otokar
+			"^yr˜ñKQ"  # Patryk
+			"^yrÃëKQ"  # Patrick
+			"^ÙuS"  # Pawel
+			"›OW"  # Paul
+			"|VóV"  # Piotr
+			"|VóV"  # Peter
+			"nf&OYTX"  # Prendota
+			"nfÌpÖh^S"  # Przemysl
+			"nfÌpÖh^S"  # Premysl
+			"nfÂeçØe…b+Y"  # Przybyslaw
+			"…bYs|S"  # Radomil
+			"…bYs|S"  # Radomir
+			"…bYØe…b+Y"  # Radoslav
+			"WØe–cØe…b+Y"  # Rostislav
+			"˜ñôlS∑V"  # Ryszard
+			"tÂg∑V"  # Richard
+			"QhZS"  # Sambor
+			"0t+RØe…b+Y"  # Sobieslav
+			"0tçØe≥RØe"  # Sobeslaus
+			"ØefW<SØeÊt+Y"  # Stanislaw
+			"ØeTXyQ"  # Strasz
+			"ØeÙuXbçKQ"  # Swietopelk
+			"ØeÊtXbnfbSKQ"  # Svatopluk
+			"^)nXbØeÊt+Y"  # Swietoslaw
+			"ØeÙuöNXbØe…b+Y"  # Sviatoslav
+			"¿NRXo"  # Szczepan
+			"ØeÇÑ¨Ç"  # Stephen
+			"¿N4tØeÖQ"  # Szczesny
+			"âôÑ"  # Szymon
+			"TX∑VLN¿N"  # Tadeusz
+			"leYYS"  # Theodore
+			"Xblö¿N"  # Tomasz
+			"Xblö"  # Thomas
+			"LNæèSÃë^"  # Udalrich
+			"LNSöN¿N"  # Urjasz
+			"ÉlOyrkç"  # Vojtech
+			"?ñSçyr"  # Albert
+			"Êt(É…b+Y"  # Waclaw
+			"Êt&OÇÑ"  # Walenty
+			"Êt&ON"  # Valentin
+			"V…bÍèØe…b+Y"  # Wratislaw
+			"V…bcRØe…b+Y"  # Vratislav
+			"Êt+YÂeÖm(É"  # Wawrzyniec
+			"≥R&OØe"  # Laurence
+			"áe«ëØe…b+Y"  # Wenceslaw
+			"Êt(É…b+Y"  # Vaclav
+			"áeëSÇÑ"  # Wincenty
+			"áeÓhyr"  # Vincent
+			"ÙuyQ…b"  # Wizlaw
+			"ÊtÍèØeÊt+Y"  # Wladyslaw
+			"Él∑VKQ"  # Wlodek
+			"ÉlmyQs|SyQ"  # Wlodzimierz
+			"ÉlPüØeÊt+Y"  # Wlodzislaw
+			"V…bÍèØe…b+Y"  # Wratislaw
+			"yQ‘k<hÖm+Y"  # Zbigniew
+			"yQçÖQKQ"  # Zbynek
+			"yQpgÖQKQ"  # Zdenek
+			"˙WØe…b+Y"  # Zdislav
+			"Pü<hôÑyr"  # Zygmunt
+			"â<hôÑ∑V"  # Sigmund
+		}
+		female_names = {
+			"†R^Ãë√W…b" 	# Gabriela
+			"wm&OZ" 	# Helena
+			"≈ñ<SZ" 	# Janina
+			"?ñ<hÖm¿NaS" 	# Agnieszka
+			"?ñ<hÖmN" 	# Agnes
+			"?ñSyQçTX" 	# Alzbeta
+			"âR∑V…b" 	# Andela
+			"âRZ" 	# Anna
+			"çSTX" 	# Berta
+			"ZS·wØe…bZ" 	# Bohuslava
+			"ZSÌpZ" 	# Bozena
+			"^…b<SØe…bZ" 	# Branislava
+			"æè<hõs" 	# Dagmar
+			"æè™RTX" 	# Danuta
+			"Y^…báÖ" 	# Dobravy
+			"Y^WÖm†R" 	# Dobroniega
+			"YWTX" 	# Dorota
+			"YÑâ" 	# Dorothy
+			"∑V…bbs|…b" 	# Dragomira
+			"√WÍèTX" 	# Edyta
+			"√WZ" 	# Ewa
+			"÷v…b" 	# Geira
+			"<hSyr2óæè" 	# Gertruda
+			"<hyr2ó∑V" 	# Gertrude
+			"<h…bPüZ" 	# Gracja
+			"<h…bPüZ" 	# Grazyna
+			"»T)RZ" 	# Halina
+			"IlZ" 	# Hanna
+			"OåÖZ" 	# Irena
+			"OéÉç…b" 	# Izabela
+			"≈ñ∑VÙu	V" 	# Jadwiga
+			"≈ñSaS" 	# Jarka
+			"ZSs|…b" 	# Jarmila
+			"¶upQTX" 	# Jolanta
+			"2SÇÑTX" 	# Judyta
+			"1gÍèN" 	# Judith
+			"aSs|…b" 	# Kamila
+			"aSTX3tZ" 	# Katarina
+			"ÔQmt3t" 	# Catherine
+			"ØwZ" 	# Kenna
+			"ÔgSHYâÉöN" 	# Kornelia
+			"KQ˜ñØeÇÑZ" 	# Krystyna
+			"KQÃëØeÇÑZ" 	# Christina
+			"KQ^X<SöN" 	# Ksenia
+			"âÉÍèöN" 	# Lidia
+			"bS∑Vs|…b" 	# Ludmila
+			"õs<hæè" 	# Magda
+			"õs<hæè±ÉZ" 	# Magdalena
+			"õs<hæè±ÉZ" 	# Magdalena
+			"õs<hæè±ÉZ" 	# Magdalena
+			"õsS<hNbTX" 	# Malgorzata
+			"lö^X)RZ" 	# Marcelina
+			"õs)RöN" 	# Maria
+			"õsSÔQTX" 	# MarkÈta
+			"löNZ" 	# Martyna
+			"õswcZ" 	# Mateja
+			"õsÇÑSæè" 	# Matylda
+			"õsÇÑSæè" 	# Matilda
+			"s|R±ê" 	# Milena
+			"s|mØe…bZ" 	# Miroslava
+			"iOkçZ" 	# Pechna
+			"WéÉ" 	# RÛza
+			"…bYs|…b" 	# Radomila
+			"…bYs|…b" 	# Radomira
+			"…bYØe…bZ" 	# Radoslava
+			"˜ñZ" 	# Raina
+			"·wpg3tæè" 	# Regelinda
+			"åÖkçNb" 	# Rycheza
+			"(ÑmÖhZ" 	# Salomea
+			"^ÖhkçZ" 	# Smiechna
+			"ØefW<SØe…bZ" 	# Stanislava
+			"Øeyr·Q≥u" 	# Stefana
+			"ØeÇÑ¨ÇÆY" 	# Stephania
+			"ØeÙuyr…bZ" 	# Svetlana
+			"LNSÇ…b" 	# Urszula
+			"Êt(É…bZ" 	# V·clava
+			"V…bÍèØe…bZ" 	# Vladislava
+			"áÖ…b" 	# Wera
+			"ÉlOØeÊtZ" 	# Wojslawa
+			"yQ∑V<SaS" 	# Zdenka
+			"0tÚÉZ" 	# Zofia
+			"yQÙu<SØeÊtZ" 	# Zwinislawa
+		}
+		dynasty_names = {
+			"ØQ KQóg—y+Y" 	# von Klinckow
+			"ØQ nfyraSÿû" 	# von Puttkamer
+			"ØQ ÙTÖQ—y+Y" 	# von Barnekow
+			"ØQ ÀeyrpQ(É" 	# von Strantz
+			"<hÃë¨Ç" 	# Gryf
+			"ÙuyQ…bÙu" 	# Wizlawid
+			"ØQ KQ…b0t+Y" 	# von Krassow
+			"ØQ ∑V pQØw" 	# von der Lancken
+			"ØQ ÀeÃë¨Ç" 	# von Schlieffen
+			"ØQ ¿N*góg" 	# von Schwerin
+			"ØQ ÇÅR" 	# von Schˆning
+			"ØQ œÇ∆Y" 	# von Suhm
+			"ØQ löSp" 	# von Maltzahn
+			"ØQ çm+Y" 	# von Below
+			"ØQ ^)RKQÓh" 	# von Blixen
+			"ØQ ZSSKQ" 	# von Borcke
+			"ØQ ^9h»T9h" 	# von Buggenhagen
+			"ØQ ¸fNñÚÉS" 	# von Manteuffel
+			"ØQ —yØeNyr" 	# von Corswant
+			"ØQ Øeyr…b&Owm∆Y" 	# von Stralenheim
+			"ØQ ∑VÙu(É" 	# von Dewitz
+			"ØQ nf&O" 	# von Preen
+			"ØQ ‚l∑VÙuSØe" 	# von Podewils
+			"ØQ V±Éf" 	# von Flemming
+			"ØQ nf…b’n" 	# von Platen
+			"ØQ ˙ãOi`˙WtQ" 	# von Neuenkirchen
+			"ØQ byrç<h" 	# von Gottberg
+			"ØQ »TKQÙu(É" 	# von Hackewitz
+			"ØQ ®N<S^Øe" 	# von Hennigs
+			"yrpQ¿s" 	# Trampe
+			"ØQ kç(Éç<h" 	# von Hertzberg
+			"ØQ wmâv" 	# von Heyden
+			"ØQ aSÖhKQ" 	# von Kameke
+			"ØQ KQ±ÉØeyr" 	# von Kleist
+			"≥u(Éÿû" 	# Natzmer
+			"ØQ Pünfóg" 	# von Zepelin
+			"ØQ bØeXb+YØe˙W" 	# von Gostowski
+			"ØQ ÊtØw<S(É" 	# von Wakenitz
+			"ØQ LN˝lY∆Y" 	# von Usedom
+			"˛Vi`" 	# Thun
+			"ØQ TXâv" 	# von Thadden 	# CKII
+			"<hÃëÚÉTX" 	# Gryfita
+			"yQ ‚l´É^t" 	# z Pomorza
+			"<hÂelö…b" 	# Grzymala
+			"öNØeyrÌp‘kGY" 	# Jastrzebiec
+			"Åú‘k(É" 	# Lubicz
+			"≥u±É(É" 	# Nalecz
+			"Øe…bZaS" 	# Slaweka
+			"˝l ØefknfØeKQ" 	# ze Slupska
+			"<hÖmÉl¿N" 	# Gniewosz
+		}
+	}
+	
+	EDG_rusland = { #WØepQ
+		male_names = {
+			"ZS‰SØeÊt+Y"  # Boguslaw
+			"ÙTS<S∆Y"  # Barnim
+			"eYTX"  # Ota
+			"√W^tKQ"  # Eryk
+			"ÚÉ)Rnf"  # Filip
+			"VgPüGkKQ"  # Franciszek
+			"lb"  # Jan
+			"VÃë∑VÃëKQ"  # Fryderyk
+			"<heYS<h"  # Georg
+			"√WÖQØeyr"  # Ernest
+			"bS∑VÙuKQ"  # Ludwik
+			"?ñS^˜ñ^yr"  # Albrecht
+			"?ñi`yr"  # Arnt
+			"eY‰SØeyr"  # August
+			"=Oi`»T∑V"  # Bernhard
+			"ZSY"  # Bodo
+			"aSS"  # Carl
+			"√Ws|S"  # Emil
+			"VÃë(É"  # Fritz
+			"<h»T∑V"  # Gerhard
+			"‰SØeTX+Y"  # Gustav
+			"»T…bS∑V"  # Harald
+			"®N∑VÃëKQ"  # Hendryk
+			"kç=Oyr"  # Herbert
+			"kçS¸f"  # Hermann
+			"¶ukç∆Y"  # Jochem
+			"löKQâs|)RâR"  # Maximiliam
+			"±É‡VóS∑V"  # Reinhold
+			"Pü<hVÃë∑V"  # Siegfried
+			"ÉlSyr"  # Walter
+			"Z…^"  # Wilhelm
+			"öNÜSqS'Y"  # Alexander
+			"âRpgO"  # Andrzej
+			"âRN<S"  # Antoni
+			"âRN<S™RØe"  # Antoninus
+			"öN&O"  # Aron
+			"ÙTSXb¿N"  # Bartosz
+			"ÙT^Xm*Øe"  # Bartolomeus
+			"ç∑VÃëkç"  # Bedrich
+			"V˜ñ∑VÃëKQ"  # Frederick
+			"‹bnf1mFz"  # Bezprzym
+			"^…b˝lO"  # Blazej
+			"^±É˝l"  # Blaise
+			"ZS	TØe…b+Y"  # Bogislaw
+			"ZSkç9N"  # Bohdan
+			"ZS<h9N"  # Bogdan
+			"=O·ws|S"  # Bohumir
+			"ZS±ÉØeÊt+Y"  # Boleslaw
+			"ZS±ÉØe…b+Y"  # Boleslav
+			"ZSÃëÉl"  # Boriwoj
+			"ZSÂe¶u+Y"  # Borijov
+			"ZSPüæèS"  # Bozydar
+			"leYæèyr"  # Theodat
+			"^…b<Ss|S"  # Branimir
+			"^…b<SØe…b+Y"  # Branislav
+			"^ÌpcRØe…b+Y"  # Bretislav
+			"^˜ñcRØe≥RØe"  # Bretislaus
+			"aSâs|S"  # Casimir
+			"cRyQZSS"  # Ctibor
+			"cRyQZSS"  # Ctibor
+			"Y+RØeÊt+Y"  # Dobieslaw
+			"∑V^ms|S"  # Dobromil
+			"∑VWœÇKQ"  # Drosuk
+			"ÍèyrÃëKQ"  # Dytryk
+			"ÇÑ√WÃë"  # Thierry
+			"VgPüGkKQ"  # Frantisek
+			"VgâØe"  # Francis
+			"†RÊóS"  # Gawel
+			"<hÌpbÂe"  # Grzegorz
+			"<h˜ñbÃë"  # Gregory
+			"»TÙuS"  # Havel
+			"†RbSØe"  # Gallus
+			"öN©ÇÇÑ"  # Jacenty
+			"wmÑSÓhØe"  # Hyacinth
+			"≈ñT^"  # Jakub
+			"≈ñì^¿N"  # Jakusz
+			"≈ñT=O"  # Jacob
+			"≈ñ™R¿N"  # Janusz
+			"¶u"  # John
+			"≈ñWlö"  # Jaromar
+			"öNWs|S"  # Jaromil
+			"öNWs|S"  # Jaromir
+			"≈ñWØe…b+Y"  # Jaroslav
+			"6wpg"  # Jedrzej
+			"‡V∑VÂekç"  # Jindrich
+			"®N)R"  # Henry
+			"OÂe"  # JirÌ
+			"TNªl"  # George
+			"¶umt+Y"  # Jozef
+			"¶umt+Y"  # Joseph
+			"2S)RLN¿N"  # Juliusz
+			"2S)RâR"  # Julian
+			"aS6wfW"  # Kajetan
+			"aSs|S"  # Kamil
+			"aSs|bSØe"  # Camillus
+			"aS˜ñS"  # Karel
+			"Âgt"  # Charles
+			"aSØe¿s"  # Kasper
+			"aSPüs|Âe"  # Kazimierz
+			"KQ)Ryr"  # Kliment
+			"KQ±ÉËïyr"  # Clement
+			"—yS¸f"  # Kolman
+			"—ym¸f"  # Koloman
+			"—yÖQS"  # Kornel
+			"—y<S)RLNØe"  # Cornelius
+			"KQ˜ñ^s|S"  # Kresimir
+			"KQÌpØe…b+Y"  # Krzeslaw
+			"KQÂe¿NXb+Y"  # Krzysztof
+			"KQÃëØeXbV"  # Christopher
+			"Rkç"  # Lech
+			"±É0åKQ"  # Leszek
+			"bSZSs|S"  # Lubomir
+			"bS(Élb"  # Lucjan
+			"bSÓOØe"  # Lucius
+			"bS∑VÙuKQ"  # Ludvik
+			"Ôçf"  # Louis
+			"lö˜ñKQ"  # Marek
+			"löì^Øe"  # Marcus
+			"löÃëâR"  # Marian
+			"löÃëLNØe"  # Marius
+			"löN"  # Martin
+			"löyrLN¿N"  # Mateusz
+			"löÓO"  # Matthew
+			"Öh¿N—y"  # Mieszko
+			"s|—y…b¿N"  # Mikol·s
+			"<S‰S…bØe"  # Nicholas
+			"s|WØe…b+Y"  # Miloslaw
+			"s|m¿N"  # Milosz
+			"s|WØe…b+Y"  # Miroslaw
+			"∆YØePüØe…b+Y"  # Mscislaw
+			"∆YØecRØe…b+Y"  # Mstislav
+			"∆YØePüÉlO"  # Msciwoj
+			"eYS∑VÃë^"  # Oldrich
+			"LNSÃë^"  # Ulrich
+			"¡∑V˜ñ"  # Ondrej
+			"âR∑VÅú"  # Andrew
+			"eYXbaSS"  # Otokar
+			"^yr˜ñKQ"  # Patryk
+			"^yrÃëKQ"  # Patrick
+			"^ÙuS"  # Pawel
+			"›OW"  # Paul
+			"|VóV"  # Piotr
+			"|VóV"  # Peter
+			"nf&OYTX"  # Prendota
+			"nfÌpÖh^S"  # Przemysl
+			"nfÌpÖh^S"  # Premysl
+			"nfÂeçØe…b+Y"  # Przybyslaw
+			"…bYs|S"  # Radomil
+			"…bYs|S"  # Radomir
+			"…bYØe…b+Y"  # Radoslav
+			"WØe–cØe…b+Y"  # Rostislav
+			"˜ñôlS∑V"  # Ryszard
+			"tÂg∑V"  # Richard
+			"QhZS"  # Sambor
+			"0t+RØe…b+Y"  # Sobieslav
+			"0tçØe≥RØe"  # Sobeslaus
+			"ØefW<SØeÊt+Y"  # Stanislaw
+			"ØeTXyQ"  # Strasz
+			"ØeÙuXbçKQ"  # Swietopelk
+			"ØeÊtXbnfbSKQ"  # Svatopluk
+			"^)nXbØeÊt+Y"  # Swietoslaw
+			"ØeÙuöNXbØe…b+Y"  # Sviatoslav
+			"¿NRXo"  # Szczepan
+			"ØeÇÑ¨Ç"  # Stephen
+			"¿N4tØeÖQ"  # Szczesny
+			"âôÑ"  # Szymon
+			"TX∑VLN¿N"  # Tadeusz
+			"leYYS"  # Theodore
+			"Xblö¿N"  # Tomasz
+			"Xblö"  # Thomas
+			"LNæèSÃë^"  # Udalrich
+			"LNSöN¿N"  # Urjasz
+			"ÉlOyrkç"  # Vojtech
+			"?ñSçyr"  # Albert
+			"Êt(É…b+Y"  # Waclaw
+			"Êt&OÇÑ"  # Walenty
+			"Êt&ON"  # Valentin
+			"V…bÍèØe…b+Y"  # Wratislaw
+			"V…bcRØe…b+Y"  # Vratislav
+			"Êt+YÂeÖm(É"  # Wawrzyniec
+			"≥R&OØe"  # Laurence
+			"áe«ëØe…b+Y"  # Wenceslaw
+			"Êt(É…b+Y"  # Vaclav
+			"áeëSÇÑ"  # Wincenty
+			"áeÓhyr"  # Vincent
+			"ÙuyQ…b"  # Wizlaw
+			"ÊtÍèØeÊt+Y"  # Wladyslaw
+			"Él∑VKQ"  # Wlodek
+			"ÉlmyQs|SyQ"  # Wlodzimierz
+			"ÉlPüØeÊt+Y"  # Wlodzislaw
+			"V…bÍèØe…b+Y"  # Wratislaw
+			"yQ‘k<hÖm+Y"  # Zbigniew
+			"yQçÖQKQ"  # Zbynek
+			"yQpgÖQKQ"  # Zdenek
+			"˙WØe…b+Y"  # Zdislav
+			"Pü<hôÑyr"  # Zygmunt
+			"â<hôÑ∑V"  # Sigmund
+		}
+		female_names = {
+			"†R^Ãë√W…b" 	# Gabriela
+			"wm&OZ" 	# Helena
+			"≈ñ<SZ" 	# Janina
+			"?ñ<hÖm¿NaS" 	# Agnieszka
+			"?ñ<hÖmN" 	# Agnes
+			"?ñSyQçTX" 	# Alzbeta
+			"âR∑V…b" 	# Andela
+			"âRZ" 	# Anna
+			"çSTX" 	# Berta
+			"ZS·wØe…bZ" 	# Bohuslava
+			"ZSÌpZ" 	# Bozena
+			"^…b<SØe…bZ" 	# Branislava
+			"æè<hõs" 	# Dagmar
+			"æè™RTX" 	# Danuta
+			"Y^…báÖ" 	# Dobravy
+			"Y^WÖm†R" 	# Dobroniega
+			"YWTX" 	# Dorota
+			"YÑâ" 	# Dorothy
+			"∑V…bbs|…b" 	# Dragomira
+			"√WÍèTX" 	# Edyta
+			"√WZ" 	# Ewa
+			"÷v…b" 	# Geira
+			"<hSyr2óæè" 	# Gertruda
+			"<hyr2ó∑V" 	# Gertrude
+			"<h…bPüZ" 	# Gracja
+			"<h…bPüZ" 	# Grazyna
+			"»T)RZ" 	# Halina
+			"IlZ" 	# Hanna
+			"OåÖZ" 	# Irena
+			"OéÉç…b" 	# Izabela
+			"≈ñ∑VÙu	V" 	# Jadwiga
+			"≈ñSaS" 	# Jarka
+			"ZSs|…b" 	# Jarmila
+			"¶upQTX" 	# Jolanta
+			"2SÇÑTX" 	# Judyta
+			"1gÍèN" 	# Judith
+			"aSs|…b" 	# Kamila
+			"aSTX3tZ" 	# Katarina
+			"ÔQmt3t" 	# Catherine
+			"ØwZ" 	# Kenna
+			"ÔgSHYâÉöN" 	# Kornelia
+			"KQ˜ñØeÇÑZ" 	# Krystyna
+			"KQÃëØeÇÑZ" 	# Christina
+			"KQ^X<SöN" 	# Ksenia
+			"âÉÍèöN" 	# Lidia
+			"bS∑Vs|…b" 	# Ludmila
+			"õs<hæè" 	# Magda
+			"õs<hæè±ÉZ" 	# Magdalena
+			"õs<hæè±ÉZ" 	# Magdalena
+			"õs<hæè±ÉZ" 	# Magdalena
+			"õsS<hNbTX" 	# Malgorzata
+			"lö^X)RZ" 	# Marcelina
+			"õs)RöN" 	# Maria
+			"õsSÔQTX" 	# MarkÈta
+			"löNZ" 	# Martyna
+			"õswcZ" 	# Mateja
+			"õsÇÑSæè" 	# Matylda
+			"õsÇÑSæè" 	# Matilda
+			"s|R±ê" 	# Milena
+			"s|mØe…bZ" 	# Miroslava
+			"iOkçZ" 	# Pechna
+			"WéÉ" 	# RÛza
+			"…bYs|…b" 	# Radomila
+			"…bYs|…b" 	# Radomira
+			"…bYØe…bZ" 	# Radoslava
+			"˜ñZ" 	# Raina
+			"·wpg3tæè" 	# Regelinda
+			"åÖkçNb" 	# Rycheza
+			"(ÑmÖhZ" 	# Salomea
+			"^ÖhkçZ" 	# Smiechna
+			"ØefW<SØe…bZ" 	# Stanislava
+			"Øeyr·Q≥u" 	# Stefana
+			"ØeÇÑ¨ÇÆY" 	# Stephania
+			"ØeÙuyr…bZ" 	# Svetlana
+			"LNSÇ…b" 	# Urszula
+			"Êt(É…bZ" 	# V·clava
+			"V…bÍèØe…bZ" 	# Vladislava
+			"áÖ…b" 	# Wera
+			"ÉlOØeÊtZ" 	# Wojslawa
+			"yQ∑V<SaS" 	# Zdenka
+			"0tÚÉZ" 	# Zofia
+			"yQÙu<SØeÊtZ" 	# Zwinislawa
+		}
+		dynasty_names = {
+			"ØQ KQóg—y+Y" 	# von Klinckow
+			"ØQ nfyraSÿû" 	# von Puttkamer
+			"ØQ ÙTÖQ—y+Y" 	# von Barnekow
+			"ØQ ÀeyrpQ(É" 	# von Strantz
+			"<hÃë¨Ç" 	# Gryf
+			"ÙuyQ…bÙu" 	# Wizlawid
+			"ØQ KQ…b0t+Y" 	# von Krassow
+			"ØQ ∑V pQØw" 	# von der Lancken
+			"ØQ ÀeÃë¨Ç" 	# von Schlieffen
+			"ØQ ¿N*góg" 	# von Schwerin
+			"ØQ ÇÅR" 	# von Schˆning
+			"ØQ œÇ∆Y" 	# von Suhm
+			"ØQ löSp" 	# von Maltzahn
+			"ØQ çm+Y" 	# von Below
+			"ØQ ^)RKQÓh" 	# von Blixen
+			"ØQ ZSSKQ" 	# von Borcke
+			"ØQ ^9h»T9h" 	# von Buggenhagen
+			"ØQ ¸fNñÚÉS" 	# von Manteuffel
+			"ØQ —yØeNyr" 	# von Corswant
+			"ØQ Øeyr…b&Owm∆Y" 	# von Stralenheim
+			"ØQ ∑VÙu(É" 	# von Dewitz
+			"ØQ nf&O" 	# von Preen
+			"ØQ ‚l∑VÙuSØe" 	# von Podewils
+			"ØQ V±Éf" 	# von Flemming
+			"ØQ nf…b’n" 	# von Platen
+			"ØQ ˙ãOi`˙WtQ" 	# von Neuenkirchen
+			"ØQ byrç<h" 	# von Gottberg
+			"ØQ »TKQÙu(É" 	# von Hackewitz
+			"ØQ ®N<S^Øe" 	# von Hennigs
+			"yrpQ¿s" 	# Trampe
+			"ØQ kç(Éç<h" 	# von Hertzberg
+			"ØQ wmâv" 	# von Heyden
+			"ØQ aSÖhKQ" 	# von Kameke
+			"ØQ KQ±ÉØeyr" 	# von Kleist
+			"≥u(Éÿû" 	# Natzmer
+			"ØQ Pünfóg" 	# von Zepelin
+			"ØQ bØeXb+YØe˙W" 	# von Gostowski
+			"ØQ ÊtØw<S(É" 	# von Wakenitz
+			"ØQ LN˝lY∆Y" 	# von Usedom
+			"˛Vi`" 	# Thun
+			"ØQ TXâv" 	# von Thadden 	# CKII
+			"<hÃëÚÉTX" 	# Gryfita
+			"yQ ‚l´É^t" 	# z Pomorza
+			"<hÂelö…b" 	# Grzymala
+			"öNØeyrÌp‘kGY" 	# Jastrzebiec
+			"Åú‘k(É" 	# Lubicz
+			"≥u±É(É" 	# Nalecz
+			"Øe…bZaS" 	# Slaweka
+			"˝l ØefknfØeKQ" 	# ze Slupska
+			"<hÖmÉl¿N" 	# Gniewosz
+		}
+	}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,134 @@
+﻿l_english:
+ EDG_IRE_mission_3_1_title:0 "Î˜è–„˜eg"
+ EDG_IRE_mission_3_1_desc:0 "êÎN^yrÌ‘KQßuN1rSpQv^ R•Q:N1rSpQóØš‹såNegÿ±²êåN:N=f„v5Ïe1SNQ,TÎNóØš‹s„v‹TäNÿlwVËYTê:N?ev^(WÇ»S„vöeô•…QN­e„vlQVÍSùRóØš‹s„v?eVrÿ–NwóØš‹sNÖNìN„v²QzN­eGSµuÿN:W-^wSte*N1rSpQ„v'YÛSqNmNë(W	wkwÿw(WdkKNMRbìNÅV‰˜HQYt‹YYè„v‹N¡R0"
+ EDG_IRE_mission_3_1.effect.tt:0 "bìNSNNb	g„v§Y¿RLe§!Œr¢‹§TjPbOSšR§!\n"
+
+ EDG_IRE_mission_3_2_title:0 "ýQâwøvIe"
+ EDG_IRE_mission_3_2_desc:0 "±²êåN:N=f„v'Y5ÏeòTÏuùRóØš‹s1Y»SwÃVv^ícÿzww†NÿbìNÅV‰˜©‹ÖNìN²‹Æ‹0RêñT„v0WMOÿNº‹=fåNUOÍy¹eVÿbìNý—‰©‹ÖNìN·QY—Negv^©‹ÖNìNaÆ‹0RÿWLhNêS	gN7hNïSb:„vN‰ÿ"
+
+ EDG_IRE_mission_3_3_title:0 "s^3z*‚Lˆ"
+ EDG_IRE_mission_3_3_desc:0 "ÛSqNÈuŽN«ˆ‰|Žx†Nÿ=föeP©‹NRÞVRVckh†Nÿ"
+ EDG_IRE_mission_3_3.condition.tt:0 "§Y1rSpQ…Qb§!òTÏuÓumg"
+ EDG_IRE_mission_3_3.monarchy.tt:0 "bìNNbåb	g„vNb	gwýN1Y»S§Y10§!ê»l¦^\n"
+ EDG_IRE_mission_3_3.effect.tt:0 "å‹ûN¡R§TVY±R§!ÖS³QŽNbìNÓumg§Y1rSpQ…Qb§!öeZPúQ„v§T	éb§!\n"
+ EDG_IRE_mission_remove_core.effect.tt:0 "ˆm»S§Y1rSpQ›S§!0W:SNb	g§YvQÖNýV¶R§!„v§T8hÃV§!\n"
+
+ EDG_IRE_mission_3_4_title:0 "»yÃV»y·V"
+ EDG_IRE_mission_3_4_desc:0 "Ï‚<hpQ‹sýVN1rSpQ‹sýVnn‡˜ñmÿFOtSgTp0R†NÙNek0•ENåNeg„v„v²QzO—VbìNNïSýwQNÖNìNðyDQSVÿ‹†6qbìN„vžR›RÍN(WÏ‚<hpQNñ‚<hpQ‹sýVKNNÿFOÖNìNmNÝuNïSýw‰f„vQ!kVg1rSpQÿTöewQ†0R°s(WbìN„v–™ýASR`—ÑMR¿uÿàVdkbìN—‰wQ†Áýbw RúVbìN–™ý0"
+ EDG_IRE_mission_3_4.condition.tt:0 "SV§Y[4121.GetName]§!=f@IRE§Y[Root.GetName]§!„v§T–™ý§!öeÿSOæ‰ÑS‹NöN§T0?–S¯eyrO®‹0§!\n"
+ EDG_IRE_mission_3_4_fort.effect.tt:0 "å‚§Y[4378.GetName]§!åb	g§TÎW!X§!N§Y[4121.GetName]§!¡l	g§TÎW!X§!ÿRS§Y[4378.GetName]§!wýN„vÎW!X§Tûy¨R§!0R§Y[4121.GetName]§!\n"
+
+ EDG_IRE_mission_3_5_title:0 "uQLˆi–Nw"
+ EDG_IRE_mission_3_5_desc:0 "ó`‰ckb—ûQ%Ï‚<hpQ‹sýV=fASRðV¾–=f‹NÅ`ÿFObìNNbb—4N„vðVƒXmNNAQ¸‹bìNQûRBlÖNÕlÿ=U	gIN¨R„vÛIeMbýwYSb4x°s(W„võPNSÿ"
+ EDG_IRE_mission_3_5.condition.tt:0 "å‹ûN¡R„v§Y˜YagöN§!ÖS³QŽNbìN(W‹NöN§T0&O¯eyrTwT0§!SV-N„v	éb"
+ EDG_IRE_mission_3_5_event.effect.tt:0 "SV@SCO§Y[SCO.GetName]§!XR(WöeÿSOæ‰ÑS‹NöN§T0èÇ1rSpQwm0§!\n"
+
+ EDG_IRE_mission_3_7_title:0 "ZWÅkTùSŒ"
+ EDG_IRE_mission_3_7_desc:0 "b‰N„vRekÜw)RNãNhˆNwbìNýwY‰cåN‰ÃVÿ3zekT?–SÔki`y0W¨cÛMb=fgfzf„v	éb0"
+
+ EDG_IRE_mission_3_6_title:0 "Î˜4t `lb"
+ EDG_IRE_mission_3_6_desc:0 "N:Wc‘EuËmo„v'YÜwÿbìNûQ%†NÏ‚<hpQºNÿ¥cNegå‹n0RbìNoOY^SŽNêñT„vPNòf†Nÿ"
+ EDG_IRE_mission_3_6.event.effect.tt:0 "SV@SCO§Y[SCO.GetName]§!§TNXR(W§!NbìNåb	gwýN§Y[248.GetName]§!öeÿSOæ‰ÑS‹NöN§T0Ï‚<hpQ‹s Q0§!\n"
+ EDG_IRE_mission_3_6.give_cb_annex.effect.tt:0 "SV@ENG§Y[ENG.GetName]§!XR(WöeÿbìNS·ƒ—Vˆ”ùR@ENG§Y[ENG.GetName]§!„v§TTv^§!b‰NPãS\n"
+
+ EDG_IRE_mission_3_8_title:0 "Âró`ÈuPNàz"
+ EDG_IRE_mission_3_8_desc:0 "Îv<hœ-’dKQºN„vöeãN‰V•^Óumg†Nÿ°s(WêS	gbìNÿ1rSpQóØš‹sMb=f?–SÔki`=UN„výV‹sÿ"
+ EDG_IRE_mission_3_8.event.tt:0 "SV@ENG§Y[ENG.GetName]§!§TNXR(W§!NbìNåb	gwýN§Y[236.GetName]§!ÿSOæ‰ÑS‹NöN§T0ñ‚<hpQ‹s Q0§!\n"
+
+ EDG_IRE_mission_3_9_title:0 "áàKN›S"
+ EDG_IRE_mission_3_9_desc:0 "áàKN›Sÿ?–SÔki`KNN„vfàsÿÖNS(WbìN„vßu»lKNNOçeê•wÿ q qu‰ÿv^(WKNT„vSgSV-NqÑSÃRÃRu:g..."
+
+ EDG_IRE_mission_3_10_title:0 "OYÍT?–SÔki`"
+ EDG_IRE_mission_3_10_desc:0 "ÎNp‚¾–BlXR0RßuNte*N²›SÿbìN„v0NŸROéuÅVS«ˆTNT8n×‹ºNNbTTÞõuCSt^0©‹bìNØšðXoOYÿåNg:NípÈp„v†^xQÎeg²›S„v°euÿw¡rÎ˜4tSOYÍTÙ²›Sg:NOÅ–NäSw„vTðy?–SÔki`ÿ"
+ EDG_IRE_mission_3_10.effect.tt:0 "bËz@ABN§Y[ABN.GetName]§!§YNQ‰Bl§!§TLˆ?eÑyŽb§!Irµu\n"
+ EDG_IRE_mission_3_10.new.effect.tt:0 "1uŽNbìN§YTöeåb	g§!îOck§T0Ï‚<hpQ‹s Q0§!,§T0ñ‚<hpQ‹s Q0§!,§T01rSpQ‹s Q0§!ÿbËz@ABN§Y[ABN.GetName]§!öebìNSæ‰ÑS‹NöN§T0?–S¯eyrTwT0§!\n"
+ EDG_IRE_mission_3_10.event.effect.tt:0 "ŒRbå‹ûN¡Röe‚YœgbìN§YTöeåb	g§!îOck§T0Ï‚<hpQ‹s Q0§!,§T0ñ‚<hpQ‹s Q0§!,§T01rSpQ‹s Q0§!ÿRbËz@ABN§Y[ABN.GetName]§!öeÿSæ‰ÑS‹NöN§T0?–S¯eyrTwT0§!\n"
+
+
+ EDG_IRE_mission_1_1_title:0 "|V¸SKNó—"
+ EDG_IRE_mission_1_1_desc:0 "Ï‚<hpQNñ‚<hpQùRbìNN†Æ‰wwÿw1uŽNbìN•gøvùRdRËz„v0WtMOnÿvQÖNýV¶RùRbìN„vY²Nv^àeYStQ±0NÇ(WbìNùR¸S„vZSëX‹sýVN^RTX<SlQýVNbìNåb	gNwøvT„v.Obÿv^Nýb—4NNwøvT„vqS:gÿZSëX‹sýV„vYƒXNbìN‰|<OÿTöe«ˆ9Y(WÏ‚<hpQNñ‚<hpQKNô•ÿw^RTX<SlQýVRb—4NNwÕlpQ‰„vZÁw0<PdköeIRÿbìN	gÅV‰øv’N.^vbÿqQ¦^¾–sQ0"
+ EDG_IRE_mission_1_1.effect.tt:0 "9hncbìNT@WLS§YZSëX§!N@BRI§Y^RTX<S§!„v§TTßv§!eg·ƒ—V§TNT§!„v§YVY±R§!\n"
+ EDG_IRE_mission_1_1.remove_rival_effect.tt:0 "‚Yå‚@WLS§YZSëX§!b@BRI§Y^RTX<S§!Æ‰bìN:N§T¿RLe§!ÿ§Yûyd–§!ÖNìNùRbìN„v§T¿RLe§!\n"
+
+ EDG_IRE_mission_1_2_title:0 "™lNú^TX"
+ EDG_IRE_mission_1_2_desc:0 "KS¡rZSëXîvMRØ=fYŽNƒ:NìrËz„v¶r`ÿFOvQ(W*gegÅV6qS(Wñ‚<hpQNÏ‚<hpQKNô•ÛLˆ	ébÿ‚YœgbìNÙuˆNÖNìN,r	NÍy	ébÿ±HNNS¿RSpTôf RYBg„vÅ`ofÿwÙmN=fbìNNb?aaw0R„v0"
+ EDG_IRE_mission_1_2_create_alliance.effect.tt:0 "\n(W@WLS§YZSëX§!N@BRI§Y^RTX<S§!SV-Nÿ§YÏkN*N§!*gNbìNYŽN§TTßv§!„výV¶RSO±‚9bìN§Y50§!£dip£NvQ§TÓußv§!\n"
+ EDG_IRE_mission_1_2_remove_rival.effect.tt:0 "\n‚Yœg@WLS§YZSëX§!N@BRI§Y^RTX<S§!-N	gvQ-NN¹eÆ‰ùR¹e:N§T¿RLe§!ÿR§Yûyd–§!ÌS¹e„v§T¿RLesQû|§!\n"
+
+ EDG_IRE_mission_1_4_title:0 "óØškS–"
+ EDG_IRE_mission_1_4_desc:0 "(WÇ»Sÿ9eY³uÇRëX=f1rSpQgØšýV‹s„vkSëXÿt^‰„vbëXb:NNT9eY³u„vÇRëXSO=fNöN^—8^cƒw„v‹NÿFOwckýweQ	tSASRðV¾–09eY³uÇRëXúQ«Ž'Yýo‚‹YÿÙ7h„vºN(WKNT„vöeãNÌ‘«ˆðy:N‘šëX6–BSÿvQbXT-N	gNS=f°sûNèÏe–™†˜b*geg„vçubºN0w°s(WbìNmNSVËYÍ‘°e	ÔbÙ›NÇRëXÿÄuú^wN=e¾|•„vè–eg&^ÝO²bóØš‹sb&^†˜vQÖNè–N5–NgLe0"
+ EDG_IRE_mission_1_4.effect.tt:0 "bìNSýwÇ–cON–§YyrŠkcOuQ§!§T9eY³u‘šëXâV§!\n"
+
+ EDG_IRE_mission_1_7_title:0 "ñ‚Ä–^Ž×‹"
+ EDG_IRE_mission_1_7_desc:0 "©‹bìNØšðX^‚˜±›NÇRsàeOu„vñ‚Ä–ÿck=fÖNìN&^†˜Nw1rSpQ„v›Q–pT°e„vÜw)Rÿ"
+ EDG_IRE_mission_1_7.effect.tt:0 "‚YœgbìN§YŒRb§!†NûN¡R§T0Ç»SN*geg0§!ÿ§YZ^XKQ¯e§!0W:S„v§T‡eS§!SOlbc:N§Y·^ƒlS§!v^·ƒ—V§Y1§!§TúWNxºN›R§!\n"
+
+ EDG_IRE_mission_1_9_title:0 "Í‘þbçe¦h"
+ EDG_IRE_mission_1_9_desc:0 "©‹bìN2UwlO…QÃV„vçe¦hÿ`ãcNwN*NlÏeípR„vgüvÿþbÖSbìNþfÏu1Y»S„vcƒwÈT*gegÿ"
+ EDG_IRE_mission_1_9.event.effect.tt:0 "SV@BRI§Y^RTX<S§!=fbìN„v§Y^SýV§!öeÿSOæ‰ÑS‹NöN§T0'YNR ˜NSNR ˜0§!\n"
+
+ EDG_IRE_mission_5_1_title:0 "îh—gKNÃV"
+ EDG_IRE_mission_5_1_desc:0 "1rSpQJS›S„vDnv^N0NÌRÿbìNÅV‰˜EQR„v)R(uÙµ^N—rÌRv™„v›SSN:NpeNY„vDnÿwbìNgY„v¿O=f±N<wgN0R4Y„v(gPg†N0"
+ EDG_IRE_mission_5_1.effect.tt:0 "Nb	gYŽN§Y1rSpQ›S§!0W:SN0WbV:N§Th—g§!„vwýN·ƒ—V§Y1§!§TúWNxuµN§!\n"
+
+ EDG_IRE_mission_5_2_title:0 "grºNNir"
+ EDG_IRE_mission_5_2_desc:0 "1rSpQ„vllASRTgrIƒ„vu•ÿàVdkÍ‘=cgrlè•„v‰Q–k:WSýwY	gHeã‰bìN„vÏuNm¶rµQÿv^:NvQÖNµNN„vÑSUSú”‹YSï0"
+ EDG_IRE_mission_5_2.effect.tt:0 "ÎN§Y1rSpQ›S§!0W:SµNúQ§Trrju§!„vwýN"
+
+ EDG_IRE_mission_5_4_title:0 "Í‚à0‚–"
+ EDG_IRE_mission_5_4_desc:0 "bìN„vwm›Qv^¡l	gÏ‚<hpQNñ‚<hpQ±HN:V'YÿNÇ1SdkàVNVŸ^ß˜mN=fNïSÖS„vÿ=U	gÎN4YVËYbabaïy=tÿegåe¹e•0"
+
+ EDG_IRE_mission_5_7_title:0 "ÅwcOY1žòf"
+ EDG_IRE_mission_5_7_desc:0 "XNNwëXlØš¨mÿbìNt”^çuíuTNw?–SÔki`„vT*NÒ‰K„Û›QÿåNgd¯gÉbKgKN¿R‰V•^kbn±²N*XNûQ„vLeºNÿ"
+ EDG_IRE_mission_5_7.vassal_effect.tt:0 "SVbìNÇ§YY²NKbµk§!ŒRbå‹ûN¡RöeÿhQè§Yñ‚<hpQê1u^§!N@NFK§Y[NFK.GetName]§!SOæ‰ÑS‹NöN§T0ê»llQ¦u0§!ÿAQ¸‹bìN§TŒTs^D–¸^§!NðýV¶R\n\nSVbìNÇ§YVgKbµk§!ŒRbå‹ûN¡RöeÿSOæ‰ÑS‹NöN§T0WÉb·VÔYXTO0§!\n"
+
+ EDG_IRE_mission_5_9_title:0 "ß–,gÃV"
+ EDG_IRE_mission_5_9_desc:0 "©‹bìNß–ºNl„v	ébÿåNdkú”1SçuíuTMR„vSïÿNº‹áOðN‚YUOÿ1rSpQmNS4O–4tðXekeQ*geg0"
+ EDG_IRE_mission_5_9.effect.tt:0 "9hncbìNNb=T(u§TtõVÄu§!„vNTeg·ƒ—V§YNTVY±R§!\n"
+
+ EDG_IRE_mission_4_3_title:0 "úT²wºNl"
+ EDG_IRE_mission_4_3_desc:0 "Ç»S„v1rSpQÏu8^G0Re™RƒÎNwÛSqNÛVwÿw(W'Y›RÑSUS†NœQgrNKNTÿºNlÈuŽNýwY‚föe„vMQ»Se™RƒKNæ‚0"
+ EDG_IRE_mission_4_3.effect.tt:0 "§Y1rSpQ›S§!0W:SýS·ƒ—V§TNðîOck§!ÿTöe·ƒ—V§Y1§!§TúWNxz6e§!N§Y1§!§TúWNxºN›R§!\n"
+
+ EDG_IRE_mission_4_2_title:0 "ÏuNmúWNx"
+ EDG_IRE_mission_4_2_desc:0 "œQN=fÑSUSNR„vúWówÿ‹†6qáàKN›S„vw0Wv^NYÿFO:N†NÎNÇ»S„vTÍye™RƒNŒp¾–SV-Nb`YÿbìNÅV‰˜'Y›RÑSUSbìN	gP–„vœQN0"
+
+
+ EDG_IRE_mission_4_6_title:0 "‚wSÂrno"
+ EDG_IRE_mission_4_6_desc:0 "(WûQ%Ï‚<hpQKNTÿbìN„vnN—VåNTSçuíuib.VÿNÅVQÅbçVÖNìN„vR¾–†N0"
+ EDG_IRE_mission_4_6.event.effect.tt:0 "@NOR§Y[NOR.GetName]§!åb	gwýN§Y[369.GetName]§!öeÿSOæ‰ÑS‹NöN§T0-pNeYKQ<S0§!"
+
+ EDG_IRE_mission_4_8_title:0 ".OßuNØSi—"
+ EDG_IRE_mission_4_8_desc:0 "úWcwYe„v.OeQO—V1rSpQÎNèK„öegTSú^SlØSÿFO–Nwöeô•„v¨cûyÿsS¿OˆRçe‚Ywm›SúWcwYe„vÐg›NYeINÿmNO²‹nWlšYe÷^KNT±P%„vb—îvÿbìNÅV‰˜(W°e„vöeãNZPúQ^SŽNbìN„v	éb0"
+ EDG_IRE_mission_4_8.effect.tt:0 "bìNNb	g„v§Y^SýV§!ýSˆvObìN„v§TýVYe§!\n"
+
+
+ EDG_IRE_mission_4_10_title:0 "íu™Q°e„vÇràz"
+ EDG_IRE_mission_4_10_desc:0 "SïòT6qf†Nÿ©‹bìN.VV`±bÿ`ãcNwT†Ú‹NípÚ‹TNw*gegMRÛÿçuíufN™Q^SŽNbìN„v.OGYÇràz0"
+ EDG_IRE_mission_4_10.effect.tt:0 "9hncbìNŒRb§TûN¡RagöN§!„vNTeg·ƒ—V§YNTVY±R§!\n"
+
+
+ EDG_IRE_mission_2_2_title:0 "TXNBS™l"
+ EDG_IRE_mission_2_2_desc:0 "^RTX<SlQýVNôvý×S0RÕlpQ‰„vZÁwÿwÏ‚<hpQNÕlpQ‰„vwTßvO—VbìNýwY	gEQ³„vt1uÐcúQN^RTX<SlQýV„vßv¦ubìN6RaˆÏ‚<hpQÿÖNìNb—ùRÕlpQ‰0"
+ EDG_IRE_mission_2_2.fra.condition.tt:0 "Ç§Y9e„UsQû|§!óS·ƒ—V†NN@FRA§Y[FRA.GetName]§!§T50§!„vsQû|ÐcGS"
+ EDG_IRE_mission_2_2.eng.condition.tt:0 "Ç§Y9e„UsQû|§!óS·ƒ—V†NN@ENG§Y[ENG.GetName]§!§T50§!„vsQû|ÐcGS"
+
+ EDG_IRE_mission_2_3_title:0 ")RÊvKNßv"
+ EDG_IRE_mission_2_3_desc:0 "N*NN3zúV„v	NÒ‰Twßv1Sdk(WwmNbVbÿKS¡r)RÊvOüRôßv¦um0RNû|R„vÌwÛSN»yVÿFOTöeÖNmNýwYëVâVÓuwûNUO	gu›RÏ‘0"
+ EDG_IRE_mission_2_3.effect.tt:0 "SVbìNTöeŒT@WLS§YZSëX§!N@BRI§Y^RTX<S§!YŽN§TTßv§!¶r`öeÿSOæ‰ÑS‹NöN§T0&O¯eyrTwT0§!\n"
+ EDG_IRE_mission_2_3_break_effect.tt:0 "SV@SCO§YÏ‚<hpQ§!N@WLS§YZSëX§!b@BRI§Y^RTX<S§!YŽN§TTßv§!¶r`öeÿSûyd–@SCO§YÏ‚<hpQ§!N@WLS§YZSëX§!b@BRI§Y^RTX<S§!„v§Tßv¦u§!\n"
+
+ EDG_IRE_mission_2_6_title:0 "4xéwKN‚"
+ EDG_IRE_mission_2_6_desc:0 "bìNòTÏuTvQÖNºNÁ‹f†NêñTÿÏ‚<hpQv^^—NïSbÜw„vÿ°s(Wn0RÖNìNÁ‹fêñT†Nÿ"
+ EDG_IRE_mission_2_6.condition.tt:0 "å‹ûN¡R„v§Y˜YagöN§!ÖS³QŽNbìN(W‹NöN§T0&O¯eyrTwT0§!SV-N„v	éb"
+ EDG_IRE_mission_2_6.effect.tt:0 "æ‰ÑS‹NöN§T0&O¯eyrTwT0§!KNTÿSV@WLS§YZSëX§!b@BRI§Y^RTX<S§!XR(WN=f§YìrËzýV¶R§!v^NbìNYŽN§TTßv§!¶r`öeÿSOæ‰ÑS‹NöN§T0TwTag‹O0§!\n"
+
+ EDG_IRE_mission_2_8_title:0 "Ç»SN*geg"
+ EDG_IRE_mission_2_8_desc:0 "Ç»S„vïQSyrºN³ùM^te*N'k2mÿØ	gèRµb¾†N‰R³uXb)RšNJS›Sÿw°s(WÿceK„(WT0W„vïQSyrºNòTåRåRàeàQÿbHSESŽNÒ‰K„KNNÿbˆm1Y†kKS0mN¸‹bìN—‰N!kØSi—ÿ2UwºNlbìNÇ»S„vcƒw0"
+ EDG_IRE_mission_2_8.event.effect.tt:0 "SVÏ‚<hpQNXR(WöeÿSOæ‰ÑS‹NöN§T0'YïQSyrININ0§!\n"
+
+ EDG_IRE_mission_2_10_title:0 "ÏcØu'YïQSyr"
+ EDG_IRE_mission_2_10_desc:0 "*geg=fN.Vzz‹v„vIuwSÿ1rSpQR=fIuKbÿÇ»S„vÍyÍy.OGYNcƒ‰ŠýS«ˆbìN(W*gegNNÏcØu0"
+ EDG_IRE_mission_2_10.effect.tt:0 "Nb	gYŽN§TïQSyr§!‡eSÄu„v§YwýN§!ýS·ƒ—VNð§YîOck§!ÿv^·ƒ—V§Y2§!§TúWNxuµN§!\n"
+
+

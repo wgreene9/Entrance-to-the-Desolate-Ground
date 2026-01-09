@@ -1,0 +1,237 @@
+﻿l_english:
+EDG_BOH_regent_modifier:0 "Dd?e®‹O"
+EDG_BOH_regent_ruler:0 "Dd?e‹s"
+EDG_BOH_regent_ruler_consort:0 "Dd?e‹sM‘vP"
+
+ EDG_al-Wali_nation:0 "æt)RýV"
+ EDG_al-Wali:0 "æt)R"
+ EDG_al-Wali_CONSORT:0 "æt)RM‘vP"
+ EDG_TAIFADenomination:0 "ðlÕlýV"
+ EDG_TAIFA:0 "ðlÕl"
+ EDG_TAIFA_CONSORT:0 "ðlÕlM‘vP"
+ EDG_Caliphate:0 "ÈTÌ‘ÑS"
+ EDG_Caliphate_NATION:0 "ÈTÌ‘ÑSýV"
+ EDG_Caliphate_CONSORT:0 "ÈTÌ‘ÑSM‘vP"
+ 
+ EDG_Shangbang:0 "FU.^?eCg"
+ EDG_BigShangbang:0 "'YFU.^?eCg"
+ EDG_GrandShangbang:0 "'YFU.^?eCg"
+ 
+ EDG_DAREN:0 "'YºN"
+ EDG_GEXIA:0 "–N"
+ EDG_ZHIZHENG:0 "gb?e"
+ EDG_DAREN_consort_male:0 "w7r"
+ EDG_DAREN_consort_female:0 "+YºN"
+ 
+ 
+ EDG_CN_Xungui_republic_name_1:0 "ËR5?eCg"
+ EDG_CN_Xungui_republic_name_2:0 "ËR5Sú^rRnc"
+ EDG_CN_Xungui_republic_name_3:0 "›Q–TwT"
+ EDG_CN_Squire_republic_name_1:0 "aNÅu?eCg"
+ EDG_CN_Squire_republic_name_2:0 "aNÅuSú^rRnc"
+ EDG_CN_Squire_republic_name_3:0 "-NNSlýV"
+ EDG_Xungui_name_1:0 "ËR–"
+ EDG_Xungui_name_2:0 "'YËR–"
+ EDG_Xungui_name_3:0 "›Q–†˜–ˆ"
+ 
+ 
+ EDG_China_celestial_empire:0 ")Yg"
+ EDG_China_celestial_emperor:0 ")YPR"
+ EDG_China_celestial_consort_male:0 "‡v+Y"
+ EDG_China_celestial_consort_female:0 "‡vT"
+ EDG_China_celestial_prince:0 "*YPR"
+ EDG_China_celestial_princess:0 "*YsY"
+ 
+ 
+ EDG_NOV_KNIAZ:0 "CSºN•"
+ EDG_SMO_republic_1:0 "ýVl?eCg"
+ EDG_SMO_republic_2:0 "ýVlqQŒTýV"
+ EDG_SMO_republic_3:0 "ýVlýV¶R"
+ EDG_marshal_title:0 "'YCQ^"
+ EDG_EDG_military_junta_republic:0 "ìrÁˆ›Q?eœ^"
+ 
+EDG_Markgraf_state_name:0 "¹ƒX/OýV"
+EDG_Markgraf:0 "¹ƒX/O5r"
+EDG_Markgraf_female:0 "sY¹ƒX/O5r"
+ #
+EDG_Landgraf_state_name:0 "†˜0W/OýV"
+EDG_Landgraf:0 "†˜0W/O5r"
+EDG_Landgraf_female:0 "sY†˜0W/O5r"
+
+EDG_Marquis_state_name:0 "¯OýV"
+EDG_Marquis:0 "¯O5r"
+EDG_Marquis_female:0 "sY¯O5r"
+
+EDG_Mahdi_rank_name:0 "lškêýV"
+EDG_Mahdi_ruler_name:0 "lškê"
+EDG_Mahdi_ruler_consort_name:0 "lškêM‘vP"
+
+EDG_CN_Frontier_Command_republic_name:0 "ý²bœ^"
+EDG_CN_Frontier_Command_republic_ruler_name:0 "ý²b"
+EDG_CN_Frontier_Command_republic_consort_name:0 "ý²bM‘vP"
+
+EDG_Bulgaria_viceroyalty_government_name:0 "^ýVI`cw:S"
+EDG_Bulgaria_viceroyalty_government_ruler_name:0 "^ýVI`cw"
+EDG_Bulgaria_viceroyalty_government_consort_name:0 "^ýVI`cwM‘vP"
+
+EDG_philosopher_king_ruler_male_name_rank_1:0 "òTºNlQ5r"
+EDG_philosopher_king_ruler_male_name_rank_2:0 "òTºN‹s"
+EDG_philosopher_king_ruler_male_name_rank_3:0 "óØšòTºN‹s"
+
+EDG_philosopher_king_ruler_female_name_rank_1:0 "sYòTºNlQ5r"
+EDG_philosopher_king_ruler_female_name_rank_2:0 "sYòTºN‹s"
+EDG_philosopher_king_ruler_female_name_rank_3:0 "sYóØšòTºN‹s"
+
+EDG_Ambrose_Philosopher_Council_ruler_name_rank_1:0 "–™-^òTºN"
+EDG_Ambrose_Philosopher_Council_ruler_name_rank_2:0 "S5–™-^òTºN"
+EDG_Ambrose_Philosopher_Council_ruler_name_rank_3:0 "O'Y–™-^òTºN"
+
+EDG_Military_Dictatorship_Philosopher_Council_rank_name_1:0 "›Q‹NìrÁˆ?eœ^"
+EDG_Military_Dictatorship_Philosopher_Council_rank_name_2:0 "S5›Q‹NìrÁˆ?eœ^"
+EDG_Military_Dictatorship_Philosopher_Council_rank_name_3:0 "O'Y›Q‹NìrÁˆ?eœ^"
+
+EDG_Military_Dictatorship_Philosopher_Council_ruler_name_rank_1:0 "òTºNÝO²bw"
+EDG_Military_Dictatorship_Philosopher_Council_ruler_name_rank_2:0 "S5òTºNÝO²bw"
+EDG_Military_Dictatorship_Philosopher_Council_ruler_name_rank_3:0 "O'YòTºNÝO²bw"
+
+
+EDG_ottoman_vassals_postscript_rank_name:0 "Lˆw"
+EDG_ottoman_vassals_postscript_ruler_name:0 "LˆwI`cw"
+
+EDG_Shahanshah_rank_name:0 "™lWl™l?–ýV"
+EDG_Shahanshah_ruler_name:0 "™lWl™l?–"
+
+EDG_SAV_oligarchy_reform_name_1:0 "lQ>y"
+EDG_SAV_oligarchy_reform_name_2:0 "'YlQ>y"
+EDG_SAV_oligarchy_reform_name_3:0 "lQ>yTw¦"
+
+EDG_SAV_oligarchy_reform_ruler_1:0 "ÔYXT•"
+EDG_SAV_oligarchy_reform_ruler_2:0 "'YÔYXT•"
+EDG_SAV_oligarchy_reform_ruler_3:0 "Tw¦ÔYXT•"
+
+
+
+EDG_Cathar_Church_reform_name_1:0 "#W­^"
+EDG_Cathar_Church_reform_name_2:0 "'Y#W­^"
+EDG_Cathar_Church_reform_name_3:0 "óN#W­^"
+
+EDG_Cathar_Church_reform_ruler_1:0 "•w"
+EDG_Cathar_Church_reform_ruler_2:0 "'Y•w"
+EDG_Cathar_Church_reform_ruler_3:0 "óN•w"
+
+EDG_Cathar_Church_reform_heir_male:0 "#W<yøSÎ”"
+
+EDG_Lombardy_Philosopher_Council_name_king:0 "a'Y)R‹soR"
+EDG_Lombardy_Philosopher_Council_name_Queen:0 "a'Y)RsY‹soR"
+EDG_Lombardy_Philosopher_Council_name_KINGDOM:0 "a'Y)R‹soR†˜0W"
+
+
+EDG_slovene_Markgraf_state_name_1:0 "²N‹sýV"
+EDG_slovene_Markgraf_state_name_2:0 "‹sýV"
+EDG_slovene_Markgraf_ruler_male_1:0 "²N‹s"
+EDG_slovene_Markgraf_ruler_female_1:0 "sY²N‹s"
+EDG_slovene_Markgraf_ruler_male_2:0 "ýV‹s"
+EDG_slovene_Markgraf_ruler_female_2:0 "sY‹s"
+
+EDG_Germanic_Archbishop_state_name:0 "I`INYe:S"
+EDG_Germanic_Archbishop_state_name_ruler_1:0 "hQåe3wüf–™-^'YINYe"
+EDG_Germanic_Archbishop_state_name_ruler_2:0 "hQåe3wüf–™-^'YINYe|Q^ýV°Røv"
+EDG_Germanic_Archbishop_state_name_ruler_3:0 "nfN'YINYe"
+
+EDG_HRE_Generalissimo_state_name_1:0 "lQýV|Q'YCQ^†˜0W"
+EDG_HRE_Generalissimo_state_name_2:0 "'YlQýV|Q'YCQ^†˜0W"
+EDG_HRE_Generalissimo_state_name_3:0 "^ýV"
+EDG_HRE_Generalissimo_name_ruler_male_1:0 "lQ5r|Q^ýV'YCQ^"
+EDG_HRE_Generalissimo_name_ruler_male_2:0 "'YlQ|Q^ýV'YCQ^"
+EDG_HRE_Generalissimo_name_ruler_male_3:0 "ïQ’d"
+EDG_HRE_Generalissimo_name_ruler_female_1:0 "sYlQ5r|Q^ýV'YCQ^"
+EDG_HRE_Generalissimo_name_ruler_female_2:0 "sY'YlQ|Q^ýV'YCQ^"
+EDG_HRE_Generalissimo_name_ruler_female_3:0 "ïQmt3t"
+
+
+EDG_HRE_Generalissimo_state_elector_name_1:0 "	^¯OýV|Q'YCQ^†˜0W"
+EDG_HRE_Generalissimo_state_elector_name_2:0 "	^¯OýV|Q'YCQ^†˜0W"
+EDG_HRE_Generalissimo_state_elector_name_3:0 "^ýV"
+EDG_HRE_Generalissimo_name_elector_ruler_male_1:0 "	^¯O|Q^ýV'YCQ^"
+EDG_HRE_Generalissimo_name_elector_ruler_male_2:0 "	^¯O|Q^ýV'YCQ^"
+EDG_HRE_Generalissimo_name_elector_ruler_male_3:0 "ïQ’d"
+EDG_HRE_Generalissimo_name_elector_ruler_female_1:0 "sY	^¯O|Q^ýV'YCQ^"
+EDG_HRE_Generalissimo_name_elector_ruler_female_2:0 "sY	^¯O|Q^ýV'YCQ^"
+EDG_HRE_Generalissimo_name_elector_ruler_female_3:0 "ïQmt3t"
+
+
+EDG_HRE_Archbishop_state_name:0 "I`INYe:S"
+EDG_HRE_Archbishop_state_name_ruler_1:0 "I`INYe"
+EDG_HRE_Archbishop_state_name_ruler_2:0 "I`INYe"
+EDG_HRE_Archbishop_state_name_ruler_3:0 "I`INYe"
+
+EDG_HRE_elector_Archbishop_state_name:0 "	^¯OI`INYe:S"
+EDG_HRE_elector_Archbishop_state_name_ruler_1:0 "I`INYe	^¯O"
+EDG_HRE_elector_Archbishop_state_name_ruler_2:0 "I`INYe	^¯O"
+EDG_HRE_elector_Archbishop_state_name_ruler_3:0 "I`INYe	^¯O"
+
+EDG_Italy_peasant_republic_rank_1:0 "ê1u†˜0W"
+EDG_Italy_peasant_republic_rank_2:0 "'YqQŒTýV"
+EDG_Italy_peasant_republic_rank_3:0 "gO'YqQŒTýV"
+
+EDG_Italy_peasant_republic_ruler_1:0 "†˜–ˆ|QˆR²bw"
+EDG_Italy_peasant_republic_ruler_2:0 "'Ygb?e˜R"
+EDG_Italy_peasant_republic_ruler_3:0 "'YI`ßu"
+EDG_German_peasant_republic_ruler_1:0 "®‹•"
+
+EDG_German_tiny_monastery_state_name_1:0 "îOSb–ýV"
+EDG_German_tiny_monastery_ruler_male_name_1:0 "îOSb–•"
+EDG_German_tiny_monastery_ruler_male_name_2:0 "'YîOSb–•"
+EDG_German_tiny_monastery_ruler_male_name_3:0 "'YîOSb–•"
+
+EDG_HSA_free_city_name_1:0 "'Yê1u^"
+EDG_HSA_free_city_ruler_male_1:0 "ÂS®‹•"
+
+EDG_DAN_Autonomous_City_name_1:0 "ê»lÎW^"
+EDG_DAN_Autonomous_City_name_2:0 "'Yê»lÎW^"
+EDG_DAN_Autonomous_City_name_3:0 "ê»lÎW^Twßv"
+EDG_DAN_Autonomous_City_ruler_name_1:0 "®‹•"
+EDG_DAN_Autonomous_City_ruler_name_2:0 "'Y®‹•"
+EDG_DAN_Autonomous_City_ruler_name_3:0 "Tw¦IN-^"
+
+
+EDG_zongdu_ruler_name:0 "I`cw"
+EDG_GPL_early_rank_name:0 "lQýV†˜0W"
+
+
+EDG_Germany_Confessor_republic_1_name:0 "^yCgqQŒTýV"
+EDG_Germany_Confessor_republic_2_name:0 "'Y^yCgqQŒTýV"
+EDG_Germany_Confessor_republic_3_name:0 "^yCgTw¦"
+EDG_Germany_Confessor_republic_ruler_1_name:0 "¾|îO#WºN"
+
+EDG_Fayoum_system_reform_name_1:0 "lš)RKQýV"
+EDG_Fayoum_system_reform_name_2:0 "'Ylš)RKQýV"
+EDG_Fayoum_system_reform_name_3:0 "SýlÆYlš)RKQýV"
+EDG_Fayoum_system_reform_name_3_2:0 "Fz¯efWåuSýV"
+
+EDG_Fayoum_system_reform_name_ruler_1:0 "lš)RKQ"
+EDG_Fayoum_system_reform_name_ruler_2:0 "'Ylš)RKQ"
+EDG_Fayoum_system_reform_name_ruler_3:0 "SýlÆYlš)RKQ"
+EDG_Fayoum_system_reform_name_ruler_3_2:0 "ÃWSÕlSlš)RKQ"
+
+EDG_Fayoum_system_reform_name_HEIR:0 "ætÒR¯e"
+EDG_Fayoum_system_reform_name_HEIR_3:0 "ƒlaSætÒR¯e"
+
+EDG_mamluks_reform_name_1:0 "›QâV"
+EDG_mamluks_reform_name_2:0 "lš)RKQýV"
+EDG_mamluks_reform_name_3:0 "'Ylš)RKQýV"
+
+EDG_mamluks_reform_name_ruler_1:0 "?–TX<h"
+EDG_mamluks_reform_name_ruler_2:0 "lš)RKQ"
+EDG_mamluks_reform_name_ruler_3:0 "'Ylš)RKQ"
+
+EDG_mamluks_reform_name_heir_1:0 "?–¯eTXyr"
+EDG_mamluks_reform_name_heir_2:0 "?–¯eTXyr"
+EDG_mamluks_reform_name_heir_3:0 "?–¯eTXyr"
+
+
+EDG_Regent_of_Ilkhan_rank_name:0 "OSWlDd?e?eœ^"
+EDG_Regent_of_Ilkhan_ruler_name:0 "ñgýV"
+
+EDG_Ilkhan_reform_rank_name:0 "NQœ`"
+EDG_Ilkhan_reform_ruler_name:0 "™lWl™l?–Nb	T`Wl"

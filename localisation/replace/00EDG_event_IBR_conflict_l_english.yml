@@ -1,0 +1,269 @@
+﻿l_english:
+#trigger
+EDG_great_power_rank_1_tooltip:0 "R:VIrµu:N§Y1§!"
+EDG_India_religion_conflict_flag:0 "pS¦^—RYe²Qz"
+#是伊比利亚本土国家的trigger
+EDG_IBR_conflict_trigger_tooltip:0 "/fVNSXR(W„vbïSbËz„v§YOÔk)RšN§!ýV¶R"
+
+#伊比利亚将进入xx状态
+EDG_flavor_IBR_badahuosi_tiaoyue_flag:0 "Fz¯e—gbŸRŒr¢‹†N§Y0ôTTXS'S¯e0§!ag¦u0"
+EDG_flavor_IBR_badahuosi_tiaoyue_flag_tooltip:0 "Fz¯e—gbŸRŒr¢‹†N§Y0ôTTXS'S¯e0§!ag¦u0"
+EDG_flavor_IBR_badahuosi_tiaoyue_flag_2_tooltip:0 "Fz¯e—g¡lýwbŸRŒr¢‹§Y0ôTTXS'S¯e0§!ag¦u0"
+EDG_flavor_IBR_laiang_tiaoyue_flag:0 "úWcw’VbŸRŒr¢‹†N§Y0±ƒf0§!ag¦u0"
+EDG_flavor_IBR_laiang_tiaoyue_flag_tooltip:0 "úWcw’VbŸRŒr¢‹†N§Y0±ƒf0§!ag¦u0"
+EDG_flavor_IBR_laiang_tiaoyue_flag_2_tooltip:0 "úWcw’V¡lýwbŸRŒr¢‹§Y0±ƒf0§!ag¦u0"
+
+
+set_EDG_IBR_religion_conflict_situation_1.tt:0 "§Y0OÔk)RšN·u‰N0§!SÛeQ§Y0:V6RŒTs^0§!¶r`0"
+set_EDG_IBR_religion_conflict_situation_2.tt:0 "§Y0OÔk)RšN·u‰N0§!SÛeQ§Y0ŒT0§!¶r`0"
+set_EDG_IBR_religion_conflict_situation_3.tt:0 "§Y0OÔk)RšN·u‰N0§!SÛeQ§R0't.V0§!¶r`0"
+set_EDG_IBR_religion_conflict_situation_4.tt:0 "§Y0OÔk)RšN·u‰N0§!SÛeQ§R0²Qz0§!¶r`0"
+set_EDG_IBR_religion_conflict_situation_5.tt:0 "§Y0OÔk)RšN·u‰N0§!SÛeQ§R0&q|p0§!¶r`0"
+#伊比利亚xx状态的全球修正
+EDG_flavor_IBR_religion_conflict_situation_1:0 "§Y0OÔk)RšN·u‰N0§!¶r`:N§Y0:V6RŒTs^0§!"
+EDG_flavor_IBR_religion_conflict_situation_2:0 "§Y0OÔk)RšN·u‰N0§!¶r`:N§Y0ŒT0§!"
+EDG_flavor_IBR_religion_conflict_situation_3:0 "§Y0OÔk)RšN·u‰N0§!¶r`:N§R0't.V0§!"
+EDG_flavor_IBR_religion_conflict_situation_4:0 "§Y0OÔk)RšN·u‰N0§!¶r`:N§R0²Qz0§!"
+EDG_flavor_IBR_religion_conflict_situation_5:0 "§Y0OÔk)RšN·u‰N0§!YŽN§R0&q|p0§!¶r`"
+EDG_flavor_IBR_badahuosi_tiaoyue_flag:0 "§Y0ôTTXS'S¯e0§!ag¦uòTÏuŒr¢‹"
+#伊比利亚xx状态的全球修正buff
+EDG_flavor_IBR_badahuosi_tiaoyue_modifier:0 "§Y0ôTTXS'S¯e0§!ag¦u"
+EDG_flavor_IBR_laiang_tiaoyue_modifier:0 "§Y0±ƒf0§!ag¦u"
+EDG_flavor_IBR_badahuosi_tiaoyue_modifier_desc:0 "bìNŒrr†NN*N(uåN2–kSVYe’V„vag¦uÿ(uåNžX:VbìN„v›Q‹NžR›R0"
+EDG_flavor_IBR_laiang_tiaoyue_modifier_desc:0 "bìNŒrr†NN*N(uåN2–kSVYe’V„vag¦uÿ(uåNžX:VbìN„v›Q‹NžR›R0"
+EDG_flavor_IBR_religion_conflict_situation_1_modifier:0 "§Y0OÔk)RšN·u‰N0§!¶r`:N§Y0:V6RŒTs^0§!"
+EDG_flavor_IBR_religion_conflict_situation_2_modifier:0 "§Y0OÔk)RšN·u‰N0§!¶r`:N§Y0ŒT0§!"
+EDG_flavor_IBR_religion_conflict_situation_3_modifier:0 "§Y0OÔk)RšN·u‰N0§!¶r`:N§R0't.V0§!"
+EDG_flavor_IBR_religion_conflict_situation_4_modifier:0 "§Y0OÔk)RšN·u‰N0§!¶r`:N§R0²Qz0§!"
+EDG_flavor_IBR_religion_conflict_situation_5_modifier:0 "§Y0OÔk)RšN·u‰N0§!YŽN§R0&q|p0§!¶r`"
+EDG_flavor_IBR_religion_conflict_situation_1_modifier_desc:0 "OÔk)RšNø‹ýV‰Blybkb‰NÿûNUOÑS¨Rb‰N„vLˆ:NýO«ˆ²‹:N/fNckIN„v0"
+EDG_flavor_IBR_religion_conflict_situation_2_modifier_desc:0 "OÔk)RšNJS›S„vNS¿RSNYŽNŒT¶r`ÿåb	gNTáOðN„vºNìNƒ:NŒTŒ0WqQXR0"
+EDG_flavor_IBR_religion_conflict_situation_3_modifier_desc:0 "OÔk)RšNJS›S„vNS¿RØS—V't.V†NwegÿTýVý(W¨RXTêñT„v›Q–ÿf‹Õ`b‰N„vÑSuÿbÆQYÑS¨Rb‰N0"
+EDG_flavor_IBR_religion_conflict_situation_4_modifier_desc:0 "OÔk)RšNJS›SÑSu†NèT'Y„v²QzÿNT„výV¶RKNô•1Y»S†NáOûNÿTêS•êñT„v¹ƒXÿv^ÙVŽNÛLˆ›Q‹NLˆ¨R0"
+EDG_flavor_IBR_religion_conflict_situation_5_modifier_desc:0 "àeÔk&q|p„vùRÙS(WOÔk)RšN„vW0WNcíu†NˆVENÿOÔk)RšNÛeQ†NMRNb*g	g„v't.V¶r`ÿT0W„v„UºN•dÁk†NêñT„vb—wQÿàeÅ`0W‹Së,g0W„vVYe’VÿTýVw–eQ†NNšRz¦^„v÷mqNÿqVÍT†N>yO‰RšRŒTHQÛ`ó`„v²NAmÿýV¶R:g„gS'YèRDný•beQ†N›Q‹N¹eb—wàe›RÛLˆvQÖN„vú^¾‹0"
+
+#状态升级或降级
+effect_IBR_conflict_situation_upgrade_tooltip:0 "bìN^g§Y0OÔk)RšN·u‰N0§!¶r`Sôf R§R0ùRËz0§!0"
+effect_IBR_conflict_situation_Demote_tooltip:0 "bìN^g§Y0OÔk)RšN·u‰N0§!¶r`Sôf R§Y0ŒT0§!0"
+
+#他们将会进行投票
+the_will_IBR_conflict_vote_tooltip:0 "ÖNìNSOÛLˆ•bhy"
+#伊比利亚纷争的结束
+IBR_conflict_end_flag:0 "§Y0OÔk)RšN·u‰N0§!Óumg"
+set_EDG_IBR_conflict_end_flag_4.tt:0 "§Y0OÔk)RšN·u‰N0§!SOÓumg0"
+#修正
+EDG_flavor_IBR_religion_conflict_1_modifier:0 "—RYeLeùR"
+EDG_flavor_IBR_religion_conflict_2_modifier:0 "—RYeËR¹R"
+EDG_flavor_IBR_religion_conflict_1_modifier_desc:0 "bìNUS°s†NùRVYe’V‹kÍV„vNb—ÿÙ©‹ýV…QY„vVYe’VùRbìNASRNán0"
+EDG_flavor_IBR_religion_conflict_2_modifier_desc:0 "bìNUS°s†NùRVYe’VËR¹R„vNb—ÿÙ©‹ýV…QY„vVYe’VùRbìNÃV`aÀo0"
+EDG_flavor_IBR_religion_conflict_val_modifier:0 "™q·V„vWµN"
+EDG_flavor_IBR_religion_conflict_val_modifier_desc:0 "bìN“Š‰:N™q·VYÇNÿÙg'Y—VŒ¨R†NbìN„v›Q‹NípÅ`0"
+EDG_flavor_IBR_religion_conflict_val_modifier_tooltip:0 "(W¥cNeg„vASt^…QÿSVNVYeýV¶R²NböeÿºN›Rb`YSÐcØš:Nck8^Å`µQN„v300%0"
+
+#事件
+    #结束伊比利亚的纷争
+    EDG_flavor_IBR_religion_conflict.0.t:0 "§Y0OÔk)RšN·u‰N0§!„vÓumg0"
+    EDG_flavor_IBR_religion_conflict_desc_0.1:0 "Fz¯e—gNúWcw’V(WOÔk)RšNNòTÏu‰N—e†Npe*NNªu0êÎN711t^?–Éb/OºNµOeQOÔk)RšNJS›SÿŸSOO(WOÔk)RšNJS›S„v‰åTyrºN0RJS›S„vSèÿv^ŽNdkT(WSè0W:Sú^Ëz†N?–¯eþVÌ‘šN¯e0³uætÉb0?–Éb/ŒTaS¯e‚„)RšNIr‹sýVÿÙ›N‹sýVöe	gRTÿv^ÎN‰ísYrSè„vNWTX+YÌ‘šNqS:SÊSÔk)Rir¯eqS:STWS¨cÛÿVUSqš?–Éb/OºN06eY1Y0W„vÐ¨R0\n\n718t^ÿ?–¯eþVÌ‘šN¯e‹sýVýV‹siOÉb¦u(WÑyÕlfe RNeQµO„v?–Éb/OºNÑSub—e0(WOÔk)RšNJS›SNè„v³uætS0?–Éb/ŒT RðlW<SšN‹sýVmNÛLˆ†N6eY1Y0W„v—e‰NÿFOËYÈuàeÕlÖS—V³QšR'`„vÜw)R0\n\nw9SWSY	NN(W1235t^»SNñ‚t^éeÿÙMOŸS,g	g:gOÁkmpWS¹eø‹ðlÕlýV„vNãNÄ–INgÈu¡lýwžR°sONÿv^Nÿ1uŽN…QèÛwþvS•0‹sCg„…1VåNÊSçub·u‰Nÿ±ƒf-aS¯e‚„)RšNTwT‹sýVgÈuã‰SO:N R)R‰šN0?–¯eþVÌ‘šNŒTaS¯e‚„)RšN	N*N‹sýVÿ	N*N‹sýVåeTidædN­e0\n\n6eY1Y0WÐ¨RENENNýwÖS—V	gHebœgÿúWcw’VTw›Q(W1403t^Äuú^†NTw›QÛIeÑySYætðlÕlýVÿÓuœguQ%ÑySYætÿôT&O‰šNýV‹så‚fNNuóÙk‹TŽNÑySYæt0wFz¯e—gmN¾–åNÍ‘ÔOÔk)RšNSè0\n\nôvóÊNåeÿ$YEAR$t^ÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]bŸRßuN†NJS›Sÿv^Óumg†N•ENåNeg„v·u‰Nÿ[Root.Monarch.GetName]„v0NŸROéu¿RÅV‰:Nte*NOÔk)RšN„vºNlí”°‹0"
+    EDG_flavor_IBR_religion_conflict_desc_0.2:0 "Fz¯e—gNúWcw’V(WOÔk)RšNNòTÏu‰N—e†Npe*NNªu0êÎN711t^?–Éb/OºNµOeQOÔk)RšNJS›SÿŸSOO(WOÔk)RšNJS›S„v‰åTyrºN0RJS›S„vSèÿv^ŽNdkT(WSè0W:Sú^Ëz†N?–¯eþVÌ‘šN¯e0³uætÉb0?–Éb/ŒTaS¯e‚„)RšNIr‹sýVÿÙ›N‹sýVöe	gRTÿv^ÎN‰ísYrSè„vNWTX+YÌ‘šNqS:SÊSÔk)Rir¯eqS:STWS¨cÛÿVUSqš?–Éb/OºN06eY1Y0W„vÐ¨R0\n\n718t^ÿ?–¯eþVÌ‘šN¯e‹sýVýV‹siOÉb¦u(WÑyÕlfe RNeQµO„v?–Éb/OºNÑSub—e0(WOÔk)RšNJS›SNè„v³uætS0?–Éb/ŒT RðlW<SšN‹sýVmNÛLˆ†N6eY1Y0W„v—e‰NÿFOËYÈuàeÕlÖS—V³QšR'`„vÜw)R0\n\nw9SWSY	NN(W1235t^»SNñ‚t^éeÿÙMOŸS,g	g:gOÁkmpWS¹eø‹ðlÕlýV„vNãNÄ–INgÈu¡lýwžR°sONÿv^Nÿ1uŽN…QèÛwþvS•0‹sCg„…1VåNÊSçub·u‰Nÿ±ƒf-aS¯e‚„)RšNTwT‹sýVgÈuã‰SO:N R)R‰šN0?–¯eþVÌ‘šNŒTaS¯e‚„)RšN	N*N‹sýVÿ	N*N‹sýVåeTidædN­e0\n\n6eY1Y0WÐ¨RENENNýwÖS—V	gHebœgÿúWcw’VTw›Q(W1403t^Äuú^†NTw›QÛIeÑySYætðlÕlýVÿÓuœguQ%ÑySYætÿôT&O‰šNýV‹så‚fNNuóÙk‹TŽNÑySYæt0wFz¯e—gmN¾–åNÍ‘ÔOÔk)RšNSè0\n\nôvóÊNåeÿOÔk)RšNmN¡lýwßuNÿFO—RYe²Qz„vöeãNòTÏuÇ»S†Nÿ°e„vÙfIQmK„(W†NOÔk)RšN„vW0WNÿ—RYe·u‰NNQwQ	gÇ»S±,‚|píp„v8TV›R†N0"
+    EDG_flavor_IBR_religion_conflict.0.b:0 "‹T-NèlšR0"
+    EDG_flavor_IBR_religion_conflict.0.a:0 "™„i`#WINÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]ÿ"
+
+    FOICommonEvents.0.name:0 "þV±ƒþVÉbASWR›Q"
+    FOICommonEvents.0.aa:0 "bkpÍ‘Ãq0"
+    #大动荡
+    EDG_flavor_IBR_religion_conflict.1.t:0 "'Y¨Raƒ"
+    EDG_flavor_IBR_religion_conflict.1.d:0 "(WS¹e„vúWcwYeýV‹sìNw–eQ…Qè—e‰NKNöeÿ–Nwlš—g‹sg(WidmåTSè„v‹˜—bÿw–eQ…QqN„vFzæt^·V‹sg„v¿R›RaÑSNSP–ŽNlšÉbŽUÀNÑÊÿgRÔYßu»lOÔk)RšN†˜0W„vN­ˆI`cwìN‰NHQP`T„v±R^ìrËzÿegê?–^—)R R„v8—CgQN/k(WOÔk)RšNppÞ˜ßpmpÿKS¡rI`cwìN’NøvKNô•þfÏuŒr¢‹8lNN—V’Nb„v’NÝOag¦uÿFOÌZ™–„vÍyPRÑSË‚„v›RÏ‘v^^—N¸uzz‡eïSåN¦umg0OÔk)RšNQN/kÛeQ†Nø‹¯O÷mb„vöeãNÿ(WTNòSfR¶R„v<w-Nÿ13Nªu14NªuNJSöS«ˆðy:N,r	N/kðlÕlöeãN0(WÙNŒv”NASt^…QÿúWcwYe’VŒTFz¯e—gKNô•„v¹Lu²QzÎNeg1S¡l	g‰V•^ÈubkÇÿvQ-NåNa„„YrýV‹sŒT?–¯eþVÌ‘šN¯eýV‹sNbÑS¨R„vN/kˆ”ùRÌ‘¯e,g„vÛIeg:NÛv'YÿFO1uŽNÇŽN’QÛ(WÑyñ‚^ÉbåNWSm0RFz¯e—g„vOûQÿgÈuN†N†NKN0FO–Nwnm>m¿R›R(WWSÕl„vN­eéTúVîX'YN)YINYeýV¶RùRASWR›QNVÙ*N‚iõV„vŠÑSŒS&PÿÔk)Rir¯eqSåNWSnŠÑSb:NN*NøvùRìrËzŽN)YINYeNLu„vSNLuÿKS¡regêYLu„vr^‰möe	gÑSuÿFOÈuvz¡l	g9eØSÌS¹ebeuøvc„vNSb—0FO–Nw?–¯eþVÌ‘šN¯eýV‹sO<h³u‰	NNÑS¨R†Nˆ”ùRþV±ƒþVÉb„vASWR›QÿOÔk)RšN„v·u‰NKNkpQN/k«ˆ¹pÃq0"
+    EDG_flavor_IBR_religion_conflict.1.a:0 "ø‹ýVSÃq0"
+    FOICommonEvents_0_a_tt:0 "úWŽN†SòS¾‹šRÿ@ASU§Y?–¯eþVÌ‘šN¯e§!‹sýV(W1444t^ST§YþV±ƒþVÉb§!ðlÕlýVYŽNb‰NKN-N0\n\n§YOÔk)RšN§!uÎNyrŠk„v§YOÔk)RšN„v·u‰N§!:g6RÿýV¶RNýw§RêIN±Rb§!ÿN²NbÌS¹eGW«ˆ:V6RÛLˆ§RUSìr²Nb§!ÿNAQ¸‹ìSÆ–ßvËS0\n\n·u‰N-N„vNb	gbXTýV§YqQ«N§!RËYûN¡RhÿûN¡RhÛ¦^ßuNÿN(W§Gck3zšR§!„vÅ`µQNåb	gyrŠk„v§G:V'YžXÊv§!0\n\n^—OÔk)RšN„výV¶R÷‹ÿR(W·u‰NÛLˆ„vÇz-N§YµOT§!OÔk)RšN„vwýNÿ&TR`OS«ˆëNåb	g:V'YžXÊv„v·u‰NýV§RUSìr²Nb§!0\n\n(WOÔk)RšN—V0R§YßuN§!TÿßuNwSb—4N§YOÔk)RšN'Ye™Rƒ§!ÿýV›RSO>fW„JR1V0"
+
+    #图莱图拉合约
+    EDG_flavor_IBR_religion_conflict.2.t:0 "þV±ƒþVÉbT¦u"
+    EDG_flavor_IBR_religion_conflict.2.d:0 "ôVÕu?–¯eþVÌ‘šN¯e0ôTTXS'S¯eŒTþV±ƒþVÉbUSV„vÿ1uY¹eqQTÂSN„vb‰NÈuŽNÓumg†NÿÙ:Wb‰Nêcw†NOÔk)RšNJS›SNÏkN*NºN„v't.V^yÏuÿø‹ýV„vOºNýùRdk‹N®‹º‹·u·u0N:Wb‰N,g«Žv^¡l	g‚Ydk'Y„vqVÍT›RÿFObìNýàVÙ:Wb‰NwùROÔk)RšN*geg„v0W?e»la0RðVpb0:NdkÿN:WŽNþV±ƒþVÉb>NžR„vO®‹USV†NÿOÔk)RšN„vTýVý	gD<hÛLˆ•bhyÿv^—VúQN*NqQÆ‹0"
+    EDG_flavor_IBR_religion_conflict.2.a:0 "bìNÝuNOZPæa+Yÿ"
+    EDG_flavor_IBR_religion_conflict.2.b:0 "bìN^gOÔk)RšNŒTs^0"
+    
+    EDG_flavor_IBR_religion_conflict.3.t:0 "þV±ƒþVÉbT¦u"
+    EDG_flavor_IBR_religion_conflict.3.d:0 "ôVÕu?–¯eþVÌ‘šN¯e0ôTTXS'S¯eŒTþV±ƒþVÉbUSV„vÿ1uY¹eqQTÂSN„vb‰NÈuŽNÓumg†NÿÙ:Wb‰Nêcw†NOÔk)RšNJS›SNÏkN*NºN„v't.V^yÏuÿø‹ýV„vOºNýùRdk‹N®‹º‹·u·u0N:Wb‰N,g«Žv^¡l	g‚Ydk'Y„vqVÍT›RÿFObìNýàVÙ:Wb‰NwùROÔk)RšN*geg„v0W?e»la0RðVpb0:NdkÿN:WŽNþV±ƒþVÉb>NžR„vO®‹USV†NÿOÔk)RšN„vTýVý	gD<hÛLˆ•bhyÿv^—VúQN*NqQÆ‹0"
+    EDG_flavor_IBR_religion_conflict.3.a:0 "bìNÝuNOZPæa+Yÿ"
+    EDG_flavor_IBR_religion_conflict.3.b:0 "bìN^gOÔk)RšNŒTs^0"
+    
+    EDG_flavor_IBR_religion_conflict.4.t:0 "þV±ƒþVÉbT¦u"
+    EDG_flavor_IBR_religion_conflict.4.d:0 "þV±ƒþVÉb>NžR„vO®‹Óumg†Nÿ(WÙ:WO®‹-NÿOÔk)RšN„vTýVý	gD<hÛLˆ•bhyÿv^—VúQ†NN*NqQÆ‹ÿÙSO9eØSOÔk)RšNJS›S„vNS¿R0"
+    EDG_flavor_IBR_religion_conflict.4.a:0 "àeº‹‚YUOÿbìNSZP‹YÆQY0"
+
+EDG_flavor_IBR_religion_conflict_5_bonus_1_tooltip:0 "‚YœgÇ•bhyÿ§Y0OÔk)RšN·u‰N0§!¶r`ØS—Vôf R§R0ùRËz0§!ÿ±HNbìNS·ƒ—V§Y›Q‹N¹ppe§!ŒT§YF–›Q.Oßu§!0"
+EDG_flavor_IBR_religion_conflict_5_bonus_2_tooltip:0 "‚YœgÇ•bhyÿ§Y0OÔk)RšN·u‰N0§!¶r`ØS—Vôf R§R0ùRËz0§!ÿ±HNbìNS·ƒ—V§YY²N¹ppe§!ŒT§Y3zšR¦^§!0"
+
+
+    #托莱多大会
+    EDG_flavor_IBR_religion_conflict.5.t:0 "[219.GetName]'YO"
+    EDG_flavor_IBR_religion_conflict.5.d:0 "[219.GetName]/fOÔk)RšN„vÃVÿTöemN•g/fOÔk)RšN„vMR¿uÿ(WÇ»S„vŒNŒvt^egÿ[219.GetName]ý/fFz¯e—gNúWcw’VR­^—b<y„vgMR¿l0FOÊN)YÎN[219.GetName].OúQeg„vv^^—b‰N„v÷SÒ‰ÿw/fNybybáOO0(W[219.GetName]«ˆ	:Ndk/kOÔk)RšNhQSOO®‹„v>NžR0WTÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]ÐcØš†NhQÎW„vf‹YIrµuÿ(WN*NgåNMRÿkSuQ1SVËY(WÙµ^ÎW^„vÏkN*N'YSNšR¹páTÆ‰0\n\n(WO®‹sSSVUS„vÙN)Ynhfÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]N‰R0W(WÖN„v«R÷^1Žek0Xb÷–Y„v«R÷^SV-N	gegêæt&O‰šN„vNøujO:N7^U^ÿegêÅ–xQ„vq™™lo`%V+oNwDdºNÃVD›ÿ«R÷^„vINºNÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]ÿ<ONNÕ‹þV(ubYNS„vÅˆp™pV>fNwêñT„vžR›RÿFONR„vY(WbVVý©cÖvN†NÖN…QÃV„vÅbçV0\n\nÙ:WO®‹sSS9eØSte*NOÔk)RšN¥cNegŒNASt^„vNS¿RÿwO®‹„vpTóÊNÍN«ˆ©cÏ…(WÆR^„vLN‘NKNN0"
+    EDG_flavor_IBR_religion_conflict.5.a:0 "LN‘NS«ˆ„š3–•dŽx0"
+    EDG_flavor_IBR_religion_conflict.5.b:0 "Î˜egè–»SÿbkpS„q0"
+    
+    EDG_flavor_IBR_religion_conflict.6.t:0 "[219.GetName]'YO"
+    EDG_flavor_IBR_religion_conflict.6.d:0 "[219.GetName]/fOÔk)RšN„vÃVÿTöemN•g/fOÔk)RšN„vMR¿uÿ(WÇ»S„vŒNŒvt^egÿ[219.GetName]ý/fFz¯e—gNúWcw’VR­^—b<y„vgMR¿l0FOÊN)YÎN[219.GetName].OúQeg„vv^^—b‰N„v÷SÒ‰ÿw/fNybybáOO0(W[219.GetName]«ˆ	:Ndk/kOÔk)RšNhQSOO®‹„v>NžR0WTÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]ÐcØš†NhQÎW„vf‹YIrµuÿ(WN*NgåNMRÿkSuQ1SVËY(WÙµ^ÎW^„vÏkN*N'YSNšR¹páTÆ‰0\n\n(WO®‹sSSVUS„vÙN)Ynhfÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]N‰R0W(WÖN„v«R÷^1Žek0Xb÷–Y„v«R÷^SV-N	gegêæt&O‰šN„vNøujO:N7^U^ÿegêÅ–xQ„vq™™lo`%V+oNwDdºNÃVD›ÿ«R÷^„vINºNÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]ÿ<ONNÕ‹þV(ubYNS„vÅˆp™pV>fNwêñT„vžR›RÿFONR„vY(WbVVý©cÖvN†NÖN…QÃV„vÅbçV0\n\nÙ:WO®‹sSS9eØSte*NOÔk)RšN¥cNegŒNASt^„vNS¿RÿwO®‹„vpTóÊNÍN«ˆ©cÏ…(WÆR^„vLN‘NKNN0"
+    EDG_flavor_IBR_religion_conflict.6.a:0 "LN‘NS«ˆ„š3–•dŽx0"
+    EDG_flavor_IBR_religion_conflict.6.b:0 "Î˜egè–»SÿbkpS„q0"
+
+    EDG_flavor_IBR_religion_conflict.7.t:0 "[219.GetName]'YOÓumg"
+    EDG_flavor_IBR_religion_conflict.7.d:0 "[219.GetName]'YOÈuŽNK„N†N7^U^ÿÏkN*NOÔk)RšNø‹¯Oýhˆ¾†NêñT„va?aÿOÔk)RšN*gegŒNASt^„vNS¿RòTÏu«ˆ„`„`9eØS0"
+    EDG_flavor_IBR_religion_conflict.7.a:0 "SI–N•0"
+
+    #我们的选择（马德里大会）
+    EDG_flavor_IBR_religion_conflict.8.t:0 "[217.GetName]'YO"
+    EDG_flavor_IBR_religion_conflict.8.d:0 "(WMRNt^„v#WÞ‹‚‚ÿ–NwÑ‘pp„v3–IQ’d(W[217.GetName]„v^:WKNNÿ[217.GetName]„v^lÑS°s[217.GetName]^:W„v-N.YIuN†NN*NèT'Y„v”N’‚fÿ”N’‚f„v”N*NÒ‰NT>en†NAS	NêSKžPRÿw”N’‚f„v-N.YFdN†NN*N4–îhè`‹v„vqSŠ4Y¨š0ÙN‹NöNVw†NššqNÿ/fÀNHNºNýwY(WµRyŒTkSuQ„váTÆ‰NÿR.úQ‚Ydk»yÏuÛSS„vVaŒÿN›NúWcw’V²‹:NÿÙ>f6q/fNïSýw„vÿàVw^:W„vNRýúQêN^KNKbÿ/fN^^gOÔk)RšNºNN‰çuíu¯r•0\n\n¡l	gºNO&T²‹ÿOÔk)RšNw–eQbkp„vöeô•òTÏuˆV•†N0\n\nàeº‹/fúWcw’VØ/fVYe’Vÿý^g‚YÊN„v÷mqNNSb—ýwYÓumgÿàeº‹/fÇ›Q‹NLˆ¨RÿØ/fÇôucŒTs^0(WÙ7h„vggNÿ[217.GetName]'YOìSV†NÿOÔk)RšN„vø‹¯OQ/kPŸZwNXÿqQT³QšROÔk)RšN*geg„v‹TÐ0\n\nÙb¸‹/fgTN/kOŒ†N0"
+    EDG_flavor_IBR_religion_conflict.8.a:0 "RQRÜwŽNfNÿ?eCg„vßuNMbãNhˆŒTs^„v0Reg0"
+    EDG_flavor_IBR_religion_conflict.8.b:0 "bìNN”^å‹«ˆÇNh`™„K…†NÌS<w0"
+
+    EDG_flavor_IBR_religion_conflict.9.t:0 "[217.GetName]'YO"
+    EDG_flavor_IBR_religion_conflict.9.d:0 "(WMRNt^„v#WÞ‹‚‚ÿ–NwÑ‘pp„v3–IQ’d(W[217.GetName]„v^:WKNNÿ[217.GetName]„v^lÑS°s[217.GetName]^:W„v-N.YIuN†NN*NèT'Y„v”N’‚fÿ”N’‚f„v”N*NÒ‰NT>en†NAS	NêSKžPRÿw”N’‚f„v-N.YFdN†NN*N4–îhè`‹v„vqSŠ4Y¨š0ÙN‹NöNVw†NššqNÿ/fÀNHNºNýwY(WµRyŒTkSuQ„váTÆ‰NÿR.úQ‚Ydk»yÏuÛSS„vVaŒÿN›NúWcw’V²‹:NÿÙ>f6q/fNïSýw„vÿàVw^:W„vNRýúQêN^KNKbÿ/fN^^gOÔk)RšNºNN‰çuíu¯r•0\n\n¡l	gºNO&T²‹ÿOÔk)RšNw–eQbkp„vöeô•òTÏuˆV•†N0\n\nàeº‹/fúWcw’VØ/fVYe’Vÿý^g‚YÊN„v÷mqNNSb—ýwYÓumgÿàeº‹/fÇ›Q‹NLˆ¨RÿØ/fÇôucŒTs^0(WÙ7h„vggNÿ[217.GetName]'YOìSV†NÿOÔk)RšN„vø‹¯OQ/kPŸZwNXÿqQT³QšROÔk)RšN*geg„v‹TÐ0\n\nÙb¸‹/fgTN/kOŒ†N0"
+    EDG_flavor_IBR_religion_conflict.9.a:0 "RQRÜwŽNfNÿ?eCg„vßuNMbãNhˆŒTs^„v0Reg0"
+    EDG_flavor_IBR_religion_conflict.9.b:0 "bìNN”^å‹«ˆÇNh`™„K…†NÌS<w0"
+    
+    EDG_flavor_IBR_religion_conflict.10.t:0 "[217.GetName]'YOÓumg"
+    EDG_flavor_IBR_religion_conflict.10.d:0 "[217.GetName]'YOÓumg†N0\n\n(WO®‹ckVÓumg„vN)Yÿ[217.GetName]N†NˆV'Y„v´fè–ÿ‹†6qO®‹„vÓuœgØ¡l«ˆlQKNŽNOÿ[217.GetName]1SòTÏuVËY	gºN±RðyO®‹„vÓuœgÌwÛS†NêñT„vT—RDQVÿúWcw’VÝÌw†NN^„va?aÿFz¯e—gÝÌw†N‰RÉb„va×V0\n\n[224.GetName]mN(WSV)YYZfrÑS†NN:WššqNÿP`ç`„v^lpNWˆ4YÿSV0WºN8xÁkVYe’V„vFUú”ÿv^(WVYe’V„vOO?b:S>ekpÿTöeØNg†NNS¹r*YºN0\n\nFOàeº‹‚YUOÿ[217.GetName]'YOòTÏuÓumgÿ'YO„vqVÍTàeÕl²dÞV0"
+    EDG_flavor_IBR_religion_conflict.10.a:0 "åNTNOQ	gjm9öeô•„v'YO†N0"
+
+    #塞维利亚协定
+    EDG_flavor_IBR_religion_conflict.11.t:0 "[224.GetName]Ï‚òƒ>mYe’V´f¨R"
+    EDG_flavor_IBR_religion_conflict.11.d:0 "(W$YEAR$t^ÿ^Xôu)RšN„vÏ‚òƒ>mYeâV÷SìSSV0W„vFz¯e—gÑS¨R†NN:W´f¨RÿYeâV†˜–ˆ‰Bl[Root.Monarch.GetTitle][Root.Monarch.GetName]jPbkùRFz¯e—g„v‹SëÿÖNìNpNWˆ4Yÿ(uNRýwŒb0R„vN‰EQjOfkhV0\n\nncô‹üRkp0t/fN*NgMRÿN*NúWcw’VzT(WVz„vÇz-NÿüRô†NNTFz¯e—g?Qåz„vaY‰k¡NÿwzT(W‹NTv^¡l	g—V0R”^	g„vé`Z0\n\nÙöN‹NŽNñmYMb«ˆ[Root.Monarch.GetTitle][Root.Monarch.GetName]Nbåwÿ(W[Root.Monarch.GetTitle][Root.Monarch.GetName]—VåwteöN‹N„vÏuÇTÿÖNOe•0WaÆ‹0Rÿ‚YœgNýw¥Y„U0WYtå‹‹NöNÿSOVwte*NOÔk)RšN„v—¨R0"
+    EDG_flavor_IBR_religion_conflict.11.a:0 "ã‰ceSV0WYeâVÿY‰kFz+YÐc0"
+    EDG_flavor_IBR_religion_conflict.11.b:0 "bìNý”^SVÝOc·QY—0"
+    EDG_flavor_IBR_religion_conflict.11.c:0 "6epNÖNìN0"
+
+    EDG_flavor_IBR_religion_conflict.12.t:0 "[224.GetName]Ï‚òƒ>mYeâVÂríp"
+    EDG_flavor_IBR_religion_conflict.12.d:0 "(WÊNåenhfÿNTegê[224.GetName]„vÏ‚òƒ>mYeâVFz+YÐcOÁ‰†N[Root.Monarch.GetTitle][Root.Monarch.GetName]ÿÖNÎN0äSpQÏu0ŒwÿÏcØubìN„vHQVy‚YUOUSVO'Y„vVgÿ‚YUOSO¯epQYe.O­d0RhQNLuÿÖN„ví‹lwahaÀof0`¦^Ú‹s`ÿ÷‹Bl[Root.Monarch.GetTitle][Root.Monarch.GetName]ýwY¥c³uÖN„v`ó`ÿùRVYe’VÑS¨RO'Y„v#Wb0"
+    EDG_flavor_IBR_religion_conflict.12.a:0 "bìNSŸ¨R#Wbÿ"
+    EDG_flavor_IBR_religion_conflict.12.b:0 "bìNý”^SVÝOc·QY—0"
+    EDG_flavor_IBR_religion_conflict.12.c:0 "ÖNìNN”^å‹‹q¨RÂríp0"
+
+    #普拉森西亚事件
+    EDG_flavor_IBR_religion_conflict.13.t:0 "[4788.GetName]¨RqN"
+    EDG_flavor_IBR_religion_conflict.13.d:0 "[4788.GetName]„vFz¯e—gYe’VNôvåNÖNìN„vÂrípW„ðyÿÖNìN`õVðlÕl?–jSÉbjg„vßu»lÿwŒSv`úWcw’V„v´f?e0(W$YEAR$t^ÿ1uŽNNánúWcwYe[Root.Monarch.GetTitle][Root.Monarch.GetName]„vßu»lÿ[4788.GetName]„vÂrípFz¯e—gÑS¨R†NN:W	gÄuÇu„v´fqNÿÖNìNNg‰k†N[4788.GetName]„vˆR›Qÿv^¨cûSV0W„vYeXÿ‰BlÞVRVôTTXS'S¯e0"
+    EDG_flavor_IBR_religion_conflict.13.a:0 "G•‹S´fqNÿY‰kÏkN*NÍSÛS„vFz¯e—g0"
+    EDG_flavor_IBR_religion_conflict.13.b:0 "ÙuˆNÖNìNôfY„vê»lCgåN‰RšbÖNìN0"
+
+    EDG_flavor_IBR_religion_conflict.14.t:0 "[4788.GetName]ºN„v/ec"
+    EDG_flavor_IBR_religion_conflict.14.d:0 "[4788.GetName]„vFz¯e—gYe’VNôvåNÖNìN„vÂrípW„ðyÿÖNìN`õVðlÕl?–jSÉbjg„vßu»lÿwŒSv`úWcw’V„v´f?e0(W$YEAR$t^ÿ:N†NN¦lK„0RQ¦^ÞVRVúWcw’V„vßu»lKNNÿSV0W„vFz¯e—g>NwfkhVÿv^3u÷‹ ReQ[Root.Monarch.GetTitle][Root.Monarch.GetName]„v›Q–0"
+    EDG_flavor_IBR_religion_conflict.14.a:0 "0kÎÖNìN ReQbìN„v#Wbÿ"
+    EDG_flavor_IBR_religion_conflict.14.b:0 "©‹ÖNìNSípÅ`>e(W+R„v0W¹e0"
+
+    #里斯本迪万
+    EDG_flavor_IBR_religion_conflict.15.t:0 "ã‰ce[227.GetName]„v0ŒkêN"
+    EDG_flavor_IBR_religion_conflict.15.d:0 "(W1433t^ÿ(WôTTXS'S¯eðlÕl?–jSÉbjg„vINüRNÿ[227.GetName]ú^Ëz†NN*N1u,g0W0ŒkÄuú^„v0ŒkêNÿ0ŒkêN•gjO:NðlÕl?–jSÉbjg„vãNŠºN¡rtNw[227.GetName]0‚YÊN[227.GetName]«ˆúWcw’VVgÿÙ›N0ŒktSØ(W—f-NÍdµu[227.GetName]„v?e»lÏuNm0"
+    EDG_flavor_IBR_religion_conflict.15.a:0 "ã‰ceêNÿY‰k0Œk0"
+    EDG_flavor_IBR_religion_conflict.15.b:0 "‰RšbÙ›N0Œk0"
+   
+    EDG_flavor_IBR_religion_conflict.16.t:0 "[227.GetName]êN"
+    EDG_flavor_IBR_religion_conflict.16.d:0 "(W1433t^ÿ(WôTTXS'S¯eðlÕl?–jSÉbjg„vINüRNÿ[227.GetName]ú^Ëz†NN*N1u,g0W0ŒkÄuú^„v0ŒkêNÿ0ŒkêN•gjO:NðlÕl?–jSÉbjg„vãNŠºN¡rtNw[227.GetName]0\n\n1S(WMRNENÿ	g.OŠ±Rðy[227.GetName]D–Ñ„vúWcw’VESlÆQYÑS¨R´fqNÿIeSb[227.GetName]ÿSV0W0Œk–sSÄuÇuw†NN/efkÅˆ›RÏ‘ÿv^'Y›RŸ9T#Wb`ó`ÿ‹SëSV0W„vúWcw’VÿS'YÏ‘Âríp„vúWcw’VýNPRYåNgRÿÙN‹NöNVw†NèT'Y„vÍSÍT0\n\n[Root.Monarch.GetTitle][Root.Monarch.GetName]¡l	gËzIRYtdk‹NÿÖN²‹:NÙöN‹NïSåN«ˆ(uŽNib'YêñT„v?e»lqVÍT›Rÿ‹O‚YS#Wb`no„v-NÃVVó[227.GetName]ÿ1udk8TVôfY„vFz¯e—geQINêñT¾žN0\n\n:N†NÝOÁ‹êñTýwYÛNekib'Y?e»lÎ‘ÃVÿ[Root.Monarch.GetName]Tø‹ðlÕl™QáOÿâ‹î•ÖNìN„vaÁ‰0"
+    EDG_flavor_IBR_religion_conflict.16.a:0 "bìNS/ec#Wb`no0"
+    EDG_flavor_IBR_religion_conflict.16.b:0 "IrIr&&Ù7h„vó`Õl	g›NOPgbNqSi–0"
+
+    EDG_flavor_IBR_religion_conflict.17.t:0 "[227.GetName]êN"
+    EDG_flavor_IBR_religion_conflict.17.d:0 "(W1433t^ÿ(WôTTXS'S¯eðlÕl?–jSÉbjg„vINüRNÿ[227.GetName]ú^Ëz†NN*N1u,g0W0ŒkÄuú^„v0ŒkêNÿ0ŒkêN•gjO:NðlÕl?–jSÉbjg„vãNŠºN¡rtNw[227.GetName]0\n\n1S(WMRNENÿ	g.OŠ±Rðy[227.GetName]D–Ñ„vúWcw’VESlÆQYÑS¨R´fqNÿIeSb[227.GetName]ÿSV0W0Œk–sSÄuÇuw†NN/efkÅˆ›RÏ‘ÿv^'Y›RŸ9T#Wb`ó`ÿ‹SëSV0W„vúWcw’VÿS'YÏ‘Âríp„vúWcw’VýNPRYåNgRÿÙN‹NöNVw†NèT'Y„vÍSÍT0\n\n[Root.Monarch.GetTitle][Root.Monarch.GetName]¡l	gËzIRYtdk‹NÿÖN²‹:NÙöN‹NïSåN«ˆ(uŽNib'YêñT„v?e»lqVÍT›Rÿ‹O‚YS#Wb`no„v-NÃVVó[227.GetName]ÿ1udk8TVôfY„vFz¯e—geQINêñT¾žN0\n\n:N†NÝOÁ‹êñTýwYÛNekib'Y?e»lÎ‘ÃVÿ[Root.Monarch.GetName]Tø‹ðlÕl™QáOÿâ‹î•ÖNìN„vaÁ‰0"
+    EDG_flavor_IBR_religion_conflict.17.a:0 "bìNS/ec#Wb`no0"
+    EDG_flavor_IBR_religion_conflict.17.b:0 "IrIr&&Ù7h„vó`Õl	g›NOPgbNqSi–0"
+
+    EDG_flavor_IBR_religion_conflict.18.t:0 "[227.GetName]êNÓumg"
+    EDG_flavor_IBR_religion_conflict.18.d:0 "(Wø‹YðlÕl„vÂSNNÿ[227.GetName]êNgÈuÓumgÿOðlÕl„v³QšR©‹Fz¯e—gbVb†NN*Nƒ:NßuN„vqQÆ‹ÿv^9eØS†NOÔk)RšN‚YÊN„vNS¿R0"
+    EDG_flavor_IBR_religion_conflict.18.a:0 "‰RÉb(WN0"
+
+
+    #巴达霍斯条约
+    EDG_flavor_IBR_religion_conflict.19.t:0 "[218.GetName]?–jSÉbjgnwúR"
+    EDG_flavor_IBR_religion_conflict.19.d:0 "[218.GetName]„vFz¯e—gˆVle1rðlÕl?–jSÉbjgÿÖNìN:N?–jSÉbjgú^Ëz†NNµ^nwúRÿv^(W[218.GetName]ÎW…Q^Ûl0W^lb?–jSÉbjg„v0NŸROéuÿÙVw†N¸‹YúWcw’V„vNánÿÌS¹eHQ/f(WWˆ4YUSV—e´kÿ–TúWcw’VkSuQÂSNvQ-N0\n\n(W[218.GetName]„vkSuQÂSNTÿÌS¹e„v²Qz²š6qGSµuÿFz¯e—g`S†˜?–jSÉbjgnwúRÿv^åNdk:NNµ^ZWúV„v‰^XÿÍS—b[218.GetName]ˆR›Q„v‰BlÿO—V,g/kWˆ4Y—e´kGSµub†NN:WðX¿Rim'Y„vÛSqN0"
+    EDG_flavor_IBR_religion_conflict.19.a:0 "NgIQÙ›NÂríp„vVYe’V0"
+    EDG_flavor_IBR_religion_conflict.19.b:0 "‰RšbÖNìNÿAQ¸‹ÖNìNÝOYunwúR0"
+
+    EDG_flavor_IBR_religion_conflict.20.t:0 "[218.GetName]ag¦u"
+    EDG_flavor_IBR_religion_conflict.20.d:0 "ÙùR[218.GetName]wŠÿ/faIN^—áQ„vN)Y0\n\n:N†Nôu²bÎW^„v3zšRÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]NäNhQðyb^ÿ[Root.Monarch.GetTitle]„vidSºNkpóuªg²NuQŠbˆROO[218.GetName]ÎW„vÏkN*NeQãSŒT²N‰Sÿ[218.GetName]„vÏkNagWˆSýÂRY—àeÔkÿêS	gÏk*NSöeýOáTÆ‰NMWˆS„vÏgÏgS‘šuQ	gD<h(WÊN)Y„v[Root.Monarch.GetTitle]'YSNYuNµU±VŒTlš#žðX0\n\n[Root.Monarch.GetTitle]gáOV„vôuPŸSŒTæt)RìN(Wnhf¿OòTÏuÛeQ†NÎW^ÿv^b—Á‰†NóØšàeN„v[Root.Monarch.GetTitle]0(W<Ñåe-NKNöeÿ,rN*N×SŽ„v[Root.Monarch.GetTitle]eg0R†NPWK„ŽN[218.GetName]„v«R÷^ÿùR¹e„v²bf–(WzLˆ[218.GetName]'Yè•öeÜuÎuNÝu0\n\n(WåeK„KNöeÿ[218.GetName]„vðlÕlêNÈuŽNÉbV†N7^U^0vQÖNðlÕlPW(W¹eLh„v2NµOÿw[Root.Monarch.GetTitle][Root.Monarch.GetName]PW(W¹eLh„vNïzÿ‰lÂR†N¸‹ENKNTÿäNÖN„vOÎN(W¹eLhNSbV†NN.VLP'Y„v0WþVÿ0WþVNæ‹Æu0W°‹UV†NOÔk)RšN„vÏkNµ^qS	ŒTÏkNag³lAm0\n\n't¥cNwÿÆNºN(W0WþVNFd>e†Nø‹Y¾|ô„vËhPRÿR+RãNhˆNwFz¯e—gŒTúWcw’V„v›Q–ÿ[Root.Monarch.GetName]Õu¹eLhNWTÿÆNºNÈuŽNSNRýFd>eŒRÕkÿÕkm`Õkle0W»yV®‹‹N…S0\n\nb„vDQVìNÿ[Root.Monarch.GetName](uŒT„ví‹lô‹SÿbìNb—4NèT'Y„vî•˜˜ÿÙ›NúWcw’VËYÈuN¯w>eVêñT„vµOeuLˆ„VÿÖNìND–Nw(W‰R¾bS‰šN„vW0WNÿ8Tß˜NwÙGrW0W„v°eœœNˆNˆ²m0Ù/fN”^å‹ÑSu„vÿÙ/fÝuNO«ˆwINØž¸‹„vÿ\n\n[Root.Monarch.GetName]„ví‹laÑSÀofÿÖN„vðXó—(W?bô•…QÞVaƒÿ1S(WMRNENÿ‰RÉb²NˆNbN*NhQ°e„v0T†áO„v¡‹RÿÙ*N¡‹RSýwY©‹bìNSúWcw’V‰V•^qšúQbìN„vW0WêS‰bìN‰SuQãylšÿv^uªVÙýNO'Y¡‹RÑS¨R#WbÿbìNSýwÖS—VgT„vÜw)Rÿ\n\nÂSNÙ:WO®‹„vNÅN	gø‹ýV„vðlÕlÿØ	gvQÖNúWcwYeýV¶R„vO‚‚âVÿN›NO‚‚(WðlÕlìNOo`„vöeP(WÖNìN«ŽÁe3wí‹ÿ(WÖNìN«ŽNËe RqVÍTÿžR(N/fúWcw’VŒTFz¯e—gqQT³QšR†NÙ:WO®‹„vÓuœg0"
+    EDG_flavor_IBR_religion_conflict.20.a:0 "Fz¯e—g”^å‹Œrr0ôTTXS'S¯eag¦u00"
+    EDG_flavor_IBR_religion_conflict.20.b:0 "bìN”^SVÝOc·QY—0"
+
+    EDG_flavor_IBR_religion_conflict.21.t:0 "[218.GetName]ag¦u"
+    EDG_flavor_IBR_religion_conflict.21.d:0 "ÙùR[218.GetName]wŠÿ/faIN^—áQ„vN)Y0\n\n:N†Nôu²bÎW^„v3zšRÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]NäNhQðyb^ÿ[Root.Monarch.GetTitle]„vidSºNkpóuªg²NuQŠbˆROO[218.GetName]ÎW„vÏkN*NeQãSŒT²N‰Sÿ[218.GetName]„vÏkNagWˆSýÂRY—àeÔkÿêS	gÏk*NSöeýOáTÆ‰NMWˆS„vÏgÏgS‘šuQ	gD<h(WÊN)Y„v[Root.Monarch.GetTitle]'YSNYuNµU±VŒTlš#žðX0\n\n[Root.Monarch.GetTitle]gáOV„vôuPŸSŒTæt)RìN(Wnhf¿OòTÏuÛeQ†NÎW^ÿv^b—Á‰†NóØšàeN„v[Root.Monarch.GetTitle]0(W<Ñåe-NKNöeÿ,rN*N×SŽ„v[Root.Monarch.GetTitle]eg0R†NPWK„ŽN[218.GetName]„v«R÷^ÿùR¹e„v²bf–(WzLˆ[218.GetName]'Yè•öeÜuÎuNÝu0\n\n(WåeK„KNöeÿ[218.GetName]„vðlÕlêNÈuŽNÉbV†N7^U^0vQÖNðlÕlPW(W¹eLh„v2NµOÿw[Root.Monarch.GetTitle][Root.Monarch.GetName]PW(W¹eLh„vNïzÿ‰lÂR†N¸‹ENKNTÿäNÖN„vOÎN(W¹eLhNSbV†NN.VLP'Y„v0WþVÿ0WþVNæ‹Æu0W°‹UV†NOÔk)RšN„vÏkNµ^qS	ŒTÏkNag³lAm0\n\n't¥cNwÿÆNºN(W0WþVNFd>e†Nø‹Y¾|ô„vËhPRÿR+RãNhˆNwFz¯e—gŒTúWcw’V„v›Q–ÿ[Root.Monarch.GetName]Õu¹eLhNWTÿÆNºNÈuŽNSNRýFd>eŒRÕkÿÕkm`Õkle0W»yV®‹‹N…S0\n\nb„vDQVìNÿ[Root.Monarch.GetName](uŒT„ví‹lô‹SÿbìNb—4NèT'Y„vî•˜˜ÿÙ›NúWcw’VËYÈuN¯w>eVêñT„vµOeuLˆ„VÿÖNìND–Nw(W‰R¾bS‰šN„vW0WNÿ8Tß˜NwÙGrW0W„v°eœœNˆNˆ²m0Ù/fN”^å‹ÑSu„vÿÙ/fÝuNO«ˆwINØž¸‹„vÿ\n\n[Root.Monarch.GetName]„ví‹laÑSÀofÿÖN„vðXó—(W?bô•…QÞVaƒÿ1S(WMRNENÿ‰RÉb²NˆNbN*NhQ°e„v0T†áO„v¡‹RÿÙ*N¡‹RSýwY©‹bìNSúWcw’V‰V•^qšúQbìN„vW0WêS‰bìN‰SuQãylšÿv^uªVÙýNO'Y¡‹RÑS¨R#WbÿbìNSýwÖS—VgT„vÜw)Rÿ\n\nÂSNÙ:WO®‹„vNÅN	gø‹ýV„vðlÕlÿØ	gvQÖNúWcwYeýV¶R„vO‚‚âVÿN›NO‚‚(WðlÕlìNOo`„vöeP(WÖNìN«ŽÁe3wí‹ÿ(WÖNìN«ŽNËe RqVÍTÿžR(N/fúWcw’VŒTFz¯e—gqQT³QšR†NÙ:WO®‹„vÓuœg0"
+    EDG_flavor_IBR_religion_conflict.21.a:0 "Fz¯e—g”^å‹Œrr0ôTTXS'S¯eag¦u00"
+    EDG_flavor_IBR_religion_conflict.21.b:0 "bìN”^SVÝOc·QY—0"
+
+    EDG_flavor_IBR_religion_conflict.22.t:0 "[218.GetName]ag¦u„vb%"
+    EDG_flavor_IBR_religion_conflict.22.d:0 "–NwMOŽN[218.GetName]„v'YOÈuŽNÓumgÿNb	gNOºNXTýÂSN†NôTTXS'S¯eag¦u„v¨‹º‹ÿÙýNag¦uaINÍ‘'Yÿ‚YœgÖN—VåNÇÿSO:NOÔk)RšN„vFz¯e—gðlÕlø‹ýV&^eg³Ï‘„vqVÍT0"
+    EDG_flavor_IBR_religion_conflict.22.a:0 ")Y2kè–ÿºNN2kY—0"
+    
+    #拉曼查之夜
+    EDG_flavor_IBR_religion_conflict.23.t:0 "[2754.GetName]Fz¯e—gÐ¨R"
+    EDG_flavor_IBR_religion_conflict.23.d:0 "[2754.GetName]„vAucƒNôv©cÖvNwƒR„vqSi–ÿêÎN[2754.GetName]«ˆbìNVgåNegÿSV0W„vFz¯e—gNôvùRbìN„vßu»la0RNánÿÖNìNŽNMRNENÑS¨R†NN:W´fqNÿv^‰BlSV0W„vYeëXNQr^‰mÖNìN„váOðN0"
+    EDG_flavor_IBR_religion_conflict.23.a:0 "Rƒ,ŒÿÖNìNt”^ˆvOúWcwÿ"
+    EDG_flavor_IBR_religion_conflict.23.b:0 "Tr”^ÖNìN„v‰Bl0"
+
+    #阿尔梅里亚之夜
+    EDG_flavor_IBR_religion_conflict.24.t:0 "[222.GetName]KNY"
+    EDG_flavor_IBR_religion_conflict.24.d:0 "[222.GetName]•gYŽN—RYe²Qz„v¹ƒXÿtSgÈu¡lýw«ˆúWcw’V:YpÿN›N	gTg„vLNt›sSvQRVŸRŽN[Root.Monarch.GetTitle][Root.Monarch.GetName]ñ‚f„vßu»lÿv^T[Root.Monarch.GetTitle][Root.Monarch.GetName]Ðc®‹ÿêS‰ÖN?aaTSVgúWcw’Vø‹‹sÿhQýV„vFz¯e—gý?aaIY.sêñT„v›RÏ‘0"
+    EDG_flavor_IBR_religion_conflict.24.a:0 "bìN?aa÷SìS	TÈT·Vÿ"
+    EDG_flavor_IBR_religion_conflict.24.b:0 "bìNN”^å‹ÇŽN„š²P0"
+
+    #莱昂条约
+    EDG_flavor_IBR_religion_conflict.25.t:0 "[208.GetName]ag¦u"
+    EDG_flavor_IBR_religion_conflict.25.d:0 "êÎN[Root.Monarch.GetTitle][Root.Monarch.GetName]çuMOåNegÿÖNNôv«ˆVYe’V(WOÔk)RšN‚Y¿w2vN,‚„vXR(Wa0RðVpbÿåNóŽNÖN8^8^àVgS²R—z^„vN5–Î˜ww¨Rwa0RÊ`P`0\n\nêÎN»St^#WÞ‹‚‚VËYÿ[Root.Monarch.GetName]1SNôv(W„gó`N*N°e„v0O'Y„v¡‹RÿN*NâVÓuOÔk)RšNNb	gúWcw’V„v¡‹R0\n\n(W$YEAR$t^ÿÖNŽ÷‹†Nø‹ýV„vOâVÿ	gúWcwYeýV‹sÿmN	gVYe’V„vO‚‚ÖNSÖNìNhQèŽ÷‹0RêñT„v‹sµ^…Sÿv^EeaYeUêñTKbN„vYeëX(uÂrípwÀoÛ„vŠí‹Ào`†N(W:W„vFz¯e—gO‚‚ÿVÑSÌS¹eÀoÈp„vãSÒ‰ÿv^(W:Wb—ØS—V³Y÷mqNTÿMb©‹kSuQÛegSFz¯e—g„vO‚‚&^p0\n\n(W:W„vúWcwYeø‹‹sý^yr‚'t.VÿÖNìN¡l	gaÆ‹0RÙ/f[Root.Monarch.GetName]„v	gaKN>N0[Root.Monarch.GetName]ÈSªVªV„Uñ‹0WJTÉ‹ø‹‹sÿFz¯e—gNbìNÈuvz4lkpN¹RÿúWcw’VNFz¯e—gKNô•ÅV	gNb0bìN”^SVŒrrNýN›Q‹Nag¦uÿ(uåNµb/cbìN„vVYe’VLeºN0[Root.Monarch.GetName](uÚ‹s`„ví‹lJTÉ‹ø‹‹sÿ–Tweg„v/f'Y…S…Q„v‰lÂR0"
+    EDG_flavor_IBR_religion_conflict.25.a:0 "`OìN‰nZiÿbìNNVYe’VKNô•¡l	gŒTs^Nô‹0"
+    EDG_flavor_IBR_religion_conflict.25.b:0 "zIr&&bìNïSýw*YÀo¨R†N0"
+
+    EDG_flavor_IBR_religion_conflict.26.t:0 "[208.GetName]ag¦u"
+    EDG_flavor_IBR_religion_conflict.26.d:0 "êÎN[Root.Monarch.GetTitle][Root.Monarch.GetName]çuMOåNegÿÖNNôv«ˆVYe’V(WOÔk)RšN‚Y¿w2vN,‚„vXR(Wa0RðVpbÿåNóŽNÖN8^8^àVgS²R—z^„vN5–Î˜ww¨Rwa0RÊ`P`0\n\nêÎN»St^#WÞ‹‚‚VËYÿ[Root.Monarch.GetName]1SNôv(W„gó`N*N°e„v0O'Y„v¡‹RÿN*NâVÓuOÔk)RšNNb	gúWcw’V„v¡‹R0\n\n(W$YEAR$t^ÿÖNŽ÷‹†Nø‹ýV„vOâVÿ	gúWcwYeýV‹sÿmN	gVYe’V„vO‚‚ÖNSÖNìNhQèŽ÷‹0RêñT„v‹sµ^…Sÿv^EeaYeUêñTKbN„vYeëX(uÂrípwÀoÛ„vŠí‹Ào`†N(W:W„vFz¯e—gO‚‚ÿVÑSÌS¹eÀoÈp„vãSÒ‰ÿv^(W:Wb—ØS—V³Y÷mqNTÿMb©‹kSuQÛegSFz¯e—g„vO‚‚&^p0\n\n(W:W„vúWcwYeø‹‹sý^yr‚'t.VÿÖNìN¡l	gaÆ‹0RÙ/f[Root.Monarch.GetName]„v	gaKN>N0[Root.Monarch.GetName]ÈSªVªV„Uñ‹0WJTÉ‹ø‹‹sÿFz¯e—gNbìNÈuvz4lkpN¹RÿúWcw’VNFz¯e—gKNô•ÅV	gNb0bìN”^SVŒrrNýN›Q‹Nag¦uÿ(uåNµb/cbìN„vVYe’VLeºN0[Root.Monarch.GetName](uÚ‹s`„ví‹lJTÉ‹ø‹‹sÿ–Tweg„v/f'Y…S…Q„v‰lÂR0"
+    EDG_flavor_IBR_religion_conflict.26.a:0 "bìN²‹ïSÖNÿVYe’VKNô•³QNýwqQXR0"
+    EDG_flavor_IBR_religion_conflict.26.b:0 "bìNwz†N[Root.Monarch.GetName]„vSŠbb0"
+
+    EDG_flavor_IBR_religion_conflict.27.t:0 "[208.GetName]ag¦u„vŒrrw"
+    EDG_flavor_IBR_religion_conflict.27.d:0 "ŽN[208.GetName]USV„vO®‹K„N†N7^U^ÿFz¯e—gðlÕlŒTúWcwYeýV‹sìNýùRÙ:WO®‹Ëe R†NqVÍTÿ[208.GetName]O®‹„vÓuœgSOqVÍTOÔk)RšNÊNT„vNS¿Rø‹ýVSôf:NùRËzÿØ/fôf:NŒTs^ÿ"
+    EDG_flavor_IBR_religion_conflict.27.a:0 "àeº‹‚YUOÿVYe’VKNô•¡l	gŒTs^0"
+
+    #巴塞罗那会议
+    EDG_flavor_IBR_religion_conflict.28.t:0 "[213.GetName]O®‹"
+    EDG_flavor_IBR_religion_conflict.28.d:0 "(WN*NgMRÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]„vNT¨S^OþVŒ³RÖN0\n\n¯rºN/fNTFz¯e—g7u'`ÿt^‰ÊOŽÿÂrípwT†áOÿ[Root.Monarch.GetName]„v¡R¯‹˜R±‚†NNhT„vöeô•MbÎNÖN„v4VÌ‘ØúQŒNg„v¨R:g0ŸSegÿÖN/fùR[Root.Monarch.GetTitle]Ñ›Nt^eg„v—RYeNËR¹RLˆ:Na0RNánÆQnx0Wô‹ÿ/f[Root.Monarch.GetName]„vNTúWcw’VgbÕl˜R(WgbLˆlQ¡R„vÇz-NSÖNáOðNO¯epQYe„vÍk²NŒT¹Y¹YSb‰kÿv^¡l	g×S0RûNUOé`Z0(W×S0RNTFz+YÐc„v.^©RTÿMRegŒNg[Root.Monarch.GetName]ÿåNBl:NÖN„vÍk²NŒT¹Y¹YYÇN0\n\n[Root.Monarch.GetName]leiOÙT¯rºNÿŽN/fØž¸‹†NÕl˜R2RYÙT¯rºNkpRÿ6qT(W—zðSNwNwÖN(WÈpkp„vqçpNSëSNw»yVºNN0\n\n(WÙN‹NöNTÿ[Root.Monarch.GetName]mN8^8^`wúWcwYeNO¯epQYe„vsQû|ÿbìNKN-NNšR	gŒ•†NTÿúWcw’VNFz¯e—gKNô•„vøv’N®SNgvzßz/fàV:NÀNHNÿ\n\n(WN)Y„vnhfÿÖNPW(W±‚íV„v•iN`w†N¸‹ENÿ)TTêñT„vÆNÎNÿfêñT:NOÔk)RšNø‹‹s™QNSáOÿ©‹ÖNìN>mcO‚‚eg[213.GetName]VN:WO®‹0"
+    EDG_flavor_IBR_religion_conflict.28.b:0 "òvîv„v#Wb/fNùR„vÿbìN”^å‹NTýBlŒTs^0"
+    EDG_flavor_IBR_religion_conflict.28.a:0 "êS	g‰V•^ˆmmpVYe’VÿMbýwÈubkYÇN„vªV¯s0"
+
+    EDG_flavor_IBR_religion_conflict.29.t:0 "[213.GetName]O®‹"
+    EDG_flavor_IBR_religion_conflict.29.d:0 "(WN*NgMRÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]„vNT¨S^OþVŒ³RÖN0\n\n¯rºN/fNTFz¯e—g7u'`ÿt^‰ÊOŽÿÂrípwT†áOÿ[Root.Monarch.GetName]„v¡R¯‹˜R±‚†NNhT„vöeô•MbÎNÖN„v4VÌ‘ØúQŒNg„v¨R:g0ŸSegÿÖN/fùR[Root.Monarch.GetTitle]Ñ›Nt^eg„v—RYeNËR¹RLˆ:Na0RNánÆQnx0Wô‹ÿ/f[Root.Monarch.GetName]„vNTúWcw’VgbÕl˜R(WgbLˆlQ¡R„vÇz-NSÖNáOðNO¯epQYe„vÍk²NŒT¹Y¹YSb‰kÿv^¡l	g×S0RûNUOé`Z0(W×S0RNTFz+YÐc„v.^©RTÿMRegŒNg[Root.Monarch.GetName]ÿåNBl:NÖN„vÍk²NŒT¹Y¹YYÇN0\n\n[Root.Monarch.GetName]leiOÙT¯rºNÿŽN/fØž¸‹†NÕl˜R2RYÙT¯rºNkpRÿ6qT(W—zðSNwNwÖN(WÈpkp„vqçpNSëSNw»yVºNN0\n\n(WÙN‹NöNTÿ[Root.Monarch.GetName]mN8^8^`wúWcwYeNO¯epQYe„vsQû|ÿbìNKN-NNšR	gŒ•†NTÿúWcw’VNFz¯e—gKNô•„vøv’N®SNgvzßz/fàV:NÀNHNÿ\n\n(WN)Y„vnhfÿÖNPW(W±‚íV„v•iN`w†N¸‹ENÿ)TTêñT„vÆNÎNÿfêñT:NOÔk)RšNø‹‹s™QNSáOÿ©‹ÖNìN>mcO‚‚eg[213.GetName]VN:WO®‹0"
+    EDG_flavor_IBR_religion_conflict.29.b:0 "òvîv„v#Wb/fNùR„vÿbìN”^å‹NTýBlŒTs^0"
+    EDG_flavor_IBR_religion_conflict.29.a:0 "êS	g‰V•^ˆmmpVYe’VÿMbýwÈubkYÇN„vªV¯s0"
+
+    EDG_flavor_IBR_religion_conflict.30.t:0 "[213.GetName]O®‹Óumg"
+    EDG_flavor_IBR_religion_conflict.30.d:0 "ŽN[213.GetName]USV„vO®‹gÈuÓumg†NÿÙ:W1uYÇNUSV„vù•gRgÈuåN'YYpeºNg…V„vbVV6e:W†N0"
+    EDG_flavor_IBR_religion_conflict.30.a:0 "I`	gºNNf‹v”^å‹‚YUO‰V•^ˆm-VYÇN0"
+
+    #熙德的遗产
+    EDG_flavor_IBR_religion_conflict.31.t:0 "™q·V„vWµN"
+    EDG_flavor_IBR_religion_conflict.31.d:0 "ŽN[213.GetName]USV„vO®‹gÈuÓumg†NÿÙ:W1uYÇNUSV„vù•gRgÈuåN'YYpeºNg…V„vbVV6e:W†N0"
+    EDG_flavor_IBR_religion_conflict.31.a:0 "I`	gºNNf‹v”^å‹‚YUO‰V•^ˆm-VYÇN0"
+    EDG_flavor_IBR_religion_conflict.31.b:0 "I`	gºNNf‹v”^å‹‚YUO‰V•^ˆm-VYÇN0"
+
+#奇观
+    #加利西亚 加利西亚港
+    EDG_IBR_monuments_event.1.t:0 "Aucƒ„v R)R‰šN/n"
+    EDG_IBR_monuments_event.1.d:0 " R)R‰šNMOŽNOÔk)RšNJS›S„v‰Sèÿ0WY'Y‰m¿l¸Sÿ/fÞ¥c'k2mŒTŽ2m„vÍ‘‰è•7bKNNÿàVdkvQ/nãS0WtMOnOŠÿïSåN¹e¿O0WÛLˆwmÐ8f016Nªu/f'k2m8fAucƒ„vöegÿ R)R‰šN/nãSmNàVdkwAucƒÿIN‰8fùRaŒSìb'k2m0Ž2mŒT^—2m„vFUÁTÿ‚YÑ‘ö”0Çuir0™™™e0tY¶–IrÿTöeØ	g'YÏ‘„vwm×vIm¨RÿÙmN:N/nãS„vAucƒ&^eg†NNšR„v/.s016Nªu R)R‰šN„v/nãS¾‹Ëe^—8^ŒRYÿSìbW„T„vÉbÑyœ<SšN/nŒTôub/nÿÙ›N/nãS„vx4Y0ÓN“^ŒTwÍ‘¾‹YIr¾‹Ëeý^—8^PŸhQÿïSåNán³NT‰|‹WŒTÄ‰/j„v9‚êSŒT'ir„vÅˆxS—Bl0 R)R‰šN/nãS1uŽNvQ0WtMOnOŠ08fImÃ0/nãSú^¾‹PŸhQŒT*‚wmŽb/gÐcØšIrO¿RÿwAucƒÑSUSÿb:N'k2mŒTŽ2m8f„vÍ‘‰¢gËuKNNÿwwçe„v/nãSùRÎW^„vÑSUS<ONN	g›NI–x0"
+    EDG_IBR_monuments_event.1.a:0 "TVYe’VV6eNáOwz(uåNibú^/nãS0"
+    EDG_IBR_monuments_event.1.b:0 "bìNO:NNb	gºNibú^/nãS0"
+    EDG_IBR_monuments_event.1.c:0 "¡l	gÅV‰0"
+    
+    #加利西亚 玛丽亚·皮塔广场
+    EDG_IBR_monuments_event.2.t:0 "›sKNšN·®vTX^:W"
+    EDG_IBR_monuments_event.2.d:0 "›sKNšN0®vTX(WÉbÑyœ<SšN†SòSNwQ	gÍ‘‰„vaIN01589t^ÿN:Wb‰NSºNìNôVðV(WwÎW…QÿKS¡r«ˆðV„v‡YsYŒT?Qåz‹˜:Vµb—bÿïSØ/f«ˆYµOwIe4xÿ(WÙqS%`öeIR›sKNšN0®vTXÙz†NúQegNg‰cNTLeýV-NkSÿÙNîX>Nâe/cKY†N,gýVlOÈSæSùR¹eëXl'Y:N×SmcÿÎNwÝO²bOO†NÙµ^ÎW^0^:WN×wËzNw›sKNšN0®vTX„vÜ”ÏP0"
+    EDG_IBR_monuments_event.2.b:0 "bìNSîOú^N*N^:WåNªuõVyY0"
+    EDG_IBR_monuments_event.2.a:0 "TVYe’VV6e^:WîOú^„v9(u0"
+    EDG_IBR_monuments_event.2.c:0 "ˆV‹Y„vEe‹N0"
+    
+    #莱昂 阿方索宫
+    EDG_IBR_monuments_event.3.t:0 "îOz„?–¹e0t«R"
+    EDG_IBR_monuments_event.3.d:0 "?–¹e0t«Rú^QrÎ˜<hìryrÿÓuT†NåTyrVŒT‡ez‚YtQ„vCQ.tÿú^QrYËzb—Ç‘(u†N'YÏ‘„vnmÕ–ŒTÕ–QXÿ™Xb—·U‚m†N'YÏ‘„vœ˜r‚ŒT±‚¹uÿOteµ^ú^Qr>f—V^—8^NSKN0‹s«R„v¾‹¡‹^—8^¾|Žÿ«R¿k…Qè„v'Y…S0pÊ^ŒT?bô•Irý^n—V^—8^jŒNSÿÇ‘(u†N0NÌRYiV„vÅˆp™ŒTz‚/gÁTÿ‚YØuIu0Õ–QX00WïkIr0‹s«R„vú^QrÄ‰/j^—8^ž^'Yÿ«R¿k…Qè	gY*N­^b–ŒT±‚íVÿ`S0Wb—ïyèT'YÿNT„vú^QrirKNô•ÇpÊ^øvÞÿteµ^«R¿k>f—V^—8^ROîXÂ‰ÿFO1uŽN•g:Sôu²bÿ?–¹e0t«R>f—VN±HNb`VîXKN0"
+    EDG_IBR_monuments_event.3.a:0 "©‹bìN:NdkTVYe’VVzÿ"
+    EDG_IBR_monuments_event.3.b:0 "‹s²ROúQDîOz„«R¿k0"
+    EDG_IBR_monuments_event.3.c:0 "Ù*Yjm9±”†N0"
+    
+    #科尔多瓦 科尔多瓦大教堂
+    EDG_IBR_monuments_event.4.t:0 "ÑySYæt„vfàs"
+    EDG_IBR_monuments_event.4.d:0 "ÑySYætnwúRÿÈST'Y<yÜbúRÿ/f‰ísYrW„T„vO¯epQú^QrÿmN/fNLuNg'Y„v<yÜbúRKNN0lQCQ711t^?–Éb/OºNVg†NÑySYætÿÎW^«ˆs^Rb2NèRÿ›OO¯epQYe’VŒTúWcwYe’VR+RO(u0ÙÍyGY*`„v‰R’cNôvcíu0RlQCQ784t^ÿ?–Üb·VNN³QšR(WÙÌ‘°eú^Nµ^nwúRÿ790t^1uÖN„v?QPRkøSIlÆYNNŒRb0TegkøSIlÆYŒNNSnwúRQ¦^ib'Y0ÖN(WnwúR„vNèžX R†N8*NpÊ^ÿÍyi'YGr„vTh—gÿØîOú^†N4*N'Y‹W·UÉl01523t^ÿHywy'Y…SÈS	cgq‡ez‚YtQ„v`ïÍ‘ú^ÿåTz^bú‹ÿ‚YœgýwYÝOÁ‹6e>SåTjO„vz˜)Rÿ'Y…S„vÅˆp™(WaSÌ‘9eYV-NSO/fg:NjŒNS„vÿSìbôVNwñbè•¾|ÃVv•LT„v±‚öSþVHh0iVr‚WKSv˜ÊSìrNàeŒN„vÅˆp™ýSO/f‰Lq„vÿÑySYætSYN—˜Žt¨t„vfàs0"
+    EDG_IBR_monuments_event.4.b:0 "eˆ³>S>kÿv^TNb	gºNV>e0"
+    EDG_IBR_monuments_event.4.a:0 "eˆ³>S>kÿFOÒbÝuVYe’VeQ…Q0"
+    EDG_IBR_monuments_event.4.c:0 "b¡l	g±”0"
+

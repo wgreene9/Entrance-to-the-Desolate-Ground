@@ -1,0 +1,218 @@
+﻿l_english:
+ Chinese_vassal:0 "é…G•"
+ Chinese_vassal_title:0 "é…G•"
+ Chinese_vassal_title_plural:0 "é…G•"
+ Chinese_vassal_long_desc:0 "é…G•/f^SŽN-NNS0W:S„vyrŠk^SýV‰|‹WÿNOß–ƒRìN„v—RINýV ReQb‰NÿFOOT—RINýVN4'YÏ‘„v/KŒT›Q–NP–ÿv^NïSåN4³uTIN¹ppeÿïSåNÇ‘ÖS¸‹YyršR„vY²NLˆ:N0"
+ Chinese_vassal_is_our:0 "$NAME|Y$/fbìN„v§Mé…G•§!"
+Chinese_vassal_state_action:0 "‰Blb:Né…G•"
+Chinese_vassal_state_action_title:0 "‰Blb:Né…G•"
+Chinese_vassal_state_action_desc:0 "‰Blb:Né…G•"
+Chinese_vassal_state_action_tooltip:0 "‰Blb:Né…G•"
+Chinese_vassal_state_action_alert_tooltip:0 "‰Blb:Né…G•"
+
+
+
+appanage:0 "‹s²RS‘"
+appanage_title:0 "‹s²RS‘"
+appanage_title_plural:0 "‹s²RS‘"
+appanage_is_our:0 "$NAME|Y$/fbìN„v§M‹s²RS‘§!"
+appanage_reform:0 "‹s²RS‘"
+
+ EDG_WEAK_appanage:0 "yrCgS‘"
+ EDG_WEAK_appanage_title:0 "yrCgS‘"
+ EDG_WEAK_appanage_title_plural:0 "yrCgS‘"
+ EDG_WEAK_appanage_is_our:0 "$NAME|Y$/fbìN„v§MyrCgS‘§!"
+ EDG_WEAK_appanage_long_desc:0 "yrCgÇ‘‘/f^SŽNÕlpQ‰0W:S„vyrŠk^SýVÿyrCgÇ‘‘SNOß–ƒRìN„v—RINýV ReQb‰NÿNýwÇ‘ÖSyršR„vY²NLˆ¨RÿêSN4ƒS„v/Kÿv^Nôf¹Rf4ng·ƒ—VìrËz0"
+EDG_WEAK_appanage_state_action:0 "‰Blb:NyrCgS‘"
+EDG_WEAK_appanage_state_action_title:0 "‰Blb:NyrCgS‘"
+EDG_WEAK_appanage_state_action_desc:0 "‰Blb:NyrCgS‘"
+EDG_WEAK_appanage_state_action_tooltip:0 "‰Blb:NyrCgS‘"
+EDG_WEAK_appanage_state_action_alert_tooltip:0 "‰Blb:NyrCgS‘"
+
+
+ EDG_FRA_Continental_Alliance_vassal:0 "'YF–Tßv"
+ EDG_FRA_Continental_Alliance_vassal_title:0 "'YF–Tßv"
+ EDG_FRA_Continental_Alliance_vassal_title_plural:0 "'YF–Tßv"
+ EDG_FRA_Continental_Alliance_vassal_is_our:0 "$NAME|Y$/fbìN„v§M'YF–Tßv§!"
+ EDG_FRA_Continental_Alliance_vassal_long_desc:0 "'YF–Tßv/f^SŽNÕlpQ‰„vyrŠk^SýVÿå‹‰|‹W„v^SýVSåb	ggNO„vìrËz>PTÿýwYÇ±‚9ºNÅ`ìS2UÛeQb‰N0"
+EDG_FRA_Continental_Alliance_vassal_state_action:0 "‰Blb:N'YF–Tßv"
+EDG_FRA_Continental_Alliance_vassal_state_action_title:0 "‰Blb:N'YF–Tßv"
+EDG_FRA_Continental_Alliance_vassal_state_action_desc:0 "‰Blb:N'YF–Tßv"
+EDG_FRA_Continental_Alliance_vassal_state_action_tooltip:0 "‰Blb:N'YF–Tßv"
+EDG_FRA_Continental_Alliance_vassal_state_action_alert_tooltip:0 "‰Blb:N'YF–Tßv"
+
+ EDG_French_vassal:0 "ÕlpQ‰ÝO²býV"
+ EDG_French_vassal_title:0 "ÕlpQ‰ÝO²býV"
+ EDG_French_vassal_title_plural:0 "ÕlpQ‰ÝO²býV"
+ EDG_French_vassal_long_desc:0 "ÕlpQ‰ÝO²býV/f^SŽNÕlpQ‰„vyrŠk^SýVÿÕlpQ‰ÝO²býVSOß–ƒRìN„v—RINýV ReQb‰NÿNýwÇ‘ÖSyršR„vY²NLˆ¨RÿêSN4ƒS„v/KÿFOôfN¹Rf4ng·ƒ—VìrËz0"
+ EDG_French_vassal_is_our:0 "$NAME|Y$/fbìN„v§MÕlpQ‰ÝO²býV§!"
+EDG_French_vassal_state_action:0 "‰Blb:NÕlpQ‰ÝO²býV"
+EDG_French_vassal_state_action_title:0 "‰Blb:NÕlpQ‰ÝO²býV"
+EDG_French_vassal_state_action_desc:0 "‰Blb:NÕlpQ‰ÝO²býV"
+EDG_French_vassal_state_action_tooltip:0 "‰Blb:NÕlpQ‰ÝO²býV"
+EDG_French_vassal_state_action_alert_tooltip:0 "‰Blb:NÕlpQ‰ÝO²býV"
+
+
+ EDG_catharism_vassal:0 "nm>mTwßvbXT"
+ EDG_catharism_vassal_title:0 "nm>mTwßvbXT"
+ EDG_catharism_vassal_title_plural:0 "nm>mTwßvbXT"
+ EDG_catharism_vassal_long_desc:0 "nm>mTwßvbXTýV^SŽN1u—RINýV†˜üR„vnm>mTwßvÿÅV‰˜ß–ƒRìN„v—RINýV ReQb‰NÿNýwÇ‘ÖSyršR„vY²NLˆ¨RÿFONON²NƒRìN„v6eeQÙuvQ—RINýV0"
+ EDG_catharism_vassal_is_our:0 "$NAME|Y$/fbìN„v§Mnm>mTwßvbXT§!"
+EDG_catharism_vassal_state_action:0 "‰Blb:Nnm>mTwßvbXT"
+EDG_catharism_vassal_state_action_title:0 "‰Blb:Nnm>mTwßvbXT"
+EDG_catharism_vassal_state_action_desc:0 "‰Blb:Nnm>mTwßvbXT"
+EDG_catharism_vassal_state_action_tooltip:0 "‰Blb:Nnm>mTwßvbXT"
+EDG_catharism_vassal_state_action_alert_tooltip:0 "‰Blb:Nnm>mTwßvbXT"
+
+
+
+ EDG_Latin_Province_vassal:0 "ÉbNLˆw"
+ EDG_Latin_Province_vassal_title:0 "ÉbNLˆw"
+ EDG_Latin_Province_vassal_title_plural:0 "ÉbNLˆw"
+ EDG_Latin_Province_vassal_long_desc:0 "ÉbNLˆwNOê¨Rß–ƒRìN„v—RINýV ReQb‰NÿÇºNÅ`ìS2U ReQb‰NÿFOåb	gêIN¾ZŒT„vCg›R0ÉbNLˆw¡l	gyršR„vY²NLˆ¨RÿFOO:N—RINýVÐc›O'YÏ‘„v/KŒT›Q–NP–ÿv^Nôf>PTŽNùR—RINÝOcÝuùRàVÚ‹0"
+ EDG_Latin_Province_vassal_is_our:0 "$NAME|Y$/fbìN„v§MÉbNLˆw§!"
+EDG_Latin_Province_vassal_state_action:0 "‰Blb:NÉbNLˆw"
+EDG_Latin_Province_vassal_state_action_title:0 "‰Blb:NÉbNLˆw"
+EDG_Latin_Province_vassal_state_action_desc:0 "‰Blb:NÉbNLˆw"
+EDG_Latin_Province_vassal_state_action_tooltip:0 "‰Blb:NÉbNLˆw"
+EDG_Latin_Province_vassal_state_action_alert_tooltip:0 "‰Blb:NÉbNLˆw"
+
+
+ EDG_HRE_vassal:0 "^y#WWlšj–ãýV"
+ EDG_HRE_vassal_title:0 "^y#WWlšj–ãýV"
+ EDG_HRE_vassal_title_plural:0 "^y#WWlšj–ãýV"
+ EDG_HRE_vassal_long_desc:0 "^y#WWlšj–ãýVNOê¨Rß–ƒRìN„v—RINýV ReQb‰NÿÇºNÅ`ìS2U ReQb‰NÿFOåb	gêIN¾ZŒT„vCg›R0^y#WWlšj–ãýV¡l	gyršR„vY²NLˆ¨RÿFOO:N—RINýVÐc›O'YÏ‘„v/KŒT›Q–NP–ÿv^Nôf>PTŽNùR—RINÝOcÝuùRàVÚ‹0"
+ EDG_HRE_vassal_is_our:0 "$NAME|Y$/fbìN„v§M^y#WWlšj–ãýV§!"
+EDG_HRE_vassal_state_action:0 "‰Blb:N^y#WWlšj–ãýV"
+EDG_HRE_vassal_state_action_title:0 "‰Blb:N^y#WWlšj–ãýV"
+EDG_HRE_vassal_state_action_desc:0 "‰Blb:N^y#WWlšj–ãýV"
+EDG_HRE_vassal_state_action_tooltip:0 "‰Blb:N^y#WWlšj–ãýV"
+EDG_HRE_vassal_state_action_alert_tooltip:0 "‰Blb:N^y#WWlšj–ãýV"
+
+ EDG_HRE_march:0 "^ýVôv–†˜0W"
+ EDG_HRE_march_title:0 "^ýVôv–†˜0W"
+ EDG_HRE_march_title_plural:0 "^ýVôv–†˜0W"
+ EDG_HRE_march_long_desc:0 "^y#WWlš^ýV„v^ýVôv–†˜0WNOê¨Rß–ƒRìN„v—RINýV ReQb‰NÿïSåNÇºNÅ`ìS2U ReQb‰NÿFOåb	gêIN¾ZŒT„vCg›R0^ýVôv–†˜0W¡l	gyršR„vY²NLˆ¨RÿO:N—RINýVÐc›ONšR„v/KŒT›Q–NP–ÿO–Nw‡v^„vlØSôf9eØSvQ—RIN0"
+ EDG_HRE_march_is_our:0 "$NAME|Y$/fbìN„v§M^ýVôv–†˜0W§!"
+EDG_HRE_march_state_action:0 "‰Blb:N^ýVôv–†˜0W"
+EDG_HRE_march_state_action_title:0 "‰Blb:N^ýVôv–†˜0W"
+EDG_HRE_march_state_action_desc:0 "‰Blb:N^ýVôv–†˜0W"
+EDG_HRE_march_state_action_tooltip:0 "‰Blb:N^ýVôv–†˜0W"
+EDG_HRE_march_state_action_alert_tooltip:0 "‰Blb:N^ýVôv–†˜0W"
+
+
+ EDG_HAB_personal_union:0 "ÈT^¯e/XTwßuýV"
+ EDG_HAB_personal_union_title:0 "ÈT^¯e/XTwßuýV"
+ EDG_HAB_personal_union_title_plural:0 "ÈT^¯e/XTwßuýV"
+ EDG_HAB_personal_union_long_desc:0 "ÈT^¯e/XTwßuýVNOê¨Rß–ƒRìN„v—RINýV ReQb‰NÿïSåNÇºNÅ`ìS2U ReQb‰NÿFOåb	gêIN¾ZŒT„vCg›R0NTŽNnfTwßuýVÿÈT^¯e/XTwßuýVO:N—RINýVÐc›O'YÏ‘„v/KŒT›Q–NP–ÿv^NN`S(uY²NsQû|ÿNåb	gôfNO„vìrËz>PT0"
+ EDG_HAB_personal_union_is_our:0 "$NAME|Y$/fbìN„v§MÈT^¯e/XTwßuýV§!"
+EDG_HAB_personal_union_state_action:0 "‰Blb:NÈT^¯e/XTwßuýV"
+EDG_HAB_personal_union_state_action_title:0 "‰Blb:NÈT^¯e/XTwßuýV"
+EDG_HAB_personal_union_state_action_desc:0 "1uŽNbìNåb	gøv”^„v?eœ^ýw›RÿbìNïSåN‰BlÖNìNb:NbìN„v§YÈT^¯e/XTwßuýV§!0\n\nÈT^¯e/XTwßuýV§MNO§!ê¨Rß–ƒRìN„v—RINýV ReQb‰NÿïSåNÇ§MºNÅ`§!ìS2U ReQb‰NÿFOåb	gêIN¾ZŒT„vCg›R0NTŽNnfTwßuýVÿÈT^¯e/XTwßuýVO:N—RINýVÐc›O'YÏ‘„v§M/K§!ŒT§M›Q–NP–§!ÿv^N§MN`S(uY²NsQû|§!ÿNåb	gôfNO„v§MìrËz>PT§!0"
+EDG_HAB_personal_union_state_action_tooltip:0 "(WùR…VTwTßu»l„v†˜0WÙN¹eb—ÿÈT^¯e/X‹sg	gÖNìNêñT„vNWYtõVÿckàV‚YdkÿbìNïSåNÙuˆNÖNìNN›NyrCgÿ©‹ÖNìNb:NbìN„vÈT^¯e/XTwßuýV0"
+EDG_HAB_personal_union_state_action_alert_tooltip:0 "‰Blb:NÈT^¯e/XTwßuýV"
+
+
+ EDG_CN_Frontier_Command:0 "ý²bœ^"
+ EDG_CN_Frontier_Command_title:0 "ý²bœ^"
+ EDG_CN_Frontier_Command_title_plural:0 "ý²bœ^"
+ EDG_CN_Frontier_Command_long_desc:0 "ý²bœ^NOê¨Rß–ƒRìN„v—RINýV ReQb‰NÿÇºNÅ`ìS2U ReQb‰NÿFOåb	gêIN¾ZŒT„vCg›R0ý²bœ^¡l	gyršR„vY²NLˆ¨RÿFOO:N—RINýVÐc›O'YÏ‘„v/KŒT›Q–NP–ÿv^Nôf>PTŽNùR—RINÝOcÝuùRàVÚ‹0"
+ EDG_CN_Frontier_Command_is_our:0 "$NAME|Y$/fbìN„v§Mý²bœ^§!"
+EDG_CN_Frontier_Command_state_action:0 "‰Blb:Ný²bœ^"
+EDG_CN_Frontier_Command_state_action_title:0 "‰Blb:Ný²bœ^"
+EDG_CN_Frontier_Command_state_action_desc:0 "‰Blb:Ný²bœ^"
+EDG_CN_Frontier_Command_state_action_tooltip:0 "‰Blb:Ný²bœ^"
+EDG_CN_Frontier_Command_state_action_alert_tooltip:0 "‰Blb:Ný²bœ^"
+
+ EDG_Bulgaria_viceroyalty_vassal:0 "^ýVI`cw:S"
+ EDG_Bulgaria_viceroyalty_vassal_title:0 "^ýVI`cw:S"
+ EDG_Bulgaria_viceroyalty_vassal_title_plural:0 "^ýVI`cw:S"
+ EDG_Bulgaria_viceroyalty_vassal_long_desc:0 "^ýVI`cw:SOê¨Rß–ƒRìN„v—RINýV ReQb‰Nÿ^ýVI`cw:S	gyršR„vY²NLˆ¨Rÿv^O:N—RINýVÐc›O'YÏ‘„v/KŒT›Q–NP–ÿv^Nôf>PTŽNùR—RINÝOcÝuùRàVÚ‹0"
+ EDG_Bulgaria_viceroyalty_vassal_is_our:0 "$NAME|Y$/fbìN„v§M^ýVI`cw:S§!"
+EDG_Bulgaria_viceroyalty_vassal_state_action:0 "‰Blb:N^ýVI`cw:S"
+EDG_Bulgaria_viceroyalty_vassal_state_action_title:0 "‰Blb:N^ýVI`cw:S"
+EDG_Bulgaria_viceroyalty_vassal_state_action_desc:0 "‰Blb:N^ýVI`cw:S"
+EDG_Bulgaria_viceroyalty_vassal_state_action_tooltip:0 "‰Blb:N^ýVI`cw:S"
+EDG_Bulgaria_viceroyalty_vassal_state_action_alert_tooltip:0 "‰Blb:N^ýVI`cw:S"
+
+
+
+ EDG_PER_vassal:0 "æt)R†˜"
+ EDG_PER_vassal_title:0 "æt)R†˜"
+ EDG_PER_vassal_title_plural:0 "æt)R†˜"
+ EDG_PER_vassal_long_desc:0 "æt)R†˜/f^SŽNOg„vyrŠk^SýV‰|‹WÿOß–ƒRìN„v—RINýV ReQb‰NÿT—RINýVN4'YÏ‘„v/KŒT›Q–NP–ÿïSåNÇ‘ÖS¸‹YyršR„vY²NLˆ:N0\nÏk*Næt)R†˜OM–NO—RIN§M0.5§!¹p§Yt^¦^ckßu'`§!\nÏk*NÑSUS¦^¾0R‰Bl„væt)R†˜:N—RINÐc›O§M0.1§!„vg¦^§Yâl¯eqVÍT›R§!0"
+ EDG_PER_vassal_is_our:0 "$NAME|Y$/fbìN„v§Mæt)R†˜§!"
+EDG_PER_vassal_state_action:0 "‰Blb:Næt)R†˜"
+EDG_PER_vassal_state_action_title:0 "‰Blb:Næt)R†˜"
+EDG_PER_vassal_state_action_desc:0 "‰Blb:Næt)R†˜"
+EDG_PER_vassal_state_action_tooltip:0 "‰Blb:Næt)R†˜"
+EDG_PER_vassal_state_action_alert_tooltip:0 "‰Blb:Næt)R†˜"
+
+ EDG_SAX_march:0 "^ýV›Q‹NÇ‘‘"
+ EDG_SAX_march_title:0 "^ýV›Q‹NÇ‘‘"
+ EDG_SAX_march_title_plural:0 "^ýV›Q‹NÇ‘‘"
+ EDG_SAX_march_long_desc:0 "^ýV›Q‹NÇ‘‘§Y`S(uY²NsQû|§!ÿFOïSåNÇùR§YD–¸^ýV§!ŒT§Y^y#WWlšj–ãýV§!Ç‘ÖSyršR„v§MY²NLˆ¨R§!·ƒÖSÿvQyr'`N§YkSbýV§!NôÿFOÏk*N§Y^ýV›Q‹NÇ‘‘§!SO˜Y:NbìNÐc›O§M1%§!„v§Y­‹Ãu¦^§!ŒT§M0.02§!„vg¦^§Y^ýV›Q‹N†˜–ˆ§!¹ppe0"
+ EDG_SAX_march_is_our:0 "$NAME|Y$/fbìN„v§M^ýV›Q‹NÇ‘‘§!"
+EDG_SAX_march_state_action:0 "‰Blb:N^ýV›Q‹NÇ‘‘"
+EDG_SAX_march_state_action_title:0 "‰Blb:N^ýV›Q‹NÇ‘‘"
+EDG_SAX_march_state_action_desc:0 "‰Blb:N^ýV›Q‹NÇ‘‘"
+EDG_SAX_march_state_action_tooltip:0 "‰Blb:N^ýV›Q‹NÇ‘‘"
+EDG_SAX_march_state_action_alert_tooltip:0 "‰Blb:N^ýV›Q‹NÇ‘‘"
+
+
+ EDG_FYM_slave_vassal:0 "Ä„tYw"
+ EDG_FYM_slave_vassal_title:0 "Ä„tYw"
+ EDG_FYM_slave_vassal_title_plural:0 "Ä„tYw"
+ EDG_FYM_slave_vassal_long_desc:0 "Ä„tYw§Y`S(uY²NsQû|§!ÿNNOß–bìNÛeQb‰NÿFOO:NbìNÐc›O˜Y„vz6e0ºN›RŒT›Q–NP–ÿv^TbìNlûy8fÞz‰N›R0å‚bìN«ˆAQ¸‹(WyršRwýN¾‹ËztY¶–µN0Wÿ±HNbìNSïSåN(WÄ„tYw„vwýNN¾‹ËztY¶–µN0W0"
+ EDG_FYM_slave_vassal_is_our:0 "$NAME|Y$/fbìN„v§MÄ„tYw§!"
+EDG_FYM_slave_vassal_state_action:0 "‰Blb:NÄ„tYw"
+EDG_FYM_slave_vassal_state_action_title:0 "‰Blb:NÄ„tYw"
+EDG_FYM_slave_vassal_state_action_desc:0 "‰Blb:NÄ„tYw"
+EDG_FYM_slave_vassal_state_action_tooltip:0 "‰Blb:NÄ„tYw"
+EDG_FYM_slave_vassal_state_action_alert_tooltip:0 "‰Blb:NÄ„tYw"
+
+
+ EDG_FYM_Agha_adm_vassal:0 "c‚‚æt)RLˆw"
+ EDG_FYM_Agha_adm_vassal_title:0 "c‚‚æt)RLˆw"
+ EDG_FYM_Agha_adm_vassal_title_plural:0 "c‚‚æt)RLˆw"
+ EDG_FYM_Agha_adm_vassal_long_desc:0 "c‚‚æt)RLˆw§YN`S(uY²NsQû|§!ÿNNOß–bìNÛeQb‰NÿO:NbìNÐc›O'YÏ‘„vz6ev^TbìNlûy8fÞz‰N›RÿFOOÏQSbìN„vF–›QNP–0dkYÿÏk*Nc‚‚æt)RLˆwOÙubìN.b‚YNîOckÿ\nLˆ?e¹RÏ‘: §G+100§!\n3zšR¦^ÐcGS±‚9: §G-5%§!\nF–›QNP–: §R-5§!\nt^¦^F–›Q.Oßu: §R-0.5§!\ng¦^ïS(u„vtY¶–: §R-1§!""
+ EDG_FYM_Agha_adm_vassal_is_our:0 "$NAME|Y$/fbìN„v§Mc‚‚æt)RLˆw§!"
+EDG_FYM_Agha_adm_vassal_state_action:0 "‰Blb:Nc‚‚æt)RLˆw"
+EDG_FYM_Agha_adm_vassal_state_action_title:0 "‰Blb:Nc‚‚æt)RLˆw"
+EDG_FYM_Agha_adm_vassal_state_action_desc:0 "‰Blb:Nc‚‚æt)RLˆw"
+EDG_FYM_Agha_adm_vassal_state_action_tooltip:0 "‰Blb:Nc‚‚æt)RLˆw"
+EDG_FYM_Agha_adm_vassal_state_action_alert_tooltip:0 "‰Blb:Nc‚‚æt)RLˆw"
+
+ EDG_FYM_Agha_dip_vassal:0 "oRÏ‚9NLˆw"
+ EDG_FYM_Agha_dip_vassal_title:0 "oRÏ‚9NLˆw"
+ EDG_FYM_Agha_dip_vassal_title_plural:0 "oRÏ‚9NLˆw"
+ EDG_FYM_Agha_dip_vassal_long_desc:0 "oRÏ‚9NLˆw§Y`S(uY²NsQû|§!ÿNNOß–bìNÛeQb‰NÿO:NbìNÐc›O'YÏ‘„vz6eŒT›Q–NP–ÿv^TbìNlûy8fÞz‰N›R0Ïk¾‹ËzN*NoRÏ‚9NLˆwÿSOžX R§M2§!*NbìNýwY¾‹Ëz„v§Yc‚‚æt)RLˆw§!b§YgbQR?–æLˆw§!„vpeÏ‘0"
+ EDG_FYM_Agha_dip_vassal_is_our:0 "$NAME|Y$/fbìN„v§MoRÏ‚9NLˆw§!"
+EDG_FYM_Agha_dip_vassal_state_action:0 "‰Blb:NoRÏ‚9NLˆw"
+EDG_FYM_Agha_dip_vassal_state_action_title:0 "‰Blb:NoRÏ‚9NLˆw"
+EDG_FYM_Agha_dip_vassal_state_action_desc:0 "‰Blb:NoRÏ‚9NLˆw"
+EDG_FYM_Agha_dip_vassal_state_action_tooltip:0 "‰Blb:NoRÏ‚9NLˆw"
+EDG_FYM_Agha_dip_vassal_state_action_alert_tooltip:0 "‰Blb:NoRÏ‚9NLˆw"
+
+ EDG_FYM_Agha_mil_vassal:0 "gbQR?–æLˆw"
+ EDG_FYM_Agha_mil_vassal_title:0 "gbQR?–æLˆw"
+ EDG_FYM_Agha_mil_vassal_title_plural:0 "gbQR?–æLˆw"
+ EDG_FYM_Agha_mil_vassal_long_desc:0 "gbQR?–æLˆw§YN`S(uY²NsQû|§!ÿOß–bìNÛeQb‰NÿO:NbìNÐc›O'YÏ‘„v›Q–v^TbìNlûy8fÞz‰N›RÿFOO—‰bìN±‚9z6eÛLˆôuc0dkYÿÏk*NgbQR?–æLˆwOÙubìN.b‚YNîOckÿ\nLˆ?e¹RÏ‘: §R-100§!\n3zšR¦^ÐcGS±‚9: §R+5%§!\nF–›QNP–: §G+5§!\nt^¦^F–›Q.Oßu: §G+0.5§!\ng¦^ïS(u„vtY¶–: §R-1§!"
+ EDG_FYM_Agha_mil_vassal_is_our:0 "$NAME|Y$/fbìN„v§MgbQR?–æLˆw§!"
+EDG_FYM_Agha_mil_vassal_state_action:0 "‰Blb:NgbQR?–æLˆw"
+EDG_FYM_Agha_mil_vassal_state_action_title:0 "‰Blb:NgbQR?–æLˆw"
+EDG_FYM_Agha_mil_vassal_state_action_desc:0 "‰Blb:NgbQR?–æLˆw"
+EDG_FYM_Agha_mil_vassal_state_action_tooltip:0 "‰Blb:NgbQR?–æLˆw"
+EDG_FYM_Agha_mil_vassal_state_action_alert_tooltip:0 "‰Blb:NgbQR?–
+
+
+ EDG_GSR_mil_vassal:0 "‚„›sS†˜0W"
+ EDG_GSR_mil_vassal_title:0 "‚„›sS†˜0W"
+ EDG_GSR_mil_vassal_title_plural:0 "‚„›sS†˜0W"
+ EDG_GSR_mil_vassal_long_desc:0 "‚„›sS†˜0W§Y`S(uY²NsQû|§!ÿOß–bìNÛeQb‰NÿO:NbìNÐc›Oz6eŒT›Q–NP–ÿv^Ðc›O‘šuQ Rb0dkYÿ‚„›sSïSåN«N×SkSbýV„v Rb0"
+ EDG_GSR_mil_vassal_is_our:0 "$NAME|Y$/fbìN„v§M‚„›sS†˜0W§!"
+EDG_GSR_mil_vassal_state_action:0 "‰Blb:N‚„›sS†˜0W"
+EDG_GSR_mil_vassal_state_action_title:0 "‰Blb:N‚„›sS†˜0W"
+EDG_GSR_mil_vassal_state_action_desc:0 "‰Blb:N‚„›sS†˜0W"
+EDG_GSR_mil_vassal_state_action_tooltip:0 "‰Blb:N‚„›sS†˜0W"
+EDG_GSR_mil_vassal_state_action_alert_tooltip:0 "‰Blb:N‚„›sS†˜0W"

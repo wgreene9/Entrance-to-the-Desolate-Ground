@@ -1,0 +1,65 @@
+government = monarchy
+add_government_reform = EDG_kingdom_of_castille_and_ASU
+primary_culture = leonese
+add_accepted_culture = castillian
+religion = catholic
+technology_group = western
+capital = 207
+add_army_professionalism = 0.1
+change_estate_land_share = {
+  estate = estate_nobles
+  share = 10
+}
+change_estate_land_share = {
+  estate = estate_church
+  share = -10
+}
+
+1440.3.6 = {
+  monarch = {
+    name = "O<h³u‰ III"  # Juan III
+    dynasty = "^…h³u"  #
+    birth_date = 1405.3.6
+    adm = 4
+    dip = 3
+    mil = 4
+  }
+}
+  
+1440.3.6 = {
+  heir = {
+    name = "‰RN<S"  # Juan III
+    monarch_name = "‰RN<S II"
+    dynasty = "^…h³u"  #
+    birth_date = 1443.3.6
+    claim = 95
+    adm = 5
+    dip = 4
+    mil = 5
+  }
+}
+  
+1440.3.6 = {
+  queen = {
+    name = "|V—VW®YÉb"  # Maria
+    dynasty = "·V SGYyr"  #
+    birth_date = 1406.1.1
+    female = yes
+    adm = 6
+    dip = 5
+    mil = 2
+  }
+}
+  
+1440.3.6 = {
+	  leader = {
+      name = "FzUØž·V 0idSºN0"
+      type = general
+      fire = 4
+      shock = 2
+      manuever = 1
+      siege = 2
+      birth_date = 1423.1.1
+	  }
+
+}

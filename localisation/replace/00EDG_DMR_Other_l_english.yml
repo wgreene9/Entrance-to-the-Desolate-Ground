@@ -1,0 +1,845 @@
+﻿l_english:
+ EDG_DMR_Circus:0 "§M	TnfiâVÃu§!"
+ EDG_DMR_Circus_desc:0 "t’ŽNN'k0W:S÷mqN„vNS¿RÿbìNÅV‰˜'YÄ‰!j„vÄuÇu0W¹eluQåN”^ùRÙNR"
+ EDG_DMR_Circus_short:0 "0W¹eÄuÇu"
+
+ EDG_DMR_mechanics_add_modifier.tt:0 "SNð§YîOck§! ReQ§M	Tnfijm+oININ¦^§!?eœ^ýw›Rÿå‹§YîOck:V¦^§!S–Nw§TÛ¦^§!„v§YØSS§!w§YØSS§!"
+ EDG_DMR_mechanics_modifier_duration.tt:0 "Nð§YîOck§!S§Ycíu§!0R§YNN!k`SjS§!"
+ EDG_DMR_gripsy_romanticism_ability:0 "§M	Tnfijm+oININ¦^§!"
+ EDG_DMR_gripsy_romanticism_power:0 "§M	Tnfijm+oININ¦^§!"
+ ability_EDG_DMR_gripsy_romanticism_ability:0 "§M	Tnfijm+oININ¦^§!"
+ EDG_DMR_Lottery_interactions_one:0 "§Y©cp™§!"
+ EDG_DMR_Lottery_interactions_one_desc:0 ""
+ EDG_DMR_Lottery_interactions_two:0 "§Mûl§!"
+ EDG_DMR_Lottery_interactions_two_desc:0 "NbŒxyyøvOÿckMO„vÊ‘a(WÐgÍyÅ`µQN=fïSåNøv’Nlbc„vÿw‚YUO©‹bìN„vlOøváOÙNeˆEQ„vã‰Ê‘R=fî•˜˜„vsQ.•0ÇÍ‘°e‰R’c`SjS^ùRN!k`SjSÓuœg„vÍ‘°eã‰û‹ÿÕ‹þVûlLrb—+TINeg©‹‹TÐsY^y7wŒ˜bìN0"
+ EDG_DMR_Lottery_interactions_two.trigger_1.tt:0 "`SjS§YS*gÓumg§!"
+ EDG_DMR_Lottery_interactions_two.trigger_2.tt:0 "SVMR§YSàeÀoIm„vLrb—§!Heœg"
+ EDG_DMR_Lottery_interactions_two.effect.tt:0 "S§YN!k¢cûR§!„v§YLrb—§!îOckckMO§Tûl§!\n\nSèR§YÛ¦^agîOck§!ÛLˆ§Tûl§!"
+ EDG_DMR_Lottery_interactions_three:0 "§Oíc:y§!"
+ EDG_DMR_Lottery_interactions_three_desc:0 ""
+ monthly_EDG_DMR_gripsy_romanticism_power:0 "g¦^§M	Tnfijm+oININ¦^§!"
+ EDG_DMR_num_of_overturn_chance:0 "ïS(uûlLrb—!kpe"
+ EDG_DMR_num_of_divination:0 "¢cûRLrb—!kpe"
+ EDG_DMR_compelete_round:0 "òTŒRb¢cûRnpe"
+ EDG_DMR_num_flip_card:0 "ûlLrb—!kpe"
+
+
+
+ EDG_DMR_reverse_the_image:0 "mblaaŒ"
+ desc_EDG_DMR_reverse_the_image:0 ""
+ EDG_DMR_cover_card:0 "©cp™Lrb—"
+ desc_EDG_DMR_cover_card:0 ""
+ EDG_DMR_reveal_card:0 "íc:yLrb—"
+ desc_EDG_DMR_reveal_card:0 ""
+ EDG_DMR_circulation_card:0 "Aml"
+ desc_EDG_DMR_circulation_card:0 ""
+ EDG_DMR_secondary_deck_1_modifier:0 "S?–aS±LrÄuÿ§YCgVg§!"
+ desc_EDG_DMR_secondary_deck_1_modifier:0 ""
+ EDG_DMR_secondary_deck_2_modifier:0 "S?–aS±LrÄuÿ§Y1Wog§!"
+ desc_EDG_DMR_secondary_deck_2_modifier:0 ""
+ EDG_DMR_secondary_deck_3_modifier:0 "S?–aS±LrÄuÿ§YRQR§!"
+ desc_EDG_DMR_secondary_deck_3_modifier:0 ""
+ EDG_DMR_secondary_deck_4_modifier:0 "S?–aS±LrÄuÿ§Yf^§!"
+ desc_EDG_DMR_secondary_deck_4_modifier:0 ""
+
+ EDG_DMR_card_0_modifier_straight:0 "§GckMO§!ÿ§Yaw§!"
+ desc_EDG_DMR_card_0_modifier_straight:0 ""
+ EDG_DMR_card_0_modifier_contrary:0 "§RMO§!ÿ§Yaw§!"
+ desc_EDG_DMR_card_0_modifier_contrary:0 ""
+ EDG_DMR_card_1_modifier_straight:0 "§GckMO§!ÿ§YT›=g^§!"
+ desc_EDG_DMR_card_1_modifier_straight:0 ""
+ EDG_DMR_card_1_modifier_contrary:0 "§RMO§!ÿ§YT›=g^§!"
+ desc_EDG_DMR_card_1_modifier_contrary:0 ""
+ EDG_DMR_card_2_modifier_straight:0 "§GckMO§!ÿ§YsYmyøS§!"
+ desc_EDG_DMR_card_2_modifier_straight:0 ""
+ EDG_DMR_card_2_modifier_contrary:0 "§RMO§!ÿ§YsYmyøS§!"
+ desc_EDG_DMR_card_2_modifier_contrary:0 ""
+ EDG_DMR_card_3_modifier_straight:0 "§GckMO§!ÿ§YsY‡v§!"
+ desc_EDG_DMR_card_3_modifier_straight:0 ""
+ EDG_DMR_card_3_modifier_contrary:0 "§RMO§!ÿ§YsY‡v§!"
+ desc_EDG_DMR_card_3_modifier_contrary:0 ""
+ EDG_DMR_card_4_modifier_straight:0 "§GckMO§!ÿ§Y‡v^§!"
+ desc_EDG_DMR_card_4_modifier_straight:0 ""
+ EDG_DMR_card_4_modifier_contrary:0 "§RMO§!ÿ§Y‡v^§!"
+ desc_EDG_DMR_card_4_modifier_contrary:0 ""
+ EDG_DMR_card_5_modifier_straight:0 "§GckMO§!ÿ§YYe‡v§!"
+ desc_EDG_DMR_card_5_modifier_straight:0 ""
+ EDG_DMR_card_5_modifier_contrary:0 "§RMO§!ÿ§YYe‡v§!"
+ desc_EDG_DMR_card_5_modifier_contrary:0 ""
+ EDG_DMR_card_6_modifier_straight:0 "§GckMO§!ÿ§YK`ºN§!"
+ desc_EDG_DMR_card_6_modifier_straight:0 ""
+ EDG_DMR_card_6_modifier_contrary:0 "§RMO§!ÿ§YK`ºN§!"
+ desc_EDG_DMR_card_6_modifier_contrary:0 ""
+ EDG_DMR_card_7_modifier_straight:0 "§GckMO§!ÿ§Ybf§!"
+ desc_EDG_DMR_card_7_modifier_straight:0 ""
+ EDG_DMR_card_7_modifier_contrary:0 "§RMO§!ÿ§Ybf§!"
+ desc_EDG_DMR_card_7_modifier_contrary:0 ""
+ EDG_DMR_card_8_modifier_straight:0 "§GckMO§!ÿ§Y›RÏ‘§!"
+ desc_EDG_DMR_card_8_modifier_straight:0 ""
+ EDG_DMR_card_8_modifier_contrary:0 "§RMO§!ÿ§Y›RÏ‘§!"
+ desc_EDG_DMR_card_8_modifier_contrary:0 ""
+ EDG_DMR_card_9_modifier_straight:0 "§GckMO§!ÿ§Y–w§!"
+ desc_EDG_DMR_card_9_modifier_straight:0 ""
+ EDG_DMR_card_9_modifier_contrary:0 "§RMO§!ÿ§Y–w§!"
+ desc_EDG_DMR_card_9_modifier_contrary:0 ""
+ EDG_DMR_card_10_modifier_straight:0 "§GckMO§!ÿ§Y‹TÐKNn§!"
+ desc_EDG_DMR_card_10_modifier_straight:0 ""
+ EDG_DMR_card_10_modifier_contrary:0 "§RMO§!ÿ§Y‹TÐKNn§!"
+ desc_EDG_DMR_card_10_modifier_contrary:0 ""
+ EDG_DMR_card_11_modifier_straight:0 "§GckMO§!ÿ§YckIN§!"
+ desc_EDG_DMR_card_11_modifier_straight:0 ""
+ EDG_DMR_card_11_modifier_contrary:0 "§RMO§!ÿ§YckIN§!"
+ desc_EDG_DMR_card_11_modifier_contrary:0 ""
+ EDG_DMR_card_12_modifier_straight:0 "§GckMO§!ÿ§YPTºN§!"
+ desc_EDG_DMR_card_12_modifier_straight:0 ""
+ EDG_DMR_card_12_modifier_contrary:0 "§RMO§!ÿ§YPTºN§!"
+ desc_EDG_DMR_card_12_modifier_contrary:0 ""
+ EDG_DMR_card_13_modifier_straight:0 "§GckMO§!ÿ§Y‰k^y§!"
+ desc_EDG_DMR_card_13_modifier_straight:0 ""
+ EDG_DMR_card_13_modifier_contrary:0 "§RMO§!ÿ§Y‰k^y§!"
+ desc_EDG_DMR_card_13_modifier_contrary:0 ""
+ EDG_DMR_card_14_modifier_straight:0 "§GckMO§!ÿ§Y‚‚6R§!"
+ desc_EDG_DMR_card_14_modifier_straight:0 ""
+ EDG_DMR_card_14_modifier_contrary:0 "§RMO§!ÿ§Y‚‚6R§!"
+ desc_EDG_DMR_card_14_modifier_contrary:0 ""
+ EDG_DMR_card_15_modifier_straight:0 "§GckMO§!ÿ§Yv`T›§!"
+ desc_EDG_DMR_card_15_modifier_straight:0 ""
+ EDG_DMR_card_15_modifier_contrary:0 "§RMO§!ÿ§Yv`T›§!"
+ desc_EDG_DMR_card_15_modifier_contrary:0 ""
+ EDG_DMR_card_16_modifier_straight:0 "§GckMO§!ÿ§YØšTX§!"
+ desc_EDG_DMR_card_16_modifier_straight:0 ""
+ EDG_DMR_card_16_modifier_contrary:0 "§RMO§!ÿ§YØšTX§!"
+ desc_EDG_DMR_card_16_modifier_contrary:0 ""
+ EDG_DMR_card_17_modifier_straight:0 "§GckMO§!ÿ§Yff§!"
+ desc_EDG_DMR_card_17_modifier_straight:0 ""
+ EDG_DMR_card_17_modifier_contrary:0 "§RMO§!ÿ§Yff§!"
+ desc_EDG_DMR_card_17_modifier_contrary:0 ""
+ EDG_DMR_card_18_modifier_straight:0 "§GckMO§!ÿ§Yg®N§!"
+ desc_EDG_DMR_card_18_modifier_straight:0 ""
+ EDG_DMR_card_18_modifier_contrary:0 "§RMO§!ÿ§Yg®N§!"
+ desc_EDG_DMR_card_18_modifier_contrary:0 ""
+ EDG_DMR_card_19_modifier_straight:0 "§GckMO§!ÿ§Y*Y3–§!"
+ desc_EDG_DMR_card_19_modifier_straight:0 ""
+ EDG_DMR_card_19_modifier_contrary:0 "§RMO§!ÿ§Y*Y3–§!"
+ desc_EDG_DMR_card_19_modifier_contrary:0 ""
+ EDG_DMR_card_20_modifier_straight:0 "§GckMO§!ÿ§Y¡R2R§!"
+ desc_EDG_DMR_card_20_modifier_straight:0 ""
+ EDG_DMR_card_20_modifier_contrary:0 "§RMO§!ÿ§Y¡R2R§!"
+ desc_EDG_DMR_card_20_modifier_contrary:0 ""
+ EDG_DMR_card_21_modifier_straight:0 "§GckMO§!ÿ§YNLu§!"
+ desc_EDG_DMR_card_21_modifier_straight:0 ""
+ EDG_DMR_card_21_modifier_contrary:0 "§RMO§!ÿ§YNLu§!"
+ desc_EDG_DMR_card_21_modifier_contrary:0 ""
+
+
+
+
+
+
+
+
+ EDG_DMR_mechanics.0.name:0 ""
+ EDG_DMR_mechanics.0.desc:0 ""
+ EDG_DMR_mechanics.0.aa:0 ""
+ EDG_DMR_mechanics.0.bb:0 ""
+ EDG_DMR_mechanics.1.name:0 "LrMO"
+ EDG_DMR_mechanics.1.desc:0 "'Y?–aS±åb	g22.VLrb—ÿTöeÏk.VLrb—ØR:NckMONMOÿàVdk(Wíc:yLrb—KNMR—‰HQnxšRLrMO:Nckb0\n\n8^egô‹ÿckLrMOteSOOPTckb—ïygÿwLrMOÍSKN0ÐcMRåwSfLrMOïSåNùR¥cNeg„vLrb—HeœgZPúQRek2R­eÿFOÍN6qXR(WÎ˜i–ÿàV:Nv^^—Nb	gLrb—„vckMOý=fïyg„vÿMOLrb—mNTt0\n\nwdk!kbìNNbËbÖS„vLrMO=fÿ"
+ EDG_DMR_mechanics.1.aa:0 "ckMO"
+ EDG_DMR_mechanics.1.aa.trigger.tt:0 "§T‹TÐ§!cT§GckMO§!"
+ EDG_DMR_mechanics.1.bb:0 "MO"
+ EDG_DMR_mechanics.1.bb.trigger.tt:0 "§T‹TÐ§!cT§RMO§!"
+ EDG_DMR_mechanics.2.name:0 ""
+ EDG_DMR_mechanics.2.desc:0 ""
+ EDG_DMR_mechanics.2.aa:0 ""
+ EDG_DMR_mechanics.2.bb:0 ""
+ EDG_DMR_mechanics.2.cc:0 ""
+ EDG_DMR_mechanics.2.dd:0 ""
+ EDG_DMR_mechanics.2.ee:0 ""
+ EDG_DMR_mechanics.2.ff:0 ""
+ EDG_DMR_mechanics.2.gg:0 ""
+ EDG_DMR_mechanics.2.hh:0 ""
+ EDG_DMR_mechanics.2.ii:0 ""
+ EDG_DMR_mechanics.2.jj:0 ""
+ EDG_DMR_mechanics.2.kk:0 ""
+ EDG_DMR_mechanics.2.ll:0 ""
+ EDG_DMR_mechanics.2.mm:0 ""
+ EDG_DMR_mechanics.2.nn:0 ""
+ EDG_DMR_mechanics.2.oo:0 ""
+ EDG_DMR_mechanics.2.pp:0 ""
+ EDG_DMR_mechanics.2.qq:0 ""
+ EDG_DMR_mechanics.2.rr:0 ""
+ EDG_DMR_mechanics.2.ss:0 ""
+ EDG_DMR_mechanics.2.tt:0 ""
+ EDG_DMR_mechanics.2.uu:0 ""
+ EDG_DMR_mechanics.2.vv:0 ""
+ EDG_DMR_mechanics.3.name:0 "íc:yLrb—"
+ EDG_DMR_mechanics.3.desc:0 "[Root.GetDMRCardDesc]"
+ EDG_DMR_card_0_desc:0 "0aw0\n\n0hˆ:y¡l	gÿ1S‹YÏPNàeNbåwÿLr-NÙ*NÖbW„S×r„vR—t^ÿweg=f:NW„žR°sN*N¨RºN„vR'Y„gó`ÿwUSVÅezÿïS=fbìNÎNþVwÿÖNckp(W¬`T¹ÿwëSÁeºN:NÖN¹bŠbWlÿïS=fÖNtSwViOv^NßRÉ‰êñT«ŽYi–ƒXÿØ=f±HN8n6qê—V0«ƒ^—ÖNw„vøváO0»PºN	g»Py0ÿ‚Yœg=fÿÖN1S=fN*Nwck„v'Y»PÜt0"
+ EDG_DMR_card_1_desc:0 "0T›=g^0\n\nwwÙ*NT›=g^ÿ<ONNåb	gàeP–„výw›RÿðSb—N>eW„†NQR0og0fŒTVgÿFOÖNtSKbcT›VgÿjO¿RÏPHyBlN)YPN›RÏ‘ÿ2UwT›Õl<O„v0ÖN0R•^ýwÎNÙZ†àeKNô•ÿØSSúQuHNegbTÿ"
+ EDG_DMR_card_2_desc:0 "0sYmyøS0\n\nÙ*N1Wm„vsYmyøSÿïzck„vPWW„ÿKb-NØÿbW„NwSfNÿÁ‹fyYEQánzfgaÿ>eÃV²NÙuyY»S³QšR‹Y†N0"
+ EDG_DMR_card_3_desc:0 "0sY‡v0\n\nŽKN„vsY‡vPW(WOÅ–‚„viPRNÿÛVhTNGrƒÆRîh—gÿäNºN	gÍyàeçVàeQ†ÿ8nò•ê(W„vaÉ‰ÿiPRÁeØ>eW„N—˜ÃVÿ<ONN=fyY	gÃVPÙu`OÙ›N0Nƒl„vW0WŒTœgPRÿWán„v1rÿ”^å‹‹Y‹Y„v0Œi`†N0"
+ EDG_DMR_card_4_desc:0 "0‡v^0\n\nPW(WRµ^N„v‡v^ÿwegEQánZ%NÿSV6qÿÖNýwuNgN:YÿCg>PgÎ‘ÿ†˜üR'YOpTÌR:V0jO:NNýVKNTÿôf=f6r²N„vœi7hÿ&TR‚YUOYeSÖN„vPRlÿ"
+ EDG_DMR_card_5_desc:0 "0Ye‡v0\n\nYeIN=f—RYeŒT¾|^yN„vCgZ0ƒRI`O:NbìNŒb0RÃVupN„vúQãSÿÖN„vHa²`N·VLˆÿÅVýwc:ybìNNOï‹eQgkÿŽN²‹no‚ÃVÿÉ‰ÊN=fw(f^—„vSï02SvQSV`Oa0R…QÃV'ašu„vöePÿÖNI`OPNŽNY—,T`O„vÏV”`0"
+ EDG_DMR_card_6_desc:0 "0K`ºN0\n\n0WN	gNùR7usYÿ)YN„v)YOý:NÖNìNkyyÿ‰®dTÙùR7usY„vûYÿÞN)Yý.^NNŠbÿøváOÖNìN„vK`Å`O=f^—8^x^yŽán0"
+ EDG_DMR_card_7_desc:0 "0bf0\n\nÇRëXPW(WbfNÿMRb—1u2N4Ys‹QÉbW„ÿwN»S=fÆQYúQV0b:W=fN*NEQánqS:g0án^w–1–„v0W¹eÿ‰	gZW:V„va×VÿÂa—VÐyr7^D^ÿMbýw³QÜwCSÌ‘KNY0NÇÿIN¨RúQûQÆQO·ƒ—VÜw)R0"
+ EDG_DMR_card_8_desc:0 "0›RÏ‘0\n\nN*Nweg)nÔgv^NEQánàeP–zfga„vSsYÿßz6qošg†NîrPRÿyY„vÇRlŒTÆwr‚žR(WOºNleiO0ÔkW„=fnfºNÿÞpÑîrPRJSekýNbeó`ÏPÿÙïSw—r=f0ÇRwàeç`0†N0"
+ EDG_DMR_card_9_desc:0 "0–w0\n\nÙ*NKbc(gVgŒTopÿán8áwPR„v–ëXÿÙz(WqSv˜KNNÿN>mÍ‚ÉQdRìr„vaÉ‰0ÖNÐcW„opPRÿ‚W4YNgÿ<O=f(WŒbûRW„uHN<O„v0«ƒ^—(WÑž—fNf„v0W¹eÿ–Ï…W„uHNN‰ÿ"
+ EDG_DMR_card_10_desc:0 "0‹TÐKNn0\n\n)YN„vnPRNjP0Wl¨Rÿhˆ:y‹TÐmN‚YTnPR,‚NjP„vlØSÿckNbŒ0ASt^³lNÿASt^³l‰00Î˜4lnAml0ÿl:g<ONNòTÏu(W`O<wMR0"
+ EDG_DMR_card_11_desc:0 "0ckIN0\n\nN*N‹sPR!j7h„vºNÿNKbácW„RQRÿæSNKbÐcW„äyPR0ÖN(gàehˆÅ`ÿÑSúQ·QY—NZ%N„vl¿RÿNÍy:NaˆÏ‘ùR•òfôv06RÁˆv`ºN0ôu²bS·V0INcckIN„v¶g¿R0"
+ EDG_DMR_card_12_desc:0 "0PTºN0\n\nÖN=feYN„vS«Žÿ:N†NýBlåwÆ‹ÿb—ùRÕ‹ÃuÿêbzrrrÿŠbêñTPc(WhNÿÖN¡l	ga0RÛuæ‚ÿêS=f(WÙýi†N„v¶rµQNØžØžÍSwÿêS‰ÍVwÿÖN„v.s«ŽÈuO—V0RÞV¥b0"
+ EDG_DMR_card_13_desc:0 "0‰k^y0\n\n‰k^y«bW„à”2uÿ(WÑžYöeeg0RºNìNb—MRÿ¸‹YºNŒT‹Nirý¾–N«R0x^NåeIQNúQÿ‡v^úQeg÷‹‰k^y»y»SÿºNìNMbýw›btSòTÏu1Y»Su‹T›R„vNRÿÍ‘°eUSVuIm0"
+ EDG_DMR_card_14_desc:0 "0‚‚6R0\n\nfRÂaŒcác‰Í‘ýNÏ‘=fˆVÍ‘‰„v0bìNNýw©‹2kgŒTÅ`êuÿ‹YÏPogPRÌ‘„v4lÿ–¿O©‹ƒR¢núQÿå‚œgw„v=fïy=t—V*YánÿN¨YŒb›NN‰egRÅbNN0"
+ EDG_DMR_card_15_desc:0 "0v`T›0\n\nv`T›I`O¾‹NÍyÍy4–Œeg:k—šºNÿO±›Na×V„…1V„vºNï‹eQgk0v`T›ôfœU0k(uŽr‚egñ‹Ñ`ºNÿ©‹`OµNu„Yó`ÿØS—VXK„ÿÙ7h1SO‰fÌÛv`T›¾‹N„v·g•-N0"
+ EDG_DMR_card_16_desc:0 "0ØšTX0\n\nÎ˜w‘NŒm„vZfNÿ8wËz(WqSv˜N„vØšTXÿàV:NÇŽNzúQÿ‹Yu¹Rf«ˆ÷–5uûQ-N01uŽN`O„vØš²PêánÿmNˆV¹RfýVÆ‰«Ž¹¯sƒXÿwaYÿ1SO(WÙöeµO­ˆ`O0"
+ EDG_DMR_card_17_desc:0 "0ff0\n\nw0Rffÿ1Sf‹vbìN«ŽYYZfÿffO:NÅe-N„vºNìNVïÿz˜)R0W0R¾îv„v0WÿTöeƒRmNãNhˆNwÍk'`ŒTŽKN0"
+ EDG_DMR_card_18_desc:0 "0g®N0\n\nNô‹0Rg®Nÿ1SOäNºNTwó`0R0ØSS00ØSSI`OOºNa0R÷Ø`0N‰R0¨RGdŒTNÚ‹žRIrIr0noPl=fàV:Ng®NqVÍTwbÿuóºN„vÅ`êumN	gsQû|ÿNbåNÍS†‰àe8^ck=fÙ.VLr„vN*Nyr¹p0"
+ EDG_DMR_card_19_desc:0 "0*Y3–0\n\n*Y3–=fNirýwÏ‘KNn0ƒR:NºNìN&^egœU¦`0x^y0Aucƒ0ImÃ0ípÅ`IrIrÿNRïyg„vàV.t0"
+ EDG_DMR_card_20_desc:0 "0¡R2R0\n\n)YO9Tw†N÷SÒ‰ÿ±RJT¡R2R„vöeIReg†N0‰k»S„vºNÎNúh(gÌ‘,rúQegÿ0k1k0WIr…VÙ!k¡R2R&^eg„vYIm0Í‘°eûRÞV1Y»S„vupB›ÿ‰k»S„v¾|^y—V0RÉ‰’‘ÿQ!kŽN°eu‹T0"
+ EDG_DMR_card_21_desc:0 "0NLu0\n\nLr„vÛVÒ‰S+T†N0W4lkpÎ˜ÛVCQ.tÿhˆ:y‹NÅ`^—8^Wánÿ¦NaŒV‹NÅ`„vŒRbÿsY^y&^ÙubìN„v=fIQf„v*geg0"
+ EDG_DMR_mechanics.3.aa:0 "0‹TÐ(Wdk0"
+ EDG_DMR_mechanics_begin_new_loop.tt:0 "§Yå‹n¢cûRòTŒRbÿN!kSV=T°eNn¢cûR§!"
+ EDG_DMR_gripsy_romanticism_power_gain_modifier:0 "§M	Tnfijm+oININ¦^§!"
+ EDG_DMR_straight_card_0.tt:0 "S§YNJS§!„v£adm£¹ppel:N£mil£¹ppe"
+ EDG_DMR_contrary_card_0.tt:0 "S§YNJS§!„v£dip£¹ppel:N£adm£¹ppe"
+ EDG_DMR_straight_card_3.tt:0 "ÐcGS§G5%§!„v§YI`ÑSUS¦^§!ÿv^–:gåN§YNT‰|‹W§!„vÑSUS¦^§TGWR§!0R§YbìN»lN„v8hÃVwýN§!\n\nóSÐcGS§G1§!ÑSUS¦^"
+ EDG_DMR_contrary_card_3.tt:0 "ÏQS§G5%§!„v§YI`ÑSUS¦^§!ÿ1u§YbìN»lN„v8hÃVwýN§!§TGWR§!b×S\n\nóSÏQS§R1§!ÑSUS¦^"
+ EDG_DMR_straight_card_4.tt:0 "§YbìN»lNNb	g8hÃVwýN§!ËzIR1Y»S§G25§!„v§Yê»l¦^§!"
+ EDG_DMR_contrary_card_4.tt:0 "§YbìN»lNNb	g8hÃVwýN§!ËzIR·ƒ—V§R25§!„v§Yê»l¦^§!"
+ EDG_DMR_straight_card_5.tt:0 "nd–§YbìN»lNNb	gVYe8hÃVwýN§!N„v§Y—RYeípÅ`§!\n\nOgY§R5§!*N§YbìN»lN„vVYe8hÃVwýN§!ˆvO§YýVYe§!"
+ EDG_DMR_contrary_card_5.tt:0 "1Y»SóY§R5§!*N§YbìN»lNýVYe8hÃVwýN§!„v§T8hÃV§!"
+ EDG_DMR_straight_card_6.tt:0 "Nb	gTbìN§Y‹s²RTwûY§!„výV¶R§Yøv’NKNô•§!žX R§G20§!áOûN\n\n‚YœgNXR(W§YçubºN§!ÿR§G·ƒ—V§!NMO§YçubºN§!\n\n‚YœgNXR(W§YM‘vP§!ÿR§G·ƒ—V§!NMO§YM‘vP§!"
+ EDG_DMR_contrary_card_6.tt:0 "Nb	gTbìN§Y‹s²RTwûY§!„výV¶R§Yøv’NKNô•§!ÏQS§R20§!áOûN\n\n§RTM‘vP»yZZ§!"
+ EDG_DMR_straight_card_7.tt:0 "9hnc§YÑyŽbIrµu§!N§YF–›QNP–§!ÿ(W–™ý·ƒ—V§GNšRpeÏ‘§!„v§Yf’W§!uQÍy"
+ EDG_DMR_contrary_card_7.tt:0 "§Rã‰Ç–§!Nb	g§YF–›QS†˜§!"
+ EDG_DMR_straight_card_8.tt:0 "S§YTYºN›R§!§GeˆEQ§!ó§YºN›RNP–§!"
+ EDG_DMR_contrary_card_8.tt:0 "S§YTYºN›R§!§Rnzz§!"
+ EDG_DMR_straight_card_9.tt:0 "–:g·ƒ—V§G3§!MOR^S§YNT†˜ßW§!v^åb	g§G75%§!˜bcb„v§Y5§!µuŒ˜î•"
+ EDG_DMR_contrary_card_9.tt:0 "ËzIR§Rã‰Ç–§!§YNb	gŒ˜î•§!"
+ EDG_DMR_straight_card_10.tt:0 "§Y²Nbc§!£adm£¹ppeN£mil£¹ppeÿ§G·ƒ—V§!2Nw§YîT<P§!„v£dip£¹ppe"
+ EDG_DMR_contrary_card_10.tt:0 "Såb	g§YgY§!¹ppe„v§T¹ppe‰|‹W§!„v¹ppe§Rnzz§!"
+ EDG_DMR_straight_card_11.tt:0 "M–NO§YbìN»lNNb	g8hÃVwýN§!„v§YÛSqN§!ôv0R§R0§!"
+ EDG_DMR_contrary_card_11.tt:0 "§YbìN»lNNb	g8hÃVwýN§!SžX R§R10§!¹p§YR»yININ§!"
+ EDG_DMR_straight_card_12.tt:0 "§GžX R§!N!k§YûlLrb—§!„v:gO"
+ EDG_DMR_contrary_card_12.tt:0 "§YbìN»lNNb	g8hÃVwýN§!GW1Y»S§R1§!§TúWNxºN›R§!"
+ EDG_DMR_straight_card_13.tt:0 "SSVMR§Yßu»lw§!„v	Nôu§RRVö–§!ÿÏk1Y»S§R1§!¹p§Yýw›R§!¿O·ƒ—VùR”^§R100§!¹ppe\n\nS§Y3zšR¦^§!¾‹n:N§R-3§!"
+ EDG_DMR_contrary_card_13.tt:0 "SSVMR§Yßu»lw§!„v	Nôu¾‹n:N6£adm£6£dip£6£mil£\n\n§GžX R§!N!k§YûlLrb—§!„v:gO\n\nS§Y3zšR¦^§!¾‹n:N§R3§!"
+ EDG_DMR_straight_card_14.tt:0 "§Gˆm»S§!bìNùRvQÖNýV¶RµNu„v§YµOeuib.V‹YaqVÍT§!ÿóYˆmd–§Y100§!"
+ EDG_DMR_contrary_card_14.tt:0 "§YbìN»lNNb	g8hÃVwýN§!GW1Y»S§R1§!§TúWNxz6e§!"
+ EDG_DMR_straight_card_15.tt:0 "·ƒ—V§Y10§!råb	g§RgØš)Ro`§!„v§Y7>k§!\n\n§YbìN»lNNb	g8hÃVwýN§!GW·ƒ—V§R50§!§YRƒŸ^¦^§!"
+ EDG_DMR_contrary_card_15.tt:0 "§YbìN»lNNb	g8hÃVwýN§!GW·ƒ—V§G1§!§TúWNxuµN§!"
+ EDG_DMR_straight_card_16.tt:0 ":N§YNb	gòTåwýV¶R§!žX RùRbìN§R25§!„v§YµOeuib.V‹Ya§!\n\nÆbd–§YbìN»lNNb	g8hÃVwýN§!ÿd–§T–™ý§!KNY„vhQè§Y‰^X§!ú^Qr"
+ EDG_DMR_contrary_card_16.tt:0 "§YbìN»lNNb	g8hÃVwýN§!GW·ƒ—V§G1§!§TúWNxºN›R§!\n\nGSµuóY§G5§!*N§YbìN»lN8hÃVwýN§!„v§Y‰^X§!ú^Qr"
+ EDG_DMR_straight_card_17.tt:0 "§G·ƒ—VIrTŽN§!bìN§Yåb	gwýNpeÏ‘§!„v£dip£¹ppe"
+ EDG_DMR_straight_card_17.trade_income.tt:0 "·ƒ—VIrTŽN§G3§!t^§Y8f6eeQ§!„v¤"
+ EDG_DMR_contrary_card_17.tt:0 "§R1Y»SIrTŽN§!bìN§Yåb	gwýNpeÏ‘NJS§!„v£adm£¹ppeÿ£dmil¹ppeN20¤"
+ EDG_DMR_straight_card_18.tt:0 "§Rž±§!Nb	gßvËSv^§Rã‰d–§!Nb	g§Tßv¦u§!"
+ EDG_DMR_contrary_card_18.tt:0 "bìNN§TNb	gßvËS§!KNô•§Gøv’N·ƒ—V§!§Y10§!¹p§YáOûN§!ÿÖNìNS§GN.k§!bìN§Y20§!¹p§YºNÅ`§!"
+ EDG_DMR_straight_card_19.tt:0 "§YbìN»lNNb	g8hÃVwýN§!1Y»SNb	g§YRƒŸ^¦^§!ÿTöeËzIRÛeQ§G«N×SAucƒ§!„v¶r`\n\n§YbìN»lNNb	g8hÃVwýN§!§GËzIRŒRb§!SVMR„v§Yú^Qr§!N§YGYÂ‰§!ú^."
+ EDG_DMR_contrary_card_19.tt:0 "§YbìN»lNNb	g8hÃVwýN§!GW1Y»S§R1§!§TúWNxuµN§!N§Y50§!„v§YAucƒÛ¦^§!"
+ EDG_DMR_straight_card_20.tt:0 "§YbìN»lNNb	gwýN§!ËzIRÏQS§G10§!t^„v§YR»yININ§!ÿTöe§YntNb	gÛS›Q§!"
+ EDG_DMR_contrary_card_20.tt:0 "§YbìN»lNNb	gwýN§!ËzIR·ƒ—V§R10§!ÛSqN¦^ÿTöe§R'YE^žX R§!ÛS›Q§YrÑSÛ¦^§!"
+ EDG_DMR_straight_card_21.tt:0 "Nb	g§Yck(W8hÃVS§!„vwýN§RËzIRŒRb8hÃVS§!\n\n§G·ƒ—V§!NbìN§Yøv»Nb	gwýN§!„v§T8hÃV§!"
+ EDG_DMR_contrary_card_21.tt:0 "§RNLu›bV†NbìN§!"
+ EDG_DMR_mechanics.4.name:0 "S?–aS±LrÄu"
+ EDG_DMR_mechanics.4.desc:0 "S?–aS±LrÄu1ibEQã‰Ê‘'Y?–aS±Lrb—„vaINÿwvQŽrUS„vR:NÛV*N'Y‰|ÿbìN”^å‹ÎNÐgN‰|-Nc	…©RLrb—„vLrÄuÿŒRbdk!k¢cûR0\n\nÏkNÄuLrýµOÍ‘ŽNN*N¹eTÿÙuˆN?eœ^ýw›RNšR„v R:Vÿå‹ R:VN×S'Y?–aS±LrckMO„vqVÍT0"
+ EDG_DMR_mechanics.4.aa:0 "CgVg"
+ EDG_DMR_mechanics.4.bb:0 "1Wog"
+ EDG_DMR_mechanics.4.cc:0 "RQR"
+ EDG_DMR_mechanics.4.dd:0 "f^"
+ EDG_DMR_mechanics.100.name:0 "‹TÐKNè•"
+ EDG_DMR_mechanics.100.desc:0 "‰åNTXWLrV=T^yØy„v‹TÐKNè•öeÿ–™HQ1S—VHQÛeQÙ?bô•…QÛLˆ¢ci–0\n\n?–aS±a:NñmeY„vØyÆRÿùRŽN-NNªu„v¼pÑ‘=gëXN^yØyfR¶Regô‹ÿ?–aS±=f'Yê6q„vØyÆR0àVdkÿTXWLrGlÆ–†N„gQrv^ã‰Ê‘‡R™RNir„vØyÆR0\n\n?–aS±R:NINLrÿ'Y?–aS±åNÊS…LrS?–aS±0'Y?–aS±	g22.VLrÿ„gb†NTXWLr„v8hÃVÿÏk.VINLrýaŒVNwÐgÍyqQ'`„vºN‰|ÏuŒšNŸS‹Wÿôv¥cwÞ=0WÏcØuúQºN‰|¾|^yNLu„vqVÍT0\n\nùRŽNbìNegô‹ÙN`N×O=zte*N>yOÿwN:WÛv'Y„v`SjSSY×SsQèlÿbìN„vºNløváOÙÍyêNVïSåNcVbìNpT*geg=ftQÛvAucƒÿb=fff—fàeIQ0\n\n¢cûReYØy„vAmz‚YNÿ\n\n1.nxšRLrMO0\n2.íc:y'Y?–aS±Lr0\n3.nxšRS?–aS±LrÄu0\n\nÄ‰R²‹:Nÿ\n¢cûRŒRhQè22.V'Y?–aS±Lr:NNnÿ\nŒRbN:W¢cûRÿsS?eœ^ýw›RÛ¦^0R¾0R100	ÿïSåNíc:yN.V'Y?–aS±Lrÿíc:yŒRbKNTS9hncLrb—KˆN?eœ^ýw›RNšR RbbÏQÊvÿTöegbLˆN!ksSöeHeœgÿv^(Wå‹n¢cûR-N8lENTRd–å‹Lrb—ÿ\nS?–aS±LrÄuŽrUS¾‹šR:NÛV'Y‰|ÿCgVgÿ1WogÿRQRNf^ÿR+RùR”^NÄu Rbÿ(uŽNã‰Ê‘ibEQ'Y?–aS±Lr„vaINÿ\nSVhQè22.V'Y?–aS±Lr«ˆíc:yTÿãNhˆNn¢cûRòTÓumgÿÍ‘°eShQè22.V'Y?–aS±Lr ReQLrÄu0\n\nŽrwŠKNÿNn¢cûR—‰ËbÖS22!kLrb—ÿàVdkNº‹‚YUOËbÖSÿNb	gLrb—GWO«ˆËb0Rÿ1uŽNckMO„vXR(WÿNqQXR(W44ÍyLrb—HeœgÿàVdkÓuœgÍN6qXR(WˆV'Y„v–:g'`0"
+ EDG_DMR_mechanics.100.aa:0 "©‹bìNVËY"
+ EDG_DMR_mechanics.100.aa.tt:0 "å‹Lˆ:N-N„v§YèR…Q¹R§!S§Rg'Y„vqVÍT§!8nbAmz0\n\n‚YœgÅbÃVúQ°s§RàeÕl¥c×S„vmc1Y§!ÿ÷‹§YXRch§!b=f§R>eV8n©s§!\n\nSVÇ§Y3y˜’N¨R§!egŒµc§YÛ¦^§!ÿ©‹íc:y„vLrb—ùR§Gê«Žôf R	g)R§!"
+
+
+ EDG_DMR_obedient_estates:0 "z˜ÎN„vT¹e"
+ EDG_DMR_local_militia:0 "aNÇR"
+ EDG_DMR_international_support:0 "kQ¹e=eôc"
+ EDG_DMR_great_purge:0 "'Ynm"
+ EDG_DMR_gypsy_nation:0 "	TnfiKNýV"
+ EDG_DMR_arsenal_administration:0 "›Q°hI`NS"
+ EDG_DMR_gipsy_uprising_end_flag:0 "	Tnfi'YwINŒp¾–òTÓumg"
+ EDG_DMR_proletarian_solidarity:0 "àeµNw„vú`ú`øvÜ`"
+ EDG_DMR_magic_hussars:0 "^yGYÞ˜‘šuQ"
+ EDG_DMR_great_fired:0 "'Ykp"
+ EDG_DMR_duke_defeat:0 "ØšIrlQ5r„v%¡N"
+ EDG_DMR_crown_of_rus:0 "W¯eKN Q"
+ EDG_DMR_horizon_view:0 "gKS)Y¯m"
+ EDG_DMR_economic_center:0 "ÏuNmÍ‘ÃV"
+ EDG_DMR_steppe_echo:0 "IƒŸS„vÞVÍT"
+ EDG_DMR_dread_fleet:0 "P`ç`0‚–"
+ EDG_DMR_holy_sword:0 "1WQR‘šëX"
+ EDG_DMR_ideal_city:0 "tó`ÎW"
+ EDG_DMR_bogomil_shield:0 "âl<hs|ÒRKNþv"
+ EDG_DMR_vampire_purge:0 "8TNˆ<›„vPmp"
+ EDG_DMR_source_of_knowledge:0 "åwÆ‹„vn4Y"
+ EDG_DMR_constantinian_law:0 "·^¯efWN›QyVÕl"
+ EDG_DMR_capital_of_the_world:0 "NLu4ngKNý"
+ EDG_DMR_invincible_legion:0 "^yÇRàeLe"
+ EDG_DMR_successor_king:0 "çuNLˆw„vTw"
+ EDG_DMR_coexist_with_judas:0 "N¹r'YìN„vøvY"
+ EDG_DMR_gustavus_reform:0 "äS¯eTX+Y9ei—"
+ EDG_DMR_holy_seat:0 "1Wµ^"
+ EDG_DMR_trade_hub:0 ")YN™q™q:N)Reg"
+ EDG_DMR_bavarian_glory:0 "ÜbÁN„vcƒw"
+ EDG_DMR_imperial_eagle:0 "^ypžKN Q"
+ EDG_DMR_hussite_fire:0 "áw¯eKNkp"
+ EDG_DMR_frankfurt_engineers:0 "ÕlpQKQyåTzfRb–"
+ EDG_DMR_cathar_purge:0 "ˆmmpnm>m"
+ EDG_DMR_philosopher_king:0 "a'Y)Rb‰N"
+ EDG_DMR_olive_branch:0 "Dj„ig"
+ EDG_DMR_royal_navy:0 "NR ˜wm›Q"
+ EDG_DMR_true_high_kingship:0 ",giróØš‹s"
+ EDG_DMR_alpine_advantage:0 "0W¿RKN)R"
+ EDG_DMR_harmony_banner:0 "?aÉT"
+ homeward_bound:0 "RVaNÃVR"
+ unfinished_business:0 "*gßzKN‹N"
+ EDG_DMR_holy_light:0 "áOðN1WIQ"
+ EDG_DMR_shadow_blades:0 "R•KNqV"
+ EDG_DMR_astral_bookkeeping:0 "`Sf?|°‹"
+ EDG_DMR_looting_manual:0 "¢b«RKbŒQ"
+ EDG_DMR_precision_fire_dance:0 "¾|ôkp‚"
+ EDG_DMR_fire_dance:0 "kp‚bfâV"
+ EDG_DMR_romani_wandering:0 "Am¨R«Rf"
+ EDG_DMR_romani_dream:0 "WÆYºNKN¦h"
+ EDG_DMR_holy_warfare:0 "1Wm'YÜV"
+ EDG_DMR_great_cavalry_corps:0 "'Y‘šuQâV"
+ EDG_DMR_reject_judas:0 "’c¥e¹r*YºN"
+ EDG_DMR_fool:0 "aw"
+ EDG_DMR_magican:0 "T›=g^"
+ EDG_DMR_pope:0 "Ye‡v"
+ EDG_DMR_strength:0 "›RÏ‘"
+ EDG_DMR_emperor:0 "‡v^"
+ EDG_DMR_lover:0 "K`ºN"
+ EDG_DMR_justice:0 "ckIN"
+ EDG_DMR_rise:0 "	TnfiºN„vTw"
+ EDG_DMR_tank:0 "bf"
+ EDG_DMR_hider:0 "–w"
+ EDG_DMR_priestess:0 "sYmyøS"
+ EDG_DMR_fate_wheel:0 "‹TÐKNn"
+ EDG_DMR_judge:0 "¡R2R"
+ EDG_DMR_death:0 "‰k^y"
+ EDG_DMR_control:0 "‚‚6R"
+ EDG_DMR_tower:0 "TX"
+ EDG_DMR_evil:0 "v`T›"
+ EDG_DMR_queen:0 "sY‡v"
+ EDG_DMR_hanger:0 "PTºN"
+ EDG_DMR_star:0 "ff"
+ EDG_DMR_moon:0 "g®N"
+ EDG_DMR_sun:0 "*Y3–"
+ EDG_DMR_world:0 "NLu"
+ EDG_DMR_home_name_1:0 "ÕlpQ‰"
+ EDG_DMR_home_name_2:0 "‰ísYr"
+ EDG_DMR_home_name_3:0 "NR ˜<SšN"
+ estate_EDG_diviner_desc:0 "`SjS=fbÏeêäSåNeggÛvT„vIm¨RKNNÿw`SjS^jO:NbÏe-N„vÍ‘‰ºN²ÿòTÏu	g†NÜ…nf²O„vÍ‘‰'`0"
+ estate_edg_diviner_privilege_1:0 "`SjS^êYu0WCg"
+ estate_edg_diviner_privilege_2:0 "ÙuˆN`SjS^ê»lCg"
+ estate_edg_diviner_privilege_3:0 "`SjS^–™‰0WMO"
+ estate_edg_diviner_privilege_4:0 "šRg`SjSIm¨R"
+ estate_edg_diviner_privilege_5:0 "ÝOœ–`SjS^¯um'`"
+ estate_edg_diviner_privilege_6:0 "`SjS^±R.OCg"
+ estate_edg_diviner_privilege_7:0 "`SjS^|QûNmyøSCg"
+ estate_edg_diviner_privilege_1_desc:0 "ÇˆcˆN`SjS=fN›NW0WbìNïSåNôf‹Y„v·ƒ—VÖNìN„vàVÚ‹"
+ estate_edg_diviner_privilege_2_desc:0 "ÙuˆN`SjS^N›Nê»lÿbìNïSåNôf‹Y„v¡rtÖNìN"
+ estate_edg_diviner_privilege_3_desc:0 "bìNïSåNÐcØš`SjS^(WÏe²-N„v0WMOÿ‹†6qô‹bìN‰ÙuÖNìNôfY„vÞV¥b"
+ estate_edg_diviner_privilege_4_desc:0 "`SjS=f2RšRýV¶R	TeyŒTN	TeyN&T„vÍ‘‰>NªcÿšRgÛLˆ`SjSïSåN	gHe„vžX:VbìN¡rtýV¶R„va×V"
+ estate_edg_diviner_privilege_5_desc:0 "`SjS=f^y1W„vIm¨RÿàVdkÛLˆ`SjS„vºNmN‰ÝOcAS³„v¯um"
+ estate_edg_diviner_privilege_6_desc:0 "jO:NbýV„vÍ‘‰6–BSÿ`SjS^åb	gˆV'Y„vðXÏ‘åNÊSlQáO›RÿÇ©‹ÖNìN`Snc±R.OãSÿb¸‹ïSåN©‹bìN„vlOôf R‰RšRwùRbìN„v?eœ^ôf RáOûN"
+ estate_edg_diviner_privilege_7_desc:0 "`SjS^ìN8^fRÆ‹nZS0©‹ÖNìN»S|QûN1W^NbAm.ONeg„váOðN„v.O­dwb¸‹ýwY.^©RbìNôf‹Y„vžRLˆ¾|^yN„vQeN"
+ estate_edg_diviner_privilege_8:0 "^yØyfR>m"
+ estate_edg_diviner_privilege_8_desc:0 ""
+ estate_edg_diviner_privilege_8.effect.tt:0 "§T©cÖvLrb—§!S§G˜Y§!ÏQS§Y10§!Û¦^"
+ estate_edg_diviner_privilege_9:0 "‹NtfR>m"
+ estate_edg_diviner_privilege_9_desc:0 ""
+ estate_edg_diviner_privilege_9.effect.tt:0 "§Tíc:yLrb—§!S§G˜Y§!žX R§Y10§!Û¦^"
+ EDG_DMR_CIRCUS_tt:0 "bìNS=T(ubìN„v§M0W¹eÄuÇu§!"
+ EDG_DMR_sea:0 "'Ywm"
+ EDG_DMR_musi:0 "4xŽx*¯e"
+ EDG_DMR_ice_fall:0 "Ãq°QŽxÂˆ"
+ EDG_DMR_sword_broke:0 "ów-NQR­e"
+ EDG_DMR_fenlv_tt:0 "°s(W§Yq cwýN§!ïSåNnd–bìNwýN§M10¹p§!R»yININ"
+ EDG_DMR_money_decision_flag_tt:0 "ã‰•³Q®‹§Mqçp'^§"
+ EDG_DMR_decay_decision_flag_tt:0 "ã‰•³Q®‹§MqçpchHh§"
+ EDG_DMR_decay_decision_title:0 "qçpchHh"
+ EDG_DMR_money_decision_title:0 "qçp'^"
+ EDG_DMR_exploison:0 "bVZwžRce"
+ EDG_DMR_Gripsy_uprising:0 "	TnfiºN'YwIN"
+ EDG_DMR_king:0 "Í‚uŒ:N‹s"
+ EDG_DMR_tarot:0 "TXWKNŒp"
+ EDG_DMR_wheel_and_stone:0 "n™NúWów"
+ EDG_DMR_enemy:0 "ÇNà–"
+ EDG_DMR_stand_up:0 "V›Qzw"
+ EDG_DMR_peace:0 "ŒTwNT"
+ EDG_DMR_rule_again:0 "Í‘ú^ßu»l"
+ EDG_DMR_palace:0 "«Rñ•"
+ Andre:0 "‰R·VÈp"
+ Yanoro:0 "šNú‹W"
+ Fatyol:0 "Õl&qS"
+ Alfie:0 "?–Sòƒ"
+ EDG_DMR_invade_allow_flag:0 "	Tnfi'Yã‰>e"
+ EDG_DMR_invade_allow_flag_tt:0 "ã‰•yrŠk±Rbt1u	Tnfi'Yã‰>eÿå‹±Rbt1uÙuˆN§M150%µOeuib.V§!ÿ§M100%Zg§!åNÊS±‚9§M50%b‰NRpe§!"
+ EDG_DMR_enable_merc_flag_tt:0 "ã‰•yrŠkcOuQâV§Mkp‚bfâV§!ÿå‹cOuQâVSÙuˆN'YÏ‘îOck"
+ 00EDG_DMR_gripsy_invade:0 "	Tnfi'Yã‰>e"
+ 00EDG_DMR_gripsy_invade_desc:0 "àeº‹=fAmjmwØ=fšRESwý	gs^IruXR„vCg)Rÿàeº‹=f5ÏeØ=fs^lý	gNwT7hÚnëp„vÃV0©‹±.^‰kˆRNwNˆßuº‹„v÷mË†ìNÚnNkpñr'Tÿ"
+ EDG_DMR_civil_war_end_flag:0 "Œp¾–Í‚uŒ:N‹sòTÓumg"
+ EDG_DMR_diaspora_disaster_end_flag:0 "Œp¾–bVZwžRceòTÓumg"
+ jewish_event_triggered:0 "§M¹r'YìN„v“Š¦u§!òTæ‰ÑS"
+ EDG_DMR_money_decision_flag:0 "òTã‰•³Q®‹qçp'^"
+ EDG_DMR_decay_decision_flag:0 "òTã‰•³Q®‹qçpchHh"
+ EDG_DMR_move:0 ":O:gw¨R"
+ EDG_DMR_real_king:0 "óØš^y‹s"
+ EDG_DMR_estate:0 "‰RR"
+ EDG_DMR_jewish_tt:0 "bìNS9hnc§M¹r*YºN‹NöN§!„v	éb³QšRVY±R"
+ EDG_DMR_card_crash:0 "'Y?–aS±„v)TOW"
+ EDG_DMR_imagination:0 "aaŒ"
+ Victor:0 "ôuKQY"
+ emperor_passed_event:0 "‰R·VÈpòT»SN"
+ EDG_DMR_tarot_end_flag:0 "22.V'Y?–aS±LròThQèúQ°s"
+ EDG_DMR_card_1_tt:0 "Ù=f,r§M1§!.V'Y?–aS±Lr"
+ EDG_DMR_card_2_tt:0 "Ù=f,r§M2§!.V'Y?–aS±Lr"
+ EDG_DMR_card_3_tt:0 "Ù=f,r§M3§!.V'Y?–aS±Lr"
+ EDG_DMR_card_4_tt:0 "Ù=f,r§M4§!.V'Y?–aS±Lr"
+ EDG_DMR_card_5_tt:0 "Ù=f,r§M5§!.V'Y?–aS±Lr"
+ EDG_DMR_card_6_tt:0 "Ù=f,r§M6§!.V'Y?–aS±Lr"
+ EDG_DMR_card_7_tt:0 "Ù=f,r§M7§!.V'Y?–aS±Lr"
+ EDG_DMR_card_8_tt:0 "Ù=f,r§M8§!.V'Y?–aS±Lr"
+ EDG_DMR_card_9_tt:0 "Ù=f,r§M9§!.V'Y?–aS±Lr"
+ EDG_DMR_card_10_tt:0 "Ù=f,r§M10§!.V'Y?–aS±Lr"
+ EDG_DMR_card_11_tt:0 "Ù=f,r§M11§!.V'Y?–aS±Lr"
+ EDG_DMR_card_12_tt:0 "Ù=f,r§M12§!.V'Y?–aS±Lr"
+ EDG_DMR_card_13_tt:0 "Ù=f,r§M13§!.V'Y?–aS±Lr"
+ EDG_DMR_card_14_tt:0 "Ù=f,r§M14§!.V'Y?–aS±Lr"
+ EDG_DMR_card_15_tt:0 "Ù=f,r§M15§!.V'Y?–aS±Lr"
+ EDG_DMR_card_16_tt:0 "Ù=f,r§M16§!.V'Y?–aS±Lr"
+ EDG_DMR_card_17_tt:0 "Ù=f,r§M17§!.V'Y?–aS±Lr"
+ EDG_DMR_card_18_tt:0 "Ù=f,r§M18§!.V'Y?–aS±Lr"
+ EDG_DMR_card_19_tt:0 "Ù=f,r§M19§!.V'Y?–aS±Lr" 
+ EDG_DMR_card_20_tt:0 "Ù=f,r§M20§!.V'Y?–aS±Lr"
+ EDG_DMR_card_21_tt:0 "Ù=f,r§M21§!.V'Y?–aS±Lr"
+ EDG_DMR_card_22_tt:0 "Ù=f§MgT„v§!±.V'Y?–aS±Lr"
+ EDG_DMR_tenmei:0 "`SjS)Y‹T"
+ EDG_DMR_play_decision_title:0 "YÆY)RšN8n©sÐc:y"
+ estate_EDG_diviner:0 "`SjS^"
+ estate_EDG_diviner_ownership:0 "`SjS^Nbåb	g„v†˜0W"
+ EDG_diviner_loyalty_modifier:0 "`SjS^àVÚ‹¦^"
+ EDG_diviner_influence_modifier:0 "`SjS^qVÍT›R"
+ EDG_diviner_privilege_slots:0 "`SjS^yrCgýiMO"
+ EDG_DMR_unlock_estate_tribes_tt:0 "§MèÏe§!°s(W·ƒ—VNšR„vžXÊvŒT°e„vyrCg0"
+ EDG_DMR_economic_recovery:0 "ÏuNmb`Y"
+ EDG_DMR_tov_name_2:0 "þVFŒP"
+ EDG_DMR_name_decision_title:0 "(iVË†³Q®‹)ýV¶R9eT:NþVFŒP"
+ EDG_DMR_tov_name_2_ADJ:0 "þVFŒP"
+ EDG_DMR_moskau:0 "Ie4x«ƒ¯eÑy"
+ EDG_DMR_kivov:0 "Ie4xúW…"
+ EDG_DMR_nov:0 "Ie4xú‹+YåTW·V"
+ EDG_DMR_lianbing:0 "'YÃuuQ"
+ EDG_DMR_tsar:0 "bsS=fW¯e™l‡v"
+ EDG_DMR_wheel_king:0 "bsS=ffn‹s"
+ EDG_DMR_TULAN:0 "	Tnfieg­ˆ"
+ EDG_DMR_JUEQI:0 "YÆY)RšN„vTw"
+ EDG_DMR_XUNSU:0 "ÅMRÛ"
+ EDG_DMR_homeward_bound_tt:0 "SîOck§MRVaNÃVR§!„vîOckö^•10t^"
+ EDG_DMR_unfinished_business_tt:0 "SîOck§M*gßzKN‹N§!„vîOckö^•10t^"
+ EDG_DMR_wander_faction:0 "Amjm>m"
+ EDG_DMR_settle_faction:0 "šRES>m"
+ EDG_DMR_star_faction:0 "f°>m"
+ EDG_DMR_wander_faction_FACTION_DESC:0 "Amjm>m=f1uWÆYºNèÏe„vØšµubXTNbÄubÿÖNìNIN.V»ltýV¶R—‰OgqWÆYºN.Oßu„vÁ™VNAmjm`N×OåNÊS`Nï`ÕlÛLˆßu»l0"
+ EDG_DMR_settle_faction_FACTION_DESC:0 "šRES>m=f1uT0W«ˆßu»l„vYÏeåNÊSWÆYºNèÏe-N„vnfbXTNbÄubÿÖNìNIN.V»ltýV¶R—‰OgqTýV„v.Oßu`N×OåNÊSÇ‘ÖSb‡eÕlàV×Ow»l0"
+ EDG_DMR_star_faction_FACTION_DESC:0 "f°>m=f1u^yLwºNXTåNÊSèÏe…Q„v`SjS^NbÄubÿÖNìNIN.V»ltýV¶R—‰S—RYenŽN?e»l‹N¡RKNNÿåNú^ËzN*N?eYeTN„výV¶R0"
+ EDG_personality_yanoro:0 "wINHQqš"
+ EDG_personality_alfie:0 "çuNLˆw"
+ EDG_personality_andre:0 "RVaNLˆw"
+ EDG_personality_yanoro_desc:0 "šNú‹WúQuŽNs^¯eKQ-N„vN*NSS„vFUºN¶R­^06r²N=fNTv–.SÍk²NR=fœQtY„vsY?Qÿ6r²N^gÖNçuíuçubÖN„vcˆµ”ÿwÍk²NR^gÖNb:Nâl<hs|ÒR>m„v^y6r0åzt^öeãN„vÖN(WêñT„v»ES|Qåzt^©s4O„v|V—V·ÉbPŸ„v¶R­^N¥cæ‰†N0R†Nâl<hs|ÒRYe>m„våwÆ‹v^Nñm×SvQqVÍT0ée(W±*NöePÿs^Ir„vÍyPR1SòT(WÖN„vÃV-NÍyN0ÖNËz×V:NêñT„vÏeºNåNÊS)YN„vwzæ‚ºN²IuúQNS^SŽNÖNìN„vúQïÿw°sžR„vSbûQ R†NÙNRÿÖN„v6r²N1uŽN(WN!k	TnfiºNZwÆ–:SßW„vrÑS„v—bzÐ¨R-NúQ›RüRôJdPR«ˆþVW+Y‹slQ„vëXuQ8xOWKNT¿Ol„vNÅuNw0Ík²NmN(W1Y»Sv˜hñg„vSbûQKNT¬`hêKS0p•bàeï„všNú‹WgÈu(WASÛVSöe¦lK„0RTŒv¶Rm™zŒv¶RcˆÇIm0ÎNSØS)YKNjwgaÿEQán†˜üR›R„vÖN(Wîvyw†NÙNRKNTÿñmñm„vÛuh`†NþVW+Y‹slQ:N–™„vW¯eSú^¿R›RÿmNôf R¬Pu†NÖNÃV-NÍS—bùR	TnfiºN„v‹Së„vÃVt0(WÍyÍyñ‹àVKNNÿÈuŽN(W2Nt^åNTÖNßuT†NþVW+Y0W:S„v	TnfiºNT‹slQÑSwÛIe0gÈuú^Ëz†NåN	TnfiºN:N–™„vwzæ‚ºNTwßvNbú^Ëz„v°eýV¶R0ŒmNNåwSÙ*N°eÞ‹u„výV¶R*gegO‚YUOÿFO	gN¹p<P—VøváO„v=fÿšNú‹WO:NdktdlHŽkpÿôv0RuuNo`0"
+ EDG_personality_alfie_desc:0 "?–Sòƒ=fšNú‹W„v•PR0ÖNúQu(WšNú‹WÛVYVON'k„vMRgÿ|Vöe„vYÆY)RšNÍNY(W²ür¯sÆ‰„vNSb—ÿN‰WSST'Y^ýVSvQBSBSSôVÿmN©‹ÖNêS¿O‰Qb†NAS³„vqS:gaN:V'Y„výw›R0w(WšNú‹WÄ‹šRT'Y0W:SKNTÿÖNôf=fôv¥c«ˆûN‹T:Ng'Y„vNWW0W:SâlpQ0W:S„vI`cw06qwÙNRý«ˆS?QPRs|^w(W<wÌ‘ÿS?QPRs|^NánŽN6r²NšNú‹W(W¶R­^-N„vN6RåNÊSOP1r•PR„vÃV`ÿêS×SšNú‹WýVÆ‰„vÖN¿OùR?–SòƒASR„vNánNNgl0w?–SòƒùRÙ*NVVtSASR„vsQ1rNgqŒ˜ÿuóÕ‹þVSâlpQ0W:S„vI`cw©‹NVVÿFO(W«ˆšNú‹WUbkKNT¿ONQ±b	gå‹ó`Õl0ws|^tSv^*g(WÙ›N©‹KN-Na×S0RåTåTùRÖN„v1rÿw=fåNdkjO:N?–Sòƒ©‹„vh×VÿN­e„vT6r²NšNú‹W8nô‹?–Sòƒo1Vàe›Rÿàe›Rßu»lâlpQ0W:S0FOšNú‹Wv^N^SŽNwÈfiw„v±NÍy‰|‹Wÿt^w„vÖNOçe¾|f„vßRÉ‰úQ†Ns|^„YþVárMO„vó`ÕlÿFOúQŽNùR¶R­^„vsQ`ÿÈuvzØ=fêS=f©‹vQ…V(W«R÷^-Nÿ¡l	g©‹ÖN×S0RûNUO„vYZ0×S0R†N6r²N„vµu¹R„vs|^tSØS,g R‰S„v<rÜuKbN„vëX˜R0<ONN1SIršNú‹WŒšdž‰»SKNT²NKb:Y—V‡vMO0NE^…Qb„vIuwS1SdkVVUSV0w?–Sòƒ=fnb*sTwN†Ø=fY:V-Nr^ÿ=UN<P—VøváO„v=fÖNìNŒNwKNô•ÅV6qO	gN:WeÎ˜Nˆè–"
+ EDG_personality_andre_desc:0 "‰R·VÈpúQuŽNTëXfWN!X„v^•¶R­^0ÎNS0R'YÖN¿O¥c×S†Negê¶R­^„vo‚‹YYe²wåNÊSTÍyÐ¨RŒTb—eŽbçT0ÖN„v6r²N=fšNú‹W„vhˆVÿÖN„vhˆÔSŒTÔSVy6rR+R=f?–SòƒšNú‹WÿFOžRE–N‰R·VÈpêS=f,Tô‹ÇÖNìNÿwv^¡l	gN¶RÏeIN=eNb¥cæ‰Ç0ôv0R(W5S„v±Nt^‰R·VÈp(W©swöe°x0R†NMRegáTÆ‰„v?–Sòƒ0t^ªuSS„v‰R·VÈp(WN?–Sòƒ„v¥cæ‰KN-NrÑSúQ†NÊ`ºN„vzfgaÿŽN=f?–Sòƒ‰šbNwÖN„v4YrNwô‹:iRPRÿky`OåNT8lÜ8lÜýN‰SVNN*NýV¶R„v‡v^ÿ`ON(uÅbÃVÿ–öeý	gºNNg³R`Oÿ`OïSåNePeP·^·^„v¦^ÇÙNu00w±öeùRÙNR<OÂa^—Âa„v?–Sòƒ(WåeTb•:N-T°e„vóØš‹sKNöeÿfåe„vNRý–Nwöeô•wAm0wjNN„Ua8lR`0FOÏk*NºNýåwSÿªV¯s=fR.NN!kªV¯s„vÅV‰agöNÿ°eË‚8lÜmNýêSOÎNçeW„ÑS0"
+ EDG_personality_yanoro_die_desc:0 "ÖNegKNMRWÆYºN=fNØvÎN*g	gÇýV¶R„vce™lÿÖNpTYuN„v=fN*NâVÓuw:V'Y„vlÏe"
+ EDG_personality_alfie_die_desc:0 "ÖN„v»yV©‹bìNaÆ‹0RN*NbìN«ˆºN>UV„vçeöeãNÈuŽNÓumg†NÿbìNòT6q=f«ŽÏuŒvb"
+ EDG_personality_andre_die_desc:0 "ÖNp†NKNTÿ'Y¶RMb(WM`Ú`-Nz6q„vaÉ‰0R±*N&^ÖNìNÞV¶R„vºNòTÏu»yV†N"
+ EDG_DMR_CHUANJIAO_FLAG_TT:0 "ÎN°s(WVËYÏkN!k.OYebŸRSÙuˆNbìN§M2§!¹p§YÑ‘±”§!ŒT§M0.1§!¹p§YF–›Q.Oßu§!"
+ EDG_DMR_JIECENG_FLAG_TT:0 "ÎN°s(WVËY²d•6–µu†˜0WSêSÏQS§M10§!¹p§Y6–BSàVÚ‹¦^§!"
+ EDG_DMR_play_decision_title:0 "8n©sÐc:y"
+ EDG_DMR_play_decision_desc:0 ""
+ EDG_DMR_wheel_and_stone_end_flag:0 "bìNòTÏu©‹2N>m-N„vN>mŒRhQ`SncINüR0WMO"
+ EDG_DMR_ZHUJIAOQU_TT:0 "§G‹NöNMR»wÿ§!\nÙ*N‹NöNSÙuˆNbìNlbc—RYeSï„v:gO0¨`ïSåNÕ‹þVl:NNckYeÿmNïSåNÝOc.Oßu"
+ EDG_DMR_newzhujiao:0 "°eINYe"
+ EDG_DMR_DUOQU_TT:0 "»lNÏk*N=fbìNýVYe„vwýNSOÙuˆNbìN§M5§!¹p§Y?eœ^9ei—¹ppe§!"
+ EDG_DMR_money_value:0 "ýV¶RÆQYÑ‘"
+ EDG_DMR_LONGDUAN:0 "„W­eÑžwm"
+ EDG_DMR_YICHU_TT:0 "bìNSOûyd–»lNNb	g„v§MW¯e†˜0W§!îOck"
+ EDG_DMR_exploison_2_modifier:0 "‰'k0W:S„vÍSûQ"
+ EDG_estate_DMR_privilege_1_flag_tt:0 "ã‰•^l6–BSyrCg0§MIƒŸSSïz§!0ÿå‹yrCgÙuˆN‚YNHeœgÿ"
+ EDG_estate_DMR_privilege_1:0 "IƒŸSSïz"
+ EDG_estate_DMR_privilege_1_desc:0 "•wOùRO(u.Oßu8ngrï¿u„vFU–Vzÿ6eÊv(uŽNÝO‰QSïN¨cØššRESb,g0"
+ EDG_DMR_JIXIEHUAGONGCHENG:0 ":g°hSIeÎW"
+ EDG_DMR_CHONGJI_FLAG_TT:0 "°s(WbìN„v0W¹eÄuÇu§M	TnfiâVÃu§!SÙuˆNÏk*N§G1%§!¹p§Y²QûQ2O³R§!"
+ EDG_DMR_on_barrage_give_army_professionalism_flag_tt:0 "°s(W§G®ppÎW™X§!SÙuˆNbìN1¹p§YF–›QLwN¦^§!"
+ DMR_mission_3_36.effect.tt:0 "§GžX R§!N!k§YûlLrb—§!„v:gO"
+ DMR_mission_1_38.effect.tt:0 "§MûlLrb—§!°s(WS§YËzsSæ‰ÑS§!N!k§YSVMRLrb—§!„vHeœg"
+ EDG_DMR_on_tech_taken_add_25_power_flag_tt:0 "ÐcGSÑyŽbSOÙuˆNbìN§Y	N‰|¹ppe§!§G25§!¹p"
+ EDG_DMR_PAOMAQUANDI:0 "ÑlšW0W"
+ EDG_estate_DMR_privilege_2:0 "èÏefkÅˆ(u0Wyr¸‹"
+ EDG_estate_DMR_privilege_2_flag_tt:0 "ã‰•èÏe6–BSyrCg0§MèÏefkÅˆ(u0Wyr¸‹§!0ÿå‹yrCgÙuˆN‚YNHeœgÿ"
+ EDG_estate_DMR_privilege_2_desc:0 "‘šuQèÏefkÅˆ²bÐÐvFU–ÿRÖS)R¦mFO›Q9V=elÁZ-N.Y0?eåNÊS·ƒÖSW0W0"
+ EDG_Mission_DMR_GNW_flag_tt:0 "ã‰•³Q®‹0§M'YS¹eb‰N§!0ÿå‹³Q®‹AQ¸‹bìNÇN:Wb‰N:YÖS'YèR^txQ„v†˜W0"
+ EDG_DMR_GNW_decision_title:0 "@DMR'YS¹eb‰N"
+ EDG_DMR_play.25.aa_tt:0 "§G^txQ'YèKSRVbKbÿ§!NÇz˜&^NÐcÿÙ›NHeœgêS	g(WbìNŒTîvh²NböeMbïSåNžR°sÿÐcMRŒTŒ1SÀNHNýÿbN0R†NæT0"
+ EDG_Mission_DMR_ARMY_tt_yes:0 "£yes£‚Yœg'k2m'YF–ƒôV…Q¡l	gÔkbìNF–›QÄ‰!jôf'Y„výV¶Rÿ±HNbìNS·ƒ—V‚YNVY±Rÿ"
+ EDG_Mission_DMR_ARMY_tt_no:0 "£no£‚Yœg'k2m'YF–ƒôV…Q¡l	gÔkbìNF–›QÄ‰!jôf'Y„výV¶Rÿ±HNbìNS·ƒ—V‚YNVY±Rÿ"
+ EDG_DMR_Mission_ARMY:0 "'k2mKNLe"
+ EDG_DMR_empire_kuzure_tt:0 "Nb	g£icon_EDG_icon_hre_emperor£§Y^y1WWlš^ýVø‹¯O§!ÿýS·ƒ—V0§R^ýV„v)Tƒn§!0„v§Rb—îOck§!v^NSOæ‰ÑS‹NöN£icon_EDG_icon_hre_emperor£0§M0NºN°s<w§!0ÿÏkN*Næ‰ÑS†NÙ*N‹NöN„v^y1WWlš^ýVø‹¯OýS1Y»S§G50§!§YZg§!ŒT§G50§!§YÑ‘±”§!!"
+ EDG_DMR_empire_kuzure:0 "^ýV„v)Tƒn"
+ EDG_DMR_FIRST_WAR_WIN_TT:0 "bìNòTÏuSbb†N§MÍS^yWSôVQb‰N§!ÿv^NNNb	g	^¯O	g§YjPbOSšR§!"
+ EDG_DMR_wargoal_desc:0 "b‰Nîvh=fã‰>eLeýV„v–™ýŒTºNl"
+ EDG_DMR_SHIQIDAJIAN:0 "ëXl'YÏQ"
+ EDG_DMR_WITHDRAW_FLAG:0 "LeºN'Y%wRV"
+ EDG_DMR_GUIZU_decision_title:0 "@DMRîOú^'YOÕlb–Rb–"
+ EDG_DMR_GUIZU_decision:0 "@DMRîOú^'YOÕlb–Rb–"
+ unlock_decision_EDG_DMR_GUIZU_decision_tt:0 "ã‰•³Q®‹0§PîOú^'YOÕlb–Rb–§!0ÿå‹³Q®‹ïSåN©‹bìN–:gN*NwýN·ƒ—V§MÕlb–§!åNÊS·ƒ—VN*N§G8lENîOck§!"
+ EDG_DMR_GUIZU_decision_flag:0 "òTÏuã‰•³Q®‹0§PîOú^'YOÕlb–Rb–§!0"
+ EDG_DMR_bkzs:0 "NïSbÜwÿ¦Nðy.OGY"
+ EDG_DMR_LIFA:0 "^ÛlËzÕl"
+ EDG_DMR_HUN_DECISION_FLAG_TT:0 "ã‰•³Q®‹0§M‹q¨RSYr)RÛSqN§!0\nã‰•³Q®‹0§M²N‹YSYr)R5Ïe§!0\nã‰•³Q®‹0§M4xOWeYSsQû|§!0\n\n‚YœgbìNŒTSYr)R„v‹Ya¾0R-100ÿbìNSOã‰•Nû|R³Q®‹åN.^©RbìN§YVrÍS§!@HUNSYr)RÿOvQ«ˆbìNôv¥c§YTv^§!ÿ÷‹	cz˜^ŒRbNð³Q®‹	ÿ"
+ EDG_DMR_HUN1_decision_title:0 "@DMR‹q¨RSYr)RÛSqN"
+ EDG_DMR_HUN2_decision_title:0 "@DMR²N‹YSYr)R5Ïe"
+ EDG_DMR_HUN3_decision_title:0 "@DMR4xOWeYSsQû|"
+ EDG_DMR_HUN1_decision_1_FLAG:0 "òTŒRb³Q®‹@DMR‹q¨RSYr)RÛSqN"
+ EDG_DMR_HUN2_decision_2_FLAG:0 "òTŒRb³Q®‹@DMR²N‹YSYr)R5Ïe"
+ EDG_DMR_HUN_DECISION_FLAG:0 "òTã‰•SYr)R³Q®‹Äu"
+ EDG_DMR_DOMINVADE:0 "YÆY)RšN„vZÁw"
+ EDG_DMR_HUN_ZHENGDONG_TT:0 "Nb	gSYr)R»lN„vwýNýS·ƒ—V10¹p§MR»yININ§!åNÊSÐcØš20¹p§Mê»l¦^§!"
+ EDG_DMR_ZHIXIAHEXING_WAL_TT:0 "bìNNb	gåb	g„vNb	gwýNSO1Y»S@WALætÉbàQšN„v§M8hÃV§!"
+ EDG_DMR_BALKAN_ZZFS:0 "ôTSr^kpoƒvh"
+ EDG_DMR_HUOYAOTONG:0 "kpoƒvh„qmp"
+ EDG_DMR_HUOYAOTONG_tt:0 "ÏkN*N«ˆ§YYÆY)RšN§!bw=fvQ§Y^SýV§!Nbåb	g„vôTSr^0W:S„vwýNÿýS·ƒ—V‚YNHeœgÿ"
+ EDG_DMR_SKNWG:0 "¯eÑy·‹‹s Q"
+ EDG_DMR_IDEAL_DECISION_TT:0 "ã‰•³Q®‹0§GÞV6eYeO0WµN§!0\nå‹³Q®‹ïSåN©‹bìN±‚9200§MYeO›RÏ‘§!åN·ƒ—V§G5§!¹pYeëX„v§Y6–BS†˜0W§!"
+ EDG_DMR_FENPEIFZD_TT:0 ""
+ EDG_DMR_IDEAL_DECISION_title:0 "@DMRÞV6eYeO0WµN"
+ EDG_DMR_ZAICI_FENLV_TT:0 "bìN»lNNb	g§Y«ˆq cÇ„vwýN§!ïSåN«ˆQ!k§Mq c§!"
+ EDG_DMR_JIYAN_TT:0 "§RÜww*gÅV:N‹sÿ%w*gÅVÃVg§!"
+ EDG_DMR_3_17_FUYONG_TT:0 "bìNòTÏuteT†N§G‰'k§!„v5*N§MD–¸^§!"
+ EDG_DMR_EBW_DECISION_title:0 "@DMR'kF–'Yb‰N"
+ EDG_DMR_EBW_CITY_TT:0 "§Y‰'k5ÏeNÖNìN„vp×r§!ÈuŽN•dN†NêñT„v*O„UåNÊS‡ef„vb—wQÿ2—úQ†NÖNìNó`‰SbìNuT†kKS„v`sYr0ÖNìNVËYTwT(WNwÿó`‰ŠbbìNO'Y„vVyýVYÆY)RšNÙHN*NaŒVNws^IråNÊSê1u„výV¦^•dbŽxGr0FO=fbìNNO©‹ÖNìN—V„vÿêS‰bìNIe`S‰¹eÙNµ^aŒVNwÖNìNNbŒ„v‡efåNÊSïSr„vßu»l„vÎW^ÿ1SïSåNg'Y„vSbûQÖNìN„vëXl0TöeÿIe`SÙ›N«ˆÆ‰jO§Rb‰Nîvh§!„vÎW^ÿmNïSåN:NbìNbceg›Q‹NN„vO¿RÿÎNwN>NˆmmpÙ.^zŒür0\n\nbýV„v§Rb‰Nîvh§!ÿ\n[Root.EDG_DMR_EBW_LISIBEN]\n[Root.EDG_DMR_EBW_LUNDUN]\n[Root.EDG_DMR_EBW_BALI]\n[Root.EDG_DMR_EBW_MADELI]\n[Root.EDG_DMR_EBW_AIKESI]\n[Root.EDG_DMR_EBW_MILAN]\n[Root.EDG_DMR_EBW_LUOMA]\n\nÏkSVbìNIeNNµ^«ˆÆ‰:N§Rb‰Nîvh§!„vÎW`lÿ1SïSåNæ‰ÑSøvsQ„v§Gb¥b§!‹NöNåN·ƒ—VVY±R0v^N9hncbýVIe`S„v§Rb‰Nîvh§!peÏ‘ØO·ƒ—VåNNVY±Rÿ\n[Root.EDG_DMR_EBW_CITY_1]\n[Root.EDG_DMR_EBW_CITY_2]\n[Root.EDG_DMR_EBW_CITY_3]\n[Root.EDG_DMR_EBW_CITY_4]\n[Root.EDG_DMR_EBW_CITY_5]\n[Root.EDG_DMR_EBW_CITY_6]\n[Root.EDG_DMR_EBW_CITY_7]"
+ EDG_DMR_EBW_LISIBEN_YES_TT:0 "Le¹eIN‰ÎW`lÿ§MÌ‘¯e,g§!  §GòTIe`S§!"
+ EDG_DMR_EBW_LISIBEN_NO_TT:0 "Le¹eIN‰ÎW`lÿ§MÌ‘¯e,g§!  §R*gIe`S§!"
+ EDG_DMR_EBW_LUNDUN_YES_TT:0 "Le¹eIN‰ÎW`lÿ§M&Ofe§!  §GòTIe`S§!"
+ EDG_DMR_EBW_LUNDUN_NO_TT:0 "Le¹eIN‰ÎW`lÿ§M&Ofe§!  §R*gIe`S§!"
+ EDG_DMR_EBW_BALI_YES_TT:0 "Le¹eIN‰ÎW`lÿ§MôTÎž§!  §GòTIe`S§!"
+ EDG_DMR_EBW_BALI_NO_TT:0 "Le¹eIN‰ÎW`lÿ§MôTÎž§!  §R*gIe`S§!"
+ EDG_DMR_EBW_MADELI_YES_TT:0 "Le¹eIN‰ÎW`lÿ§Mlš·VÌ‘§!  §GòTIe`S§!"
+ EDG_DMR_EBW_MADELI_NO_TT:0 "Le¹eIN‰ÎW`lÿ§Mlš·VÌ‘§!  §R*gIe`S§!"
+ EDG_DMR_EBW_AIKESI_YES_TT:0 "Le¹eIN‰ÎW`lÿ§MŒ‚KQ¯e§!  §GòTIe`S§!"
+ EDG_DMR_EBW_AIKESI_NO_TT:0 "Le¹eIN‰ÎW`lÿ§MŒ‚KQ¯e§!  §R*gIe`S§!"
+ EDG_DMR_EBW_MILAN_YES_TT:0 "Le¹eIN‰ÎW`lÿ§Ms|pQ§!  §GòTIe`S§!"
+ EDG_DMR_EBW_MILAN_NO_TT:0 "Le¹eIN‰ÎW`lÿ§Ms|pQ§!  §R*gIe`S§!"
+ EDG_DMR_EBW_LUOMA_YES_TT:0 "Le¹eIN‰ÎW`lÿ§MWlš§!  §GòTIe`S§!"
+ EDG_DMR_EBW_LUOMA_NO_TT:0 "Le¹eIN‰ÎW`lÿ§MWlš§!  §R*gIe`S§!"
+ EDG_DMR_EBW_CITY_1_yes_tt:0 "£yes£ÿ1	ÿ²QûQ2O³Rÿ§G+10%§!"
+ EDG_DMR_EBW_CITY_1_no_tt:0 "£no£§gÿ1	ÿ²QûQ2O³Rÿ+10%§!"
+ EDG_DMR_EBW_CITY_2_yes_tt:0 "£yes£ÿ2	ÿßRuQöeô•ÿ§G-25%§!"
+ EDG_DMR_EBW_CITY_2_no_tt:0 "£no£§gÿ2	ÿßRuQöeô•ÿ-25%§!"
+ EDG_DMR_EBW_CITY_3_yes_tt:0 "£yes£ÿ3	ÿkp›R2O³Rÿ§G+10%§!"
+ EDG_DMR_EBW_CITY_3_no_tt:0 "£no£§gÿ3	ÿkp›R2O³Rÿ+10%§!"
+ EDG_DMR_EBW_CITY_4_yes_tt:0 "£yes£ÿ4	ÿëXlSbûQÿ§G+10%§!"
+ EDG_DMR_EBW_CITY_4_no_tt:0 "£no£§gÿ4	ÿëXlSbûQÿ+10%§!"
+ EDG_DMR_EBW_CITY_5_yes_tt:0 "£yes£ÿ5	ÿôVÎWýw›Rÿ§G+20%§!"
+ EDG_DMR_EBW_CITY_5_no_tt:0 "£no£§gÿ5	ÿôVÎWýw›Rÿ+20%§!"
+ EDG_DMR_EBW_CITY_6_yes_tt:0 "£yes£ÿ6	ÿF–›QÄ‰!jNP–îOckÿ§G+25%§!"
+ EDG_DMR_EBW_CITY_6_no_tt:0 "£no£§gÿ6	ÿF–›QÄ‰!jNP–îOckÿ+25%§!"
+ EDG_DMR_EBW_CITY_7_yes_tt:0 "£yes£ÿ7	ÿ­‹Ãu¦^ÿ§G+5%§!"
+ EDG_DMR_EBW_CITY_7_no_tt:0 "£no£§gÿ7	ÿ­‹Ãu¦^ÿ+5%§!"
+ EDG_DMR_EBW_CITY_1_triggered_modifier:0 "býVNbIe`S„vLe¹eÎW^ÿ1	ÿ"
+ EDG_DMR_EBW_CITY_2_triggered_modifier:0 "býVNbIe`S„vLe¹eÎW^ÿ2	ÿ"
+ EDG_DMR_EBW_CITY_3_triggered_modifier:0 "býVNbIe`S„vLe¹eÎW^ÿ3	ÿ"
+ EDG_DMR_EBW_CITY_4_triggered_modifier:0 "býVNbIe`S„vLe¹eÎW^ÿ4	ÿ"
+ EDG_DMR_EBW_CITY_5_triggered_modifier:0 "býVNbIe`S„vLe¹eÎW^ÿ5	ÿ"
+ EDG_DMR_EBW_CITY_6_triggered_modifier:0 "býVNbIe`S„vLe¹eÎW^ÿ6	ÿ"
+ EDG_DMR_EBW_CITY_7_triggered_modifier:0 "býVNbIe`S„vLe¹eÎW^ÿ7	ÿ"
+ EDG_DMR_CONQUER_CITY:0 "býVNbIe`S„vLe¹eÎW^"
+ EDG_DMR_EBW_DECISION_ENABLE_TT:0 "ã‰•³Q®‹0§R'kF–'Yb‰N§!0ÿå‹³Q®‹ïSåN©‹bìN–öeÀhågbìN„v§Mb‰Nîvh§!„vÅ`µQ"
+ EDG_DMR_XIOU_FUYONG:0 "bìNSO	c0W:SS§M‰'k„v†˜W§!RSÙu§G5§!*N4Nöe¡r6R(u„v§YD–¸^§!ÿFO=fÖNìNO·ƒ—VˆVØš„v§RìrËz>PT§!ŒT§Rê»l¦^§!ÿ50¹pæTóS	ÿ"
+ EDG_DMR_EBW_XUERUO_1:0 "0WÆYÎ˜´fI0"
+ EDG_DMR_EBW_XUERUO_2:0 "0WÆYÎ˜´fII0"
+ EDG_DMR_EBW_XUERUO_3:0 "0WÆYÎ˜´fIII0"
+ EDG_DMR_EBW_XUERUO_4:0 "0WÆYÎ˜´fIV0"
+ EDG_DMR_EBW_XUERUO_5:0 "0WÆYÎ˜´fV0"
+ EDG_DMR_EBW_XUERUO_6:0 "0WÆYÎ˜´fVI0"
+ EDG_DMR_EBW_XUERUO_7:0 "0WÆYÎ˜´fVII0"
+ EDG_DMR_province_divine_button.tt:0 ">NLˆwýN`SjS"
+ EDG_DMR_province_liberate_button.tt:0 "¨cLˆã‰>eÕlHh"
+ EDG_DMR_PROVINCE_ENABLE_FLAG_TT:0 "ã‰•wýN’N¨R0§Y¨cLˆã‰>eÕlHh§!0\nã‰•wýN’N¨R0§Y>NLˆwýN`SjS§!0"
+ EDG_DMR_ZONGJIAOJUEYI_FLAG_TT:0 "bìNSOã‰•Nû|R§Yâl<hs|ÒR>m§!N^S³Q®‹"
+ EDG_DMR_province_divine_1:0 "0wýN`SjSÿ›Q‹N0"
+ EDG_DMR_province_divine_2:0 "0wýN`SjSÿ0¡R0"
+ EDG_DMR_province_divine_3:0 "0wýN`SjSÿLˆ?e0"
+ EDG_DMR_province_divine_4:0 "0wýN`SjSÿ3zšR0"
+ EDG_rom_culture:0 "WÆY"
+ EDG_rom_rus_culture:0 "WÆY-W¯e"
+ mechanic_EDG_DMR_assimilate_culture_ability:0 "=T(u‡eSTS:g6Rÿå‹:g6RO–NwûN¡RGSµu	ÿ"
+ mechanic_EDG_DMR_assimilate_culture_ability_yes:0 "=T(u‡eSTS:g6Rÿå‹:g6RO–NwûN¡RGSµu	ÿ"
+ EDG_DMR_mission_NEVER_END_flag_tt:0 "§M‡eSTS§!SOùR§YhQNLuNb	gwýN§!uHe\nbìNSOÑS°s§YhQNLuNb	gwýN§!\n\n§Rb1SÎNö–¹pwekÿTgŽ‹Y„vMR.....§!"
+ EDG_DMR_assimilated_culture_var:0 "òTTS‡eS"
+ EDG_DMR_events.2.tt:0 "wýN‡eS«ˆ§MTS§!:N§Y[This.Culture.GetName]§!0"
+ EDG_bogomili_decision_interact_open_title:0 "SbVâl<hs|ÒR—RYe’N¨R"
+ EDG_bogomili_decision_interact_close_title:0 "sQí•âl<hs|ÒR—RYe’N¨R"
+ EDG_DMR_bogomili_church_tax_decision_title:0 "‰BlYeO.sÑ‘"
+ EDG_DMR_bogomili_church_tax:0 "YeO.sÑ‘"
+ EDG_DMR_bogomili_church_manpower_decision_title:0 "YeOìS2UáO’V"
+ EDG_DMR_bogomili_church_manpower:0 "ìS2UáO’V"
+ EDG_DMR_bogomili_church_battle_decision_title:0 "YeOky1W›Q–"
+ EDG_DMR_bogomili_church_battle:0 "›Q–ky1W"
+ EDG_DMR_bogomili_church_destroy_decision_title:0 "YeO1WÏP4xOW"
+ EDG_DMR_bogomili_church_destroy:0 "4xOW1WÏP"
+ EDG_DMR_bogomili_church_feichu_decision_title:0 "YeOŸ^d–<yÜb"
+ EDG_DMR_bogomili_church_feichu:0 "Ÿ^d–<yÜb"
+ EDG_DMR_bogomili_church_yiduan_decision_title:0 "YeOyÝuVïz"
+ EDG_DMR_bogomili_church_yiduan:0 "yÝuVïz"
+ EDG_DMR_SHINAIN_TT:0 "Ù*N³Q®‹Ïk”–10t^MbýwO(uN!k"
+ EDG_DMR_10_years_modifier:0 "Ù*N³Q®‹Ïk”–10t^MbýwO(uN!k"
+ EDG_DMR_QINGJIAO_decision_1_title:0 "@ITAnRa'Y)R0W:SR»yININÛS›Q"
+ EDG_DMR_QINGJIAO_decision_2_title:0 "@USPnROÔk)RšN0W:SR»yININÛS›Q"
+ EDG_DMR_QINGJIAO_decision_3_title:0 "@NEDnRNO0W0W:SR»yININÛS›Q"
+ EDG_DMR_QINGJIAO_decision_4_title:0 "@FRAnRÕlpQ‰0W:SR»yININÛS›Q"
+ EDG_DMR_QINGJIAO_decision_5_title:0 "@BTAnRNR ˜0W:SR»yININÛS›Q"
+ EDG_DMR_PD_decision_1_title:0 "@ITAs^šRa'Y)R0W:S"
+ EDG_DMR_PD_decision_2_title:0 "@USPs^šROÔk)RšN0W:S"
+ EDG_DMR_PD_decision_3_title:0 "@NEDs^šRNO0W0W:S"
+ EDG_DMR_PD_decision_4_title:0 "@FRAs^šRÕlpQ‰0W:S"
+ EDG_DMR_PD_decision_5_title:0 "@BTAs^šRNR ˜0W:S"
+ EDG_DMR_YINAIN_TT:0 "Ù*N³Q®‹Ïk”–1t^MbýwO(uN!k"
+ EDG_DMR_1_years_modifier_1:0 "Ù*N³Q®‹Ïk”–1t^MbýwO(uN!k"
+ EDG_DMR_1_years_modifier_2:0 "Ù*N³Q®‹Ïk”–1t^MbýwO(uN!k"
+ EDG_DMR_1_years_modifier_3:0 "Ù*N³Q®‹Ïk”–1t^MbýwO(uN!k"
+ EDG_DMR_1_years_modifier_4:0 "Ù*N³Q®‹Ïk”–1t^MbýwO(uN!k"
+ EDG_DMR_1_years_modifier_5:0 "Ù*N³Q®‹Ïk”–1t^MbýwO(uN!k"
+ EDG_DMR_EBW_ZHANHOU_DECISION_FLAG_TT:0 "§GbìNSOã‰•Nû|R¡r6R‰'k0W:S„v³Q®‹ÿåN¿ObìNµc6Rå‹0W:S§!"
+ Rom:0 "WÆY"
+ EDG_DMR_MARKET_enable_flag_tt:0 "bìNSO=T(u0§YWÆYÏuNmú^¾‹§!0:g6Rÿå‹:g6RÇSbV§YÏuNmLub—§!§MóSNÒ‰„v	c®”§!O(u0\nÿPSÿ‚Yœg¡l	g„vÝ‹1S=f¨`„vmod²Qz†Nÿ¨`å‹sQ‰cUIøvsQ„vmod±0	ÿ"
+ EDG_DMR_governmental_group:0 "vbcýV¶R0µN"
+ EDG_DMR_mission_assimilate_1_flag_TT:0 "žX:V§M‡eSTS§!„vHeœg\n§M‡eSTS§!SOùRâlpQ0wcKQŒT¯emOKQ‡eSuHe"
+ EDG_DMR_XUNFUGAODI:0 "ošgØš0WºN"
+ EDG_DMR_GUIZU_ZHENGHE:0 "teT5ÏeDn"
+ EDG_DMR_WENHUA_ZHENGHE:0 "¨cÛ‡eSteT"
+ EDG_estate_DMR_privilege_3:0 "ÿbOcIl(„5Ïe"
+ EDG_estate_DMR_privilege_3_flag_tt:0 "ã‰•^l6–BSyrCg0§MÿbOcIl(„5Ïe§!0ÿå‹yrCgÙuˆN‚YNHeœgÿ"
+ EDG_Mission_DMR_HSA_tt_yes:0 "£yes£‚YœgTKQòTÏu«ˆˆmmpÿ±HNbìNS·ƒ—V‚YNVY±Rÿ"
+ EDG_Mission_DMR_HSA_tt_no:0 "£no£‚YœgTKQòTÏu«ˆˆmmpÿ±HNbìNS·ƒ—V‚YNVY±Rÿ"
+ EDG_DMR_Mission_HSA:0 "°eIl(„"
+ EDG_DMR_PROVINCE_USE_INTERACT_TT:0 "bìNSê¨R(W§MagöNNbð:SßW§!v^N§M«ˆbìNåb	g„vwýN§!ÛLˆN!kwýN’N¨R0§Y>NLˆwýN`SjS§!0ÿ‚Yœg¨`òTÏuã‰•†NÙ*NwýN’N¨R„vÝ‹	ÿ"
+ EDG_DMR_ALL_PROVINCE_ZHANBU_TT:0 "bìNSê¨R(W§MûNa:SßW§!ÛLˆN!kwýN’N¨R0§Y>NLˆwýN`SjS§!0"
+ EDG_DMR_BAOJIANQISHI:0 "6egRQR‘šëX"
+ EDG_DMR_hide_cultural_assimilation_events_title:0 "–Ï…‡eSTS‹NöN"
+ EDG_DMR_show_cultural_assimilation_events_title:0 "US:y‡eSTS‹NöN"
+ EDG_DMR_fenlv_again_TT:0 "bìNSOq cbìN§M»lNNb	g§!*g«ˆq c„v§Y^—8hÃV§!wýN"
+ EDG_DMR_zhuanwenhua_flag_tt:0 "SVbìN§YbŸRlØSwýN‡eS§!öeÿSOÔØbìN10¹p§MY²N¹ppe§!"
+ EDG_DMR_mission_assimilate_2_flag_TT:0 "§M‡eSTS§!SOùRÝO R)RšN0^XSôušNŒT?–SôT<SšN‡eSuHe"
+ EDG_DMR_mission_assimilate_3_flag_TT:0 "žX:V§M‡eSTS§!„vHeœg\n§M‡eSTS§!SOùRnfœëX0eY0W)R0ôTO)RšNŒTÕlpQKQ<SšN‡eSuHe"
+ EDG_DMR_mission_assimilate_4_flag_TT:0 "§M‡eSTS§!SOùRñ‚<hpQ0ÕlpQ‰0aS¯e‚„)RšNŒTÏ‚<hpQ‡eSuHe"
+ EDG_DMR_mission_assimilate_5_flag_TT:0 "§M‡eSTS§!SOùRW3wvQ0ÃWÊS0ÙS)RšNŒTýàV‡eSuHe"
+ EDG_DMR_GAOJIASUO:0 "Øš R0tR‘ÁT"
+ EDG_DMR_GAOJIASUO_TT:0 "bìN»lNNb	g§YØš R0t0W:S§!„vwýNSO·ƒ—V‚YNîOckÿ"
+ EDG_DMR_kaaba_but_only_gives_prestige_and_half_of_religious_unity:0 "@DMRbìNSïSåNO(uO'YåTz§Y)Y?b§!"
+ EDG_DMR_MAIJIA:0 "ÝOYu1W0W"
+ EDG_DMR_shengdi:0 "‰RY—„v1W0W"
+ EDG_DMR_RELATION_TT:0 "Nb	g§YFz¯e—gýV¶R§!SOùRbìN„v‹YaÐcØš§G+50§!"
+ EDG_DMR_MGLB_ZHUANJIAO_TT:0 "Nb	glš<hÌ‘^0W:S„v§Y)YINYewýN§!ýSlS:NbìN„výVYe"
+ EDG_add_reform_center_EDG_Bogomili_tooltip:0 "‚YœgbìN»lN„vwýN¡l	g§M9ei—-NÃV§!ÿ±HNSV0WO·ƒ—VN*N§Yâl<hs|ÒR>m§!9ei—-NÃV"
+ EDG_DMR_bgml_zz:0 "âl<hs|ÒR‰RšbVïz"
+ EDG_DMR_can_use_kaaba:0 "@DMR‰R·VÈpòTÏu§Y³QšR†N§!1WÎW„v‹TÐ"
+ EDG_DMR_CHUSHENG_TT:0 "bìN»lNNb	g§Y-NšN0W:S§!„vuµN§Mrrju§!„vwýNýOÙuˆNbìN§G5¹p§!	N‰|¹ppe"
+ EDG_DMR_state_edicts_allow_flag_tt:0 "AQ¸‹Ç‘(uôv^SÞTÕläN0§M‡eSßuNŒäN§!0"
+ edict_DMR_culture:0 "‡eSßuNŒäN"
+ EDG_DMR_yue_gui:0 "¦uÜg"
+ EDG_DMR_unlock_suez_canal_flag_tt:0 "bìNïSåNÐcMRîOú^O'YåTz0§MÏ‚OëXÐ³l§!0"
+ EDG_DMR_FENLV_XIUZHENG_FLAG_TT:0 "°s(W§Mq cwýN§!ïSåN©‹wýN·ƒ—V‚YNHeœgÿ"
+ EDG_DMR_FENLV_XIUZHENG:0 "'Y&qW"
+ EDG_DMR_SHULIANG_FENLUE:0 "q c†NóS§Y50§!*NwýN (§Y[Root.HordeProvincesRazed.GetValue]/50§!)"
+ EDG_DMR_RENLI_FLAG_TT:0 "ã‰•³Q®‹0§MØšHe‡sVìS§!0\nå‹³Q®‹ïSåN©‹bìN±‚920§MZg§!ŒT§MJSt^6eeQ§!åN·ƒ—VNšR„v§YºN›R§!"
+ EDG_DMR_BILUZHIGUANLI:0 "þOï=e¡rt"
+ EDG_DMR_qingchatudi:0 "någW0W"
+ EDG_DMR_LUJUNBAQUAN_TT:0 "M–NO†N±Rðy§YF–›Q8—Cg§!„v‰Bl"
+ EDG_DMR_GUYONGBING_FLAG_TT:0 "ÎN°s(WVËY§MÛbßRcOuQ§!SNQ§YÏQSF–›QLwN¦^§!åNÊSžX R§G2§!¹pF–›Q.Oßu"
+ EDG_DMR_guojialinian_TT:0 "`O°s(WïSåNÇ³Q®‹ÎN§YeY¯eüf§!0§YÕlpQ‰§!0§YVÉbúWs|SW¯e§!0§YeY0W)R§!-N	ébN*NýV¶R„vtõVÄu0\nSV¾bNb—„vîvhöeÿbìN1SïSåNÎN	éb„výV¶RtõV-Nã‰•N*NtõV0"
+ EDG_DMR_GLORY_event_triggered:0 "‹NöN§YýV¶Rcƒw§!òTæ‰ÑS"
+ EDG_DMR_choose_TUR_idea_group_title:0 "ýV¶Rcƒwÿ	éb@TUR§YeY¯eüf§!tõVÄu"
+ EDG_DMR_choose_FRA_idea_group_title:0 "ýV¶Rcƒwÿ	éb@FRA§YÕlpQ‰§!tõVÄu"
+ EDG_DMR_choose_HAB_idea_group_title:0 "ýV¶Rcƒwÿ	éb@HAB§YeY0W)R§!tõVÄu"
+ EDG_DMR_choose_VRS_idea_group_title:0 "ýV¶Rcƒwÿ	éb@VRS§YVÉbúWs|SW¯e§!tõVÄu"
+ EDG_DMR_choose_idea_group_tt:0 "§RPSÿýV¶RtõVNæe	ébàeÕlôf9eÿ§!"
+ EDG_DMR_GLORY_doc_var:0 "ýV¶Rcƒw"
+ EDG_DMR_glory_modifier_tt:0 "SVMRòTuHe„výV¶Rcƒwîvhÿ\n[Root.GetGloryTarget1]\n[Root.GetGloryTarget2]\n[Root.GetGloryTarget3]\n[Root.GetGloryTarget4]\n[Root.GetGloryTarget5]\n[Root.GetGloryTarget6]\n[Root.GetGloryTarget7]\nÿPSÿÙ›Nîvh¾bTSOæ‰ÑS‹NöNÙuˆNýV¶RtõVbuffÿ‹NöNN,‚(Wt^Ræ‰ÑSÿ÷‹wÃVIr…V0	ÿ"
+ EDG_DMR_GLORY_TARGET_1_yes_tt:0 "£yes£ÿ1	ÿg6eeQ¾0R§Y200§!"
+ EDG_DMR_GLORY_TARGET_1_no_tt:0 "£no£§gÿ1	ÿg6eeQ¾0R200§!"
+ EDG_DMR_GLORY_TARGET_2_yes_tt:0 "£yes£ÿ2	ÿF–›QLwN¦^¾0R§Y100%§!"
+ EDG_DMR_GLORY_TARGET_2_no_tt:0 "£no£§gÿ2	ÿF–›QLwN¦^¾0R100%§!"
+ EDG_DMR_GLORY_TARGET_3_yes_tt:0 "£yes£ÿ3	ÿF–›Q.Oßu¾0R§Y100§!"
+ EDG_DMR_GLORY_TARGET_3_no_tt:0 "£no£§gÿ3	ÿF–›Q.Oßu¾0R100§!"
+ EDG_DMR_GLORY_TARGET_4_yes_tt:0 "£yes£ÿ4	ÿ»lN	g§Y100§!*NwýN„v—RYe=fbìN„v§MýVYe§!"
+ EDG_DMR_GLORY_TARGET_4_no_tt:0 "£no£§gÿ4	ÿ»lN	g100*NwýN„v—RYe=fbìN„výVYe§!"
+ EDG_DMR_GLORY_TARGET_5_yes_tt:0 "£yes£ÿ5	ÿF–›QÄ‰!jNSŽN§Y150k§!"
+ EDG_DMR_GLORY_TARGET_5_no_tt:0 "£no£§gÿ5	ÿF–›QÄ‰!jNSŽN150k§!"
+ EDG_DMR_GLORY_TARGET_6_yes_tt:0 "£yes£ÿ6	ÿåb	g„vÍ‘‹W9‚êS¾0R§Y100§!"
+ EDG_DMR_GLORY_TARGET_6_no_tt:0 "£no£§gÿ6	ÿåb	g„vÍ‘‹W9‚êS¾0R100§!"
+ EDG_DMR_GLORY_TARGET_7_yes_tt:0 "£yes£ÿ7	ÿ»lN	g§Y200§!*NwýN„v‡eS=fbìN„v§MINAm‡eS§!"
+ EDG_DMR_GLORY_TARGET_7_no_tt:0 "£no£§gÿ7	ÿ»lN	g200*NwýN„v‡eS=fbìN„vINAm‡eS§!"
+ EDG_DMR_TUR_idea_1_triggered_modifier:0 "eY¯eüftõV0I0"
+ EDG_DMR_TUR_idea_2_triggered_modifier:0 "eY¯eüftõV0II0"
+ EDG_DMR_TUR_idea_3_triggered_modifier:0 "eY¯eüftõV0III0"
+ EDG_DMR_TUR_idea_4_triggered_modifier:0 "eY¯eüftõV0IV0"
+ EDG_DMR_TUR_idea_5_triggered_modifier:0 "eY¯eüftõV0V0"
+ EDG_DMR_TUR_idea_6_triggered_modifier:0 "eY¯eüftõV0VI0"
+ EDG_DMR_TUR_idea_7_triggered_modifier:0 "eY¯eüftõV0VII0"
+ EDG_DMR_FRA_idea_1_triggered_modifier:0 "ÕlpQ‰tõV0I0"
+ EDG_DMR_FRA_idea_2_triggered_modifier:0 "ÕlpQ‰tõV0II0"
+ EDG_DMR_FRA_idea_3_triggered_modifier:0 "ÕlpQ‰tõV0III0"
+ EDG_DMR_FRA_idea_4_triggered_modifier:0 "ÕlpQ‰tõV0IV0"
+ EDG_DMR_FRA_idea_5_triggered_modifier:0 "ÕlpQ‰tõV0V0"
+ EDG_DMR_FRA_idea_6_triggered_modifier:0 "ÕlpQ‰tõV0VI0"
+ EDG_DMR_FRA_idea_7_triggered_modifier:0 "ÕlpQ‰tõV0VII0"
+ EDG_DMR_HAB_idea_1_triggered_modifier:0 "eY0W)RtõV0I0"
+ EDG_DMR_HAB_idea_2_triggered_modifier:0 "eY0W)RtõV0II0"
+ EDG_DMR_HAB_idea_3_triggered_modifier:0 "eY0W)RtõV0III0"
+ EDG_DMR_HAB_idea_4_triggered_modifier:0 "eY0W)RtõV0IV0"
+ EDG_DMR_HAB_idea_5_triggered_modifier:0 "eY0W)RtõV0V0"
+ EDG_DMR_HAB_idea_6_triggered_modifier:0 "eY0W)RtõV0VI0"
+ EDG_DMR_HAB_idea_7_triggered_modifier:0 "eY0W)RtõV0VII0"
+ EDG_DMR_VRS_idea_1_triggered_modifier:0 "VÉbúWs|SW¯etõV0I0"
+ EDG_DMR_VRS_idea_2_triggered_modifier:0 "VÉbúWs|SW¯etõV0II0"
+ EDG_DMR_VRS_idea_3_triggered_modifier:0 "VÉbúWs|SW¯etõV0III0"
+ EDG_DMR_VRS_idea_4_triggered_modifier:0 "VÉbúWs|SW¯etõV0IV0"
+ EDG_DMR_VRS_idea_5_triggered_modifier:0 "VÉbúWs|SW¯etõV0V0"
+ EDG_DMR_VRS_idea_6_triggered_modifier:0 "VÉbúWs|SW¯etõV0VI0"
+ EDG_DMR_VRS_idea_7_triggered_modifier:0 "VÉbúWs|SW¯etõV0VII0"
+ EDG_DMR_TUR_idea_group_flag:0 "òT	éb@TUR§YeY¯eüf§!tõVÄu"
+ EDG_DMR_FRA_idea_group_flag:0 "òT	éb@FRA§YÕlpQ‰§!tõVÄu"
+ EDG_DMR_HAB_idea_group_flag:0 "òT	éb@HAB§YeY0W)R§!tõVÄu"
+ EDG_DMR_VRS_idea_group_flag:0 "òT	éb@VRS§YVÉbúWs|SW¯e§!tõVÄu"
+ EDG_DMR_MARKET_GUI_off_button:0 "sQí•§YWÆYÏuNmú^¾‹§!Lub—"
+ EDG_DMR_MARKET_GUI_off_button_tt:0 "sQí•§YWÆYÏuNmú^¾‹§!Lub—"
+ EDG_DMR_MARKET_GUI_on_button:0 "SbV§YWÆYÏuNmú^¾‹§!Lub—"
+ EDG_DMR_MARKET_GUI_on_button_tt:0 "SbV§YWÆYÏuNmú^¾‹§!Lub—"
+ EDG_DMR_MARKET_decree_button_1:0 "îOú^úWNx¾‹Ëe"
+ EDG_DMR_MARKET_decree_button_2:0 "¡R8h˜RXTÌwof"
+ EDG_DMR_MARKET_decree_button_3:0 "böe›OÙu?eVr"
+ EDG_DMR_MARKET_decree_button_4:0 "xÑS²NŽb=g"
+ EDG_DMR_MARKET_decree_button_5:0 "ib'Yz6en4Y"
+ EDG_DMR_MARKET_decree_button_6:0 "ib'YwmXTVßR"
+ EDG_DMR_MARKET_decree_button_7:0 "¨c^s^ÆQÕlHh"
+ EDG_DMR_MARKET_decree_button_8:0 "ÔYûNØšµuÕl˜R"
+ EDG_DMR_MARKET_decree_button_9:0 " R:V^:WÑv¡r"
+ EDG_DMR_MARKET_decree_button_10:0 "ÐcØšuµNeˆ4"
+ EDG_DMR_MARKET_decree_button_11:0 "ÔYûNÏuNm'Yã"
+ EDG_DMR_MARKET_decree_button_12:0 "žX>m˜RXTª…D"
+ EDG_DMR_MARKET_decree_button_1_tt:0 "§bîOú^úWNx¾‹Ëe§!"
+ EDG_DMR_MARKET_decree_button_2_tt:0 "§b¡R8h˜RXTÌwof§!"
+ EDG_DMR_MARKET_decree_button_3_tt:0 "§bböe›OÙu?eVr§!"
+ EDG_DMR_MARKET_decree_button_4_tt:0 "§bxÑS²NŽb=g§!"
+ EDG_DMR_MARKET_decree_button_5_tt:0 "§bib'Yz6en4Y§!"
+ EDG_DMR_MARKET_decree_button_6_tt:0 "§bib'YwmXTVßR§!"
+ EDG_DMR_MARKET_decree_button_7_tt:0 "§b¨c^s^ÆQÕlHh§!"
+ EDG_DMR_MARKET_decree_button_8_tt:0 "§bÔYûNØšµuÕl˜R§!"
+ EDG_DMR_MARKET_decree_button_9_tt:0 "§b R:V^:WÑv¡r§!"
+ EDG_DMR_MARKET_decree_button_10_tt:0 "§bÐcØšuµNeˆ4§!"
+ EDG_DMR_MARKET_decree_button_11_tt:0 "§bÔYûNÏuNm'Yã§!"
+ EDG_DMR_MARKET_decree_button_12_tt:0 "§bžX>m˜RXTª…D§!"
+ EDG_DMR_MARKET_decree_button_1_modifier:0 "0ýV¶RøvsQ?eVr0îOú^úWNx¾‹Ëe"
+ EDG_DMR_MARKET_decree_button_2_modifier:0 "0ýV¶RøvsQ?eVr0¡R8h˜RXTÌwof"
+ EDG_DMR_MARKET_decree_button_3_modifier:0 "0ýV¶RøvsQ?eVr0böe›OÙu?eVr"
+ EDG_DMR_MARKET_decree_button_4_modifier:0 "0ýV¶RøvsQ?eVr0xÑS²NŽb=g"
+ EDG_DMR_MARKET_decree_button_5_modifier:0 "0ýV¶RøvsQ?eVr0ib'Yz6en4Y"
+ EDG_DMR_MARKET_decree_button_6_modifier:0 "0ýV¶RøvsQ?eVr0ib'YwmXTVßR"
+ EDG_DMR_MARKET_decree_button_7_modifier:0 "0ýV¶RøvsQ?eVr0¨c^s^ÆQÕlHh"
+ EDG_DMR_MARKET_decree_button_8_modifier:0 "0ýV¶RøvsQ?eVr0ÔYûNØšµuÕl˜R"
+ EDG_DMR_MARKET_decree_button_9_modifier:0 "0ýV¶RøvsQ?eVr0 R:V^:WÑv¡r"
+ EDG_DMR_MARKET_decree_button_10_modifier:0 "0ýV¶RøvsQ?eVr0ÐcØšuµNeˆ4"
+ EDG_DMR_MARKET_decree_button_11_modifier:0 "0ýV¶RøvsQ?eVr0ÔYûNÏuNm'Yã"
+ EDG_DMR_MARKET_decree_button_12_modifier:0 "0ýV¶RøvsQ?eVr0žX>m˜RXTª…D"
+ EDG_DMR_MARKET_reform_button_1:0 "ŒR„Uy)R6R¦^"
+ EDG_DMR_MARKET_reform_button_3:0 "6RšRÑ‘‡ag‹O"
+ EDG_DMR_MARKET_reform_button_4:0 "¨cLˆ²N’N6R¦^"
+ EDG_DMR_MARKET_reform_button_5:0 "°sãN˜RÚPSO6R"
+ EDG_DMR_MARKET_reform_button_6:0 "¾‹Ëzwm›QfRb–"
+ EDG_DMR_MARKET_reform_button_7:0 "6RšRY8ag‹O"
+ EDG_DMR_MARKET_reform_button_8:0 "ÑyŽbxÑSfR=g"
+ EDG_DMR_MARKET_reform_button_9:0 "°sãNSœQN"
+ EDG_DMR_MARKET_reform_button_10:0 "ŒR„UÑv¡r6R¦^"
+ EDG_DMR_MARKET_reform_button_11:0 "¡VMRÏuNmO®‹"
+ EDG_DMR_MARKET_reform_button_12:0 "lQLwNNS"
+ EDG_DMR_MARKET_reform_button_1_tt:0 "ŒR„Uy)R6R¦^"
+ EDG_DMR_MARKET_reform_button_3_tt:0 "6RšRÑ‘‡ag‹O"
+ EDG_DMR_MARKET_reform_button_4_tt:0 "¨cLˆ²N’N6R¦^"
+ EDG_DMR_MARKET_reform_button_5_tt:0 "°sãN˜RÚPSO6R"
+ EDG_DMR_MARKET_reform_button_6_tt:0 "¾‹Ëzwm›QfRb–"
+ EDG_DMR_MARKET_reform_button_7_tt:0 "6RšRY8ag‹O"
+ EDG_DMR_MARKET_reform_button_8_tt:0 "ÑyŽbxÑSfR=g"
+ EDG_DMR_MARKET_reform_button_9_tt:0 "°sãNSœQN"
+ EDG_DMR_MARKET_reform_button_10_tt:0 "ŒR„UÑv¡r6R¦^"
+ EDG_DMR_MARKET_reform_button_11_tt:0 "¡VMRÏuNmO®‹"
+ EDG_DMR_MARKET_reform_button_12_tt:0 "lQLwNNS"
+ EDG_DMR_MARKET_money_value:0 "§YïS(u„výV¶RÆQYÑ‘peÏ‘§!"
+ EDG_DMR_MARKET_money_used_value:0 "§YòT•beQ„výV¶RÆQYÑ‘peÏ‘§!"
+ EDG_DMR_MARKET_progress_we_have_tt:0 "bìNòTÏužRLˆ†Nå‹9ei—ÿå‹9ei—:NbìNÐc›O‚YNîOckÿ"
+ EDG_DMR_MARKET_progress_1_value_1_modifier:0 "0WÆYÏuNmú^¾‹0*‚ÐÝOi–N¡R:I"
+ EDG_DMR_MARKET_progress_1_value_2_modifier:0 "0WÆYÏuNmú^¾‹0*‚ÐÝOi–N¡R:II"
+ EDG_DMR_MARKET_progress_1_value_3_modifier:0 "0WÆYÏuNmú^¾‹0*‚ÐÝOi–N¡R:III"
+ EDG_DMR_MARKET_progress_1_value_4_modifier:0 "0WÆYÏuNmú^¾‹0*‚ÐÝOi–N¡R:IV"
+ EDG_DMR_MARKET_progress_2_value_1_modifier:0 "0WÆYÏuNmú^¾‹0z6R9ei—:I"
+ EDG_DMR_MARKET_progress_2_value_2_modifier:0 "0WÆYÏuNmú^¾‹0z6R9ei—:II"
+ EDG_DMR_MARKET_progress_2_value_3_modifier:0 "0WÆYÏuNmú^¾‹0z6R9ei—:III"
+ EDG_DMR_MARKET_progress_2_value_4_modifier:0 "0WÆYÏuNmú^¾‹0z6R9ei—:IV"
+ EDG_DMR_MARKET_progress_3_value_1_modifier:0 "0WÆYÏuNmú^¾‹0ÑyŽbSuµN:I"
+ EDG_DMR_MARKET_progress_3_value_2_modifier:0 "0WÆYÏuNmú^¾‹0ÑyŽbSuµN:II"
+ EDG_DMR_MARKET_progress_3_value_3_modifier:0 "0WÆYÏuNmú^¾‹0ÑyŽbSuµN:III"
+ EDG_DMR_MARKET_progress_3_value_4_modifier:0 "0WÆYÏuNmú^¾‹0ÑyŽbSuµN:IV"
+ EDG_DMR_MARKET_progress_4_value_1_modifier:0 "0WÆYÏuNmú^¾‹0^<P9ei—:I"
+ EDG_DMR_MARKET_progress_4_value_2_modifier:0 "0WÆYÏuNmú^¾‹0^<P9ei—:II"
+ EDG_DMR_MARKET_progress_4_value_3_modifier:0 "0WÆYÏuNmú^¾‹0^<P9ei—:III"
+ EDG_DMR_MARKET_progress_4_value_4_modifier:0 "0WÆYÏuNmú^¾‹0^<P9ei—:IV"
+ EDG_DMR_MARKET_progress_5_value_1_modifier:0 "0WÆYÏuNmú^¾‹0ýVE–'Y8f:I"
+ EDG_DMR_MARKET_progress_5_value_2_modifier:0 "0WÆYÏuNmú^¾‹0ýVE–'Y8f:II"
+ EDG_DMR_MARKET_progress_5_value_3_modifier:0 "0WÆYÏuNmú^¾‹0ýVE–'Y8f:III"
+ EDG_DMR_MARKET_progress_5_value_4_modifier:0 "0WÆYÏuNmú^¾‹0ýVE–'Y8f:IV"
+ EDG_DMR_MARKET_progress_6_value_1_modifier:0 "0WÆYÏuNmú^¾‹0ú^.z‚=g:I"
+ EDG_DMR_MARKET_progress_6_value_2_modifier:0 "0WÆYÏuNmú^¾‹0ú^.z‚=g:II"
+ EDG_DMR_MARKET_progress_6_value_3_modifier:0 "0WÆYÏuNmú^¾‹0ú^.z‚=g:III"
+ EDG_DMR_MARKET_progress_6_value_4_modifier:0 "0WÆYÏuNmú^¾‹0ú^.z‚=g:IV"
+ EDG_DMR_MARKET_reform_button_in_10_years_modifier:0 "(W10t^…Q¨cLˆÇ0WÆYÏuNmú^¾‹09ei—"
+ EDG_DMR_MARKET_reform_button_1_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e0ŒR„Uy)R6R¦^"
+ EDG_DMR_MARKET_reform_button_3_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e06RšRÑ‘‡ag‹O"
+ EDG_DMR_MARKET_reform_button_4_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e0¨cLˆ²N’N6R¦^"
+ EDG_DMR_MARKET_reform_button_5_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e0°sãN˜RÚPSO6R"
+ EDG_DMR_MARKET_reform_button_6_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e0¾‹Ëzwm›QfRb–"
+ EDG_DMR_MARKET_reform_button_7_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e06RšRY8ag‹O"
+ EDG_DMR_MARKET_reform_button_8_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e0ÑyŽbxÑSfR=g"
+ EDG_DMR_MARKET_reform_button_9_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e0°sãNSœQN"
+ EDG_DMR_MARKET_reform_button_10_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e0ŒR„UÑv¡r6R¦^"
+ EDG_DMR_MARKET_reform_button_11_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e0¡VMRÏuNmO®‹"
+ EDG_DMR_MARKET_reform_button_12_modifier:0 "0Lˆ?eÏuNm6R¦^i—°e0lQLwNNS"
+ EDG_DMR_MARKET_decree_unlock_trigger_tt:0 "bìNòTÏuã‰•å‹ÕläN"
+ EDG_DMR_MARKET_get_decision_title:0 "@DMRŒ(uýV“^DÑ‘"
+ EDG_DMR_MARKET_we_need_money_tt:0 "bìN—‰w9§M3§!USMO„v§YýV¶RÆQYÑ‘§!(uåNžX Rå‹xÑS„v§YýV¶RÆQYÑ‘peÏ‘§!0\nbìNïSåNÇ§YûN¡R§!ŒT§Y³Q®‹§!·ƒ—VôfY„v§YýV¶RÆQYÑ‘§!"
+ EDG_DMR_MARKET_get_decision_in_5_years_modifier:0 "(W5t^…QŒ(uÇýV¶RÆQYÑ‘"
+ EDG_DMR_on_yearly_pulse_add_loyalty_flag_tt:0 "bìNSOÏkt^žX R§G10§!¹p§Y6–BSàVÚ‹¦^§!"
+ EDG_DMR_MAX_efficiency_decision_title:0 "@DMR0§MØšHe‡sVìS§!0"
+ EDG_DMR_JUNSHILILUN:0 "tº‹„váOag"
+ EDG_DMR_CHONGSHI:0 "Ñž1WÍk"
+ EDG_DMR_SHOUDUMAOYI:0 "°eúW¹p"
+ EDG_DMR_WENHUAFZD_TT:0 "Nb	g‡eSÄu:N§MWÆY‡eSÄu§!„vwýNSOžX R§G1§!¹p3y˜ÑSUS¦^"
+ EDG_DMR_WENHUAjianzhu_TT:0 "Nb	g‡eSÄu:N§MWÆY‡eSÄu§!„vwýNSO·ƒ—V‚YNîOckÿ"
+ EDG_DMR_LLZBANQUAN:0 "Amjm8—Cg"
+ EDG_DMR_MAOYI:0 "9e„U8f"
+ EDG_DMR_WZYX:0 "‡eS²‹T"
+ EDG_DMR_BOGEMILE:0 "âl<hs|ÒRYe—R"
+ EDG_DMR_ZONGJIAO_flag_TT:0 "ÏkSVbìNb—VN§MN^SŽNbìNýVYe§!„výV¶R„vb‰NÿbìNý	g§G”NRKNN§!„v‚i‡slØSvQýVYe:NbìN„výVYe"
+ EDG_DMR_tech_flag_TT:0 "°s(W§M	Tnfijm+oININ¦^§!SOÙuˆNbìN§GÑyŽb±‚9§!ŒT§GtõV±‚9§!„vžXÊv"
+ EDG_DMR_JIAOSHITEQUAN_FLAG_TT:0 "ã‰•YeëX6–BSyrCg0§M‡TëT=gHywy§!0ÿå‹yrCgÙuˆN‚YNHeœgÿ"
+ EDG_DMR_JIAOSHI_FLAG_TT:0 "bìNS§MGSµu§!YeëX6–BSyrCg0§M‡TëT=gHywy§!0"
+ EDG_estate_DMR_privilege_4:0 "‡TëT=gHywy"
+ EDG_DMR_MARKET_decree_button_2_unlock_flag_TT:0 "ã‰•ÕläN0§G¡R8h˜RXTÌwof§!0"
+ EDG_DMR_1_33_FZD_TT:0 "bìN»lN§M–:g25*NwýN§!SO·ƒ—V–:g§M1§!¹pÑSUS¦^"
+ EDG_DMR_JCSSKF:0 "0WMOÐcØš"
+ EDG_DMR_HAIYUAN:0 "ib'YwmXT"
+ EDG_DMR_MARKET_decree_button_1_unlock_flag_TT:0 "ã‰•ÕläN0§GîOú^úWNx¾‹Ëe§!0"
+ EDG_DMR_JRDS:0 "Ñ‘‡^ýVeg­ˆ"
+ EDG_DMR_FUBAI:0 "2–ƒP%"
+ EDG_DMR_CHANWUGB_FLAG_TT:0 "ÎN°s(WVËY§MGSµu8f-NÃV§!SO:NwýNžX R§G25§!¹pAucƒ¦^"

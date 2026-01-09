@@ -1,0 +1,33 @@
+﻿l_english:
+ EDG_rus_genaral_rurikovich_modifier:0 "YuÌ‘KQ‹sg"
+ EDG_rus_mono_modifier:0 "«ƒú‹lšk„vTãN"
+ EDG_rus_aolig_modifier:0 "eYR<h¯eôušNXb¯eÉbôuGY„vTãN"
+ EDG_rus_vsie_modifier:0 "'YzV0Œƒlm·V„vTãN"
+ EDG_rus_shuyi_modifier:0 "‚O¯eúW¶RÏe"
+ EDG_rus_glasor_modifier:0 "<hÉb0t+Y¯eúW¶RÏe"
+ EDG_rus_genaral_rurikovich_smo_modifier:0 "ÍSùRYuÌ‘KQ‹sg"
+ EDG_rus_genaral_rurikovich_chr_modifier:0 "YuÌ‘KQ‹sgÿ"
+ EDG_rus_chr_modifier:0 "RS<Sb+Y¶RÏe"
+ EDG_BELA_rus_genaral_events.1t:0 "YuÌ‘KQ‹sg„vcƒw"
+ EDG_BELA_rus_genaral_events.1d:0 " YuÌ‘KQ‹sgÿ=fßu»lN¯eÉb+YºN„väSW¯eýV¶R„v,rN*N‹sg0'YôøvSVŽNÊNÄOW¯eN'kèR0W:S0LNKQpQ0‹vÄOW¯eèR0W:S0úW…W¯e=f1uegêS'k^txQ„væto‚<hºNú^Ëz„vÿvQ–™†˜T:NYuÌ‘KQÿEeðy:NYuÌ‘KQ‹sgÿlQCQ882t^VËYšRýŽNúW…ÿEeÈSðyúW…W¯e0\n (WSú^RÂˆöegÿYuÌ‘KQ‹sg¦NR:NàQ*N=eû|ÿvQ-NgIN‰„v=f«ƒú‹lš—ôuGY¶RÏeúW…'YlQVÉbúWs|S·«ƒú‹lšk„vTãNbVb„v=eû|ÿŒTeY)RbôuGY¶RÏeRS<Sb+Y‹slQeYR<h·¯eôušNXb¯eÉbôuGY„vTãNbVb„v=eû|ÿßu»lNSW¯e„vV0ŒƒlmYôuGY¶RÏe^SŽN«ƒú‹lš—ôuGY=eû|-N„vVÉbúWs|S-Ï‚yQ¾S=eû|0"
+ EDG_BELA_rus_genaral_events.1A:0 "bìN„v‹slQ=fO'Y„v«ƒú‹lšk„vTãNÿ"
+ EDG_BELA_rus_genaral_events.1B:0 "bìN„v‹slQ=feYR<h„vTãNÿ"
+ EDG_BELA_rus_genaral_events.1C:0 "bìN„v‹slQ=f'YzV0Œƒlm·V„vTãNÿ"
+ EDG_BELA_rus_genaral_events.1E:0 "‚O¯eúW¶RÏevQžRmN=fV0ŒƒlmYôuGY=eû|&&"
+ EDG_BELA_rus_genaral_events.1F:0 "<hÉb0t+Y¯eúW¶RÏe=f^SŽNYuÌ‘KQ‹sg„vNèR&&"
+ EDG_BELA_rus_genaral_events.1G:0 "‹slQ5ÏeìNmr^ÀQPRIrNwÿ`OœQl7r7reg†Nÿ"
+ EDG_BELA_rus_genaral_events.1H:0 "RS<Sb+Y¶RÏeý9h¯nnmNýw=fYuÌ‘KQ&&"
+ EDG_BELA_rus_genaral_events.1I:0 "N=fYuÌ‘KQ‹sgÈS`7hbTÿ"
+ EDG_rus_brief_ruler:0 "b5–‹slQ"
+ EDG_rus_afraid_ruler:0 "æa1V„v‹slQ"
+ EDG_rus_refuse_ruler:0 "ãNÿf¹eHh"
+ EDG_BELA_rus_genaral_events.2t:0 "b5–‹slQ"
+ EDG_BELA_rus_genaral_events.2d:0 "NMOT<h„vW¯e‹slQÅV‰˜(Wb:WNÁ‹fêñTÿóS'Y¶R=fÙ7h²‹:N„v0NýwNb:W„vW¯e‹slQSO«ˆ2Vr:Næa1V„v‹slQÿÙ7h„v‹slQNýwgOÿôfàeÕl&^†˜lQýVpTIQf„v*geg0"
+ EDG_BELA_rus_genaral_events.2A:0 "bSNlšSVHQÿ"
+ EDG_BELA_rus_genaral_events.2B:0 "b:W*YqSi–†N&&"
+ EDG_BELA_rus_genaral_events.2C:0 "b„v‰RqSùRýV¶RôfÍ‘‰ÿ"
+ EDG_BELA_rus_genaral_events.3t:0 "ßuNYuÌ‘KQ¶RÏe"
+ EDG_BELA_rus_genaral_events.3d:0 "bìNO'Y„v[Root.Monarch.GetTitle]òTÏu=fIQcƒ„vYuÌ‘KQ¶RÏe=UN„vçubºNÿ°s(W=f&Tå‹:NbìNO'Y„v[Root.Monarch.GetTitle] QåNYuÌ‘KQôuGY„vÓYl†NbTÿ"
+ EDG_BELA_rus_genaral_events.3A:0 "[Root.Monarch.GetName]=fgO'Y„vYuÌ‘KQôuGYÿ"
+ EDG_BELA_rus_genaral_events.3B:0 "[Root.Monarch.GetName]^SŽN[Root.Monarch.Dynasty.GetName]¶RÏe0"
+ EDG_rus_unite_rurikovich_modifier:0 "=UN„vYuÌ‘KQôuGY"

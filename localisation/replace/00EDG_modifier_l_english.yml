@@ -1,0 +1,227 @@
+﻿l_english:
+
+give_10_province_the_modifier_tooltip:0 "§Y10§!*N&rTagöN„vwýNSO·ƒ—V‚YNîOck"
+give_all_province_the_modifier_tooltip:0 "§YNb	g§!&rTagöN„vwýNSO·ƒ—V‚YNîOck"
+#贸易key
+EDG_KEY_Trade_expansion:0 "8fib'Y"
+
+EDG_AI_luck:0 "Ðl"
+EDG_AI_luck_desc:0 "ýV¶RTw„vïN—‰N›NÐl0"
+
+EDG_GREAT_POWER_IN_HLR:0 "^ýVƒX…Q„vR:V"
+EDG_GREAT_POWER_IN_HLR_desc:0 "–NwYèbV¿R„våeÊvv`Sÿ^ýVb—4NaegaY„vZÁwÿÕlpQ‰„vTwŒT	NASt^b‰N&^eg„v¨Raƒý<ë^ýV	^¯O©‹ôf	gžR›R„vø‹¯Ob:N‡v^ÿ&TRêñTSˆV¹Rf«ˆöeãN„vjmnoT¡l0"
+
+great_projects_local_discount_1:0 "Ä‰RO'YåTz"
+great_projects_local_discount_1_desc:0 "SV0W	g<P—Vú^¾‹„vO'YåTzÿ(WúQr‚„vú^Qr^ŒTŒR„U„vÄ‰RNÿbìNýwY‚‚w'YÏ‘b,g0"
+great_projects_local_discount_2:0 "Ä‰RO'YåTz"
+great_projects_local_discount_2_desc:0 "SV0W	g<P—Vú^¾‹„vO'YåTzÿ(WúQr‚„vú^Qr^ŒTŒR„U„vÄ‰RNÿbìNýwY‚‚w'YÏ‘b,g0"
+great_projects_local_discount_3:0 "Ä‰RO'YåTz"
+great_projects_local_discount_3_desc:0 "SV0W	g<P—Vú^¾‹„vO'YåTzÿ(WúQr‚„vú^Qr^ŒTŒR„U„vÄ‰RNÿbìNýwY‚‚w'YÏ‘b,g0"
+
+ 
+EDG_City_Trade_modifier:0 "FU8-NÃV"
+EDG_City_Trade_modifier_desc:0 "å‹ÎW^/fN*N(WSV0W>N³‰Í‘„vFUN-NÃVÿåb	gAucƒ„v8fŒTÑS¾„vÎW^0"
+EDG_City_Trade_2_modifier:0 "FU8lQr"
+EDG_City_Trade_2_modifier_desc:0 "SV0W„vFU8lQr:g„gÝOÁ‹†NFUNLˆ:N„v	g^0"
+
+EDG_City_the_great:0 "O'YÎW^"
+EDG_City_the_great_desc:0 "Ù/fN*NO'Y„vÎW^ÿ:NƒR„vc	gwÐc›OàeN„vZgŒTnnN­eAmeQ„vT¹eºNMb0"
+EDG_capita_area_bloom:0 "0W:SAucƒ"
+EDG_capita_area_bloom_desc:0 "å‹0W:S(WOo‚„v»ltN—V0R†Ng'Y„vÑSUSjo›RÿµNNŒTÏuNmHT°súQ#k#kTcƒKN`0"
+EDG_capita_area_bloom_2:0 "0W:SÑSUS"
+EDG_capita_area_bloom_2_desc:0 "å‹0W:SçuíuÑSUS„vagöN—V0R†Nán³0"
+
+EDG_City_Tax_bloom:0 "ØšHez6e"
+EDG_City_Tax_bloom_desc:0 "SV0W„vÏuNm¯sƒXàV¥YSV„v»ltwØS—VASRO%nÿ?eœ^ïSåNÎNdk0W·ƒ—Vôf:NØšf„vz6eÿtSNVwûNUOb—Heœg0"
+EDG_City_Tax_place:0 "zúWib'Y"
+EDG_City_Tax_place_desc:0 "SV0WYŽNÏuNm„vAucƒgÿSV0W?eœ^ýwÎN-NV6e0RôfY„vz>k0"
+
+
+EDG_City_develop_1_modifier:0 "úWNx¾‹ËeŒR„U"
+EDG_City_develop_1_modifier_desc:0 "SV0W„vúWNx¾‹Ëe—V0R†NEQR„vÑSUSÿ	gôf‹Y„vÑSUSMRof0"
+EDG_City_develop_2_modifier:0 "ÑãNSÎW^¾‹¡‹"
+EDG_City_develop_2_modifier_desc:0 "SV0W(WÌR	gMbNSŒTÜÁ‰„v¾‹¡‹^„vÄ‰RNÿbVb†NN*NŒR„U„vÎW^SOû|ÿåb	gËR–„vWˆSŒTqVÍTñmÜ„v²N¢gËuÿåNÊSTt„v^:SÄ‰R0"
+EDG_City_develop_3_modifier:0 "HQÛÎW^S"
+EDG_City_develop_3_modifier_desc:0 "SV0W„vÎW^SASRbŸR0"
+EDG_City_develop_4_modifier:0 "'Y‹W^G•"
+EDG_City_develop_5_modifier:0 "Aucƒ„v^:S"
+EDG_City_develop_6_modifier:0 "^G•Aucƒ"
+
+EDG_City_develop_build_and_product_modifier:0 "ŒR„U„våTNSOû|"
+EDG_City_develop_build_and_product_modifier_desc:0 "SV0W	gNWYÑS¾NŒR„U„våTNSOû|ÿ(WåTNS„vSïN	gAS³„vjo›R0"
+EDG_City_develop_farmland:0 "'YœQ:W„^íV"
+EDG_City_develop_farmland_desc:0 "SV0WúQ°s†N¸‹Y„v'YœQ:WŒT'Y„^íVÿÙ›NœQNÏuNmÄuÇuÝOœ–†NSV0W„v1SNŒTºNãS„vžX•0"
+EDG_City_develop_attractions:0 "äSxQKNÎW"
+EDG_City_develop_attractions_desc:0 "SV0WXR(W'YÏ‘TÜwÿ8TV†N¸‹Yz‚/g¶RŒTòTfR¶R„vsQèlÿv^Veg'YÏ‘ÌRFUŒT8n¢R0"
+
+EDG_City_develop_shipyard_modifier:0 ".9‚N-NÃV"
+EDG_City_develop_shipyard_modifier_desc:0 "SV0W„v.9‚Žb/gƒhT¹0W:Sôf:NHQÛÿÑS¾„v.9‚NNØšHe„v.9‚‚S/fSV0W„vãNTÍ‹0"
+
+
+
+EDG_City_Trade_1_modifier:0 "8fÍ‘G•"
+EDG_City_Trade_1_modifier_desc:0 "å‹:SßW„v8fASRAucƒÿbVb†NN*NImÃ„v8f-NÃV0"
+EDG_City_production_bloom:0 "ØšHeuµN"
+EDG_City_production_bloom_desc:0 "å‹0W:S·ƒ—V†NÐg›N	g)R„vagöNÿàVwÏuNmØS—Vôf	gIm›Rÿ.OßuKbåTNŒTÑãNåT:Wý	g†NôfØš„vHe‡s0"
+EDG_City_trade_goods_size_bloom:0 "uµN-NÃV"
+EDG_City_trade_goods_size_bloom_desc:0 "å‹0W/fN*NKbåTNŒT6R.NASRÑS¾„v0W:SÿÙÌ‘„vµNÁT	g<hYzúQ„vÞz‰N›R0"
+EDG_City_trade_goods_size_bloom_2:0 "ÑS¾„v^G•uµN"
+EDG_City_trade_goods_size_bloom_3:0 "ImÃ„vFUÁTÏuNm"
+
+EDG_City_sailors_bloom:0 "0W¹ewm›Qípno"
+EDG_City_sailors_bloom_desc:0 "SV0WºNŽÃ0WÂS Rwm›Qÿ:NbìNÐc›O†N¸‹Y„vwmXT0"
+EDG_City_manpower_bloom:0 "ØšHeVuQ"
+EDG_City_manpower_bloom_desc:0 ",g0W„vVuQHe‡s—V0R†NÐcØšÿbìNïSåNÎNdk0W·ƒ—VnnN­e„vuQ›ReˆEQ0"
+
+EDG_City_manpower_bloom_2:0 "SV0W›Q‹N.Oßu"
+EDG_City_manpower_bloom_2_desc:0 "SV0WºNlåb²bbìN„vßu»lÿv^?aa:NýV¶RŒT›Q–/.súQêñT„v›RÏ‘ÿÙ(WSV0WbVb†NNÍy0W:S.Oßu0"
+
+EDG_City_defensiveness_update:0 " RúVÎW2–"
+EDG_City_defensiveness_update_desc:0 "SV0W„vÎW2–û|ßu—V0R†NNšRz¦^„v R:VÿýwY	gHeµb—bLeºN„veQµO0"
+EDG_City_fort_level_update:0 "MRkS‰^X¾‹¡‹"
+EDG_City_fort_level_update_desc:0 "SV0W„v‰^X¾‹¡‹ASRMRkSÿ…Š†NTöeãN„vvQÖN‰^Xÿåb	gôf:N:V'Y„v2–¡V›R0"
+
+EDG_City_goods_bloom:0 "^G•uµNAucƒ"
+EDG_City_goods_bloom_desc:0 "SV0W„vuµNÛeQ†NAucƒgÿ^lô•„v8fŒT²NbcASRImÃÿÎW^…QYý«ˆÏuNmípnoqVÍT0"
+
+EDG_Active_commodity_economy_modifier:0 "ÑS¾„vFUÁTÏuNm"
+
+EDG_City_professoriate_support:0 "YeâV/ec"
+EDG_City_professoriate_support_desc:0 "SV0W·ƒ—V†N—RYe¿R›R„v/ecŒTÝO²bÿ>yOÐLˆôf R3zšRÿNôffŽN)R(uYegDn0"
+
+EDG_City_professoriate_support_2:0 " R:V—RYeµc6R"
+
+EDG_City_holy_city:0 "—RYe#W0W"
+EDG_City_holy_city_desc:0 "SV0W/fN*N—RYe#W0Wÿ8TV†N'YÏ‘egêY0W„vDnŒTºNãS0"
+
+EDG_AKK_province_modifier_416:0 "YtQ'YNÌ‘ëXÎW"
+EDG_AKK_province_modifier_416_desc:0 "'YNÌ‘ëXq™×Sbkpgd‹kÿFO‚YÊNÈuŽNQ/kYtQ†N0"
+
+EDG_AKK_province_modifier_410:0 "^ýôT<h¾"
+EDG_AKK_province_modifier_410_desc:0 "ôT<h¾/fbìN„v?e»l-NÃVÿ«N	gTØš„v0WMOÿPWåbgvQAucƒ„vÏuNmúWNx0"
+
+EDG_per_mission_2_14_local_modifier:0 "âl¯e0W:SAucƒ"
+EDG_per_mission_2_14_local_modifier_desc:0 "(WT„v»ltNÿâl¯e0W:SÛeQ†N°eNn„vAucƒ0"
+
+EDG_per_mission_4_11_local_modifier:0 "âl¯eýV¶Rú^¾‹"
+EDG_per_mission_4_11_local_modifier_desc:0 "(Wcknx?eVr„vcüRNÿå‹0W:S„vÑSUS—V0R†NÐcGSŒTÝOœ–0"
+
+EDG_per_mission_5_12_local_modifier:0 "NW?Q•NSOû|"
+EDG_per_mission_5_12_local_modifier_desc:0 "å‹0W:S„vNW?Q•NêbSOû|ÿÝOœ–†NSV0W„vÏuNm3zšRŒTÑSUS0"
+
+
+
+EDG_IBR_MSL_Shadhili_invite_modifier:0 "0YeâV0ûN(u™lyQÌ‘YeâV"
+EDG_IBR_MSL_Qadiri_invite_modifier:0 "0YeâV0ûN(uaSêÌ‘YeâV"
+EDG_IBR_MSL_Aissawa_invite_modifier:0 "0YeâV0ûN(uŒ‚™lætYeâV"
+EDG_IBR_MSL_Shadhili_invite_modifier_desc:0 "™lyQÌ‘YeâV/fN*NRËzŽNidmåT„vÏ‚òƒ>mYeâVÿÖNìNsQèlùRzf›Rbœg„výBlÿSìbRjO‡efRjOÁTŒT×‹Lk0"
+EDG_IBR_MSL_Qadiri_invite_modifier_desc:0 "aSêÌ‘YeâVRËzŽNOgÿƒR/fN*NÏ‚òƒ>m„vYeâVÄuÇuÿ.O­dÔkƒ^ÛlÿàVw(WNLuT0Wý	gNwNT„vXR(WbVVŒTÄuÇu0"
+EDG_IBR_MSL_Aissawa_invite_modifier_desc:0 "Œ‚™lætYeâV/fN*Nƒ:Nt^‰„vÏ‚òƒ>mYeâVÿƒRWYu„v×‹ÇrŒTwy‡eÑSUSb†N4O	gó—PNŒT‚HŽ„vêNVbVV0"
+
+EDG_CHINA_DYING_1_1:0 "›Q?eSOû|õPS"
+EDG_CHINA_DYING_1_2:0 ".S7b.`åT"
+EDG_CHINA_DYING_1_3:0 "í•sQ•ýV"
+EDG_CHINA_DYING_2_1:0 "PQµc6R‡eS"
+EDG_CHINA_DYING_2_2:0 "˜RÚP:g„g¨Àw"
+EDG_CHINA_DYING_2_3:0 "T»lP%"
+EDG_CHINA_DYING_3_1:0 "%NÍ‘„vW0W|Qv^"
+EDG_CHINA_DYING_1_1_desc:0 "0W¹eõPS„v›Q?e6R¦^òTÏu'N1Y†NIm›Rÿ›Q–„vÍdÃuŒgVÿ›Q–-N*alŒTTzzw™„vLˆ:NVËY‚YÅuÒk,‚…ö^Veg0"
+EDG_CHINA_DYING_1_2_desc:0 "(W.SM|6R¦^Nÿnís.S„v³R¨R/fàeP„vÿ‰×SåT˜RŠb4Y„v¡r6RØveRÿàVwåT.S8^åN.`åT0–’Q0¡NIr¹eVÛLˆÍS—bÿwÖNìNÈSbÅb†NbìNNb—„v'YÏ‘Žb/g'`åTjOÿÙüRô†NbìNýV¶Rú^¾‹„vßÞnŒTNOHe0"
+EDG_CHINA_DYING_1_3_desc:0 ""
+EDG_CHINA_DYING_2_1_desc:0 ""
+EDG_CHINA_DYING_2_2_desc:0 ""
+EDG_CHINA_DYING_2_3_desc:0 ""
+EDG_CHINA_DYING_3_1_desc:0 ""
+
+
+adu_trigger_modifier_1:0 "#W0WÑySYæt"
+adu_trigger_modifier_1_desc:0 "(W‰R¾bS‰šN^ýV:V'Y„v—RYe?e»lqVÍT›RNÿå‹0Wb:N†NO¯epQYe„v#W0WKNN0"
+
+EDG_India_religion_conflict_modifier:0 "pS¦^—RYe²Qz"
+EDG_India_religion_conflict_modifier_desc:0 "te*NpS¦^„v>yOÓu„g/fåNpS¦^Ye:NúWNx„vÿ2SvQ/f(W^'YaNQgÿ¡l	gpS¦^Ye1SàeÕlôucßu»lÿ¡l	gpS¦^Ye1SàeÕl6ez0ùRŽN^'YpS¦^œQlegô‹ÿpS¦^Ye/fÖNìNVyVyˆˆ„v—RYeÿ‹†6qƒR	gÍyÓY6R¦^Ir¸‹Y‹SëºNl„vIN.VÿFOÙ›NIN.VmNòTÏun0RpS¦^ºN„v¨šÓšÌ‘»S†Nÿ/fpS¦^lÏe‡eSNïSb:„vNèRÿ©‹pS¦^ºNˆvOO¯epQYe¾–¦^NS0Ù.b†NOÏ‚9NýV…Q„vèT'Y>yO•dÂˆÿÙN•dÂˆ(W·VÌ‘Ï‚9NýVpˆK„KNMRNôv«ˆFz¯e—g:V'Y„v›Q‹NžR›RNb©cÖvÿFO‚YÊN‰V•^´f2—úQeg0"
+
+
+EDG_modifier_ADU_religion_proposition_1:0 "YeagININ>PT"
+EDG_modifier_ADU_religion_proposition_2:0 "^yØyININ>PT"
+EDG_modifier_ADU_religion_proposition_1_desc:0 "ùRáOðN„vã‰û‹/fASRÍ‘‰„vÿwbìNòTÏuZPúQ†NêñT„v	éb0"
+EDG_modifier_ADU_religion_proposition_2_desc:0 "ùRáOðN„vã‰û‹/fASRÍ‘‰„vÿwbìNòTÏuZPúQ†NêñT„v	éb0"
+
+EDG_EDG_Mozarabic_mission_tolerance_local_modifier:0 "FzNbVjS>m®‹O"
+EDG_EDG_Mozarabic_mission_tolerance_local_modifier_desc:0 "bìNÇ®‹O6R¦^ÝOœ–FzNbVjSáO’VCg)Rÿv^¨c¨R†NSV0W„vÏuNmÑSUS0"
+
+
+EDG_Religious_piety_egy_shiite_modifier:0 "ýVYe„v/ecw"
+EDG_Religious_piety_egy_shiite_modifier_desc:0 "SV0WXR(W'YÏ‘„v—RYeSpe>mÿvQ-N	gˆV'YNèR„v^—INAmáO’V/fbìNýVYe„v/ecwÿbìN”^SV2U’‘ÖNìN„v—RYeaÆ‹ÿv^©‹ÃWÊS0W:SÍ‘RVwt„v`±b0"
+
+
+#商品
+EDG_City_goods_product_glass_1:0 "¾|in„v»sƒtuµNåTz‚"
+EDG_City_goods_product_livestock_1:0 "jugrN-NÃV"
+EDG_City_goods_product_grain_1:0 "7ŒiruµN-NÃV"
+EDG_City_goods_product_grain_2:0 "ÑS¾„vœQwN"
+EDG_City_goods_product_grain_3:0 "œQNŸS™eµN0W"
+
+EDG_City_goods_product_glass_1_desc:0 "SV0W	gNteWYŒRte„vyršRFUÁTµNNSOû|ÿN6RjOåTz‚ASR¾|o‚ÿýV…QY„vFUºNýùRSV0W„vµNÁT‹KNå‚jž0"
+EDG_City_goods_product_livestock_1_desc:0 "SV0W„vœQNASRÑS¾ÿ›O‰Q†N'YÏ‘„vÉ^÷N³R¨R›RŒTºN›RDn0"
+EDG_City_goods_product_grain_1_desc:0 "SV0W„vœQNASRÑS¾ÿ›O‰Q†N'YÏ‘„vÉ^÷N³R¨R›RŒTºN›RDn0"
+
+
+EDG_Boutique_wine_goods_modifier:0 "¾|ÁTa„„R‘"
+EDG_Large_wine_estates_goods_modifier:0 "'Y‹Wa„„R‘„^íV"
+EDG_Wine_industry_system_goods_modifier:0 "a„„R‘µNNSOû|"
+EDG_Origin_of_high_quality_textiles_goods_modifier:0 "O(ºuÇuÁTµN0W"
+EDG_Large_textile_workshop_goods_modifier:0 "'Y‹WºuÇujOJW"
+EDG_textile_industry_system_goods_modifier:0 "ºuÇuNµNNSOû|"
+EDG_iron_ore_industry_goods_modifier:0 "ÑS¾„vÁ”ÿwµNN"
+EDG_iron_industry_goods_modifier:0 "ŒR„U„v¶QÁ”åTN"
+EDG_copper_ore_industry_goods_modifier:0 "ÑS¾„vÜ”ÿwµNN"
+EDG_gear_industry_goods_modifier:0 "bŸq„v9‚wQ6R.Žb/g"
+EDG_shipyard_modifier:0 "'Y.9‚‚S"
+
+
+#阿尔勒
+EDG_AEL_mission_2_1_defense_system_modifier:0 "Ì‘f-³uZS·‹2–¡VSOû|"
+EDG_catharism_decision_Aix_modifier:0 "²‹TŒ‚KQ¯elQ®‹O"
+
+#罗斯
+EDG_Moscow_River_modifier:0 "«ƒ¯eÑy³l"
+EDG_Moscow_River_modifier_desc:0 "«ƒ¯eÑy³lhQ•502lQÌ‘ÿAmÏute*N«ƒ¯eÑy¦u80lQÌ‘ÿ³lËRN,‚200s|ÿgËR1lQÌ‘ÿ¿lofr‚ÀyKN0ŽKNNÌRv™„v«ƒ¯eÑy³l:N«ƒ¯eÑy0W:S&^eg†NôfY„vIm›RŒTu:g0"
+
+EDG_SMO_develop_farmland:0 "HQÛ„vœQNuµNsQû|"
+EDG_SMO_develop_farmland_desc:0 "å‹0W:S„vœQNÇ‘ÖSHQÛ„vuµN/jVÿœQl„vuµNHe‡sŒT³R¨RípÅ`—V0R†NzzMR„vÐcØš0"
+
+#英国:0 ""
+EDG_Thames_basin:0 "ðldfëX³lAmßW"
+EDG_Thames_basin_desc:0 "(W&OfeN8nÿðldfëX³l¿l¸S	g¸‹YTÜwKN0Wÿø‹‚YO˜0ir%m0¨N)RŒT)nŽƒIr0ðldfëX³l„veQwmãSEQán†Nñ‚ýV„vAuÙVFU9‚ÿ6qwvQN8n„v³lSRåNvQY—`KNŽwW„ðyŽNN0(Wñ‚ýV†SòSNðldfëX³lAmßW`S	g>N³‰Í‘„v0WMO0"
+
+EDG_293_river_basin:0 "YnfHY¯eÐ³lN^Xæ—i`³l³lãS"
+EDG_293_river_basin_desc:0 "µc6ROOÍ‘‰„vYnfHY¯eÐ³lN^Xæ—i`³l³lãS R:V†NbìN(WÙN0W:S„v8fŒcµc›R0"
+
+EDG_SCO_mission_1_2_province_modifier:0 "z˜ÎN„vØš0WÏ‚<hpQºN"
+EDG_flavorSCO_mission_3_a_modifier:0 "ÝOYu/O5rÔYXTOyrCg"
+EDG_flavorSCO_mission_3_b_modifier:0 "‹s²Rôv–†˜0W"
+EDG_SCO_mission_5_5_modifier:0 "ïQSyrAucƒ"
+EDG_SCO_mission_5_8_modifier_province:0 "'YÏ‚<hpQININjmno"
+EDG_SCO_mission_5_9_modifier_province:0 "'YïQSyrININjmno"
+EDG_SCO_mission_2_8_province_modifier:0 "ÏuNmb`Y"
+EDG_SCO_mission_4_7_province_modifier:0 "ZRâeƒw"
+EDG_City_university:0 "TAm'YfR"
+EDG_BTA_mission_1_36_province_modifier:0 "1rSpQ¦W–k"
+EDG_British_bloom_province_modifier:0 "NR ˜ÏuNmAucƒ"
+EDG_colonial_region_goods_bloom_modifier:0 "–kl0WuµNAucƒ"
+EDG_BTA_mission_3_22_province_modifier:0 "µc6R/•KQºN"
+
+
+MAM_mission_3_6_modifier:0 "ªRÔkšNlšFzœKQ"
+MAM_mission_4_6_modifier:0 "(Wzfga«R-NùWi²NáO"
+MAM_mission_2_6_modifier:0 "lš)RKQZáO„vÐcØš"
+MAM_mission_3_20_modifier:0 "ib'YlšFzœKQ'n"
+MAM_mission_3_21_modifier:0 "ib'YlšFzœKQ­‹ÃuÄ‰/j"
+
+EDG_flavorFrench_2_a_modifier:0 "ŒR„U„vz¡R˜R6R¦^"
+EDG_flavorFrench_4_b_modifier:0 "«ˆfkŸRLk^‚˜„vßu»lw"
+EDG_flavorFrench_5_b_modifier:0 "‘šëX¾|^yípno"
+
+
+
+

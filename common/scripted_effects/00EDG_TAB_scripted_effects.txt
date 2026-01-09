@@ -1,0 +1,81 @@
+EDG_TAB_add_ruler = {
+    define_ruler = {
+        male = yes
+        dynasty = "ôT‡e·V"
+        name = "?–S¾^S I0RVegw0"
+        claim = 100
+        age = 30
+        adm = 5
+        dip = 5
+        mil = 6
+        fixed = yes
+        religion = zoroastrian 
+    }
+    add_ruler_personality = EDG_personality_Backer
+    remove_heir = yes
+}
+EDG_ERS_add_heir_1 = {#?–S¾^SImÇ†N50SN¡l	g‹sM‘ŒTçubºNÙu
+    define_heir = {
+        male = yes
+        dynasty = "ôT‡e·V"
+        name = ">ÆY^·V0ËY‡v0"
+        claim = 100
+        age = 10
+        adm = 6
+        dip = 4
+        mil = 6
+        religion = zoroastrian 
+    }
+    add_heir_personality = EDG_personality_first_emperor
+}
+EDG_ERS_add_ruler_2 = {#OgQRÂˆqS:gŒp¾–Ùu
+    define_ruler = {
+        male = yes
+        dynasty = "ôT‡e·V"
+        name = "KOS™l¯e^ I0ñ‚Ä–0"
+        claim = 100
+        age = 25
+        adm = 4
+        dip = 3
+        mil = 5
+        religion = zoroastrian 
+    }
+    add_ruler_personality = EDG_personality_hero
+}
+EDG_ERS_add_heir_3 = {#¦^ÇOgQRÂˆqS:gTÿ*gÇ25S„vTIN–:gæ‰ÑSÓuZZ‹NöNÙuÿPå‚(WOgQRÂˆb‰N-NÿKOS™l¯e^NMONIm†NNegÿ±HNàeÆ‰t^„ŸagöN
+    define_heir = {
+        male = yes
+        dynasty = "ôT‡e·V"
+        name = "œ¯eTXÆY0„˜ŠKNPR0"
+        claim = 100
+        age = 0
+        adm = 6
+        dip = 6
+        mil = 6
+        religion = zoroastrian 
+    }
+    add_heir_personality = EDG_The_Son_of_Prophecy
+}
+mission_EDGTABmission_242_opinion_1_scripted_effect = {
+    2218 = {
+        add_base_production = 3
+        add_base_manpower = 3
+        add_base_tax = 3
+        add_permanent_province_modifier = {
+            name = new_TAB_buff_26
+            duration = -1
+            desc = new_TAB_buff_26_txt
+        }
+        add_province_triggered_modifier = EDG_TAB_Shiraz_revitalize
+        change_province_name = "âl¯eâl)R¯e"
+    }
+}
+EDG_TAB_tribe_punishment = {
+    add_base_tax = -1
+    add_base_production = -1
+    add_base_manpower = -2
+    remove_loot = {
+        who = ROOT
+        amount = 10
+    }
+}

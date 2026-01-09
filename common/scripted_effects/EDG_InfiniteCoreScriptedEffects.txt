@@ -1,0 +1,7 @@
+EDG_define_Chief_Engineer = {
+	define_advisor = {
+		name = "YSýlChannel"
+		type = EDG_Chief_Engineer
+		skill = 5
+	}
+}

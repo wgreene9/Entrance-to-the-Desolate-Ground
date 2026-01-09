@@ -1,0 +1,90 @@
+EDG_AK2_exploison_effect_1 = {#LNSÈTQh
+	define_ruler = {
+		dynasty = "?–KQ ÑyÍ–œ"
+		name = "LNS ÈTQh"
+		age = 55
+		claim = 100
+		adm = 4
+		dip = 5
+		mil = 6
+	}
+}
+
+EDG_AK2_exploison_effect_2 = {#>™l Wl
+	define_ruler = {
+		dynasty = "aSÉb ÑyÍ–œ"
+		name = ">™l Wl"
+		age = 58
+		claim = 100
+		adm = 3
+		dip = 4
+		mil = 5
+	}
+}
+
+EDG_AK2_exploison_effect_3 = {#O¯eNW¾S
+	define_ruler = {
+		dynasty = "O¯eNW¾S"
+		name = "‰RaSÉb"
+		age = 35
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+	}
+}
+
+EDG_AK2_event_53_effect_4 = {#ïQ(„Éb
+	define_heir = {
+		dynasty = "aSÉbO¯eNW¾S"
+		name = "ïQ(„Éb"
+		age = 1
+		claim = 100
+		adm = 4
+		dip = 4
+		mil = 5
+		female = yes
+	}
+	add_heir_personality = legendary_conqueror_personality
+}
+
+EDG_AK2_event_58_effect_a = {#›sªRRkS0ÂSYR0
+	define_ruler = {
+		dynasty = "aSÉbO¯eNW¾S"
+		name = "›sªRRkS0ÂSYR0"
+		age = 35
+		claim = 75
+		adm = 4
+		dip = 2
+		mil = 6
+	}
+	add_ruler_personality = inspiring_leader_personality
+}
+
+EDG_AK2_event_58_effect_b = {#›s?–S=OyQ0NbWè•0
+	define_ruler = {
+		dynasty = "aSÉbO¯eNW¾S"
+		name = "?–S=OyQ0NbWè•0"
+		age = 27
+		claim = 75
+		adm = 4
+		dip = 4
+		mil = 4
+	}
+	add_ruler_personality = strict_personality
+}
+
+EDG_AK2_event_58_effect_c = {#eYS›syQ·V0O'Yw0
+	define_ruler = {
+		dynasty = "aSÉbO¯eNW¾S"
+		name = "eYS›syQ·V0O'Yw0"
+		age = 15
+		claim = 100
+		adm = 0
+		dip = 0
+		mil = 0
+	}
+	add_ruler_personality = craven_personality
+}
+
+

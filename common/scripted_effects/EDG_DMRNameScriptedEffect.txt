@@ -1,0 +1,14 @@
+EDG_DMR_rename_effect_1 = {
+	change_province_name = "W¯e<hÒR"
+	rename_capital = "W¯e<hÒR"
+}
+
+EDG_DMR_rename_effect_2 = {
+	change_province_name = "WÆY<hÒR"
+	rename_capital = "WÆY<hÒR"
+}
+
+EDG_DMR_rename_effect_3 = {
+	change_province_name = "OS R<hÒR"
+	rename_capital = "OS R<hÒR"
+}

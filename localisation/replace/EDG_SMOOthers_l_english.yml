@@ -1,0 +1,145 @@
+﻿l_english:
+ EDG_SMO_planned_offensive:0 "¡‹RIe¿R"
+ desc_EDG_SMO_planned_offensive:0 ""
+ EDG_SMO_war_plan_1_modifier:0 "ñm¬Q¡‹R"
+ desc_EDG_SMO_war_plan_1_modifier:0 ""
+ EDG_SMO_war_plan_2_modifier:0 "Í‘2•¡‹R"
+ desc_EDG_SMO_war_plan_2_modifier:0 ""
+ EDG_SMO_war_plan_3_modifier:0 "6erR¡‹R"
+ desc_EDG_SMO_war_plan_3_modifier:0 ""
+ EDG_SMO_war_plan_4_modifier:0 "p•R¡‹R"
+ desc_EDG_SMO_war_plan_4_modifier:0 ""
+ EDG_SMO_war_plan_5_modifier:0 "kpów¡‹R"
+ desc_EDG_SMO_war_plan_5_modifier:0 ""
+ EDG_SMO_recruitment_kar:0 "VßR°e›Q"
+ desc_EDG_SMO_recruitment_kar:0 ""
+ EDG_SMO_recruitment_kava:0 "VßRÑkS›Q"
+ desc_EDG_SMO_recruitment_kava:0 ""
+ EDG_SMO_recruitment_winged:0 "VßRÍ‘Åˆ‘šuQ"
+ desc_EDG_SMO_recruitment_winged:0 ""
+ EDG_SMO_recruitment_cossack:0 "teåT(„KQ"
+ desc_EDG_SMO_recruitment_cossack:0 ""
+ EDG_SMO_recruitment_warrior:0 "Í‘Äuj–ã›Q"
+ desc_EDG_SMO_recruitment_warrior:0 ""
+ EDG_SMO_artillery_application:0 "kp®p”^(u"
+ desc_EDG_SMO_artillery_application:0 ""
+ EDG_SMO_gun_foundry_copy:0 "ø”®p‚S"
+ desc_EDG_SMO_gun_foundry_copy:0 ""
+ EDG_SMO_military_engineering:0 "›Q‹NåTzfRtº‹"
+ desc_EDG_SMO_military_engineering:0 ""
+ EDG_SMO_early_ballistics:0 "éeg9VSfR"
+ desc_EDG_SMO_early_ballistics:0 ""
+ EDG_SMO_wood_produce:0 "(gPguµN"
+ desc_EDG_SMO_wood_produce:0 ""
+ EDG_SMO_administrative_reform:0 "Lˆ?e9ei—"
+ desc_EDG_SMO_administrative_reform:0 ""
+ EDG_SMO_flamestrike:0 "Èp0qÎ˜´f"
+ desc_EDG_SMO_flamestrike:0 ""
+ EDG_SMO_ten_year_plan_1:0 "ASt^¡‹Rÿ§YN6–µk§!"
+ desc_EDG_SMO_ten_year_plan_1:0 ""
+ EDG_SMO_ten_year_plan_2:0 "ASt^¡‹Rÿ§YŒN6–µk§!"
+ desc_EDG_SMO_ten_year_plan_2:0 ""
+ EDG_SMO_ten_year_plan_3:0 "ASt^¡‹Rÿ§Y	N6–µk§!"
+ desc_EDG_SMO_ten_year_plan_3:0 ""
+ EDG_SMO_ten_year_plan_4:0 "ASt^¡‹Rÿ§YÛV6–µk§!"
+ desc_EDG_SMO_ten_year_plan_4:0 ""
+ EDG_SMO_ten_year_plan_5:0 "ASt^¡‹Rÿ§Y”N6–µk§!"
+ desc_EDG_SMO_ten_year_plan_5:0 ""
+ EDG_SMO_early_modern_urbanization:0 "éegÎW^S"
+ desc_EDG_SMO_early_modern_urbanization:0 ""
+ EDG_SMO_five_year_plan:0 "”Nt^¡‹R"
+ desc_EDG_SMO_five_year_plan:0 ""
+ EDG_SMO_upgrade_weapon:0 "fkhVGSµu"
+ desc_EDG_SMO_upgrade_weapon:0 ""
+ EDG_SMO_early_industrialization_process:0 "éegåTNSÛz"
+ desc_EDG_SMO_early_industrialization_process:0 ""
+ EDG_SMO_national_development_council:0 "ýV¶RÑSUSÔYXTO"
+ desc_EDG_SMO_national_development_council:0 ""
+ EDG_SMO_modern_urbanization:0 "ÎW^S"
+ desc_EDG_SMO_modern_urbanization:0 ""
+
+ EDG_SMO_gun_foundry:0 "ø”®p‚S"
+ desc_EDG_SMO_gun_foundry:0 ""
+ EDG_SMO_riot_modifier:0 "´f¨R"
+ desc_EDG_SMO_riot_modifier:0 ""
+
+
+
+
+
+ EDG_SMO_revolutionary_tendency_mechanic:0 "§Ri—‹T>PT§!"
+ ability_EDG_SMO_revolutionary_tendency_mechanic:0 "§Ri—‹T>PT§!"
+ EDG_SMO_revolutionary_tendency:0 "§Ri—‹T>PT§!"
+ EDG_SMO_revolutionary_tendency_desc:0 "§Ri—‹T>PT§!=faˆÏ‘ýVl?eœ^ùRŽN‰|Žx…QYÍS¨R>m‹N¡R„vÀoÛz¦^ÿvQIN‰1uT‰|–:g‹NöNNûN¡RÛLˆŒte0\n\n§YŠØš§!„v§Ri—‹T>PT§!SÙuˆN§Gôf R:V›R§!„v§Y›Q‹Nýw›R§!ÿTöevQÖNýV¶RmNS§Rôf RÌVî`§!ýVl?eœ^ÿÍSKNÿýVl?eœ^SaÑST§YìrÁˆ§!`—âbÿÍS¨R>mmNS„`6qËnužX•0\n\nàVdk”^SVS§Ri—‹T>PT§!ôuc(WN*NTt„v<P0"
+ EDG_SMO_revolutionary_tendency_gain_modifier:0 "§Ri—‹T>PT§!ÙuˆN„vîOck"
+ monthly_EDG_SMO_revolutionary_tendency:0 "g¦^§Ri—‹T>PT§!"
+
+
+ EDG_SMO_estate_influence_mechanic:0 "§YCg›RRM‘§!"
+ ability_EDG_SMO_estate_influence_mechanic:0 "§YCg›RRM‘§!"
+ EDG_SMO_estate_influence:0 "§YCg›R>Pœe§!"
+ EDG_SMO_estate_influence_gain_modifier:0 "§YCg›R>Pœe§!ÙuˆN„vîOck"
+ monthly_EDG_SMO_estate_influence:0 "g¦^§YCg›R>Pœe§!"
+
+
+ EDG_SMO_estate_loyal_mechanic:0 "§G6–µuâVÓu§!"
+ ability_EDG_SMO_estate_loyal_mechanic:0 "§G6–µuâVÓu§!"
+ EDG_SMO_estate_loyal:0 "§GâVÓu>PT§!"
+ EDG_SMO_estate_loyal_gain_modifier:0 "§GâVÓu>PT§!ÙuˆN„vîOck"
+ monthly_EDG_SMO_estate_loyal:0 "g¦^§GâVÓu>PT§!"
+
+ EDG_ROS_FWF_forward_front:0 "hQýVlTwT5–¿u"
+ EDG_ROS_FWF_forward_front_desc:0 "ýV¶R„v‚iõVÎN^IN„vÒ‰¦^egô‹=fcåb	gqQT„ví‹Š0‡eS0ÍyÏe0†˜W0?eœ^bw†SòS„v>yO²SOÿPå‚RdVvQ-N„vN›N‰.tÿbVbN*NÎNí‹Šÿ‡eSÿÍyÏe†vNT„v?e»lžRSOÿTöeT*NlQ>yNQdRËzÿw=f¥c×SwckaINNßuN„vÏuNmRM‘cüRÿNb	gºNýýwY(WÙ*N>yOŒTs^qQYÿNTMRÛÿôvóã‰>ete*NNLu--JSöeÿbìNS«ˆðyKN:N§Y0ºN‰|‹TÐqQTSO0§!"
+ EDG_SMO_liberation_committee:0 "ã‰>eÔYXTO"
+ EDG_SMO_liberation_committee_desc:0 ""
+ mechanic_EDG_assimilation_cultures_attributes_yes:0 "§Yv^eQ‡eS§!öeSê¨R·ƒ—Vå‹§Y‡eSÄu§!Nb	gwýN§T8hÃV§!"
+
+ rossiya_nation_title:0 "@ROS bËz§YW‰šN§!qQŒTýV"
+ rossiya_nation_desc:0 ""
+ EDG_SMO_upgrade_artillery_title:0 "@[Root.GetTag] §Y®puQuQâV§!GSµu"
+ EDG_SMO_upgrade_artillery_desc:0 ""
+ EDG_SMO_upgrade_artillery.effect.tt:0 "SNb	gMOŽN§Y[293.GetName]§!wýNN„v§Y®puQ§!GSµu:N§Yi—‹TkS–§!ÿ§YÏk=eè–§!GSµuýS±‚9§Y10§!¤\n\n§R÷‹ÿRS§YcOuQ§!N§Yi—‹TkS–§!nŽNvQNÿåN2–úQ°sNïS„˜™e„vî•˜˜ÿ§!"
+ EDG_SMO_war_plan_1_title:0 "@[Root.GetTag]b‰N¡‹Rÿ§Yñm¬Q§!"
+ EDG_SMO_war_plan_1_desc:0 ""
+ EDG_SMO_war_plan_2_title:0 "@[Root.GetTag]b‰N¡‹Rÿ§YÍ‘2•§!"
+ EDG_SMO_war_plan_2_desc:0 ""
+ EDG_SMO_war_plan_3_title:0 "@[Root.GetTag]b‰N¡‹Rÿ§Y6erR§!"
+ EDG_SMO_war_plan_3_desc:0 ""
+ EDG_SMO_war_plan_4_title:0 "@[Root.GetTag]b‰N¡‹Rÿ§Yp•R§!"
+ EDG_SMO_war_plan_4_desc:0 ""
+ EDG_SMO_war_plan_5_title:0 "@[Root.GetTag]b‰N¡‹Rÿ§Ykpów§!"
+ EDG_SMO_war_plan_5_desc:0 ""
+ EDG_SMO_develpment_upper_volga_title:0 "@[Root.GetTag] ASt^¡‹Rÿ§YOS R³lN8n§!"
+ EDG_SMO_develpment_upper_volga_desc:0 ""
+ EDG_SMO_develpment_double_develpment:0 "§Y³Q®‹‰Bl§!:SßW„v§YÑSUS¦^§!S§TûP§!ÿv^·ƒ—VNðîOck"
+ EDG_SMO_finish_ten_year_plan:0 "ŒRb§YASt^¡‹R§!"
+ EDG_SMO_develpment_lower_volga_title:0 "@[Root.GetTag] ASt^¡‹Rÿ§YOS R³lN8n§!"
+ EDG_SMO_develpment_lower_volga_desc:0 ""
+ EDG_SMO_develpment_upper_dnieper_title:0 "@[Root.GetTag] ASt^¡‹Rÿ§Y,rBw=O³lN8n§!"
+ EDG_SMO_develpment_upper_dnieper_desc:0 ""
+ EDG_SMO_develpment_lower_dnieper_title:0 "@[Root.GetTag] ASt^¡‹Rÿ§Y,rBw=O³lN8n§!"
+ EDG_SMO_develpment_lower_dnieper_desc:0 ""
+ EDG_SMO_develpment_don_river_title:0 "@[Root.GetTag] ASt^¡‹Rÿ§Y˜³lAmßW§!"
+ EDG_SMO_develpment_don_river_desc:0 ""
+
+ EDG_flavorSMO_Mission.10.a.tt:0 "§Y^l§!6–µuS(W§YCg›RRM‘§!N§G6–µuâVÓu§!:g6R-N§RPTÍS¨R>m§!\n\nØš§Ri—‹T>PT§!°s(WSýwYÐc›O'YÏ‘§GÏuNm Rb§!"
+ EDG_flavorSMO_Mission.10.b.tt:0 "§Y^l§!6–µuS(W§YCg›RRM‘§!N§G6–µuâVÓu§!:g6R-N§YÝOc-NËz§!\n\nØš§Ri—‹T>PT§!NQM–NO§Y^l§!6–µu§GàVÚ‹§!\n\nØš§Ri—‹T>PT§!°s(WSýwYÐc›ONšR§G8f Rb§!"
+ EDG_flavorSMO_Mission.10.c.tt:0 "§Y^l§!6–µuS(W§YCg›RRM‘§!N§G6–µuâVÓu§!:g6R-N§Y ReQi—‹T>m§!\n\nØš§Ri—‹T>PT§!NQM–NO§Y^l§!6–µu§GàVÚ‹§!\n\nÏQS§YCg›RRM‘§!N§G6–µuâVÓu§!:g6RùR§YœQl§!„vqVÍT\n\nØš§Ri—‹T>PT§!°s(WSýwYÐc›ONšR§G8f Rb§!"
+
+ EDG_flavorSMO_Mission.12.a.tt:0 "§YYeëX§!6–µuS(W§YCg›RRM‘§!N§G6–µuâVÓu§!:g6R-N§RPTÍS¨R>m§!\n\nØš§Ri—‹T>PT§!°s(WSýwYÐc›O'YÏ‘§Gôu3z Rb§!"
+ EDG_flavorSMO_Mission.12.c:0 "bìNïSåN‰Bl-Nô•>m„v.^©R"
+ EDG_flavorSMO_Mission.12.c.tt:0 "§YYeëX§!6–µuS(W§YCg›RRM‘§!N§G6–µuâVÓu§!:g6R-N§YÝOc-NËz§!\n\nØš§Ri—‹T>PT§!NQM–NO§YYeëX§!6–µu§GàVÚ‹§!\n\nØš§Ri—‹T>PT§!°s(WSýwYÐc›ONšR§GLˆ?e Rb§!"
+ EDG_flavorSMO_Mission.12.b.tt:0 "§YYeëX§!6–µuS(W§YCg›RRM‘§!N§G6–µuâVÓu§!:g6R-N§Y ReQi—‹T>m§!\n\nØš§Ri—‹T>PT§!NQM–NO§YYeëX§!6–µu§GàVÚ‹§!\n\nÏQS§YCg›RRM‘§!N§G6–µuâVÓu§!:g6RùR§YœQl§!„vqVÍT\n\nØš§Ri—‹T>PT§!°s(WSýwYÐc›ONšR§GLˆ?e Rb§!"
+
+ EDG_SMO_revolutionary_tendency_back_center_common.tt:0 "§Ri—‹T>PT§!åN§Yck8^ØSS<P§!T§Y-NÃV§!`—âb"
+
+
+
+ EDG_SMO_foreign_forces_rebel_name:0 "ƒXY¿R›R"
+ EDG_SMO_foreign_forces_rebel_title:0 "ƒXY¿R›R"
+ EDG_SMO_foreign_forces_rebel_demands_description:0 "ƒXY¿R›RÉ‹Bl"
+ EDG_SMO_foreign_forces_rebel_demands_description_desc:0 "ƒXY¿R›R‰BlbìNv^eQÖNìN„v=ecwÿ"
+ EDG_SMO_foreign_forces_rebel_desc:0 "ƒXY¿R›Rèe(W ˜†‰SVMRýV¶R?eCgÿ=ecwSNYuYO›R„v4xOWSVMRýV¶R„vµc6R›Rÿlw•bTôf R&rTÖNìN)RÊv„vvQÖNâVSOb=fýV¶R0"
+ EDG_SMO_foreign_forces_rebel_army:0 "ƒXY¿R›R"
+
+ 

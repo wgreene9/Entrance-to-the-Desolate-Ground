@@ -1,0 +1,218 @@
+﻿l_english:
+ EDG_BAV_government_power_on_max_reached_modifier: "ÛvN"
+ EDG_BAV_enhanced_ideas: "§MôTO)RšNtõV§!"
+ EDG_BAV_enhanced_ideas_start: "§MôTO)RšN.Oßu§!"
+ EDG_BAV_enhanced_ideas_bonus: "§MôTO)RšNÎ‘ÃV§!"
+ EDG_BAV_enhanced_ideas_1: "§MoS0uÕlHh§!"
+ EDG_BAV_enhanced_ideas_1_desc: ":N3zšR¹ƒX0ibEQw0Wv^‰RnºNãSÿbìNåNÕlHhŸ±RV¦WRƒ0W0tQîO4l)RNRšRoS0uIN¡R0W0W«ˆÍ‘°eNÏ‘NRM‘ÿœQµNNzn–KNžX•ÿôTO)RšN„vaNQgmNàVdkôfýw=e‘d•g„vb‰NNú^¾‹0"
+ EDG_BAV_enhanced_ideas_2: "§M?–mO¯eNN9ei—§!"
+ EDG_BAV_enhanced_ideas_2_desc: "?–mO¯eNN¨c¨RêNwN„vLˆ?etel™ÿ˜Sn˜RrCg1ÿßuNÕläNNKyVhÆQÿv^:VSùR0W¹e„vÑvcw09ei—v^^—¡l	gI–›RÿFOôfØšHe0ôfïS„˜g„v?eœ^:ghVÿ©‹¦ýVýwåNôfS„vãN÷N¨RXTDn0"
+ EDG_BAV_enhanced_ideas_3: "§MôuyrS¯eôTkSOû|§!"
+ EDG_BAV_enhanced_ideas_3_desc: "ôuyrS¯eôTk¶RÏe(W·Va×Vø‹¦•üuYBg„vçubNSú^QÜu-NÇu1S3zúVSOû|ÿTwûY0RS0ag¦uN«R÷^i`‡^øv’N=e‘d0íQPÙWYÐlbŸq„vßu»lÓu„gÿbìN—VåN(W…QY‹S›RNôucÝQZwÿv^Šb0W¹e¿R›R³ueQ‹sgéy^0"
+ EDG_BAV_enhanced_ideas_4: "§M0dUR‘¯u‘Õl0§!"
+ EDG_BAV_enhanced_ideas_4_desc: "0dUR‘¯u‘Õl0NÅN=fn™ß˜Ä‰6Rÿôf=fùR^:WNz6e„v»lt0ÇßuNŸS™ehÆQ0¦umgºcGPN3zšR›O”^ÿôTO)RšNdUR‘„vTðXÜ­dÿLˆONÎW^8f–KNAucƒÿýV¶RmNýwÎNôf	g^„vµNN-NrlÖS0›R0"
+ EDG_BAV_enhanced_ideas_5: "§M—RYetã‰§!"
+ EDG_BAV_enhanced_ideas_5_desc: "—RYe·u‰N•dÂˆ†N^ýVÿmNwŒšNwÏkNMOßu»lw„vKbU0bìN	éb¡RžR„vËR¹RNŒjPÿ(Wôu²béy^„vMRÐcN¹R³uîTV0ŒT²Qz0áOðNNQ‰f¹pÃqÛSqNÿ>yOôf?aa:NqQT„výV¶R)RÊv©‹ek0"
+ EDG_BAV_enhanced_ideas_6: "§MƒlS+YˆQ›Q‹N9ei—§!"
+ EDG_BAV_enhanced_ideas_6_desc: "ƒlS+YˆQ„v›Q‹N9ei—:VŒ­‹ÃuNªu‹Vÿte˜VßRSOû|ÿÄ‰ƒ›Q°heˆÙuÿv^ú^ËzôfïS`—„vc%cþ”ag0›Q–NQêS=f4NöeübÑQ„vfkÅˆÿw=fN=eýwYcíujOb0ëVÆ–Óuv^(WsQ.•byV-N3zOO5–„v8^Y›RÏ‘0"
+ EDG_BAV_enhanced_ideas_7: "§MrSr^b§!"
+ EDG_BAV_enhanced_ideas_7_desc: "(W·Va×V„vCg›RËhNS-NÿÜwv^NêSÖS³QŽNRQR0bìN„U(u‡efN0ag¦uN«R÷^žäNÿåNY²NRSLeùRTwßvÿåNÕl‹VIN.VéTúV†˜0WÿåNr¨X‰NÖSöeô•NTÕl'`0NbŒrSr^bÿck=f(u‡eWR:NýV¶Rb—VÜw)R0"
+ estate_edg_artists_privilege_7_modifier: "SÍ‘—RYeê1u"
+ estate_edg_artists_privilege_8_modifier: "ÝO²bVïz0µN"
+ estate_edg_artists_privilege_9_modifier: "ÃOÛÎW^ÑSUS"
+ estate_edg_artists_privilege_12_modifier: "˜^ú^QrÕl"
+ estate_edg_artists_privilege_13_modifier: "ôu²b0Whú^Qr"
+ estate_edg_artists_privilege_14_modifier: "Ðc!P`ó`ê1u"
+ estate_edg_artists_privilege_16_modifier: "VïzVìSÕlHh"
+ estate_edg_artists_privilege_17_modifier: "ê1u±RYeCg"
+ EDG_BAV_add_buff_for_allies_in_war_modifier: "Ìw4lNb"
+ EDG_BAV_1_3_1_modifier: "ôTO)RšNßuNKNï"
+ EDG_BAV_1_3_2_modifier: "O‰Quo`"
+ EDG_BAV_1_3_6_modifier: "@BAV§YôTO)RšN§!QNßu"
+ EDG_BAV_2_2_1_modifier: "'t%`¶r`gô•ybkµNuÛS›Q"
+ EDG_BAV_3_1_7_modifier: "çubïfÛVN„vON"
+ EDG_BAV_3_1_9_modifier: "6eg^tëXÇ–cOuQ"
+ EDG_BAV_3_2_7_modifier: "ÕlpQKQ<SšN†˜0W"
+ EDG_BAV_3_3_7_modifier_1: "Ëeæt(ƒö”ÿw"
+ EDG_BAV_3_3_7_modifier_2: "‰|ŽxÈT^¯e!X"
+ EDG_BAV_3_3_8_modifier: "áw¯e>m1W0W"
+ EDG_BAV_3_3_9_modifier: "¿RNïS!c"
+ EDG_BAV_3_4_7_modifier: "(„KQîh„vlš9S"
+ EDG_BAV_3_4_9_modifier: "±ƒ5ƒpQ„v0ÌR"
+ EDG_BAV_3_5_7_modifier: "Vg¹ƒX=OýV"
+ EDG_BAV_3_5_10_modifier_1: "¹RÍV?eVr"
+ EDG_BAV_3_5_10_modifier_2: "TS?eVr"
+ EDG_BAV_4_1_11_modifier: "·Va×V'YVÑS"
+ EDG_BAV_4_1_13_modifier: "7Œir8f"
+ EDG_BAV_4_2_12_modifier_1: "äR?e"
+ EDG_BAV_4_2_12_modifier_2: "V¦WœQ0uƒlW"
+ EDG_BAV_4_3_11_modifier: "vbiS¦žµNNþ”"
+ EDG_BAV_4_4_12_modifier: "O'YåTz^"
+ EDG_BAV_4_4_14_modifier: "uµNŽb=gÛek"
+ EDG_BAV_4_5_11_modifier: "•bDuµNŒTúWú^"
+ EDG_BAV_5_4_14_modifier_1: "ôuS(ƒ!X«R"
+ EDG_BAV_5_4_14_modifier_2: "‰R<hîOSb–YeX"
+ EDG_BAV_5_4_14_modifier_3: "ôu¯eYeX"
+ EDG_BAV_5_4_14_modifier_4: "s|SlQINYeX"
+ EDG_BAV_6_2_2_modifier: "—fAmŒm¨R"
+ EDG_BAV_6_2_4_modifier: "N|TŒv”^"
+ EDG_BAV_6_2_6_modifier: "ÛVb—ZiLk"
+ EDG_BAV_6_3_1_modifier: "ÝuNTÿ"
+ EDG_BAV_6_4_4_modifier: "ekek:N%„"
+ EDG_BAV_8_1_35_modifier: ">NžRz‚=gUSÈ‰"
+ EDG_BAV_8_4_36_modifier: "ÃOÛz‚=g²NAm"
+ EDG_BAV_8_4_38_modifier: ")Y‹TNbRV"
+ EDG_BAV_8_5_34_modifier: "NïTN"
+ EDG_BAV_8_5_35_modifier: "-eQz‚=gÍsÏ…"
+ EDG_BAV_event_29_modifier: "hQlµb—bµOeuw"
+ EDG_BAV_event_46_modifier: "'YfMQÏ‹äN"
+ EDG_BAV_event_70_modifier: "·Va×V„vÎžf"
+ EDG_BAV_event_91_modifier: "Vg&Ofe"
+ EDG_BAV_event_92_modifier: "Vglš·VÌ‘"
+ EDG_BAV_event_93_modifier: "VgôTÎž"
+ EDG_BAV_event_94_modifier: "VgWlš"
+ EDG_BAV_event_95_modifier: "VgTëXfWN!X"
+ EDG_BAV_event_96_modifier: "ck(WÀoÈp¨‹º‹§YçubÕl§!9ei—¹eHh"
+ EDG_BAV_event_97_modifier: "§YçubÕl§!9ei—0§M’cd–YeOqVÍT§!0"
+ EDG_BAV_event_98_modifier: "§YçubÕl§!9ei—0§MsY'`¦NïSçub§!0"
+ EDG_BAV_event_99_modifier: "§YçubÕl§!9ei—0§MybkRrR†˜0W§!0"
+ EDG_BAV_event_100_modifier: "'YŸRJTb„v§YçubÕl§!9ei—"
+ EDG_BAV_event_101_modifier: "ck(WGSµu§OdUR‘§!‘.åTz‚"
+ EDG_BAV_event_105_modifier: "òTGSµu§OdUR‘§!‘.åTz‚"
+ EDG_BAV_event_127_modifier: "lšN·ï·V"
+ EDG_BAV_event_133_modifier: "¾‹Ëz8lENÔkfk'YO"
+ EDG_BAV_event_134_modifier: "ƒlS+YˆQ›Q‹NfRb–"
+ EDG_BAV_event_135_modifier: "wck„v‘šëX¾|^y"
+ EDG_BAV_event_143_modifier: "Aucƒ„v7ŒiruµN"
+ EDG_BAV_event_144_modifier: "§OdUR‘åT‚S§!µNÏ‘ÐcGS"
+ EDG_BAV_event_145_modifier: "›Q‹N9ei—„v¢u)R"
+ EDG_BAV_event_146_modifier: "›Q‹N9ei—„v¢u)R"
+ EDG_BAV_event_147_modifier: "›Q‹N9ei—„v¢u)R"
+ EDG_BAV_event_152_modifier: "^ýVø‹¯O„vôc©R"
+ EDG_BAV_enhance_grain_trade_modifier_1: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_2: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_3: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_4: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_5: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_6: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_7: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_8: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_9: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_10: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_11: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_12: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_13: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_14: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_15: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_16: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_17: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_18: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_19: "§Mib'Y7Œir8f§!"
+ EDG_BAV_enhance_grain_trade_modifier_20: "§Mib'Y7Œir8f§!"
+ EDG_BAV_beer_factory_modifier_1: "§OdUR‘åT‚S§!"
+ desc_EDG_BAV_beer_factory_modifier_1: "§OdUR‘åT‚S§!=fNÍyyrŠkú^Qrÿ§GN`S(u§!ú^QrŒTåT:WýiMOÿvQúWNxú^.§Y±‚9§!ŒTú^.§Yöeô•§!IrTŽNvQÖNåT:WÿFOêSýwÇ§Y³Q®‹§!b§YwýN’N¨R§!(WµNir:N§Y7Œir§!„vwýNú^.0Ïkú^.N*N§OdUR‘åT‚S§!ÿýS:NbìNÐc›O§G+0.5%§!§YFUÁTµNúQîOck§!0"
+ EDG_BAV_beer_factory_modifier_2: "§OdUR‘åT‚S§!"
+ desc_EDG_BAV_beer_factory_modifier_2: "§OdUR‘åT‚S§!=fNÍyyrŠkú^Qrÿ§GN`S(u§!ú^QrŒTåT:WýiMOÿvQúWNxú^.§Y±‚9§!ŒTú^.§Yöeô•§!IrTŽNvQÖNåT:WÿFOêSýwÇ§Y³Q®‹§!b§YwýN’N¨R§!(WµNir:N§Y7Œir§!„vwýNú^.0Ïkú^.N*N§OdUR‘åT‚S§!ÿýS:NbìNÐc›O§G+0.5%§!§YFUÁTµNúQîOck§!0"
+ EDG_BAV_beer_factory_modifier_3: "§OdUR‘åT‚S§!"
+ desc_EDG_BAV_beer_factory_modifier_3: "§OdUR‘åT‚S§!=fNÍyyrŠkú^Qrÿ§GN`S(u§!ú^QrŒTåT:WýiMOÿvQúWNxú^.§Y±‚9§!ŒTú^.§Yöeô•§!IrTŽNvQÖNåT:WÿFOêSýwÇ§Y³Q®‹§!b§YwýN’N¨R§!(WµNir:N§Y7Œir§!„vwýNú^.0Ïkú^.N*N§OdUR‘åT‚S§!ÿýS:NbìNÐc›O§G+0.5%§!§YFUÁTµNúQîOck§!0"
+ EDG_BAV_beer_factory_modifier_4: "§OdUR‘åT‚S§!"
+ desc_EDG_BAV_beer_factory_modifier_4: "§OdUR‘åT‚S§!=fNÍyyrŠkú^Qrÿ§GN`S(u§!ú^QrŒTåT:WýiMOÿvQúWNxú^.§Y±‚9§!ŒTú^.§Yöeô•§!IrTŽNvQÖNåT:WÿFOêSýwÇ§Y³Q®‹§!b§YwýN’N¨R§!(WµNir:N§Y7Œir§!„vwýNú^.0Ïkú^.N*N§OdUR‘åT‚S§!ÿýS:NbìNÐc›O§G+0.5%§!§YFUÁTµNúQîOck§!0"
+ EDG_BAV_beer_factory_modifier_5: "§OdUR‘åT‚S§!"
+ desc_EDG_BAV_beer_factory_modifier_5: "§OdUR‘åT‚S§!=fNÍyyrŠkú^Qrÿ§GN`S(u§!ú^QrŒTåT:WýiMOÿvQúWNxú^.§Y±‚9§!ŒTú^.§Yöeô•§!IrTŽNvQÖNåT:WÿFOêSýwÇ§Y³Q®‹§!b§YwýN’N¨R§!(WµNir:N§Y7Œir§!„vwýNú^.0Ïkú^.N*N§OdUR‘åT‚S§!ÿýS:NbìNÐc›O§G+0.5%§!§YFUÁTµNúQîOck§!0"
+ EDG_BAV_beer_factory_modifier_6: "§OdUR‘åT‚S§!"
+ desc_EDG_BAV_beer_factory_modifier_6: "§OdUR‘åT‚S§!=fNÍyyrŠkú^Qrÿ§GN`S(u§!ú^QrŒTåT:WýiMOÿvQúWNxú^.§Y±‚9§!ŒTú^.§Yöeô•§!IrTŽNvQÖNåT:WÿFOêSýwÇ§Y³Q®‹§!b§YwýN’N¨R§!(WµNir:N§Y7Œir§!„vwýNú^.0Ïkú^.N*N§OdUR‘åT‚S§!ÿýS:NbìNÐc›O§G+0.5%§!§YFUÁTµNúQîOck§!0"
+ EDG_BAV_beer_factory_merchants_1_modifier: "òTîOú^0§Y25§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_beer_factory_merchants_2_modifier: "òTîOú^0§Y50§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_beer_factory_merchants_3_modifier: "òTîOú^0§Y75§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_beer_factory_merchants_4_modifier: "òTîOú^0§Y100§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_beer_factory_merchants_5_modifier: "òTîOú^0§Y125§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_beer_factory_merchants_6_modifier: "òTîOú^0§Y150§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_beer_factory_merchants_7_modifier: "òTîOú^0§Y175§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_beer_factory_merchants_8_modifier: "òTîOú^0§Y200§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_beer_factory_merchants_9_modifier: "òTîOú^0§Y225§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_beer_factory_merchants_10_modifier: "òTîOú^0§Y250§!0*N§OdUR‘åT‚S§!"
+ EDG_BAV_bavarian_local_council_modifier_1: "§YôTO)RšN0W¹e®‹O§!9ei—0§M0Wt'YÑS°söeãN§!0"
+ EDG_BAV_bavarian_local_council_modifier_2: "§YôTO)RšN0W¹e®‹O§!9ei—0§M—RYe9ei—öeãN§!0"
+ EDG_BAV_bavarian_local_council_modifier_3: "§YôTO)RšN0W¹e®‹O§!9ei—0§MN6RININöeãN§!0"
+ EDG_BAV_bavarian_local_council_modifier_4: "§YôTO)RšN0W¹e®‹O§!9ei—0§M'Yi—‹TöeãN§!0"
+ EDG_BAV_recently_has_changed_goods_to_grain_modifier_1: "µNÏ‘NM–"
+ EDG_BAV_recently_has_changed_goods_to_grain_modifier_2: "µNÏ‘NM–"
+ EDG_BAV_humanist_modifier: "ŒRb0§YºN‡etõV§!0"
+ EDG_BAV_tolerance_modifier: "Vïz¹RÍV¦^óS:N0§Y8§!0"
+ EDG_BAV_has_level_5_adm_advisors_modifier: "åb	gN*N§Y5§!µu0§YLˆ?eŒ˜î•§!0"
+ EDG_BAV_has_level_5_dip_advisors_modifier: "åb	gN*N§Y5§!µu0§YY²NŒ˜î•§!0" 
+ EDG_BAV_has_level_5_mil_advisors_modifier: "åb	gN*N§Y5§!µu0§Y›Q‹NŒ˜î•§!0"
+ EDG_BAV_munich_parliament_modifier: "§YUa<SÑž®‹O§!9ei—"
+ EDG_BAV_beer_festival_positive_opinion: "Ta†^kydUR‘‚‚"
+ EDG_BAV_beer_festival_negative_opinion: "ÒbÝu†^kydUR‘‚‚"
+ EDG_BAV_raise_standard_modifier: "òTÐcØš§OdUR‘åT‚S§!uµNhÆQ"
+ EDG_BAV_lower_standard_modifier: "òTM–NO§OdUR‘åT‚S§!uµNhÆQ"
+ EDG_BAV_heretic_tax_modifier: "òTV6e0§Y—RYeê1uz§!0"
+ EDG_BAV_composer_modifier_1: "wmàVÌ‘^·‚(ƒ"
+ EDG_BAV_composer_modifier_2: "¦uð·^XôT¯e‚„‰R·ôTk"
+ EDG_BAV_composer_modifier_3: "<heYS<h·VÌ‘·VÌ‘^·¨N·VS"
+ EDG_BAV_composer_modifier_4: "¦uð·^kS"
+ EDG_BAV_composer_modifier_5: "aSS·òƒ)Rnf·1rlšªRÃWS·ôTk"
+ EDG_BAV_composer_modifier_6: "<heYS<h·òƒ)Rnf·ðlÒRüf"
+ EDG_BAV_occupied_hre_province_modifier: "«ˆ`S†˜„v^y1WWlš^ýVwýN"
+ EDG_BAV_request_aid_cooldown_modifier: "÷‹Blôc©R·QtS"
+ EDG_BAV_request_monarch_power_cooldown_modifier: "+eÖSTIN¹ppe·QtS"
+ EDG_BAV_sell_beer_cooldown_modifier: "úQ.UdUR‘·QtS"
+ EDG_BAV_adminitrative_reform_1_modifier: "ôTO)RšN§MLˆ?eW9ei—§!0§YaNÅuOS»l§!0"
+ EDG_BAV_adminitrative_reform_2_modifier: "ôTO)RšN§MLˆ?eW9ei—§!0§YSœ^R»l§!0"
+ EDG_BAV_adminitrative_reform_3_modifier: "ôTO)RšN§MLˆ?eW9ei—§!0§YÐvÁ”0K§!0"
+ EDG_BAV_adminitrative_reform_4_modifier: "ôTO)RšN§MLˆ?eW9ei—§!0§Y›QG•te§!0"
+ EDG_BAV_adminitrative_reform_5_modifier: "ôTO)RšN§MLˆ?eW9ei—§!0§Yw6Rßu–§!0"
+ EDG_BAV_adminitrative_reform_6_modifier: "ôTO)RšN§MLˆ?eW9ei—§!0§Y…Q–cwšb§!0"
+ EDG_BAV_GUI_religious_congress_Catholic_button_1_modifier: "Í‘3uYe—RCgZ"
+ EDG_BAV_GUI_religious_congress_Catholic_button_2_modifier: "teƒw1WLwÎ˜ªu"
+ EDG_BAV_GUI_religious_congress_Catholic_button_3_modifier: "YtQîOOYe²w"
+ EDG_BAV_GUI_religious_congress_Catholic_button_4_modifier: "˜^Nj°eÄ‰"
+ EDG_BAV_GUI_religious_congress_Euchites_button_1_modifier: "ú^ËzlQwy<y6R"
+ EDG_BAV_GUI_religious_congress_Euchites_button_2_modifier: "Ä‰ƒ²‹S6R¦^"
+ EDG_BAV_GUI_religious_congress_Euchites_button_3_modifier: "nxËzáO²u‡e,g"
+ EDG_BAV_GUI_religious_congress_Euchites_button_4_modifier: "9ei—YeO»lt"
+ EDG_BAV_GUI_religious_congress_Catharism_button_1_modifier: "ŽrS×S<yêNV"
+ EDG_BAV_GUI_religious_congress_Catharism_button_2_modifier: "¾‹Ëz•wO6R"
+ EDG_BAV_GUI_religious_congress_Catharism_button_3_modifier: "yÝu1WÏPTÜb"
+ EDG_BAV_GUI_religious_congress_Catharism_button_4_modifier: "¨c^%N(ŒˆR‰R"
+ EDG_BAV_GUI_religious_congress_Hussite_button_1_modifier: "ÝOœ–ÌSbV†˜1W"
+ EDG_BAV_GUI_religious_congress_Hussite_button_2_modifier: "¨cLˆOOê»l"
+ EDG_BAV_GUI_religious_congress_Hussite_button_3_modifier: "Í‘VùRÝ‹OŒ"
+ EDG_BAV_GUI_religious_congress_Hussite_button_4_modifier: "¨cLˆ×O<yŽrS"
+ EDG_BAV_art_masterpiece_modifier_1: "§Mz‚=gÁT§!ÿYYt³lIu0šN†SqS'YKNb0"
+ EDG_BAV_art_masterpiece_modifier_2: "§Mz‚=gÁT§!ÿeY<h¯e!XIu"
+ EDG_BAV_art_masterpiece_modifier_3: "§Mz‚=gÁT§!ÿUa<SÑž?–(„ÆYYeX"
+ EDG_BAV_art_masterpiece_modifier_4: "§Mz‚=gÁT§!ÿôu¯eg1WYeX"
+ EDG_BAV_art_masterpiece_modifier_5: "§Mz‚=gÁT§!"
+ EDG_BAV_subject_compliance_province_modifier_1: "z˜ÎN¦^0§RŒSv`§!0"
+ EDG_BAV_subject_compliance_province_modifier_2: "z˜ÎN¦^0§O·Q.o§!0"
+ EDG_BAV_subject_compliance_province_modifier_3: "z˜ÎN¦^0§Y-NËz§!0"
+ EDG_BAV_subject_compliance_province_modifier_4: "z˜ÎN¦^0§MTjO§!0"
+ EDG_BAV_subject_compliance_country_modifier_1: "z˜ÎN¦^0§RŒSv`§!0"
+ EDG_BAV_subject_compliance_country_modifier_2: "z˜ÎN¦^0§O·Q.o§!0"
+ EDG_BAV_subject_compliance_country_modifier_3: "z˜ÎN¦^0§Y-NËz§!0"
+ EDG_BAV_subject_compliance_country_modifier_4: "z˜ÎN¦^0§MTjO§!0"
+ EDG_BAV_bavarian_ambition_modifier: "ÇŽN1VS„vôTO)RšN	^¯OýV"
+ EDG_BAV_emperor_opinion_modifier: "ÈT^¯e!X„vTw"
+ EDG_BAV_subject_transfer_trade_modifier: "lûy8f"
+ EDG_BAV_milan_treaty_modifier: "s|pQag¦u"
+ EDG_BAV_improved_subject_relations: "sQû|9e„U"
+ EDG_BAV_hre_neighbor_relations: "sQû|v`S"
+ EDG_BAV_MAM_trade_modifier: "@BAV§YôTO)RšN§!-@MAM§YlšFzœKQ§!8fsQû|"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_SWI: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@SWI§Y^tëX§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_H02: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@H02§YeY0W)R§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_BOH: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@BOH§Yâl^s|šN§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_MEI: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@MEI§YÈîh§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_POM: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@POM§YâlŽÉb<SšN§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_H03: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@H03§Yú‹·VlšKQ§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_SAX: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@SAX§Y(„KQîh§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_SHL: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@SHL§YwƒSËeðlàV§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_WES: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@WES§YZ¯eyrO)RšN§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_H11: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@H11§Y±ƒ5ƒpQ§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_FKN: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@FKN§YÕlpQKQ<SšN§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_PAL: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@PAL§YnfÕlS(ƒ§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_SWA: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@SWA§YËeæt,g§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_HES: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@HES§YÑžîh§!0"
+ EDG_BAV_Wittelsbach_Territories_overlord_modifier_BAD: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@BAD§YôT‰v§!0"
+ EDG_BAV_subject_disaster_modifier: "§MNˆIQKNY§!"

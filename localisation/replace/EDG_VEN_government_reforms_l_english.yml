@@ -1,0 +1,44 @@
+﻿l_english:
+ EDG_VEN_tradecircle_reform:0 "Z<S¯e8fW"
+ EDG_VEN_tradecircle_reform_desc:0 "Z<S¯e)R(uZgŒT0ÌReg8TVYýV¿R›Rÿv^NYýVú^Ëz†No‚‹Y„vsQû|0ÇŽ÷‹vQÖNýV¶Rb:NZ<S¯e„v8fO4Ov^ ReQZ<S¯e8fWÿZ<S¯eú^Ëzw†NN*N:V'Y„v8f^ýV0Z<S¯eŒTÖN„v8fO4OìN‚YTN2NÄžÑ‘Žt¨t„vÍsàsN,‚gqwNwte*N0W-NwmÿwZ<S¯eR=fÙ2NÍsàs-Ngw<w„v±—˜fàs0"
+
+ ability_EDG_VEN_Monarchy_government_ability:0 "9NYm¶RÏeŒcµc›R"
+ ability_EDG_VEN_Monarchy_government_ability_yes:0 "=T(u9NYm¶RÏeŒcµc›R"
+ EDG_VEN_Monarchy_government_ability:0 "9NYm¶RÏeŒcµc›R"
+ EDG_VEN_Monarchy_government_ability_yes:0 "=T(u9NYm¶RÏeŒcµc›R"
+ EDG_VEN_Monarchy_government_power:0 "9NYm¶RÏeŒcµc›R"
+ EDG_VEN_Monarchy_government_power_desc:0 "9NYm¶RÏeŒcµc›Rhˆ:y†N9NYm¶RÏeùRte*NZ<S¯eTINýV„vŒcµcz¦^ÿÙnxÝO†N9NYm¶RÏe(WZ<S¯e„vN­ˆßu»l0\n\n\t\t1uŽNêi`Ì‘Ñy·9NYmåNeg¿ON­e R:V9NYm¶RÏeùRZ<S¯e„vµc6Rÿ9NYm¶RÏeŒcµc›RÏkgê6qžX•+0.1ÿ\n\n\t\t1uŽN†˜WŠ'YöeñmeQŒcµchQýV—‰ØNúQôf'Y„vªR›Rÿ9NYm¶RÏeŒcµc›RO–ÑSUS¦^žX•w RgRpˆÏQÿ\n\n\t\t9NYm¶RÏeŒcµc›R„vžX•ASROVŽN°sûNTIN„v	Ny˜¹ppeÿÙhˆf†NTIN*NºNýw›RùRŽNýw&T:VS¶RÏeùRýV¶R„vŒcµcósQÍ‘‰ÿ\n\t\t0¹pTINýw›Rÿ§R-0.15§!g¦^Œcµc›Rÿ\n\t\t1¹pTINýw›Rÿ§R-0.1§!g¦^Œcµc›Rÿ\n\t\t2¹pTINýw›Rÿ§R-0.05§!g¦^Œcµc›Rÿ\n\t\t4¹pTINýw›Rÿ§G+0.05§!g¦^Œcµc›Rÿ\n\t\t5¹pTINýw›Rÿ§G+0.10§!g¦^Œcµc›Rÿ\n\t\t6¹pTINýw›Rÿ§G+0.15§!g¦^Œcµc›Rÿ\n\n\t\tÏk*N9NYmTwßuýVØS˜Y+0.1g¦^Œcµc›R"
+ EDG_VEN_Monarchy_government_power_a:0 "Lˆ?eŒcµc›R"
+ EDG_VEN_Monarchy_government_power_d:0 "ÏuNmŒcµc›R"
+ EDG_VEN_Monarchy_government_power_m:0 "›Q‹NŒcµc›R"
+ monthly_EDG_VEN_Monarchy_government_power:0 "g¦^9NYm¶RÏeŒcµc›R"
+ monthly_EDG_VEN_Monarchy_government_power_a:0 "g¦^Lˆ?eŒcµc›R"
+ monthly_EDG_VEN_Monarchy_government_power_d:0 "g¦^ÏuNmŒcµc›R"
+ monthly_EDG_VEN_Monarchy_government_power_m:0 "g¦^›Q‹NŒcµc›R"
+ monthly_EDG_VEN_Monarchy_government_power_a_desc:0 "g¦^Lˆ?eŒcµc›ROê6qžX•ÿTöemNÖS³QŽNTIN„vLˆ?eýw›RÿLˆ?eýw›RŠ:Vÿg¦^Lˆ?eŒcµc›RžX•ŠëV"
+ monthly_EDG_VEN_Monarchy_government_power_d_desc:0 "g¦^ÏuNmŒcµc›ROê6qžX•ÿTöemNÖS³QŽNTIN„vY²Nýw›RÿY²Nýw›RŠ:Vÿg¦^Y²NŒcµc›RžX•ŠëV"
+ monthly_EDG_VEN_Monarchy_government_power_m_desc:0 "g¦^›Q‹NŒcµc›ROê6qžX•ÿTöemNÖS³QŽNTIN„v›Q‹Nýw›Rÿ›Q‹Nýw›RŠ:Vÿg¦^Y²NŒcµc›RžX•ŠëV"
+ EDG_VEN_government_interactions_a:0 "¶RÏebXTáTÆ‰0W¹e"
+ EDG_VEN_government_interactions_d:0 "¶RÏebXTÂSNÏu%„"
+ EDG_VEN_government_interactions_m:0 "¶RÏebXTEQSV›Q˜R"
+ EDG_VEN_government_interactions_a_desc:0 " "
+ EDG_VEN_government_interactions_d_desc:0 " "
+ EDG_VEN_government_interactions_m_desc:0 " "
+ mechanic_can_establish_EDG_VEN_personal_union:0 "=T(u9NYmTwßuýV"
+ mechanic_can_establish_EDG_VEN_personal_union_yes:0 "=T(u9NYmTwßuýV"
+ can_establish_EDG_VEN_personal_union:0 "=T(u9NYmTwßuýV"
+ can_establish_EDG_VEN_personal_union_yes:0 "=T(u9NYmTwßuýV"
+
+ can_establish_EDG_VEN_trade_state:0 "=T(uZ<S¯e8fO4O"
+ can_establish_EDG_VEN_trade_state_yes:0 "=T(uZ<S¯e8fO4O"
+ mechanic_can_establish_EDG_VEN_trade_state:0 "=T(uZ<S¯e8fO4O"
+ mechanic_can_establish_EDG_VEN_trade_state_yes:0 "=T(uZ<S¯e8fO4O"
+ ability_EDG_VEN_tradecircle_government_ability:0 "Z<S¯e8fWÛvof"
+ ability_EDG_VEN_tradecircle_government_ability_yes:0 "=T(uZ<S¯e8fWÛvof"
+ EDG_VEN_tradecircle_government_ability:0 "Z<S¯e8fWÛvof"
+ EDG_VEN_tradecircle_government_ability_yes:0 "=T(uZ<S¯e8fWÛvof"
+ EDG_VEN_tradecircle_government_power:0 "Z<S¯e8fWÛvof"
+ EDG_VEN_tradecircle_government_power_desc:0 "Z<S¯e8fWÛvofhˆ°s†NSVMRZ<S¯e„v8fÛvµQ0\n\n\t\t8fWÛvofOê6qžX•ÿÙhˆ°s†N8fN­eib'Y„v°saŒÿ\n\n\t\t8fWÛvofO–ÑSUS¦^„vžX RwN­epˆÏQÿÙhˆ°s†N^²ˆ„v†˜WO©‹ºN1Y»S8f„v¨R›Rÿ\n\n\t\t8fWÛvofO9hncSVMR„vFUºNâVpeÏ‘N¨mÿÎNåb	g,r3*NFUºNâVwÿÏk*NFUºNâVS˜Y&^eg§G+0.05§!¹pg¦^8fWÛvofžX•ÿNP–:N0.2¹pÿ\n\n\t\tdkYÿÏk*NZ<S¯e8fO4OS˜YÐc›O0.1g¦^8fWÛvofžX•ÿ\n\n\t\t§GœU0kÙGrAuNSÛvofTÿ÷‹°‹OOÿAuNSÛvofÿNÇ¦h‰^álqVÿ(W‰LqŽt¨tM–4NöeÿIQ‰N„v4–qVmNSp0RðSMR0§!"
+ monthly_EDG_VEN_tradecircle_government_power:0 "g¦^Z<S¯e8fWÛvof"
+
+ EDG_VEN_tragov_100:0 "AuNSÛvofÿNÇ¦h‰^álqVÿNY‰^mpÿÑž—feg4N0"

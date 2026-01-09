@@ -1,0 +1,211 @@
+EDG_BDX_define_ruler_iskander_effect = {
+	define_ruler = {
+		name = "O¯eNW·VS"
+		dynasty = "?–	T·V"
+		adm = 6
+		dip = 4
+		mil = 6
+		religion = ROOT
+		culture = EDG_bactrian_culture
+		age = 18
+		claim = 100
+	}
+}
+
+EDG_BDX_define_heir_iskander_effect = {
+	define_heir = {
+		name = "O¯eNW·VS"
+		dynasty = "?–	T·V"
+		adm = 6
+		dip = 4
+		mil = 6
+		religion = ROOT
+		culture = EDG_bactrian_culture
+		age = 18
+		claim = 100
+	}
+}
+
+EDG_BDX_rename_to_bactra_effect = {
+	change_province_name = "ôTKQyrÉb"
+	rename_capital = "ôTKQyrÉb"
+}
+
+EDG_BDX_rename_to_babylon_effect = {
+	change_province_name = "ôTÔk&O"
+	rename_capital = "ôTÔk&O"
+}
+
+EDG_BDX_rename_to_sagala_effect = {
+	change_province_name = "bY¯W"
+	rename_capital = "bY¯W"
+}
+
+EDG_BDX_rename_to_taxila_effect = {
+	change_province_name = "ŒTÉSËYW"
+	rename_capital = "ŒTÉSËYW"
+}
+
+EDG_BDX_rename_to_tylos_effect = {
+	change_province_name = "Ğcm¯e"
+	rename_capital = "Ğcm¯e"
+}
+
+EDG_BDX_rename_to_tyre_effect = {
+	change_province_name = "¨cW"
+	rename_capital = "¨cW"
+}
+
+EDG_BDX_rename_to_egyptian_babylon_effect = {
+	change_province_name = "ÃWÊS„vôTÔk&O"
+	rename_capital = "ÃWÊS„vôTÔk&O"
+}
+
+EDG_BDX_rename_to_byzantine_effect = {
+	change_province_name = "Üb`S­^"
+	rename_capital = "Üb`S­^"
+}
+
+EDG_BDX_rename_to_pella_effect = {
+	change_province_name = "iOÉb"
+	rename_capital = "iOÉb"
+}
+
+EDG_BDX_rename_to_alexandria_eschate_effect = {
+	change_province_name = "gßWšN†SqS'YÌ‘šN"
+	rename_capital = "gßWšN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_oxiana_effect = {
+	change_province_name = "LNRm³lTušN†SqS'YÌ‘šN"
+	rename_capital = "LNRm³lTušN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_caucasus_effect = {
+	change_province_name = "Øš R0tšN†SqS'YÌ‘šN"
+	rename_capital = "Øš R0tšN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_ariana_effect = {
+	change_province_name = "?–Ì‘‰R±šN†SqS'YÌ‘šN"
+	rename_capital = "?–Ì‘‰R±šN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_arachosia_effect = {
+	change_province_name = "?–Éb—‰šNšN†SqS'YÌ‘šN"
+	rename_capital = "?–Éb—‰šNšN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_orietai_effect = {
+	change_province_name = "eYÌ‘ÃWTXšN†SqS'YÌ‘šN"
+	rename_capital = "eYÌ‘ÃWTXšN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_on_indus_effect = {
+	change_province_name = "pS¦^³lTušN†SqS'YÌ‘šN"
+	rename_capital = "pS¦^³lTušN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_nicaea_effect = {
+	change_province_name = "Üw)RšN†SqS'YÌ‘šN"
+	rename_capital = "Üw)RšN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_margiana_effect = {
+	change_province_name = "lšS	TšN³ušN†SqS'YÌ‘šN"
+	rename_capital = "lšS	TšN³ušN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_carmania_effect = {
+	change_province_name = "aSüf<SšNšN†SqS'YÌ‘šN"
+	rename_capital = "aSüf<SšNšN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_issum_effect = {
+	change_province_name = "OÏ‚¯ešN†SqS'YÌ‘šN"
+	rename_capital = "OÏ‚¯ešN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_latmos_effect = {
+	change_province_name = "Ébyrid¯ešN†SqS'YÌ‘šN"
+	rename_capital = "Ébyrid¯ešN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandria_troas_effect = {
+	change_province_name = "yrm?–¯ešN†SqS'YÌ‘šN"
+	rename_capital = "yrm?–¯ešN†SqS'YÌ‘šN"
+}
+
+EDG_BDX_rename_to_alexandropolis_maedica_effect = {
+	change_province_name = "ÆR•^aSšN†SqS·VWâl)R¯e"
+	rename_capital = "ÆR•^aSšN†SqS·VWâl)R¯e"
+}
+
+EDG_BDX_create_flagship_effect = {
+  create_flagship = {
+    name = "…m?–S—¯e"
+    type = heavy_ship
+  }
+}
+
+EDG_BDX_rename_to_pushkalavati_effect = {
+	change_province_name = "rN–W"
+	rename_capital = "²ƒ±‚ÎW"
+}
+
+EDG_BDX_rename_to_mathura_effect = {
+	change_province_name = "ãyßƒW"
+}
+
+EDG_BDX_rename_to_pataliputra_effect = {
+	change_province_name = "NSlÎW"
+	rename_capital = "NSlÎW"
+}
+
+EDG_BDX_rename_to_sarnath_effect = {
+	change_province_name = "Î‘Ñ‚"
+	rename_capital = "Î‘Ñ‚"
+}
+
+EDG_BDX_rename_to_persepolis_effect = {
+	change_province_name = "âl¯eâl)R¯e"
+	rename_capital = "âl¯eâl)R¯e"
+}
+
+EDG_BDX_rename_to_qocho_effect = {
+	change_province_name = "Øšf"
+	rename_capital = "Øšf"
+}
+
+EDG_BDX_rename_to_seleucia_ctesiphon_effect = {
+	change_province_name = "^X	t‰šN-ğl‰S"
+	rename_capital = "^X	t‰šN-ğl‰S"
+}
+
+EDG_BDX_define_ruler_menander_effect = {
+	define_ruler = {
+		name = "s|WS·V"
+		dynasty = "?–	T·V"
+		adm = 4
+		dip = 4
+		mil = 2
+		religion = ROOT
+		culture = ROOT
+		age = 35
+		claim = 100
+	}
+}
+
+EDG_BDX_define_ruler_menander_updated_effect = {
+	define_ruler = {
+		name = "s|WS·V"
+		dynasty = "?–	T·V"
+		adm = 4
+		dip = 6
+		mil = 5
+		religion = ROOT
+		culture = ROOT
+		age = 35
+		claim = 100
+	}
+}

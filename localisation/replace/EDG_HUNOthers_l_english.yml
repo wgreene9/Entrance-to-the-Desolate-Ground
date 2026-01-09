@@ -1,0 +1,33 @@
+﻿l_english:
+ EDG_HUN_fire_faraway:0 "Ü¹eKNkp"
+ desc_EDG_HUN_fire_faraway:0 ""
+ EDG_HUN_mil_tradition:0 "›Q‹N.Oßu"
+ desc_EDG_HUN_mil_tradition:0 ""
+ EDG_HUN_strong_government:0 ":V›R?eœ^"
+ desc_EDG_HUN_strong_government:0 ""
+ EDG_HUN_recovery_of_estate:0 "6eÞVWµN"
+ desc_EDG_HUN_recovery_of_estate:0 ""
+ EDG_HUN_wing_cavalry_tactics:0 "ü‘šuQb=g"
+ desc_EDG_HUN_wing_cavalry_tactics:0 ""
+ EDG_HUN_black_legion:0 "Ñž›Q"
+ desc_EDG_HUN_black_legion:0 ""
+ EDG_HUN_patrons_of_art:0 "AucƒÑSUS„v„v‡eSz‚=g"
+ desc_EDG_HUN_patrons_of_art:0 ""
+ EDG_HUN_rule_the_balkans:0 "ßu»lôTSr^"
+ desc_EDG_HUN_rule_the_balkans:0 ""
+
+ EDG_apostolic_kingdom:0 "O’V‹sýV"
+ EDG_apostolic_kingdom_desc:0 ""
+ EDG_extend_the_crown:0 "ibUS5Ïe†˜0W"
+ EDG_extend_the_crown_desc:0 ""
+
+
+ ability_EDG_HUN_crown_prominence_mechanic:0 "§O‹s Q>fk¦^§!"
+ EDG_HUN_crown_prominence_mechanic:0 "§O‹s Q>fk¦^§!"
+ EDG_HUN_crown_prominence:0 "§O‹s Q>fk¦^§!"
+ EDG_HUN_crown_prominence_desc:0 "§O‹s Q>fk¦^§!SO1uN¹eàV.t§GžX R§!ÿ\n§G+0.05§!=f§YR:V§!\n§G+0.05§!YŽN§YÄžÑ‘öeãN§!\n§G+0.1§!åb	g§Y100§!¹p§Y›RÏ‘•bS§!\n§G+0.1§!åb	g§Y100§!¹p§YZg§!\n§G+0.05§!åb	g§Y100§!¹p§Yckßu'`§!\n\n§O‹s Q>fk¦^§!SO1uN¹eàV.t§RÏQS§!\n-§RØšP%§!\n-§RØšwýNê»l¦^§!\n-§R…úQLˆ?e¹RÏ‘§!\n-§RØš'¨Àw§!\n\ndkYÿÏkN*N§T^SýV§!ýSÙuˆNbìN0§Y.05§!„v§O‹s Q>fk¦^§! R<PÿgØšuHepeÏ‘:N§Y20§!0"
+ EDG_HUN_crown_prominence_gain_modifier:0 "§O‹s Q>fk¦^§!ÙuˆN„vîOck"
+ monthly_EDG_HUN_crown_prominence:0 "g¦^§O‹s Q>fk¦^§!"
+
+ EDG_carpathian_slovakia:0 "¯emOKQ"
+

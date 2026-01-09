@@ -1,0 +1,130 @@
+iranian	= {
+	EDG_bactrian_culture = {
+		primary = BAC
+		dynasty_names = {
+			"?–	T·V"
+			"‰RĞc^yr"
+			"T‰lšÑy¯e"
+			"‰RĞcb"
+			"^X	t“^"
+			"XbÒR÷"
+			"‡^‰¯eyrÉbşV"
+			"4beY<SîO¯e"
+			"‡^‰¯eyrÉbşV"
+			"?–SKQÈÁ"
+			"ÄreY<S‰eY¯e"
+			"“^nfiW¯e"
+			"e¬Q"
+		}
+		male_names = {
+			"·Vs|yrÌ‘"
+			"s|WS·V"
+			"±ær±"
+  			"ÏgÉbşV"
+  			"'kàQÌ‘—V"
+  			"nfœTXKQ"
+  			"ÄreYYW¯e"
+  			"^W"
+  			"^WY·V"
+  			"?–ÉbşV¯e"
+  			"'kYKQÏ‚¯e"
+  			"ÃWÉbXb¯eyr<S"
+  			"?–úWs|·V"
+  			"¾idKQ)R¯e"
+  			"^âlKQÉb•^"
+  			"òƒSY‰"
+  			"(„ê"
+  			"œ¾úW"
+  			"ÈTòƒyQ"
+  			"™lnfS"
+  			"s|yrÌ‘¾¯h"
+  			"Õkœ<S"
+  			"?–Ì‘¯eTXKQ¯e"
+  			"?– RXbKQ)R¯e"
+  			"¢R™„"
+  			"‰RagKQ"
+			"¾idKQ)R¯e"
+		}
+		female_names = {
+			"W¯e‰RZ"
+			"^T(„‚„¯e"
+			"KQKNeYòƒN"
+			"‰Z®Y"
+			"'k‹VÄrIR"
+			"?–^›s"
+			"?– RXbKQ‰ƒZ"
+			"(„y"
+			"ÄreYYÉb"
+			"aSÊs·VÉb"
+			"?–®Y'kêN"
+			"?–¯e^‰šN"
+			")R‰¯eyrÉbTX"
+			"‰RZ"
+		}
+	}
+}
+
+byzantine = {
+	EDG_greco_bactrian_culture = {
+		dynasty_names = {
+			"?–	T·V"
+			"‰RĞc^yr"
+			"T‰lšÑy¯e"
+			"‰RĞcïg"
+			"^X	täS"
+			"XbÒRÆR"
+			"?– RXbKQ)R¯e"
+			"‡^‰¯eyrÉbşV"
+			"4beY<SîO¯e"
+			"‡^‰¯eyrÉbşV"
+			"?–SKQÈÁ"
+			"ÄreY<S‰eY¯e"
+			"“^nfiW¯e"
+			"e¬Q"
+		}
+		male_names = {
+			"·Vs|yrÌ‘"
+			"s|WS·V"
+			"±ær±"
+  			"ÏgÉbşV"
+  			"'kàQÌ‘—V"
+  			"nfœTXKQ"
+  			"ÄreYYW¯e"
+  			"^W"
+  			"^WY·V"
+  			"?–ÉbşV¯e"
+  			"'kYKQÏ‚¯e"
+  			"ÃWÉbXb¯eyr<S"
+  			"?–úWs|·V"
+  			"¾idKQ)R¯e"
+  			"^âlKQÉb•^"
+  			"òƒSY‰"
+  			"(„ê"
+  			"œ¾úW"
+  			"ÈTòƒyQ"
+  			"œs|"
+  			"Õkœ<S"
+  			"?–Ì‘¯eTXKQ¯e"
+  			"?– RXbKQ)R¯e"
+  			"¢R™„"
+  			"‰RagKQ"
+			"¾idKQ)R¯e"
+		}
+		female_names = {
+			"W¯e‰RZ"
+			"^T(„‚„¯e"
+			"KQKNeYòƒN"
+			"‰Z®Y"
+			"'k‹VÄrIR"
+			"?–^›s"
+			"?– RXbKQ‰ƒZ"
+			"(„y"
+			"ÄreYYÉb"
+			"aSÊs·VÉb"
+			"?–®Y'kêN"
+			"?–¯e^‰šN"
+			")R‰¯eyrÉbTX"
+			"‰RZ"
+		}
+	}
+}

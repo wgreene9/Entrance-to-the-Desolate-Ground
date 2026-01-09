@@ -1,0 +1,81 @@
+﻿l_english:
+ EDG_MAZ_be_independent:0 "ìrËzêIN"
+ desc_EDG_MAZ_be_independent:0 ""
+ EDG_MAZ_bridging_division:0 "%VTRÂˆ"
+ desc_EDG_MAZ_bridging_division:0 ""
+ EDG_MAZ_find_allies:0 "ûRŒbßvËS"
+ desc_EDG_MAZ_find_allies:0 ""
+ EDG_MAZ_guard_against_hre:0 "2–ƒ^ýV"
+ desc_EDG_MAZ_guard_against_hre:0 ""
+ EDG_MAZ_liquidation_committee:0 "ƒwnÔYXTO"
+ desc_EDG_MAZ_liquidation_committee:0 ""
+ EDG_MAZ_pre_for_unit:0 "ßuNÆQY"
+ desc_EDG_MAZ_pre_for_unit:0 ""
+ EDG_POL_expansionary_policy:0 "ib.V?eVr"
+ desc_EDG_POL_expansionary_policy:0 ""
+ EDG_POL_compulsory_amalgamation:0 ":V6RTwT"
+ desc_EDG_POL_compulsory_amalgamation:0 ""
+ EDG_POL_unite_sislav:0 "âVÓu‰¯eÉb+Y"
+ desc_EDG_POL_unite_sislav:0 ""
+ EDG_POL_industry_in_slovakia:0 "¯emOKQåTN"
+ desc_EDG_POL_industry_in_slovakia:0 ""
+ EDG_POL_prosperity_lesser_poland:0 "SâlpQ„vAucƒ"
+ desc_EDG_POL_prosperity_lesser_poland:0 ""
+ EDG_POL_city_develpment_plan:0 "ÎW^ÑSUS¡‹R"
+ desc_EDG_POL_city_develpment_plan:0 ""
+ EDG_POL_subsidiary_territory:0 "D–^S†˜0W"
+ desc_EDG_POL_subsidiary_territory:0 "D–^S†˜0W"
+ EDG_POL_unified_plain:0 "ßuN'Ys^ŸS"
+ desc_EDG_POL_unified_plain:0 ""
+ EDG_POL_industrial_areas_of_silesia:0 "‰Ì‘‰šNåTN:S"
+ desc_EDG_POL_industrial_areas_of_silesia:0 ""
+ EDG_POL_imperial_war:0 "^ýVb‰N"
+ desc_EDG_POL_imperial_war:0 ""
+ EDG_POL_fields_of_dnieper_river:0 ",rBw=O³l„vŸSÎ‘"
+ desc_EDG_POL_fields_of_dnieper_river:0 ""
+ EDG_POL_rebuild_kiev:0 "Í‘ú^úW…ÎW"
+ desc_EDG_POL_rebuild_kiev:0 ""
+ EDG_POL_imperial_highway:0 "^ýVlQï"
+ desc_EDG_POL_imperial_highway:0 ""
+ EDG_POL_take_back_steppe:0 "6eÞVs^ŸS"
+ desc_EDG_POL_take_back_steppe:0 ""
+ EDG_POL_integrated_baltic:0 "teTâlW„v"
+ desc_EDG_POL_integrated_baltic:0 ""
+ EDG_POL_march_on_the_prairies:0 "Û›Q'YIƒŸS"
+ desc_EDG_POL_march_on_the_prairies:0 ""
+ EDG_POL_sweep_the_balkans:0 "-^wSôTSr^"
+ desc_EDG_POL_sweep_the_balkans:0 ""
+ EDG_POL_protection_of_yugoslavia:0 "ÝO²bWS¯eÉb+Y"
+ desc_EDG_POL_protection_of_yugoslavia:0 ""
+ EDG_POL_steel_L_plate:0 "Á”	NÒ‰"
+ desc_EDG_POL_steel_L_plate:0 ""
+ EDG_POL_royal_education_act:0 "‹s²RYe²wÕlHh"
+ desc_EDG_POL_royal_education_act:0 ""
+
+
+ EDG_POL_latifundium:0 "'Y„^íV"
+ desc_EDG_POL_latifundium:0 ""
+
+
+ EDG_SPACE_TT:0 " "
+
+
+ EDG_MAZ_PLC_Intermarium:0 "wmô•Tw¦"
+ EDG_MAZ_PLC_Intermarium_ADJ:0 "wmô•Tw¦"
+
+ ability_EDG_POL_federal_solidarity_mechanics:0 "Tw¦§TâVÓu¦^§!"
+ EDG_POL_federal_solidarity:0 "Tw¦§TâVÓu¦^§!"
+ EDG_POL_federal_solidarity_desc:0 "\nTw¦§TâVÓu¦^§!×S0RTIN„v§Y	Ny˜ýw›R§!¹ppeGW§YìrËz§!qVÍTÿ\n\n§R-0.15§!-TINýw›R:N§Y0§!\n§R-0.1§!-TINýw›R:N§Y1§!\n§R-0.05§!-TINýw›R:N§Y2§!\n§G+0.05§!-TINýw›R:N§Y4§!\n§G+0.1§!-TINýw›R:N§Y5§!\n§G+0.15§!-TINýw›R:N§Y6§!\n"
+ EDG_POL_federal_solidarity_gain_modifier:0 "§TâVÓu¦^§!ÙuˆN„vîOck"
+ monthly_EDG_POL_federal_solidarity:0 "Ïkg§TâVÓu¦^§!·ƒÖS"
+
+ EDG_POL_Sarmatism:0 "(„SlšÐcšNININ"
+ EDG_POL_Sarmatism_desc:0 "(„SlšÐcšNININ„vTðyŒT‡eSïSåN(Wlb·k÷–PO¯eXbÆY·^^XKQ„vÞVÆVUVÿbæt(ƒæt+Y·âlXb(ƒúW„v×‹KN‰|„vâlpQ°sãN‡efRjOÁT-NSO°súQeg05ÏezNw1uÛk®vîOjRb„v•ˆÿ9ƒXo	ÿŒTÊSÀ„v•Rrt—ÿv^M‘NwlšRÿÄ„áwmNˆVAmLˆ0ÖNìN›RBl¾0R„v(„SlšÐcšNVbVaŒ=f‘š(WlšÌwN0«N	gGWIr„vCg)Rÿ5ÏelIN6R	ÿ0©‹YýVºNa0RNïSbÜw„vtó`0(„SlšÐcšNININ^‚˜âlpQ›Q–Ç»S„vÜw)Rÿ—‰âlpQ5ÏeôucÙÍy.Oßu0ÖNìNNïSRCQ„vNöN‚‚åep™ÁT=f«ˆðy:NaSÉbÉb„vlšR0\n\nAS”NNªu„vâlpQt^òSjOwlb··VLNbÀN=f,rNMOSòSMRâlpQŒT(„SlšÐcšNºNTwû|weg„vfRwÿÖN„vfRô‹mN—V0R†NvQÖN†SòSfR¶RŒTt^òSjOwÿl‹‚YlšS¦”·+RS¯eúW0lšS¦”·KQW…hSŒTlšRO·…h—ôuTXIrºN„v=ec0vQÖN'k2mºNsQŽNâlpQ(„SlšÐcšNININ„vÂ‰¹pIN‰egêŽN…h—ôuTX„vW„jOÿÙÇr‡eàzÇ'YÏ‘sQŽNýVE–Amí‹Š¹eb—N„vâlpQËzv–›RTw¦„v†˜WŒTºNl‡e.sÿeg8TVMOŽNWS'k„vû‹w0Ù*NTWRegêŽN5ÏeNbŒ„vVyHQÿ(„SlšÐcšNºN0ƒRžRE–N=fMOŽNÑžwmåNS„vOgºN„vèK„Twßvÿ«ˆlQCQMR5Nªu„väS^JjO¶R^WY·Vðy:N=f¯eúWðlºNŒTšNlšºN„vTãNÿv^(WlQCQŒNNªu«ˆåTyrºNÖSwãNKN0ÏuÇ†N‹YàQãNºN„vãSãSøv.OTÿÙoØS:N†NâlpQºN=fegêŽNšN2mÿTegûyES0RNWS'k„vî†fklÏe’dLNmlšðlOºN„vTãN„v.OGYEe‹N0	cgq.Oßuô‹Õlÿ(„SlšÐcšNºN=fú‹šNKNPRÅ–V„vTãN0"
+ EDG_POL_winged_cavalry_reform:0 "ü‘šuQ9ei—"
+ EDG_POL_winged_cavalry_reform_desc:0 "ASmQNªuMbÇJSNENÿ'YYpeü‘šuQ1SoØSb†NÍ‘fkÅˆ„vbëXÿFOÙ›N‰lÍ‘„vÅˆYŒTp™irtSÍSÇegÖb=t†NÖNìN„vLˆ¨Rÿ1S(Wwegü‘šuQÈS‰ekÇ†Nöe„vÍ‘Åˆ‘šëXKNTSw«ˆàeÅ`Ømpl„vöePÿ1576t^«ˆ	>N:NâlpQýV‹s„vyrpQ‰æt<SšNlQ5r¯e‚„¬‚·ôTXbÌ‘ùRâlpQ›Q–ÛLˆ†NñmeQw	gHe„v9ei—0ôTXbÌ‘ùRü‘šuQè–9ei—„vÓuœg=fú^Ëz†NN=e'Y:NupIm:g¨RwÈSwQYgØšªu‹V'`„v°e›Q0(WÅˆYNÿÖN8lEN0WRdV†NçeV„vÍ‘Ôv0(gþvŒT¿lê-NNªu‘šëX„v'Y‹Wlš—ÿãNKNåNQY¯eaS<hÿSVöeN‰|&^™ŸŒ†VBSGr²bˆ˜ŒTzÇÔvj„vUSGr²bIŸ„vVb—‰ÔvÑ‹èl	ÿVbwvQÖNV7h„v‰Ôv0•PR2uŒTz(WYb—„v‰‹WJS«Ž2uÿbÅNNwJS«Ž2uŒT•2u²bÂ0&^	gSmÍ‘N¹eÎ˜<h„vN(ulš—lšk•ÿåNÊS•ˆ˜lš:R0lšRØ=fIN‰„vÑbfkhVÿFO‚YÊNd–†NlšRKNYü‘šuQÈS8^8^(Wlš—ÁeQû|NNŠbÍ‘›QRÿvQžR=fNÍyN‰'k„vestocøv<O„vÍ‘‹W:RQRÿ(W²Q•öeˆV‹Y(u0lš—MR„vªgWYÌ‘ÒcNw2NŠbnçqKbªgbNŠbnçqlšªg0b2•ŒTCgVgØ=f›Q˜RìNœU1r„vfkhV0‘šªg„v•¦^«ˆ)íw†NÿMRïzcN†N••„vÛw×eÿ(W²Q•öeÿàepeÍbSbØ˜lbNw„vœœs‚S×e(WLeºN„v<wÌ‘=fNE^âeîXKNwÈSïS`„vIub—0"
+ EDG_POL_manorial_system:0 "9ei—'Y„^íV"
+ EDG_POL_manorial_system_desc:0 "Ç»S„v'Y„^íV6R¦^N„vœQtYHe‡sòTÏu*YNO†NÿÇO…VuóŸ^d–œQtY6R¦^eg9e„U„^íV„vuµNýw›R=fŸN…Vã‰³Q„vî•˜˜0"
+ EDG_POL_interoceanic_council:0 "wmô•t‹NO"
+ EDG_POL_interoceanic_council_desc:0 "1uŽNbìNýV¶RE^XTË–NlÏe‡eSASRYBgÿàVdkbìN—‰ú^ËzN*NNè•„v:g„gegÃOÛT*N0W:S„v‡TÑSUS0"
+ EDG_POL_noble_parliament:0 "ÀNÉbkTX'Y®‹…S"
+ EDG_POL_noble_parliament_desc:0 "Ç©‹'Y5ÏeìNNwOSFUv^Õ‹þV©‹ÖNìN¾bNôSO'Y'YÐcØšýV…QTy˜‹N¡R„vÐjO0"

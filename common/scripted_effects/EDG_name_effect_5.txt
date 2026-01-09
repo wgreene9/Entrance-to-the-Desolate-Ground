@@ -1,0 +1,218 @@
+
+EDG_flavor_GSR_mission_2_a_effect = {
+	define_general = {
+	  name = "Ùu6w—yØe…b+Y ^pQaS"
+	  fire = 3
+	  shock = 4
+	  manuever = 4
+	  siege = 3
+	}
+}
+EDG_flavor_GSR_mission_3_effect = {
+	define_heir = {
+		name = "eY‘k)RGY"
+		dynasty = ROOT
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 4
+		age = 32
+	}
+}
+EDG_TUR_Salim_disaster_3_a_effect = {
+	define_ruler = {
+		name = "iç)R∆Y I 0∑Qwëw0"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 6
+		dip = 6
+		mil = 6
+		age = 40
+	}
+	set_ruler_flag = EDG_TUR_sailimu_ruler_flag
+	add_ruler_personality = strict_personality
+}
+EDG_TUR_Salim_disaster_5_b_name_effect = {
+	define_ruler = {
+		name = "åÇ»T»è∑V I"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 3
+		dip = 2
+		mil = 4
+		age = 40
+	}
+}
+EDG_TUR_Salim_disaster_6_c_name_effect = {
+	define_ruler = {
+		name = "—ySì^∑V I"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 4
+		dip = 3
+		mil = 2
+		age = 35
+	}
+	add_ruler_personality = pious_personality
+}
+EDG_flavor_TUR_37_a_name_effect = {
+	define_heir = {
+		name = "iç)R∆Y 0Rë<õ0"
+		monarch_name = "iç)R∆Y II 0Rë<õ0"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 3
+		age = 25
+	}
+	add_ruler_personality = drunkard_personality
+	set_heir_flag = _heir_flag = EDG_TUR_xuleimu_sons_heir_flag
+}
+EDG_flavor_TUR_38_a_name_effect = {
+	define_heir = {
+		name = "FzØeTX’l"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 6
+		age = 25
+	}
+	set_heir_flag = EDG_TUR_musitafa_heir_flag
+}
+EDG_flavor_TUR_40_a_name_effect = {
+	define_consort = {
+		name = "∏ãåÖ∆YœÇ9N"
+		dynasty = "âRZØeTXâZ"
+		adm = 4
+		dip = 5
+		mil = 3
+		female = yes
+	}
+}
+EDG_flavor_TUR_43_A_effect = {
+	define_heir = {
+		name = "ÙT6wNm∑V"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 3
+		dip = 3
+		mil = 4
+		age = 25
+	}
+	set_heir_flag = EDG_TUR_xuleimu_bayejide_heir_flag
+	set_heir_flag = _heir_flag = EDG_TUR_xuleimu_sons_heir_flag
+}
+EDG_flavor_TUR_47_a_name_effect = {
+	define_heir = {
+		name = "FzØeTX’l"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 5
+		dip = 4
+		mil = 5
+		age = 30
+	}
+	set_heir_flag = EDG_TUR_musitafa_heir_flag
+}
+EDG_TUR_original_disaster_1_a_name_effect = {
+	define_heir = {
+		name = "åÇ»T»è∑V"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 4
+		age = 15
+	}
+	set_heir_flag = EDG_TUR_aihamaide_first_heir_flag
+}
+EDG_TUR_original_disaster_2_a_name_effect = {
+	define_heir = {
+		name = "FzØeTX’l"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 0
+		dip = 0
+		mil = 0
+		age = 25
+	}
+	set_heir_flag = EDG_TUR_musitafa_first_heir_flag
+}
+EDG_TUR_original_disaster_3_a_name_effect = {
+	define_heir = {
+		name = "eYØe¸f"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 4
+		dip = 4
+		mil = 2
+		age = 15
+	}
+	set_heir_flag = EDG_TUR_musitafa_first_heir_flag
+}
+EDG_TUR_original_disaster_4_a_name_effect = {
+	define_heir = {
+		name = "Fz…b∑V"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 6
+		dip = 4
+		mil = 6
+		age = 11
+	}
+	set_heir_flag = EDG_TUR_mulade_forth_heir_flag
+}
+EDG_flavor_TUR_49_a_name_effect = {
+	define_advisor = {
+	  type = theologian
+	  culture = greek
+	  religion = orthodox
+	  name = "w≥uÍèLNØe"
+	  skill = 2
+	  cost_multiplier = 0.25
+	  culture = ROOT
+	}
+}
+EDG_flavor_TUR_57_a_name_effect = {
+	define_consort = {
+		name = "™RSÙT™RœÇ9N"
+		dynasty = "Z<SöN-ÙTiO"
+		adm = 5
+		dip = 4
+		mil = 4
+		female = yes
+	}
+}
+EDG_flavor_TUR_59_a_name_effect = {
+	define_advisor = {
+	  type = army_reformer
+	  name = "ÅúØefW^Y"
+	  skill = 3
+	  cost_multiplier = 0.25
+	  culture = ROOT
+	}
+}
+EDG_flavorFRA_48_a_effect = {
+	define_heir = {
+		name = "Vg0tÊt"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 5
+		dip = 5
+		mil = 3
+		age = 4
+	}
+}
+EDG_flavorFRA_49_a_effect = {
+	define_heir = {
+		name = "Ôçf"
+		dynasty = original_dynasty
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 6
+		age = 5
+	}
+}

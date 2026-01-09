@@ -1,0 +1,141 @@
+﻿l_english:
+ EDG_game_rule_1_title:0 "§YúWNxÄ‰R§!"
+ EDG_game_rule_select_button_1_title:0 "§YúWNxÄ‰R§!"
+
+
+ EDG_game_rule_1_1_tooltip:0 "x^ÐýV"
+ EDG_game_rule_1_1_title:0 "[From.GetGameRuleTitle11]"
+ EDG_game_rule_1_1_desc:0 "[From.GetGameRuleDesc11]"
+ EDG_game_rule_1_1_open_title:0 "§GV=T§!"
+ EDG_game_rule_1_1_open_desc:0 "V=T§Yx^ÐýV§!ÿán³agöN„vAIýV¶RS·ƒ—Vx^ÐýV Rb0"
+ EDG_game_rule_1_1_close_title:0 "§RsQí•§!"
+ EDG_game_rule_1_1_close_desc:0 "AISNO·ƒ—VûNUO§Yx^ÐýV Rb§!0"
+
+ EDG_game_rule_1_2_tooltip:0 "Vgwcb"
+ EDG_game_rule_1_2_title:0 "[From.GetGameRuleTitle12]"
+ EDG_game_rule_1_2_desc:0 "[From.GetGameRuleDesc12]"
+ EDG_game_rule_1_2_common_title:0 "sQí•"
+ EDG_game_rule_1_2_common_desc:0 "§YAI§!SNO·ƒ—V R:VÿFO1u‹NöNÙuˆN„v§YVgw§!OçeuHe0"
+ EDG_game_rule_1_2_great_title:0 "§YO'YVgw§!"
+ EDG_game_rule_1_2_great_desc:0 "§YAI§!ßu»lwSýwY·ƒ—V§YO'YVgw§!yr(v^·ƒ—V§G'YÏ‘ Rb§!0"
+ EDG_game_rule_1_2_epic_title:0 "§O^yÝ‹Vgw§!"
+ EDG_game_rule_1_2_epic_desc:0 "§YAI§!ßu»lwSýwY·ƒ—V§O^yÝ‹Vgw§!yr(v^·ƒ—V§TèT˜ Rb§!0"
+ EDG_game_rule_1_2_right.tt:0 "žX R¾–¦^"
+ EDG_game_rule_1_2_left.tt:0 "M–NO¾–¦^"
+
+ EDG_game_rule_1_3_tooltip:0 "÷N<hi—‹T"
+ EDG_game_rule_1_3_title:0 "[From.GetGameRuleTitle13]"
+ EDG_game_rule_1_3_desc:0 "[From.GetGameRuleDesc13]"
+ EDG_game_rule_1_3_open_title:0 "§GV=T§!"
+ EDG_game_rule_1_3_open_desc:0 "V=T§Y÷N<hi—‹T§!øvsQ‹NöNÄu0"
+ EDG_game_rule_1_3_close_title:0 "§RsQí•§!"
+ EDG_game_rule_1_3_close_desc:0 "sQí•§Y÷N<hi—‹T§!øvsQ‹NöNÄuÿv^ûyd–òTuHe„vøvsQîOck0"
+
+ EDG_game_rule_1_4_tooltip:0 "iVË†‹NöN"
+ EDG_game_rule_1_4_title:0 "[From.GetGameRuleTitle14]"
+ EDG_game_rule_1_4_desc:0 "[From.GetGameRuleDesc14]"
+ EDG_game_rule_1_4_open_title:0 "§GV=T§!"
+ EDG_game_rule_1_4_open_desc:0 "AQ¸‹pe*NiVË†‹NöN„væ‰ÑS0"
+ EDG_game_rule_1_4_close_title:0 "§RsQí•§!"
+ EDG_game_rule_1_4_close_desc:0 "sQí•Nb	giVË†‹NöN0"
+
+ EDG_game_rule_1_5_tooltip:0 "<S·VpQwIN"
+ EDG_game_rule_1_5_title:0 "[From.GetGameRuleTitle15]"
+ EDG_game_rule_1_5_desc:0 "[From.GetGameRuleDesc15]"
+ EDG_game_rule_1_5_open_title:0 "§GV=T§!"
+ EDG_game_rule_1_5_open_desc:0 "§Y<S·VpQwIN§!SýwYåNck8^¹eV«ˆæ‰ÑS0"
+ EDG_game_rule_1_5_close_title:0 "§RsQí•§!"
+ EDG_game_rule_1_5_close_desc:0 "y(uŒp¾–§Y<S·VpQwIN§!0"
+
+ EDG_game_rule_2_title:0 "§YAIÄ‰R§!"
+ EDG_game_rule_select_button_2_title:0 "§YAIÄ‰R§!"
+
+ EDG_game_rule_2_1_tooltip:0 "@BUL/@BU1§YÝO R)RšN§!"
+ EDG_game_rule_2_1_title:0 "[From.GetGameRuleTitle21]"
+ EDG_game_rule_2_1_desc:0 "[From.GetGameRuleDesc21]"
+ EDG_game_rule_2_1_open_title:0 "§TÐcØšAIµOeu'`§!"
+ EDG_game_rule_2_1_open_desc:0 "@BUL/@BU1§YÝO R)RšN§!S§YhTg'`±Rb§!hT¹ýV¶RÿÐcØš8n©scb'`0"
+ EDG_game_rule_2_1_close_title:0 "àeŒte"
+ EDG_game_rule_2_1_close_desc:0 "@BUL/@BU1§YÝO R)RšN§!S§YNO	g˜Y‹NöN§!ŒtevQµOeu'`0"
+
+ EDG_game_rule_2_2_tooltip:0 "@MHM/@TUR§YeY¯eüf§!"
+ EDG_game_rule_2_2_title:0 "[From.GetGameRuleTitle22]"
+ EDG_game_rule_2_2_desc:0 "[From.GetGameRuleDesc22]"
+ EDG_game_rule_2_2_open_title:0 "§TÐcØšAIµOeu'`§!"
+ EDG_game_rule_2_2_open_desc:0 "@MHM/@TUR§YeY¯eüf§!S§YhTg'`±RbhT¹ýV¶R§!ÿÐcØš8n©scb'`0"
+ EDG_game_rule_2_2_close_title:0 "àeŒte"
+ EDG_game_rule_2_2_close_desc:0 "@MHM/@TUR§YeY¯eüf§!S§YNO	g˜Y‹NöN§!ŒtevQµOeu'`0"
+
+ EDG_game_rule_2_3_tooltip:0 "@SWE§Y^txQ§!"
+ EDG_game_rule_2_3_title:0 "[From.GetGameRuleTitle23]"
+ EDG_game_rule_2_3_desc:0 "[From.GetGameRuleDesc23]"
+ EDG_game_rule_2_3_open_title:0 "§TSƒXÄ–îr§!"
+ EDG_game_rule_2_3_open_desc:0 "§YäS¯eTX+YŒNN§!S(W§Y1580§!t^æTóSjO:N§YO'YVgw§!úQ°s0"
+ EDG_game_rule_2_3_close_title:0 "àeŒte"
+ EDG_game_rule_2_3_close_desc:0 "§YäS¯eTX+YŒNN§!NQ˜Y·ƒ—V§YO'YVgw§!0"
+
+ EDG_game_rule_2_4_tooltip:0 "@ARL§Y(„Õlôu§!"
+ EDG_game_rule_2_4_title:0 "[From.GetGameRuleTitle24]"
+ EDG_game_rule_2_4_desc:0 "[From.GetGameRuleDesc24]"
+ EDG_game_rule_2_4_open_title:0 "§T‹TÐKNPR§!"
+ EDG_game_rule_2_4_open_desc:0 "§YO¯e›sêNNN§!S(W§Y1500§!t^æTóSjO:N§YO'YVgw§!úQ°s0"
+ EDG_game_rule_2_4_close_title:0 "àeŒte"
+ EDG_game_rule_2_4_close_desc:0 "§YO¯e›sêNNN§!NQ˜Y·ƒ—V§YO'YVgw§!0"
+
+ EDG_game_rule_2_5_tooltip:0 "@SHY§YgsS+R§!„vRÂˆ"
+ EDG_game_rule_2_5_title:0 "[From.GetGameRuleTitle25]"
+ EDG_game_rule_2_5_desc:0 "[From.GetGameRuleDesc25]"
+ EDG_game_rule_2_5_open_title:0 "§TÂršS§!"
+ EDG_game_rule_2_5_open_desc:0 "@SHY§YgsS+R§!„v‹TÐS1uŒp¾–§TÂršS§!³QšR0"
+ EDG_game_rule_2_5_close_title:0 "§Yã‰SO§!"
+ EDG_game_rule_2_5_close_desc:0 "§Y?–^wmS§!‰kT@SHY§YgsS+R§!S‰V•^RÂˆ0"
+
+ EDG_game_rule_2_6_tooltip:0 "@SHY§YgsS+R§!"
+ EDG_game_rule_2_6_title:0 "[From.GetGameRuleTitle26]"
+ EDG_game_rule_2_6_desc:0 "[From.GetGameRuleDesc26]"
+ EDG_game_rule_2_6_common_title:0 "àeŒte"
+ EDG_game_rule_2_6_common_desc:0 "@SHY§YgsS+R§!SàeÕlV=T§Y'YÜV§!0"
+ EDG_game_rule_2_6_great_title:0 "§Y'YÜV§!"
+ EDG_game_rule_2_6_great_desc:0 "@SHY§YgsS+R§!SýwYV=T§Y'YÜV§!v^«N§Y˜Y„v±Rb:g6R§!0"
+ EDG_game_rule_2_6_epic_title:0 "§ON^KN­—§!"
+ EDG_game_rule_2_6_epic_desc:0 "§Yfís<S§!SúVšR·ƒ—V§YO'YVgw§!ÿ:N@SHY§YgsS+R§!y(uã‰SOŒp¾–0"
+ EDG_game_rule_2_7_tooltip:0 "@SHY§Y±RbÄ‰R§!"
+ EDG_game_rule_2_7_title:0 "[From.GetGameRuleTitle27]"
+ EDG_game_rule_2_7_desc:0 "[From.GetGameRuleDesc27]"
+ EDG_game_rule_2_7_common_title:0 "§GAQ¸‹±Rb§!"
+ EDG_game_rule_2_7_common_desc:0 "@SHY§YgsS+R§!AISýwYck8^„vÛLˆ±Rb0"
+ EDG_game_rule_2_7_ban_title:0 "§Rybk±Rb§!"
+ EDG_game_rule_2_7_ban_desc:0 "@SHY§YgsS+R§!AIS§RàeÕl±Rb§!"
+
+ EDG_game_rule_3_title:0 "§YAmzÄ‰R§!"
+ EDG_game_rule_select_button_3_title:0 "§YAmzÄ‰R§!"
+
+ EDG_game_rule_3_1_tooltip:0 "§Y‰	T¯e™„·V§!KN‰k"
+ EDG_game_rule_3_1_title:0 "[From.GetGameRuleTitle31]"
+ EDG_game_rule_3_1_desc:0 "[From.GetGameRuleDesc31]"
+ EDG_game_rule_3_1_common_title:0 "‹T1u)YšR"
+ EDG_game_rule_3_1_common_desc:0 "§Y‰	T¯e™„·V§!S§Yê6q‰k¡N§!"
+ EDG_game_rule_3_1_confirm_title:0 "§R‹TšRKN‰k§!"
+ EDG_game_rule_3_1_confirm_desc:0 "§Y‰	T¯e™„·V§!gßS(W§Y1448§!t^§R‰k¡N§!"
+
+ EDG_game_rule_3_2_tooltip:0 "@MAM§YlšFzœKQ§!9ei—"
+ EDG_game_rule_3_2_title:0 "[From.GetGameRuleTitle32]"
+ EDG_game_rule_3_2_desc:0 "[From.GetGameRuleDesc32]"
+ EDG_game_rule_3_2_common_title:0 "YèqVÍT"
+ EDG_game_rule_3_2_common_desc:0 "@MAM§YlšFzœKQ§!§TïSýw–:gbËz§!pe*NýV¶R-N„vvQ-NN*N"
+ EDG_game_rule_3_2_disable_title:0 "3zúVCgZ"
+ EDG_game_rule_3_2_disable_desc:0 "@MAM§YlšFzœKQ§!S§RNObËz§!vQÖNûNUOýV¶R"
+
+ EDG_game_rule_3_3_tooltip:0 "@BDH§YôTTXS'S¯e§!"
+ EDG_game_rule_3_3_title:0 "[From.GetGameRuleTitle33]"
+ EDG_game_rule_3_3_desc:0 "[From.GetGameRuleDesc33]"
+ EDG_game_rule_3_3_common_title:0 "§T‹T1u)YšR§!"
+ EDG_game_rule_3_3_common_desc:0 "@BDH§YôTTXS'S¯e§!S§T–:g	éb§!ƒR„vSï"
+ EDG_game_rule_3_3_catholicism_title:0 "§OˆvOlQYe§!"
+ EDG_game_rule_3_3_catholicism_desc:0 "@BDH§YôTTXS'S¯e§!SˆvO§O)YINYe§!v^SÕ‹bËz@ADC§YidS¯eÑy§!"
+ EDG_game_rule_3_3_sunni_title:0 "§GÝOc.Oßu§!"
+ EDG_game_rule_3_3_sunni_desc:0 "@BDH§YôTTXS'S¯e§!SÝOc§O<S>m§!v^SÕ‹bËz@ADU§Y‰R¾bS‰šN§!"
+
+ EDG_game_rule_main_open_button.tt:0 "	c§YCtrl+G§!.•ïSåNQ!k2UúQå‹ÜƒUS0\n\n÷‹KSÏ‘(W§Y8nbVNS§!1S§Gnx²‹¾‹n§!ÿ§Y-NîO9e§!¾‹nïSýwüRô§RNïS„˜åw„v•ï‹§!ÿv^N6RjOÄuS§RNOùR-NîO9e8nbÄ‰RNb.b„vî•˜˜ÛLˆûNUOîOYÿ§!"
+
+ EDG_GAME_RULE_DISABLE_DECLARE_WAR:0 "Ä‰Rybk"

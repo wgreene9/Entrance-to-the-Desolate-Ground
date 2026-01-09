@@ -1,0 +1,28 @@
+﻿l_english:
+    EDG_state_edicts_1_allow_tooltip:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHe¨RXT§!"
+    EDG_state_edicts_2_allow_tooltip:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHeuµN§!"
+    EDG_state_edicts_3_allow_tooltip:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHez6e§!"
+    EDG_state_edicts_4_allow_tooltip:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§Y R:V­VyV§!"
+    EDG_state_edicts_5_allow_tooltip:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHeú^.§!"
+    EDG_state_edicts_6_allow_tooltip:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHeVuQ§!"
+    
+    EDG_state_edicts_1_allow_flag:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHe¨RXT§!"
+    EDG_state_edicts_2_allow_flag:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHeuµN§!"
+    EDG_state_edicts_3_allow_flag:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHez6e§!"
+    EDG_state_edicts_4_allow_flag:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§Y R:V­VyV§!"
+    EDG_state_edicts_5_allow_flag:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHeú^.§!"
+    EDG_state_edicts_6_allow_flag:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YØšHeVuQ§!"
+
+    EDG_state_edicts_1:0 "ØšHe¨RXT"
+    EDG_state_edicts_2:0 "ØšHeuµN"
+    EDG_state_edicts_3:0 "ØšHez6e"
+    EDG_state_edicts_4:0 " R:V­VyV"
+    EDG_state_edicts_5:0 "ØšHeú^."
+    EDG_state_edicts_6:0 "ØšHeVuQ"
+    
+    EDG_state_edicts_Apprentice_Act:0 "’VåTÕläN"
+
+
+    EDG_state_edicts_7_allow_tooltip:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YÛbßR·VÌ‘‘šëX§!"
+    EDG_state_edicts_7_allow_flag:0 "AQ¸‹Ç‘(uôv^SÞT?eVr§YÛbßR·VÌ‘‘šëX§!"
+    EDG_state_edicts_7:0 "ÛbßR·VÌ‘‘šëX"

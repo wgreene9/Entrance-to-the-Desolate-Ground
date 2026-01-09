@@ -1,0 +1,190 @@
+﻿l_english:
+ EDG_HSA_mission_3_1_title:0 "pž×eØšlb"
+ EDG_HSA_mission_3_1_desc:0 "Il(„Tßv6RšR„vVßR6R¦^VìS†NhQTwßvNb	gePîX„vœQlPRV0:N†NÝO²bqQŒTýV0ÝO²b Rßv¦0ÝO²býVƒX…Q„vºNlÿTKQ„vSOPRìNÿMRÛÿ"
+ 
+ EDG_HSA_mission_3_1.effect.tt:0 "Ïk*N§T8fTwßvbXT§!SOÙuˆNbìN§Y10§!¤N§Y10§!£adm££dip££mil£\n"
+ EDG_HSA_mission_3_1.get_claim.effect.tt:0 "·ƒ—VNb	gMOŽN§YTKQ§!0§YâlW„v§!0§Yú‹+YåTW·V§!§T8f:S§!åb	g§Y³lãS§!0§Y8f-NÃV§!N:N§T¿lwmwýN§!„v§Y8lEN±Rðy§!\n"
+ EDG_HSA_mission_3_1.add_modifier.effect.tt:0 "Nð§YîOck§!SO9hnc§T8fTwßvbXT§!peÏ‘w§Y R:V§!ÿ(W§T8fTwßv§!åb	g§Y6§!*NbXTöe·ƒ—V§YgÈuVY±R§!\n"
+ EDG_HSA_mission_3_1.get_modifier.effect.tt:0 "SVbìN=f§T8fTwßv§!§Y†˜–ˆ§!öeÿSO·ƒ—VN*N§YîOck§!åNÊS§YvQÖNVY±R§!0\n\nå‹§YîOck§!SO9hnc§T8fTwßvbXT§!peÏ‘w§Y R:V§!ÿv^(W§T8fTwßv§!åb	g§Y6§!*NbXTöe·ƒ—V§YgÈuVY±R§!\n"
+
+ EDG_HSA_mission_3_4_title:0 "nfœëXlQ¦u"
+ EDG_HSA_mission_3_4_desc:0 "nfœëXlQýVòT1Y RŽNN^0þfÏu¾Øšllb„v)YINYeîOO‚YÊNòTb:NvQàeýw†˜üRBSŒT»ýVTIN„vŽP!Q0ÒcKbSÖNìN„vºNlÎN´f?eßu»l-NïbQeúQeg¹e=fzf>N0"
+ EDG_HSA_mission_3_4.effect.tt:0 "9hnc§YŒRbûN¡R§!„v§T¹eV§!eg³QšR§YûN¡RVY±R§!"
+
+ EDG_HSA_mission_3_5_title:0 "ÓbUS›Q‹NfkÅˆ"
+ EDG_HSA_mission_3_5_desc:0 "jOb¹eVòTÑSu9eØS0Ç»SÂSb„vè–IN‰1u­‹ÃuN³„vluQŒT±›NÅˆYNo‚4NöeVìS„vœQlNbÄubÿ°sÊNòT«ˆ­‹Ãu	g.t„vfkÅˆ›RÏ‘ŒT8^Y›QNbÖSãN0:N†Nã‰³QýV¶R(W›Q‹Nî•˜˜N„vÅbçVÿbìNÅV‰˜ûN‹TNMOF–›Q'Yãÿeg†˜üRN=e°sãNS„v›Q–0"
+ EDG_HSA_mission_3_5.effect.tt:0 "ÐcØš§TIl(„ÎW^§!„v§YF–›QNP–§!ÿÏk*N§TIl(„ÎW^§!SÐc›O˜Y§G2§!§YF–›QNP–§!\n"
+
+ EDG_HSA_mission_3_6_title:0 "^ýVKN…Q"
+ EDG_HSA_mission_3_6_desc:0 "(WÙ*Nìryr„vTwßv®‹O-NbìNckY(W^—8^IN‰„vMOnNb—ùR‡v^0(WY²NŒTb‰Nî•˜˜NÿwQ	g0^ýVôv^S0WMO0„v^ýVbXTýwôv¥cN‡v^¥cæ‰0bìNÅV‰˜)R(uÙÍyqVÍT›RÿùRwƒS¯eðlàV0W:SŒT^ýV„vSè0W:SÐcúQ‰Bl0"
+
+ EDG_HSA_mission_3_7_title:0 "ïzckMOn"
+ EDG_HSA_mission_3_7_desc:0 "VgówÒRÏ‚Êv<hŒTwƒS¯eðlàVlQýVÝu^—f‹N0bìN‰(W^y1WWlš^ýV…QËe R^ýVqVÍT›Rÿ‰RhQ0W`S†˜Ù›NW0WÿMQ×SÙ›N†˜W«ˆ‡v^êñTµOT„vÎ˜i–0"
+ EDG_HSA_mission_3_7.effect.tt:0 "‚Yœg§Y^y1WWlš^ýV‡v^§!ùRbìNåb	góS§Y100§!‹Ya¦^ÿwýN§Y[1775.GetName]§!S«ˆ§TrR©‹§!ÙubìNÿNbìN·ƒ—Vå‹wýN„v§T8hÃV§!\n"
+
+ EDG_HSA_mission_3_8_title:0 "ê1u^ªRàz"
+ EDG_HSA_mission_3_8_desc:0 "–NwbìNqVÍT›RN­e„v(W^ýV…Qèib.Vÿ^ýV„vT*Nê1u^mNn„vó`‰ ReQIl(„TßvåNbcÖSôfØš„v)R¦mÿwbìNmN”^å‹)R(uÙN¹pçuíuú^¾‹bìN„vFUN^ýV0"
+ EDG_HSA_mission_3_8.effect.tt:0 "^ýVSV-NNb	g§Tê1u^§!§Y–™ý§!ýS·ƒ—VîOck§Y§TIl(„Tßv§!FU8Ùz§!\n"
+
+ EDG_HSA_mission_3_9_title:0 "FUNwm›Q"
+ EDG_HSA_mission_3_9_desc:0 "ùRŽNN*N4ngINüR'k2mwmN›RÏ‘„vqQŒTýVegô‹ÿSV¡RKN%`ÅV6q=f‰	gN=eT„vwm›Q0bìN°s(WS•bDib'YbìN„vwmN9‚–egÝO²bbìN„v8f0"
+ EDG_HSA_mission_3_9.effect.tt:0 "Ïk*N§TIl(„ÎW^§!SÐc›O˜Y§G5%§!§Y8fHe‡s§!\n"
+
+ EDG_HSA_mission_3_10_title:0 "YV°‹&Õl"
+ EDG_HSA_mission_3_10_desc:0 "a'Y)RJS›S„v0ÌR%`gRžX•ÿÙÁ‹f†NÖNìN(WFU8†˜ßWjOúQ„vTy˜Ûek=f	g÷N<P„v0‚YœgbìN‰ßNÞz‰NekOÿ1S”^å‹Ç‘³uÙ›Nfzf„v¹eÕl0"
+ EDG_HSA_mission_3_10.effect.tt:0 "Ïk*N§TIl(„ÎW^§!SÐc›O˜Y§G5%§!§YuµNHe‡s§!\n"
+
+ EDG_HSA_mission_3_11_title:0 "¨cLˆTKQÕlxQ"
+ EDG_HSA_mission_3_11_desc:0 "TKQ„vÕl‹VÄ‰šR†N0W¹e?eœ^„vêIN¡rtCgÿFO(WTKQ„vag‹OÌ‘v^N&T²‹,g0WN—RIN„vÎN^SsQû|ÿàeº‹vQ=fINYe0lQ5r0ýV‹sØ=f‡v^0øvÍSƒRAQ¸‹ÎW^(WËzÕl0øSÕlŒTLˆ?e‹N¡R-Nåb	gNšRz¦^„vê»lCgŒTìrËz'`0:N†NnxÝObìN8fTwßvbXTKNô•„vTjOz˜)RÿbìNÅV‰˜SÍ‘ÖNìN„vê1uŒTê»l0"
+ EDG_HSA_mission_3_11.effect.tt:0 "9hncûN¡R§YŒRb¹eV§!ÙuˆN§GNTVY±R§!ÿNb	g§TIl(„Tßv§!bXTO·ƒ—V§YT7hVY±R§!\n"
+
+ EDG_HSA_mission_3_12_title:0 "Il(„sY‹s"
+ EDG_HSA_mission_3_12_desc:0 "(WS'k„vÏkN*N8f-NÃVÿ¡l	gN*NýV¶RÔkbìNåb	gôfY„vCg›R0qVÍT›RŒTÑ‘±”0°s(W=fÆ–-NIl(„Tßvv^Î¥c8fŒTY²N°eöeãN„vöeP†NÿàV:NbìNck(WpTO'Y„v*geg0"
+ EDG_HSA_mission_3_12.flag.effect.tt:0 "Ïk*N§TIl(„ÎW^§!SÐc›O˜Y§G1§!§YY²NsQû|§!\n\n§TIl(„ÎW^§!°s(WNQM–NO§OâVÓu¦^§!\n"
+ EDG_HSA_mission_3_12.vassal.effect.tt:0 "Nb	g§Y8fTwßv§!bXTýOb:NbìN„v§TIl(„ÎW^§!v^·ƒ—V§G-50%§!ìrËz>PT\n"
+
+ EDG_HSA_mission_3_13_title:0 "Í‘=TIl(„FUh"
+ EDG_HSA_mission_3_13_desc:0 "bìNTY„vFUhýòTÏu1uŽNTÍyŸSàV«ˆsQí•†NÿNÇbìNHQZP	gáOÃVÍ‘þbÙ›NòTÏuŸ^V„vFUhÿçuíuSbìN„vFUN¡‹RÛLˆN»S"
+ EDG_HSA_mission_3_13_effect.tt:0 "9hncûN¡R§YŒRb¹eV§!ÙuˆN§GNTVY±R§!\n"
+
+ EDG_HSA_mission_2_13_title:0 "pTAucƒ"
+ EDG_HSA_mission_2_13_desc:0 "SNb	g0ÌRýYuÙuêñTv^N=fžX RbìNùRT8f‚‚¹pµc6RCg„v=UN¹eÕl0àeº‹bìN=f³QšRRceDÑ‘egD©RTwßvbXT„vÑSUSÿØ=f³QšRôÌRêñTÿŽVcƒwŒTCg›R„vSïý—‰ØNúQÑ‘±”„vãN÷N0"
+ EDG_HSA_mission_2_13.effect.tt:0 "Nb	g§TIl(„Tßv§!bXTýO·ƒ—V–™ý§YAucƒ¦^§!v^ùRbìNÐcØš§G25§!áOûN¦^\n"
+
+ EDG_HSA_mission_4_13_title:0 "ib.VFUNÎW^"
+ EDG_HSA_mission_4_13_desc:0 "všúQaSyr RyrwmáS¿O=fSwmÿ'k2mTýVNNLuT0W9‚êS„vbˆ0„W­eSwm8fSObìNýwY R:VùRýV…Q^:W8f„vµc6RNVüRÿmNýwYO—VbìNôf‹Y„vib.Vegê°eNLu„vFUN0"
+
+ EDG_HSA_mission_3_15_title:0 "„W­eñ‚	T)R"
+ EDG_HSA_mission_3_15_desc:0 ""
+
+ EDG_HSA_mission_3_14_title:0 "FU8^ýV"
+ EDG_HSA_mission_3_14_desc:0 ")RÊvóNÿ"
+
+ EDG_HSA_mission_1_2_title:0 "MckSÐvS"
+ EDG_HSA_mission_1_2_desc:0 "èŠ„SÒRwmáSŒT9N¦žJS›S„v|œ‰|8fnxžRˆVÍ‘‰0FOnxÝObìNWSè¹ƒX„vÐvNuµNÿv^NIl!XTjOÿRSµNuôf'Y„vÞV¥b0"
+ EDG_HSA_mission_1_2.sax.condition.tt:0 "Ç§Y9e„UsQû|§!óS·ƒ—V†NN@SAX§Y[SAX.GetName]§!§G75§!„vsQû|ÐcGS"
+ EDG_HSA_mission_1_2.hsa.condition.tt:0 "Ç§Y9e„UsQû|§!óS·ƒ—V†NN@HSA§Y[HSA.GetName]§!§G75§!„vsQû|ÐcGS"
+ EDG_HSA_mission_1_2.event.effect.tt:0 "SVbìNÇ§YY²NKbµk§!ŒRbûN¡RöeÿSOæ‰ÑS‹NöN§T0³Ri`!XOSšR0§!\n"
+ EDG_HSA_mission_1_2.effect.tt:0 "‚YœgbìNŒRbå‹ûN¡Röe@HAM§YIl!X§!ùRbìNóS	g§Y160§!‹Ya¦^ÿNb	g§T8fTwßvbXT§!SO9hnc§YbXTpeÏ‘§!·ƒ—V§GÑSUSb,gÏQMQ§!„vVY±Rÿ(W§T8fTwßv§!åb	g§Y6§!*NbXTöe·ƒ—V§YgÈuVY±R§!\n"
+
+ EDG_HSA_mission_1_4_title:0 "8fAm¨R"
+ EDG_HSA_mission_1_4_desc:0 "(WbìN‰èÿZ‰`³l7ŒhTôV„v†˜WYŽN„…1V„v»ltKNN0©‹bìNr^„˜SV0W„v?e»lÿŠbºNlÎNÖNìNàeýwŒTNOHe„vßu»l-NïbQeúQeg0"
+ EDG_HSA_mission_1_4.add_center.effect.tt:0 "SV@BRE§Y[BRE.GetName]§!=f§TIl(„Tßv§!bXTv^åb	gwýN§Y[1874.GetName]§!ÿRGSµuMOŽN§Y[1874.GetName]§!„v§Y8f-NÃV§!ÿv^ûm RîOck§Y0§TIl(„Tßv§!FU8Ùz0§!\n"
+ EDG_HSA_mission_1_4.add_modifier.effect.tt:0 "SV@FRN§Y[FRN.GetName]§!=f§TIl(„Tßv§!bXTv^åb	gwýN§Y[1876.GetName]§!ÿR§Y[1876.GetName]§!S·ƒ—VîOck§T0Il(„Í‘‰FUNnc¹p0§!\n"
+
+ EDG_HSA_mission_2_6_title:0 "¸uNr"
+ EDG_HSA_mission_2_6_desc:0 "	g›N‹NÅ`v^N—‰NsT„v(u´f›Regã‰³Qÿ¸uNýwYYt„v1Sàe—w9ôfYDn0"
+ EDG_HSA_mission_2_6.effect.tt:0 "Ïk*N§YÀoIm§!„v§Y0§TIl(„Tßv§!FU8Ùz0§!ýS(Wt^RÙuˆNbìN§G48§!¤"
+ EDG_HSA_mission_2_6.condition.tt:0 "N=f§Y^y1WWlš^ýV§!„vbXT"
+
+ EDG_HSA_mission_1_7_title:0 "ib.VwÎW:S"
+ EDG_HSA_mission_1_7_desc:0 "TKQòTÏuNQ=fSVR„vœQNSG•†NÿÎW^„vNèR:N†N¹e¿OegŽVeg'k2mT0W„v'YÏ‘FUºNwÛLˆ†Nyr+RVÑS0ú^ËzN*NT„v^:WŒTib'YwÎW¯wšRO9e„UbìNùRTKQ8f,gàW„vµc6R0"
+
+ EDG_HSA_mission_1_9_title:0 "ú^.—S¯eÕnè•"
+ EDG_HSA_mission_1_9_desc:0 "„gú^N*Nž^'Y„v8fQÜuÅVS:NbìN&^egèT'Y„v0ÌRŒTqVÍT›R0ïSÙmNasTNwbìNNïSMQ0W(Wå‹†˜ßW„v^:WNNÞz‰NwÑSuidæd0:N†NÝO²bbìN„vºNlŒTbìN„v)RÊvÿbìNÅV‰˜ÝOkSIl(„„vÃVÿ"
+
+ EDG_HSA_mission_1_11_title:0 "sY‹s…S"
+ EDG_HSA_mission_1_11_desc:0 "Áˆ³Q‰‹NN¡rtTßvN=fŽrUS„v‹NÅ`0ùRdkbìN”^å‹•beQDÑ‘RËzN*N-N.YÕl­^ÿåNdkegYtIl(„TßvÊSvQ Rßv¦„våe8^‹N¡R0"
+
+ EDG_HSA_mission_1_13_title:0 "LˆOcwßRXT"
+ EDG_HSA_mission_1_13_desc:0 "(WƒXYCNóhQ'k2m¾‹nFUhêS=fb`YbìNðX‰Š„v,rNek0bìN—‰(WÙ›N0W¹e>mc5ºNNcwßRXTùRvQÛLˆÑvcwÿåNÝOÁ‹‰šYFUh„vck8^åTjO0"
+ EDG_HSA_mission_1_13.effect.tt:0 "Nb	g§TIl(„Tßv§!bXTýO·ƒ—V§YøvTVY±R§!\n"
+
+ EDG_HSA_mission_1_15_title:0 "Swm8fCg"
+ EDG_HSA_mission_1_15_desc:0 ""
+
+ EDG_HSA_mission_2_2_title:0 "6eY…h&OKQ!X"
+ EDG_HSA_mission_2_2_desc:0 "•ENåNeg…hKQ&O!X0W:S«ˆT*Nø‹¯ONbÜtRÿ:N†NÝOÁ‹bìNêñT‰RhQv^ÓbUSIl(„Tßv„vqVÍT›RÿbìNÅV‰˜`S†˜ÎW^Nè„vÙ›Nwm¸S0W&^0"
+ EDG_HSA_mission_2_2.effect.tt:0 "‚YœgbìNòTÏuŒRb†NûN¡R§T0¨cLˆTKQÕlxQ0§!ÿR(WÏk*NMOŽN§Y…hKQ&O!X§!:SßW…Q„vwýN·ƒ—VôfY§YžXÊv§!\n"
+
+ EDG_HSA_mission_2_3_title:0 "z˜Nwwm¸S¿u"
+ EDG_HSA_mission_2_3_desc:0 "¿lNwâlŽÉb<SšN„vwm¸Sÿ¸‹YíT-fW„„vÁy cwýŒb0R†N¹R³uÖNìN^—ÕlIm¨R„vÎ˜=n0bìNNýw©‹Ù›N³Rk†çuíuzŠâlW„vwmeg c:YbìNegKNNf„v0ÌR0"
+ EDG_HSA_mission_2_3.effect.tt:0 "‚Yœg§YŒRbûN¡R§!öebìN(W§YTKQ§!8f‚‚¹p…QóS	g§Y50%§!„v§T8fÞz‰N›R§!ÿRNðîOckØS:N§T8lENîOck§!\n"
+ EDG_HSA_mission_2_3.add_modifier.effect.tt:0 "‚YœgbìNÇY²NKbµk§YŒRbûN¡R§!öeÿwýN§Y[47.GetName]§!N§Y[1858.GetName]§!GW·ƒ—VîOck§Y0§TIl(„Tßv§!FU8Ùz0§!\n"
+
+ EDG_HSA_mission_1_5_title:0 "‰RhQÝOœ–"
+ EDG_HSA_mission_1_5_desc:0 "Il(„Tßv°s(WØNY:V'YÿbìNÅV‰˜ûRŒb0RïS`—„vßvËSv^ÓbUSIl(„Tßv„vÎW^ÿÙ7hMbýwYÝO²bte*NTßv„v‰RhQ—V0R	gHeÝOœ–0"
+ EDG_HSA_mission_1_5.effect.tt:0 "Ïk*N§TIl(„ÎW^§!SÐc›O˜Y§G5%§!§Y9e„UsQû|He‡s§!\n"
+
+ EDG_HSA_mission_2_8_title:0 ".9‚åTO"
+ EDG_HSA_mission_2_8_desc:0 "=fÀNHN©‹bìN„vÍk=nb:NhQS'kgW„T„v.9‚KNaNÿSV6q=fbìN„v.9‚‚S0Ø	gÀNHNÔk•bD.9‚åTNôfýw(ueg´‹LkbìNNN„v.9‚Žb=gNìryr„v9‚êS¾‹¡‹bTÿ"
+
+ EDG_HSA_mission_2_10_title:0 "hQ°e8fSOû|"
+ EDG_HSA_mission_2_10_desc:0 "©‹bìNùRNb	g¡l	gÖvNIl(„TßvpSàz„vÞz‰NFUºNËe RÄ‰RŒTag‹Oÿv^ô•¥cžX RbìNFUºN„vžR›R0"
+
+ EDG_HSA_mission_1_12_title:0 "ìSÆ–Il(„®‹O"
+ EDG_HSA_mission_1_12_desc:0 "(WIl(„Tßv„vŸÛvöegÿƒR(W·Va×VŒTâlW„vwm0W:Såb	gpeåNŒv¡‹„vFUâV0LˆONbXTÿvQbXTgÜïS0R¾ú‹+YåTW·VN&Ofe0‹†6qbìN„vÎ˜IQòTÏuNöeNQÿFObìNÅV‰˜ôucNÐcØšbìN„vLˆ?eHe‡sÿObìNTßv„vbXTËYÈuÝOc•N6q	g^0"
+ EDG_HSA_mission_1_12.effect.tt:0 "9hncûN¡R§YŒRb¹eV§!ÙuˆN§GNTVY±R§!\n"
+ EDG_HSA_mission_1_12.subject.effect.tt:0 "Nb	g§TIl(„Tßv§!bXTýO·ƒ—V§Y100§!£adm£v^ùRbìNÐcGS§G50§!‹Ya¦^\n"
+
+ EDG_HSA_mission_1_14_title:0 "ƒlSN!XŒT¦u"
+ EDG_HSA_mission_1_14_desc:0 "9N¦žýV‹s(W1435t^«ˆëS^:W„v„W­eCg²NÙu†NegêTKQ„v·Va×VFUºN0Í‘3uÙ›Nag¦uS=ffzfKN>NÿFO=fSV6q‰åNbìN²‹:NT„v¹eV0"
+ EDG_HSA_mission_1_14.effect.tt:0 "9hncûN¡R§YŒRb¹eV§!ÙuˆN§GNTVY±R§!\n"
+
+ EDG_HSA_mission_2_15_title:0 "nxÝOTKQ"
+ EDG_HSA_mission_2_15_desc:0 ""
+
+ EDG_HSA_mission_4_2_title:0 "6eYôu¯eÔk"
+ EDG_HSA_mission_4_2_desc:0 "åT—VpQ›SÿŸSTôu¯eÔkÿÇ»SPWK„NwIl(„TßvÍ‘‰„vžR‹NY0Í‘°e±RðyÙGrW0WSùRbìN(WâlW„vwm„v8fÞz‰N›RµNuïygqVÍT0"
+ EDG_HSA_mission_4_2.efffect.tt:0 "SV@GOT§Y[GOT.GetName]§!XR(WN(WbìN„v§T8fTwßv-N§!öeÿSOæ‰ÑS‹NöN§T0ôu¯eÔk„vIl(„ÎWG•0§!\n"
+
+ EDG_HSA_mission_4_3_title:0 "¥c6eFOýl=nãS"
+ EDG_HSA_mission_4_3_desc:0 "FOýlb¸‹=fâlW„vwmNègÍ‘‰„vÎW^0býV„vFUºNþf(WvQö”Lˆ-Nåb	gwmÏ‘„v0ÌRÿ(W±Ì‘Í‘°eÙz3zß¯wšRO9e„UbìN„v0?e¶rµQ0"
+ EDG_HSA_mission_4_3.effect.tt:0 "SV@DNZ§Y[DNZ.GetName]§!NXR(WN(WbìNåb	gwýN§Y[43.GetName]§!öeÿSOæ‰ÑS‹NöN§T0FOýl„vnfœëXTwßv0§!\n"
+
+ EDG_HSA_mission_5_5_title:0 "ÝOœ–‰RhQ"
+ EDG_HSA_mission_5_5_desc:0 "‚Yœgô‹Y²N=fbìN„v‰RhQÝOœ–ÿ±HN=UNýwYÝOœ–b¡l‰RhQ„vêSiRNbìNêñT„v›Q–†N0"
+
+ EDG_HSA_mission_4_8_title:0 "ÜmKN^"
+ EDG_HSA_mission_4_8_desc:0 ""
+
+ EDG_HSA_mission_4_10_title:0 "SŽyr¸‹8f:S"
+ EDG_HSA_mission_4_10_desc:0 "'Y‰måNY„vW0Wt…Ï…Nw¸‹YFUNŒTÈv)R„v:gOÿbìNÅV‰˜KSïSýw0W»S¢c0t0Øu6R0WþVŒT)R(uƒRÿåNÛNekžX RbìNÎN°e‡efŒTVýV'ir-N·ƒ—V„v)R¦m0"
+
+ EDG_HSA_mission_5_12_title:0 "LˆO‡D"
+ EDG_HSA_mission_5_12_desc:0 "TKQLˆO=fbìNÏuNm„v‹T	0bìNÅV‰˜ZPúQÅV‰„vŒteÿåNnxÝOƒRìN(Wte*N8fTwßv-N«N	gN^S„vD©R0"
+ EDG_HSA_mission_5_12.effect.tt:0 "Nb	g§TIl(„Tßv§!bXTýO·ƒ—V§YøvTVY±R§!\n"
+
+ EDG_HSA_mission_5_14_title:0 "±œ|œÁ™V"
+ EDG_HSA_mission_5_14_desc:0 "‹NžRòTÏuÁ‹f†–·V„v|œ‰|^:WùRbìN„v^txQ»ESwŠ=f	g)RïSþV„v0ú^ËzN*N‰|<O„vè„SÒRwmáS2N¸S„v^:WNšRO&^egôfØš„v)RÊvÿ"
+ EDG_HSA_mission_5_14.effect.tt:0 "9hncûN¡R§YŒRb¹eV§!ÙuˆN§GNTVY±R§!\n"
+
+ EDG_HSA_mission_4_15_title:0 "V†˜âlW„v"
+ EDG_HSA_mission_4_15_desc:0 ""
+
+ EDG_HSA_mission_5_2_title:0 "N¹eè•7b"
+ EDG_HSA_mission_5_2_desc:0 "Ì‘ RÎWNôvåNegý=fbìN„vTjOO4O0©‹bìNåNûNUOTt„vKbµk R:VbìN„vTwû|v^ibUSbìN(WâlW„vwm„vqVÍTƒôV0"
+ EDG_HSA_mission_5_2.opinion.tt:0 "SV@RIG§Y[RIG.GetName]§!ùRbìN	góS§Y125§!‹Yaöeÿ@RIG§Y[RIG.GetName]§!Sb:NbìN„v§TIl(„ÎW^§!\n"
+ EDG_HSA_mission_5_2.effect.tt:0 "SV@RIG§Y[RIG.GetName]§!XR(WNYŽNbìN„v§T8fTwßv§!öeÿbìNS·ƒ—V§T˜YVY±R§!\n"
+
+ EDG_HSA_mission_5_4_title:0 "1W|V—V—+Y8fÙz"
+ EDG_HSA_mission_5_4_desc:0 "(WS'k„vwmmNôuc8f8—CgN=föN¹Rf„v‹N0ú‹+YåTW·V„v¡rtºNìNþfN¦^(WbìN:V'Y„vqVÍT›Rb—MRNO4YÿmN¸‹bìN—‰Ðc’‘ÖNìNNN:NÀNHN—‰SÍ‘bìN0"
+ EDG_HSA_mission_5_4.event.effect.tt:0 "SVbìNÇ§TÓußv§!§Y[310.GetName]§!wýN§YNb	gw§!ŒRbûN¡RöeÿSOæ‰ÑS‹NöN§T0ú‹+YåTW·V8fÙz0§!\n"
+ EDG_HSA_mission_5_4.effect.tt:0 "Nb	g§TIl(„Tßv§!bXTýO·ƒ—V§YøvTVY±R§!ÿv^(WvQ–™ýžX R§Y1§!–:g§TÑSUS¦^§!\n"
+
+ EDG_HSA_mission_4_6_title:0 "RNªg"
+ EDG_HSA_mission_4_6_desc:0 "–NwöeãN„vÛekÿb‰NbV¿RmN(WN­e„vØSSÿbìNÅV‰˜ßNekOÿOSbìN„v›Q‹NtõV0"
+ EDG_HSA_plutocracy_ideas_modifier.tt:0 "ŒRb§Y0–§!tõVSObìN·ƒ—V‚YNîOck"
+ EDG_HSA_offensive_ideas_modifier.tt:0 "ŒRb§YÛIe§!tõVSObìN·ƒ—V‚YNîOck"
+ EDG_HSA_defensive_ideas_modifier.tt:0 "ŒRb§Y2–ˆR§!tõVSObìN·ƒ—V‚YNîOck"
+ EDG_HSA_quality_ideas_modifier.tt:0 "ŒRb§Y(Ï‘§!tõVSObìN·ƒ—V‚YNîOck"
+ EDG_HSA_mercenary_ideas_modifier.tt:0 "ŒRb§YcOuQ§!tõVSObìN·ƒ—V‚YNîOck"
+
+ EDG_HSA_mission_5_7_title:0 "²b*‚–"
+ EDG_HSA_mission_5_7_desc:0 "wmmµc6RCgÅV‰˜brbrŒcµc(WIl(„wm›QèKb-N0‚YœgýwYibN=eôf:N:V'Y„vwm›Qv^Nibú^TKQ›Q=nÿ±HNbìNS8TVôf RÄ–Mb'Yeu„vÐccweg†˜üRbìN„v0‚–0"
+
+ EDG_HSA_mission_5_9_title:0 "†˜*‚0‚–"
+ EDG_HSA_mission_5_9_desc:0 "*‚wmÝu^—f‹N0:N†NnxÝObìN„v9‚êSN'irKSïSýw‰RhQÿbìNÅV‰˜ùW‰Qôf:N¾|o‚„vwm›QS†˜N9‚•ÿsSTKQ0†˜*‚˜R0ÿeg:NbìN„v9‚êScV*‚¿uÿv^SƒRìNŒR‹Yàemc0WÐ`—¸S0"
+
+ EDG_HSA_mission_5_11_title:0 "TKQKNpž"
+ EDG_HSA_mission_5_11_desc:0 "©‹NX‚èT‹W„v×e0‚:NbìN„vwm›QSb4Y5–'TÿÙ7h¿OýwObìN„vÞz‰NwNLeºNÆwbÃVÊ`0=föeP±R^bìN„vwm›Q8—Cg†Nÿ"
+
+ EDG_HSA_mission_5_13_title:0 "ÿwµN8f"
+ EDG_HSA_mission_5_13_desc:0 "'k2mm×S†N5Ñ‘^Síw:„vSbûQ0ÄžÑ‘ŒT‹vö”„v:ONüRô†NSìbbìN(W…Q„v¸‹YÌRFU„vpˆK„0:N†Nã‰ÙNNSb—ÿbìNÅV‰˜N±›NýwY(W'k2m·ƒ—V÷N<PNòƒ„výV¶RÓußvÿTNÙybÿwµN:NbìNNb(uÿb=f.^©RŒb0R°e„v¹eÕl.^©Rb¯eÉbSÿ©‹wÿwqSb`Yu:g0"
+ EDG_HSA_mission_5_13.condition.tt:0 "ÅV‰˜án³åNNagöNKNNÿ\nÿåb	gN*N‹Ya¦^óS:N§Y150§!Nåb	g§YÑ‘ÿw§!wýN„vßvËS\nÿåb	gN*N§Y5§!úWNxuµN„v§YÑ‘ÿw§!wýN\nÿ§Y[4742.GetName]§!„våb	gwùRbìNóS	g§Y150§!‹Ya¦^ÿN=f§TIl(„Tßv§!bXTbNKNÓußv"
+ EDG_HSA_mission_5_13.effect.tt:0 "9hncûN¡R§YŒRb¹eV§!ÙuˆN§GNTVY±R§!\n"
+
+ EDG_HSA_mission_5_15_title:0 "NèúQwmãS"
+ EDG_HSA_mission_5_15_desc:0 ""
+
+

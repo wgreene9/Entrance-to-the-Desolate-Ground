@@ -1,0 +1,48 @@
+bookmark =
+{
+	name = "EDG_BOOKMARK_Innovativeness_1"
+	desc = "EDG_BOOKMARK_Innovativeness_1_DESC"
+	date = 1444.11.11
+	
+	#传统
+	country = VOL
+	country = ZAZ
+	country = SWE
+	country = AKK
+	country = CDC
+	country = LER
+	country = MLO
+	country = PIT
+	country = TEU
+	country = VEN
+	country = LIT
+	country = H07
+
+	# #中等
+	# country = BUL
+	# country = MRK
+	# country = ARL
+	# country = SCO
+	# country = TVE
+	# country = CBI
+	# country = ASU
+	# country = SAX
+	# country = ETH
+	# country = BRA
+	# country = SMI
+
+	# #较新
+	# country = RIG
+	# country = BDH
+	# country = FRA
+	# country = WUR
+	# country = AEL
+	# country = SMO
+	# country = CAT
+	# country = HSA
+	# country = GOT
+	# country = SWI
+	# country = GEN
+	# country = WAL
+	
+}

@@ -1,0 +1,98 @@
+﻿l_english:
+    EDG_issues_only_once_tooltip:0 "å‹ÕlHhêSýwÇN!k"
+
+    EDG_Breda_Declaration_issues_1:0 "ê1uININÕlHh"
+    EDG_Breda_Declaration_issues_2:0 "Í‘FUININÕlHh"
+
+    EDG_Breda_Declaration_issues_1_desc:0 "bìNSçuíuIYLˆê1uININÿØž¸‹DµN6–µuÑSUSîX'Yv^ú^¾‹bìN„vÏuNm0"
+    EDG_Breda_Declaration_issues_2_desc:0 "Í‘FUININ=f‰'kSú^6R¦^TD,gININ6R¦^Ç!nöegÿ×S0RnfM¨cT„vNÍyÏuNmòTfR0"
+
+
+    EDG_SCO_mission_issues_1:0 "ibEQ¢gÆRb–ÕlHh"
+    unlock_issue_EDG_SCO_mission_issues_1_tt:0 "ã‰•§YibEQ¢gÆRb–ÕlHh§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_1_tt:0 "òT˜^®‹O®‹Hh§YibEQ¢gÆRb–ÕlHh§!"
+    EDG_SCO_mission_issues_1_desc:0 "¢gÆRb–=fÍ‘‰„vCg›R:gsQÿ(WýV¶R»lt-NÑS%cNwósQÍ‘‰„vjO(uÿibEQ¢gÆRb–ïSåN.^©RbìN R:VýV¶R„v»lt4ls^0"
+
+    EDG_SCO_mission_issues_2:0 "ib'YýV¶Rwm›Qè"
+    unlock_issue_EDG_SCO_mission_issues_2_tt:0 "ã‰•§Yib'YýV¶Rwm›Qè§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_2_tt:0 "ã‰•§Yib'YýV¶Rwm›Qè§!"
+    EDG_SCO_mission_issues_2_desc:0 "bìNSib'YbìN„výV¶Rwm›QèÿÐcGSbìN„vwm›Q›RÏ‘0"
+
+    EDG_SCO_mission_issues_3:0 "ib'Ywm›Q›Q!h"
+    unlock_issue_EDG_SCO_mission_issues_3_tt:0 "ã‰•§Yib'Ywm›Q›Q!h§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_3_tt:0 "ã‰•§Yib'Ywm›Q›Q!h§!"
+    EDG_SCO_mission_issues_3_desc:0 "bìNSib'YbìN„vwm›Q›Q!hÿÐcGSbìN„vwm›Q›RÏ‘0"
+
+    EDG_SCO_mission_issues_4:0 " R:Vwm›Q›Q˜RùW‰Q"
+    unlock_issue_EDG_SCO_mission_issues_4_tt:0 "ã‰•§Y R:Vwm›Q›Q˜RùW‰Q§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_4_tt:0 "òT˜^®‹O®‹Hh§Y R:Vwm›Q›Q˜RùW‰Q§!"
+    EDG_SCO_mission_issues_4_desc:0 " R:VùRwm›Q›Q˜R„vùW‰QïSåNÐcGSbìN„vwm›Q›RÏ‘0"
+
+    EDG_SCO_mission_issues_5:0 "9e„U.9‚Žb=g"
+    unlock_issue_EDG_SCO_mission_issues_5_tt:0 "ã‰•§Y9e„U.9‚Žb=g§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_5_tt:0 "òT˜^®‹O®‹Hh§Y9e„U.9‚Žb=g§!"
+    EDG_SCO_mission_issues_5_desc:0 "bìNS9eÛ9‚êSú^.„vŽb=gÿ©‹bìN„v0‚–ôf:NŒRŽ0"
+
+    EDG_SCO_mission_issues_6:0 "0‚–8fÝO²b"
+    unlock_issue_EDG_SCO_mission_issues_6_tt:0 "ã‰•§Y0‚–8fÝO²b§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_6_tt:0 "òT˜^®‹O®‹Hh§Y0‚–8fÝO²b§!"
+    EDG_SCO_mission_issues_6_desc:0 "bìN„v0‚–SùR,gýVFUºN„v8fLˆ:NÛLˆÝO²b0"
+
+    EDG_SCO_mission_issues_7:0 "Áy cÕlHh"
+    unlock_issue_EDG_SCO_mission_issues_7_tt:0 "ã‰•§YÁy cÕlHh§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_7_tt:0 "òT˜^®‹O®‹Hh§YÁy cÕlHh§!"
+    EDG_SCO_mission_issues_7_desc:0 "ýV‹s„vÅuëX’Qi–¶RSOôu²bbìN„v)RÊv0"
+
+    EDG_SCO_mission_issues_8:0 "wm›Q%m4ÕlHh"
+    unlock_issue_EDG_SCO_mission_issues_8_tt:0 "ã‰•§Ywm›Q%m4ÕlHh§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_8_tt:0 "òT˜^®‹O®‹Hh§Ywm›Q%m4ÕlHh§!"
+    EDG_SCO_mission_issues_8_desc:0 "bìNS:NOÀy„vwm›QëXuQÑS>e˜Y„v%m4ÿÐcGSÖNìN„vb—eípÅ`0"
+
+    EDG_SCO_mission_issues_9:0 "(g™Xeˆ4ÕlHh"
+    unlock_issue_EDG_SCO_mission_issues_9_tt:0 "ã‰•§Y(g™Xeˆ4ÕlHh§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_9_tt:0 "òT˜^®‹O®‹Hh§Y(g™Xeˆ4ÕlHh§!"
+    EDG_SCO_mission_issues_9_desc:0 "bìNSÇ‘(uôf:NO(„vPg™eSb.bìN„v0‚–0"
+
+    EDG_SCO_mission_issues_10:0 "wm›QF–b–yr­‹ÕlHh"
+    unlock_issue_EDG_SCO_mission_issues_10_tt:0 "ã‰•§Ywm›QF–b–yr­‹ÕlHh§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_10_tt:0 "òT˜^®‹O®‹Hh§Ywm›QF–b–yr­‹ÕlHh§!"
+    EDG_SCO_mission_issues_10_desc:0 "bìNS:Nwm›QF–b–USV R:V­‹Ãuÿ©‹ÖNìNb:NbìN„v¾|ñ‚è–0"
+
+    EDG_SCO_mission_issues_11:0 "±Rlb'YïQSyrININ"
+    unlock_issue_EDG_SCO_mission_issues_11_tt:0 "ã‰•§Y±Rlb'YïQSyrININ§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_11_tt:0 "òT˜^®‹O®‹Hh§Y±Rlb'YïQSyrININ§!"
+    EDG_SCO_mission_issues_11_desc:0 "bìNS(WýV…Q±Rlb'YïQSyrININ0"
+
+    EDG_SCO_mission_issues_12:0 "ã‰d–pS7RN·g•"
+has_EDG_SCO_mission_issues_12_country_flag:0 "òT˜^®‹O®‹Hh§Yã‰d–pS7RN·g•§!"
+    unlock_issue_EDG_SCO_mission_issues_12_tt:0 "ã‰•§Yã‰d–pS7RN·g•§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_12_tt:0 "òT˜^®‹O®‹Hh§Yã‰d–pS7RN·g•§!"
+    EDG_SCO_mission_issues_12_desc:0 "bìNSÏQSùRpS7RLˆN„vmgNP–6Rÿ¨cÛýV…Q„v`ó`ê1u0"
+
+    EDG_SCO_mission_issues_13:0 "ÇÝOÊ‘ÕlHh"
+has_EDG_SCO_mission_issues_13_country_flag:0 "òT˜^®‹O®‹Hh§YÇÝOÊ‘ÕlHh§!"
+    unlock_issue_EDG_SCO_mission_issues_13_tt:0 "ã‰•§YÇÝOÊ‘ÕlHh§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_13_tt:0 "òT˜^®‹O®‹Hh§YÇÝOÊ‘ÕlHh§!"
+    EDG_SCO_mission_issues_13_desc:0 "bìNS(W¨c¨RøSÕl†˜ßWàej¨cšRŸSR0ÝOÊ‘6R¦^Ir¹eb—ÑS%cïygjO(uÿú^ËzNWYŒR„U„vÕl‹Vôc©RSOû|ŒTÝOÊ‘6R¦^0"
+
+    EDG_SCO_mission_issues_14:0 "ú^Ëz‡v¶R¹uàzb–"
+has_EDG_SCO_mission_issues_14_country_flag:0 "òT˜^®‹O®‹Hh§Yú^Ëz‡v¶R¹uàzb–§!"
+    unlock_issue_EDG_SCO_mission_issues_14_tt:0 "ã‰•§Yú^Ëz‡v¶R¹uàzb–§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_14_tt:0 "òT˜^®‹O®‹Hh§Yú^Ëz‡v¶R¹uàzb–§!"
+    EDG_SCO_mission_issues_14_desc:0 "VËYöeÿ¹uàz˜R‰|<OOD–ŽN5ÏeKNtYÆNÿ0WMOøvSVŽNT›=g^ÊST8n×‹ºN0Teg«ˆSVbÔkfkON„vøSêNÿ±R^Ôkfky˜îvÊS‘šëXTUS0:NÆ‹+R‘šëXÿÅV‰˜ùRþvLrNKNþv¹u	gNb†Nã‰ÊS²‹Æ‹ÿàVwµNu†N¹uàzz‚=g„våwÆ‹ŒTŽbýw013Nªuöeÿ¹uàz˜RIN‰„våTjO=fYt5Ïe‹N¡R00R†N14Nªuÿ¹uàz˜RKNCg›R	gNbib'Y0"
+
+    EDG_SCO_mission_issues_15:0 "¨cLˆYe²wÐ¨R"
+has_EDG_SCO_mission_issues_15_country_flag:0 "òT˜^®‹O®‹Hh§Y¨cLˆYe²wÐ¨R§!"
+    unlock_issue_EDG_SCO_mission_issues_15_tt:0 "ã‰•§Y¨cLˆYe²wÐ¨R§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_15_tt:0 "òT˜^®‹O®‹Hh§Y¨cLˆYe²wÐ¨R§!"
+    EDG_SCO_mission_issues_15_desc:0 "bìNS¨cLˆYe²wÐ¨RÿÝOÁ‹ÑyŽbŒT`ó`„vÑS¾0"
+
+    EDG_SCO_mission_issues_16:0 ":N‡v¶RÑyfRb–èb>k"
+    unlock_issue_EDG_SCO_mission_issues_16_tt:0 "ã‰•§Y:N‡v¶RÑyfRb–èb>k§!®‹˜˜"
+    has_enacted_EDG_SCO_mission_issues_16_tt:0 "òT˜^®‹O®‹Hh§Y:N‡v¶RÑyfRb–èb>k§!"
+    EDG_SCO_mission_issues_16_desc:0 "bìNSib'Y:N‡v¶RÑyfRb–Ðc›O„vèb>k0"
+
+
+
+
+

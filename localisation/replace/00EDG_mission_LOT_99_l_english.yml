@@ -1,0 +1,134 @@
+﻿l_english:
+ LOT_balance_of_power_title:0 "'Yyr¸‹¶r"
+ LOT_balance_of_power_desc:0 "[Root.GetName]=f[Root.GetName]ýV¶R„vÍ‘‰èRÿàeº‹=fFUNØ=f–kl‹NNÿ[Root.GetName]ý»yNV[Root.GetName]ºN„v=ecÿÇ˜^'Yyr¸‹¶rÿ[Root.GetName]S·ƒ—V[Root.GetName]ºN„vàVÚ‹0"
+
+ LOT_flanders_title:0 "(WiOpQ·Vb:W"
+ LOT_flanders_desc:0 "›RÏ‘0âVÓuNqQTtó`„gb†NS[Root.GetName]ºNlTwÓu(WNw„vN›NÁT(0[Root.GetName]—e‰NåNÓbUS[Root.GetName]„v†˜Wÿ[Root.GetName]„vNNekSQRciOpQ·V0"
+ LOT_luxembourg_fortress_title:0 "bSîh!XZSKQ‰^X"
+ LOT_luxembourg_fortress_desc:0 "‹†6qbýVNb(W„v0W:S'YY=fs^0Wb=f¼lýlÿFO[Root.GetName]>f6qmN—‰2–¡V¾‹Ëe0¡lÀNHNÔkNµ^ú^Ëz(W[94.GetName]„vÄ–O‰^XôfT†N0"
+ LOT_dutch_polders_title:0 "D©RôVwm.0u"
+ LOT_dutch_polders_desc:0 "KS¡rwmmÇ8fŒT'^:N[Root.GetName]Ðc›O†NDnÿFO>fwfÁ‰„v=fÿ:N†NnxÝO[Root.GetName]„vºNl	gôfY„vuXRzzô•ÿ[Root.GetName]ÅV‰˜ÎNwmmKb-N:YÖSôfYDn0"
+ LOT_low_countries_urbanization_title:0 "D©RNO0Wý^"
+ LOT_low_countries_urbanization_desc:0 "ºN‰|„vÛekN”^àVHQˆìN„vú^Qr:w–w×S0RI–xbjPÞnNMR0:Ndkÿ©‹[Root.GetName]ú^.ŒTibú^ÎW^-NÃVÿåNán³åeÊvžX•„vFUÁTŒTESOO—Bl0"
+ LOT_fluyts_title:0 "y„yyr'9‚"
+ LOT_fluyts_desc:0 "jO:NN*NuIm(Wwm¹„vlÏeÿ[Root.GetName]ÅV‰˜çuíuèxÃuêñTÿŒcác¯sÕu[Root.GetName]wm¸S„v4lAmŒTnownoK„0"
+ LOT_sea_beggars_title:0 "©‹wmN:N[Root.GetName]g¡R"
+ LOT_sea_beggars_desc:0 "(Wb‰Nöegÿ2SvQ=fb—ùRôf:V'Y„vLeºNöeÿ[Root.GetName]ÅV‰˜)R(uNRïSåN)R(u„vºNåNÖSÜwÿàeº‹ÖNìN„vS·V•^¿u‚YUO08^OÙu[Root.GetName]&^eg»žæp„vTÍyÁy c9‚–ÿ°s(WòTÏuÆQY1Sêuÿ–öeïSåNT[Root.GetName]„vLeºNÑS¨RIeûQ0"
+ LOT_organizing_the_church_title:0 "Í‘Äu^yLwºNXT"
+ LOT_organizing_the_church_desc:0 "YeëXŒT—RYeºNëX÷meQ«R÷^‹N¡R=fN*NgqSi–„vHQ‹O0[Root.GetName]ÅV‰˜nd–ÖNìN-N„vP%RPRÿnxÝOÖNìN„vàVÚ‹0"
+ LOT_religious_immigrants_title:0 "ûylno"
+ LOT_religious_immigrants_desc:0 "—RYe9ei—üRô¸‹Y—RYeâVSOÌw•N»yaNÿûRŒb°e„vW0W0[Root.GetName]Sb:Nê1u„vopTXÿ©‹ÏkN*N«ˆë»yV¶RíV„vºNýýw(W[Root.GetName]„vW0WNŒb0Rôf‹Y„vuIm0"
+ LOT_carribean_colonies_title:0 "m^S RÒRÔk"
+ LOT_carribean_colonies_desc:0 " RÒRÔkwm	g¸‹Y…Ö|ÍyiíVÿýˆVÌRÕˆÿt”^b:N[Root.GetName]„vÊV-NKNir0©‹[Root.GetName]lb^w*‚ÿåNýV¶R„vTIN–klÙ›NW0W0"
+ LOT_guyana_title:0 " Rm—g‹sg(W-WšN±"
+ LOT_guyana_desc:0 "[Root.GetName]„vwm›QŒTûylàeÕlÛeQWSŽ2m0Ç(W-WšN±ú^ËzêñT„vúW0Wÿ[Root.GetName]SýwY:NSeg(WôT‰„vŒRYu	gYO0WÿNº‹ŒR=f'Y=fS0"
+ LOT_raise_the_militia_title:0 "Äuú^luQ"
+ LOT_raise_the_militia_desc:0 "[Root.GetName](WÃRn‚,r×e^NuIm†N*YEN0=föeP©‹[Root.GetName]„vºNlÙzwegÿŒcácêñT„v‹TÐ†N0"
+ LOT_holland_title:0 "ßuNwƒpQ"
+ LOT_holland_desc:0 "NO0WýV¶R„v-NÃV0W&^åb	g0NÌR„v8fŒT0ÌR0SvQ³ueQ[Root.GetName]„v†˜0WýwYÛNekžX:V[Root.GetName](Wå‹0W:S„vqVÍT›RŒT0WMO0"
+ LOT_unification_of_low_countries_title:0 "ZWcNÈa"
+ LOT_unification_of_low_countries_desc:0 "ùR±›Nó`‰2O³R[Root.GetName]ºNlb=f:V`S[Root.GetName]W0W„vLeºNÑSwÛIe„vöe:g0R†N0[Root.GetName]8lN:NtYÿ"
+ LOT_cloth_trading_title:0 "D©RºuÇuLˆN"
+ LOT_cloth_trading_desc:0 "M^NO0WTw„våTJWÿåNvQuµN„v^™eŒTN¿u„v(Ï‘wû•T0YÍyŽb=gÿåNÊS,g0WåT.S„vNNåwÆ‹ÿR.†NhQ'k2mNbåwgOo‚„vgÅˆ0"
+ LOT_dutch_canal_works_title:0 "D©R2XkWåTz"
+ LOT_dutch_canal_works_desc:0 ":VúV„våTzŒTZWúV„vú^PgÿO[Root.GetName]QrwÓužR„v2XkWv^Œcµc†N4l0"
+ LOT_rise_of_dutch_navy_title:0 "ú^ËzTwwwm›Q"
+ LOT_rise_of_dutch_navy_desc:0 "jO:NN*N`SncNw'k2mg:N	g)RïSþV„vwm¸S„výV¶Rÿ>f6q[Root.GetName]„v=nãSÅV‰˜åb	gN=eg:V'Y„vwm›Q0"
+ LOT_dutch_admiralities_title:0 "[Root.GetName]”N'Ywm›Qè"
+ LOT_dutch_admiralities_desc:0 "¡rtwmm‹N¡RŒTnxÝO[Root.GetName]„vwm›Qåb	ggOÀy„vºNMbÿ=fbýVËe?e„vSV¡RKN%`0"
+ LOT_amsterdam_stock_exchange_title:0 "?–ÆY¯eyr9NÁ‹8R²NfNb"
+ LOT_amsterdam_stock_exchange_desc:0 "Ñ‘±”0áO(uŒTwmY8f8^8^(WbýV„v…SXKN-NŒm¨R0:N†Nôf‹Y0W=ecbýV„vÑ‘‡‹N¡RŒTib.VÿÅV‰˜Ðc›OÅV‰„v¾‹Ëe0"
+ LOT_dutch_naval_supremacy_title:0 "[Root.GetName]wm›Q8—Cg"
+ LOT_dutch_naval_supremacy_desc:0 "Yt^åNegÿ[Root.GetName]þfb—ùRÇ¸‹Y:V'Y„vLeºN06qwÿàeºNïSåNùR—b[Root.GetName]Ù›Nþf(W'YwmNVg†Ng.OGY„vLeºN„vwmNÄ–îr0"
+ LOT_humanism_title:0 "[Root.GetName]ºN‡eININ"
+ LOT_humanism_desc:0 "<ONNYpe'k2mýV¶RýS^y„vYeò‹IY:N-Wì0[Root.GetName]v^^—dk‰|0[Root.GetName]j`ˆRNwNÍy«ˆðyKN:NºN‡eININNÍys^IrSÍ‘Nb	g:NýVIY.s„vºN„v°euYeò‹V†uÓbW0PbýVKN'YINÿSÙ*NtõV.OMÛV¹eÿ"
+ LOT_erasmus_title:0 "OÉb¯eŒ„vYeò‹"
+ LOT_erasmus_desc:0 "žyr9N„vOÉb¯eŒsQŽNºN‡eININ„vYeüRVÑS†NNO0WýV¶R„vØSi—ÿùRÞVRVäSxQfRî•0yb2R'``ôuåNÊSìrËzêIN„v¨cT0ÖN„vqVÍTVÑS†NåwÆ‹„vYtQÿÛwO>yOTNwVf0S¹R„v¹eTÑSUSÿYe²wmNQ!k—V0R0OÉb¯eŒ„vWµN(WÖN«ŽTÍN(WùRÙGr0W:SåwÆ‹RPR„vÑSUSµNuNw²QûQÿVwqQ1žåNÊS‡eSi—°e0"
+ LOT_west_indies_company_title:0 "‰pS¦^lQøS"
+ LOT_west_indies_company_desc:0 "N›NÇRbe„v–klwòTÏu(WŽ2mNb9h0KS¡rÖNìN¡lÀNHNÄuÇuÿFOÖNìNÍN=f[Root.GetName]„vNèR0Çú^Ëz‰pS¦^lQøS[Root.GetName]ïSåNôf	gHe‡s0W¡r–ÖNìN0"
+ LOT_new_amsterdam_title:0 "°ešNt"
+ LOT_new_amsterdam_desc:0 "MOŽNŽ2mNwm¸S„vÈT·V³lãS=fN*Nú^Ëz°e–kl0W„v‹Y0W¹eÿ[Root.GetName]SðyvQ0°ešNt0ÿíQPdk0Wÿ[Root.GetName]SýwÞŽ2mNwm¸SvQYO0W:S0"
+ LOT_grand_design_title:0 "[Root.GetName]„vR'Y¡‹R"
+ LOT_grand_design_desc:0 "‚Yœg‰(WáRNLeO„v¶rµQNb—Vb‰Nÿ1SÅV‰˜R­eLeºN„v0ÌRegnÿÖNìN„v8f¿uï0Ç`SncôT‰ŒTaŒYrwm¸SÿbýVïSåNµc6RNRAmeQ'k2m„vÑ‘±”ŒT8f0"
+ LOT_dutch_slavery_title:0 "tY¶–6R„v‰Nº‹"
+ LOT_dutch_slavery_desc:0 "àQŒvt^egÿtY¶–6RþfåNTÍyNT„vbVVúQ°s0–NwºNCgtó`„vµNuÿ¸‹YºN|TTŸ^d–tY¶–6R0[Root.GetName]ÅV‰˜ã‰³QtY¶–6RXRŸ^„v‰Nº‹0"
+ LOT_japan_title:0 "åe,g8f"
+ LOT_japan_desc:0 "åe,gýVêÝuŽNNLuÿêS	g[Root.GetName]d–Y0àVdkÿ[Root.GetName]ÅV‰˜nxÝO R:VNÙ*N›SýV„v8f0"
+ LOT_friesland_title:0 "VÌ‘¯epQ„vê1u"
+ LOT_friesland_desc:0 "VÌ‘¯epQºN•ENåNegNôvýBlN×SYýVqVÍT„vìrËz'`ÿv^:NÖNìN„vê»lCgcíuKY—e0©‹[Root.GetName]ÙuˆNÖNìNê1uÿåN²NbcÖNìN ReQbýV×eN0"
+ LOT_english_channel_dominance_title:0 "ìr8—wmáS"
+ LOT_english_channel_dominance_desc:0 "*j˜NŽNbýVNñ‚‹sKNô•Ùag4lSASRŽNFUNmr)R0[Root.GetName]ÅV‰˜nxÝOàeïS‰N®‹„v„W­e0WMOÿv^ÎN-N·ƒ)R0"
+ LOT_glorious_revolution_title:0 "IQcƒi—‹T"
+ LOT_glorious_revolution_desc:0 "ñ‚	T)RwmáSùR¸SLeºN„v…Qµ‹òTÏuVw[Root.GetName]„vèla0[Root.GetName]ÅV‰˜ËNeQÿN³R8l80WVgÖNìN0"
+ LOT_black_devils_title:0 "wmuQ–"
+ LOT_black_devils_desc:0 "[Root.GetName]›RBl(Wwmm‹N¡R-NÖS—VOVbœgÿàVdkÅV‰˜T[Root.GetName]gwQ.OGYr‚iV„v9‚êSN„vwm›QF–b–XTLp“êjŒaŒTªu‹V'`0"
+ LOT_free_trade_title:0 "ê1u8ftõV"
+ LOT_free_trade_desc:0 "ÃOÛV>e8fÿ¥c×SYýVFUºNÛeQ[Root.GetName]„v^:Wÿ=f[Root.GetName]ÎNN­eØSS„vNLu-N·ƒ—VèT'Y)RÊv„vÍ‘‰„V0"
+ LOT_universities_title:0 "NO0WØšIrfRœ^"
+ LOT_universities_desc:0 "ê1uŒTYe²w=fbýVºNlgPNÁ‰vQb„v‹NN0ÇéTúV[Root.GetName](WNO0WýV¶R„vÎW^ÿ[Root.GetName]SÛNek R:V[Root.GetName]„vYe²wÿú^¾‹°e„v'YfR0"
+ LOT_leiden_university_title:0 "±ƒ˜'YfR"
+ LOT_leiden_university_desc:0 "±ƒ˜'YfRbËzŽN1575t^ÿ=fNO0W†SòSg `EN„v'YfRKNNÿú^!höegck<P`ó`„Ë‚ŒT—RYe¨Raƒ„vsQ.•öeg0eYpQ»l²N‹sZÉ^¾‹ó`ú^ËzNµ^ÃOÛ—RYeËR¹RŒTfR=gê1u„vfR=g-NÃVÿ'YfR¿O”^Ðwuÿv^ˆVëVàVvQùRSSŠfR=gŒTR°e„vbú‹wðXTJžw0'YfRéegÿ2S¯eyr¯e·)RnfîO¯e0¦umt+Y·¯eaS)R<hIrfR=gTAmýþf(WdkûNYeÿ8TV†Negê'k2mT0W„vfRu0"
+ LOT_unified_confession_title:0 "ßuNJTã‰"
+ LOT_unified_confession_desc:0 "'k2m„v—RYe9ei—S‰¹eYeONR:NŒN0¸‹YýV¶RàVdkb—4N—RYe¨Raƒ0NvQàV:NÙ›NtŽx„vŸSàVw’Nøv‰N—eÿN‚Y©‹[Root.GetName]dnRgk0"
+ LOT_ADD_100_FERVOR:1 "·ƒ—V§G100.00§!¹pípÅ`0"
+ LOT_start_exploration_title:0 "ÄžÑ‘N™™™e„v.Oô‹"
+ LOT_start_exploration_desc:0 "¸‹YYýV¢ci–¶Rý(WŒº‹[Root.GetName]0WþVKNY„vW0W0ÖNìN²‹ðNwÄžÑ‘ŒT™™™e„v.Oô‹ÿñ‹Ñ`Nw¸‹Y–klwvšT±GrW0W0©‹Ù›NsQŽNÄžÑ‘„v.OŠNQñ‹Ñ`[Root.GetName]ÿ[Root.GetName]S²NêvšT*gåwKN0W0"
+ LOT_ivory_trade_title:0 "aŒYrwm¸S8f"
+ LOT_ivory_trade_desc:0 "aŒYrwm¸SùRŽNûNUONMOó`‰ÎNšN2mán‹wRV„vFUºNýósQÍ‘‰0‚YœgýwnxÝO(Wdk`S	gNWW†˜0Wÿ[Root.GetName]SÛNekÃOÛêšN2m0R'k2m„v8fAm¨R0"
+ LOT_malacca_trade_title:0 "VglšmQ2u"
+ LOT_malacca_trade_desc:0 "lšmQ2u(WNpS¦^CN=f•¥”KN0Wÿ³QNýw¹RÍVƒRK„eQÁeºNKNKb0ÿbNƒRÿ"
+ LOT_taiwan_title:0 "DdÖSySid™l"
+ LOT_taiwan_desc:0 ":N†Nôf‹Y0Wæb*b[Root.GetName]„vÞz‰NùRKb(WÜN„v8fÿv^.^©RbýVFUºNN-NýVŒTåe,gÛLˆ8fÿ[Root.GetName]”^å‹(WySid™lú^ËzN*NúW0W0"
+ LOT_east_indies_domination_title:0 "[Root.GetName]^SNpS¦^"
+ LOT_east_indies_domination_desc:0 "[Root.GetName](WNpS¦^²›S„v8fì„ÃRÑSUSÿFOêS‰[Root.GetName]ùRå‹0W:S„vÏuNmµc6R¡l	gøv”^„v?e»lµc6Rÿ[Root.GetName]„vFUNŒTFUºN„v‰RhQ1SO×S0RZÁw0:N†Nå‹0W:S„vcíuAucƒŒT[Root.GetName]„výV¶R)RÊvÿ[Root.GetName]ÅV‰˜KSïSýwY0WSpS¦^²›SnŽN[Root.GetName]„vµc6RKNN0"
+ LOT_end_sound_toll_title:0 "JT+R„SÒRwmáSLˆz"
+ LOT_end_sound_toll_desc:0 "AmÏu[12.GetName]„v'ir—4³usQzŒTLˆ90 [Root.GetName]ïSNýw¥c×SÙ*NÿÅV‰˜ˆNåNYt0"
+ LOT_baltic_supremacy_title:0 "âlW„vwm8f8—Cg"
+ LOT_baltic_supremacy_desc:0 "S¹e„vmAmŒT9‚êS&^Nwn·ƒ0FUÁTŒTeˆÙuÁTêNweg0[Root.GetName]ÅV‰˜ÝOc(WâlW„vwm„v:V¿RXR(W0"
+ LOT_english_relations_title:0 "NNR ˜„vsQû|"
+ LOT_english_relations_desc:1 "N[Root.GetName]”–wmøvg„v»ýV•ENåNegýV›R:V'Yÿ„UŽN*‚wm0[Root.GetName]ÅV‰˜ÝOÁ‹ŒTÖNìN¾bŒTs^ÿàeº‹ÇY²NØ=f)RQR0"
+ LOT_military_reforms_title:0 "¾‹ËzTwwF–›Q"
+ LOT_military_reforms_desc:0 "jO:NN*N—‰êkS„v°etQýV¶Rÿ[Root.GetName]ÅV‰˜ú^ËzN=eÅˆY¾|o‚0Lˆ¨RÅ„v›Q–ÿ–öeÆQYÝOkS[Root.GetName]„v,gWwýN0"
+ LOT_marician_reforms_title:0 "ÛkÌ‘(ƒ9ei—"
+ LOT_marician_reforms_desc:0 "–NwLwNS›Q–(W'k2m„vtQwÿb‰N„vbVVmNVËYba9eØS0NTŽNT‹s&^NwÖN„v5Ïe'YºNŒTluQ²Q•w–5–„vçe	gNSb—ÿ°s(W›Q–ØSb†NìrËz„v:g„g0KS¡r[Root.GetName]:ONºN›RÿFO[Root.GetName]ÍN6qïSåNO(uÇ–cOuQegÝOkSýV¶R0"
+ LOT_army_of_the_state_title:0 "ýVËz›Q–"
+ LOT_army_of_the_state_desc:0 "›Q–„v)YLw1S=fÝOkSýV¶RÿOýV¶RMQ×SYýVeQµOwŒT´fl„v2O³R0:N†NýwYÝOkSêñTÿ[Root.GetName]‰Šb›Q–Sb.b'k2mNAm:V›Q0"
+ LOT_statists_and_oragnists_title:0 "®‹O>mNeYpQ»l>m"
+ LOT_statists_and_oragnists_desc:0 "êú^ýVåNegÿ=ecqQŒTýV„v0®‹O>m0ŒT=ecTIN6R„v0eYpQ»l>m0KNô•„v·u‰NNôvðVpbNw[Root.GetName]„výV¶R0[Root.GetName]ÅV‰˜(WÙ:W²Qz-N	ébN¹eÿMbýwN³R8l80WÓumgÙ:W²Qz0"
+ LOT_managing_stadholders_title:0 "Ytwcw"
+ LOT_managing_stadholders_desc:0 "Twý	gCgûN‹TêñT„vwcwÿÖNìNâe=f?e»l†˜üRºNÿmN=f›Q‹N†˜–ˆ0FO=fÿ–NwbýV„vÑSUSŒTTw„vnTwTÿpeÏ‘ÇY„vwcw&^eg†Nî•˜˜ÿ2SvQ=fùRŽN›Q–c%c0[Root.GetName]—‰N*Nßu^eg†˜üRte*N›Q‹NåTjOÿgŽrUS„vžRÕl1S=f©‹NºNTöe|QûNpew„vwcwKNMO0"
+ LOT_question_of_the_confederation_title:0 "Tw¦„v‹TÐ"
+ LOT_question_of_the_confederation_desc:0 "þfÏuú^Ëz[Root.GetName]qQŒTýV„vçeTw¦°sòTÈuÓu0eYpQ»l>mŒT®‹O>mKN‰NòTSÃWK„šRÿN¹eÖS—V†NÜw)R0°s(Wÿ[Root.GetName]”^å‹	cgq[Root.GetName]„vßu»lwNôvåNeg„v¾‹ó`egQX.°eTw¦0"
+ LOT_patronage_of_arts_title:0 "D©RYýVz‚=g¶R"
+ LOT_patronage_of_arts_desc:0 "ÃRn‚,r„vS›R0‹YºN0(WNO0WYuN†NN*N±sTØšS„v«R÷^ÿµ^-NKS=fÎ˜Å–„vz‚=g¶R0[Root.GetName]NšR‰çubÖN„vWµNÿO[Root.GetName]«R÷^„v‡ez‚4ls^QR°eØš0"
+ LOT_golden_age_title:0 "ÄžÑ‘öeãN"
+ LOT_golden_age_desc:0 "8f0wm‹NåNÊSÏuNmN„vø‹YbéuÃOO†SòSfR¶RS[Root.GetName]„vöeãN^:N0[Root.GetName]ÄžÑ‘öeãN00ì„ÃRÑSUS„v8fÿx^y„vºNl'YOåNÊSØšHe„vz6eR.†NbýV„vÏuNmGYùÿ©‹[Root.GetName](Wñ‚	T)RwmáSN&^³åNNNR ˜ºN9SLe0"
+ LOT_founding_the_voc_title:0 "RËzTwTNpS¦^lQøS"
+ LOT_founding_the_voc_desc:0 "ASNºNt‹NOIrFUºN0âVípwˆŽNib'Y•bDÄuTÿ•bDwmY8f0‚Yœg[Root.GetName]=ecú^ËzÐgÍyNpS¦^lQøSÿ6eÊvS2S:NïSÂ‰ÿ"
+ LOT_access_to_india_title:0 "pS¦^mMRèTÙz"
+ LOT_access_to_india_desc:0 "Ç(WpS¦^mú^¾‹MRèTÙzÿ[Root.GetName]ýwYôf	gHe‡s„vnxÝO[Root.GetName](WÙN0W:S„vXR(Wÿôf‹Y„vŒTSV0WºNZPua0"
+ LOT_ceylon_bases_title:0 "m^S!•pQ"
+ LOT_ceylon_bases_desc:0 "ÌRv™„v!•pQ›SNÅN=fïSÂ‰„v6eeQegnÿmN=fÜN*‚¿u„v‰S0‚Yœg[Root.GetName]N:YÖSƒRÿ1SIrŽNñbKb©‹ºN†N0"
+ LOT_city_of_batavia_title:0 "NpS¦^Lˆ?e"
+ LOT_city_of_batavia_desc:0 "[Root.GetName](WNpS¦^„v‹NN¸„¸„åeNÿàVw—‰N*NÑ¿O„vLˆ?e-NÃVÿåN¿OFUºNýw(W[Root.GetName]„vkp®pŒT0‚–„vÝO²bN‰RhQeQ=n0"
+ LOT_hansa_relations_title:0 "Il(„Twû|"
+ LOT_hansa_relations_desc:0 "ÎN1441t^VËYÿ[Root.GetName]„vwm›Qè–NIl(„TßvÑSu†NY!k²QzÿÙNÎW¦Æ–âVµc6RNwâlW„vwm)R¦m0NšS„v8f0(WûQ%v^ž±†NÖNìNKNTÿ[Root.GetName]Œrr†N0åT,gÈT9hag¦u0ÿAQ¸‹[Root.GetName]N×SP–6R0WÛeQÖNìN„v=nãSÿv^(WvQ=nãSôuû|8fXR(W0°s(W=f[Root.GetName]‰Blb`Yå‹ag¦u„vöeP†NÿåNMQÖNìNä”wpi–0"
+ LOT_sail_towards_lubeck_title:0 "=ec'Y—R8f"
+ LOT_sail_towards_lubeck_desc:0 "âlW„vwmhT¹uµN„v7ŒirÿNôv1ubýVFUºNÐŽV‰¹e„v0FO±Ì‘ÍN6qYu	gˆVYZ±”„v:gO0å‚ýwib'YbýV(WâlW„vwm^:W„vN¡Rÿ1SýwÐcØš6eeQÿ(uåND©RN=e¢ci––ÿûRŒbôf^–„v^:W0"
+ LOT_securing_baltic_grain_title:0 "nxÝOâlW„vwm7Œir"
+ LOT_securing_baltic_grain_desc:0 "NO0WýV¶RNôv—‰7ŒirÛãSÿ2SvQ=fÎNâlW„vwmÛãS0‚Yœg[Root.GetName]ýwZP0R®|ß˜êÙuê³ÿ1SN(uQ±‚±”»SÛãS†N0"
+ LOT_garrision_system_title:0 "beu2–¡VtõV"
+ LOT_garrision_system_desc:0 "NO0W„v†˜Wv^N—rËR^ÿFO:N†NÝO²bNO0W„v0ÌRÿ[Root.GetName]ÅV‰˜ú^ËzN*N	g›R„v‰š›Qû|ßuegÝO²bƒR0"
+ LOT_dutch_engineering_title:0 "Xw(uNO0WåTz^"
+ LOT_dutch_engineering_desc:0 "(WN:Wb‰N-NÿgÍ‘‰„vïSýw1S=fIeÎWb0N:WbyV‚YœgYtNSVÿïSýwOØNúQè`Í‘„vãN÷NÿFOIeÎWb‚Yœg¡‹RNSVÿT7hO.bèT'Y„v4xOW0[Root.GetName]„v¸‹Y›Q‹Ntº‹¶Rýú^®‹ùRIeÎWb=gÛLˆ°e„v9ei—ÿw[Root.GetName]Sb—rXw(uÖNìN0"
+ LOT_organizing_the_seven_provinces_title:0 "Tww®‹O†˜W"
+ LOT_organizing_the_seven_provinces_desc:1 "1uŽNbýVXR(W¸‹Y0W:SîTVÿàVdkÅV‰˜¥Y„U¡rtýV¶R0:Ndkÿ-N.Y?eœ^	göe—‰ôv¥c¡rtW0WÿåN2–bkÐgN0W:S„v>mû|(WýV¶R‹N¡R-N·ƒ—VÇY„vqVÍT›R0"
+ LOT_northern_renaissance_title:0 "S¹e‡ez‚YtQ"
+ LOT_northern_renaissance_desc:0 "iOpQ·V‡ez‚YtQtQÛvŽN15ŒT16Nªuÿh×VNwiOpQ·V0W:SÿSìbÊN)Y„vÔk)RöeŒTwƒpQ	ÿEQánIm›R„v‡eSŒTz‚=gYtQ0ÙNöeg„vyr¹p=fz‚=g'Y^„vúQ°s08fAucƒŒTåwÆ‹R°e„v‡T0lb·áQ·Œ‚KQŒTw|V—V·ÃRœÖvSIrz‚=g¶R=fÙ*NöeãN„v)qVÿÖNìNVR†N¹lIuŽb=gÿv^åNàeN&OÔk„v™QžRKbÕlUcIcåe8^uIm„vÆug+g‚‚0"
+ LOT_dutch_architecture_title:0 "[Root.GetName]ôTmKQú^Qr"
+ LOT_dutch_architecture_desc:0 "[Root.GetName]ôTmKQVú^QrÛvLˆŽN17NªuÿvQSO°sNwNÍyRO0¾|nxNžR(u„vú^QrÎ˜<h0×SýV¶RÏuNmAucƒŒThQt8fINüR0WMO„vqVÍTÿú^Qr^ìNÇ‘(u†NŽrm„v¿uag0NSKN„vÆu‚‚NèlÍ‘ŽNŸRýw0"
+ LOT_cape_of_good_hope_title:0 "VŸ°e*‚ï"
+ LOT_cape_of_good_hope_desc:0 "(WŽVpS¦^„vF–NFUï«ˆR­eTÿˆVYbýV„vFUºNý(WûRŒb°e„vFUïÿ2SvQ=fÕ‹þV(W^—2mSbVNSb—0ÖNìN(WûRŒb°e„v^gÿåNgÍ‘°eNpS¦^VUS8f0ÖNìNNåwS„v=fÿÙ*N^gÔk„˜g„v‰ôfWS0"
+ LOT_crossroad_between_two_worlds_title:0 "ŽN2NNLuKNô•"
+ LOT_crossroad_between_two_worlds_desc:0 "‹YgÒ‰=fMRŽVNpS¦^Åe-N„vÍ‘‰‚‚¹p0(WÙÌ‘:N[Root.GetName]TN*‚Lˆ„v9‚êSŒTÅeºNÐc›ON*NÎ˜=nO=fN*NÝusO„v	éb0"
+ LOT_CHALLENGE_HANSA:0 "cbIl(„Tßv"

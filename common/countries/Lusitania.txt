@@ -1,0 +1,763 @@
+graphical_culture = westerngfx
+color = {
+  63
+  139
+  166
+}
+historical_council = harsh
+revolutionary_colors = {
+  50
+  80
+  150
+}
+historical_score = 7400
+historical_idea_groups = {
+  exploration_ideas
+  religious_ideas
+  offensive_ideas
+  expansion_ideas
+  influence_ideas
+  maritime_ideas
+  quality_ideas
+  defensive_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  western_men_at_arms
+  spanish_tercio
+  austrian_tercio
+  austrian_grenzer
+  austrian_hussar
+  austrian_white_coat
+  austrian_jaeger
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "aSmŻe #0" = 80  # Carlos #0
+  "9)RiO #1" = 60  # Felipe #1
+  "9SWSY #5" = 40  # Fernando #5
+  "ďfŻe #0" = 20  # Luis #0
+  "UO^X #0" = 20  # José #0
+  "íb #0" = 15  # Diego #0
+  "ôTSTX( aSmŻe #0" = 15  # Baltasar Carlos #0
+  "RZ #0" = -15  # Ana #0
+  "sKNN yr #0" = -10  # María Teresa #0
+  "?še0t #11" = 10  # Alfonso #11
+  "i`ĚKQ #4" = 10  # Enrique #4
+  "áwR #2" = 10  # Juan #2
+  "OS #1" = -10  # Isabel #1
+  "VgŻeŃy #0" = 10  # Francisco #0
+  "XblŻe #0" = 10  # Tomás #0
+  "RN<SeY #0" = 10  # Antonio #0
+  "VgŻeŃy #0 ˇV ÝOÉb" = 10  # Francisco #0 de Paula
+  " R^RS #0" = 10  # Gabriel #0
+  "QhTN #4" = 5  # Sancho #4
+  "wmh #2" = 5  # Jaime #2
+  "Ébs|W #2" = 5  # Ramiro #2
+  "iOˇVW #1" = 5  # Pedro #1
+  "iOÉbŚu #1" = 5  # Pelayo #1
+  "?0t #0" = 0  # Alonso #0
+  "ôTSTX( #0" = 0  # Baltasar #0
+  "ôTXbmh #0" = 0  # Bartolomé #0
+  "KQłRęeY #0" = 0  # Claudio #0
+  "KQĚŻeXbôTS #0" = 0  # Cristobal #0
+  "Yfb #0" = 0  # Domingo #0
+  "ĂWs|)ReY #0" = 0  # Emilio #0
+  "ŐlˇVĚKQ #0" = 0  # Fadrique #0
+  "yŻeXb #0" = 0  # Fausto #0
+  " RN #0" = 0  # García #0
+  " RŻe^ #0" = 0  # Gaspar #0
+  "!(m #0" = 0  # Gonzalo #0
+  "	TRSŤ #0" = 0  # Guillermo #0
+  "ĂWhQ^SY #0" = 0  # Hermenegildo #0
+  "ĂWSWSY #0" = 0  # Hernando #0
+  "O<hłueY #0" = 0  # Ignacio #0
+  "jSk #0" = 0  # Jorge #0
+  "áwR SŻeTX #0" = 0  # Juan Bautista #0
+  "áwR UO^X #0" = 0  # Juan José #0
+  "ąeYâlSY #0" = 0  # Leopoldo #0
+  "miO #0" = 0  # Lope #0
+  "üfŞRĂWS #0" = 0  # Manuel #0
+  "s|<hS #0" = 0  # Miguel #0
+  "WˇVĚb #0" = 0  # Rodrigo #0
+  "^XôTŻeR #0" = 0  # Sebastián #0
+  "ôuîhyr #0" = 0  # Vicente #0
+  "MONARCH_NAME_RAMON" = 0  # MONARCH_NAME_RAMON
+}
+leader_names = {
+  "?ćtSaS ˇV ZSąN"  # Abarca de Bolea
+  "ˇV?	T÷"  # de Aguirre
+  "ˇV ?ÉbSTR"  # de Alarcón
+  "?Sćt÷Że ˇV XbąY"  # Álvarez de Toledo
+  "ˇV ?Éb!"  # de Aragón
+  "ˇV eY0W)R"  # de Austria
+  "ˇV ?NÉb"  # de Ayala
+  "ˇV ôT^"  # de Bazán
+  "ˇV ZSyr"  # de Beaumont
+  "ˇV łuôuˇVŻe"  # de Benavides
+  "ˇV âlÁe"  # de Borbón
+  "ˇV ZSSČT"  # de Borja
+  "aSć( ˇV ôTaS"  # Cabeza de Vaca
+  "aS^ RS ˇVÉbôu R"  # Cagigal de la Vega
+  "NWâllQŻe"  # Campomanes
+  "ˇV Éb^XSž"  # de la Cerda
+  "ĺT&O^"  # Colón
+  "ŃyWłuY"  # Coronado
+  "ŃySyrŻe"  # Cortés
+  "žôuÉb"  # Dávila
+  "ˇV ĂW<hyr"  # de Egmont
+  "ĂWSaSú"  # Elcano
+  "ĂWbSNS"  # Elhuyar
+  "ŐlˇVĚKQ ˇV XbąY"  # Fadrique de Toledo
+  "9SWSˇVŻe ˇV aSŻeyrW"  # Fernández de Castro
+  "9SWSˇVŻe ˇV ŃySYćt"  # Fernández de Córdoba
+  "ˇV ň<hWN"  # de Figueroa
+  "ň( yĆYŻe"  # Fitz-James
+  "ySGY ˇV aSYłu"  # Folch de Cardona
+  "0N^XaS"  # Fonseca
+  " RSôuŻe"  # Gálvez
+  "bŚŻe"  # Gómez
+  "<hÉbôułu"  # Gravina
+  "ˇV <hĚČTSćt"  # de Grijalva
+  "<hĚlSę"  # Grimaldi
+  "ˇV äSyQüf"  # de Guzmán
+  "ˇV ćNúŻe"  # de Jovellanos
+  "ˇV ÷ćt"  # de Leiva
+  "miO ˇV ČTW"  # Lópe de Haro
+  "üfĚKQ ˇV ÉbJ"  # Manrique de Lara
+  "üfĚKQ ˇV ÉbŻeŃy"  # Manrique de Velasco
+  "ˇV čY("  # de Mendoza
+  "ˇV yraSž"  # de Montcada
+  "ŞRmŻe ˇV ôTSâlN"  # Nuńez de Balboa
+  "ˇV eYkž"  # de Ojeda
+  "eY÷)RNłu"  # Orellana
+  "eY0tĚeY"  # Osorio
+  "^ÉbyKQŻe"  # Palafox
+  "^<SeY"  # Patińo
+  "ŽvčyrS"  # Pimentel
+  "Žv(W"  # Pizarro
+  "^^X ˇV ąf"  # Ponce de León
+  "âlXbaS÷W"  # Portocarrero
+  "ˇV ÷KQîhŻe"  # de Requesens
+  "ˇV ĚiOSž"  # de Ripperdá
+  "ˇV WČTŻe"  # de Rojas
+  "(Żeyr÷"  # Sastre
+  "yrRŻe-^"  # Tellez-Girón
+  "ˇVÉbôu R"  # de la Vega
+  "ˇV Vy<S R"  # de Zúńiga
+}
+ship_names = {
+  "?jgłu"  # Aduana
+  "p"  # Águila
+  "WSyrKNp"  # Águila de Nantes
+  "YşNUO^XŐl"  # Amable Josefa
+  "YşNáwRZ"  # Amable Juana
+  "YşNyr"  # Amable Teresa
+  "NSmgˇVWNN"  # Alejandro I
+  "NaÍw"  # Alerta
+  "?SkÉbŻe"  # Algeciras
+  "?aS0WN"  # Alucadia
+  "?h)RN"  # Amelia
+  "?)R R"  # América
+  "2m"  # Americana
+  "RňyrĚŇV"  # Anfítrite
+  "TXĚŐlwmQ'Yă"  # Admiral del Tariffa
+  "?s|ŻeTXˇV"  # Amistad
+  "1rýVw"  # Amor de la Patria
+  "Rňi`"  # Anfión
+  "RZ s)RN 	TnfŻe8Y"  # Ana María Guipúzcoa
+  "RžbSN"  # Andalucía
+  "RžbSNn"  # Andalucía Baia
+  "RžbSNşN"  # Andaluz
+  ")YOR˛bw"  # Ángel de la Guarda
+  "ëX"  # Anónima
+  ""  # Antílope
+  ")Yp"  # Aquila
+  "Ţp"  # Aquila Volante
+  "?úWĚŻe"  # Aquiles
+  "Sše"  # Aquilón
+  "g."  # Ardilla
+  "?÷ţV("  # Aretusa
+  "?SbńÄ"  # Argonauta
+  "NSäS"  # Argos
+  "ÇRbew"  # Arrogante
+  "NĆuN"  # Asia
+  "f°SsY"  # Astrea
+  "fŘv"  # Astrolabio
+  "?ŻeţVĚNŻe"  # Asturias
+  "?ŻeţV(Éb"  # Astuzzana
+  "GS)Y"  # Asunción
+  "?yrÉbŻeńg"  # Atlante
+  "?Xbĺg"  # Atocha
+  "Qi"  # Atrevida
+  "'kĺÉb"  # Aurora
+  "NINcIQ"  # Ave de Gracia
+  "Qiw"  # Aventurero
+  "ôTČTl"  # Bahama
+  "Üb&O"  # Bailen
+  "˘c0tw"  # Baltidore
+  "SŻeTX"  # Bautista
+  "ôTTXYS"  # Batador
+  "ÉbˇaSm3tZ"  # Bella Carolina
+  "řSbsY^y"  # Bellona
+  "ÔkŻeV"  # Viscaya
+  "ńÇRw"  # Bizarro
+  "ŢLw"  # Voladora
+  "1WşN6w1z"  # Buen Jesús
+  "^Ébr^("  # Braganza
+  "^Ébćt"  # Brava
+  "IQ"  # Brillante
+  "^ĚNú"  # Brilliano
+  "cWS"  # Brújula
+  "U"  # Buen Consejo
+  "x^y"  # Buena Dicha
+  "^pQN"  # Burlandín
+  "vl"  # Caballo Blanco
+  "NWÔk"  # Cambi
+  "aShÉbÉb"  # Camerara
+  "NWůWf"  # Campeón
+  "NWTX^ĚN"  # Cantabrina
+  "ˇ^TXÉb"  # Cantara
+  "NWˇVÉb"  # Cantela
+  "NWTX+YW"  # Cántabro
+  "×e0"  # Capitana
+  "aSč"  # Carmen
+  "aSč W(ĚeY"  # Carmen del Rosario
+  "aSŻe)RN"  # Castilla
+  "çTT"  # Casualidad
+  " RđlW<SNşN"  # Catalán
+  "ďQč"  # Caimán
+  "sşN"  # Cazador
+  "^XN"  # Cecilia
+  "YĚV"  # Celoso
+  "ŃvßRR"  # Censor
+  "čTuQ"  # Centinela
+  "IR^tŻe"  # Ceres
+  "ŚNlQl"  # Ciudadanía de Mercia
+  "hą"  # Ciervo
+  "ŃyGYÉb"  # Coccila
+  "ĺT&O^"  # Colón
+  "WVf"  # Cometa
+  "ËYUR"  # Concepción
+  "GYNW=O5r"  # Conde de Chican
+  "÷	TN=O5r"  # Conde de Regia
+  "Xbm(=O5r"  # Conde de Tolosa
+  "Vgw"  # Conquistador
+  "ˇ^ŻefWyr"  # Constante
+  "ŃySQN"  # Cornelia
+  "ŃyS0t"  # Corso
+  "ŃySyrŻe"  # Cortés
+  "Ńym("  # Coruńesa
+  "^ĂWSl"  # Cuervo
+  "wm&"  # Cuervo Marino
+  "žŽY"  # Dafne
+  "žsŻe"  # Damas
+  "U ďfŻe SyrpQ"  # Don Luis Beltrán
+  "ˇVŚ ćt(m"  # De Bon Vassallo
+  "Ę`U"  # De repente Descubierta
+  "ŕeçV"  # Descuite
+  "ZWR"  # Determinado
+  "4bRZ"  # Diana
+  "x^y"  # Dichoso
+  "NĄRR"  # Diligencia
+  "äRÉRw"  # Diligente
+  "1WupKNfN"  # Divina Pastora
+  "N)Y^QO"  # Divina Providencia
+  "ćŰu"  # Dolores
+  "Ń4Yˇ"  # Dorada
+  "gËSKNËS"  # Dos Amigos
+  "v`"  # Dragón
+  "'YĆww"  # El Atrevido
+  "ĂWŻeiOTXđl"  # El Espedarte
+  "hŻeXb Éb 0t)RžˇV"  # El Mestuo la Solidade
+  "<Snf"  # El Neptuno
+  "eYV)RT	N*NYgËS"  # El Orely y los Tres Amigos
+  "QeNIN"  # El Savador
+  "ćĆRqS1WÍk"  # Virgen del Carmen
+  "OyQ"  # Elise
+  "OKNv"  # Elizabet
+  "ON"  # Empresa
+  "TŐl^"  # Encantadora
+  "SŤ"  # Encarnación
+  "Î^y"  # Eolo
+  "ĂWŻeaSĚeYyr"  # Escariotte
+  "VyÍk˙u"  # Esmeralda
+  "ËR^e"  # Espaciosa
+  "ísYr"  # Espańa
+  "^g"  # Esperanza
+  "OŻe^tÉb"  # Estrella
+  "fKNwm"  # Estrella del Mar
+  "Sgf"  # Estrella del Norte
+  "'kWôT"  # Europa
+  "R"  # Experimento
+  "ĂWŻeyr÷ljgÉb"  # Extremeńa
+  "Tg"  # Fama
+  "Tlb"  # Fama Volante
+  "x^y"  # Felicidad
+  "9)RKQŻe"  # Félix
+  "äQđQ"  # Fénix
+  "ZWúV"  # Ferme
+  "9SWSYNN"  # Fernando VII
+  "9WÉbłu"  # Ferrolana
+  "ňˇVÉb"  # Fidela
+  "ň<SŻeđlS"  # Finisterre
+  "ZWRw"  # Firme
+  "3zePw"  # Firmeza
+  "­r4Y"  # Flecha
+  "iOmÉb"  # Flora
+  "!XW"  # Fuerte
+  "ôv^WN!XW"  # Fuerte de Gibraltar
+  "´f`"  # Furia
+  "ísYrhh^9"  # Galera de Espańa
+  "ôuY)RNhh^9"  # Galera Victoria
+  " RS R"  # Galga
+  "RžbSNupŹr"  # Galgo de Andalucía
+  " R)RN"  # Galicia
+  ")neSĹw"  # Gallardo
+  " Rm pS,rRú"  # Gallo Indiano
+  " RŤ"  # Gamo
+  " RPOTX"  # Garzota
+  "Ŕp"  # Gavilán
+  "wcúôu("  # Genovesa
+  "ôv^WN"  # Gibraltar
+  "sYčTşN"  # Giganta
+  "	TQXb"  # Gineto
+  "	TjSişN"  # Gitano
+  "cw"  # Gloria
+  "Lq"  # Glorioso
+  "TlV"  # Golondrina
+  "O'Yv)YKNlQIN"  # Gran Princesa de los Cielos
+  "<hÉbłu"  # Grana
+  "^JşN"  # Griega
+  "<h÷W"  # Guerrero
+  "	TnfŻe8Y"  # Guipuscoana
+  "k"  # Gusana
+  "Äp"  # Halcón
+  "kKQXb"  # Héctor
+  "kÉbKQŇRŻe"  # Hércules
+  "kOe"  # Hermione
+  "KNvsKNNłu"  # Hermosa Mariana
+  "ńÄ"  # Héroe
+  "ę"  # Hurón
+  "kN4YÇ"  # Hidra
+  "OÔk)RN"  # Iberia
+  "egęOôu("  # Ibicenco
+  "OňimN"  # Ifigenia
+  "NSqS'Yv^"  # Emperador Alejandro
+  "^âl¨XmŻe"  # Impomenes
+  "kp0q"  # Incendio
+  "NbTŤba"  # Invencible
+  "ýűRw"  # Indagadora
+  "ĺTN"  # Industria
+  "?sZlQIN"  # Infanta Amalia
+  "aSmTXlQIN"  # Infanta Carlotta
+  "˛Ns"  # Infante
+  "UˇaSmŻe˛Ns"  # Infante Don Carlos
+  "XiOÉbŚu˛Ns"  # Infante Don Pelayo
+  "ŕeOu"  # Intrépido
+  "iVysY^y"  # Iris
+  "OS"  # Isabel
+  "OSNN"  # Isabel II
+  "OÉb"  # Isabela
+  "yrĚTąíV"  # Jardín de Tritón
+  "O?R"  # Jasón
+  "UO^X"  # José
+  "1gRZ"  # Juliana
+  "1gú"  # Juno
+  "1g^yr"  # Júpiter
+  "ckIN"  # Justica
+  ">ŻeZ"  # Justina
+  "dRěrupB"  # La Ánimas Sola
+  "lQ5r+YşN"  # La Duquesa
+  "ZWR"  # La Ferme
+  "ŕVÚ"  # Lealtad
+  "sŹrľ^"  # Lebrel
+  "ąf"  # León
+  "ąf ŃyWłuY"  # León Coronado
+  ")Yäyľ^"  # Libra
+  ")YTQľ^"  # Liebre
+  "wc"  # Ligera
+  "Ńîr"  # León de Oro
+  "2N*N?Nb÷şN"  # Los Dos Azares
+  "ŚňT&O"  # Los Magalianes
+  "ďf"  # Luisa
+  "ďf9SWSž"  # Luisa Fernanda
+  "şNlv1WÍk"  # Ntra. Sra. Del Pueblo
+  "TĐsY^y"  # Mágica
+  "ËRšR"  # Magnánimo
+  "lÁ=n"  # Mahonesa
+  "leuSŃ"  # Mallorquín
+  "l3wÖN"  # Malta
+  "sKNN"  # María
+  "sKNN VgNaS"  # María Francisca
+  "sKNN OS"  # María Isabel
+  "b^y"  # Marte
+  "ldąY"  # Mazerredo
+  "ÄrN"  # Medea
+  "jg"  # Medusa
+  "¨XĺTşN"  # Mejicano
+  "húaSşN"  # Menorquín
+  "`Ż`"  # Mercedes
+  "¨XN)R"  # Mercurio
+  "%Vm3wćt"  # Minerva
+  "s|ú"  # Minno
+  "Ts"  # Monarca
+  "TXQŻe"  # Montanes
+  "FzSN"  # Murciano
+  "mnf"  # Neptuno
+  "mnfwmmKN^y"  # Neptuno Dios de Las Mares
+  "wmŮNsY"  # Nereida
+  "?^)R R1WÍk"  # Ntra. Sra. de África
+  "?pQ(Ď1WÍk"  # Ntra. Sra. de Aranzazú
+  "GS)Y1WÍk"  # Ntra. Sra. de Asunción
+  "?Xbĺg1WÍk"  # Ntra. Sra. de Atocha
+  "b<SN1WÍk"  # Ntra. Sra. de Begonna
+  "&O1WÍk"  # Ntra. Sra. de Belén
+  "Ôk<h<SN1WÍk"  # Ntra. Sra. de Bignonia
+  "zÎ1WÍk"  # Ntra. Sra. de los Buenos Aires
+  "^RúŻe)RŻeT1WáwRQâlFz^XŞR1WÍk"  # Ntra. Sra. de Buenos Aires y San Juan Nepumeceno
+  "TNW1WÍk"  # Ntra. Sra. de Choro
+  "mz1WÍk"  # Ntra. Sra. de Covadonga
+  "i` R1WÍk"  # Ntra. Sra. de Gracia
+  "ÜtžbSiO1WÍk"  # Ntra. Sra. de Guadalupe
+  "?FzˇVłu1WÍk"  # Ntra. Sra. de la Almudena
+  "?FzˇVłuT1WaS6wTXú1WÍk"  # Ntra. Sra. de la Almudena y San Cayetano
+  "1WÍkĽb"  # Ntra. Sra. de la Anunciación
+  "ÉbNWˇVÉbĚN1WÍk"  # Ntra. Sra. de la Candelaria
+  "Ha˛`1WÍk"  # Ntra. Sra. de la Caridad
+  "ËYUR1WÍk"  # Ntra. Sra. de la Concepción
+  "1WupËYUR1WÍk"  # Ntra. Sra. de la Concepción y las Ánimas
+  "tYśv1WÍk"  # Ntra. Sra. de la Esclavitud
+  "V*1WÍk"  # Ntra. Sra. de la Guía
+  "güv1WÍk"  # Ntra. Sra. de la O
+  "Ts^1WÍk"  # Ntra. Sra. de la Paz
+  "TáO1WÍk"  # Ntra. Sra. de la Piedad
+  "ąR˛1WÍk"  # Ntra. Sra. de la Presentación
+  "dRěr1WÍk"  # Ntra. Sra. de la Soledad
+  "`Ż`1WÍk"  # Ntra. Sra. de las Mercedes
+  "aíVv1WÍk"  # Ntra. Sra. de las Vinas
+  "m÷Xb1WÍk"  # Ntra. Sra. de Loreto
+  "Nć1WÍk"  # Ntra. Sra. de los Dolores
+  "KN1WÍk"  # Ntra. Sra. de l'Oves
+  "ÁNHa1WÍk"  # Ntra. Sra. de Misericordia
+  "'kÉbS1WÍk"  # Ntra. Sra. de Oilar
+  "÷	TN1WÍk"  # Ntra. Sra. de Regia
+  "ćĆRqS1WÍk"  # Ntra. Sra. del Carmen
+  "áOĂVćĆRqS1WÍk"  # Ntra. Sra. del Carmen la Confianza
+  "aSčTÉbŻe?<SlŻe1WÍk"  # Ntra. Sra. del Carmen y las Ánimas
+  "aSčT1WRN<SeY1WÍk"  # Ntra. Sra. del Carmen y San Antonio
+  "aSSs|ú1WÍk"  # Ntra. Sra. del Carmino
+  "Ńy÷ÉbŻe1WÍk"  # Ntra. Sra. del Corlylas
+  "&m`1WÍk"  # Ntra. Sra. de la Humildad
+  "hńg1WÍk"  # Ntra. Sra. del Pilar
+  "hńgTÉbŻe?<SlŻe1WÍk"  # Ntra. Sra. del Pilar y Ánimas
+  "âlSţV1W^ĂWłueţVÉbv1WÍk"  # Ntra. Sra.del Puerto San Buenaventura
+  "şNlv1WÍk"  # Ntra. Sra. del Pueblo
+  "Ťspt1WÍk"  # Ntra. Sra. del Rosario
+  "1WUO^X1WÍk"  # Ntra. Sra. y San José
+  "°e^2m"  # Nueva África
+  "°eísYr"  # Nueva Espańa
+  "°eŕeLe"  # Nuevo Invencible
+  "ŞRüfN"  # Numancia
+  "Nše"  # Oriente
+  "SŇRúW"  # Orquijo
+  "śR­^QYŚu"  # Pacto de Familia
+  "^ÉbŻe"  # Palas
+  "pSŚ^K"  # Paloma India
+  "ÄK"  # Palomo
+  "ôTTXĺT<SN"  # Patagón
+  "1rýVw"  # Patriota
+  "R˛b^y"  # Patrona
+  "Ts^"  # Paz
+  "Űuć"  # Pena
+  "iO<SNž"  # Peńada
+  "g1Ww"  # Peregrina
+  "R"  # Perfecta
+  "Ísŕs"  # Perla
+  "ÔkŻeVÍsŕs"  # Perla Vizcaína
+  "ísYrfŕs"  # Perla de Espańa
+  "Řy"  # Peruano
+  "iOĎĂWÉb"  # Pezuela
+  "NrvS>S^9"  # Pinque Pintado
+  "ŢÔvS>S^9"  # Pinque Volante
+  "ŽvLNl"  # Piuma
+  "CgR"  # Poder
+  "HV'Y"  # Poderoso
+  "Ńy)R=n"  # Porto Coeli
+  "âlŻeTXˇV RÉb RŻe"  # Posta de Caraccas
+  "Ůzl+Y"  # Postillon
+  "HVR"  # Potencia
+  "KN"  # Preciosa
+  "Ts^lQIN"  # Princesa de la Paix
+  "˛Ns"  # Principe
+  "?ŻeţVĚNŻe˛Ns"  # Principe de Asturias
+  "Ts^KNs"  # Principe de la Paz
+  "2SŃsPR"  # Principe Eugenio
+  "Ĺwc"  # Pronta
+  "nfm^X^m"  # Proserpina
+  "nfWôuvŻe"  # Providencia
+  "(Na"  # Prudencia
+  "KmŐ"  # Prueba
+  "âlYÎTşN"  # Puertorriqueńo
+  "1WupaUR"  # Purísima Concepción
+  "X	TĂˇV"  # Quijote
+  "Đrřr"  # Raposa
+  "IQżu"  # Rayo
+  "vśRaSmŻe"  # Real Carlos
+  "v˛R"  # Real Familia
+  "vśR9)RiO"  # Real Felipe
+  "vśRNk"  # Real Fénix
+  "vśRjSk"  # Real Jorge
+  "vśRsKN"  # Real Mari
+  "÷aS"  # Rebeca
+  "sYs"  # Reina
+  "OSNNsYs"  # Reina Dońa Isabel II
+  "ďfsYs"  # Reina Luisa
+  "sKNN KQĚŻeZsYs"  # Reina María Cristina
+  "sKNN OSsYs"  # Reina María Isabel
+  "łQĂV"  # Resolución
+  "Y"  # Restauración
+  "YîO"  # Retiro
+  "ýVsVgŻeŃy ˇV ?Że"  # Rey Don Francisco de Asís
+  "KNTX"  # Ritta
+  "ŤsptĎu"  # Rosario
+  "˘uRów"  # Rubí
+  "1WśR"  # Sacra Familia
+  "­râw"  # Saeta
+  "(SćtY"  # Salvador
+  "NLuQeIN"  # Salvador del Mundo
+  "1WNSmgˇVW"  # San Alejandro
+  "1WRˇVRŻe"  # San Andrés
+  "1WRN<SeY"  # San Antonio
+  "1WRN<SeYˇV^Yćt"  # San Antonio de Padua
+  "1WRN<SeYT?<SlŻe"  # San Antonio y Ánimas
+  "1WRN<SeYT?<SlŻev0ĚR"  # San Antonio y Ánimas la Fortuna
+  "1WeYäSŻeN"  # San Augustín
+  "1WSłuY"  # San Bernando
+  "1W^ÉbŻe"  # San Blas
+  "1W^ú"  # San Bruno
+  "1WaSmŻe"  # San Carlos
+  "1WaS6wTXú"  # San Cayetano
+  "1WúWcw"  # San Cristo
+  "1WKQĚŻeXbˇVS^SY"  # San Cristo del Paldo
+  "1WúWcwTč7b"  # San Cristo y Portal
+  "1WKQĚŻeXb+Y"  # San Christophe
+  "1WKQĚŻeXbôTS"  # San Cristobal
+  "1Wžl0t"  # San Dámaso
+  "1Wíb"  # San Diego
+  "1WęsŻe"  # San Dimas
+  "1WĂWSŤ"  # San Elmo
+  "1WĂWmO"  # San Eloy
+  "1WĂWŻeyrN"  # San Esteban
+  "1WĂWŻeyrNów"  # San Esteban Apedrado
+  "1W'k¨N<SeY"  # San Eugenio
+  "1W9)RiO"  # San Felipe
+  "1W9)RiO?âlŻeXbS"  # San Felipe Apostol
+  "1Wň<SKQŻeˇVNWTX)ReY"  # San Félix de Cantalicio
+  "1Wň<SKQŻeˇVaSŻe)RN"  # San Félix de Castilla
+  "1Wň<SKQŻeˇV0tŃyW"  # San Félix de Socorro
+  "1W9Sf"  # San Fermín
+  "1W9SWSY"  # San Fernando
+  "1W9SWSYGYŃy"  # San Fernando el Chico
+  "1Weyr"  # San Foit
+  "1WVgŻeŃy"  # San Francisco
+  "Nv1WšeNmT"  # San Francisco de Asís
+  "1WVgŻeŃyˇVZSSČT"  # San Francisco de Borja
+  "1WVgŻeŃyˇVÝOÉb"  # San Francisco de Paula
+  "1WšeNmˇl˙Reu"  # San Francisco Javier
+  "1WVgŻeŃyÉbXoÉb"  # San Francisco la Panla
+  "1WšeNmTl˙Reu"  # San Francisco Xavier
+  "1WRN<SeYˇV^Yćt"  # San Francisco y San Antonio de Padua
+  "1WĚRS¨NeY"  # San Fulgencio
+  "1W R+YRS"  # San Gabriel
+  "1WípQW"  # San Genaro
+  "1WĺeSüf"  # San Germán
+  "1W	TÔkpQ"  # San Gibilan
+  "1WTNćt<S"  # San Giovanni
+  "1W<h÷bĚeY"  # San Gregorio
+  "1WĂWShQ^SY"  # San Hermenegildo
+  "1WOˇVše0t"  # San Idefonso
+  "1WO<hłueY"  # San Ignacio
+  "1WOYW"  # San Isidoro
+  "1WOˇVW"  # San Isidro
+  "1WkłuW"  # San Jenaro
+  "1WkW<SŤ"  # San Jerónimo
+  "1WNSŃ"  # San Joaquin
+  "1WjSk"  # San Jorge
+  "1WUO^X"  # San José
+  "^2m1WUO^X"  # San José el África
+  "1WUO^X"  # San José
+  "1WUO^XˇVôuY)RN"  # San José de Victoria
+  "1WUO^XT?<SlŻe"  # San José y Ánimas
+  "1WáwR"  # San Juan
+  "1WáwRSŻeTX"  # San Juan Bautista
+  "1WáwRˇVâlŤ(łu"  # San Juan de Pomosana
+  "1WáwRGYŃy"  # San Juan el Chico
+  "1WáwRĂWNk)RŻeTX"  # San Juan Evangelista
+  "1WáwRQâlFz^Xú"  # San Juan Nepomuceno
+  "1W1g)RR"  # San Julián
+  "1WáwŻeXb"  # San Justo
+  "1WłR&O"  # San Lauren
+  "1WąRˇVW"  # San Leandro
+  "1Wąf"  # San León
+  "1W)Rú"  # San Lino
+  "1Wm&OPO"  # San Lorenzo
+  "1WďfŻe"  # San Luis
+  "1WďfŻeSyrpQ"  # San Luis Beltrán
+  "1WďfŻe!( R"  # San Luis Gonzaga
+  "1WlŃyŻe"  # San Marcos
+  "1WlN"  # San Martín
+  "1WlyreY"  # San Mateo
+  "1Ws|<hS"  # San Miguel
+  "1Ws|<hSĂWSVmłu"  # San Miguel el Volante
+  "1Ws|<hST?NWY?"  # San Miguel y Acandoa
+  "1Włu0t"  # San Narciso
+  "1W<SäSÉbŻe"  # San Nicolás
+  "ôTĚv1W<SäSÉbŻe"  # San Nicolás de Bari
+  "1WúTX"  # San Noberta
+  "1WôTĂRW"  # San Pablo
+  "1W^ŃyÉb"  # San Pacora
+  "1WôTŻe8Y"  # San Pascual Bailón
+  "1WiOˇVW"  # San Pedro
+  "1WiOˇVW?âlŻeXbS"  # San Pedro Apostol
+  "?SNWTXÉbv1WiOˇVW"  # San Pedro de Alcántara
+  "1WiOˇVWT?<SlŻe"  # San Pedro y Ánimas
+  "1WiOˇVWTVgŻeŃy"  # San Pedro y Fransisco
+  "1WŐkeY"  # San Pío
+  "1WÉbeS"  # San Rafael
+  "1W÷Y"  # San Raymundo
+  "1WÉb"  # San Ramón
+  "1WWîhY"  # San Rosendo
+  "1W(SćtXb"  # San Salvator
+  "1W^XôTŻeR"  # San Sebastián
+  "1W^XôTŻeRT?<SlŻe"  # San Sebastián y las Ánimas
+  "1WyrSŤ"  # San Telmo
+  "1W	NNTTNW"  # San Trinidad y Joroe
+  "1Wôuîhyr 9÷S"  # San Vicente Ferrer
+  "1Wôuîhyr"  # San Vincente
+  "1WNbXN"  # San Yago a Horcajadas
+  "1W^XQ"  # San Zenón
+  "1WáwŻeTXňZ"  # Sancta Justa Rufina
+  "Qh-WQXb"  # Sanguineto
+  "1W?l)RZ"  # Santa Amalia
+  "1WRZ"  # Santa Ana
+  "1WôTôTÉb"  # Santa Bárbara
+  "1WÔkÔkRłu"  # Santa Bibiana
+  "1W^Ě	Tž"  # Santa Brigida
+  "1WaSSž"  # Santa Casilda
+  "1WaSTX)RZ"  # Santa Catalina
+  "1W^XN"  # Santa Cecilia
+  "1WKQÉbÉb"  # Santa Clara
+  "1WKQŻe"  # Santa Cruz
+  "1WYWyr?"  # Santa Dorotea
+  "1WĂW3tZ"  # Santa Elena
+  "1WfRw"  # Santa Escolástica
+  "1WśRĎe"  # Santa Familia
+  "1WVm&OZ"  # Santa Florentina
+  "1WkyręŻe"  # Santa Gertrudis
+  "1WOQN"  # Santa Inés
+  "1WOS"  # Santa Isabel
+  "1WUO^XNbN1WÍk"  # Santa Jose y Ntra. Sra. de Begoyna
+  "1WáwŻeTX"  # Santa Justa
+  "1WąeYaSęN"  # Santa Leocadia
+  "1WTX)RôućtyrT?<SËuSĆYŻe"  # Santa Levivate y Aniiniums
+  "1WbSN"  # Santa Lucía
+  "1Ws<hžąZ"  # Santa Magdalena
+  "1Ws)R RKNTX"  # Santa Margarita
+  "1WsKNN"  # Santa María
+  "1WsKNNÉbaSiONb"  # Santa María de la Cabeza
+  "1WsKNNˇVyrNbúŻeT?<SlŻe"  # Santa María de Tezanos y las Ánimas
+  "1Ws)RN l<hžąłu"  # Santa María Magdalena
+  "1WsSTX"  # Santa Marta
+  "1WsSž"  # Santa Matilda
+  "1WŤ<SaS"  # Santa Mónica
+  "1WłuTX)RZ"  # Santa Natalia
+  "1WÝOÉb"  # Santa Paula
+  "1WiOSiOţV?"  # Santa Perpetua
+  "1WKNTX"  # Santa Rita
+  "1WW("  # Santa Rosa
+  "1WW(Z"  # Santa Rosalía
+  "ôTŇRŤv1WW(Z"  # Santa Rosalía de Palermo
+  "1WW(ZĺT)Rłu"  # Santa Rosalía Golondrina
+  "1WňZ"  # Santa Rufina
+  "1WdÔkłu"  # Santa Sabina
+  "1WĎĘsZ"  # Santa Susana
+  "1WyrKQÉb"  # Santa Tecla
+  "1Wyr"  # Santa Teresa
+  "1Wyr"  # Santa Teresa
+  "'YˇVpQîOsY"  # Santa Teresa de Jesús
+  "ąNŇRŻev1Wyr"  # Santa Teresa de Nápoles
+  "1WôuY)RN"  # Santa Victoria
+  "1WOS"  # Santa Isabel
+  "1W0WNĺT"  # Santiago
+  "OV1WĹT"  # Santiago Apostol
+  "2m1W0WNĺT"  # Santiago de América
+  "1W	NN"  # Santísima Trinidad
+  "ó1W	NNTUČu1WÍk"  # Santísima Trinidad y Ntra. Sra. del Buen Fin
+  "ó1WxQ<y"  # Santísimo Sacramento
+  "1WWlvúWcw"  # Cristo de San Román
+  "1WYfb"  # Santo Domingo
+  "1WXblŻe"  # Santo Tomás
+  "Ť<hWćv1WXbĚÔkeY"  # Santo Toribio de Mogrobejo
+  "^XôTŻeRZ"  # Sebastiana
+  ",rNËS"  # Segunda Amistad
+  "^XąNŻe"  # Selerais
+  "(Éb+YşN"  # Seńora Sara
+  "Sše"  # Septentrión
+  "^XĚeY"  # Serio
+  "^XôTN"  # Serpadón
+  "^XeŇRú"  # Severno
+  "^Xôu)RN"  # Sevillana
+  "iKNZ"  # Sirena
+  "TIN"  # Soberano
+  "˛P"  # Soberbio
+  "Ę`U"  # Sorpresa
+  "ĎĘsZ"  # Susana
+  "yr"  # Teresa
+  "pS"  # Terrible
+  "ŇVĐcŻe"  # Tetis
+  "N"  # Tigre
+  "XblŻeTsKNN"  # Tomás y María
+  "ÜL"  # Travela
+  "	NÉSb"  # Tridente
+  "yrËz<Sž"  # Trinidad
+  "Üw)R"  # Triunfante
+  "ďQËe"  # Triunfo
+  "ěrŇQ"  # Unicornio
+  "ôT&ON"  # Valenciano
+  "ÇRbe"  # Valiente
+  "ÉbŻeŃy"  # Velasco
+  "Oewc"  # Veloz
+  "Oewc9XT"  # Veloz Pasajero
+  "Üw)Rw"  # Vencendor
+  "YÇNw"  # Vengador
+  "YÇN"  # Venganza
+  "x^Đ"  # Ventura
+  "ôułuŻe"  # Venus
+  "ôuY)RN"  # Victoria
+  "Üw)R"  # Victorioso
+  "Hgf"  # Vigilante
+  "ŐkSôT+RX"  # Villa de Bilbao
+  "ŕeł"  # Vincejo
+  "Nć1WÍk"  # Virgen de Soledad
+  "ćĆRqS1WÍk"  # Virgen del Carmen
+  "Ťspt1WÍk"  # Virgen del Rosario
+  "NS"  # Viva
+  "ôućtyQ"  # Viváz
+  "uIm"  # Vivo
+  "ŢL"  # Volador
+  "ŢÔ"  # Volante
+  "lÉbĚeY"  # Volario
+}
+army_names = {
+  "vśRkS"  # Guardia Real
+  "$PROVINCE$Q"  # Ejército de $PROVINCE$
+}
+fleet_names = {
+  "vśRwmQ"  # Armada Real
+  "$PROVINCE$0"  # Flota de $PROVINCE$
+}

@@ -1,0 +1,4 @@
+EDG_IRE_change_236_name_effect = {
+	change_province_name = "&O‚„ËuÆY"
+	rename_capital = "&O‚„ËuÆY"
+}

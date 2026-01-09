@@ -1,0 +1,544 @@
+﻿l_english:
+ EDG_BYZ_fortify_city:0 " RúVÎW2–"
+ desc_EDG_BYZ_fortify_city:0 ""
+ EDG_BYZ_defence_in_depth:0 "µuñm2–¡V"
+ desc_EDG_BYZ_defence_in_depth:0 ""
+ EDG_BYZ_fight_to_win_or_die:0 "Ìw4lNb"
+ desc_EDG_BYZ_fight_to_win_or_die:0 ""
+ EDG_BYZ_battle_with_spirt:0 "NŸjOl"
+ desc_EDG_BYZ_battle_with_spirt:0 ""
+ EDG_BYZ_dead_city:0 "‰kÂRKNÎW"
+ desc_EDG_BYZ_dead_city:0 "mN¸‹§YTëXfWN!X§!Ç»SïSŒNLu4ngKNÎWÿFOww°s(W„vƒR'Tÿánîv®uÍuÿËQö–4x%0,rÛV!kASWR›QNb&^eg„v2OÛuöeóÊNåeÍN6q¡l	g«ˆ‰V•^-Vs^ÿÇNh`02a`0P`LaNT%V+oŽNÙµ^CSt^äSÎWKNô•ÿWˆNö–ce„vLˆºNb÷Ø`ÿbP`ç`ÿÞT±Ø²Ž(WéeòTïžámàeIQ«R¿k-N„v‡v^5ÏeNwIr…VNwÙ*NS‰k^ýVgT„v+gåe0"
+ EDG_BYZ_breathing_space:0 "˜Uo`KN:g"
+ desc_EDG_BYZ_breathing_space:0 ""
+ EDG_BYZ_march_on_italy:0 "Û›Qa'Y)R"
+ desc_EDG_BYZ_march_on_italy:0 ""
+ EDG_BYZ_control_aegean_sea:0 "Œcµc1r4twm"
+ desc_EDG_BYZ_control_aegean_sea:0 ""
+ EDG_BYZ_infiltrate_the_mamluks:0 "nlšFzœKQ"
+ desc_EDG_BYZ_infiltrate_the_mamluks:0 ""
+ EDG_BYZ_north_sheild_overlord:0 "S¹eKNþv"
+ desc_EDG_BYZ_north_sheild_overlord:0 ""
+ EDG_BYZ_north_sheild_subject:0 "S¹eKNþv"
+ desc_EDG_BYZ_north_sheild_subject:0 ""
+ EDG_BYZ_kapatia_military:0 "aS^ÐcšN›Q:S"
+ desc_EDG_BYZ_kapatia_military:0 ""
+ EDG_BYZ_conquer_gernman:0 "²maƒ·Va×V"
+ desc_EDG_BYZ_conquer_gernman:0 ""
+ EDG_BYZ_expand_our_sea:0 "ÓbUS…Qwm"
+ desc_EDG_BYZ_expand_our_sea:0 ""
+ EDG_BYZ_africa_wealth:0 "^—2m„v0ÌR"
+ desc_EDG_BYZ_africa_wealth:0 ""
+ EDG_BYZ_geo_mil_overlord:0 "²qSKNPR"
+ desc_EDG_BYZ_geo_mil_overlord:0 ""
+ EDG_BYZ_geo_mil_subject:0 "²qSKNPR"
+ desc_EDG_BYZ_geo_mil_subject:0 ""
+ EDG_BYZ_feo_mil_overlord:0 "ÑžwmúW0W"
+ desc_EDG_BYZ_feo_mil_overlord:0 ""
+ EDG_BYZ_feo_mil_subject:0 "ÑžwmúW0W"
+ desc_EDG_BYZ_feo_mil_subject:0 ""
+ EDG_BYZ_iran_expedition:0 "OgÜV"
+ desc_EDG_BYZ_iran_expedition:0 ""
+ EDG_BYZ_privilege_act:0 "yrCgÕlHh"
+ desc_EDG_BYZ_privilege_act:0 ""
+ EDG_BYZ_conver_culture_modifier:0 "ck(WlØS‡eS"
+ desc_EDG_BYZ_conver_culture_modifier:0 ""
+ EDG_BYZ_cultural_melting_pot:0 "‡eS”q‰p"
+ desc_EDG_BYZ_cultural_melting_pot:0 ""
+ EDG_BYZ_pronoia_culture_overlord:0 "‡eS”q‰p"
+ desc_EDG_BYZ_pronoia_culture_overlord:0 ""
+ EDG_BYZ_mil_province_base_subject_modifier:0 "›Q:S"
+ desc_EDG_BYZ_mil_province_base_subject_modifier:0 ""
+ EDG_BYZ_early_industrialization:0 "éegåTNS"
+ desc_EDG_BYZ_early_industrialization:0 ""
+ EDG_BYZ_rebuild_shipyard:0 "wm›QåTN"
+ desc_EDG_BYZ_rebuild_shipyard:0 ""
+ EDG_BYZ_classical_city:0 "äSxQKNÎW"
+ desc_EDG_BYZ_classical_city:0 ""
+ EDG_BYZ_new_world_hope:0 "°eNLuÎ‘g"
+ desc_EDG_BYZ_new_world_hope:0 ""
+ EDG_BYZ_open_to_new_ideas:0 "¥c³u°e`ó`"
+ desc_EDG_BYZ_open_to_new_ideas:0 ""
+ EDG_BYZ_economic_health:0 "eP·^„vÏuNm"
+ desc_EDG_BYZ_economic_health:0 ""
+ EDG_BYZ_queen_of_all_cities:0 "OÎWsY‡v"
+ desc_EDG_BYZ_queen_of_all_cities:0 ""
+ EDG_BYZ_province_base_subject_modifier:0 "^ýVLˆw"
+ desc_EDG_BYZ_province_base_subject_modifier:0 ""
+ EDG_BYZ_province_extra_expand_modifier:0 "ib'YLˆw"
+ desc_EDG_BYZ_province_extra_expand_modifier:0 ""
+ EDG_BYZ_longing_for_the_world_city:0 "4ngNLuKNÎW"
+ desc_EDG_BYZ_longing_for_the_world_city:0 ""
+ EDG_BYZ_empire_of_world:0 "NLu^ýV"
+ desc_EDG_BYZ_empire_of_world:0 ""
+ EDG_BYZ_military_mission_modifier_1:0 "OSkSb=g"
+ desc_EDG_BYZ_military_mission_modifier_1:0 ""
+ EDG_BYZ_military_mission_modifier_2:0 "íp&^b=g"
+ desc_EDG_BYZ_military_mission_modifier_2:0 ""
+ EDG_BYZ_military_mission_modifier_3:0 "'YuQâVb=g"
+ desc_EDG_BYZ_military_mission_modifier_3:0 ""
+ EDG_BYZ_military_mission_modifier_4:0 "™l.ob=g"
+ desc_EDG_BYZ_military_mission_modifier_4:0 ""
+ EDG_BYZ_military_mission_modifier_5:0 "è–cRb=g"
+ desc_EDG_BYZ_military_mission_modifier_5:0 ""
+ EDG_BYZ_military_mission_modifier_6:0 "OSTb=g"
+ desc_EDG_BYZ_military_mission_modifier_6:0 ""
+ EDG_BYZ_military_mission_modifier_7:0 "ÒR&^b=g"
+ desc_EDG_BYZ_military_mission_modifier_7:0 ""
+ EDG_BYZ_military_mission_modifier_8:0 "ôVIeb=g"
+ desc_EDG_BYZ_military_mission_modifier_8:0 ""
+ EDG_BYZ_adequate_supplies:0 "EQ³„veˆÙu"
+ desc_EDG_BYZ_adequate_supplies:0 ""
+ EDG_BYZ_feed_the_people:0 "'Y0N6e"
+ desc_EDG_BYZ_feed_the_people:0 ""
+ EDG_BYZ_refugee_influx:0 "¾–lŒmeQ"
+ desc_EDG_BYZ_refugee_influx:0 ""
+ EDG_BYZ_ship_industry_upgrading:0 "9‚6‚åTNGSµu"
+ desc_EDG_BYZ_ship_industry_upgrading:0 ""
+ EDG_BYZ_inland_fleet:0 "…Qwm0‚–"
+ desc_EDG_BYZ_inland_fleet:0 ""
+
+
+ EDG_BYZ_military_window_control_button.tt:0 "µc6R§Y›Q‹Nb—g§!>f:y"
+ EDG_BYZ_military_reform_max:0 "òT¾0Rg'Y§Y›Q‹NIrµu§!ÿ"
+ EDG_BYZ_mil_reform_give_modifier:0 "SVMR§Y›Q‹NIrµu§!Ðc›O„vîOck‚YNÿ"
+ EDG_BYZ_military_reform_inf_button.tt:0 "ÐcGS§TekuQ§!§Y›Q‹NIrµu§!"
+ EDG_BYZ_military_reform_inf_button_progress_1.tt:0 ""
+ EDG_BYZ_military_reform_inf_button_progress_1_full.tt:0 "›Q‹NIrµuÿ§YI§!"
+ EDG_BYZ_military_reform_inf_button_progress_2.tt:0 ""
+ EDG_BYZ_military_reform_inf_button_progress_2_full.tt:0 "›Q‹NIrµuÿ§YII§!"
+ EDG_BYZ_military_reform_inf_button_progress_3.tt:0 ""
+ EDG_BYZ_military_reform_inf_button_progress_3_full.tt:0 "›Q‹NIrµuÿ§YIII§!"
+ EDG_BYZ_military_reform_inf_button_progress_4.tt:0 ""
+ EDG_BYZ_military_reform_inf_button_progress_4_full.tt:0 "›Q‹NIrµuÿ§YIV§!"
+ EDG_BYZ_military_reform_cav_button.tt:0 "ÐcGS§T‘šuQ§!§Y›Q‹NIrµu§!"
+ EDG_BYZ_military_reform_cav_button_progress_1.tt:0 ""
+ EDG_BYZ_military_reform_cav_button_progress_1_full.tt:0 "›Q‹NIrµuÿ§YI§!"
+ EDG_BYZ_military_reform_cav_button_progress_2.tt:0 ""
+ EDG_BYZ_military_reform_cav_button_progress_2_full.tt:0 "›Q‹NIrµuÿ§YII§!"
+ EDG_BYZ_military_reform_cav_button_progress_3.tt:0 ""
+ EDG_BYZ_military_reform_cav_button_progress_3_full.tt:0 "›Q‹NIrµuÿ§YIII§!"
+ EDG_BYZ_military_reform_cav_button_progress_4.tt:0 ""
+ EDG_BYZ_military_reform_cav_button_progress_4_full.tt:0 "›Q‹NIrµuÿ§YIV§!"
+ EDG_BYZ_military_reform_art_button.tt:0 "ÐcGS§T®puQ§!§Y›Q‹NIrµu§!"
+ EDG_BYZ_military_reform_art_button_progress_1.tt:0 ""
+ EDG_BYZ_military_reform_art_button_progress_1_full.tt:0 "›Q‹NIrµuÿ§YI§!"
+ EDG_BYZ_military_reform_art_button_progress_2.tt:0 ""
+ EDG_BYZ_military_reform_art_button_progress_2_full.tt:0 "›Q‹NIrµuÿ§YII§!"
+ EDG_BYZ_military_reform_art_button_progress_3.tt:0 ""
+ EDG_BYZ_military_reform_art_button_progress_3_full.tt:0 "›Q‹NIrµuÿ§YIII§!"
+ EDG_BYZ_military_reform_art_button_progress_4.tt:0 ""
+ EDG_BYZ_military_reform_art_button_progress_4_full.tt:0 "›Q‹NIrµuÿ§YIV§!"
+ EDG_BYZ_military_reform_expand_button.tt:0 "Í‘n§Y›Q‹NIrµu§!"
+ EDG_BYZ_military_reform_expand_button.effect.tt:0 "Nb	g§Y›Q‹NIrµu§!Í‘n:N§Y0§!ÿ§Y7R°e§!v^§YÔØ§!Nb	gòT•beQ„v§Y›Q‹NÏuŒš§!"
+
+ BYZ:0 "N^ýV"
+
+
+
+ MineTestEvents.13.aa:0 ""
+ MineTestEvents.13.aa.tt:0 "F–›Q.Oßuÿ$[EDG_BYZ_army_tradition.GetValue]|1+$\nekuQÔk‹Oÿ[EDG_BYZ_infantry_fraction.GetValue]\n‘šuQÔk‹Oÿ[EDG_BYZ_cavalry_fraction.GetValue]\n‘šuQÔk‹Oÿ[EDG_BYZ_artillery_fraction.GetValue]\nNb×S²QûQ2O³Rÿ[EDG_BYZ_shock_damage_received.GetValue]\nKmÕ‹ÿ[test_var.GetValue]\nY²NðX‰Šÿ[EDG_diplomatic_reputation.GetValue]"
+
+ BYZ_mil_panel_text_1:0 "[From.GetShockDamageVar]"
+ BYZ_mil_panel_text_1.tt:0 "²QûQ2O³R"
+ EDG_shock_damage_var_zero:0 "§Y[EDG_shock_damage_var.GetValue]%§!"
+ EDG_shock_damage_var_benefit:0 "§G+[EDG_shock_damage_var.GetValue]%§!"
+ EDG_shock_damage_var_penalty:0 "§R[EDG_shock_damage_var.GetValue]%§!"
+ BYZ_mil_panel_text_2:0 "[From.GetShockDamageRecVar]"
+ BYZ_mil_panel_text_2.tt:0 "Nb×S²QûQ2O³R"
+ EDG_shock_damage_received_var_zero:0 "§Y[EDG_shock_damage_received_var.GetValue]%§!"
+ EDG_shock_damage_received_var_benefit:0 "§G[EDG_shock_damage_received_var.GetValue]%§!"
+ EDG_shock_damage_received_var_penalty:0 "§R+[EDG_shock_damage_received_var.GetValue]%§!"
+ BYZ_mil_panel_text_3:0 "[From.GetFireDamageVar]"
+ BYZ_mil_panel_text_3.tt:0 "F–›Qkp›R2O³R"
+ EDG_fire_damage_var_zero:0 "§Y[EDG_fire_damage_var.GetValue]%§!"
+ EDG_fire_damage_var_benefit:0 "§G+[EDG_fire_damage_var.GetValue]%§!"
+ EDG_fire_damage_var_penalty:0 "§R[EDG_fire_damage_var.GetValue]%§!"
+ BYZ_mil_panel_text_4:0 "[From.GetFireDamageRecVar]"
+ BYZ_mil_panel_text_4.tt:0 "F–›QNb×Skp›R2O³R"
+ EDG_fire_damage_received_var_zero:0 "§Y[EDG_fire_damage_received_var.GetValue]%§!"
+ EDG_fire_damage_received_var_benefit:0 "§G[EDG_fire_damage_received_var.GetValue]%§!"
+ EDG_fire_damage_received_var_penalty:0 "§R+[EDG_fire_damage_received_var.GetValue]%§!"
+ BYZ_mil_panel_text_5:0 "[From.GetMoaleDamageVar]"
+ BYZ_mil_panel_text_5.tt:0 "ëXlSbûQ"
+ EDG_morale_damage_var_zero:0 "§Y[EDG_morale_damage_var.GetValue]%§!"
+ EDG_morale_damage_var_benefit:0 "§G+[EDG_morale_damage_var.GetValue]%§!"
+ EDG_morale_damage_var_penalty:0 "§R[EDG_morale_damage_var.GetValue]%§!"
+ BYZ_mil_panel_text_6:0 "[From.GetMoaleDamageRecVar]"
+ BYZ_mil_panel_text_6.tt:0 "Nb×SëXlSbûQ"
+ EDG_morale_damage_received_var_zero:0 "§Y[EDG_morale_damage_received_var.GetValue]%§!"
+ EDG_morale_damage_received_var_benefit:0 "§G[EDG_morale_damage_received_var.GetValue]%§!"
+ EDG_morale_damage_received_var_penalty:0 "§R+[EDG_morale_damage_received_var.GetValue]%§!"
+ BYZ_mil_panel_text_7:0 "[From.GetRecArmyMoraleSpeedVar]"
+ BYZ_mil_panel_text_7.tt:0 "F–›QëXlb`Y¦^"
+ EDG_recover_army_morale_speed_var_zero:0 "§Y[EDG_recover_army_morale_speed_var.GetValue]%§!"
+ EDG_recover_army_morale_speed_var_benefit:0 "§G+[EDG_recover_army_morale_speed_var.GetValue]%§!"
+ EDG_recover_army_morale_speed_var_penalty:0 "§R[EDG_recover_army_morale_speed_var.GetValue]%§!"
+ BYZ_mil_panel_text_8:0 "[From.GetReservesOrganisationVar]"
+ BYZ_mil_panel_text_8.tt:0 "*gÂSbF–›QëXlmc1YÏQS"
+ EDG_reserves_organisation_var_zero:0 "§Y[EDG_reserves_organisation_var.GetValue]%§!"
+ EDG_reserves_organisation_var_benefit:0 "§G+[EDG_reserves_organisation_var.GetValue]%§!"
+ EDG_reserves_organisation_var_penalty:0 "§R[EDG_reserves_organisation_var.GetValue]%§!"
+ BYZ_mil_panel_text_9:0 "[From.GetReinforceCostVar]"
+ BYZ_mil_panel_text_9.tt:0 "žXôc±‚9"
+ EDG_reinforce_cost_modifier_var_zero:0 "§Y[EDG_reinforce_cost_modifier_var.GetValue]%§!"
+ EDG_reinforce_cost_modifier_var_benefit:0 "§G[EDG_reinforce_cost_modifier_var.GetValue]%§!"
+ EDG_reinforce_cost_modifier_var_penalty:0 "§R+[EDG_reinforce_cost_modifier_var.GetValue]%§!"
+ BYZ_mil_panel_text_10:0 "[From.GetReinforceSpeedVar]"
+ BYZ_mil_panel_text_10.tt:0 "žXôcHe‡s"
+ EDG_reinforce_speed_var_zero:0 "§Y[EDG_reinforce_speed_var.GetValue]%§!"
+ EDG_reinforce_speed_var_benefit:0 "§G+[EDG_reinforce_speed_var.GetValue]%§!"
+ EDG_reinforce_speed_var_penalty:0 "§R[EDG_reinforce_speed_var.GetValue]%§!"
+ BYZ_mil_panel_text_11:0 "[From.GetRegimentCostVar]"
+ BYZ_mil_panel_text_11.tt:0 "F–›QVìS±‚9"
+ EDG_global_regiment_cost_var_zero:0 "§Y[EDG_global_regiment_cost_var.GetValue]%§!"
+ EDG_global_regiment_cost_var_benefit:0 "§G[EDG_global_regiment_cost_var.GetValue]%§!"
+ EDG_global_regiment_cost_var_penalty:0 "§R+[EDG_global_regiment_cost_var.GetValue]%§!"
+ BYZ_mil_panel_text_12:0 "[From.GetLandMaintenanceVar]"
+ BYZ_mil_panel_text_12.tt:0 "F–›Qôu²b9"
+ EDG_land_maintenance_modifier_var_zero:0 "§Y[EDG_land_maintenance_modifier_var.GetValue]%§!"
+ EDG_land_maintenance_modifier_var_benefit:0 "§G[EDG_land_maintenance_modifier_var.GetValue]%§!"
+ EDG_land_maintenance_modifier_var_penalty:0 "§R+[EDG_land_maintenance_modifier_var.GetValue]%§!"
+ BYZ_mil_panel_text_13:0 "[From.GetLandAttritionVar]"
+ BYZ_mil_panel_text_13.tt:0 "F–›Qmcw"
+ EDG_land_attrition_var_zero:0 "§Y[EDG_land_attrition_var.GetValue]%§!"
+ EDG_land_attrition_var_benefit:0 "§G[EDG_land_attrition_var.GetValue]%§!"
+ EDG_land_attrition_var_penalty:0 "§R+[EDG_land_attrition_var.GetValue]%§!"
+ BYZ_mil_panel_text_14:0 "[From.GetMovementSpeedVar]"
+ BYZ_mil_panel_text_14.tt:0 "F–›Qûy¨R¦^"
+ EDG_movement_speed_var_zero:0 "§Y[EDG_movement_speed_var.GetValue]%§!"
+ EDG_movement_speed_var_benefit:0 "§G+[EDG_movement_speed_var.GetValue]%§!"
+ EDG_movement_speed_var_penalty:0 "§R[EDG_movement_speed_var.GetValue]%§!"
+
+ EDG_refresh_mil_var_title:0 "7R°e§T›Q‹Nb—Hr§!îOck"
+ EDG_refresh_mil_var_desc:0 "§YKb¨R7R°e›Q‹Nb—g„vpenc§!"
+
+ EDG_mil_panel_button.tt:0 "µc6Rb—g"
+ EDG_mil_panel_button.close.tt:0 "sQí•§Y˜Y›Q‹Nb—g§!"
+ EDG_mil_panel_button.open.tt:0 "=T(u§Y˜Y›Q‹Nb—g§!"
+ EDG_refresh_mil_panel_button.tt:0 "7R°epenc"
+
+
+ EDG_BYZ_constantinople_1_slot_var:0 "ÎWY§YI`ú^.MO§!"
+ EDG_BYZ_constantinople_2_slot_var:0 "YÎW:S§YI`ú^.MO§!"
+ EDG_BYZ_constantinople_3_slot_var:0 "-NÎW:S§YI`ú^.MO§!"
+ EDG_BYZ_constantinople_4_slot_var:0 "kSÎW§YI`ú^.MO§!"
+ EDG_BYZ_constantinople_1_slot_use_var:0 "ÎWY§RòT(uú^.MO§!"
+ EDG_BYZ_constantinople_2_slot_use_var:0 "YÎW:S§RòT(uú^.MO§!"
+ EDG_BYZ_constantinople_3_slot_use_var:0 "-NÎW:S§RòT(uú^.MO§!"
+ EDG_BYZ_constantinople_4_slot_use_var:0 "kSÎW§RòT(uú^.MO§!"
+ EDG_BYZ_constantinople_1_slot_leisure_var:0 "ÎWY§Gzzò•ú^.MO§!"
+ EDG_BYZ_constantinople_2_slot_leisure_var:0 "YÎW:S§Gzzò•ú^.MO§!"
+ EDG_BYZ_constantinople_3_slot_leisure_var:0 "-NÎW:S§Gzzò•ú^.MO§!"
+ EDG_BYZ_constantinople_4_slot_leisure_var:0 "kSÎW§Gzzò•ú^.MO§!"
+
+ EDG_BYZ_constantinople_extravagant_var:0 "§ObYa—§!"
+ EDG_BYZ_constantinople_safety_var:0 "§G‰RhQ§!"
+ EDG_BYZ_constantinople_efficiency_var:0 "§THe‡s§!"
+
+
+ EDG_BYZ_constantinople_build_slot_text:0 "§Y[Root.GetBuildSlot]§!"
+ EDG_BYZ_constantinople_build_slot_var_1:0 "ÎWY:SßW"
+ EDG_BYZ_constantinople_build_slot_var_2:0 "YÎW:S"
+ EDG_BYZ_constantinople_build_slot_var_3:0 "-NÎW:S"
+ EDG_BYZ_constantinople_build_slot_var_4:0 "kSÎW"
+
+ 
+ EDG_BYZ_total_build_var_text:0 "I`ú^.MO" 
+ EDG_BYZ_total_build_var_value:0 "§Y[Root.GetTotalBuildVar]§!"
+ EDG_BYZ_total_build_var_1:0 "[EDG_BYZ_constantinople_1_slot_var.GetValue]"
+ EDG_BYZ_total_build_var_2:0 "[EDG_BYZ_constantinople_2_slot_var.GetValue]"
+ EDG_BYZ_total_build_var_3:0 "[EDG_BYZ_constantinople_3_slot_var.GetValue]"
+ EDG_BYZ_total_build_var_4:0 "[EDG_BYZ_constantinople_4_slot_var.GetValue]"
+ EDG_BYZ_leisure_build_var_text:0 "ïS(uú^.MO"
+ EDG_BYZ_leisure_build_var_value:0 "§G[Root.GetLeisureBuildVar]§!"
+ EDG_BYZ_leisure_build_var_1:0 "[EDG_BYZ_constantinople_1_slot_leisure_var.GetValue]"
+ EDG_BYZ_leisure_build_var_2:0 "[EDG_BYZ_constantinople_2_slot_leisure_var.GetValue]"
+ EDG_BYZ_leisure_build_var_3:0 "[EDG_BYZ_constantinople_3_slot_leisure_var.GetValue]"
+ EDG_BYZ_leisure_build_var_4:0 "[EDG_BYZ_constantinople_4_slot_leisure_var.GetValue]"
+ EDG_BYZ_use_build_var_text:0 "òT(uú^.MO"
+ EDG_BYZ_use_build_var_value:0 "§R[Root.GetUseBuildVar]§!"
+ EDG_BYZ_use_build_var_1:0 "[EDG_BYZ_constantinople_1_slot_use_var.GetValue]"
+ EDG_BYZ_use_build_var_2:0 "[EDG_BYZ_constantinople_2_slot_use_var.GetValue]"
+ EDG_BYZ_use_build_var_3:0 "[EDG_BYZ_constantinople_3_slot_use_var.GetValue]"
+ EDG_BYZ_use_build_var_4:0 "[EDG_BYZ_constantinople_4_slot_use_var.GetValue]"
+ EDG_BYZ_constantinople_build_slot_title:0 ":SßWú^¾‹"
+
+ EDG_BYZ_expand_window_building_1.tt:0 "=nãS"
+ EDG_BYZ_province_expand_window_button_1_building_1.tt:0 "œQ:W"
+ EDG_BYZ_province_expand_window_button_1_building_2.tt:0 "gr:W"
+ EDG_BYZ_province_expand_window_button_1_building_3.tt:0 "èT—S"
+ 
+ EDG_BYZ_province_expand_window_button_2_building_1.tt:0 "|i?b"
+ EDG_BYZ_province_expand_window_button_2_building_2.tt:0 "^:W"
+ EDG_BYZ_province_expand_window_button_2_building_3.tt:0 "uQ%„"
+ EDG_BYZ_province_expand_window_button_2_building_4.tt:0 "jOJW"
+
+ EDG_BYZ_province_expand_window_button_3_building_1.tt:0 "YeX"
+ EDG_BYZ_province_expand_window_button_3_building_2.tt:0 "4l.n"
+ EDG_BYZ_province_expand_window_button_3_building_3.tt:0 "gRb–"
+ EDG_BYZ_province_expand_window_button_3_building_4.tt:0 "tm:W"
+
+ EDG_BYZ_province_expand_window_button_4_building_1.tt:0 "‡v«R"
+ EDG_BYZ_province_expand_window_button_4_building_2.tt:0 "…QÎW"
+ 
+ EDG_BYZ_province_expand_window_trade_center_button_1.tt:0 "ibú^ÎW^"
+ EDG_BYZ_province_expand_window_trade_center_button_1.effect.tt:0 "§Yibú^ŒRb§!TS·ƒ—VNðHeœgÿ"
+ EDG_BYZ_province_expand_window_trade_center_button_3.trigger.tt:0 "§RòTibú^óg'YIrµuÿ§!"
+ EDG_BYZ_constantinople_build_slot_cut_left.tt:0 "NNÎW:S"
+ EDG_BYZ_constantinople_build_slot_cut_right.tt:0 "NNÎW:S"
+
+ building_EDG_BYZ_urban_planning_1:0 "§YÎW^Ä‰R§! §GI§!"
+ building_EDG_BYZ_urban_planning_1_desc:0 ""
+ building_EDG_BYZ_urban_planning_2:0 "§YÎW^Ä‰R§! §TII§!"
+ building_EDG_BYZ_urban_planning_2_desc:0 ""
+ building_EDG_BYZ_urban_planning_3:0 "§YÎW^Ä‰R§! §OIII§!"
+ building_EDG_BYZ_urban_planning_3_desc:0 ""
+
+ EDG_BYZ_military_var_text:0 "§Y›Q‹NÏuŒš§!ÿ§G[EDG_BYZ_mil_point_var.GetValue]§!"
+ EDG_BYZ_mil_point_var:0 "›Q‹NÏuŒš"
+ EDG_BYZ_battle_lose_var:0 "b—e1Y%!kpe"
+ EDG_BYZ_battle_win_tropical:0 "§Típ&^0W:S§!b—eÜw)R!kpe"
+ EDG_BYZ_battle_win_clod:0 "§T¬QcRlP§!b—eÜw)R!kpe"
+ EDG_BYZ_battle_win_arid:0 "§Tr^ñe0W:S§!b—eÜw)R!kpe"
+ EDG_BYZ_battle_win_rain:0 "§Tè–cRlP§!b—eÜw)R!kpe"
+ EDG_BYZ_mil_point_var_use:0 "ïS(u›Q‹NÏuŒš"
+
+
+
+ EDG_BYZ_province_expand_window_button_efficiency.tt:0 "§THe‡s§!"
+ EDG_BYZ_province_expand_window_button_efficiency.effect.tt:0 "§THe‡s§!cãNÎW^¹e¹eb—b—„vüuTÐlHe‡sÿØš§THe‡s§!SýwY	gHe„vÐcØš6eeQÿÎW^„v§Y8f6eeQ§!SˆV'Yz¦^NÖS³QŽN§THe‡s§!„vØšNO0\n\nÏk§Y1§!¹p§THe‡s§!ïSåN§GžX R§!„vÎW^§Y8f6eeQ§!"
+ EDG_BYZ_province_expand_window_button_efficiency_var:0 "[EDG_BYZ_constantinople_efficiency_var.GetValue]"
+
+ EDG_BYZ_province_expand_window_button_safety.tt:0 "§G‰RhQ§!"
+ EDG_BYZ_province_expand_window_button_safety.effect.tt:0 "§G‰RhQ§!ãNhˆÎW^”^ùRT‰|zÑSÅ`µQÿbºN:Nÿb)YŒp„výw›RÿSg'Y„vqVÍTÎW^„v6eeQ0"
+ EDG_BYZ_province_expand_window_button_safety_var:0 "[EDG_BYZ_constantinople_safety_var.GetValue]"
+
+ EDG_BYZ_province_expand_window_button_extravagant.tt:0 "§ObYa—§!"
+ EDG_BYZ_province_expand_window_button_extravagant.effect.tt:0 "§ObYa—§!bYa—ãNhˆNwÎW^„vteSOuIm4ls^ØšNOÿÎW^„v§YBgy˜6eeQ§!SˆV'Yz¦^NÖS³QŽN§ObYa—§!„vØšNOÿFOTöe§ObYa—§!mNOM–NOÎW^„v§Y8f6eeQ§!0\n\nÏk§Y1§!¹p§ObYa—§!ïSåN§GžX R§!ÎW^§YBgy˜6eeQ§!v^M–NO§R'YE^M–NO§!„vÎW^§Y8f6eeQ§!"
+ EDG_BYZ_province_expand_window_button_extravagant_var:0 "[EDG_BYZ_constantinople_extravagant_var.GetValue]"
+
+ EDG_BYZ_province_expand_window_trade_income_text:0 "§Y8f6eeQ§!ÿ[EDG_BYZ_constantinople_trade_income_var.GetValue]¤"
+ EDG_BYZ_province_expand_window_other_income_text:0 "§YBgy˜6eeQ§!ÿ[EDG_BYZ_constantinople_other_income_var.GetValue]¤"
+
+ EDG_BYZ_province_expand_window_yearly_income_refresh_button.tt:0 "7R°epenc"
+ EDG_BYZ_province_expand_window_yearly_income_refresh_button.effect.tt:0 "§Y[151.GetName]§!SO9hnc§YýV¶R6eeQ§!(W§YÏkt^t^R§!Óu—rN!k§G˜Y6eeQ§!ÿå‹˜Y6eeQR:N2N*NèRÿÎW^§Y8f6eeQ§!NÎW^§YBgy˜6eeQ§!ÿ2NwuªV‚YNìryr—rÕlÿ\n\n================\n\nÎW^t^¦^§Y8f6eeQ§!„v—rÕl:Nÿ\ng¦^8f6eeQ*(T!XÑSUS¦^/10)*(§THe‡s§!-§ObYa—§!)*(§G‰RhQ§!*0.1)\n\nbc—r:NNVÿ\n§Y[EDG_BYZ_monthly_trade_income_var.GetValue]§!(§Y[EDG_BYZ_151_develp_var.GetValue]§!/10)*(§T[EDG_BYZ_constantinople_efficiency_var.GetValue]§!-§O[EDG_BYZ_constantinople_extravagant_var.GetValue]§!)*(§G[EDG_BYZ_constantinople_safety_var.GetValue]§!*0.1)\n\nÓu—r:Nÿ§Y[EDG_BYZ_constantinople_trade_income_var.GetValue]§!¤\n\n================\n\nÎW^t^¦^§YBgy˜§!6eeQ„v—rÕl:Nÿ\nt^6eeQ*(§ObYa—§!*0.1)*(§G‰RhQ§!*0.1)\n\nbc—r:NNVÿ\n§Y[EDG_BYZ_yearly_of_income.GetValue]§!*(§O[EDG_BYZ_constantinople_extravagant_var.GetValue]§!*0.1)*(§G[EDG_BYZ_constantinople_safety_var.GetValue]§!*0.1)\n\nÓu—r:Nÿ§Y[EDG_BYZ_constantinople_other_income_var.GetValue]§!¤\n\n================\n\n—‰èla„v=fÿ(W¡‹—r(§G‰RhQ§!*0.1)N(§ObYa—§!*0.1)öeÿ§YvQ<P8lÜNOSŽN0.1§!ÿTöe(§G‰RhQ§!*0.1)„v<P§Y8lÜNO'YŽN1.2§!\n\n§YÏkt^Óu—rN!k§!Nð6eeQ¤ÿ§YTNÖSte§!"
+
+ EDG_BYZ_military_mission_button_1.tt:0 "OSkSb=g"
+ EDG_BYZ_military_mission_button_2.tt:0 "íp&^b=g"
+ EDG_BYZ_military_mission_button_3.tt:0 "'YuQâVb=g"
+ EDG_BYZ_military_mission_button_4.tt:0 "™l.ob=g"
+ EDG_BYZ_military_mission_button_5.tt:0 "è–cRb=g"
+ EDG_BYZ_military_mission_button_6.tt:0 "OSTb=g"
+ EDG_BYZ_military_mission_button_7.tt:0 "ÒR&^b=g"
+ EDG_BYZ_military_mission_button_8.tt:0 "ôVIeb=g"
+ EDG_BYZ_military_mission_already_compelete:0 "§Rå‹ûN¡RòTÏuŒRbÿ§!"
+
+ EDG_BYZ_province_britannia_title:"@LT0ú^Ëz§YNR ˜<SšN§!Lˆw" 
+ EDG_BYZ_province_britannia_desc:0 ""
+ EDG_BYZ_province_gaul_title:0 "@LT1ú^Ëz§YØšbS§!Lˆw"
+ EDG_BYZ_province_gaul_desc:0 ""
+ EDG_BYZ_province_hispania_title:0 "@LT2ú^Ëz§Y^¯e^<SšN§!Lˆw"
+ EDG_BYZ_province_hispania_desc:0 ""
+ EDG_BYZ_province_africa_title:0 "@LT3ú^Ëz§Y?–^—)R R§!Lˆw"
+ EDG_BYZ_province_africa_desc:0 ""
+ EDG_BYZ_province_illyria_title:0 "@LT4ú^Ëz§YO)RÌ‘šN§!Lˆw"
+ EDG_BYZ_province_illyria_desc:0 ""
+ EDG_BYZ_procince_kapatia_title:0 "@LT5ú^Ëz§YaS^ÐcšN§!Lˆw"
+ EDG_BYZ_procince_kapatia_desc:0 ""
+ EDG_BYZ_province_thrace_title:0 "@LT6ú^Ëz§Yr‚÷–‰šN§!›Q:S"
+ EDG_BYZ_province_thrace_desc:0 ""
+ EDG_BYZ_province_asia_title:0 "@LT7ú^Ëz§YšNÆušN§!Lˆw"
+ EDG_BYZ_province_asia_desc:0 ""
+ EDG_BYZ_province_aipudos_title:0 "@LT8ú^Ëz§Y?–OnfY¯e§!Lˆw"
+ EDG_BYZ_province_aipudos_desc:0 ""
+ EDG_BYZ_province_syria_title:0 "@LT9ú^Ëz§YÙS)RšN§!›Q:S"
+ EDG_BYZ_province_syria_desc:0 ""
+ EDG_BYZ_province_radia_title:0 "@L10ú^Ëz§Y÷–êšN§!Lˆw"
+ EDG_BYZ_province_radia_desc:0 ""
+ EDG_BYZ_province_occitania_title:0 "@L11ú^Ëz§YeYKQ‰TX<SšN§!›Q:S"
+ EDG_BYZ_province_occitania_desc:0 ""
+ EDG_BYZ_province_german_title:0 "@L12ú^Ëz§Yåe3wüf<SšN§!Lˆw"
+ EDG_BYZ_province_german_desc:0 ""
+ EDG_BYZ_province_belgica_title:0 "@L13ú^Ëz§YÔk)RvQaS§!Lˆw"
+ EDG_BYZ_province_belgica_desc:0 ""
+ EDG_BYZ_procince_geo_title:0 "@GEOú^Ëz§Y<hœ	TšN§!Lˆw"
+ EDG_BYZ_procince_geo_desc:0 ""
+ EDG_BYZ_procince_feo_title:0 "@FEOú^Ëz§YKQÌ‘s|šN§!Lˆw"
+ EDG_BYZ_procince_feo_desc:0 ""
+ EDG_BYZ_province_persia_title:0 "@L03ú^Ëz§Y^ÐcšN§!Lˆw"
+ EDG_BYZ_province_persia_desc:0 ""
+ EDG_BYZ_province_italy_title:0 "@L15ú^Ëz§Ya'Y)RšN§!Lˆw"
+ EDG_BYZ_province_italy_desc:0 ""
+ EDG_BYZ_province_cede.effect.tt:0 "§YÍ‘°eRRLˆw¹Lu§!"
+ EDG_BYZ_province_build_decsion_title:0 "@BYZ§Yú^Ëzø‹Lˆw§!³Q®‹µc6R"
+ EDG_BYZ_province_build_decsion_desc:0 ""
+ EDG_BYZ_province_build_decsion.open.tt:0 "SbV§Yú^ËzLˆw§!³Q®‹ÿîvMR=f§RsQí•§!"
+ EDG_BYZ_province_build_decsion.close.tt:0 "sQí•§Yú^ËzLˆw§!³Q®‹ÿîvMR=f§GSbV§!"
+ EDG_BYZ_negotiate_with_sic_title:0 "@SIC‰Rpgm¯eKNNˆ"
+ EDG_BYZ_negotiate_with_sic_desc:0 "‹†ô‹O(„KQ(W1411t^ÛSqNåN1Y%JTÈuÿFOtSaY„v6eY†N‰‰Ì‘0W:Sv^Nb9hŽNå‹0WÿNÇbgR'`„v=f‰Rpgm¯e¶RÏeîvMR(W1443t^„v?eØS-NHSESŽN²býVlQNbŒ„v²býV®‹OKNNÿÌwÛSwÈu«ˆÌwÛS0\n\nKS¡rbìNNôvÆ‰ÖNìN:NÛS’VÿFOÇNh`(Wöeô•„v²Q7RN^ýVåeÊvîX'Y„vžR›RKNNÿŒTã‰<ONNb:N†NæSNÍyã‰³Q¹eÕl0"
+ EDG_BYZ_negotiate_with_azo_title:0 "@AZOjgaS¯e„vWÒk"
+ EDG_BYZ_negotiate_with_azo_desc:0 "SV‰R·VW<SaS”NNsSMOKNTÿjgaS¯e¶RÏeP`mvQSb‹SÿBTwû|8^t^ØvŽŽNKQÌ‘s|šN„vÄreYYWåTyrßu»lwÿ‡s›QÜVÑžwmv^(WšNú^Ëz†NN*NS‹W?eCg0t’ŽN^ýVÑµQnf†NNYtQ(WgÿàVdk‹NÅ`v^^—¡l	gÞVËe„vYO0W0"
+ EDG_BYZ_negotiate_with_feo_title:0 "@FEOåTyr„vˆRg"
+ EDG_BYZ_negotiate_with_feo_desc:0 "KQÌ‘s|šNåTyrºNjO:NåTyrºN„vSR=eKNNÿ(WSºN^ýVætã‰T·ƒ—V†NìrËzv^ŽNlQCQ500t^æTóS9eáOWlšúWcwYeÿ(WN‰YeORÂˆTuªVckYe0\n\nÇ»S^ýV:N†Nµb¡VS¹e„vW¯eø‹ýV(Wdkú^Ëz†NkSŒg›Q:Sÿv^ÛLˆ†NNšR„vÑSUSÿKQÌ‘s|šNåTyrºNnVËY^JSv^S^Jí‹jO:N˜R¹eí‹Š0ASNNªuNJSöSTÜb`S­^^ýVn1Y»S†NùRKQÌ‘s|šNJS›S„vµc6Rÿ(W,rÛV!kASWR›QKNTÿå‹0W:STINNR=f1uÑyFzR¶RÏeÛLˆßu»lÿFOŒcµc›RASR®V1V01238t^™„äSºNVg„vekëOKQÌ‘s|šN‰è„vø‹ýVðyã³u!ÿvQ-NmNSibåTyrºN„vÄreYYWÿ(WdkKNTÄreYYWNôvIr…V0RÑ‘^WlýV„v)TƒnåNÊSíp±šNºN„vpˆ1Vÿv^(W1443t^TwTjgaS¯e¶RÏe„v<SúWVœ¯eIeSbíp±šN(WÑžwm„vwmY†˜0Wÿv^bŸRS†˜Wib'Y0Rte*NKQÌ‘s|šNJS›S0\n\n^ýVÇ»S(Wdk0W„vÏu%„O—V±²åTyrºNv^N’c¥ebìN„vßu»lÿ‚YœgbìNÙuˆNÖNìN³Y„vê»lÿ±HNŽVÑžwm„vè•7bˆVëV¿OOTbìNSbV0"
+ EDG_BYZ_negotiate_with_moe_title:0 "@MOEÉb¯eaSÌ‘¯eKNIw"
+ EDG_BYZ_negotiate_with_moe_desc:0 "¡l	gÀNHNÔkÄreYYS„vÌwÛSôfäN‰R·VW<SaS”NNNbÛuh`Nã‰„vÿfåe„vTˆåwñTÅN(u†NJSt^öeô•¿OgdÁk†NÇ»SASYOt^2NºNKNô•Nb	g„váOûNNËSŒ0øvÔkŽN‚YUOYnÔkÄreYYSÿ‰R·VW<SaSôfó`ÎNÖN±fåe‹YËS„v4V-N¬dúQÿÌwÛS„vÍyPR=f(WUOöeu9hÿwŒŠ„vÇuR—‰YEN„vöeåe0"
+ EDG_BYZ_negotiate_with_tre_title:0 "@TREÑyFzRKNa"
+ EDG_BYZ_negotiate_with_tre_desc:0 "(W1204t^ASWR›QIew–TëXfWN!X„v«R¾–ÑSuTÿ^ýVRÂˆ:N†Nø‹Y¿R›RÿvQ-NN*N¿O=f,gý0W:S„vÑyFzR¶RÏe0ÖNìNêðyckßuçubºNÿFOžRE–NNÇ=f¾–mp¡N‹TÐ„víPMO*O‹sÿgT«ˆ?–+Y™lSmp¡Nÿ+gãN‡v^mNNåwNb*Ž0‚YœgbìNó`‰(Wdk0WÍ‘°eú^ËzCgZÿ±HNz®VùR†SòSÛLˆN›NSS„vîO9eÿSg'Y„vžX:VbìN(Wdk0W„vßu»lTÕlCg0"
+ EDG_BYZ_expelling_republic_title:0 "@VENZ<S¯e„v*jZ"
+ EDG_BYZ_expelling_republic_desc:0 "–NwbýV„vib.VŒTýV›R„våeÊv:VúVÿÉbNø‹qQŒTýV„vXR(WòTÏub:N†NbýV„vœ–xw^—©R›Rÿ=föePÓumgùRÙ›NFUºN„vòfa0Î†N0"
+ EDG_BYZ_negotiate_with_ven_title:0 "@BYZß0R„vYÇN"
+ EDG_BYZ_negotiate_with_ven_desc:0 "1204t^ÿTëXfWN!XàV)YINYeýV¶R„vôVIew*jm«R¾–0ŸS,gSb—rNVFz¯e—g„vASWR›QÌwV†NŸS,g„vtó`ÿŒlªg4YcTbìNÿ(WZ<S¯eÛS’V„v.^©RNÿŽN±*NïSh`„vÛVgIew–†NÙµ^T‘'Yý0–KNweg„v=f†wàeÌVî`„vm«RÿNïS¡‹pe„v0RN÷N<PÞÎW„v1WÏP‰`pem«R0ÉbN^ýV–TëXfWN!X„vw–K„wú^ËzÿsSNbŒÕlpQKQºNßu»löegÿÙµkßu»l‹†*g•ENÿtSmNÛNek R†N^ýV„vpˆK„0"
+ EDG_BYZ_negotiate_with_mam_title:0 "@MAM§Y[MAM.GetName]§!KN%f"
+ EDG_BYZ_negotiate_with_mam_desc:0 "(„ÈT¾‹sg„v)Tƒnv^N=fÃWÊS?eCg„vÈu¹pÿ°eú^Ëzweg„vlšFzœKQ?eCgck:Nã‰³Qê«Žî•˜˜ÛLˆNû|R„v9ei—ÿVeQ†N'YÏ‘„vVYe’VÿvQ-NNÅN	gÑynfyrºNÿØ	g^JºN„v«ŽqV0På‚bìNýwY—f-N=ec^JºN(WlšFzœKQ…Qè„vqVÍT›Rÿ±HN1SXR(W ˜†‰lšFzœKQ„vïSýwÿNÇmNïSýwNˆ,gàeRV0"
+ EDG_BYZ_support_nom_var:0 "=ec^JºN!kpe"
+ EDG_BYZ_negotiate_with_nom_title:0 "@NOMTwT§Y[NOM.GetName]§!"
+ EDG_BYZ_negotiate_with_nom_desc:0 "öe”–peŒvt^ÿÃWÊSQ!k«ˆ^JºNNckYeŒcµcÿjO:N^ýVÇ»Sg'Y„v®|ÓNÿbìN	gÅV‰T§Y[NOM.GetName]§!TwTÿw^—RQRøvTÿNÇMRÐc=fbìNýwYÁ‹fbìN„vckßu0WMO0"
+ EDG_BYZ_negotiate_with_eth_title:0 "@ETHNbWè•KNîr"
+ EDG_BYZ_negotiate_with_eth_desc:0 "Ü(W<SW³lKS4Y„v?–Ôk<S‰šN‹sýVNôvåNegý(WFz¯e—g„vSôV-NMckSêñT„váOðNÿ‹†ô‹ÑynfyrjO:NckYe„vVïzÿFOÙv^N¨YxbìNTÖNìN²N‹YÿwIr0Röe:gbŸqKNöeÿbìNOÙuˆNÖNìNN*NÝusO„v<yir0"
+ EDG_BYZ_negotiate_with_geo_title:0 "@GEOôT<hÉbcRfKNN†"
+ EDG_BYZ_negotiate_with_geo.effect.tt:0 "‚Yœg@GEO§Y[GEO.GetName]§!TabìN„vÐc®‹ÿbìNÊSbìND–¸^»lNNb	gMOŽN§YØš R0t§!0W:S„vwýNýSrR©‹Ùu@GEO§Y[GEO.GetName]§!"
+ EDG_BYZ_negotiate_with_geo_desc:0 "<hœ	TšN‹sýVŽN978t^1uôT<hÉbyr	NNú^Ëzÿv^(WASN0RASŒNNªugô•ÑSUS:NØš R0t0W:SN*NNïSýVÆ‰„v:VCgÿNÇ(W™„äSºNN^(g?QeQµOKNT×S0R†NÍ‘RÿTöe(WNENMR„vçubqS:gQ!kJR1V†N‹sýVÿwôf Rê–N R—„vR=fÑgz¥SºN„veQµOÿO—VvQ†˜0WN­e)Sv^eQ²qSKNô•0‹†ô‹(WÇ»S^ýVT<hœ	TšN‹sýV„vsQû|v^N—rËS‹YÿFOPå‚bìNýwY(WÖNìNg—‰„vöeP8OúQôcKbÿøváOÖNìNNOÒbÝubìN„v‹YaSV6qÿÑ‹jOXNºNKNqSmN*gSNïS0"
+ EDG_BYZ_conquer_two_river_title:0 "@BYZÛµb2N³l"
+ EDG_BYZ_conquer_two_river_desc:0 "‡ef„vGdîrŽ0tN¾s|šNhT¹:VLe¯s:ON:ON)Y6qOSœ–0©‹bìNnxÝO¡l	gd–bìNåNY¡l	gvQÖNR:VïSåNÓgcdkYÿvQÖNºN(WÙÌ‘¡l	gÑSŠCgÿ"
+ EDG_BYZ_constantinople_action_1_title:0 "@BYZibú^§Y[151.GetName]§!ÎW:S"
+ EDG_BYZ_constantinople_action_1_desc:0 ""
+ EDG_BYZ_constantinople_action_2_title:0 "@BYZîO.§YÄreYY‰^:W§!"
+ EDG_BYZ_constantinople_action_2_desc:0 ""
+ EDG_BYZ_conquer_hre_title:0 "@HLRã‰ce§Y^—ÕlÄuÇu§!"
+ EDG_BYZ_conquer_hre_desc:0 "NbŒ„v^y1WWlš^ýVNÇ QåNNv˜Z†GP„v‹s Qÿ±²åe3wüfºNpe*NNªuô•åNWlš„vçubwêESÿ|Vöe^ýVSàe›R”^ùRêS‹YjObÿFO°s(WbìNS‰V•^ uckÙ*N•ï‹ÿò”d–±âeN^y1WÿmNNWlšÿôf^—^ýV„v^—ÕlÄuÇuÿwNºNS²‹Æ‹0RêS	gbìNMb=fWlšwck„vçubwNÿbìN¿O=fWlšÿ"
+ EDG_BYZ_conquer_hre.effect.tt:0 "Nð‹NöNScwbìNT§Y^y1WWlš^ýV§!„v§Rb‰N§!ÿ"
+ EDG_BYZ_rebuild_patriarchate_151_title:0 "@BYZb`Y§Y[151.GetName]§!nfNgr–™CgZ"
+ EDG_BYZ_rebuild_patriarchate_151_desc:0 "KS¡rNôvåNegTëXfWN!Xgr–™åNTWlšgr–™:Ss^ws^PWêESÿFOÑt^^ýV„vžR›R>f6qv^N³åN=e‘dvQ—RYeLwýwÿ†SãNôT‰	t¯e:N‰NÖS0RôfY„v=eôcTlQYeOÛLˆ†NNû|R„v¥YOSÿàVdkckYeO(Wdkgô•„v—RYeLwýwNôv«ˆSb‹S0–NwYeORVN?eVr„v²d•ÿ¥YOSlTùRËz„v¹eˆ”ÿckYeO„vCgZQ!k«ˆïzNðSb—0"
+ EDG_BYZ_rebuild_patriarchate_2313_title:0 "@BYZÍ‘ú^§Y[2313.GetName]§!gr–™:S"
+ EDG_BYZ_rebuild_patriarchate_2313_desc:0 "§Y[2313.GetName]§!ê1268t^¦lw–¯O¿ONôvYŽNVYe’VKNKbÿbìNÅV‰˜b`YÙµ^ÎW^ŽVåe„vcƒw0"
+ EDG_BYZ_rebuild_patriarchate_379_title:0 "@BYZÍ‘ú^§Y[379.GetName]§!gr–™:S"
+ EDG_BYZ_rebuild_patriarchate_379_desc:0 ""
+ EDG_BYZ_rebuild_patriarchate_358_title:0 "@BYZÍ‘ú^§Y[358.GetName]§!gr–™:S"
+ EDG_BYZ_rebuild_patriarchate_358_desc:0 ""
+ EDG_BYZ_rebuild_patriarchate_118_title:0 "@BYZµc6R§Y[118.GetName]§!gr–™:S"
+ EDG_BYZ_rebuild_patriarchate_118_desc:0 ""
+ EDG_BYZ_change_color_title:0 "@[Root.GetTag]9eØSœ˜r‚"
+ EDG_BYZ_change_color_desc:0 ""
+ EDG_BYZ_change_color.effect.tt:0 "2nÓg:N§Y+tr‚§!"
+
+
+ EDG_BYZ_city_develpment_reform:0 "ÎW^gb?e˜R"
+ EDG_BYZ_city_develpment_reform_desc:0 ""
+ mechanic_EDG_BYZ_extra_develpment_reform_yes:0 "SVÐcGSbìN»lN§TÑSUS¦^§!NNOŽN§Y25§!„vwýNÑSUS¦^öeSO§G˜Y§!žX R§Y1§!–:gÑSUS¦^"
+ mechanic_EDG_unlock_1075_event_action_yes:0 "‹NöN0§YAucƒöeg§!0SýwY«ˆbìN§YÍ‘Yæ‰ÑS§!"
+ EDG_BYZ_empire_tax_reform:0 "z6R9ei—"
+ EDG_BYZ_empire_tax_reform_desc:0 ""
+ EDG_BYZ_caesaropapism_reform:0 "?eYeTN"
+ EDG_BYZ_caesaropapism_reform_desc:0 ""
+ EDG_BYZ_empire_province_reform:0 "LˆwIN˜R"
+ EDG_BYZ_empire_province_reform_desc:0 ""
+ mechanic_EDG_BYZ_empire_province_reform_ability_yes:0 "§TWlšLˆw§!S·ƒ—V§G˜Y§!„v§YLˆ?e¹RÏ‘§!åNÊS§Y8hÃVS Rb§!"
+ EDG_BYZ_roman_empire_reform:0 "Wlš^ýV"
+ EDG_BYZ_roman_empire_reform_desc:0 ""
+ EDG_BYZ_roman_successor:0 "WlšçuûNw"
+ EDG_BYZ_roman_successor_desc:0 "KS¡r^ýVÑ›Nt^„vpˆ1VO—VYºN²‹:NWlšòTÏuNQÿw±²•b:gwRXNdk:gOÕ‹þV±RðyÖNìNMb=fWlšwck„vçubºN0Nº‹YºN‚YUOÄ‹÷N¹bÑžbìNÿýàeÕl¼d¨RbìNjO:NWlš^ýVgckßuçubºN„v‹NžRÿ–NwbìNnb`YÇ»S„vHrþVåNÊSžR›Rÿ^ýVSOQ!kßu»lte*N0W-Nwmv^&^egN*NhQ°e„vöeãN0"
+ 
+
+
+ 
+
+ EDG_BYZ_province_reform:0 "^ýVLˆw"
+ EDG_BYZ_province_reform_desc:0 ""
+ EDG_BYZ_province_military_reform:0 "^ýV›Q:S"
+ EDG_BYZ_province_military_reform_desc:0 ""
+
+
+ BYZ_LT0_britannia:0 "NR ˜<SšN"
+ BYZ_LT0_britannia_ADJ:0 "NR ˜<SšN"
+ BYZ_LT1_gaul:0 "ØšbS"
+ BYZ_LT1_gaul_ADJ:0 "ØšbS"
+ BYZ_LT2_hispania:0 "^¯e^<SšN"
+ BYZ_LT2_hispania_ADJ:0 "^¯e^<SšN"
+ BYZ_LT3_afria:0 "?–^—)R R"
+ BYZ_LT3_afria_ADJ:0 "?–^—)R R"
+ BYZ_LT4_illyria:0 "O)RÌ‘šN"
+ BYZ_LT4_illyria_ADJ:0 "O)RÌ‘šN"
+ BYZ_LT6_thracia:0 "r‚÷–‰šN"
+ BYZ_LT6_thracia_ADJ:0 "r‚÷–‰šN"
+ BYZ_LT5_kapatia:0 "aS^ÐcšN"
+ BYZ_LT5_kapatia_ADJ:0 "aS^ÐcšN"
+ BYZ_LT7_asia:0 "šNÆušN"
+ BYZ_LT7_asia_ADJ:0 "šNÆušN"
+ BYZ_LT8_aipudos:0 "?–OnfY¯e"
+ BYZ_LT8_aipudos_ADJ:0 "?–OnfY¯e"
+ BYZ_LT9_syria:0 "ÙS)RšN"
+ BYZ_LT9_syria_ADJ:0 "ÙS)RšN"
+ BYZ_L10_radia:0 "÷–êšN"
+ BYZ_L10_radia_ADJ:0 "÷–êšN"
+ BYZ_L11_occitania:0 "eYKQ‰TX<SšN"
+ BYZ_L11_occitania_ADJ:0 "eYKQ‰TX<SšN"
+ BYZ_L12_german:0 "åe3wüf<SšN"
+ BYZ_L12_german_ADJ: "åe3wüf<SšN"
+ EDG_L13_belgica:0 "Ôk)RvQaS"
+ EDG_L13_belgica_ADJ:"Ôk)RvQaS"
+ BYZ_FEO_crimea:0 "KQÌ‘s|šN"
+ BYZ_FEO_crimea_ADJ:0 "KQÌ‘s|šN"
+ BYZ_L03_persia:0 "^ÐcšN"
+ BYZ_L03_persia_ADJ:0 "^ÐcšN"
+ BYZ_L15_italy:0 "a'Y)RšN"
+ BYZ_L15_italy_ADJ:0 "a'Y)RšN"
+
+ EDG_BYZ_province_title:0 "§TWlšLˆw§!"
+ EDG_BYZ_province_title_plural:0 "§TWlšLˆw§!"
+ EDG_BYZ_province_long_desc:0 ""
+ EDG_BYZ_province_is_our:0 "§TWlšLˆw§!"
+ EDG_BYZ_mil_province_title:0 "§OWlš›Q:S§!"
+ EDG_BYZ_mil_province_title_plural:0 "§OWlš›Q:S§!"
+ EDG_BYZ_mil_province_long_desc:0 "§OWlš›Q:S§!Sçub§YN­ˆ6RnfW<SšN§!Nbåb	g„vNR RbÿTöe(WvQúWNxNåb	gôf'Y„vF–›QÄ‰!jåNÊSôf:V„vF–›Q(Ï‘ÿFOmNNQ:N—RINýVÐc›OûNUOKz0F–›QÄ‰!jåNÊSºN›R0"
+ EDG_BYZ_mil_province_is_our:0 "§OWlš›Q:S§!"
+
+ EDG_BYZ_east_empire_authority_mechanic:0 "§O^ýVÆ–Cg§!"
+ ability_EDG_BYZ_east_empire_authority_mechanic:0 "§O^ýVÆ–Cg§!"
+ EDG_BYZ_east_empire_authority:0 "§O^ýVÆ–Cg§!"
+ EDG_BYZ_east_empire_authority_gain_modifier:0 "§O^ýVÆ–Cg§!ÙuˆN„vîOck"
+ monthly_EDG_BYZ_east_empire_authority:0 "g¦^§O^ýVÆ–Cg§!"
+
+ EDG_BYZ_mil_inf_modifier_1:0 "§TekuQ§!›Q‹NIrµuÿ§YI§!"
+ EDG_BYZ_mil_inf_modifier_2:0 "§TekuQ§!›Q‹NIrµuÿ§YII§!"
+ EDG_BYZ_mil_inf_modifier_3:0 "§TekuQ§!›Q‹NIrµuÿ§YIII§!"
+ EDG_BYZ_mil_inf_modifier_4:0 "§TekuQ§!›Q‹NIrµuÿ§YIV§!"
+ EDG_BYZ_mil_cav_modifier_1:0 "§T‘šuQ§!›Q‹NIrµuÿ§YI§!"
+ EDG_BYZ_mil_cav_modifier_2:0 "§T‘šuQ§!›Q‹NIrµuÿ§YII§!"
+ EDG_BYZ_mil_cav_modifier_3:0 "§T‘šuQ§!›Q‹NIrµuÿ§YIII§!"
+ EDG_BYZ_mil_cav_modifier_4:0 "§T‘šuQ§!›Q‹NIrµuÿ§YIV§!"
+ EDG_BYZ_mil_art_modifier_1:0 "§T®puQ§!›Q‹NIrµuÿ§YI§!"
+ EDG_BYZ_mil_art_modifier_2:0 "§T®puQ§!›Q‹NIrµuÿ§YII§!"
+ EDG_BYZ_mil_art_modifier_3:0 "§T®puQ§!›Q‹NIrµuÿ§YIII§!"
+ EDG_BYZ_mil_art_modifier_4:0 "§T®puQ§!›Q‹NIrµuÿ§YIV§!"
+ desc_EDG_BYZ_mil_inf_modifier_1:0 ""
+ desc_EDG_BYZ_mil_inf_modifier_2:0 ""
+ desc_EDG_BYZ_mil_inf_modifier_3:0 ""
+ desc_EDG_BYZ_mil_inf_modifier_4:0 ""
+ desc_EDG_BYZ_mil_cav_modifier_1:0 ""
+ desc_EDG_BYZ_mil_cav_modifier_2:0 ""
+ desc_EDG_BYZ_mil_cav_modifier_3:0 ""
+ desc_EDG_BYZ_mil_cav_modifier_4:0 ""
+ desc_EDG_BYZ_mil_art_modifier_1:0 ""
+ desc_EDG_BYZ_mil_art_modifier_2:0 ""
+ desc_EDG_BYZ_mil_art_modifier_3:0 ""
+ desc_EDG_BYZ_mil_art_modifier_4:0 ""
+
+ edict_BYZ_universal_education:0 "úWNxYe²w"
+
+ L15:0 "a'Y)RšNLˆw"
+ L15_ADJ:0 "a'Y)RšNLˆw"
+
+ orthodox_center_of_reformation:0 ".OYe-NÃV"
+ orthodox_remove_center_of_reformation:0 ".OYe-NÃV"
+ orthodox_center_of_reformation_center:0 ".OYe-NÃV"
+ orthodox_center_of_reformation_convert:0 ".OYe-NÃV"
+ orthodox_center_of_reformation_possible:0 ".OYe-NÃV"
+ orthodox_center_of_reformation_no_province:0 ".OYe-NÃV"
+ orthodox_center_of_reformation_impossible:0 ".OYe-NÃV"
+ orthodox_center_of_reformation_not_available:0 ".OYe-NÃV"
+ orthodox_center_of_reformation_has_already:0 ".OYe-NÃV"
+ orthodox_center_of_reformation_convert_progress:0 ".OYe-NÃV"
+ EDG_add_reform_for_orthodox:0 "(W§Y[This.GetName]§!ú^ËzN*N§YNckYe§!.OYe-NÃV"
+
+ merc_EDG_BYZ_varangian_guard:0 "§GætpQ	TkS–§!"

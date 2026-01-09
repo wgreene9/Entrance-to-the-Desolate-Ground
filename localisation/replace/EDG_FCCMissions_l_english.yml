@@ -1,0 +1,108 @@
+﻿l_english:
+ EDG_FCC_mission_1_1_title:0 "=OýVfkÅˆ"
+ EDG_FCC_mission_1_1_desc:0 ""
+ EDG_FCC_mission_1_4_title:0 "^ýVãNtºN"
+ EDG_FCC_mission_1_4_desc:0 ""
+ EDG_FCC_mission_1_4.effect.tt:0 "Ïk*Nán³§YûN¡RagöN§!„v§T	^¯O§!ýSObìN·ƒ—V§Y50§!¤§YjgaSyr§!"
+ EDG_FCC_mission_1_7_title:0 ",rNîOckHh"
+ EDG_FCC_mission_1_7_desc:0 ""
+ EDG_FCC_mission_1_7.effect.tt:0 "·ƒ—V@FRA§Y[FRA.GetName]§!»lNNb	g§TS‘§!Nbåb	gwýN„v§Y±Rðy§!"
+ EDG_FCC_mission_1_9_title:0 ",rŒNîOckHh"
+ EDG_FCC_mission_1_9_desc:0 ""
+ EDG_FCC_mission_1_9.effect.tt:0 "ã‰•N*N§T³Q®‹§!ÿAQ¸‹bìNVÑS@FRA§Y[FRA.GetName]§!ùR@AEL§Y[AEL.GetName]§!„vASWR›Q"
+ EDG_FCC_mission_1_11_title:0 ",r	NîOckHh"
+ EDG_FCC_mission_1_11_desc:0 ""
+ EDG_FCC_mission_1_15_title:0 "ÛvN)YX"
+ EDG_FCC_mission_1_15_desc:0 ""
+ EDG_FCC_mission_1_15_improve_price:0 "ÛvN)YX"
+ EDG_FCC_mission_1_15.effect.tt:0 "Nb	gán³§YûN¡RagöN§!Nåb	g§Ya„„R‘œQ:W§!§TGYÂ‰§!„vwýNGW·ƒ—VNð§YîOck§!"
+
+
+ EDG_FCC_mission_2_3_title:0 "Cg)R"
+ EDG_FCC_mission_2_3_desc:0 ""
+ EDG_FCC_mission_2_7_title:0 "¥c¡rR‘„^"
+ EDG_FCC_mission_2_7_desc:0 ""
+ EDG_FCC_mission_2_7.treasury.tt:0 "‚YœgbìNÇåb	g§Y1000§!¤ŒRbûN¡R"
+ EDG_FCC_mission_2_10_title:0 "‹vr‚ÄžÑ‘"
+ EDG_FCC_mission_2_10_desc:0 ""
+ EDG_FCC_mission_2_10.modifier.tt:0 "Nb	gán³§YûN¡RagöN§!„vwýNGW·ƒ—VNð§YîOck§!NHeœg"
+ EDG_FCC_mission_2_10.effect.tt:0 "SV§YKb¨RÐcGS§!åb	gNð§YîOck§!„vwýN§TÑSUS¦^§!öeÿ·ƒ—V§GIrT§!ŽNwýN§TÑSUS¦^§!„v¤"
+ EDG_FCC_mission_2_13_title:0 "n°efëV"
+ EDG_FCC_mission_2_13_desc:0 ""
+ EDG_FCC_already_build_order_of_chenin:0 "òTú^Ëz§Y‹v×‹WS§!‘šëXâV"
+ EDG_FCC_already_build_order_of_chardonnay:0 "òTú^Ëz§Y—YKN§!‘šëXâV"
+ EDG_FCC_already_build_order_of_riesling_noir:0 "òTú^Ëz§Y÷–øSäN§!‘šëXâV"
+ EDG_FCC_already_build_order_of_sauvignon_blanc:0 "òTú^Ëz§Y‹vÏ‚ôuÁ§!‘šëXâV"
+ EDG_FCC_mission_2_13.effect.tt:0 ":NNb	g§G‹va„„§!§T‘šëXâV§!ã‰•ùR”^§YcOuQ§!\n\n§G‹va„„§!§T‘šëXâV§!—‰£dip£§YY²N¹ppe§!w^—¤§YjgaSyr§!ôu²bÿTöeÛbßRÖNìNNOÏQS§YF–›QLwN¦^§!"
+ 
+ EDG_FCC_mission_2_14_title:0 "°e„va„„..."
+ EDG_FCC_mission_2_14_desc:0 ""
+ EDG_FCC_mission.innovativeness_ideas.tt:0 "‚YœgbìNÇã‰•§Yi—°e§!tõVŒRbûN¡R"
+ EDG_FCC_mission.innovativeness.tt:0 ""
+ EDG_FCC_mission_2_14.effect.tt:0 "bìNS§GýwYú^Ëz§!N*NhQ°e„v§Ta„„‘šëXâV§!"
+ 
+
+ EDG_FCC_mission_3_2_title:0 "ÌSÍ‘«ŽýN"
+ EDG_FCC_mission_3_2_desc:0 ""
+ EDG_FCC_mission_3_4_title:0 "S–™"
+ EDG_FCC_mission_3_4_desc:0 ""
+ EDG_FCC_mission_3_5_title:0 "è–Y"
+ EDG_FCC_mission_3_5_desc:0 ""
+ EDG_FCC_mission_3_6_title:0 "°e„vN)Y"
+ EDG_FCC_mission_3_6_desc:0 ""
+ EDG_FCC_mission_3_8_title:0 "S5KNÕl"
+ EDG_FCC_mission_3_8_desc:0 ""
+ EDG_FCC_mission_3_8.effect.tt:0 "ã‰•³Q®‹ÿ0I•.§T”NiV‹s Q§!0"
+ EDG_FCC_mission_3_9_title:0 "R‘™™ÛV¢n"
+ EDG_FCC_mission_3_9_desc:0 ""
+ EDG_FCC_mission_3_9.effect.tt:0 "ã‰•Nû|R§T³Q®‹§!AQ¸‹bìNÎN@FRA§Y[FRA.GetName]§!Kb-N·ƒÖSåb	g§Ya„„R‘œQ:W§!§TGYÂ‰§!„vwýN"
+ EDG_FCC_mission_3_11_title:0 "±‚âV&•|"
+ EDG_FCC_mission_3_11_desc:0 ""
+ EDG_FCC_mission_3_12_title:0 "‘šëXàzz"
+ EDG_FCC_mission_3_12_desc:0 ""
+ EDG_FCC_mission_3_13_title:0 "”NiV‘e“e"
+ EDG_FCC_mission_3_13_desc:0 ""
+ EDG_FCC_mission_3_13.trigger.tt:0 "bìNòTÏuú^Ëz†NóS§Y1§!*N§Ta„„‘šëXâV§!"
+ EDG_FCC_mission_3_13.effect.tt:0 "§GGSµu§!SVMRÊSKNTã‰•„v§Yi—°e§!tõVHeœg\n\n§O†^xQÛ¦^§!°s(WSÐc›O§YR°e¦^·ƒÖS§!"
+ EDG_FCC_mission_3_15_title:0 "ŽnŽBY"
+ EDG_FCC_mission_3_15_desc:0 ""
+
+
+ EDG_FCC_mission_4_3_title:0 "É‹Bl"
+ EDG_FCC_mission_4_3_desc:0 ""
+ EDG_FCC_mission_4_3.effect.tt:0 "Ïk*Nán³§YûN¡RagöN§!„výV¶RýSÙuˆNÙ›NýV¶R§Y25§!	N‰|TIN¹ppeÿTöežX R§R25§!ìrËz>PT"
+ EDG_FCC_mission_4_7_title:0 "hQ°e¾‹Y"
+ EDG_FCC_mission_4_7_desc:0 ""
+ EDG_FCC_mission_4_7.treasury.tt:0 "‚YœgbìNÇåb	g§Y300§!£adm£N£dip£¹ppeŒRbûN¡R"
+ EDG_FCC_mission_4_10_title:0 "=eñgµNN"
+ EDG_FCC_mission_4_10_desc:0 ""
+ EDG_FCC_mission_4_10.modifier.tt:0 "Nb	gán³§YûN¡RagöN§!„vwýNGW·ƒ—VNð§YîOck§!"
+ EDG_FCC_mission_4_10.effect.tt:0 "SV§YKb¨RÐcGS§!åb	gNð§YîOck§!„vwýN§TÑSUS¦^§!öeÿ1u9ei—0R‘-N5Ïe0ýw›RÐc›O„v¤§GûP§!"
+ EDG_FCC_mission_4_13_title:0 "¥™Áõu•"
+ EDG_FCC_mission_4_13_desc:0 ""
+ EDG_FCC_already_build_order_of_cabernet_sauvignon:0 "òTú^Ëz§Yd—às§!‘šëXâV"
+ EDG_FCC_already_build_order_of_cinsault:0 "òTú^Ëz§Y^y0t§!‘šëXâV"
+ EDG_FCC_already_build_order_of_pinot_noir:0 "òTú^Ëz§YÑžÔkú‹§!‘šëXâV"
+ EDG_FCC_mission_4_13.effect.tt:0 ":NNb	g§O¢ua„„§!§T‘šëXâV§!ã‰•ùR”^§YcOuQ§!\n\n§O¢ua„„§!§T‘šëXâV§!—‰£mil£§Y›Q‹N¹ppe§!w^—¤§YjgaSyr§!ôu²bÿTöeÛbßRÖNìNNOÏQS§YF–›QLwN¦^§!"
+ EDG_FCC_mission_4_14_title:0 "...Ø	g™™ßiÿ"
+ EDG_FCC_mission_4_14_desc:0 ""
+ EDG_FCC_mission_4_14.effect.tt:0 "ã‰•N*N§Y³Q®‹§!ÿAQ¸‹bìNú^Ëz§Y™™ßi§!§T‘šëXâV§!egã‰•ùR”^„v§YcOuQ§!\n\nå‹§T‘šëXâV§!—‰£mil£§Y›Q‹N¹ppe§!w^—¤§YjgaSyr§!ôu²bÿTöeÛbßRÖNìNNOÏQS§YF–›QLwN¦^§!"
+ EDG_FCC_mission_4_14.celebration.tt:0 "§O†^xQ‹NöN§!°s(WïSåN	ébN§YÑSála„„R‘§!øvsQ„v	y˜"
+
+ EDG_FCC_mission_5_1_title:0 "ðXTJžw"
+ EDG_FCC_mission_5_1_desc:0 ""
+ EDG_FCC_mission_5_4_title:0 "ÃRn‚,rTwßv"
+ EDG_FCC_mission_5_4_desc:0 ""
+ EDG_FCC_mission_5_4.effect.tt:0 "Nb	gán³agöN"
+ EDG_FCC_mission_5_7_title:0 "N!kîOckHh"
+ EDG_FCC_mission_5_7_desc:0 ""
+ EDG_FCC_mission_5_7.effect.tt:0 "ã‰•Nû|R§T³Q®‹§!AQ¸‹bìNÎN§Y^y1WWlš^ýV§!ƒX…Q·ƒÖS§YèR§!åb	g§Ya„„R‘œQ:W§!§TGYÂ‰§!„vwýN"
+ EDG_FCC_mission_5_9_title:0 "ŒN!kîOckHh"
+ EDG_FCC_mission_5_9_desc:0 ""
+ EDG_FCC_mission_5_9.trigger.tt:0 "d–bìNKNY@FRA§Y[FRA.GetName]§!¡l	gûNUOvQÖN§TS‘§!"
+ EDG_FCC_mission_5_11_title:0 "	N!kîOckHh"
+ EDG_FCC_mission_5_11_desc:0 ""
+ EDG_FCC_mission_5_15_title:0 "WN¦hƒX"
+ EDG_FCC_mission_5_15_desc:0 ""
+ EDG_FCC_mission_5_15_improve_price:0 "WN¦hƒX"
+ EDG_FCC_mission_5_15.effect.tt:0 "Nb	gán³§YûN¡RagöN§!„vwýNGW·ƒ—VNð§YîOck§!"

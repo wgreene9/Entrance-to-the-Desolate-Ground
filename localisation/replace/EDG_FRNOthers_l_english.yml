@@ -1,0 +1,411 @@
+﻿l_english:
+ EDG_FRN_city_disarm:0 "ã‰d–fkÅˆ"
+ desc_EDG_FRN_city_disarm:0 ""
+ EDG_FRN_free_city_rule:0 "ê1u^ÆQR"
+ desc_EDG_FRN_free_city_rule:0 ""
+
+ EDG_FRN_urban_defense:0 "ÎW^2–kS"
+ desc_EDG_FRN_urban_defense:0 ""
+ EDG_FRN_materials_procurement_department:0 "ú^PgÇ‘-èè•"
+ desc_EDG_FRN_materials_procurement_department:0 ""
+ EDG_FRN_branch_1:0 "ÕlpQ‰Rè"
+ desc_EDG_FRN_branch_1:0 ""
+ EDG_FRN_branch_2:0 "a'Y)RRè"
+ desc_EDG_FRN_branch_2:0 ""
+ EDG_FRN_branch_3:0 "N'kRè"
+ desc_EDG_FRN_branch_3:0 ""
+ EDG_FRN_engineer_corp:0 "²NÉSkp›R"
+ desc_EDG_FRN_engineer_corp:0 ""
+ EDG_FRN_pre_building_modifier:0 "åTzÆQY"
+ desc_EDG_FRN_pre_building_modifier:0 ""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ building_EDG_grand_church:0 "ROYeX"
+ building_EDG_guild:0 "LˆO"
+ building_EDG_station:0 "‰š0W"
+ building_EDG_arsenal:0 "uQåT‚S"
+ building_EDG_road_network:0 "SïQ"
+ building_EDG_mini_square:0 "S‹W^:W"
+ building_EDG_center_square:0 "-NÃV^:W"
+ building_EDG_big_square:0 "'Y‹W^:W"
+ building_EDG_saw_mill:0 "=•(g‚S"
+ building_EDG_mine:0 "ÿwqS"
+ building_EDG_quarry:0 "Ç‘ów:W"
+ building_EDG_brewhouse:0 "‘R‘‚S"
+ building_EDG_artillery_foundry:0 "kp®pø”.‚S"
+ building_EDG_military_base:0 "›Q‹NúW0W"
+ building_EDG_printing_house:0 "pS7R‚S"
+ building_EDG_fortress:0 "!X’W"
+ building_EDG_fortifications:0 "2–¡VåT‹N"
+ building_EDG_pasture:0 "gr:W"
+ building_EDG_great_project_building_small:0 "S‹WåT0W"
+ building_EDG_great_project_building_medium:0 "-N‹WåT0W"
+ building_EDG_great_project_building_large:0 "'Y‹WåT0W"
+
+ EDG_FRN_building_complete_tt:0 "SVå‹ú^Qr§Tú^.ŒRb§!ÿbìNS§G·ƒ—V§!vQ§Yú^.9(uNJS§!„v¤NSÏ‘§YZg§!"
+
+ EDG_FRN_building_1.tt:0 "z6e^R"
+ EDG_FRN_building_2.tt:0 "uµN^R"
+ EDG_FRN_building_3.tt:0 "uQ%„^R"
+ EDG_FRN_building_4.tt:0 "›Q%„^R"
+ EDG_FRN_building_5.tt:0 "8f^R"
+ EDG_FRN_building_6.tt:0 "ÎW!X^R"
+ EDG_FRN_building_7.tt:0 "åT:W^R"
+ EDG_FRN_building_7.trigger.tt:0 "å‹0W:S§RàeÕlú^.§!åT:W^Rÿ"
+ EDG_FRN_building_8.tt:0 "2–kS^R"
+ EDG_FRN_building_9.tt:0 "^:W^R"
+ EDG_FRN_building_10.tt:0 "úWú^^R"
+ EDG_FRN_building_11.tt:0 "åTN^Rÿ=•(g‚S"
+ EDG_FRN_building_12.tt:0 "åTN^RÿÿwqS"
+ EDG_FRN_building_13.tt:0 "åTN^RÿÇ‘ów:W"
+ EDG_FRN_building_14.tt:0 "åTN^Rÿ‘R‘‚S"
+ EDG_FRN_building_15.tt:0 "›Q‹N^Rÿkp®pø”.‚S"
+ EDG_FRN_building_16.tt:0 "åTN^RÿpS7R‚S"
+ EDG_FRN_building_17.tt:0 "›Q‹N^Rÿ›Q‹NúW0W"
+ EDG_FRN_building_18.tt:0 "›Q‹N^Rÿ!X’W"
+ EDG_FRN_building_19.tt:0 "›Q‹N^Rÿ2–¡VåT‹N"
+ EDG_FRN_building_20.tt:0 "åTN^Rÿgr:W"
+ 
+ 
+ EDG_FRN_main_buildng_text:0 "IN‰^R"
+ EDG_FRN_minor_buildng_text:0 "˜Y^R"
+
+ EDG_FRN_can_build_trigger.tt:0 "§Y[This.GetName]§!„v§Yú^.R–§!:Nzzò•"
+ EDG_RFN_next_page.tt:0 "NNu˜"
+ EDG_RFN_last_page.tt:0 "NNu˜"
+
+ EDG_FRN_construction_attainments_mechanic:0 "§Gú^Qr.ã‹§!"
+ ability_EDG_FRN_construction_attainments_mechanic:0 "§Gú^Qr.ã‹§!"
+ EDG_FRN_construction_attainments:0 "§O.ã‹§!"
+ EDG_FRN_construction_attainments_desc:0 "§O.ã‹§!SO°s†N§YåT.SOSO§!ùRT›Qlú^Qr„vteSOú^.4ls^ÿŠØš„v§O.ã‹§!mNãNhˆNw§YOSO§!ýwYú^.ôf RYBgY7h„v¾‹Ëeú^QrÿTöe§G‚‚¦u§!ú^QrNb—„v§Yöeô•§!N§YÑ‘±”§!b,g\n\n§YåT.SOSO§!ÙubìN&^eg†NùRŽN§Yú^Qr¹eb—§!0NÌR„vÁ‰ã‰NåwÆ‹ÿàVdk§O.ã‹§!SOÐc›OåNNúWNxHeœgÿ\n\n-àeÆ‰§TÑyŽbIrµu§!ú^.ôf R§YØšµu§!„vú^Qr\n-AQ¸‹§Y±‚9ºN›R§!£icon_manpower£w^—§YjgaSyr§!¤ÛLˆ§TyršRú^Qr§!„vú^.\n-AQ¸‹(W§YvQÖNýV¶RwýN§!žRËewýN’N¨R§TËeåT§!\n\n§TËeåT§!=fNÍyyrŠk„vwýN²N’N¹eVÿ§YåT.SOSO§!„vXR(WO—VbìNýwY(W§YvQÖNýV¶R§!ËeåTú^¾‹ÿÇ§Y±‚9ºN›R§!ú^.ú^Qr„v¹eV§GZÖS§!jgaSyr¤ÿ–Nw§O.ã‹§!„vÐcGSÿ§TËeåT§!mNSØS„v§Gôf RØšHe§!\n\n§O.ã‹§!êSýwÇÛLˆ§TËeåT§!’N¨RbŒRb§YyrŠkûN¡R§!egÛLˆ·ƒÖSÿú^.§Y±‚9ŠØš§!0§Yöeô•ŠEN§!„vú^QrSýwY·ƒÖS§GŠY§!„v§O.ã‹§!ÿ–Nw§O.ã‹§!„vÐcGSÿ§YåT.SOSO§!SýwY§Gã‰•§!ôfY„v§TØšµuú^Qr§!ÿÙ›Nú^QrSÙuˆNwýN§G0NÌR„v Rb§!ÿåNN:N§O.ã‹§!óS:NyršR<PöeNbã‰•„v§Yú^Qr^R§!ÿ\n\n-§G5§!ÿ§YåT:W^R§!\n-§G10§!ÿ§Y2–kS^R§!\n-§G15§!ÿ§Y^:W^R§!\n-§G20§!ÿ§YåTN^R§!N§Y›Q‹N^R§!\n\nÏk*N§Y^R§!ýS§Gã‰•§!NWY(W§Y3-5§!KNô•peÏ‘NIr„vú^QrÿvQ-N'YèR§TØšµuú^Qr§!ý—‰vQÖN§YúWNxú^Qr§!jO:N§YMRn§!ÿàVdkú^.§TØšµuú^Qr§!KNT§R÷‹ÿRÆbd–úWNxú^Qr§!\n\ndkYÿ(W=T(u§YúWú^§!tõVKNTÿAQ¸‹ú^¾‹§TASRÍ‘‰§!„v§YúWú^^R§!ÿå‹§Y^R§!„vú^Qrú^¾‹S=z§Yte*NûN¡Rh§!\n\n§O.ã‹§!ØSqVÍT§TËeåT§!„vHe‡såNÊSƒôVÿNVËY§YåT.SOSO§!ÅNýw(W§Y^y1WWlš^ýV§!ƒX…QÛLˆ§TËeåT§!ÿ–Nw§O.ã‹§!„vÐcGSÿbìNýwY)íw§TËeåT§!öeô•ÿåNN:N§O.ã‹§!óS:NyršR<PöeùR§TËeåT§!„v Rbÿ\n\n-§G25§!ÿ§TËeåT§!öeô•§G-25%§!\n-§G50§!ÿ§TËeåT§!öeô•§G-25%§!\n-§G75§!ÿ§TËeåT§!öeô•§G-75%§!\n\nÏkSV§TËeåT§!ŒRbÿ	cgq§Yú^Qr^R§!‰|‹WÐc›ONšR„v§O.ã‹§!ÿwQSOpe<P‚YNÿ\n§G+0.25§!ÿ§YúWú^^R§!\n§G+0.1§!ÿ§YåTN^R§!0§Y›Q‹N^R§!\n§G+0.05§!ÿ§YvQÖN^R§!"
+ EDG_FRN_construction_attainments_gain_modifier:0 "§O.ã‹§!ÙuˆN„vîOck"
+ monthly_EDG_FRN_construction_attainments:0 "g¦^§O.ã‹§!"
+
+ EDG_FRN_artisans_association:0 "åT.SOSOàzz"
+ EDG_FRN_artisans_association_desc:0 ""
+ EDG_FRN_free_city:0 "ÕlpQKQyê1u^"
+ EDG_FRN_free_city_desc:0 ""
+ EDG_FRN_architects_meeting:0 "ú^Qr^®‹O"
+ EDG_FRN_architects_meeting_desc:0 ""
+ EDG_FRN_military_engineering:0 "›Q‹NåTz"
+ EDG_FRN_military_engineering_desc:0 "åT2k„UvQ‹NÿÅVHQ)RvQhV0"
+ EDG_FRN_engineering_headquarters:0 "ÕlpQKQyåTzI`r"
+ EDG_FRN_engineering_headquarters_desc:0 ""
+ mechanic_EDG_FRN_enable_investment_yes:0 "=T(u§Y•bD§!:g6R"
+ mechanic_EDG_disable_make_core_yes:0 "§Rybk§!§T8hÃVS§!wýN"
+ mechanic_EDG_disable_allian_yes:0 "§Rybk§!NvQÖNýV¶R§TÓußv§!"
+ EDG_DISABLE_MAKE_CORE_FROM_ATTRIBUTE:0 "?eSO§Rybk§!8hÃVSwýN"
+ EDG_DISABLE_ALLIAN_FROM_ATTRIBUTE:0 "?eSO§Rybk§!NvQÖNýV¶RTßv"
+ EDG_DISABLE_ALLIAN_FROM_ATTRIBUTE_FROM:0 "ùR¹e?eSOybk¾bTßv"
+ EDG_FRN_CAN_NOT_ALLIAN_WITH_OTHER:0 "ÕlpQKQyê1u^ybkÓußv"
+
+ EDG_occupation_ideas:0 "LwNtõV"
+ EDG_occupation_ideas_bonus:0 "ŒRbLwNtõV"
+ EDG_occupation_ideas_1:0 "LwN.t‰Q"
+ EDG_occupation_ideas_1_desc:0 "Nº‹=f›QºNØ=fëXuQÿýÅV‰˜‰uˆRN*NÆQRÿÙ7hN¾„v‹TäNMbýwYÆQnxàeï‹„vÛLˆgbLˆ0"
+ EDG_occupation_ideas_2:0 "ckÄ‰­‹Ãu"
+ EDG_occupation_ideas_2_desc:0 "ŸqýwuçTÿêS	gENÏuwŒš„vëXuQMbýwYÑS%cúQg'Y„výw›R0"
+ EDG_occupation_ideas_3:0 "6R¦^SVìS"
+ EDG_occupation_ideas_3_desc:0 "Ç6RšRN*NßuN„vVßRhÆQÿýwY	gHe„vir	bìNNb—„vëXuQv^ÐcØšVßRHe‡s0"
+ EDG_occupation_ideas_4:0 "†vOLˆ›Q"
+ EDG_occupation_ideas_4_desc:0 "tePŸRN„v›Q–NÅNýwY—QaLeºNÿmNýwYÐcØšëXuQKNô•„vOSjOM‘T0"
+ EDG_occupation_ideas_5:0 "¾|ñ‚›QâV"
+ EDG_occupation_ideas_5_desc:0 "‚Yœgô‹8^Ä‰›QâV=fb:W„vþvLrÿw¾|•›QâVR=fbìN„vSRÿz4xõPNS„v)RhV0"
+ EDG_occupation_ideas_6:0 "–›Q÷SKb"
+ EDG_occupation_ideas_6_desc:0 "Ç:N–RÑSM‘–›Q÷SKbýwY	gHe„vÐcØšëXuQìN„vëXl0"
+ EDG_occupation_ideas_7:0 "ôVIeN¾|"
+ EDG_occupation_ideas_7_desc:0 "b‰N-Ng:NØhKb„v1S=fôVÎWÿÇV¾‹›Q‹NåTzfRþ‹zÿýwY	gHe„vÐcØšS›QìNùRôVIe„vtã‰0"
+ EDG_occupation_with_religion:0 "Ä‰ƒ±R²‹"
+ desc_EDG_occupation_with_religion:0 ""
+ EDG_occupation_with_infrastructure:0 "NNú^Qr^"
+ desc_EDG_occupation_with_infrastructure:0 ""
+ EDG_occupation_with_economic:0 "·^YÕlHh"
+ desc_EDG_occupation_with_economic:0 ""
+ EDG_occupation_with_spy:0 "LwNô•ŒÕlHh"
+ desc_EDG_occupation_with_spy:0 ""
+ EDG_occupation_with_administrative:0 "Lˆ?eÄ‰ƒÕlHh"
+ desc_EDG_occupation_with_administrative:0 ""
+ EDG_occupation_with_innovativeness:0 "Ye²w.t‰QÕlHh"
+ desc_EDG_occupation_with_innovativeness:0 ""
+ EDG_occupation_with_defensive:0 "ZWÁXÕlHh"
+ desc_EDG_occupation_with_defensive:0 ""
+ EDG_occupation_with_offensive:0 "TwTIe¿R"
+ desc_EDG_occupation_with_offensive:0 ""
+ EDG_occupation_with_quality:0 "SRÕlHh"
+ desc_EDG_occupation_with_quality:0 ""
+ EDG_occupation_with_peasant:0 "Ãqª…ÕlHh"
+ desc_EDG_occupation_with_peasant:0 ""
+
+ enable_EDG_occupation_ideas_tt:0 "=T(u§YLwN§!tõVÄu"
+ mechanic_enable_EDG_occupation_ideas_yes:0 "AQ¸‹=T(u§YLwN§!tõVÄu"
+ mechanic_EDG_FRN_enable_delegation_yes:0 "=T(u§TÔYXb§!³Q®‹"
+
+
+
+
+
+
+
+ EDG_FRN_win_from_gp_title:0 "@[Root.GetTag] §VGYùKNNb§!"
+ EDG_FRN_win_from_gp_desc:0 ""
+ EDG_FRN_delegation_control_title:0 "@[Root.GetTag] §TÔYXb§!³Q®‹>f:yµc6R"
+ EDG_FRN_delegation_control_desc:0 ""
+ EDG_FRN_delegation_control.close.tt:0 "§RsQí•§!§TÔYXb§!³Q®‹>f:yÿSVMR:N§GV=T§!"
+ EDG_FRN_delegation_control.open.tt:0 "§GV=T§!§TÔYXb§!³Q®‹>f:yÿSVMR:N§RsQí•§!"
+ EDG_FRN_begin_build_great_project.tt:0 "SVú^Qrú^.ŒRbTSÐcGS§Y1§!µu§TîvhGYÂ‰§!ÿAQ¸‹§RÍSYîOú^§!ôv0R§TîvhGYÂ‰§!ánµu\n\nSV§TîvhGYÂ‰§!*g¾0RánµuöeÿÏk!kîOú^ýS·ƒ—V§YSÏ‘§!„v¤\n\nSV§TîvhGYÂ‰§!¾0RánµuTÿS9hnc§YÔYXbIrµu§!·ƒÖS§Y'YÏ‘§!„v¤N§O.ã‹§!ÿTöe§GÓu—rÔYXb§!\n\n§YÔYXbIrµu§!ÎNNO0RØš’c^‚YNÿ\n§Jàÿu§!\n§T)YR—§!\n§OÄžÑ‘§!\n§V.OGY§!"
+ EDG_FRN_delegation_EDG_Frankfur_Romanplatz_title:0 "@[Root.GetTag] §Jàÿu§!ÔYXbÿ§YÕlpQKQyWlš^:W§!"
+ EDG_FRN_delegation_EDG_Frankfur_Romanplatz_desc:0 ""
+ EDG_FRN_delegation_EDG_Chateau_Rheingau_title:0 "@[Root.GetTag] §Jàÿu§!ÔYXbÿ§Y±ƒ5ƒØša„„R‘œQ:W§!"
+ EDG_FRN_delegation_EDG_Chateau_Rheingau_desc:0 ""
+ EDG_FRN_delegation_EDG_Mainz_StMartins_Cathedral_title:0 "@[Root.GetTag] §Jàÿu§!ÔYXbÿ§YŽàV(ƒ1W›sSšR'YYeX§!"
+ EDG_FRN_delegation_EDG_Mainz_StMartins_Cathedral_desc:0 ""
+ EDG_FRN_delegation_EDG_Heiligen_Geist_Hospital_title:0 "@[Root.GetTag] §Jàÿu§!ÔYXbÿ§Y1WupISb–YeX§!"
+ EDG_FRN_delegation_EDG_Heiligen_Geist_Hospital_desc:0 ""
+ EDG_FRN_delegation_EDG_St_Cyprian_Cathedral_title:0 "@[Root.GetTag] §Jàÿu§!ÔYXbÿ§Y1W‰nfÌ‘‰R'YYeX§!"
+ EDG_FRN_delegation_EDG_St_Cyprian_Cathedral_desc:0 ""
+ EDG_FRN_delegation_notre_dame_cathedral_title:0 "@[Root.GetTag] §Jàÿu§!ÔYXbÿ§YôTÎž1WÍkb–§!"
+ EDG_FRN_delegation_notre_dame_cathedral_desc:0 ""
+ EDG_FRN_delegation_EDG_Max_Castle_title:0 "@[Root.GetTag] §Jàÿu§!ÔYXbÿ§YlšKQ¯eÎW!X§!"
+ EDG_FRN_delegation_EDG_Max_Castle_desc:0 ""
+ EDG_FRN_delegation_EDG_Eltz_Castle_title:0 "@[Root.GetTag] §Jàÿu§!ÔYXbÿ§YÃWS(ƒÎW!X§!"
+ EDG_FRN_delegation_EDG_Eltz_Castle_desc:0 ""
+
+
+
+ EDG_FRN_delegation_EDG_Frankfurt_Cathedral_title:0 "@[Root.GetTag] §T)YR—§!ÔYXbÿ§Y‡v^'YYeX§!"
+ EDG_FRN_delegation_EDG_Frankfurt_Cathedral_desc:0 ""
+ EDG_FRN_delegation_EDG_Ethel_Palace_title:0 "@[Root.GetTag] §T)YR—§!ÔYXbÿ§YŒ‚mtSLˆ«R§!"
+ EDG_FRN_delegation_EDG_Ethel_Palace_desc:0 ""
+ EDG_FRN_delegation_EDG_Westminster_Abbey_title:0 "@[Root.GetTag] §T)YR—§!ÔYXbÿ§Y‰OeúR§!"
+ EDG_FRN_delegation_EDG_Westminster_Abbey_desc:0 ""
+ EDG_FRN_delegation_EDG_Mont_Saint_Michel_title:0 "@[Root.GetTag] §T)YR—§!ÔYXbÿ§Y1Ws|GkSqS§!"
+ EDG_FRN_delegation_EDG_Mont_Saint_Michel_desc:0 ""
+ EDG_FRN_delegation_EDG_Lichtenstein_Castle_title:0 "@[Root.GetTag] §T)YR—§!ÔYXbÿ§Y)R^Õn¯efWÎW!X§!"
+ EDG_FRN_delegation_EDG_Lichtenstein_Castle_desc:0 ""
+
+
+
+ EDG_FRN_delegation_cologne_cathedral_title:0 "@[Root.GetTag] §OÄžÑ‘§!ÔYXbÿ§YÑy†–'YYeX§!"
+ EDG_FRN_delegation_cologne_cathedral_desc:0 ""
+ EDG_FRN_delegation_ulm_minster_great_project_title:0 "@[Root.GetTag] §OÄžÑ‘§!ÔYXbÿ§YLNSÆY'YYeX§!"
+ EDG_FRN_delegation_ulm_minster_great_project_desc:0 ""
+ EDG_FRN_delegation_EDG_Aachener_Dom_title:0 "@[Root.GetTag] §OÄžÑ‘§!ÔYXbÿ§YšNt'YYeX§!"
+ EDG_FRN_delegation_EDG_Aachener_Dom_desc:0 ""
+ EDG_FRN_delegation_dutch_polders_title:0 "@[Root.GetTag] §OÄžÑ‘§!ÔYXbÿ§YwƒpQ)W0u§!"
+ EDG_FRN_delegation_dutch_polders_desc:0 ""
+ EDG_FRN_delegation_parthenon_title:0 "@[Root.GetTag] §OÄžÑ‘§!ÔYXbÿ§Y^yrœQ^y™^§!"
+ EDG_FRN_delegation_parthenon_desc:0 ""
+ EDG_FRN_delegation_EDG_Fontainebleau_title:0 "@[Root.GetTag] §OÄžÑ‘§!ÔYXbÿ§Y«g9N‹v2—«R§!"
+ EDG_FRN_delegation_EDG_Fontainebleau_desc:0 ""
+
+
+
+ EDG_FRN_delegation_schonbrunn_palace_title:0 "@[Root.GetTag] §V.OGY§!ÔYXbÿ§YŽÉl«R§!"
+ EDG_FRN_delegation_schonbrunn_palace_desc:0 ""
+ EDG_FRN_delegation_duomo_milano_title:0 "@[Root.GetTag] §V.OGY§!ÔYXbÿ§Ys|pQINYeµ^X§!"
+ EDG_FRN_delegation_duomo_milano_desc:0 ""
+ EDG_FRN_delegation_EDG_Library_of_Alexandria_title:0 "@[Root.GetTag] §V.OGY§!ÔYXbÿ§YšN†SqS'YÌ‘šNþVfN†™§!"
+ EDG_FRN_delegation_EDG_Library_of_Alexandria_desc:0 ""
+
+
+
+
+
+ EDG_FRN_delegation_EDG_Sanctus_Spiritus_Unitas_title:0 "@[Root.GetTag] §V.OGY§!ÔYXbÿ§Y1WupTNYeX§!"
+ EDG_FRN_delegation_EDG_Sanctus_Spiritus_Unitas_desc:0 ""
+ EDG_FRN_delegation_riga_world_city_title:0 "@[Root.GetTag] §V.OGY§!ÔYXbÿ§YÌ‘ RnfNÎW§!"
+ EDG_FRN_delegation_riga_world_city_desc:0 ""
+ EDG_FRN_delegation_EDG_Sieges_Maria_und_St_Michael_title:0 "@[Root.GetTag] §V.OGY§!ÔYXbÿ§Y1Ws|ÒR RïQËe1WÍkYeX§!"
+ EDG_FRN_delegation_EDG_Sieges_Maria_und_St_Michael_desc:0 ""
+ EDG_FRN_delegation_EDG_Dreifaltigkeit_Dom_title:0 "@[Root.GetTag] §V.OGY§!ÔYXbÿ§Y1W	NN)Yv˜'YYeX§!"
+ EDG_FRN_delegation_EDG_Dreifaltigkeit_Dom_desc:0 ""
+
+
+ EDG_FRN_exploration_of_building_materials_tax_title:0 "@[Root.GetTag] £icon_tax_base£ú^PgØR¢cÿ§YÃOÛ1SN§!"
+ EDG_FRN_exploration_of_building_materials_tax_desc:0 ""
+ EDG_FRN_exploration_of_building_materials_production_title:0 "@[Root.GetTag] £icon_production_efficiency£ú^PgØR¢cÿ§Y•bDú^¾‹§!"
+ EDG_FRN_exploration_of_building_materials_production_desc:0 ""
+ EDG_FRN_exploration_of_building_materials_manpower_title:0 "@[Root.GetTag] £icon_manpower£ú^PgØR¢cÿ§YÑS˜cjo›R§!"
+ EDG_FRN_exploration_of_building_materials_manpower_desc:0 ""
+ EDG_FRN_exploration_of_building_materials_get_golds.tt:0 "§R1Y»S§!IrTŽNîvhwýN§YÑSUS¦^§!„v¤"
+ EDG_FRN_investment_manpower:0 "òT•bD§GºN›R§!"
+ EDG_FRN_investment_tax:0 "òT•bD§Jz6e§!"
+ EDG_FRN_materials_count_glass:0 "òTVÑSú^PgUSMOÿ§V»sƒt§!"
+ EDG_FRN_materials_count_copper:0 "òTVÑSú^PgUSMOÿ§Vów™eÄžÜ”§!"
+ EDG_FRN_materials_count_gems:0 "òTVÑSú^PgUSMOÿ§VÄžÑ‘Rów§!"
+ EDG_FRN_materials_count_woods:0 "òTVÑSú^PgUSMOÿ§V(gPg§!"
+ EDG_FRN_materials_count_iron:0 "òTVÑSú^PgUSMOÿ§V¢”Á”§!"
+ EDG_FRN_materials_total_glass:0 "I`ú^Pg¨PYÿ§V»sƒt§!"
+ EDG_FRN_materials_total_copper:0 "I`ú^Pg¨PYÿ§Vów™eÄžÜ”§!"
+ EDG_FRN_materials_total_gems:0 "I`ú^Pg¨PYÿ§VÑ‘ö”àsR§!"
+ EDG_FRN_materials_total_woods:0 "I`ú^Pg¨PYÿ§V(gPg§!"
+ EDG_FRN_materials_total_iron:0 "I`ú^Pg¨PYÿ§V¢”Á”§!"
+
+
+ EDG_FRN_expand_the_division_france_title:0 "@[Root.GetTag] ú^Ëz§YÕlpQ‰§!Rè"
+ EDG_FRN_expand_the_division_france_desc:0 ""
+ EDG_FRN_expand_the_division_france.effect.tt:0 "S§TËeåT§!ƒôVib'Y0R§YÕlpQ‰§!0§YOÔk)RšN§!N§YNR ˜§!0W:S"
+ EDG_FRN_expand_the_division_italy_title:0 "@[Root.GetTag] ú^Ëz§Ya'Y)R§!Rè"
+ EDG_FRN_expand_the_division_italy_desc:0 ""
+ EDG_FRN_expand_the_division_italy.effect.tt:0 "S§TËeåT§!ƒôVib'Y0R§Ya'Y)R§!0§YôTSr^§!N§Ylš<hÌ‘^§!0W:S"
+ EDG_FRN_expand_the_division_east_poland_title:0 "@[Root.GetTag] ú^Ëz§YâlpQ§!Rè"
+ EDG_FRN_expand_the_division_east_poland_desc:0 ""
+ EDG_FRN_expand_the_division_east_poland.effect.tt:0 "S§TËeåT§!ƒôVib'Y0R§YâlpQ§!0§YŽUSôT!–§!N§YâlW„v§!0W:S"
+ EDG_FRN_check_information_title:0 "@[Root.GetTag] Àhåg§YSïQ§!N§Y•bDáOo`§!"
+ EDG_FRN_check_information_desc:0 ""
+ EDG_FRN_check_information.effect.tt:0 "¹pûQ³Q®‹§TØš®N§!egågwòTú^.§YSïQ§!„vwýN\n\nòT•bD§GºN›R§!ÿ§Y[EDG_FRN_investment_manpower.GetValue]§!\nt^¦^•bD§YºN›R§!6eeQÿ§G[EDG_FRN_investment_manpower_copy_use.GetValue]§!£icon_manpower£\n\nòT•bD§Jz6e§!ÿ§Y[EDG_FRN_investment_tax.GetValue]§!\nt^¦^•bD§Yz6e§!6eeQÿ§G[EDG_FRN_investment_tax_copy.GetValue]§!¤\n\n[EDG_FRN_materials_count_glass.GetName]ÿ§Y[EDG_FRN_materials_count_glass.GetValue]§!\n[EDG_FRN_materials_count_copper.GetName]ÿ§Y[EDG_FRN_materials_count_copper.GetValue]§!\n[EDG_FRN_materials_count_gems.GetName]ÿ§Y[EDG_FRN_materials_count_gems.GetValue]§!\n[EDG_FRN_materials_count_woods.GetName]ÿ§Y[EDG_FRN_materials_count_woods.GetValue]§!\n[EDG_FRN_materials_count_iron.GetName]ÿ§Y[EDG_FRN_materials_count_iron.GetValue]§!\n\n[EDG_FRN_materials_total_glass.GetName]ÿ§J[EDG_FRN_materials_total_glass.GetValue]§!\n[EDG_FRN_materials_total_copper.GetName]ÿ§J[EDG_FRN_materials_total_copper.GetValue]§!\n[EDG_FRN_materials_total_gems.GetName]ÿ§J[EDG_FRN_materials_total_gems.GetValue]§!\n[EDG_FRN_materials_total_woods.GetName]ÿ§J[EDG_FRN_materials_total_woods.GetValue]§!\n[EDG_FRN_materials_total_iron.GetName]ÿ§J[EDG_FRN_materials_total_iron.GetValue]§!\n\n§Y»sƒt§!µNúQHe‡sÿ§Y[EDG_FRN_building_materials_improve_efficiency_for_glass_copy.GetValue]%§!\n§Yów™eÄžÜ”§!µNúQHe‡sÿ§Y[EDG_FRN_building_materials_improve_efficiency_for_copper_copy.GetValue]%§!\n§YÑ‘ö”àsR§!µNúQHe‡sÿ§Y[EDG_FRN_building_materials_improve_efficiency_for_gems_copy.GetValue]%§!\n§Y(g™e§!µNúQHe‡sÿ§Y[EDG_FRN_building_materials_improve_efficiency_for_woods_copy.GetValue]%§!\n§Y¢”Á”§!µNúQHe‡sÿ§Y[EDG_FRN_building_materials_improve_efficiency_for_iron_copy.GetValue]%§!\nýV¶RuµNHe‡sÿ§Y[EDG_FRN_production_efficiency_var_copy.GetValue]%§!\n\nt^¦^§Y»sƒt§!µNúQÿ§G[EDG_FRN_materials_count_glass_copy.GetValue]§!\nt^¦^§Yów™eÄžÜ”§!µNúQÿ§G[EDG_FRN_materials_count_copper_copy.GetValue]§!\nt^¦^§YÑ‘ö”àsR§!µNúQÿ§G[EDG_FRN_materials_count_gems_copy.GetValue]§!\nt^¦^§Y(g™e§!µNúQÿ§G[EDG_FRN_materials_count_woods_copy.GetValue]§!\nt^¦^§Y¢”Á”§!µNúQÿ§G[EDG_FRN_materials_count_iron_copy.GetValue]§!\n\n¹pûQ§Y7R°e§!penc"
+
+
+
+ EDG_FRN_I_level_gp_build_count:0 "ŒRb„v§Jàÿu§!ÔYXbpeÏ‘"
+ EDG_FRN_II_level_gp_build_count:0 "ŒRb„v§T)YR—§!ÔYXbpeÏ‘"
+ EDG_FRN_III_level_gp_build_count:0 "ŒRb„v§OÄžÑ‘§!ÔYXbpeÏ‘"
+ EDG_FRN_IV_level_gp_build_count:0 "ŒRb„v§V.OGY§!ÔYXbpeÏ‘"
+
+
+ EDG_FRN_material_glass_need_tt:0 "òTÖS—V§TÔYXb§!Nb—Pg™eÿ§Y»sƒt§!"
+ EDG_FRN_material_iron_need_tt:0 "òTÖS—V§TÔYXb§!Nb—Pg™eÿ§Y¢”Á”§!"
+ EDG_FRN_material_gems_need_tt:0 "òTÖS—V§TÔYXb§!Nb—Pg™eÿ§YàsR§!"
+ EDG_FRN_material_woods_need_tt:0 "òTÖS—V§TÔYXb§!Nb—Pg™eÿ§Y(gPg§!"
+ EDG_FRN_material_copper_need_tt:0 "òTÖS—V§TÔYXb§!Nb—Pg™eÿ§YÄžÜ”§!"
+
+ merc_EDG_FRN_building_materials_exploration_team:0 "§Jú^PgØR¢c–§!"
+ merc_EDG_FRN_building_materials_exploration_team_desc:0 "å‹cOuQâVåb	g§YúVšRÄ‰!j§!\n§Jå‹cOuQâVN`S(uF–›QNP–§!"
+ merc_EDG_FRN_frankfurt_engineering_corps:0 "§JÕlpQKQyåTuQâV§!"
+
+ EDG_Sanctus_Spiritus_Unitas:0 "1WupTNYeX"
+ EDG_Sieges_Maria_und_St_Michael:0 "1Ws|ÒR RïQËe1WÍkYeX"
+ EDG_Dreifaltigkeit_Dom:0 "1W	NN)Yv˜'YYeX"
+
+
+
+
+ EDG_Chief_Engineer:0 "–™-^åTz^"
+ EDG_Chief_Engineer_desc:0 "–™-^åTz^"
+ EDG_building_engineer_adm:0 "åTz^£adm£"
+ EDG_building_engineer_adm_desc:0 ""
+ EDG_building_engineer_dip:0 "åTz^£dip£"
+ EDG_building_engineer_dip_desc:0 ""
+ EDG_building_engineer_mil:0 "åTz^£mil£"
+ EDG_building_engineer_mil_desc:0 ""
+
+
+ EDG_FRN_upgrade_gp_tt:0 "å‹§YO'YåTz§!òTÏuÇ§YîO.§!"
+ EDG_FRN_will_upgrade_gp_tt:0 "§GŒRb§!å‹ÔYXbýwY§Y:VS§!îvh§YO'YåTz§!"
+ EDG_Schloss_Schonbrunn_use_trigger:0 "§YŽÉl«R§!òTÏuÇ§YîO.§!"
+
+ EDG_FRN_construction_attainments_interactions_1:0 "ÛbßRåTºN"
+ EDG_FRN_construction_attainments_interactions_1_desc:0 ""
+ EDG_FRN_construction_attainments_interactions_2:0 "Xw÷‹åTz^"
+ EDG_FRN_construction_attainments_interactions_2_desc:0 ""
+ EDG_FRN_construction_attainments_interactions_3:0 "»”xŽb=g"
+ EDG_FRN_construction_attainments_interactions_3_desc:0 ""
+ EDG_FRN_construction_attainments_interactions_3.effect_1.tt:0 "ˆmw§YNb	gR°e¦^§!ÿÏkˆmw§Y1§!¹pR°e¦^ÿRÿ\n+§Y3§!£adm£Lˆ?e¹p\n+§Y3§!£dip£Y²N¹p\n+§Y3§!£mil£›Q‹N¹p\n+§Y0.1§!ú^Qr§O.ã‹§!\n+§Y1§!Zg"
+ EDG_FRN_construction_attainments_interactions_3.effect_2.tt:0 "+§Y0.05%§!F–›QLwN¦^"
+ EDG_FRN_construction_attainments_interactions:0 ""
+
+
+ estate_burgher_EDG_FRN_delegation_EDG_Frankfur_Romanplatz:0 "§J¡‹R§!ÿŽàV³lKNàs"
+ estate_burgher_EDG_FRN_delegation_EDG_Frankfur_Romanplatz_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_nobles_EDG_FRN_delegation_EDG_Chateau_Rheingau:0 "§J¡‹R§!ÿa„„R‘Twßv"
+ estate_nobles_EDG_FRN_delegation_EDG_Chateau_Rheingau_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_church_EDG_FRN_delegation_EDG_Mainz_StMartins_Cathedral:0 "§JîOY§!ÿŽàVœeTX"
+ estate_church_EDG_FRN_delegation_EDG_Mainz_StMartins_Cathedral_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_church_EDG_FRN_delegation_EDG_Heiligen_Geist_Hospital:0 "§JîOY§!ÿKg(gNP"
+ estate_church_EDG_FRN_delegation_EDG_Heiligen_Geist_Hospital_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_church_EDG_FRN_delegation_EDG_St_Cyprian_Cathedral:0 "§J¡‹R§!ÿ‹vTXÌSf"
+ estate_church_EDG_FRN_delegation_EDG_St_Cyprian_Cathedral_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_nobles_EDG_FRN_delegation_notre_dame_cathedral:0 "§Jibú^!ÿ‹s²RKNü"
+ estate_nobles_EDG_FRN_delegation_notre_dame_cathedral_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_nobles_EDG_FRN_delegation_EDG_Max_Castle:0 "lšKQ¯eÎW!X"
+ estate_nobles_EDG_FRN_delegation_EDG_Max_Castle_desc:0 ""
+ estate_nobles_EDG_FRN_delegation_EDG_Eltz_Castle:0 "ÃWS(ƒÎW!X"
+ estate_nobles_EDG_FRN_delegation_EDG_Eltz_Castle_desc:0 ""
+
+
+ estate_church_EDG_FRN_delegation_EDG_Frankfurt_Cathedral:0 "§T¡‹R§!ÿ‡v^„v°ecˆ"
+ estate_church_EDG_FRN_delegation_EDG_Frankfurt_Cathedral_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_nobles_EDG_FRN_delegation_EDG_Ethel_Palace:0 "§T¡‹R§!ÿVnTu‚ðS"
+ estate_nobles_EDG_FRN_delegation_EDG_Ethel_Palace_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_church_EDG_FRN_delegation_EDG_Westminster_Abbey:0 "‰OeúR"
+ estate_church_EDG_FRN_delegation_EDG_Westminster_Abbey_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_church_EDG_FRN_delegation_EDG_Mont_Saint_Michel:0 "1Ws|GkSqS"
+ estate_church_EDG_FRN_delegation_EDG_Mont_Saint_Michel_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_nobles_EDG_FRN_delegation_EDG_Lichtenstein_Castle:0 ")R^Õn¯efWÎW!X"
+ estate_nobles_EDG_FRN_delegation_EDG_Lichtenstein_Castle_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+
+
+
+ estate_church_EDG_FRN_delegation_cologne_cathedral:0 "Ñy†–'YYeX"
+ estate_church_EDG_FRN_delegation_cologne_cathedral_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_church_EDG_FRN_delegation_ulm_minster_great_project:0 "LNSÆY'YYeX"
+ estate_church_EDG_FRN_delegation_ulm_minster_great_project_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_church_EDG_FRN_delegation_EDG_Aachener_Dom:0 "šNt'YYeX"
+ estate_church_EDG_FRN_delegation_EDG_Aachener_Dom_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_burgher_EDG_FRN_delegation_dutch_polders:0 "wƒpQ)W0u"
+ estate_burgher_EDG_FRN_delegation_dutch_polders_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_nobles_EDG_FRN_delegation_parthenon:0 "^yrœQ^y™^"
+ estate_nobles_EDG_FRN_delegation_parthenon_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_nobles_EDG_FRN_delegation_EDG_Fontainebleau:0 "§O¡‹R§!ÿ°eWlš?aof"
+ estate_nobles_EDG_FRN_delegation_EDG_Fontainebleau_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+
+
+ estate_nobles_EDG_FRN_delegation_schonbrunn_palace:0 "ŽÉl«R"
+ estate_nobles_EDG_FRN_delegation_schonbrunn_palace_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_church_EDG_FRN_delegation_duomo_milano:0 "s|pQINYeµ^X"
+ estate_church_EDG_FRN_delegation_duomo_milano_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ estate_burgher_EDG_FRN_delegation_EDG_Library_of_Alexandria:0 "§V„gó`§!ÿšN†SqS'YKNIQ"
+ estate_burgher_EDG_FRN_delegation_EDG_Library_of_Alexandria_desc:0 "NýNMOŽN[agenda_province.GetName]„vGYÂ‰ú^¾‹ÔYXb"
+ 
+
+ estate_church_EDG_FRN_delegation_building_tax:0 "ú^QrÔYXbÿ§Yz6e^R§!"
+ estate_church_EDG_FRN_delegation_building_tax_desc:0 "YeëXìNgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_nobles_EDG_FRN_delegation_building_manpower:0 "ú^QrÔYXbÿ§YuQ%„^R§!"
+ estate_nobles_EDG_FRN_delegation_building_manpower_desc:0 "5ÏeìNgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_nobles_EDG_FRN_delegation_building_forcelimit:0 "ú^QrÔYXbÿ§Y›Q%„^R§!"
+ estate_nobles_EDG_FRN_delegation_building_forcelimit_desc:0 "5ÏeìNgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_nobles_EDG_FRN_delegation_building_artillery_foundry:0 "ú^QrÔYXbÿ§Ykp®pø”.‚S§!"
+ estate_nobles_EDG_FRN_delegation_building_artillery_foundry_desc:0 "5ÏeìNgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_nobles_EDG_FRN_delegation_building_fortifications:0 "ú^QrÔYXbÿ§Y2–¡VåT‹N§!"
+ estate_nobles_EDG_FRN_delegation_building_fortifications_desc:0 "5ÏeìNgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_nobles_EDG_FRN_delegation_building_fortress:0 "ú^QrÔYXbÿ§Y!X’W§!"
+ estate_nobles_EDG_FRN_delegation_building_fortress_desc:0 "5ÏeìNgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_nobles_EDG_FRN_delegation_building_military_base:0 "ú^QrÔYXbÿ§Y›Q‹NúW0W§!"
+ estate_nobles_EDG_FRN_delegation_building_military_base_desc:0 "5ÏeìNgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_church_EDG_FRN_delegation_building_prodcution:0 "ú^QrÔYXbÿ§YuµN^R§!"
+ estate_church_EDG_FRN_delegation_building_prodcution_desc:0 "FUºNLˆOgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_church_EDG_FRN_delegation_building_trade:0 "ú^QrÔYXbÿ§Y8f^R§!"
+ estate_church_EDG_FRN_delegation_building_trade_desc:0 "FUºNLˆOgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_burgher_EDG_FRN_delegation_building_saw_mill:0 "ú^QrÔYXbÿ§Y=•(g‚S§!"
+ estate_burgher_EDG_FRN_delegation_building_saw_mill_desc:0 "FUºNLˆOgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_burgher_EDG_FRN_delegation_building_big_square:0 "ú^QrÔYXbÿ§Y^:W§!"
+ estate_burgher_EDG_FRN_delegation_building_big_square_desc:0 "FUºNLˆOgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_burgher_EDG_FRN_delegation_building_mine:0 "ú^QrÔYXbÿ§YÿwqS§!"
+ estate_burgher_EDG_FRN_delegation_building_mine_desc:0 "FUºNLˆOgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_burgher_EDG_FRN_delegation_building_quarry:0 "ú^QrÔYXbÿ§YÇ‘ów:W§!"
+ estate_burgher_EDG_FRN_delegation_building_quarry_desc:0 "FUºNLˆOgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_burgher_EDG_FRN_delegation_building_brewhouse:0 "ú^QrÔYXbÿ§Y‘R‘‚S§!"
+ estate_burgher_EDG_FRN_delegation_building_brewhouse_desc:0 "FUºNLˆOgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+ estate_burgher_EDG_FRN_delegation_building_pasture:0 "ú^QrÔYXbÿ§Ygr:W§!"
+ estate_burgher_EDG_FRN_delegation_building_pasture_desc:0 "FUºNLˆOgÑ:NbìN(W[agenda_province.GetName]¥cÖS†NNýNú^QrÔYXb0"
+
+
+ EDG_FRN_exercise_free_city_privilege_title:0 "LˆO§Yê1u^yrCg§!"
+ EDG_FRN_exercise_free_city_privilege_desc:0 "§Gˆmd–§!îvhýV¶RùR§YÕlpQKQy§!wýN„v§Y±Rðy§!0\n\n§GÖSˆm§!îvhýV¶R§Yˆ”ùRbìN„v¿RLe§!0"
+ EDG_FRN_exercise_free_city_privilege_tooltip:0 "9e„UbìNTùR¹e„vsQû|ÿ©‹bìNôf¹e¿O„vÛLˆN›NIm¨R0"

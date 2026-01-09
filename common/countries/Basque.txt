@@ -1,0 +1,69 @@
+graphical_culture = westerngfx
+color = {
+  0
+  156
+  70
+}
+
+revolutionary_colors = {
+  213
+  39
+  25
+}
+historical_idea_groups = {
+  defensive_ideas
+  offensive_ideas
+  economic_ideas
+  exploration_ideas
+  administrative_ideas
+  maritime_ideas
+  quality_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  chevauchee
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "Ôçf #10" = 160  # Louis #10
+  "ÂgSØe #5" = 80  # Charles #5
+  "®N)R #1" = 60  # Henri #1
+  "Vg0tÊt #0" = 40  # 
+  "ÚÉ)Rnf #6" = 10  # Philippe #6
+
+}
+leader_names = {
+  "=O™RÙu"  # de Bonneuil
+  "ZSØeKQ"  # du Bosquet
+  "^ÀzT"  # 
+  "√RÌp"  # de Broglie
+}
+ship_names = {
+  "‘kØeVwmõQNS"  # Amiral de Biscaye
+  "lö3tëöuQ"  # Cheval Marin
+  "‚lSYCgZ"  # Commerce de Bordeaux
+}
+army_names = {
+  "áv∂R"  # royale
+  "’lpQ∑V"  # des Flandres
+  "˙ã∑V"  # du Nord
+  "“R√W"  # de l'Est
+  "Ìp…b"  #  du Jura
+}
+fleet_names = {
+  ",rN0Çñ"  # Escadre de la Manche
+  "'Yâm0Çñ"  # Escadre de l'Atlantique
+}

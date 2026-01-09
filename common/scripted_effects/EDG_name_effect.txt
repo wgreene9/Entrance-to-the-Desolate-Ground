@@ -1,0 +1,287 @@
+EDG_EDG_flavorPAP_Cesare_Borgia_effect = {
+    define_general = {
+      name = "R(Ñ˜ñ ‚l	TöN"  # Cesare Borgia
+      shock = 5
+      fire = 4
+      manuever = 4
+      siege = 3
+    }
+}
+EDG_flavor_age_ITA_education_18_effect = {
+  define_advisor = {
+    type = natural_scientist
+    name = "	TW…b´É aSSæè˙ã"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavor_age_ITA_education_19_effect = {
+  define_advisor = {
+    type = artist
+    name = "…bêeS Qhâ"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavor_age_ITA_education_20_effect = {
+  define_advisor = {
+    type = artist
+    name = "›OW LNRm"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavor_age_ITA_education_21_effect = {
+  define_advisor = {
+    type = architect
+    name = "	TçSÇÑ"
+    skill = 2
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+
+EDG_flavorLER_1_effect = {
+  
+  define_ruler = {
+    change_adm = 1
+    change_dip = 2
+    change_mil = 6
+    name = "‚lRØeÊt+Y ó®N0t&O"
+    claim = 100
+    culture = polish
+    age = 30
+  }
+}
+EDG_EDG_flavorHAB_1_effect = {
+	define_heir = {
+		name = "löKQâs|)RâR"
+		dynasty = ROOT
+		adm = 6
+		dip = 6
+		mil = 5
+		age = 1
+		claim = 95
+	}
+}
+EDG_EDG_flavorHAB_5_effect = {
+  define_advisor = {
+    type = artist
+    name = "0N“R"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_EDG_flavorMRK_11_a_general_effect = {
+  define_general = {
+    name = "FzUÿû∑V åÇ»T»è∑V ?ñÃë"
+    shock = 3
+    fire = 4
+    manuever = 3
+    siege = 2
+  }
+}
+EDG_MRK_civil_war_1_event_5_a_effect = {
+  
+  define_ruler = {
+    adm = 4
+    dip = 2
+    mil = 6
+    name = "?ñ^ ?ñjSjg…b †RO∆Y I"
+    dynasty = "ÊtTXØe"
+    claim = 100
+    culture = tunisian
+    age = 30
+  }
+}
+EDG_MRK_civil_war_1_event_6_a_effect = {
+  
+  define_ruler = {
+    adm = 4
+    dip = 2
+    mil = 6
+    name = "FzUÿû∑V I"
+    dynasty = "(Ñ?ñÍè"
+    claim = 100
+    culture = moroccan
+    age = 30
+  }
+}
+EDG_flavor_BUL_5_a_general_effect = {
+  define_general = {
+    name = "ON Øeyr…b(És|S"
+    shock = 3
+    fire = 3
+    manuever = 4
+    siege = 3
+  }
+}
+EDG_flavor_BUL_5_b_advisor_effect = {
+  define_advisor = {
+    type = artist
+    name = "ON Øeyr…b(És|S"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavor_BUL_5_c_advisor_effect = {
+  define_advisor = {
+    type = statesman
+    name = "ON Øeyr…b(És|S"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_EDG_flavor_BUL_9_a_effect = {
+  
+  define_ruler = {
+    adm = 3
+    dip = 2
+    mil = 4
+    name = "<heYS˙W »TGY∑^Øe I"
+    dynasty = ROOT
+    claim = 100
+    culture = ROOT
+    age = 23
+  }
+}
+EDG_EDG_flavor_BUL_7_a_effect = {
+  
+  define_heir = {
+    adm = 3
+    dip = 2
+    mil = 4
+    name = "<heYS˙W »TGY∑^Øe"
+    dynasty = ROOT
+    claim = 100
+    culture = ROOT
+    age = 20
+    block_disinherit = yes
+  }
+}
+EDG_EDG_flavor_BUL_8_a_effect = {
+  define_ruler = {
+    adm = 6
+    dip = 5
+    mil = 6
+    name = "öNÜSqS'Y ∑^ØefWN I"
+    dynasty = ROOT
+    claim = 100
+    culture = ROOT
+    age = 20
+  }
+}
+EDG_flavorFRA_2_a_effect = {
+  define_ruler = {
+    adm = 4
+    dip = 3
+    mil = 2
+    name = "¶u III"
+    dynasty = "—ë¿ñ±Ç"
+    birth_date = 1425.4.29
+  }
+}
+EDG_flavorFRA_2_b_effect = {
+  define_heir = {
+    name = "¶u"
+    dynasty = ROOT
+    culture = english
+    claim = 95
+    adm = 4
+    dip = 3
+    mil = 2
+    age = 23
+  }
+}
+EDG_flavorSMO_1_a_effect = {
+	define_ruler = {
+	  name = "âRN |VóVW+Y"
+		claim = 95
+		adm = 6
+		dip = 5
+		mil = 6
+		age = 20
+	}
+}
+EDG_flavorFRA_1_name_a_effect = {
+  define_consort = {
+    name = "©ãZ"
+    dynasty = "æèKQ"
+    adm = 3
+    dip = 2
+    mil = 4
+    age = 34
+    female = yes
+    clear_scripted_personalities = yes
+	  add_ruler_personality = inspiring_leader_personality
+  }
+}
+EDG_flavorFRA_17_a_name_effect = {
+  define_advisor = {
+    type = innovator
+    name = "™u'S∆Y ‘k„N"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_18_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "Vg0tÊt …b=O˜ñ"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_20_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "ôÑlÖm s|GkS"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_31_a_name_effect = {
+  define_advisor = {
+    type = philosopher
+    name = "“RÖQ raSS"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_34_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "Æv√WS ÿöCNùO"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_35_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "©ã …bõè"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}
+EDG_flavorFRA_36_a_name_effect = {
+  define_advisor = {
+    type = artist
+    name = "©ã∑∑V∑…b∑S9N"
+    skill = 3
+    cost_multiplier = 0.25
+    culture = ROOT
+  }
+}

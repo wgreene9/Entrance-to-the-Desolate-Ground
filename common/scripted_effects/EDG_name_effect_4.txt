@@ -1,0 +1,147 @@
+
+EDG_FYM_civil_war_9_a_effect = {
+	define_heir = {
+		name = "NbO·V"
+		monarch_name = "NbO·V I 0Ébê-KQÉbÕl0"
+		dynasty = "(„ÈT¾"
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+		age = 22
+		
+	}
+	set_heir_flag = EDG_FYM_ruler_2_flag_heir
+	add_heir_personality = EDG_personality_zhayide
+	define_heir_to_general = {
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 4
+		siege = 2
+		death_date = 1500.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+}
+EDG_FYM_civil_war_30_a_effect = {
+	define_ruler = {
+		name = "NbO·V I 0Ébê-KQÉbÕl0"
+		dynasty = "(„ÈT¾"
+		claim = 95
+		adm = 4
+		dip = 5
+		mil = 5
+		age = 22
+		
+	}
+	add_ruler_personality = EDG_personality_zhayide
+	define_ruler_to_general = {
+		type = general
+		fire = 4
+		shock = 4
+		manuever = 4
+		siege = 2
+		death_date = 1500.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+}
+EDG_FYM_Caliph_war_18_a_name_effect = {
+	define_ruler = {
+		name = "O·VÌ‘¯e wmO¯e I 0Ï‚9NªR¯e-^XÉbN0"
+		dynasty = "(„ÈT¾"
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+		age = 21
+	}
+	add_ruler_personality = EDG_personality_yidelisi
+	define_ruler_to_general = {
+		type = general
+		fire = 5
+		shock = 4
+		manuever = 2
+		siege = 3
+		death_date = 1500.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+	add_ruler_modifier = {
+		name = EDG_FYM_yidelisi_ruler_modifier
+		duration = 9125
+	}
+}
+EDG_FYM_Caliph_war_20_a_name_effect = {
+	define_heir = {
+		name = "O·VÌ‘¯e wmO¯e"
+		monarch_name = "O·VÌ‘¯e wmO¯e I 0Ï‚9NªR¯e-^XÉbN0"
+		dynasty = "(„ÈT¾"
+		claim = 95
+		adm = 5
+		dip = 3
+		mil = 5
+		age = 21
+	}
+	add_heir_personality = EDG_personality_yidelisi
+	define_heir_to_general = {
+		type = general
+		fire = 5
+		shock = 4
+		manuever = 2
+		siege = 3
+		death_date = 1500.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+	
+}
+EDG_mission_FYM_363_captial_decision_name_effect = {
+	change_province_name = "jgÆYšNyr-FzaSÉb›s"
+	rename_capital = "jgÆYšNyr-FzaSÉb›s"
+}
+EDG_flavor_FYM_211_c_name_effect = {
+    define_advisor = { 
+      name = "0sKb0 eY¯eüf"
+      type = procurator
+      cost_multiplier = 0.25
+      skill = 3 
+    }
+}
+EDG_FYM_Caliph_war_10_a_name_effect = {
+	define_general = {
+	  name = "?–jSjgÒR-ætÈTjS 0îwPR0"
+	  shock = 3
+	  fire = 4
+	  manuever = 2
+	  siege = 3
+	}
+}
+EDG_FYM_Caliph_war_11_a_name_effect = {
+	define_general = {
+	  name = "<SNbS “^HSKQ"
+	  shock = 4
+	  fire = 2
+	  manuever = 4
+	  siege = 2
+	}
+}
+EDG_FYM_vassal_war_6_a_effect = {
+	define_heir = {
+		name = "Õlk¾"
+		monarch_name = "Õlk¾ I 0™l?–-?–O	TWl0"
+		dynasty = "(„ÈT¾"
+		claim = 95
+		adm = 5
+		dip = 6
+		mil = 5
+		age = 30
+	}
+	add_heir_personality = EDG_personality_faheda
+	define_heir_to_general = {
+		type = general
+		fire = 5
+		shock = 6
+		manuever = 4
+		siege = 4
+		death_date = 1600.11.24
+		trait = edg_fym_sahada_great_conquer_personality
+	}
+}

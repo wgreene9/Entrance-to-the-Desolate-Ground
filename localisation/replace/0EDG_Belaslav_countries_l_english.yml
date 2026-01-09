@@ -1,0 +1,205 @@
+﻿l_english:
+ VOG:0 "ƒlm<h¾"
+ VOG_ADJ:0 "ƒlm<h¾"
+ VOG_ADJ2:0 "ƒlm<h¾„v"
+ VRS:0 "VÉbúWs|SW¯e"
+ VRS_ADJ:0 "VÉbúWs|SW¯e"
+ VRS_ADJ2:0 "VÉbúWs|SW¯e„v"
+ EDG_ruler_total_stats_9_no:0 "[Root.Monarch.GetName]„v£adm£ÿ£dip£ŒT£mil£¹ppeKNŒTNOŽN9"
+ EDG_ruler_total_stats_9_yes:0 "[Root.Monarch.GetName]„v£adm£ÿ£dip£ŒT£mil£¹ppeKNŒTóS9" 
+ EDG_slavic_effect_no_tooltip:0 "bìNSO1Y»SåNNîOck"
+ EDG_bela_severian:0 "‰ôu)RšN"
+ EDG_bela_tverian:0 "yrôuS"
+ EDG_bela_boloctkian:0 "âlm(ƒKQ"
+ EDG_bela_livivian:0 ")Rôu+Y"
+ EDG_bela_pomerian:0 "âlØžS"
+ EDG_bela_kievian:0 "úW…"
+ EDG_bela_uklanian:0 "LNïSÉb<SšN"
+ EDG_bela_siberian:0 "‰=O)RšN"
+ EDG_bela_donnian:0 "˜³l"
+ EDG_bela_lechy:0 "âlÉb<S"
+ EDG_bela_mazovian:0 "lšPO+Y‚"
+ EDG_bela_czechy:0 "Rk"
+ EDG_bela_moravian:0 "idÉbôušN"
+ EDG_bela_polabian:0 "âlÉbÔkšN"
+ EDG_bela_silesian:0 "‰Ì‘‰šN"
+ EDG_bela_litvin:0 ")Ryr‡e"
+ EDG_bela_tatar:0 "TXTXS"
+ EDG_bela_ural:0 "LNÉbS"
+ EDG_bela_karelian:0 "aSRÌ‘šN"
+ EDG_bela_slavonian:0 "¯eÉbƒl<SšN"
+ EDG_bela_illyria:0 "O)RÌ‘šN"
+ EDG_bela_dalmatia:0 "¾SlšÐcšN"
+ EDG_bela_bulgarian:0 "=O RÌ‘šN"
+ #slavic_russian_yes:0 "£yes£§T«ƒ¯eÑy.Oßu§! ²QûQ2O³Rÿ§G+5%§!"
+ #slavic_novgorodian_yes:0 "£yes£§Tú‹+YåTW·V.Oßu§!Ç–cOuQôu²b9ÿ§G-5%§!"
+ #slavic_ryazanian_yes:0 "£yes£§Th^.Oßu§!ÿ§G+5%§!"
+ #slavic_byelorussian_yes:0 "£yes£§T‹vW¯e.Oßu§!²QûQ2O³Rÿ§G+5%§!"
+ #slavic_ruthenian_yes:0 "£yes£§TúW….Oßu§!²QûQ2O³Rÿ§G+5%§!"
+ #slavic_czech_yes:0 "£yes£§GwcKQ.Oßu§!"
+ #slavic_polish_yes:0 "£yes£§GâlpQ.Oßu§!"
+ #slavic_schlesian_yes:0 "£yes£§G‰Ì‘‰šN.Oßu§!"
+ #slavic_sorbian_yes:0 "£yes£§G0t^.Oßu§!"
+ #slavic_slovak_yes:0 "£yes£§G¯emOKQ.Oßu§!"
+ #slavic_croatian_yes:0 "£yes£§jKQW0WšN.Oßu§!"
+ #slavic_serbian_yes:0 "£yes£§j^XSôušN.Oßu§!"
+ #slavic_slovene_yes:0 "£yes£§j¯em‡e<SšN.Oßu§!"
+ #slavic_bosnian_yes:0 "£yes£§jâl¯e<SšN.Oßu§!"
+ #slavic_bulgarian_yes:0 "£yes£§jÝO R)RšN.Oßu§!"
+ #slavic_russian_no:0 "£no£§T«ƒ¯eÑy.Oßu§!²QûQ2O³Rÿ§G+5%§!"
+ #slavic_novgorodian_no:0 "£no£§Tú‹+YåTW·V.Oßu§!"
+ #slavic_ryazanian_no:0 "£no£§Th^.Oßu§!"
+ #slavic_byelorussian_no:0 "£no£§T‹vW¯e.Oßu§!"
+ #slavic_ruthenian_no:0 "£no£§TúW….Oßu§!"
+ #slavic_czech_no:0 "£no£§GwcKQ.Oßu§!"
+ #slavic_polish_no:0 "£no£§GâlpQ.Oßu§!"
+ #slavic_schlesian_no:0 "£no£§G‰Ì‘‰šN.Oßu§!"
+ #slavic_sorbian_no:0 "£no£§G0t^.Oßu§!"
+ #slavic_slovak_no:0 "£no£§G¯emOKQ.Oßu§!"
+ #slavic_croatian_no:0 "£no£§jKQW0WšN.Oßu§!"
+ #slavic_serbian_no:0 "£no£§j^XSôušN.Oßu§!"
+ #slavic_slovene_no:0 "£no£§j¯em‡e<SšN.Oßu§!"
+ #slavic_bosnian_no:0 "£no£§jâl¯e<SšN.Oßu§!"
+ #slavic_bulgarian_no:0 "£no£§jÝO R)RšN.Oßu§!"
+ EDG_mos_handle_nov_title:0 "Ytú‹+YåTW·V"
+ EDG_mos_handle_nov_desc:0 "–Nw«ƒ¯eÑyéTúV†NyY(WNSW¯e„vßu»lÿÈuŽNïSåNŒúQKbegã‰³QKNMR¬`w*g³Q„vú‹+YåTW·Vî•˜˜†N0ëkàe‘uî•ÿú‹+YåTW·VÅV‰˜«ˆŒRhQteTÛ«ƒ¯eÑy0"
+ EDG_mos_war_with_nov_title:0 "ú‹+YåTW·V„v«ƒ¯eÑy>m"
+ EDG_mos_war_with_nov_desc:0 "–NwbìN(Wb:WNnÙzNÎ˜ÿú‹+YåTW·V±›NŸS,gGdFd„v-Nô•>m5ÏemNVËY>PTŽN=ec«ƒ¯eÑyÿbìNêS—‰“bOOÙN:gO»S"
+ EDG_mos_win_nov_title:0 "6eÞVú‹+YåTW·V"
+ EDG_mos_win_nov_desc:0 "bìN‰V•^ûQŽx†Nú‹+YåTW·V„vÍS—bÿ=föePS«ƒ¯eÑy„véy^ R(Wú‹+YåTW·VºN4YN†N0"
+ EDG_mos_war_with_nov_flag:0 "ú‹+YåTW·V„v«ƒ¯eÑy>mh×V"
+ EDG_mos_win_nov_flag:0 "6eÞVú‹+YåTW·Vh×V"
+ EDG_mos_civilwar.101t:0 "«ƒ¯eÑy…QbrÑS"
+ EDG_mos_civilwar.101d:0 "N)YùR«ƒ¯eÑyV„vg'Y„v©sr1S=fW¯ecR¯eÉb+Y'Y^„vñ‚t^ée0(WïSåN„˜Á‰„vSegÿ«ƒ¯eÑyùRNSW¯e„vßu»lSØS—VGdGd2k`Wÿú‹+YåTW·VýwTckŠz˜0W1»y«ƒ¯eÑyßu»lÿÊ‰Î‰‹sMO„vÎ‘ÃV¶R—VåNŠbKb8OT«ƒ¯eÑy‹s Qÿ«ƒ¯eÑyßuNW¯e„vekOS«ˆë>eÿuó	gïSýwte*NNSW¯e„véy^ýOR)T»yg06qwxynQyNbPÿynQxyNbO0å‚=fšN†SqS'YýwbŸRˆROOÖN„v‹sMOÿûQ%NRR»y¿R›RŒTÎ‘ÃV¶Rÿ«ƒ¯eÑyùRNSW¯e„vßu»lSOÔkŸSegbrúVASPuókNPÿ«ƒ¯eÑyÅVSb:NW¯eKNINÿ"
+ EDG_mos_civilwar.101A:0 ")YQO'YlQÿ"
+ EDG_mos_civilwar.102t:0 "«ƒ¯eÑy…QbÓumg"
+ EDG_mos_civilwar.102d:0 "–Nw…QbSÃWK„šRÿ«ƒ¯eÑyÈuŽNýwQN!kMRÛ†N0"
+ EDG_mos_civilwar.102A:0 "FO?a‚Ydk0"
+ EDG_mos_civilwar.102B:0 "«ƒ¯eÑyS4x'ƒbv‡ÿ"
+ EDG_mos_civilwar.201t:0 "ú‹+YåTW·V±R^ìrËz"
+ EDG_mos_civilwar.201d:0 "W¯ecR¯eÉb+YþfÏubŸR0WVg†Nú‹+YåTW·Vÿv^b:N†Nú‹+YåTW·V‹slQ0FO=f°s(WW¯ecR¯eÉb+Y»yNÿ	cgq.Oßuú‹+YåTW·VkS‰V—‰	>NúQNMO°e‹slQ0ú‹+YåTW·VkS‰V>f6qòTÏuåwSf†N2SÌ‘„vÛSqNÿÖNìNSb—rNb²‹šN†SqS'Y„vçubCgÿv^z˜tbàz0W1»yNbìN„vTwTßu»lÿNSªcžØšÅ–„váOòTÏu«ˆ0R†N«ƒ¯eÑy0"
+ EDG_mos_civilwar.201A:0 "ÖNìN`be‚YdkÿNšR‰úQÍ‘óbÿ"
+ EDG_mos_civilwar.201B:0 "ÕkßzbìNmN¡l	gÀNHN‹YžRÕl&&"
+ EDG_mos_civilwar.202t:0 "2SÌ‘„vÛSqN"
+ EDG_mos_civilwar.202d:0 "2SÌ‘=f=fW¯ecR¯eÉb+Y„vÔSDQVÿW¯ecR¯eÉb+YØ(W„vöePÖN1SòTÏu–ff0Whˆ°súQ†NùR‹sMO„vÊ‰Î‰ŒTÍSÛSÿFOàV:NvQúQr‚„v›Q‹NMbýwŒT«ŽýN0WMOÿW¯ecR¯eÉb+YØ=fAQ¸‹ÖNc%cNèR›Q–egEQRÑS%cÖN„vMbýw0W¯ecR¯eÉb+Y„v‰k¡N©‹2SÌ‘„vÎ‘ÃVÅ¨Àwÿ°s(W„vÖNòTÏuNQ©cp™ÖN„vÎ‘ÃV02SÌ‘òTÏuÆ–Óuw†NàVÚ‹ŽNÖN„v›Q–ÿÆQYT«ƒ¯eÑyÑSwÛIe0Ù=fbìNée1S„˜™e0R†N„v0ÖNØÑSeg†NgTRrÿšN†SqS'YÅV‰˜²NúQ«ƒ¯eÑy‹sMOÿ&TRÖN1SêS‹YêñT¨RKbegÖS—V‹sMO0"
+ EDG_mos_civilwar.202A:0 "T2SÌ‘HSg0"
+ EDG_mos_civilwar.202B:0 "‹sµ^^SŽNšN†SqS'Yÿ"
+ EDG_mos_civilwar.203t:0 "YtšN†SqS'Y"
+ EDG_mos_civilwar.203d:0 "šN†SqS'YÿW¯ecR¯eÉb+Y„v?QPR0jO:NŸSHQ«ƒ¯eÑy„vçubºNÿšN†SqS'Y(Wg-NÍN6q	g'Yyb=ecÖN„v'Yãÿ‚YœgbìNó`‰ÝOc3zšR„vßu»lÿg‹YØ=fN‰°xÖN0FO=fæSNÍyaÁ‰²‹:NÿGP‚YbìN—fNg‰cÖNÿ±HNSQàeÖNºNïSåN¼d¨R2SÌ‘„vßu»lÿêSNÇÙHNZP„v×SÊvºNÇŽNf>fÿNbåNˆVïSýw:NÖNºN`‘uŒTIeûQ0°s(W2SÌ‘b†N«ƒ¯eÑy„vINºNÿ‚YUOYnšN†SqS'YÿÙMOMR«ƒ¯eÑyçubºNbTÿ"
+ EDG_mos_civilwar.203A:0 "©eIƒd–9hÿåNÝuT±`ÿ"
+ EDG_mos_civilwar.203B:0 "+R‰>N„Y¨RÿHQoyÖN0R0W¹eZP‹slQ0"
+ EDG_mos_civilwar.204t:0 "æt‰Ì‘Ñy·RnfR"
+ EDG_mos_civilwar.204d:0 "æt‰Ì‘Ñy·RnfRÿ=fg-N	gqVÍT›R„v'YãÿRnfR¶RÏe=fYuÌ‘KQ¶RÏe=eû|ÿTöe(W«ƒ¯eÑy0W:SmN	gøvSV„vqVÍT›R0°s(Wæt‰Ì‘ÑyIN¨R.sN†NHeàVÿbìNå‹‚YUO”^ùRÿ"
+ EDG_mos_civilwar.204A:0 "(uºNN‘u0"
+ EDG_mos_civilwar.204B:0 "‘uºNN(u0"
+ EDG_mos_civilwar.205t:0 "šN†SqS'YCNOgNbRVÿ"
+ EDG_mos_civilwar.205d:0 "2SÌ‘„várMOv^¡l	g—V0RYeOŒT«R÷^g-N¸‹YºN„v²‹ïSÿ–NwšN†SqS'Ynb•v^US°súQÇºN„vMbýwÿºNìNaÑS²‹ïSšN†SqS'YjO:N«ƒ¯eÑyçubºN„vD<hÿFOšN†SqS'Yv^¡l	gôv¥c‰Bl2SÌ‘©‹úQ‹sMOÿwêS=f‰Bl2SÌ‘ŠbÖNjO:NçubºN0"
+ EDG_mos_civilwar.205A:0 "bNO«ˆZÁwÿ"
+ EDG_mos_civilwar.205B:0 "TaSšN†SqS'YR:NçubºN0"
+ EDG_mos_civilwar.206t:0 "2SÌ‘KN‰k"
+ EDG_mos_civilwar.206d:0 "æt‰Ì‘Ñy·RnfR)R(uLw¡RKN¿OÿØyÆRŒc†NNŒvàVŽNnfRR„v5Ïe‘šuQµb¾«ƒ¯eÑyÿ(WYU^„v©c²bNÿÙ›NºNØyÆRÛeQ†N«ƒ¯eÑy0ˆRkSKQÌ‘ÆY—g«R„vSûQ›Qée1STRnfRŒTšN†SqS'Y.sN†NHeàV0ˆVëVÿ2SÌ‘ŒTÖN„v²NáO«ˆ6RgÿRnfRÙuÖNÐc›O†N2N*N	y˜ÿgÒkêNgÿb=f«ˆ¨RgÒkêNg0"
+ EDG_mos_civilwar.206A:0 "YOCNckßu'YlQÿ"
+ EDG_mos_civilwar.206B:0 "&&"
+ EDG_mos_civilwar.207t:0 "2SÌ‘KN‰k"
+ EDG_mos_civilwar.207d:0 "Ù)YéeNÿºNìNÊ`¶‹0WÑS°s2SÌ‘òTÏu‰k(W†NKQÌ‘ÆY—g«R…QÿˆVëVšN†SqS'Y1Sµb¾†N«ƒ¯eÑyÿ(WOºN„v²‹ïSN R•Qb:NTckŠz˜„v«ƒ¯eÑy'YlQ0"
+ EDG_mos_civilwar.207A:0 "m`ky°e'YlQ„v R•Qÿ"
+ EDG_mos_civilwar.208t:0 "ú‹+YåTW·V„v«ƒ¯eÑy>m"
+ EDG_mos_civilwar.208d:0 "ú‹+YåTW·VlQýV…QNON=ec'YlQ„vºNÿ–NwbìNÖS—VùRú‹+YåTW·V„vO¿RÿÖNìN¿OlšNcf†NËz:WÿT'YlQ.sNHeàV0"
+ EDG_mos_civilwar.208A:0 "‹Y‹N0"
+ EDG_mos_civilwar.209t:0 "6eÞVú‹+YåTW·V"
+ EDG_mos_civilwar.209d:0 "NêÏ‘›R„vú‹+YåTW·V5Ïeßz6q„YþVÍS—bbìNO'Y'YlQ„vßu»lÿÖNìNïSr„v›Q–žR(W=fN*XNûQ0–Nw«ƒ¯eÑy›Q–VÛú‹+YåTW·VÎWÿNb	gÍSùR«ƒ¯eÑyßu»l„v5ÏemNòTÏu«ˆóuKNåNÕlÿî•˜˜=fbìNå‹`HNßu»lú‹+YåTW·Vÿ"
+ EDG_mos_civilwar.209A:0 "Šbú‹+YåTW·Vôv¥cnŽN«ƒ¯eÑy„vßu»lKNN0"
+ EDG_mos_civilwar.209B:0 "O`—HeàV>meg»ltú‹+YåTW·VÿSV6qÿÍN6q‰nŽN«ƒ¯eÑyßu»lKNN0"
+ EDG_mos_civilwar.209C:0 "©‹HeàV>mŠbcú‹+YåTW·V?e»l1S‹Y†NÿbìN‚föe¡l¾|›RYtú‹+YåTW·V0"
+ EDG_mos_civilwar_209C_tt:0 "§Gã‰•§!N*N§Y³Q®‹§!åNteT@NOVú‹+YåTW·V0"
+ EDG_mos_civilwar.2010t:0 "ú‹+YåTW·VìrËz"
+ EDG_mos_civilwar.2010d:0 "'Yú‹+YåTW·V	gNwIQcƒw `EN„v†SòSÿ°s(W'Yú‹+YåTW·VQN!k·ƒ—V†NìrËz0‚YœgbìNó`©‹'Yú‹+YåTW·Vôf RO'YÿwN=fTÖNºNQS¬ŽHSÿÙ=fÅV‰˜ÈúQ„vNek0"
+ EDG_mos_civilwar.2010A:0 "ìSÆ–ëXuQÿÆQYb—eÿ"
+ EDG_mos_civilwar.2010B:0 "Ù=fú‹+YåTW·V„vÜw)Rÿ"
+ EDG_mos_civilwar.301t:0 "«R÷^-N„vHeàV>m"
+ EDG_mos_civilwar.301d:0 "ck<PqS:gt^ãNÿg-NmNNONàVãT'YlQ±R“ŠHeàV0"
+ EDG_mos_civilwar.301A:0 "YOCNckßu'YlQÿ"
+ EDG_mos_civilwar.301B:0 "`OìN”^å‹eg¹pôfžRE–„vhˆ:y0"
+ EDG_mos_civilwar.302t:0 "0W¹eHeàV>m"
+ EDG_mos_civilwar.302d:0 "0W¹e‹slQT'YlQ±R“ŠHeàVÿÙàe‘upV>f†NbìNcƒw„v'YlQMb=f«ƒ¯eÑyckßu'YlQ„v‹NžR0"
+ EDG_mos_civilwar.302A:0 "àVÚ‹”^å‹—V0RVYO0"
+ EDG_mos_civilwar.303t:1 "0W¹eÍSùR>m"
+ EDG_mos_civilwar.303d:1 "0W¹e5ÏeÆQYÍSÛSbìN„vßu»lÿˆV>f6qÖNìNv^N?aa²‹ïSbìNcƒw'YlQ„vckßu'`0"
+ EDG_mos_civilwar.303A:0 "G•‹SÖNìNÿ"
+ EDG_mos_civilwar.2014t:0 "8nô‹ø‹lQýV"
+ EDG_mos_civilwar.2014d:0 "«ƒ¯eÑy>f6qòTÏuêŒ˜N‡fÿNSW¯eø‹lQýVìNmNv^^—hQ=fàVÃV?w?wKNºNÿ‚YœgbìNýwYVúQT„v÷Nxÿb=f?Bg-NÍ‘ãÿmN¸‹bìN1SýwSÖNìNÉb0RbìNÙN¹eg0"
+ EDG_mos_civilwar.2014A:0 "¡l	gÅV‰ZPÙÍy‹N0"
+ EDG_mos_civilwar.2014B:0 "SÕ‹NNÿ¡l	gOWY0"
+ EDG_mos_civilwar.2015t:0 "ú‹+YåTW·VegO"
+ EDG_mos_civilwar.2015d:0 "egêú‹+YåTW·V„vO‚‚µb¾†NbìN„v«R÷^ÿÖNìNÐcúQ†NN*N‰Blÿ±1S=f©‹bìNlwTÖNìNðyãÿÕkßz«ƒ¯eÑyòTÏuw–eQ…Qb„v)o¡mKN-Nÿ¯wšRàe‡fŒ˜ÊSbìN0g-NNS'YãmN·u·uD–ŒTÿ²‹:Nl•bú‹+YåTW·VMb=fckS0"
+ EDG_mos_civilwar.2015A:0 "lTú‹+YåTW·Vðyã0"
+ EDG_mos_civilwar.2015B:0 "ãgŽNú‹+YåTW·V0"
+ EDG_mos_civilwar.2015C:0 "ÞV»SJTÉ‹`OìN„v‹slQÿbìNSHeàV«ƒ¯eÑy'YlQ0"
+ EDG_mos_civilwar.2015E:0 "ÞV»SJTÉ‹`OìN„v‹slQÿbìNSÝOcìrËzêIN0"
+ EDG_mos_civilwar.2011t:0 "^SýV„v»yÃV"
+ EDG_mos_civilwar.2011d:0 "bìN„v?eCgGdGd2k`WÿàVwºNÃV`ØSÿbìNŸSHQ„vD–¸^mN	g†NNãKNÃVÿb¸‹bìNïSåNØNúQN›N˜Y„vãN÷N‰RšbÙ›N‹slQŒTÖNìN„vãPRÿi`Zv^ËeÿåNgÖNìNÍN6qÝOcùR«ƒ¯eÑy„vHeàVÿ"
+ EDG_mos_civilwar.2011A:0 "bìNïS¡l	g±HNY¾|›RYtÖNìNÿ,TKNûNKN'T0"
+ EDG_mos_civilwar.2011B:0 "àVÚ‹„v	gVY±RÿNàVÚ‹„v	gé`Zÿ"
+ EDG_mos_civilwar.2012t:0 "ÎN«ƒ¯eÑyìrËzÿ"
+ EDG_mos_civilwar.2012d:0 "«ƒ¯eÑyòTÏuw–eQ…Qb„v)o¡mKN-Nÿàe‡fŒ˜ÊSbìNÿmN¸‹bìNïSåNXN:gìrËz0"
+ EDG_mos_civilwar.2012A:0 "úVNb?amNÿNbe÷‹3w!"
+ EDG_mos_civilwar.2012B:0 "Ø=f—r†N0"
+ EDG_mos_civilwar.2013t:0 "ÎN«ƒ¯eÑyìrËzÿ"
+ EDG_mos_civilwar.2013d:0 "‹†6q«ƒ¯eÑyòTÏuw–eQ…Qb„v)o¡mKN-NÿFO<ONNÍN6q	g³Y„výw›Rôucßu»lÿFO=fbìNmNïSåN’Qi–XN:gìrËz0"
+ EDG_mos_civilwar.2013A:0 "dköeNìrÿôf…VUOöeÿ"
+ EDG_mos_civilwar.2013B:0 "Ø=f—r†N0"
+ EDG_mos_civilwar.2016t:0 "^SýV„vÛS»y"
+ EDG_mos_civilwar.2016d:0 "bìN„vN*ND–^SýVÌwÛS†NbìNÿ"
+ EDG_mos_civilwar.2016A:0 "wå‹‰kÿÖNìNéeZfO:NdkØNúQãN÷Nÿ"
+ EDG_mos_civilwar.2017t:0 "DQV–™X&&"
+ EDG_mos_civilwar.2017d:0 "«ƒ¯eÑy'YlQÆ–Óuw†NÖN„v›Q–TbìNÑSwÛIeÿw^txQºNmNÊ‰Î‰NwbìN„vW0WŒT0ÌRÿbìN„vYƒXNNPRØS—VŒSŒSïSqSÿïS«ƒ¯eÑy‰Bl„vÕkßzêS=fN*N‹sMOÿv^NOwckqSÊS0RbìN„vßu»lÿFOå‚=f^txQºNÖS—V†NÜw)Rÿ±bìNS1Y»SNR&&"
+ EDG_mos_civilwar.2017A:0 "Y¡VvQ®Oÿ"
+ EDG_mos_civilwar.2017B:0 "ú‹+YåTW·VNOQ!kT«ƒ¯eÑyNO4Yÿ"
+ EDG_rus_city_novgorod_title:0 "W¯eOËYKN0W"
+ EDG_rus_city_novgorod_desc:0 ".OGY„vYuÌ‘KQ¶RÏeck=fÎN'Yú‹+YåTW·VúQÑSÿú^Ëz†NW¯e0"
+ EDG_rus_city_moscow_title:0 "N6RKNÎW"
+ EDG_rus_city_moscow_desc:0 "N6RÆ–Cg„v«ƒ¯eÑyÿ=fW¯eN6Rßu»l„vv˜ðS0"
+ EDG_rus_city_newa_title:0 "‰¹eKN—z"
+ EDG_rus_city_newa_desc:0 "\"ÍT6q×wËz'Tÿ|V—V„vÎW! ‚YTÄOW¯eN7hZWNïSgdÿ\""
+ EDG_rus_city_nizhnov_title:0 "T‰Ób–k"
+ EDG_rus_city_nizhnov_desc:0 "Nú‹+YåTW·VÿW¯eºNT‰Ób–k„veh4Y!X0"
+ EDG_rus_city_kamchajia_title:0 "ØRßR RJS›S"
+ EDG_rus_city_kamchajia_desc:0 "èÇ‹väNwmáSÿW¯e„v¢ci–¶RÎNÙÌ‘úQÑS»SVgNLu0"
+ EDG_rus_city_polotck_title:0 "M–gVÏe"
+ EDG_rus_city_polotck_desc:0 "âlm(ƒKQÿ•ENåNeg1S=fùR—bËzv–›RVÏe„v!X’W0"
+ EDG_rus_city_rya_title:0 "8ngr¹†u"
+ EDG_rus_city_rya_desc:0 "h^ÿ=fW¯eKN0Wb—ùRIƒŸS„v,rNS2–¿u0"
+ EDG_rus_city_blyest_title:0 "^R¯eyr‰^X"
+ EDG_rus_city_blyest_desc:0 "\"begê^R¯eyr\""
+ EDG_rus_city_smo_title:0 "®puQKNÎW"
+ EDG_rus_city_smo_desc:0 "kp®pPŸ1žÿOYÍTÜw)R„vPNàz0"
+ EDG_rus_city_chr_title:0 "úW…æTŽ"
+ EDG_rus_city_chr_desc:0 ""
+ EDG_rus_city_ply_title:0 "úW…óSÂ"
+ EDG_rus_city_ply_desc:0 ""
+ EDG_rus_city_kiev_title:0 "OÎWKNÍk"
+ EDG_rus_city_kiev_desc:0 "\"©‹,gÎWb:NW¯eø‹ÎWKNÍk\""
+ EDG_rus_city_akh_title:0 "‹vwm8f"
+ EDG_rus_city_akh_desc:0 "ÎN‹vwmúQÑSÿbìNïSåNNNLuT0W8f0"
+ EDG_rus_city_mol_title:0 "w•"
+ EDG_rus_city_mol_desc:0 ":V'Y„vwm›Qÿ=fW¯eTw„v9h,g0"
+ EDG_rus_city_viburg_title:0 "‹vr‚‰k^y"
+ EDG_rus_city_viburg_desc:0 "¯u‹v„v‰k^ySOb:NNb	geg¯rKNLe„viV¦h0"
+ EDG_rus_city_ladoga_title:0 "W¯ewn"
+ EDG_rus_city_ladoga_desc:0 "gäSw„vW¯eÎW^ÿÉbY R0"
+ EDG_rus_city_kursk_title:0 "'Y³Qb"
+ EDG_rus_city_kursk_desc:0 "\"ck=f(WÙ*NäSb:WNÿ³QšR†NYSãN‹sg„vÛvpˆtQ¡N0\""
+ EDG_rus_city_kharkov_title:0 "ÈTSÑy+Y„vûy¨RÎW!X"
+ EDG_rus_city_kharkov_desc:0 "\"`OÁ‰ÇTÿ\"\"b¡lÁ‰Ç0\""
+ EDG_rus_city_minsk_title:0 "f¯eKQ*‚zz*‚)Y¨fkSfÑSS-NÃV"
+ EDG_rus_city_minsk_desc:0 "\"XR(W„vN‰ÖNìNýw.úQegÿNXR(W„vN‰ÖNìNmNýw.úQeg0\""
+ EDG_rus_city_kashen_title:0 "aS3uö”ÿwÿ"
+ EDG_rus_city_kashen_desc:0 "\"ÀNHNÿÙN=fö”ÿwÿÙ=fbìN„v°e‹WÍSô•ŒÅˆnÿ`OwƒRG4l&&\""
+ EDG_novgorodian_elective_principality_reform:0 "ú‹+YåTW·V	>NTIN6R"
+ EDG_novgorodian_elective_principality_reform_title:0 "ú‹+YåTW·V	>NTIN6R"
+ EDG_novgorodian_elective_principality_reform_desc:0 "ú‹+YåTW·VêäSåNeg„v.OßuÿkS‰Výw³QšRNMO‹slQ=f&T	gD<hPW(Wú‹+YåTW·V‹sµ^KNN0"
+ EDG_NOV_E_P:0 "ú‹+YåTW·VlQýV"
+ EDG_NOV_E_P_Ruler:0 "'YlQ"
+ EDG_NOV_E_P_female_Ruler:0 "sY'YlQ"
+ EDG_NOV_E_P_heir:0 "‹sPR"
+ EDG_NOV_E_P_female_heir:0 "‹ssY"

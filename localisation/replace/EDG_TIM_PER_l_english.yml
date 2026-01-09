@@ -1,0 +1,95 @@
+﻿l_english:
+IRAN_AND_TURAN_STRING:0 "OgNþVpQ"
+IRAN_AND_TURAN_STRING_ADJ:0 "Og-þVpQ"
+
+#missions
+EDG_TIM_mission_PER_iranian_renaissance_title:0 "Og‡ez‚YtQ"
+EDG_TIM_mission_PER_iranian_renaissance_desc:0 ""
+EDG_TIM_mission_PER_iranian_renaissance_tooltip:0 "ã‰•Nû|R§Mâl¯eÎW^S§!³Q®‹0\n\nS§G24§!¹pÑSUS¦^–:gRM‘0R§Yâl¯e§!0W:S„vwýN0"
+EDG_TIM_mission_PER_court_title:0 "9ei—y«R"
+EDG_TIM_mission_PER_court_desc:0 ""
+EDG_TIM_mission_PER_tupchi_title:0 "’cþVnfQY®puQ"
+EDG_TIM_mission_PER_tupchi_desc:0 ""
+EDG_TIM_mission_PER_tupchi_tooltip:0 "GSµu§YäSÉbÆY§!„v0§Y¾|•äSÉbÆY›QâV§!0yrCgÿ9hnc§Y6–BSqVÍT›R§!gYÙuˆNåNNîOckÿSVqVÍT›R¾0R§Y100%§!öeHeœgg'YS	ÿÿ\nF–›Qkp›R2O³Rÿ§G+20.0%§!\n§YêSqVÍTlšFzœKQ§!\n§gå‹îOckÏkt^7R°eN!k0§!"
+EDG_TIM_mission_PER_ghulams_title:0 "VßRäSÉbÆY"
+EDG_TIM_mission_PER_ghulams_desc:0 ""
+EDG_TIM_mission_PER_ghulams_tooltip_1:0 "ã‰•§Y[äSÉbÆY]§!„v0§Y¾|•äSÉbÆY›QâV§!0yrCg0"
+EDG_TIM_mission_PER_ghulams_tooltip_2:0 "ã‰•§Y[äSÉbÆY]§!„v0§YäSÉbÆY›Q˜R§!0yrCg0"
+EDG_TIM_mission_PER_balance_title:0 "Cg›R6Raˆ"
+EDG_TIM_mission_PER_balance_desc:0 ""
+EDG_TIM_mission_PER_iran_and_turan_title:0 "OgNþVpQ"
+EDG_TIM_mission_PER_iran_and_turan_desc:0 ""
+EDG_TIM_mission_PER_iran_and_turan_tooltip_1:0 "[Root.GetName]bw[Root.GetName]„v^—g!^SýV»lN„vNb	g§YLNyQ+RKQ§!0§Y|TWÊs§!N§Y?–ÌRWl§!‡eS„vwýNÿ"
+EDG_TIM_mission_PER_iran_and_turan_tooltip_2:0 "[Root.GetName]bw[Root.GetName]„v^—g!^SýV»lN„vNb	g§YW“^üf§!‡eS„vwýNÿ"
+EDG_TIM_mission_PER_qurchi_title:0 "ú^Ëz“^SGYy›Q"
+EDG_TIM_mission_PER_qurchi_desc:0 ""
+EDG_TIM_mission_PER_qurchi_tooltip:0 "GSµu§YäSÉbÆY§!„v0§Y¾|•äSÉbÆY›QâV§!0yrCgÿ9hnc§Y6–BSqVÍT›R§!gYÙuˆNåNNîOckÿSVqVÍT›R¾0R§Y100%§!öeHeœgg'YS	ÿÿ\nNb×Skp›R2O³Rÿ§G-10.0%§!\nNb×S²QûQ2O³Rÿ§G-10.0%§!\n§YêSqVÍTlšFzœKQ§!\n§gå‹îOckÏkt^7R°eN!k0§!"
+EDG_TIM_mission_PER_silk_title:0 "^ýVNÇuÁT"
+EDG_TIM_mission_PER_silk_desc:0 ""
+EDG_TIM_mission_PER_rug_title:0 "0WïkN„v)YýV"
+EDG_TIM_mission_PER_rug_desc:0 ""
+
+#decisions
+EDG_TIM_PER_change_color_to_red_title:0 "S0WþVœ˜r‚9e:N§R^(g?Q„v¢ur‚§!"
+EDG_TIM_PER_change_color_to_red_desc:0 ""
+EDG_TIM_PER_restore_color_title:0 "S0WþVœ˜r‚b`Y:N§lâl¯e„vÿur‚§!"
+EDG_TIM_PER_restore_color_desc:0 ""
+EDG_TIM_rename_to_persia_title:0 "b`Y§Yâl¯e§!ýVT"
+EDG_TIM_rename_to_persia_desc:0 ""
+EDG_TIM_rename_to_iran_and_turan_title:0 "Ç‘(u§YOgNþVpQ§!jO:NýVT"
+EDG_TIM_rename_to_iran_and_turan_desc:0 ""
+EDG_TIM_train_ghulams_title:0 "9ei—äSÉbÆY"
+EDG_TIM_train_ghulams_desc:0 ""
+
+#modifiers
+EDG_TIM_ghulam_officials_modifier:0 "äSÉbÆY›Q˜R"
+EDG_TIM_train_ghulam_loyalty_modifier_1:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_loyalty_modifier_2:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_loyalty_modifier_3:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_loyalty_modifier_4:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_loyalty_modifier_5:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_loyalty_modifier_6:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_loyalty_modifier_7:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_loyalty_modifier_8:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_loyalty_modifier_9:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_loyalty_modifier_10:0 "¾|•äSÉbÆY›QâV"
+EDG_TIM_train_ghulam_tupchi_modifier_1:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_tupchi_modifier_2:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_tupchi_modifier_3:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_tupchi_modifier_4:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_tupchi_modifier_5:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_tupchi_modifier_6:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_tupchi_modifier_7:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_tupchi_modifier_8:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_tupchi_modifier_9:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_tupchi_modifier_10:0 "¾|•äSÉbÆY›QâVÿþVnfQY®puQ	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_1:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_2:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_3:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_4:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_5:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_6:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_7:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_8:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_9:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_train_ghulam_qurchi_modifier_10:0 "¾|•äSÉbÆY›QâVÿ“^SGYy›Q	ÿ"
+EDG_TIM_expand_ghulam_modifier_1:0 "9ei—äSÉbÆYÿ1	ÿ"
+EDG_TIM_expand_ghulam_modifier_2:0 "9ei—äSÉbÆYÿ2	ÿ"
+EDG_TIM_expand_ghulam_modifier_3:0 "9ei—äSÉbÆYÿ3	ÿ"
+EDG_TIM_expand_ghulam_modifier_4:0 "9ei—äSÉbÆYÿ4	ÿ"
+EDG_TIM_expand_ghulam_modifier_5:0 "9ei—äSÉbÆYÿ5	ÿ"
+
+#estates
+estate_EDG_TIM_ghulam_elites:0 "¾|•äSÉbÆY›QâV"
+estate_EDG_TIM_ghulam_elites_desc:0 ""
+estate_EDG_TIM_ghulam_elites_tt1:0 "§Y[Root.GetGhulamsOrFallbackName]ÿ9ei—äSÉbÆY§!"
+estate_EDG_TIM_ghulam_elites_tt2:0 "gYïSåNÍ‘YgbLˆ§G5§!!k0"
+estate_EDG_TIM_ghulam_elites_tt3:0 "Ïk!k§Y9ei—äSÉbÆY§!ÙuˆNåNNïSàS R„vîOckÿekuQjObýw›Rÿ§G+5.0%§!\n‘šuQjObýw›Rÿ§G+5.0%§!\nlšFzœKQNP–`SÔkÿ§G+5.0%§!\näSÉbÆYqVÍT›Rÿ§Y+5.0%§!\n§YêSqVÍTlšFzœKQ§!\n"
+estate_EDG_TIM_ghulam_elites_loyalty_tt:0 "9hnc§Y6–BSàVÚ‹¦^§!gYÙuˆNåNNîOckÿSVàVÚ‹¦^¾0R§Y100%§!öeHeœgg'YS	ÿÿ\n­‹Ãu¦^ÿ§G+20.0%§!\n§YêSqVÍTlšFzœKQ§!\n§gå‹îOckÏkt^7R°eN!k0§!\n"
+estate_EDG_TIM_ghulam_elites_tupchi_tt:0 "9hnc§Y6–BSqVÍT›R§!gYÙuˆNåNNîOckÿSVqVÍT›R¾0R§Y100%§!öeHeœgg'YS	ÿÿ\nF–›Qkp›R2O³Rÿ§G+20.0%§!\n§YêSqVÍTlšFzœKQ§!\n§gå‹îOckÏkt^7R°eN!k0§!\n"
+estate_EDG_TIM_ghulam_elites_qurchi_tt:0 "9hnc§Y6–BSqVÍT›R§!gYÙuˆNåNNîOckÿSVqVÍT›R¾0R§Y100%§!öeHeœgg'YS	ÿÿ\nNb×Skp›R2O³Rÿ§G-10.0%§!\nNb×S²QûQ2O³Rÿ§G-10.0%§!\n§YêSqVÍTlšFzœKQ§!\n§gå‹îOckÏkt^7R°eN!k0§!\n"
+estate_EDG_TIM_ghulam_elites_tupchi_qurchi_tt:0 "9hnc§Y6–BSqVÍT›R§!gYÙuˆNåNNîOckÿSVqVÍT›R¾0R§Y100%§!öeHeœgg'YS	ÿÿ\nF–›Qkp›R2O³Rÿ§G+20.0%§!\nNb×Skp›R2O³Rÿ§G-10.0%§!\nNb×S²QûQ2O³Rÿ§G-10.0%§!\n§YêSqVÍTlšFzœKQ§!\n§gå‹îOckÏkt^7R°eN!k0§!\n"
+estate_EDG_TIM_ghulam_officials:0 "äSÉbÆY›Q˜R"
+estate_EDG_TIM_ghulam_officials_desc:0 ""
+estate_EDG_TIM_ghulam_officials_tt:0 "ã‰•0§YäSÉbÆY•˜R§!0Œ˜î•0"
+

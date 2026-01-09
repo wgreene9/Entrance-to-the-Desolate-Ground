@@ -1,0 +1,177 @@
+﻿l_english:
+ NYAB_has_road_building_trigger_tooltip: "	gú^¾‹§YSï§!"
+ NYAB_has_temple_building_trigger_tooltip: "	gú^¾‹§YYeX§!"
+ NYAB_has_marketplace_building_trigger_tooltip: "	gú^¾‹§YÆ–^§!"
+ NYAB_has_shipyard_building_trigger_tooltip: "	gú^¾‹§Y.9‚‚S§!"
+ NYAB_has_gongfang_building_trigger_tooltip: "	gú^¾‹§YåTJW§!"
+ NYAB_has_matou_building_trigger_tooltip: "	gú^¾‹§Yx4Y§!" 
+ NYAB_has_bingying_building_trigger_tooltip: "	gú^¾‹§YuQ%„§!"
+ NYAB_has_fayuan_building_trigger_tooltip: "	gú^¾‹§YÕlb–§!"
+ NYAB_has_any_l2_trade_company_building_ttt: "	g§YŒNµuÊSåNN§!„v8flQøS•bD"
+ NYAB_has_road_building_trigger_tooltip2:"	gú^¾‹§Y>xówSï§!ÊSåNN„vSïú^Qr0"
+ NYAB_has_road_building_trigger_tooltip3:"	gú^¾‹§Y‡v¶RSï§!ÊSåNN„vSïú^Qr0"
+ NYAB_has_road_building_trigger_tooltip4:"	gú^¾‹§YÏg¹lSï§!ÊSåNN„vSïú^Qr0"
+ NYAB_has_road_building_trigger_tooltip_newest:"	gú^¾‹îvMRÑyŽb4ls^NgØšµu„vSïú^Qr0"
+
+ cb_take_mandate_triggered_NYAB:":YÖS)Y‹T"
+ cb_take_mandate_triggered_NYAB_desc:"bìNÅV‰˜ThQNLuÁ‹fêñT=f)Y‹TNbRV0"
+
+ NYAB_accept_two_chinese_culture_trigger_tooltip:"óS¥c³u†N§G2§!Íy§Y-NNS§!‡eSÄu„v‡eS0"
+
+ NYAB_add_center_of_trade_level_effect_tooltip: "‚Yœg¡l	g§Y8f-NÃV§!ÿSOú^Ëz§GNµu8f-NÃV§!ÿ‚Yœg	gNN0R§Y3§!µuÿ±HN1SOÐcGS§GNµu8f-NÃVIrµu§!ÿ&TR·ƒ—V§G50§!Y²N¹ppe"
+ NYAB_update_mission_title: "ôf°eûN¡Rh"
+ NYAB_update_mission_desc: "	göePôf°e†NÿçeXRchïSýwwN0R°e R„vûN¡Rh0"
+
+ NYAB_expanded_award_tooltip: "§Mb‰NMRYÓbUS§!„vyrŠkVY±R"
+ NYAB_TMG_recruit_tooltip: "=f§Y^(g<h§!ÿûN¡R§YÛbßRsYwÏeºN§!òTŒRb"
+ NYAB_SA_2tier_ttt: "'YèRÅ`µQNÿÇ§Mb‰NMRYÓbUS§!„v·ƒ—VyrŠkVY±RêSýwSdkO'YåTzGSµuó§Y2§!"
+
+ NYAB_goverment_event_20_t: "'YIƒŸS„vWµN"
+ NYAB_goverment_event_20_d: "bìNþfÏu(W'YIƒŸSNñS²TÎ˜‘Nÿ±›NšRESwÁ‰0RbìN„v‘šuQàeNû•Î˜'NÆwÿgÎ˜w0KS¡r°s(WbìNòTÏun`Nï`†NšRESuImÿmNòTÏuˆVEN¡l	gúQ»S«R cÖNºN†N0FO––¦u¦uI`	gN*NðXó—(W|T2UNwbìNÿbìN”^å‹ÞVRVŽVf„v8ngruImTÿ"
+ NYAB_goverment_event_20a: "bìNÎN*gØV°‹±›NöeIQÿ[Root.GetName]ÅVSQ¦^Twÿ"
+ NYAB_goverment_event_20b: "bìNòTÏušRESNeg†NÿsSO	gÇ±7h„vuImÿ±mN=fÇ»S†N0"
+
+ YANSHENGGONGGUO: "Mˆ1WlQýV"
+ YANSHENGGONG: "Mˆ1WlQ"
+ SHIZI: "NPR"
+ FUREN: "+YºN"
+ ZHANGFU: "N+Y"
+ MIANSHOU: "b—–™"
+ HUANGHOU: "‡vT"
+ ZHUHOU: "ø‹¯O"
+ TIANCHAO: ")Yg"
+ WANG: "‹s"
+ TIANZI: ")YPR"
+
+ G0RCUN: "Qg"
+ G0RXIAN: "¿S"
+ G0RSHI: "^"
+ G0RCUNZHANG: "Qg•"
+ G0RXIANZHANG: "¿S•"
+ G0RSHIZHANG: "^•"
+ G0RQINDINGCUNZHANG: "¦”šRQg•"
+ G0RQINDINGXIANZHANG: "¦”šR¿S•"
+ G0RQINDINGSHIZHANG: "¦”šR^•"
+
+ NYAB_crusader_rp:"ASWR›QbëX"
+ NYAB_crusader_rp_desc:""
+
+ NYAB_riyuebei: "åeg‘x"
+ Caspian_canal: "OS R-˜³lÐ³l"
+ NYAB_babieta: "ôT+RTX"
+ NYAB_xianshenlou: "Fy^y|i"
+ NYAB_citonggang:":RPh=n"
+ NYAB_beijing_church:"S¬NúWcwYeX"
+ NYAB_beijing_church_desc:"S¬NúWcwYeX„v†SòSïSåNý¯n0RCQ'Yýöegÿegê'k2m„vmNÌ‘ïS)nYe.OYeëXŽN1294t^(WS¬NîOú^†N,rNNbúWcwYeYeXÿdkTÿúWcwYe—V0RCQg‡v^„vËR¹Rÿ(WS¬Nú^Ëz†N¸‹YYeX0CQãN.OeQ-NýV„vúWcwYe«ˆðy:NmNÌ‘ïS)nYeÿsSofYe	ÿÿ(WÄuÇubV`NPt’†NiOYe„vN›NZPÕlÿÙ›NofYeYeX'YY«ˆðyjOúRÿÇ‘(u-NWiOYeú^Qr8^(u„vú^QrbVVÿvQÎ˜<hN'k2m,gW„vYeXåVvQ±0"
+ 
+ 
+ NYAB_babieta_tt: "(WŒRbûN¡R0§YNLuON§!0KNMRÿ§YôT+RTX§!gYêSýwGSó§G2§!µu"
+
+ ab_can_spawn_renaissance: "ïSåNµNu§Y‡ez‚YtQ§!`no"
+ NYAB_lock_zhiming_flag: "•šR†N§Y–klININ§!`no"
+ NYAB_lock_quanqiumaoyi_flag: "•šR†N§YhQt8f§!`no"
+
+ NYAB_extra_patriarch_when_consecrate_tt:"¾‹Ëzgr–™:Söe˜Y·ƒ—V§G3%§!gr–™CgZ0\n"
+ NYAB_reduce_hegemons_xuqie_effect_tt:"§T±Rðy8—Cg„v‰BlòTÏuM–NO0§!\n"
+ NYAB_remove_steppe_terrain_debuff_tt:"§Gûyd–§!§Y'YIƒŸS§!0WbV„vÑSUSb,gé`Z0\n"
+ NYAB_burN_city_give_church_power_tt:"§Rq c§!§Y^—ýVYe§!wýNöeSO·ƒ—V§G5.00§!YeO›RÏ‘0\n"
+ NYAB_raze_diff_religion_burn_church_tt:"q c§Y^—ýVYe§!wýNöeÿå‚vQ	g§YYeX§!b§Y'YYeX§!ÿ§RgdÁk§!KNv^žX R§R10.00§!RƒŸ^¦^ÿ·ƒ—VvQ§G50.0%§!ú^.±‚9jO:Nb)RÁT0\n"
+ NYAB_enable_supplemental_development_tt:"ÐcGSÑSUS¦^öe	g§G20.0%§!‚i‡s—V0R˜Y§G1§!¹pÑSUS¦^0\n"
+ NYAB_raze_prov_rudesc_1_base_tax_lost_tt:"§Rq c§!úWNxz6e:N2åNN„vwýNöeÿ	g§G99.0%§!„v‚i‡sÔØ§G1§!¹púWNxz6e0\n"
+ NYAB_battle_win_reduce_war_exhaustion_tt:"b—VN:Wb—eöeÿ1Y»S§G0.05§!ŒSb¦^0\n"
+ NYAB_raze_prov_reduce_war_exhaustion_tt:"§Rq c§!wýNöeÿ1Y»S§G0.05§!ŒSb¦^0\n"
+ NYAB_raze_prov_reduce_nationlism_tt:"§Rq c§!wýNöeÿåN§RžX R10.00§!RƒŸ^¦^:NãN÷NÿwýN1Y»S§G2.5§!R»yININ0\n"
+ NYAB_enable_slavic_icon_tt:"AQ¸‹O(u0§Y1WW¯eÐc¯eÉb+Y1WÏP§!00\n"
+ NYAB_allow_icon_rostislav_ttt:"òT«ˆAQ¸‹O(u0§Y1WW¯eÐc¯eÉb+Y1WÏP§!00"
+ 
+ 
+ ewai_reward_yes: "§GòTÏuán³†N˜YVY±R„v‰Bl§!\n"
+ ewai_reward_no: "§RS*gán³˜YVY±R„v‰Bl§!\n"
+
+ NYAB_complete_by_else_tt:"\n&TRÿ"
+ NYAB_complete_by_war_tt_yes:"£yes£‚YœgbìNÇ§Mb‰N§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_war_tt_no:"£no£‚YœgbìNÇ§Mb‰N§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_dip_tt_yes:"£yes£‚YœgbìNÇ§MY²N§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_dip_tt_no:"£no£‚YœgbìNÇ§MY²N§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_subject_tt_yes:"£yes£‚YœgbìNÇ§MD–¸^ýV¶R§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_subject_tt_no:"£no£‚YœgbìNÇ§MD–¸^ýV¶R§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_conquer_tt_yes:"£yes£‚YœgbìNÇ§MVgwýN§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_conquer_tt_no:"£no£‚YœgbìNÇ§MVgwýN§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_cover_religion_tt_yes:"£yes£‚YœgbìNÇ§M.OYe§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_cover_relgion_tt_no:"£no£‚YœgbìNÇ§M.OYe§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_transfer_culture_tt_yes:"£yes£‚YœgbìNÇ§MlS‡eS§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_transfer_culture_tt_no:"£no£‚YœgbìNÇ§MlS‡eS§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_accept_culture_tt_yes:"£yes£‚YœgbìNÇ§M¥c³u‡eS§!ŒRbûN¡Rÿ"
+ NYAB_complete_by_accept_culture_tt_no:"£no£‚YœgbìNÇ§M¥c³u‡eS§!ŒRbûN¡Rÿ"
+
+ NYAB_is_rujiao_ttyes:"£yes£‚YœgbìNáOðN§MQYe§!ÿ"
+ NYAB_is_rujiao_ttno:"£no£‚YœgbìNáOðN§MQYe§!ÿ"
+
+ NYAB_subject_modifier_desc_tt:"ôv0RÖNìNNQ=fbìN„vD–^SýV"
+ NYAB_owns_province_get_tt:"»lNán³agöN„vwýN·ƒ—Vÿ"
+ NYAB_modifier_affect_future_province_tt:"NðîOckùR*geg·ƒ—V„vwýNmNuHe0\n"
+ NYAB_event_will_give_tt:"\n§T‹NöNSÙuˆNåNNHeœgÿ§!"
+ NYAB_get_from_target_province:"ÎNîvhwýN-N"
+ NO_PREVIEM_MISSION_ttt:"¡l	g(W§MûN¡R„˜È‰§!-N"
+ 
+ NYAB_clear_war_yanzhan_tt:"§GËzsSnzzŒSb¦^0§!\n"
+ NYAB_add_army_tradition_or_mil_power_tt:"¢núQ„vF–›Q.OßuSlS:N£mil£0\n"
+ NYAB_add_fervor_or_power_tt:"¢núQ„vípÅ`¹ppeSlS:N£adm£0\n"
+ NYAB_add_harmonizd_religion_effect_tt:"‚YœgòTÏuŒTŒå‹—RYebwck(WŒTŒå‹—RYeÿR9e:N·ƒ—V	N‰|¹ppe£adm££dip££mil£T§G100§!0\n"
+ NYAB_add_harmony_or_power_tt:"¢núQ„vŒTŒ¦^Sl:NS	N‰|¹ppe£adm££dip££mil£0\n"
+ NYAB_add_patriarch_authority_tt:"¢núQ„vgr–™CgZSlS:N£adm£0\n"
+ NYAB_add_mandate_or_power_tt:"¢núQ„vÏk§G1§!)Y‹TSl:NS§G5§!¹p	N‰|¹ppe£adm££dip££mil£0\n"
+ NYAB_add_church_power_or_power_tt:"¢núQ„vYeO›RÏ‘S–:gl:NSÐgÍyTIN¹ppe£adm££dip££mil£\n"
+ NYAB_half_unite_china_cost_age_ability_effect_tt:"	ÖSöeãNýw›R0§YRENÅVT§!0öe§GØ50%±‚9§!0\n"
+
+ NYAB_raze_diff_religion_burn_church_tt:"(W§Y'YIƒŸS§!wýNÐcGSÑSUS¦^öeÿ§G50%§!‚i‡s·ƒ—V˜Y1¹pÑSUS¦^0\n"
+ 
+ NYAB_unlock_suyishi_effect_tt:"AQ¸‹ú^.O'YåTz0§YÏ‚OëXÐ³l§!00"
+ NYAB_unlock_shenghuomiao_effect_tt:"AQ¸‹O(uO'YåTz0§YôT“^1Wkp™^§!00"
+ NYAB_unlock_jiataiji_effect_tt:"AQ¸‹O(uO'YåTz0§Yæ*YúWWNW§!00"
+ NYAB_unlock_shunhua_effect_tt:"AQ¸‹O(uO'YåTz0§Yz˜S‡vÎW§!00"
+
+ NYAB_allow_war_against_heresy_cb_tt:"=T(uùR§YVïz§!ýV¶R„v±RbPãS0§Ynd–Vïz§!00\n"
+ NYAB_allow_unite_balkan_cb_tt:"=T(uùR§YôTSr^§!ýV¶R„v±RbPãS0§YßuNôTSr^§!00\n"
+ NYAB_allow_colony_or_derectly_control_new_world_tt:"£icon_colonial_growth£ã‰•†N³Q®‹AQ¸‹`Oôv¥cµc6R§Y°e'YF–§!0\n"
+
+ NYAB_directly_control_new_world_de_title:"£icon_colonial_growth£ôv¥cµc6R°e'YF–"
+ NYAB_directly_control_new_world_de_desc:"YHNÌRv™„v–kl0WJUÿbìN”^å‹ôv¥cµc6R°e'YF–0"
+ NYAB_directly_control_new_world_de_tt:"§R)n¨™Ðc:yÿN‰ÍSY¹pûQÙ*N³Q®‹ÿÏk!kub–kl†˜ýOM–NO8nb'`ýwÿgTïSýwüRôNb	gýV¶RýàeÕlú^Ëz–kl†˜†N0§!\n\n§Yçub§!Nb	g°e'YF–„v–kl†˜0\n"
+ NYAB_colony_control_new_world_de_title:"£icon_colonial_growth£ú^Ëz–kl†˜µc6R°e'YF–"
+ NYAB_colony_control_new_world_de_desc:"ôv¥cµc6R°e'YF–ÇŽNmcwbìN„vLˆ?eû|ßu†Nÿb¸‹Ø=f²N1uSV0WI`cw»ltôf:NT0"
+ NYAB_colony_control_new_world_de_tt:"bìNÈSýwY(W°e'YF–ú^Ëz–kl†˜†N0\n"
+
+
+ mechanic_enables_estate_nobles_yes:"=T(u§Y5Ïe§!6–BS"
+ mechanic_disables_estate_nobles_yes:"y(u§Y5Ïe§!6–BS"
+ mechanic__yes:""
+ mechanic__yes:""
+
+ NYAB_2jidong_general_tt:"Ù*NS›QO	gúWNx§G2§!:g¨R0\n"
+
+ NYAB_remove_steppe_terrain_debuff_modfiier:"VÑS'YIƒŸS"
+
+ NYAB_show_non_modifier_reward_title:"US:y§T^—îOck§!‰|yrŠkVY±R"
+ NYAB_show_non_modifier_reward_desc:"Ù*N³Q®‹=f(ueg>f:y`O—V0R„v^—îOck‰|VY±Rÿ‚YM–NO8—Cg‰BlIr	ÿÿ(WHeœgÌ‘>f:y0ÿMRÐc=f`O	g0	ÿ"
+
+ NYAB_KAZ_lajiepute_tt_tt:"-§Rq c§!§YpS¦^§!!k'YF–„vwýNöeÿ§G20.0%§!·ƒ—V§G250§!£icon_manpower£0"
+ NYAB_KAZ_across_henhe_tt_tt:"-§Rq c§!§YpS¦^§!!k'YF–	g8f-NÃV„vwýNöeÿ§G20.0%§!·ƒ—V§G250§!£icon_gold£0"
+ NYAB_KAZ_hi_deccan_tt_tt:"-§Rq c§!§YpS¦^§!!k'YF–„vwýNöeÿ	g§G50.0%§!‚i‡s·ƒ—V§Gê»l†˜0W8hÃV§!0"
+ enable_upgrading_centers_of_trade_dev_tt:"§GGSµu§!§Y8f-NÃV§!öeO·ƒ—V§G1§!¹púWNxuµN0\n"
+ 
+ NYAB_lvsong_region_ttt:"^SŽN§YT‹R²›S§!wýNÄu"
+ NYAB_poluozhou_region_ttt:"^SŽN§YFZW2m§!wýNÄu"
+ NYAB_java_region_ttt:"^SŽN§Y*rÇT§!wýNÄu"
+ NYAB_sumendala_region_ttt:"^SŽN§YÏ‚è•TrJ§!wýNÄu"
+ NYAB_malaya_region_ttt:"^SŽN§YlšegšN§!wýNÄu"
+ NYAB_molucca_region_ttt:"^SŽN§Yidž R§!wýNÄu"
+ NYAB_ireland_province_group_ttt:"^SŽN§Y1rSpQ§!wýNÄu"
+
+ patron_of_arts_personality_modifier:"z‚=g^©Rw"
+
+ great_engineer_personality_modifier:"O'YåTz^"
+ legendary_conqueror_personality:".OGYVgw"
+
+ 
+

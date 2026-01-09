@@ -1,0 +1,100 @@
+﻿l_english:
+legendary_conqueror_personality:0 "O'Yw"
+ EDG_great_conqueror_personality:0 "O'YVgw0/jÄu R:V0"
+ EDG_mythical_conqueror_personality:0 "^yÝ‹Vgw0/jÄu R:V0"
+ 
+EDG_great_conqueror_modifier_weak:0 "O'YVgw"
+ EDG_great_conqueror_modifier:0 "O'YVgw"
+ EDG_mythical_conqueror_modifier:0 "^yÝ‹Vgw"
+ 
+ EDG_flavor_great_conquer.1.t:0 "O'YVgw"
+ EDG_flavor_great_conquer.1.d:0 "bìNïSåN/T(uå‹:g6Rÿ©‹ÐgNAI	g:gOúQ°swQ	g0O'YVgw0yr(„v:V'Yßu»lwÿ(Wå‹ßu»lw(WMOgô•ÿå‹ýVAISO«N×S0Rg'Y„v RbÿÙS:NbìN„v8nb&^egôf'Y„v–:g'`ŒTcb0\n\nbìNïSåN	ébN/T(uå‹:g6RÿmNïSåN	éb/T(u0O'YVgw0yr(„v R:VHrÿsS0^yÝ‹Vgw0yr(ÿ·ƒ—Vôf:V„v Rb0"
+ EDG_flavor_great_conquer.1.a:0 "§RºN‰|gO'Y„v^Lk1S/fÇRl„v^Lkÿ§!"
+ EDG_flavor_great_conquer.1.b:0 "§YO'YVgwÿšRëSÖN	gegàeÞVÿ§!"
+ EDG_flavor_great_conquer.1.c:0 "ÙŽrôv/fàe„YKNŒp0"
+  EDG_flavor_great_conquer.1.e:0 "bÞx^ÐýV RbýNó`ÙuAI0"
+EDG_lucky_tag_ban_flag_tt:0 "y(uAI„v§Yx^ÐýV§! RbÿÙïSýwO.b†SòSSOŒša„v:1Y0FO‚Yœg¨`ùRêñT„v8n©s4ls^NêáOÿO6qïSåNV/Tå‹/jV0"
+ 
+ EDG_flavor_great_conquer.2.t:0 "O'YVgw"
+ EDG_flavor_great_conquer.2.d:0 "bìN„vßu»lw/f&T/fNTO'YVgwÿ"
+ EDG_flavor_great_conquer.2.a:0 "bìNO/f^yÝ‹Vgwÿ"
+ EDG_flavor_great_conquer.2.b:0 "bìNO/fO'YVgw0"
+ EDG_flavor_great_conquer.2.c:0 "àe‹NÑSu0"
+ 
+ EDG_mythical_conquer_enable_tooltip:0 "AIßu»lwS	gïSýw·ƒ—V§Y0O'YVgw0§!ŒT§Y0^yÝ‹Vgw0§!yr(0\nÙSg'YÐcØš8nb„v§Y–:g'`§!ŒT§Y¾–¦^§!ÿ¨`„v8n©sïSýwG0R¾–åNKQg„vœ–x0å‚¨`V/Tå‹/jVÿbìNSÆ‰:N¨`Øž²‹¥c×SØš–:g'`ŒTØš¾–¦^„v8nb0\n\n§Rå‚¨`¡l	g2000håNN„v8nböe•ÿ÷‹N‰V/Tå‹/jV0§!\n§Rå‚¨`S*gŸq‰`å‹/jÄuÿ÷‹N‰V/Tå‹/jV0§!"
+ EDG_great_conquer_enable_tooltip:0 "AIßu»lwS	gïSýw·ƒ—V§Y0O'YVgw0§!yr(0\nÙSg'YÐcØš8nb„v§Y–:g'`§!ŒT§Y¾–¦^§!ÿ¨`„v8n©sïSýwG0R¾–åNKQg„vœ–x0å‚¨`V/Tå‹/jVÿbìNSÆ‰:N¨`Øž²‹¥c×SØš–:g'`ŒTØš¾–¦^„v8nb0\n\n§Rå‚¨`¡l	g1000håNN„v8nböe•ÿ÷‹N‰V/Tå‹/jV0§!\n§Rå‚¨`S*gŸq‰`å‹/jÄuÿ÷‹N‰V/Tå‹/jV0§!"
+ EDG_great_conquer_unable_tooltip:0 "NR‚Yçe0\nå‚¨`S*gŸq‰`å‹/jÄuÿ÷‹åNå‹/jVÛLˆ8nb0"
+ 
+ 
+EDG_the_August:0 "eYäS¯eý"
+
+
+EDG_Slavic_despite:0 "¯eÉb+YN6RlQ"
+EDG_Slavic_despite_personality_enable_flag_tt:0 "bìN„v§MçubºN§!S	g:gO§Y¯eÉb+YN6RlQ§!yr(ÿå‹yr(„v·ƒÖS‚i‡sTçubºN„v§M›Q‹Nýw›R§!ŒT§Mâe	gyr(	gsQ§!ÿb:N§MS†˜§!båb	g§MVgw§!yr(„vçubºNôf	gïSýw·ƒ—Vå‹yr(0"
+add_ruler_personality_EDG_Slavic_despite_tt:0 "å‹TINyr(SÙuˆNbìN‚YNHeœgÿ\nïSÛbßR„vyrŠkUSMONP–: §G+20%§!\nÇ¦^ib.VqVÍT: §G-10%§!"
+
+EDG_personality_zhayide:0 "NbO·V0Ébê-KQÉbÕl0"
+desc_EDG_personality_zhayide:0 "NbO·V/f(„ÈT¾^ýV„v'Ylš)RKQÿO'Y„v(„ÕlSNN„v/kPRÿÖNþf«ˆŒ‚ÈTÈ·V·W^XTXì‹w–:N:NNg‰k^ýVçubºNFzUØž·V·(„ÈT¾„vöQKbÿåNóŽNm0RAm>e0Œ‚ÈTÈ·VuóT(„ÕlSNNÐc›O†NNötVST„vÒkoƒÿðXðy1S/fÙötÒkoƒ&^p†NFzUØž·V„v'`‹Tÿ(„ÕlSNNSÙötÒkoƒ‚UÙu†NÓN“^SV-N„v‰kÚVÿ‰kÚV„v‰k¶rŒTFzUØž·V‚YúQN™ÿ«ˆDQVøv‹k„v²`gRûQƒn„v(„ÕlSNN„v¾|^y2–¿u«ˆûQŽx†NÿÖNN?aaŸSŒNg³RFzUØž·V„vöQKbÿFOmNNó`QN/kÁ‰0RêñT?QPR»yVºNN0KS¡rNbO·Vnct›R‰NÿFO/fjO:NDQ•»SN„vôv¥c×SÊvºNÿNbO·V„vÌZ‘uËYÈu¡lýw«ˆ‰V•^m7R0(„ÕlSNNgÈuS‹sPRAm>e0RÜ»yÃWÊS„v™l.oSV-N0(WAm>egô•ÿNbO·Vb:N†NlšÀNÌ‘KQ0W:S„vNTcOuQÿ‡s†˜W“^üfºNŒTâl¯eºNÄub„vcOuQâVWSVSbÿïy/t†NEQ³„v›Q‹NÏuŒšÿv^åb	g†NN/e^SŽNêñT„v›Q‹N›RÏ‘0(Wlš)RKQKNbrÑSTÿNbO·VÞV0R†N(„ÕlSNN„v«Ž¹ÿv^OS©RêñT„v6r²Ns^šRlš)RKQKNbÿÍ‘QX^ýV„véy^0"
+EDG_personality_yidelisi:0 "O·VÌ‘¯e0Ï‚9NªR¯e-^XÉbN0"
+EDG_personality_faheda:0 "Õlk¾0™l?–-?–O	TWl0"
+
+edg_fym_sahada_great_conquer_personality:0 "(„ÈT¾ÏeÔˆVgw"
+
+EDG_personality_zhayide_die_desc:0 "bìN8lÜ`õVÙMOO'Y„v^‹s0"
+EDG_personality_faheda_die_desc:0 "bìN8lÜ`õVÙMOO'Y„v^‹s0"
+EDG_personality_yidelisi_die_desc:0 "bìN8lÜ`õVÙMOO'Y„v^‹s0"
+
+legendary_conqueror_personality:0 "•NïSSV"
+
+
+edg_linguist_personality:0 "¾|Yí‹"
+edg_skillful_in_warfare_personality:0 "šÇR"
+edg_siege_engineer_personality:0 "IeÎW'Y^"
+edg_morale_damage_personality:0 "—e×Vflb"
+edg_pedantic_personality:0 "ÂP"
+edg_splendor_personality:0 "Vf"
+edg_zuoyoufengyuan_personality:0 "æTóS0n"
+edg_lijingtuzhi_personality:0 "±R¾|þV»l"
+edg_silver_tongue_personality:0 "çT‚‚Y'|"
+edg_offensive_personality:0 "Þ˜lbËHb"
+
+
+
+desc_edg_linguist_personality:0 "å‹ßu»lw¾|YýVí‹ŠÿvQ«R÷^…Q	gegê”NVnÛVwm„vYýVºNëX0"
+desc_edg_skillful_in_warfare_personality:0 "å‹ßu»lw(Wb:WNšÇR„UbÿvQNb‡s†˜„vè–I`/fýw:NýV¶R&^eg«ƒ'Y„vcƒw0"
+desc_edg_siege_engineer_personality:0 "å‹ßu»lw¾|IeÎWhV°h„v6R.ŒTÐ(uÿv^SÙNtQ±Nyr••beQ0R›Q‹NžRõ-N0"
+desc_edg_morale_damage_personality:0 "å‹ßu»lwgÅd•(u8Y.V„vo²‹Ào±R›Q–ÿ(uÌR	gÀoÅ`„vb/gûQƒnLeºN0"
+desc_edg_pedantic_personality:0 "å‹ßu»lwÂPN*XÿÒbÝuNR°e`ó`0"
+desc_edg_splendor_personality:0 "å‹ßu»lwVfàeÔkÿípwˆŽNxvzNR°e`ó`0"
+desc_edg_zuoyoufengyuan_personality:0 "å‹ßu»lwºNg‹YÿýV…Q„vT*N6–BSýåb²bÙMOßu»lw„vßu»l0"
+desc_edg_lijingtuzhi_personality:0 "å‹ßu»lwg'Y„v?ag1S/fSýV¶R»lt—V•N•N	gag0"
+desc_edg_silver_tongue_personality:0 "å‹ßu»lw„UŽN0tÖSN^SŽNêñT„vN‰0"
+desc_edg_offensive_personality:0 "å‹ßu»lw„v'`<h©‹ÖNºNa0RP`ç`ŒTÅbçV0"
+
+edg_linguist_personality_desc:0 "å‹ßu»lw¾|YýVí‹ŠÿvQ«R÷^…Q	gegê”NVnÛVwm„vYýVºNëX0"
+edg_skillful_in_warfare_personality_desc:0 "å‹ßu»lw(Wb:WNšÇR„UbÿvQNb‡s†˜„vè–I`/fýw:NýV¶R&^eg«ƒ'Y„vcƒw0"
+edg_siege_engineer_personality_desc:0 "å‹ßu»lw¾|IeÎWhV°h„v6R.ŒTÐ(uÿv^SÙNtQ±Nyr••beQ0R›Q‹NžRõ-N0"
+edg_morale_damage_personality_desc:0 "å‹ßu»lwgÅd•(u8Y.V„vo²‹Ào±R›Q–ÿ(uÌR	gÀoÅ`„vb/gûQƒnLeºN0"
+edg_pedantic_personality_desc:0 "å‹ßu»lwÂPN*XÿÒbÝuNR°e`ó`0"
+edg_splendor_personality_desc:0 "å‹ßu»lwVfàeÔkÿípwˆŽNxvzNR°e`ó`0"
+edg_zuoyoufengyuan_personality_desc:0 "å‹ßu»lwºNg‹YÿýV…Q„vT*N6–BSýåb²bÙMOßu»lw„vßu»l0"
+edg_lijingtuzhi_personality_desc:0 "å‹ßu»lwg'Y„v?ag1S/fSýV¶R»lt—V•N•N	gag0"
+edg_silver_tongue_personality_desc:0 "å‹ßu»lw„UŽN0tÖSN^SŽNêñT„vN‰0"
+edg_offensive_personality_desc:0 "å‹ßu»lw„v'`<h©‹ÖNºNa0RP`ç`ŒTÅbçV0"
+
+
+edg_linguist_personality_die_desc:0 "å‹ßu»lw¾|YýVí‹ŠÿvQ«R÷^…Q	gegê”NVnÛVwm„vYýVºNëX0"
+edg_skillful_in_warfare_personality_die_desc:0 "å‹ßu»lw(Wb:WNšÇR„UbÿvQNb‡s†˜„vè–I`/fýw:NýV¶R&^eg«ƒ'Y„vcƒw0"
+edg_siege_engineer_personality_die_desc:0 "å‹ßu»lw¾|IeÎWhV°h„v6R.ŒTÐ(uÿv^SÙNtQ±Nyr••beQ0R›Q‹NžRõ-N0"
+edg_morale_damage_personality_die_desc:0 "å‹ßu»lwgÅd•(u8Y.V„vo²‹Ào±R›Q–ÿ(uÌR	gÀoÅ`„vb/gûQƒnLeºN0"
+edg_pedantic_personality_die_desc:0 "å‹ßu»lwÂPN*XÿÒbÝuNR°e`ó`0"
+edg_splendor_personality_die_desc:0 "å‹ßu»lwVfàeÔkÿípwˆŽNxvzNR°e`ó`0"
+edg_zuoyoufengyuan_personality_die_desc:0 "å‹ßu»lwºNg‹YÿýV…Q„vT*N6–BSýåb²bÙMOßu»lw„vßu»l0"
+edg_lijingtuzhi_personality_die_desc:0 "å‹ßu»lwg'Y„v?ag1S/fSýV¶R»lt—V•N•N	gag0"
+edg_silver_tongue_personality_die_desc:0 "å‹ßu»lw„UŽN0tÖSN^SŽNêñT„vN‰0"
+edg_offensive_personality_die_desc:0 "å‹ßu»lw„v'`<h©‹ÖNºNa0RP`ç`ŒTÅbçV0"
+
+
+EDG_personality_beiernadaite:0 "SZÛžyr"
+EDG_personality_beiernadaite_desc:0 "SZÛžyr/fmTX—g	TšNýV‹sï·Vôu^NN/UN„vsY?QÿyYê|^hˆ°súQjwga„vNb—ÿäNÖN„v6r²NùRyY„v*gegEQángg0FOmTX—g	TšNòTÏuGdGd2k`WÿSZÛžyr„vNuèlšRàeÕlN^Î˜z˜0"
+EDG_personality_beiernadaite_die_desc:0 "SZÛžyr/fmTX—g	TšNýV‹sï·Vôu^NN/UN„vsY?QÿyYê|^hˆ°súQjwga„vNb—ÿäNÖN„v6r²NùRyY„v*gegEQánggÿwyYmNZP0R†N©‹mTX—g	TšNQ/kO'Y0"

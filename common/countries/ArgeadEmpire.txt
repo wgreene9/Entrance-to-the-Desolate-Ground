@@ -1,0 +1,97 @@
+graphical_culture = easterngfx
+color = {
+  29
+  124
+  255
+}
+revolutionary_colors = {
+  10
+  4
+  10
+}
+historical_idea_groups = {
+  defensive_ideas
+  offensive_ideas
+  trade_ideas
+  spy_ideas
+  economic_ideas
+  diplomatic_ideas
+  quality_ideas
+  religious_ideas
+}
+historical_units = {
+  persian_footsoldier
+  persian_cavalry_charge
+  persian_shamshir
+  qizilbash_cavalry
+  tofongchis_musketeer
+  topchis_artillery
+  afsharid_reformed
+  afsharid_reformed_infantry
+  muslim_mass_infantry
+  muslim_dragoon
+  durrani_swivel
+  durrani_rifled_musketeer
+  durrani_dragoon
+}
+monarch_names = {
+  "O¯eNW·VS #0" = 40
+  "·Vs|yrÌ‘ #0" = 40
+  "s|WS·V #0" = 40
+  "ÏgÉbşV #0" = 20
+  "‰RĞc›sÑy¯e #0" = 20
+  "S›R #0" = 20
+  "ÄreYYyr #0" = 30
+  "'kKQÉbĞc·V #0" = 30
+  "k)ReYKQÒR¯e #0" = 10
+  "?– RXbKQ)R¯e #0" = 20
+  "?–âlWYyr¯e #0" = 10
+  "Xo¾÷–f #0" = 10
+  "W¯e‰RZ #0" = -1
+  "^T(„‚„¯e #0" = -1
+  "KQKNeYòƒN #0" = -1
+  "‰Z®Y #0" = -1
+  "'k‹VÄrIR #0" = -1
+  "?–^›s #0" = -1
+  "?– RXbKQ‰ƒZ #0" = -1
+}
+leader_names = {
+  "T‰lšÑy¯e"
+  "^X	t“^"
+  "‰RĞcb"
+  "XbÒR÷"
+  "aSqS·V"
+  "‰RagKQ"
+  "·Vs|yrÌ‘"
+  "kÕl¯eĞcÁ"
+  "…m?–S—¯e"
+  "^è•<SÁ"
+  "âl)RiO3wTR"
+  "ÀsSÄraS¯e"
+  "KQÉbğlW¯e"
+  "ReY<S¾¯e"
+  "¾idKQ)R¯e"
+}
+ship_names = {
+  "ôTKQyrÉb"
+  "¨cW"
+  "ôTÔk&O"
+  "bY¯W"
+  "ŒTÉSËYW"
+  "wm¾¯eiO¯e"
+  "Øš Rs|Éb"
+  "gßW"
+  "LNRm"
+  "Øš R0t"
+  "?–Ì‘‰R±"
+  "?–Éb—‰šN"
+  "eYÌ‘ÃWTX"
+  "<S‰šN"
+  "lšS	TšN³u"
+  "aSüf<SšN"
+  "OÏ‚¯e"
+  "ÃWÊSnfXb¯e"
+  "Ébyrid¯e"
+  "yrm?–¯e"
+  "ÆR•^aS"
+}

@@ -1,0 +1,58 @@
+EDG_DMR_yanoro_enable = {
+	define_ruler = {
+		name = "öN˙ãW0åömöw0"
+		dynasty = "’l&qS"
+		adm = 6
+		dip = 5
+		mil = 6
+		age = 16
+		claim = 100
+		religion = ROOT
+		culture = ROOT
+	}
+	add_ruler_personality = EDG_personality_yanoro
+}
+
+EDG_DMR_andre_enable = {
+	define_ruler = {
+		name = "âR∑V»p0RVaNLàw0"
+		dynasty = "’l&qS"
+		adm = 5
+		dip = 6
+		mil = 6
+		age = 22
+		claim = 100
+		religion = ROOT
+		culture = ROOT
+	}
+	add_ruler_personality = EDG_personality_andre
+}
+
+EDG_DMR_michy_enable = {
+	define_ruler = {
+		name = "s|^0êÕSw0"
+		dynasty = "’l&qS"
+		adm = 3
+		dip = 4
+		mil = 4
+		age = 16
+		claim = 20
+		religion = ROOT
+		culture = ROOT
+	}
+}
+
+EDG_DMR_alfie_enable = {
+	define_ruler = {
+		name = "?ñSÚÉ0ÁuNLàw0"
+		dynasty = "’l&qS"
+		adm = 6
+		dip = 6
+		mil = 5
+		age = 20
+		claim = 100
+		religion = ROOT
+		culture = ROOT
+	}
+	add_ruler_personality = EDG_personality_alfie
+}

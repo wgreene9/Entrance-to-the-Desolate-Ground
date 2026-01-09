@@ -1,0 +1,131 @@
+﻿l_english:
+ EDG_FRN_mission_1_7_title:0 "»sƒt"
+ EDG_FRN_mission_1_7_desc:0 ""
+ EDG_FRN_improve_efficiency_for_glass.tt:0 "§Y»sƒt§!µNúQHe‡s§G+10%§!"
+ EDG_FRN_mission_1_7.effect.tt:0 "bìNSnxÝO§Y»sƒt§!„v›O”^\n\nÖS—V§TÔYXb§!Nb—Pg™eÿ§Y»sƒt§!"
+
+ EDG_FRN_mission_1_8_title:0 "¢”Á”"
+ EDG_FRN_mission_1_8_desc:0 ""
+ EDG_FRN_improve_efficiency_for_iron.tt:0 "§Y¢”Á”§!µNúQHe‡s§G+20%§!"
+ EDG_FRN_mission_1_8.effect.tt:0 "bìNSnxÝO§Y¢”Á”§!„v›O”^\n\nÖS—V§TÔYXb§!Nb—Pg™eÿ§Y¢”Á”§!"
+
+ EDG_FRN_mission_1_9_title:0 "àsR"
+ EDG_FRN_mission_1_9_desc:0 ""
+ EDG_FRN_improve_efficiency_for_gems.tt:0 "§YÑ‘ö”àsR§!µNúQHe‡s§G+25%§!"
+ EDG_FRN_mission_1_9.effect.tt:0 "bìNSnxÝO§YÑ‘ö”NRów§!„v›O”^\n\nÖS—V§TÔYXb§!Nb—Pg™eÿ§YàsR§!"
+
+ EDG_FRN_mission_1_11_title:0 "Ñ‘^SImWRpS7R=g"
+ EDG_FRN_mission_1_11_desc:0 ""
+ EDG_FRN_mission_1_11.effect.tt:0 "Ïk*Nú^	g§YSïQ§!ú^QrNwýN§Y8fÁT§!:N§Y¸u.V§!„vwýNýSÙuˆNbìN§G250§!¤"
+ EDG_FRN_mission_1_11.priice.tt:0 "nfÊS°eVpS7R=g"
+
+ EDG_FRN_mission_1_12_title:0 "NLufN^"
+ EDG_FRN_mission_1_12_desc:0 ""
+ EDG_FRN_mission_1_12.effect.tt:0 "ÎN°s(WVËYÿ§YxvzÑyŽb§!SóSÙuˆNbìN§Y3§!R°e¦^\n\nÏkSVd–bìNY§Y–™ý§!ú^	g§YSïQ§!ú^Qr„výV¶R§YxvzÑyŽb§!öeÿýOÙuˆNbìN§G1§!¤"
+
+ EDG_FRN_mission_2_4_title:0 "=T¨RDÑ‘"
+ EDG_FRN_mission_2_4_desc:0 ""
+ EDG_FRN_mission_2_4.church.tt:0 "‚YœgbìNÇÉbâb§YYeëX§!6–µuegŒRbûN¡Rÿ±HN"
+ EDG_FRN_mission_2_4.church.effect.tt:0 "SVbìNŒRbûN¡R§T°e„v:gG§!Tÿ\nã‰•§TÔYXb³Q®‹§!ÿú^¾‹§Y‡v^'YYeX§!"
+ EDG_FRN_mission_2_4.burghers.tt:0 "‚YœgbìNÇÉbâb§YFUºN§!6–µuegŒRbûN¡Rÿ±HN"
+ EDG_FRN_mission_2_4.burghers.effect.tt:0 "SVbìNŒRbûN¡R§T°e„v:gG§!Tÿ\nã‰•§TÔYXb³Q®‹§!ÿú^¾‹§YÕlpQKQyWlš^:W§!"
+
+ EDG_FRN_mission_2_6_title:0 "åTwQPg™e"
+ EDG_FRN_mission_2_6_desc:0 ""
+ EDG_FRN_mission_2_6.effect.tt:0 "ã‰•yrŠkcOuQÿ§Yú^PgØR¢c–§!\n\nNðcOuQ§GN`S(u§!F–›QNP–ÿNåb	g§GgNO§!„vôu²b9\n\nã‰•§Y•bD§!³Q®‹ÿAQ¸‹bìNS§YÕlpQKQy§!„v§YÑSUS¦^§!§Tlûy§!0Råb	gyršR§Y8fÁT§!„vÎW^v^·ƒ—V§Y•bD¹ppe§!\n\n§YÏkt^t^R§!ýO9hncbìNNb§Y•bD§!„vI`§Yz6e§!0§YuµN§!0§YºN›R§!¹ppeR+RÙuˆN§YjgaSyr§!0§Yú^Pg§!N§YºN›R§!ÿwQSO6eeQïSåNÂSw§Y³Q®‹§!ô‹f"
+
+ EDG_FRN_mission_2_7_title:0 "(g™e"
+ EDG_FRN_mission_2_7_desc:0 ""
+ EDG_FRN_improve_efficiency_for_woods.tt:0 "§Y(g™e§!µNúQHe‡s§G+10%§!"
+ EDG_FRN_mission_2_7.effect.tt:0 "bìNSnxÝO§Y(gPg§!„v›O”^\n\nÖS—V§TÔYXb§!Nb—Pg™eÿ§Y(gPg§!"
+
+ EDG_FRN_mission_2_8_title:0 "ÄžÜ”"
+ EDG_FRN_mission_2_8_desc:0 ""
+ EDG_FRN_improve_efficiency_for_copper.tt:0 "§Yów™eÄžÜ”§!µNúQHe‡s§G+10%§!"
+ EDG_FRN_mission_2_8.effect.tt:0 "bìNSnxÝO§Yów™eNÄžÜ”§!„v›O”^\n\nÖS—V§TÔYXb§!Nb—Pg™eÿ§YÄžÜ”§!"
+
+ EDG_FRN_mission_2_10_title:0 "^Ëz'YþVfN†™"
+ EDG_FRN_mission_2_10_desc:0 ""
+ EDG_FRN_mission_2_10.effect.tt:0 "AQ¸‹bìN§YËzIR=T(u§!NR	N*N§YtõVÄu§!-N„vN*Nÿ\n§YÏuNm§!\n§Ti—°e§!\n§O0–§!\n\nÎN°s(WVËYÿ§YxvzÑyŽb§!SÙuˆN§Yd–bìNY§!Nb	g§Y–™ý§!åb	g§YSïQ§!ú^Qr„výV¶R§Y1§!¹pR°e¦^"
+
+ EDG_FRN_mission_2_11_title:0 "NNËeåT–"
+ EDG_FRN_mission_2_11_desc:0 ""
+ EDG_FRN_mission_2_11.effect.tt:0 "§O.ã‹§!°s(WSÐc›O§Yt^¦^LwN¦^§!žX•\n\n§TËeåT§!ŒRbKNTS–:g§GžX R§!SV0W§Y1§!¹pÑSUS¦^"
+
+ EDG_FRN_mission_3_1_title:0 "bìN„vÇ»S"
+ EDG_FRN_mission_3_1_desc:0 ""
+
+ EDG_FRN_mission_3_2_title:0 "bìN„v°s(W"
+ EDG_FRN_mission_3_2_desc:0 ""
+
+ EDG_FRN_mission_3_3_title:0 "bìN„v*geg"
+ EDG_FRN_mission_3_3_desc:0 ""
+
+ EDG_FRN_mission_3_5_title:0 "°e„v:gG"
+ EDG_FRN_mission_3_5_desc:0 ""
+ EDG_FRN_mission_3_5.effect.tt:0 "ËzIR=T(u§TúWú^§!tõVÄu\n\nå‹§YtõVÄu§!ùRŽN@[Root.GetTag]§Y[Root.GetName]§!wŠ§YósQÍ‘‰§!ÿàVdk§R÷‹ÿR>eVå‹tõVÄu§!ÿ\n\nã‰•Nû|R§Yú^QrøvsQ§!„v§YŸRýw§!ÿ÷‹§YÔNÆu–û‹§!§T?eœ^:g6R§!-N„v§Gú^Qr.ã‹§!Û¦^agô‹feg§Y†Nã‰©sÕl§!"
+
+ EDG_FRN_mission_3_9_title:0 "ŽàV³lTu„vÕlpQKQy"
+ EDG_FRN_mission_3_9_desc:0 ""
+ EDG_FRN_mission_3_9.effect.tt:0 "S§TËeåT§!ƒôVib'Y0R§YWS·Va×V§!0§YS·Va×V§!åNÊS§YNO0W0W:S§!"
+ EDG_FRN_mission_3_10.effect.tt:0 "ã‰•pe*N§Y³Q®‹§!ÿAQ¸‹bìN(W§YvQÖN0W:S§!V¾‹Rèÿib'Y§TËeåT§!ƒôV"
+
+ EDG_FRN_mission_3_10_title:0 "ib'YOSO"
+ EDG_FRN_mission_3_10_desc:0 ""
+
+ EDG_FRN_mission_3_12_title:0 "N¡RÓbUS"
+ EDG_FRN_mission_3_12_desc:0 ""
+ EDG_FRN_mission_3_12.effect_1.tt:0 "ã‰•yrŠkcOuQÿ§YÕlpQKQyåTuQâV§!"
+ EDG_FRN_mission_3_12.effect_2.tt:0 "ÏkSV§YvQÖNýV¶R§!Ç–cOå‹cOuQöeÿbìNýO·ƒ—V§Y25§!£mil£0§G1%§!F–›QLwN¦^åNÊSNšR„v¤\n\nt^¦^•bD§Yz6e§!6eeQ°s(WS×S0R§YýV¶Rz6eîOck§!„vqVÍT\n\nt^¦^•bD§YºN›R§!6eeQ×S0R°s(WS×S0R§YýV¶RºN›RîOck§!„vqVÍT\n\nt^¦^•bD§Yú^Pg§!6eeQ×S0R°s(WS×S0R§YuµNHe‡sîOck§!„vqVÍT"
+
+ EDG_FRN_mission_3_13_title:0 "ÈTf)Y"
+ EDG_FRN_mission_3_13_desc:0 ""
+
+ EDG_FRN_mission_4_4_title:0 "ÛbXwºNKb"
+ EDG_FRN_mission_4_4_desc:0 ""
+ EDG_FRN_mission_4_4.nobles.tt:0 "‚YœgbìNÇÉbâb§Y5Ïe§!6–µuegŒRbûN¡Rÿ±HN"
+ EDG_FRN_mission_4_4.nobles.effect.tt:0 "SVbìNŒRbûN¡R§T°e„v:gG§!Tÿ\nã‰•§TÔYXb³Q®‹§!ÿú^¾‹§Y±ƒ5ƒØša„„R‘œQ:W§!"
+ EDG_FRN_mission_4_4.emperor.tt:0 "‚YœgbìNÇÉbâb§Y‡v^§!egŒRbûN¡Rÿ±HN"
+ EDG_FRN_mission_4_4.emperor.effect.tt:0 "SVbìNŒRbûN¡R§T°e„v:gG§!Tÿ\nã‰•§TÔYXb³Q®‹§!ÿú^¾‹§YŽàV(ƒ1W›sSšR'YYeX§!"
+
+ EDG_FRN_mission_4_6_title:0 "åNÊS¹eÕl"
+ EDG_FRN_mission_4_6_desc:0 ""
+ EDG_FRN_mission_4_6.effect.tt:0 "ÿfbc§YNb	g6–BS§!„v§Y6–µu®‹z§!ÿÙ›N§Y®‹z§!SÆ–-NŽN§Yú^.ú^Qr§!"
+
+ EDG_FRN_mission_4_7_title:0 "RúQƒ^ "
+ EDG_FRN_mission_4_7_desc:0 ""
+ EDG_FRN_mission_4_7.effect.tt:0 "ã‰•§Jàÿu§!ÔYXb„v§Yú^.CgP–§!\n\nÎN°s(WVËYÿ§Y6–µu®‹z§!SýwYÐcúQ§TGYÂ‰ÔYXb§!"
+
+ EDG_FRN_mission_4_8_title:0 "‰pkp¯uR—"
+ EDG_FRN_mission_4_8_desc:0 ""
+ EDG_FRN_mission_4_8.effect.tt:0 "ã‰•§OÄžÑ‘§!ÔYXb„v§Yú^.CgP–§!\n\n§YGYÂ‰ÔYXb§!ú^.öeô•§G-10%§!"
+
+ EDG_FRN_mission_4_10_title:0 "ýV¶RåTzfRb–"
+ EDG_FRN_mission_4_10_desc:0 ""
+ EDG_FRN_mission_4_10.effect.tt:0 "§GÓu—rÔYXb§!°s(WS9hnc§YÔYXbIrµu§!R+R·ƒ—V§Y2§!0§Y4§!0§Y6§!0§Y8§!¹p§YR°e¦^§!\n\nËzIR=T(u§TLwN§!tõVÄu\n\n?eœ^’N¨R§Y»”xŽb=g§!°s(WSžX R§Y˜YHeœg§!"
+
+ EDG_FRN_mission_4_11_title:0 "–™-^åTz^"
+ EDG_FRN_mission_4_11_desc:0 ""
+ EDG_FRN_mission_4_11.effect.tt:0 "Ïk*NIrµu„v§YåTz^§!Œ˜î•S§G-5%§!ÑSUSb,g"
+
+ EDG_FRN_mission_5_7_title:0 "Œš‰1SŸq"
+ EDG_FRN_mission_5_7_desc:0 ""
+ EDG_FRN_mission_5_7.effect.tt:0 "ã‰•§T)YR—§!ÔYXb„v§Yú^.CgP–§!\n\n§YGYÂ‰ÔYXb§!ú^.öeô•§G-20%§!"
+
+ EDG_FRN_mission_5_8_title:0 "‰vðS.g"
+ EDG_FRN_mission_5_8_desc:0 ""
+ EDG_FRN_mission_5_8.effect.tt:0 "ã‰•§V.OGY§!ÔYXb„v§Yú^.CgP–§!\n\n§YGYÂ‰ÔYXb§!ú^.öeô•§G-10%§!"
+
+ EDG_FRN_mission_5_9_title:0 "zzMRÝuT "
+ EDG_FRN_mission_5_9_desc:0 ""
+ EDG_FRN_mission_5_9_effect.tt:0 "ã‰•ÛV*N§YyrŠk§!„v§V.OGY§!ÔYXbÿ\nÌ‘ Rÿ§YÌ‘ RnfNÎW§!\nWlšÿ§Y1W	NN)Yv˜'YYeX§!\nÕlpQKQyÿ§Y1WupTNYeX§!\n6wï’d·Qÿ§Y1Ws|ÒR RïQËe1WÍkYeX§!\n\nŒRbNðhQè§YÔYXb§!sSïS¾b§OGYÂ‰Üw)R§!(v^^—Üw)R)\n\n§YGYÂ‰ÔYXb§!ú^.öeô•§G-10%§!"
+
+ EDG_FRN_mission_5_11_title:0 "Ñ‘^Sø”.xvz"
+ EDG_FRN_mission_5_11_desc:0 ""
+ EDG_FRN_mission_5_11.effect.tt:0 "Ïk*Nú^	g§YSïQ§!ú^QrNwýN§Y8fÁT§!:N§YÁ”ÿw§!„vwýNýSÙuˆNbìN§G150§!¤\n\nÏk*NIrµu„v§YåTz^§!Œ˜î•S§G+2.5%§!uµNHe‡s\n\nGSµu9ei—§Y›Q‹NåTz§!„vHeœg"
+
+ EDG_FRN_mission_5_12_title:0 "›Q‹NåTzfRtº‹"
+ EDG_FRN_mission_5_12_desc:0 ""
+ EDG_FRN_mission_5_12.effect.tt:0 "Ïk*NIrµu„v§YåTz^§!Œ˜î•S§G+2.5%§!ôVÎWHe‡s"
+
+

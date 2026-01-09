@@ -1,0 +1,317 @@
+EDG_TIM_define_ruler_ulugh_beg_effect = {
+  define_ruler = {
+    name = "NQÅú=O"
+    dynasty = "^(g?Q"
+    adm = 3
+    dip = 5
+    mil = 4
+    religion = sunni
+    culture = uzbehk
+    age = 50
+    claim = 100
+  }
+}
+
+EDG_TIM_define_heir_latif_effect = {
+  define_heir = {
+    name = "?ñN˝ê LRÍè+u"
+    dynasty = "^(g?Q"
+    adm = 2
+    dip = 1
+    mil = 4
+    religion = sunni
+    culture = uzbehk
+    age = 24
+    claim = 100
+  }
+}
+
+EDG_TIM_define_ruler_alaal_dawla_effect = {
+  define_ruler = {
+    name = "?ñwPLR"
+    dynasty = "^(g?Q"
+    adm = 2
+    dip = 1
+    mil = 2
+    religion = sunni
+    culture = uzbehk
+    age = 36
+    claim = 50
+  }
+}
+
+EDG_TIM_define_advisor_roshan_effect = {
+  define_advisor = {
+    type = theologian
+    name = "ÙTöNNm∑V âR(ÑÃë"
+    skill = 2
+    culture = afghani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_spawn_rebels_roshan_effect = {
+  spawn_rebels = {
+    size = 3
+    leader = "ÙTöNNm∑V âR(ÑÃë"
+    type = heretic_rebels
+  }
+}
+
+EDG_TIM_define_advisor_isfahani_effect = {
+  define_advisor = {
+    type = historian
+    name = "’lyQ…b…b f	T OØe’lU<S"
+    skill = 3
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_rename_to_agra_effect = {
+  change_province_name = "?ñ<h…b"
+  rename_capital = "?ñ<h…b"
+}
+
+EDG_TIM_rename_to_hyderabad_effect = {
+  change_province_name = "wmóV…bÙT"
+  rename_capital = "wmóV…bÙT"
+}
+
+EDG_TIM_define_ruler_babur_effect = {
+  define_ruler = {
+    name = "ÙT^S"
+    dynasty = "^(g?Q"
+    adm = 5
+    dip = 5
+    mil = 6
+    religion = sunni
+    culture = ROOT
+    age = 20
+    claim = 100
+  }
+}
+
+EDG_TIM_define_advisor_kashi_effect = {
+  define_advisor = {
+    type = natural_scientist
+    name = ">ç∆Y^∑V aS^"
+    skill = 5
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_qushji_effect = {
+  define_advisor = {
+    type = innovator
+    name = "?ñÃë ì^¿N	T"
+    skill = 5
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_ruler_abdullah_mirza_effect = {
+  define_ruler = {
+    name = "?ñjSjg…b s|SNb"
+    dynasty = "^(g?Q"
+    adm = 0
+    dip = 3
+    mil = 2
+    religion = sunni
+    culture = uzbehk
+    age = 44
+    claim = 30
+  }
+}
+
+EDG_TIM_define_ruler_abu_said_effect = {
+  define_ruler = {
+    name = "jSíd‡V"
+    dynasty = "^(g?Q"
+    adm = 3
+    dip = 5
+    mil = 6
+    religion = sunni
+    culture = uzbehk
+    age = 32
+    claim = 50
+  }
+}
+
+EDG_TIM_define_advisor_behzad_effect = {
+  define_advisor = {
+    type = artist
+    name = "aSlöS LN∑VN çkçNb∑V"
+    skill = 3
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_husayn_bayqara_effect = {
+  define_advisor = {
+    type = xungui
+    name = "˝Võè ‹b»T…b s|SNb"
+    skill = 4
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_jami_effect = {
+  define_advisor = {
+    type = philosopher
+    name = "…bkç¸f ≈ñs|"
+    skill = 4
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_mashhadi_effect = {
+  define_advisor = {
+    type = artist
+    name = "œÇ9N ?ñÃë lö¿N»TÍè"
+    skill = 4
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_navai_effect = {
+  define_advisor = {
+    type = educationist
+    name = "?ñÃë^S ≥uÉlO"
+    skill = 5
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_abru_effect = {
+  define_advisor = {
+    type = historian
+    name = "»TÚÉyQ-O ?ñ^Åú"
+    skill = 3
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_yazdi_effect = {
+  define_advisor = {
+    type = innovator
+    name = "GkÃë+uN ?ñÃë öNyQÍè"
+    skill = 4
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_samarqandi_effect = {
+  define_advisor = {
+    type = philosopher
+    name = "PLRôl ídlöSUÍè"
+    skill = 5
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_mirkhvand_effect = {
+  define_advisor = {
+    type = historian
+    name = "∆RSÀR∑V"
+    skill = 5
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_khvandamir_effect = {
+  define_advisor = {
+    type = historian
+    name = "ÀR∑V∆RS"
+    skill = 5
+    culture = khorasani
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_kermani_effect = {
+  define_advisor = {
+    type = natural_scientist
+    name = "^SIl LN∑VN KQS¸f<S"
+    skill = 4
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_ilyas_effect = {
+  define_advisor = {
+    type = natural_scientist
+    name = "¸fœÇS O,g O)RöNØe"
+    skill = 5
+    culture = persian
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_advisor_ghiyath_effect = {
+  define_advisor = {
+    type = diplomat
+    name = "kpw ÷v6wêN"
+    skill = 2
+    culture = uzbehk
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_define_ruler_yunus_effect = {
+  define_ruler = {
+    name = "ÀtY`"
+    dynasty = "Chagatayid"
+    adm = 3
+    dip = 4
+    mil = 4
+    religion = sunni
+    culture = kirgiz
+    age = 47
+    claim = 50
+  }
+}
+
+EDG_TIM_define_advisor_haidar_effect = {
+  define_advisor = {
+    type = historian
+    name = "s|S±T lö—ûªû wmTr?Q"
+    skill = 4
+    culture = kirgiz
+    religion = sunni
+    cost_multiplier = 0.25
+  }
+}
+
+EDG_TIM_rename_province_dadu_effect = {
+  change_province_name = "'Y˝ê"
+}

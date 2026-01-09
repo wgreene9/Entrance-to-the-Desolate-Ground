@@ -1,0 +1,233 @@
+﻿l_english:
+ EDG_FEO_ideas:0 "åTyrtõV"
+ EDG_FEO_ideas_start:0 "åTyr.Oßu"
+ EDG_FEO_ideas_bonus:0 "åTyrÎ‘ÃV"
+ 1_principate_guard:0 "gb?e˜RkS–"
+ 1_principate_guard_desc:0 "ÄreYYWSwÌRÕˆÿvQgb?e˜RÏu8^(WNíp±šNqQŒTýV„vb‰N-NO(uÇ–cO›Q0(WÄreYYWôVÎWb-Nÿ	g	NŒvTidS¾ôušNëXuQ.^©RÖNìNùR—bW3wvQºN0"
+ 1_komnin_paleolog_gavras:0 "ÑyFzR0ôTReYeuŒT R+YÉb¯e"
+ 1_komnin_paleolog_gavras_desc:0 "›sKNšN·ôTReYeuÿüfäSnf„vlQINÿ=fidS¾ôušN‹slQ¯eyráQ	NNKN»Y0(W1426t^ÿyY„v²NbÿåTyr„v›sKNšNÿmN=f?–±ƒKQîO¯eKNsYÿb:N†NyrÉbÔkŒg+gãN‡v^'YkS·…h R¯e·ÑyFzR„v–™ûN»YPR0.Oô‹ÄreYYW„vlQINegêšNŽ<SšN„v R+YÉb¯e¶RÏeÿÙ*N¶RÏegW„T„vãNhˆºNir=fvQINÝO1WºNÿÄreYYS· R+YÉb¯e0"
+ 1_aristocracy_in_moskovia:0 "W¯e5Ïe"
+ 1_aristocracy_in_moskovia_desc:0 "ASÛVNªu+gÿÄreYYW„vFUºNN¶Rÿ—+Y—g¶RÏeeg0R†N«ƒ¯eÑy0ÖNìNˆVëV1Sb:N†N«ƒ¯eÑyg	gCg¿RŒTbŸR„v5ÏeKNN0"
+ 1_avlita_port:0 "?–ôu)RTX=n"
+ 1_avlita_port_desc:0 "1425t^(WTNS³ušN³lNú^Ëz„v?–ôu)RTX=n=fÄreYYW=UN„v8f=nãS0SVöeƒRVw†NÄreYYWŒTíp±šN–kl0WKNô•„vN­e·u‰Nÿ1uŽNƒR=fTKQÌ‘s|šN=nãS„vÍ‘‰SKNN0"
+ 1_mangup_kalamita:0 "üfäSnfŒTaSÉbs|TX!X’W"
+ 1_mangup_kalamita_desc:0 "ú^.aSÉbs|TX!X’W=f:N†NÝO²b?–ôuÉb„v8f=nMQ×Síp±šNÛIe0Ù›N!X’WŒTKQÌ‘s|šNqS	qQT„gb†NåTyr‹slQÜ”™XÁ”ÁX,‚„v2–¡V0"
+ 1_turms:0 "jgS›s"
+ 1_turms_desc:0 ":N†Nôf	gHe„vÛLˆLˆ?eŒT›Q‹N¡rtÿåTyrlQýV«ˆRb†N11*NjgS›s0"
+ 1_cave_monasteries:0 "qSmÌ‘„vîOSb–"
+ 1_cave_monasteries_desc:0 "ê1WÏPÁkOW>m„vöeãNåNegÿˆVYckYe„vîOSëXeg0RÜb`S­^„vKQÌ‘s|šNÿú^.†NqSÎWŒTqSmÌ‘„vîOSb–ÿvQ-NgW„T„v=faSÉbs|yrD–Ñ„v1WKQ±ƒ’‚yrîOSb–0"
+
+  EDG_merchant_aristocracy_reform:0 "åTyrÆ–CgFUN^ýV"
+  EDG_merchant_aristocracy_reform_desc:0 "¸‹YýBlFUN)R¦m„výV¶RŽVŽVý	gN*Nôf ROPTŽNqQŒT„v?eœ^0wåTyrýV¦^„vßu»lwìN,g«Ž1Sþf=fÑyFzR‹sg»lN„vFUºNÿÖNìNµc6R†NKQÌ‘s|šN„všRES¹pv^åN¥cÑTIN6R„v¹eVßu»l±Ì‘0\n°s(WåTyr^ýVòT6qÍ‘uÿÓuTIƒŸS‘—|—ŒTz¥Sâl¯eºN„v8f?eVrÿú^Ëz†N^SŽNêñT„vFUNSOû|ÿ=fðy8—NLu„vFUN^ýV0"
+  ability_EDG_FEO_mechanic:0 "^ýVcäN"
+  FEO_adm_power:0 "…Q?e<P"
+  FEO_dip_power:0 "Y²N<P"
+  FEO_mil_power:0 "›Q‹N<P"
+  FEO_adm_power_mechanic:0 "…Q?e»lt"
+  FEO_dip_power_mechanic:0 "FUNY²N" 
+  FEO_mil_power_mechanic:0 "›Q‹NŒcµc"
+  FEO_adm_power_mechanic_desc:0 "…Q?e»lt"
+  FEO_dip_power_mechanic_desc:0 "FUNY²N" 
+  FEO_mil_power_mechanic_desc:0 "›Q‹NŒcµc"
+
+  EDG_EDG_FEO_mil_Reform:0 "^ýV®‹O"
+  EDG_EDG_FEO_mil_Reform_desc:0 "^ýV®‹OÿjO:NýV¶R»lt„vÍ‘‰:g„gÿGlZw†NT¹eãNhˆÿb‹NwYCQ„vðXó—N)RÊv0(WÙÌ‘ÿÀoÈp„v©º‹Nñm`ŸqQ†„v³QVr²NÇuÿqQTQX.NwýV¶R„v*geg0®‹O„vÏkN!k¨‹º‹ÿý=fùRCg›RN1ûN„vñmIR¡RÆ‰ÿâeÍS.f†N>yO„vggÿmNíc:y†N†SòS„vÕuù0(WRO„v®‹O'Y…S-NÿegêNTÌwof„v®‹XTìNÿ©wNwºNl„váOûNÿªR›RýBlôflQck0Aucƒ„v>yO0"
+  ability_EDG_FEO_mil_mechanic:0 "›QâV®‹O"
+  FEO_adm_power_1:0 "ëXl<P" 
+  FEO_dip_power_1:0 "²QûQ<P"
+  FEO_mil_power_1:0 "kp›R<P"
+  FEO_adm_power_1_mechanic:0 "Æ‰‰k‚YRV"
+  FEO_dip_power_1_mechanic:0 "¿R‚Y4xùz"
+  FEO_mil_power_1_mechanic:0 "dÆwàVÃV"
+  FEO_adm_power_1_mechanic_desc:0 "Æ‰‰k‚YRV"
+  FEO_dip_power_1_mechanic_desc:0 "¿R‚Y4xùz"
+  FEO_mil_power_1_mechanic_desc:0 "dÆwàVÃV"
+
+
+
+  EDG_FEO_at_least_10_production_income:0 "egê§YuµN§!„vg6eeQóS:N§Y25.0§!0"
+  FEO_FORMING_BYZANTIUM_GIVES_US_RULER_STATS_1:0 "SVbìNbËz@FEO§YNWlš§!„vöeP,bìNßu»lwO	Nôu§G+1§!"
+  EDG_FEO_A1_5_tooltip_1:0 "ŒRbûN¡RMR¾0R§Y^ýV§!"
+  EDG_FEO_A1_5_tooltip_2:0 "ŒRbûN¡RMRv^*g¾0R§Y^ýV§!"
+  EDG_FEO_C1_2_tooltip_1:0 "ŒRbûN¡RMR@AZO§YjgaS¯e§!òTÏuNXR(W"
+  EDG_FEO_C1_2_tooltip_2:0 "ŒRbûN¡RMR‚Yœg(W@AZO§YjgaS¯e§!b‰N-NÖS—V§G95§!RbìNSOçub§YjgaS¯e§!"
+  EDG_FEO_D1_2_tooltip:0 "(W§YN'k'YIƒŸS§!0W:SÏkåb	gN*N'YIƒŸS0WbVbìN·ƒ—VTIN¹ppe§G5§!"
+  EDG_FEO_E1_1_tooltip:0 "§T‹NöNMR»wÿ§!\nbìNïSåN	ébûRŒb‘—|—ºN„v.^©RÿbwbìNê›Rôfu"
+
+  EDG_FEO_C1_6_tooltip_1:0 "‚YœgbìNåb	g§YWlš§!jO:N8hÃVwýN"
+  EDG_FEO_C1_6_tooltip_2:0 "‚YœgbìN*gåb	g§YWlš§!jO:N8hÃVwýN"
+
+  EDG_FEO_pronoia_subject_type:0 "åTyr›QâV"
+  EDG_FEO_pronoia_subject_type_long_desc:0 "åTyr›QâVãNhˆNwNMOS›QN‡v^KNô•„vQY¦u0‡v^ˆcˆNS›QïSåNN­ˆTÿf„vW0WÿwS›QR	g1ûNÄuú^›Q–v^(Wb‰N-N:N‡v^He›R0›QâV(W	gÅV‰„vagöNNOôv¥c6eÞV0"
+  is_EDG_FEO_pronoia_subject_type:0 "=fåTyr›QâV"
+  EDG_FEO_pronoia_subject_type_is_our:0 "$NAME|Y$=fbìN„våTyr›QâV"
+  EDG_FEO_pronoia_subject_type_title:0 "åTyr›QâV"
+  EDG_FEO_pronoia_subject_type_title_plural:0 "åTyr›QâV"
+
+  EDG_FEO_pronoia_subject_create:0 "ú^Ëz›QâV"
+  EDG_FEO_pronoia_subject_create_tooltip:0 "ú^Ëz§G[From.GetName]§!›QâV\nbìNOKˆN^SýVNy˜îOck§Y°etQ›QâV§!ÿîOckXR(W15t^ÿŒRbûN¡RTíuîOck)íwó§G10§!t^ÿCNó§G5§!t^ÿîOckOÐc›O\nF–›QëXlîOckÿ§G+5%§!\nF–›QÄ‰!jNP–ÿ§G+6§!"
+  EDG_FEO_pronoia_subject_create_title:0 "ú^Ëz›QâV"
+  EDG_FEO_pronoia_subject_create_desc:0 "`OnxšR‰(W§Y[From.GetName]§!ú^Ëz›QâVTÿ\n\n§YåTyr›QâV§!=f§Y[FEO.GetName]§!O(u„vyrŠk^SýV0\n\nN*NýV¶Rck8^Å`µQNêSýwú^Ëz5*N`S(usQû|„våTyr›QâVÿŒRbûN¡RïSåNO›QâVpeÏ‘ibú^0R§G15§!*NNN`S(usQû|0\n\nåTyr›QâV=fNÍy:Nb‰Nwu„v^SýV0(W8^Å`µQNÿåTyr›QâVOOvQ—RINýV„vF–›QNP–§R-3§!ÿŒRbûN¡RsSïSûyd–debuffÿwNê&^§R+25%§!ìrËz>PT0dkYåTyr›QâVSO·ƒ—VNNîOckÿ\nè–±‚9ÿ§G-25.0%§!\nºN›RÐcØšÿ§G+5000§!\nýV¶RºN›Rb`Y¦^îOckÿ§G+33.0%§!\n8hÃVS±‚9ÿ§R+50.0%§!\n»ltb,gÿ§R+50.0%§!\nbìNOKˆN^SýVNy˜îOck§Y°etQ›QâV§!ÿîOckXR(W15t^ÿŒRbûN¡RTíuîOck)íwó§G10§!t^ÿCNó§G5§!t^ÿîOckOÐc›O\nF–›QëXlîOckÿ§G+5%§!\nF–›QÄ‰!jNP–ÿ§G+6§!"
+
+  EDG_FEO_annexationaction:0 "ÞV6e†˜0W"
+  EDG_FEO_annexationaction_tooltip:0 "ÞV6e§G[From.GetName]§!†˜0W,Ù7hZPSOcbd–§R-3§!3zšRÿ§R-20§!Zgÿôv¥cçub[From.GetName]"
+  EDG_FEO_annexationaction_title:0 "ÞV6e†˜0W"
+  EDG_FEO_annexationaction_desc:0 "nxšR‰ÞV6e[From.GetName]„v†˜0W†˜0WTÿÙ7hZPSOcbd–§R-2§!3zšRÿ§R-10§!Zgÿôv¥cçub[From.GetName]"
+
+  EDG_FEO_annexationaction_plus:0 ":V6RTv^"
+  EDG_FEO_annexationaction_plus_title:0 ":V6RTv^"
+  EDG_FEO_annexationaction_plus_desc:0 ":V6RTv^§G[From.GetName]§!†˜0W,Ù7hZPSOcbd–§R-5§!3zšRÿ§R-30§!Zgÿôv¥cçub[From.GetName]"
+  EDG_FEO_annexationaction_plus_tooltip:0 ":V6RTv^§G[From.GetName]§!†˜0W,Ù7hZPSOcbd–§R-5§!3zšRÿ§R-30§!Zgÿôv¥cçub[From.GetName]"
+
+  EDG_FEO_trade_subject_type:0 "åTyr8fÎW¦"
+  EDG_FEO_trade_subject_type_title:0 "åTyr8fÎW¦"
+  EDG_FEO_trade_subject_type_title_plural:0 "åTyr8fÎW¦"
+  is_EDG_FEO_trade_subject_type:0 "=fåTyr8fÎW¦"
+  EDG_FEO_trade_subject_type_long_desc:0 "jO:N:N†NýwmY8fKN)R¦mwbËz„vÎW¦ÿÙÍySO6R„vËe?eZw&qŽNµc6RFUÁTŒTÏuNmCgÊv0"
+  EDG_FEO_trade_subject_type_is_our:0 "$NAME|Y$=fbìN„våTyr8fÎW¦"
+
+  EDG_FEO_trade_plus_subject_type:0 "åTyr8flQøS†˜"
+  EDG_FEO_trade_plus_subject_type_title:0 "åTyr8flQøS†˜"
+  EDG_FEO_trade_plus_subject_type_title_plural:0 "åTyr8flQøS†˜"
+  is_EDG_FEO_trade_plus_subject_type:0 "=fåTyr8flQøS†˜"
+  EDG_FEO_trade_plus_subject_type_long_desc:0 "jO:N:N†NýwmY8fKN)R¦mwbËz„vlQøS†˜ÿÙÍySO6R„vËe?eZw&qŽNµc6RFUÁTŒTÏuNmCgÊvÿv^Nåb	gNšR„v›Q‹NSOû|egùR—b8f‰N8—0"
+  EDG_FEO_trade_plus_subject_type_is_our:0 "$NAME|Y$=fbìN„våTyr8flQøS†˜"
+
+  EDG_FEO_vassal:0 "eR:Y^SýV0WMO"
+  EDG_FEO_vassal_title:0 "eR:Y0WMO"
+  EDG_FEO_vassal_desc:0 "nxšR‰eR:Y[From.GetName]0WMOTÿÿÙ7hZPOSƒRØS:Nnf^SýVNO^SýV§R+25%4ngìrËz>PT§!"
+  EDG_FEO_vassal_tooltip:0 "eR:Y§G[From.GetName]§!0WMOÿÙ7hSƒRØS:Nnf^SýVNO^SýV§R+25%4ngìrËz>PT§!"
+
+  EDG_FEO_trade_subject_type_create:0 "ú^ËzåTyr8fÎW¦"
+  EDG_FEO_trade_subject_type_create_title:0 "ú^ËzåTyr8fÎW¦"
+  EDG_FEO_trade_subject_type_create_desc:0 "`OnxšR‰(W§Y[From.GetName]§!ú^ËzåTyr8fÎW¦Tÿ\n\n§YåTyr8fÎW¦§!=f§Y[FEO.GetName]§!O(u„vyrŠk^SýV0\n\nú^Ëz§G[From.GetName]§!åTyr8fÎW¦±‚9§R100Ñ‘^§!ÿ§R50Y²N¹p§!ÿbìNêSýw(WSŽN4*NÎW^„výV¶Rú^Ëz0\n\nÖNO:NbìNÐc›O\nF–›QNP–ÿ§G+1§!\n8fHe‡sÿ§G+0.01§!\nhQýVºN›Rÿ§G+100§!\nhQýV4lKbÿ§G+100§!\nwm›QNP–ÿ§G+1§!\nhQNSFUÁTµNúQîOckÿ§G+0.01§!"
+  EDG_FEO_trade_subject_type_create_tooltip:0 "ú^Ëz§G[From.GetName]§!åTyr8fÎW¦±‚9§R100Ñ‘^§!ÿ§R50Y²N¹p§!ÿbìNêSýw(WSŽN4*NÎW^„výV¶Rú^Ëz0"
+
+  EDG_FEO_trade_plus_subject_type_create:0 "ú^ËzåTyr8flQøS†˜"
+  EDG_FEO_trade_plus_subject_type_create_title:0 "ú^ËzåTyr8flQøS†˜"
+  EDG_FEO_trade_plus_subject_type_create_desc:0 "`OnxšR‰(W§Y[From.GetName]§!ú^ËzåTyr8flQøS†˜Tÿ\n\n§YåTyr8flQøS†˜§!=f§Y[FEO.GetName]§!O(u„vyrŠk^SýV.\n\nú^Ëz§G[From.GetName]§!åTyr8fÎW¦±‚9§R100Ñ‘^§!ÿ§R50Y²N¹p§!0\nú^Ëz§G[From.GetName]§!åTyr8fÎW¦±‚9§R500Ñ‘^§!ÿ§R100Y²N¹p§!0\n\nÖNO:NbìNÐc›O\nF–›QNP–ÿ§G+1§! \n8fHe‡sÿ§G+0.01§! \nhQýVºN›Rÿ§G+100§! \nhQýV4lKbÿ§G+100§! \nwm›QNP–ÿ§G+1§!\nhQNSFUÁTµNúQîOckÿ§G+0.01§!0\n\n‚YœglQøS†˜„vÎW^peÏ‘¾0R10*NöeHeœgžX:V0"
+  EDG_FEO_trade_plus_subject_type_create_tooltip:0 "ú^Ëz§G[From.GetName]§!åTyr8fÎW¦±‚9§R500Ñ‘^§!ÿ§R100Y²N¹p§!0\n\nÖNO:NbìNÐc›O\nF–›QNP–ÿ§G+1§! \n8fHe‡sÿ§G+0.01§! \nhQýVºN›Rÿ§G+100§! \nhQýV4lKbÿ§G+100§! \nwm›QNP–ÿ§G+1§!\nhQNSFUÁTµNúQîOckÿ§G+0.01§!0\n\n‚YœglQøS†˜„vÎW^peÏ‘¾0R10*NöeHeœgžX:V0"
+  EDG_FEO_trade_subject_type_create_1_tooltip:0 "N*N0W:SêSýwXR(WTN*Nå‹‰|‹W„v^SýV„v–™ý0"
+
+  EDG_FEO_all_power:0 "N4!ÁT"
+  EDG_FEO_all_power_title:0 "N4!ÁT"
+  EDG_FEO_all_power_desc:0 "`OnxšR‰©‹§Y[From.GetName]§!N4!ÁTTÿ\nbìNSOžX RùR^SýV„vsQz§G+10§!,§Y[From.GetName]§!O·ƒ—VcíuNt^„v§R+10%4ngìrËz§!"
+  EDG_FEO_all_power_tooltip:0 "bìNSOžX RùR^SýV„vsQz§G+10§!,§Y[From.GetName]§!O·ƒ—VcíuNt^„v§R+10%4ngìrËz§!"
+
+  EDG_FEO_DIP_tariff:0 "Y²NÁwë"
+  EDG_FEO_DIP_tariff_title:0 "Y²NÁwë"
+  EDG_FEO_DIP_tariff_desc:0 "`OnxšR‰Y²NÁwë§Y[From.GetName]§!˜YN4!ÁTTÿ\nbìNSOžX RùR^SýV„vsQz§G+10§!,§Y[From.GetName]§!O·ƒ—VcíuNt^„v§R+10%4ngìrËz§!"
+  EDG_FEO_DIP_tariff_tooltip:0 "bìNSOžX RùR^SýV„vsQz§G+10§!,§Y[From.GetName]§!O·ƒ—VcíuNt^„v§R+10%4ngìrËz§!"
+
+  EDG_FEO_MIL_tariff:0 "›Q‹NÝO²b"
+  EDG_FEO_MIL_tariff_title:0 "›Q‹NÝO²b"
+  EDG_FEO_MIL_tariff_desc:0 "`OnxšR‰›Q‹NÝO²bÿ©‹§Y[From.GetName]§!˜YN4!ÁTTÿ\nbìNSOžX RùR^SýV„vsQz§G+10§!,§Y[From.GetName]§!O·ƒ—VcíuNt^„v§R+10%4ngìrËz§!"
+  EDG_FEO_MIL_tariff_tooltip:0 "bìNSOžX RùR^SýV„vsQz§G+10§!,§Y[From.GetName]§!O·ƒ—VcíuNt^„v§R+10%4ngìrËz§!"
+
+  EDG_FEO_E2_1_tooltip_1:0 "ˆcˆN^l:V6R—RYeùRÝ‹sSïSŒRbûN¡Rÿå‹‹NöNïSåN©‹bìNÝOYuSVMR—RYebwˆvOvQÖN—RYe"
+  EDG_FEO_E2_2_tooltip_1:0 "	éb¹RÍVï¿u"
+  EDG_FEO_E2_2_tooltip_2:0 "	éb.OYeï¿u"
+
+  EDG_FEO_D2_1_tooltip_1:0 "=T(uGYÂ‰§Y(„±ƒÎW§!"
+  EDG_FEO_D2_1_tooltip_2:0 "=f@FEO§Y[FEO.GetName]§!ŒRbûN¡R§Yú^ËzÙzdû|ßu§!"
+
+  EDG_FEO_B2_1_tooltip:0 "=T(u^SýV§YåTyr8fÎW¦§!ÿbìNêSýwÙuSŽN4WWwýN„v^SýVlbc‰|‹W0"
+  EDG_FEO_B2_2_tooltip:0 "=T(u^SýV§YåTyr8flQøS†˜§!ÿbìNêSýwÐcÔb§YåTyr8fÎW¦§!b:N§YåTyr8flQøS†˜§!0\n=T(uã‰•ÐcGS^SýVýw›R„v³Q®‹0"
+  EDG_FEO_all_power_flag_tooltip:0 "å‹	y˜=fN!k'`	y˜ÿïSåNÐcØš§YåTyr8flQøS†˜§!ŒT§YåTyr8flQøS†˜§!peÏ‘0"
+  EDG_FEO_trade_subject_type_create_flag_tooltip:0 "å‹	y˜=fN!k'`	y˜ÿïSåN©‹8f^SýVÐc›O!ÁT0"
+  EDG_FEO_B2_2_decision_title:0 "sQŽN8flQøS†˜ÊSvQÎW¦„v¨‹º‹"
+  EDG_FEO_B2_2_decision_desc:0 "sQŽN8flQøS†˜ÊSvQÎW¦„v¨‹º‹"
+  EDG_FEO_C2_3_tooltip:0 "§YŒteN^SýVsQû|§!Ì‘„v§YèrÑvßR˜R§!’N¨RNb—‰„v¹ppeÏQS0"
+  EDG_FEO_C2_2_tooltip:0 "žX R§Y8f^SýV§!„v§Y,g0WFUÁTµNúQ§!0"
+  EDG_FEO_C4_1_tooltip:0 "=T(u^SýV§TåTyr›QâV§!"
+  EDG_FEO_B4_1_tooltip:0 "dk	y˜:NN!k'`	y˜"
+  EDG_FEO_annexationaction_10_flag_tooltip:0 "STv^öeô•)íw0R10t^"
+  EDG_FEO_static_modifiers_B7_tooltip:0 "§GåTyr›QâV§!SN`SY²NsQû|"
+  EDG_FEO_static_modifiers_B2_tooltip:0 "§GåTyr›QâV§!SNOcbd–—RIN„vF–›QNP–"
+  EDG_FEO_static_modifiers_B4_tooltip:0 "§GåTyr›QâV§!SOÙu—RINÐc›OºN›RNP–"
+  EDG_FEO_static_modifiers_B5_tooltip:0 "§GåTyr›QâV§!SOÙu—RINÐc›OºN›Rb`Y¦^"
+  EDG_FEO_static_modifiers_A1_tooltip:0 "ÏQS§GåTyr›QâV§!ìrËz>PT"
+  EDG_FEO_static_modifiers_A3_tooltip:0 "§GåTyr›QâV§!SO+5­‹"
+  EDG_FEO_static_modifiers_B3_tooltip:0 "§GåTyr›QâV§!SOÙu—RINÐc›OF–›Q.Oßu"
+  EDG_FEO_static_modifiers_B6_tooltip:0 "§GåTyr›QâV§!SOÙu—RINÐc›OeˆXTHe‡s"
+  EDG_FEO_annexationaction_stability_flag_tooltip:0 "Tv^›Q:SO˜Y·ƒ—V13zšR"
+  EDG_FEO_B4_1_tooltip_1_1:0 "§T‹NöNMR»wÿ§!\nÙ›N‹NöNïSåN©‹bìNÎNNT„vôu¦^ R:V^SýVÿbw)R(u^SýVÍSúTêñT0"
+
+  EDG_FEO_A4_2_decision_title:0 " R:VŒcµcåTyr›QâV"
+  EDG_FEO_A4_2_decision_desc:0 " R:VŒcµcåTyr›QâV"
+
+  EDG_FEO_B4_3_decision_title:0 "ˆcˆNåTyr›QâVyrCg"
+  EDG_FEO_B4_3_decision_desc:0 "ˆcˆNåTyr›QâVyrCg"
+
+  FEO_dip_power_mechanic_tooltip:0 ":NNb	g^SýVžX R§G+10§!sQz"
+  EDG_FEO_C4_2_tooltip:0 "S›Q:SibÛb0R§G15§!*N"
+  EDG_FEO_E2_3_flag_tooltip:0 "bìNSžX'Yê6q9eØS‡eS‚i‡s"
+  EDG_FEO_E2_2_flag_tooltip:0 "bìNSQ!kžX'Yê6q9eØS‡eS‚i‡s"
+  EDG_FEO_empire_1:0 "'YLkyr<SšN"
+  EDG_FEO_empire_1_ADJ:0 "'YLkyr<SšN"
+
+  EDG_FEO_C1_5_decision_1_title:0 "Í‘°sNWlš^ýV"
+  EDG_FEO_C1_5_decision_1_desc:0 "Í‘°sNWlš^ýV"
+
+  EDG_FEO_C1_5_decision_2_title:0 "ú^Ëz'YLkyr<SšN"
+  EDG_FEO_C1_5_decision_2_desc:0 "ú^Ëz'YLkyr<SšN"
+
+  EDG_FEO_subject_type_upgrades_1:0 "ÝuùRHeàV"
+  EDG_FEO_subject_type_upgrades_2:0 "žX R!Ñ‘"
+  EDG_FEO_subject_type_upgrades_3:0 "ib'YuQneˆÙu"
+  EDG_FEO_subject_type_upgrades_4:0 "èrÑvßR˜R"
+  EDG_FEO_subject_type_upgrades_5:0 "AQ¸‹ib'YµNúQ"
+
+  EDG_FEO_static_modifiers_B1:0 "cbd–—RINNP–"
+  EDG_FEO_static_modifiers_B2:0 "žX R—RINNP–"
+  EDG_FEO_static_modifiers_B3:0 "žX R—RINF–›Q.Oßu"
+  EDG_FEO_static_modifiers_B4:0 "žX R—RINºN›RîOckNP–"
+  EDG_FEO_static_modifiers_B5:0 "žX R—RINºN›Rb`Y¦^"
+  EDG_FEO_static_modifiers_B6:0 "žX R—RINeˆXT¦^"
+  EDG_FEO_static_modifiers_B7:0 "^SýVNQ`S(usQû|"
+
+  EDG_FEO_static_modifiers_C1:0 "8fÎW¦AQ¸‹ib'YFUÁTµNúQ"
+  EDG_FEO_static_modifiers_C2:0 "8fÎW¦úV	gpe<P"
+  EDG_FEO_static_modifiers_C3:0 "8flQøS†˜úV	gpe<P"
+
+  EDG_FEO_static_modifiers_D1:0 "8fÎW¦úWNxÙuˆNîOck"
+  EDG_FEO_static_modifiers_D2:0 "8flQøS†˜úWNxÙuˆNîOck"
+
+
+  EDG_FEO_all_power_modifier:0 "N4!ÁT"
+  EDG_FEO_all_power_modifier_dip:0 "Y²NÁwë"
+  EDG_FEO_all_power_modifier_mil:0 "›Q‹NÝO²b"
+  EDG_FEO_E1_5_modifier:0 "VgW“^üfø‹ýV"
+  EDG_FEO_E1_4_modifier:0 "KQÌ‘ÆY—g«RKNÅT"
+  EDG_FEO_C1_6_modifier:0 "Wlš"
+  EDG_FEO_D1_2_modifier:0 "IƒŸSKNÃV"
+  EDG_FEO_A1_5_modifier_1:0 "eQµO^ýV" 
+  EDG_FEO_C1_1_modifier:0 "¹r‚Y‰^ó"
+  EDG_FEO_B1_4_modifier:0 "Žs^âlpQ"
+  EDG_FEO_A1_4_modifier:0 "r^„˜aS^ÐcšN"
+  EDG_FEO_B1_3_modifier:0 "œ^X<SšNs^ŸS" 
+  EDG_FEO_B1_2_modifier:0 "èŠ,rBw=O³l"
+  EDG_FEO_A1_1_modifier:0 "ÉbNFUºN"
+  EDG_FEO_B2_1_modifier:0 "ú^Ëz8fÎW¦"
+  EDG_FEO_B2_2_modifier:0 "òTÛLˆ†N¨‹º‹"
+  EDG_FEO_D3_2_modifier:0 "b`YFU–šÙz"
+  EDG_FEO_E3_1_modifier:0 " RÎW^S"
+  EDG_FEO_E3_2_modifier_1:0 "¹RÍV"
+  EDG_FEO_E3_2_modifier_2:0 "TS"
+  EDG_FEO_C4_1_modifier:0 "°etQ›QâV"
+  EDG_FEO_B4_1_modifier_1:0 "VìS^SýVuQn"
+  EDG_FEO_B4_1_modifier_2:0 "KfGS^SýV›Q˜R"
+  EDG_FEO_C4_1_modifier_1:0 "°etQ›QâV"
+  EDG_FEO_annexationaction_plus_modifier:0 ":V6RTv^„vãN÷N"
+  EDG_FEO_C1_5_decision_2_modifier:0 "'YLkyr<SšN"
+
+
+
+
+
+  FEO_adm_power_mechanic_1:0 "…Q?e»lt"
+  FEO_dip_power_mechanic_1:0 "FUNY²N"
+  FEO_mil_power_mechanic_1:0 "›Q‹NŒcµc"
+  FEO_adm_power_1_mechanic_1:0 "Æ‰‰k‚YRV"
+  FEO_dip_power_1_mechanic_1:0 "¿R‚Y4xùz"
+  FEO_mil_power_1_mechanic_1:0 "dÆwàVÃV"

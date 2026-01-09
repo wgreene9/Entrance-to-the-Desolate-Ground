@@ -1,0 +1,30 @@
+﻿l_english:
+ EDG_VEN_personal_union:0 "9NYmTwßuýV"
+ EDG_VEN_personal_union_title:0 "9NYmTwßuýV"
+ EDG_VEN_personal_union_title_plural:0 "9NYmTwßuýV"
+ EDG_VEN_personal_union_long_desc:0 "9NYmTwßuýV=fNÍyyrŠk„vTwßuýVÿ(W=T(uhQè„vck8^„vTwßuýV:g6RN’N¨RKNYOÿ9NYmTwßuýVØïSåNT—RINýVlûy8fÞz‰N›R0ÖNìNOØž²‹ê¨RT—RINýVlûy50%„v8fÞz‰N›Rÿv^N—RINýVïSåNO(ulûy8fÞz‰N›R’N¨R‰BlÖNìNlûy100%„v8fÞz‰N›R0d–dkKNYÿ9NYmTwßuýVØOžX R9NYm¶RÏeŒcµc›R0"
+ EDG_VEN_personal_union_is_our:0 "$NAME|Y$=fbìN„vN*N§M9NYmTwßuýV§!"
+
+ EDG_VEN_trade_state:0 "Z<S¯e8fO4O"
+ EDG_VEN_trade_state_title:0 "Z<S¯e8fO4O"
+ EDG_VEN_trade_state_title_plural:0 "Z<S¯e8fO4O"
+ EDG_VEN_trade_state_long_desc:0 "Z<S¯e8fO4O=fNÍyyrŠk„v8fÝO²býV|Qg!ýVÿZ<S¯e8fO4OOT—RINýVN²N!ÁTÊSlûy8fÞz‰N›RåNbcÖS—RINýVùRvQ„vÝO²b0(W=T(uhQè„vck8^„v8fÝO²býVNg!ýV’N¨RKNYOÿZ<S¯e8fO4OïSåN«ˆìS2U ReQ—RIN„vb‰N0ìS2UZ<S¯e8fO4O ReQb‰N—‰N!k'`±‚9100¹p‹YaÿSV‹Ya¦^NOŽN100öeÿ—RINSàeÕlìS2UZ<S¯e8fO4O ReQb‰N0dkYÿZ<S¯e8fO4OØOžX RZ<S¯e8fWÛvof0"
+ EDG_VEN_trade_state_is_our:0 "$NAME|Y$=fbìN„vN*N§MZ<S¯e8fO4O§!"
+
+ EDG_VEN_personal_union_state_action:0 "‰Blb:N9NYmTwßuýV"
+ EDG_VEN_personal_union_state_action_title:0 "‰Blb:N9NYmTwßuýV"
+ EDG_VEN_personal_union_state_action_desc:0 "‰Blb:N9NYmTwßuýV09NYmTwßuýV=fNÍyyrŠk„vTwßuýVÿ(W=T(uhQè„vck8^„vTwßuýV:g6RN’N¨RKNYOÿ9NYmTwßuýVØïSåNT—RINýVlûy8fÞz‰N›R0ÖNìNOØž²‹ê¨RT—RINýVlûy50%„v8fÞz‰N›Rÿv^N—RINýVïSåNO(ulûy8fÞz‰N›R’N¨R‰BlÖNìNlûy100%„v8fÞz‰N›R0d–dkKNYÿ9NYmTwßuýVØOžX R9NYm¶RÏeŒcµc›R0"
+ EDG_VEN_personal_union_state_action_tooltip:0 "‰Blb:N9NYmTwßuýV"
+ EDG_VEN_personal_union_state_action_alert_tooltip:0 "‰Blb:N9NYmTwßuýV"
+
+ EDG_VEN_trade_state_action:0 "‰Blb:N8fO4O"
+ EDG_VEN_trade_state_action_title:0 "‰Blb:N8fO4O"
+ EDG_VEN_trade_state_action_desc:0 "‰Blb:N8fO4O0Z<S¯e8fO4O=fNÍyyrŠk„v8fÝO²býV|Qg!ýVÿZ<S¯e8fO4OOT—RINýVN²N!ÁTÊSlûy8fÞz‰N›RåNbcÖS—RINýVùRvQ„vÝO²b0(W=T(uhQè„vck8^„v8fÝO²býVNg!ýV’N¨RKNYOÿZ<S¯e8fO4OïSåN«ˆìS2U ReQ—RIN„vb‰N0ìS2UZ<S¯e8fO4O ReQb‰N—‰N!k'`±‚9100¹p‹YaÿSV‹Ya¦^NOŽN100öeÿ—RINSàeÕlìS2UZ<S¯e8fO4O ReQb‰N0dkYÿZ<S¯e8fO4OØOžX RZ<S¯e8fWÛvof0"
+ EDG_VEN_trade_state_action_tooltip:0 "‰Blb:N8fO4O"
+ EDG_VEN_trade_state_action_alert_tooltip:0 "‰Blb:N8fO4O"
+
+ EDG_VEN_call_trade_state_into_wars:0 "ìS2U8fO4OÍT”^b‰N"
+ EDG_VEN_call_trade_state_into_wars_title:0 "ìS2U8fO4OÍT”^b‰N"
+ EDG_VEN_call_trade_state_into_wars_desc:0 "ìS2U8fO4OÍT”^b‰N0ìS2U8fO4OÍT”^b‰NN—‰ˆmwºNÅ`ÿÖSwãNKN„v=f—‰ˆmw‹Ya0ìS2U8fO4OÍT”^b‰N—‰ˆmw¹p100‹Ya0"
+ EDG_VEN_call_trade_state_into_wars_tooltip:0 "ìS2U8fO4OÍT”^b‰N"
+ EDG_VEN_call_trade_state_into_wars_alert_tooltip:0 "ìS2U8fO4OÍT”^b‰N"

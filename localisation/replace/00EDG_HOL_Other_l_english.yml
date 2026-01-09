@@ -1,0 +1,206 @@
+﻿l_english:
+ ability_EDG_HOL_market_ability:0 "^:Ws^3z<P"
+ ability_EDG_HOL_realtor_ability:0 "-NËNºN"
+ ability_EDG_HOL_speculate_ability:0 "•b:gÂríp¦^"
+ EDG_HOL_market_ability:0 "^:Ws^3z<P"
+ EDG_HOL_realtor_ability:0 "-NËNºN"
+ EDG_HOL_speculate_ability:0 "•b:gÂríp¦^"
+ EDG_HOL_market_power:0 "^:Ws^3z<P"
+ EDG_HOL_realtor_power:0 "-NËNºNºNpe"
+ EDG_HOL_speculate_power:0 "•b:gÂríp¦^"
+ monthly_EDG_HOL_speculate_power:0 "g¦^•b:gÂríp¦^"
+ monthly_EDG_HOL_market_power:0 "g¦^^:Ws^3z<P"
+ monthly_EDG_HOL_realtor_power:0 "g¦^-NËNºNºNpe"
+ EDG_HOL_realtor_interactions_1:0 "'t%`Qe^"
+ EDG_HOL_realtor_interactions_2:0 "µu¹Rál«l"
+ EDG_HOL_realtor_interactions_3:0 " R:Veˆ4"
+ EDG_HOL_realtor_interactions_1_desc:0 ""
+ EDG_HOL_realtor_interactions_2_desc:0 ""
+ EDG_HOL_realtor_interactions_3_desc:0 ""
+ EDG_HOL_market_power_gain_modifier:0 ""
+ EDG_HOL_realtor_power_gain_modifier:0 ""
+ AI_coptic_50_entry:0 "=fÑynfyrckYeýV¶R"
+ AI_orthodox_50_entry:0 "=fNckYeýV¶R"
+ AI_catholic_50_entry:0 "=f)YINYeýV¶R"
+ AI_Tribal_50_entry:0 "=f8ngrýV¶R"
+ EDG_HOL_market_power_desc:0 "åNNàV.tOüRô^:Ws^3z<P§GžX R§!:\n-ØšIrµu„v§MLˆ?eŒ˜î•§!\n-Øš§MÍ‘FUININ§!\n-Øš§MTINLˆ?eýw›R§!0\n\nåNNàV.tOüRô^:Ws^3z<P§RÏQS§!:\n-¡l	g§MLˆ?eŒ˜î•§!\n-NO§MTINLˆ?eýw›R§!\n\nåNNàV.tOüRô•b:gÂríp¦^§RžX R§!:\n-NO§MTINLˆ?eýw›R§!\n-Øš§RP%¦^§!\n-Øš§R7>kpeÏ‘§!0\n\nåNNàV.tOüRô•b:gÂríp¦^§GÏQS§!:\n-Øš§MTINLˆ?eýw›R§!\n-NO§RP%¦^§!"
+ EDG_HOL_flavor.2.aa_tt:0 "Óuœg1S=f¡w÷NNôvÌÿSìbwcw(W…Q„v'YèRºNýb†Ní—ÜƒÿPN"
+ EDG_HOL_flavor.2.bb_tt:0 "¡wlìN(Wè`mG•‹SKNTÿÁy•^NS¨`„v4YÏP‰R(W†N‘šuQ–•Nÿ–Twcwb:N†NR—òSYuT„v(uàQAS‘šuQ'Y4xàQCS¡wl„vOÀy‘šëX•ÿ	ÿ"
+ EDG_HOL_flavor.2.cc_tt:0 "aó`N0R„v=fck=fàV:NwcwNÂSNÓuœg¡whyES6qÍS9V†Nÿwcw–NÝOOO†NýV“^ÿ¡wlìNÿb0R†N±”0ïSœUïS:ïSœUïS:ÿd–†NYeëXìN	g¹pNána0"
+ EDG_HOL_flavor.3.aa_tt:0 "Óuœg1S=fŒ˜î•«ˆT'Yce7bìNuTImeRÿíwgKN…Q¡lºNbe•b:g†NÿýV“^bkmc†Nÿ^:W3zšR†Nÿ:cWán„vÿ	ÿ"
+ EDG_HOL_flavor.3.bb_tt:0 "Œ˜î•dRèlN·cpN†NN*NNw<w„v¡whyÿÓuœgES6qNÞ˜²Q)YÿÖNKcÞV†Nwcw„vðX‰ŠåNÊSêñT„vðX‰Šÿbÿ"
+ EDG_HOL_flavor.3.cc_tt:0 "wcweR:Y†N±¶RO„v4YTˆÿv^N™Q†NN,gëSZP«b=f‚YUOÎN¡w^yØSbí—Üƒ„v»„vfNÿÓuœgÙ,gfNTeg'YVSÿŒ˜î•ES6qýw`—Ùr±”Im„vÎ˜u4lw0"
+ EDG_HOL_tulip_bubble:0 "ÁÑ‘™™ál«l"
+ EDG_NED_ship_1:0 "<S·VpQ0‚–GSµuI"
+ EDG_NED_ship_2:0 "<S·VpQ0‚–GSµuII"
+ EDG_NED_ship_3:0 "<S·VpQ0‚–GSµuIII"
+ EDG_NED_ship_4:0 "<S·VpQ0‚–GSµuIV"
+ EDG_NED_ship_1_decision_title:0 "<S·VpQ0‚–GSµuI"
+ EDG_NED_ship_2_decision_title:0 "<S·VpQ0‚–GSµuII"
+ EDG_NED_ship_3_decision_title:0 "<S·VpQ0‚–GSµuIII"
+ EDG_NED_ship_4_decision_title:0 "<S·VpQ0‚–GSµuIV"
+ EDG_NED_ship_1_decision_desc:0 "<S·VpQ0‚–GSµuI"
+ EDG_NED_ship_2_decision_desc:0 "<S·VpQ0‚–GSµuII"
+ EDG_NED_ship_3_decision_desc:0 "<S·VpQ0‚–GSµuIII"
+ EDG_NED_ship_4_decision_desc:0 "<S·VpQ0‚–GSµuIV"
+ EDG_NED_ship_enable_flag_tt:0 "bìNSã‰•Nû|Rwm›Q›Q9e³Q®‹"
+ EDG_HOL_speculate_power_desc:0 ""
+ EDG_HOL_aggressive_decision_title:0 "'Y’d^Y²N"
+ EDG_HOL_aggressive_decision_desc:0 "'Y’d^Y²N"
+ EDG_NED_aggressive_flag_tt:0 "ˆmd–bìNNbµNu„vùR§M»ýV§!„vµOeuib.V25¹p"
+ EDG_HOL_barycenter_button_1.tt:0 "9eØSz6eÍ‘ÃV"
+ EDG_HOL_barycenter_button_2.tt:0 "9eØSºN›RÍ‘ÃV"
+ EDG_HOL_barycenter_button_3.tt:0 "9eØSuµNÍ‘ÃV"
+ EDG_NED_army_1:0 "<S·VpQF–›QGSµuI"
+ EDG_NED_army_2:0 "<S·VpQF–›QGSµuII"
+ EDG_NED_army_3:0 "<S·VpQF–›QGSµuIII"
+ EDG_NED_army_4:0 "<S·VpQF–›QGSµuIV"
+ EDG_NED_army_1_decision_title:0 "<S·VpQF–›QGSµuI"
+ EDG_NED_army_2_decision_title:0 "<S·VpQF–›QGSµuII"
+ EDG_NED_army_3_decision_title:0 "<S·VpQF–›QGSµuIII"
+ EDG_NED_army_4_decision_title:0 "<S·VpQF–›QGSµuIV"
+ EDG_NED_army_1_decision_desc:0 "<S·VpQF–›QGSµuI"
+ EDG_NED_army_2_decision_desc:0 "<S·VpQF–›QGSµuII"
+ EDG_NED_army_3_decision_desc:0 "<S·VpQF–›QGSµuIII"
+ EDG_NED_army_4_decision_desc:0 "<S·VpQF–›QGSµuIV"
+ EDG_NED_army_enable_flag_tt:0 "bìNSã‰•Nû|RF–›Q›Q9e³Q®‹"
+ EDG_HOL_mission_1_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§G^:Ws^3z<P§!S˜YÙuˆNbìNg'YÏQ§M20%§!„vú^.±‚9"
+ EDG_HOL_mission_2_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§G^:Ws^3z<P§!S˜YÙuˆNbìNg'Y R§M0.2§!„vFUÁTµNúQ"
+ EDG_HOL_mission_3_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§G^:Ws^3z<P§!S˜YÙuˆNbìNg'Y R§M20%§!„vFUÁTµNúQîOck"
+ EDG_HOL_mission_4_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§G^:Ws^3z<P§!S˜YÙuˆNbìNg'Y R§M20%§!„v8fHe‡s"
+ EDG_HOL_mission_5_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§G^:Ws^3z<P§!S˜YÙuˆNbìNg'Y R§M20%§!„v8fVüR"
+ EDG_HOL_mission_6_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§G^:Ws^3z<P§!S˜YÙuˆNbìNg'Y R§M20%§!„vhQNS8fÞz‰N›R"
+ EDG_HOL_mission_7_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§G^:Ws^3z<P§!S˜YÙuˆNbìNg'YÏQ§M10%§!„vÑyŽb±‚9"
+ EDG_HOL_mission_8_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§G^:Ws^3z<P§!S˜YÙuˆNbìNg'YÏQ§M10%§!„vtõV±‚9"
+ EDG_HOL_realtor_one_tt:0 "bìN„vÏk*N§MT—RYe§!wýNSO:NbìNÐc›O§M1§!*NUSMO„v§M-NËNºNºNpe§!"
+ EDG_HOL_province_var:0 "T—RYewýN"
+ EDG_HOL_realtor_interactions_1_used_value:0 "ÛbßR-NËNLˆ¨R!kpe"
+ EDG_NED_GET_government_power_decision_title:0 "ÛbßR-NËNºN"
+ EDG_NED_GET_government_power_decision_desc:0 ""
+ EDG_HOL_speculate_power_gain_modifier:0 ""
+ EDG_HOL_colony_flag_tt:0 "°s(W§G–klŒRb§!SÙuˆNbìN	N‰|¹ppe§Y3¹p§!ŒT§Y1§!Zg"
+ EDG_NED_win:0 "Üw)RRVeg"
+ EDG_NED_vloot:0 "ž^'Y0‚–"
+ EDG_NED_discovery:0 "¢c0töeô•0R"
+ EDG_HOL_GUOA:0 "œg?–=n"
+ EDG_NED_MOUNT:0 "SèqS:S2–¿u"
+ EDG_NED_EMPIRE:0 "ÍSûQ^ýV"
+ EDG_NED_indo_king:0 "°e	KNIN"
+ EDG_NED_india_king:0 "pS¦^KN‹s"
+ EDG_NED_VIET:0 "ŠWS„v0ÌR"
+ EDG_HOL_xjp:0 "°e RaWKNÅe"
+ EDG_NED_deccan:0 "·Vr^°eÀy"
+ EDG_NED_tulip_disaster:0 "ŒpT9e."
+ EDG_HOL_company_flag_tt:0 "°s(WSwýN ReQ§Y8flQøS§!SÏQSwýN§M10¹p§!R»yININ"
+ EDG_HOL_maerdaifu_tt:0 "bìNSZ<lšSãN+Y²NúQÖNìN„v›SS"
+ EDG_dutch_republic:0 "wƒpQqQŒT?eœ^"
+ EDG_dutch_republic_desc:0 ""
+ EDG_HOL_interactions_1_used_value:0 "'t%`Qe^’N¨RO(u!kpe"
+ EDG_HOL_interactions_2_used_value:0 "µu¹Rál«l’N¨RO(u!kpe"
+ EDG_HOL_interactions_3_used_value:0 " R:Veˆ4’N¨RO(u!kpe"
+ EDG_HOL_realtor_interactions_used_value:0 "ÛbßR-NËNºN³Q®‹O(u!kpe"
+ EDG_HOL_Tulip_end_flag_tt:0 "bìNòTÏuÎNÁÑ‘™™ál«l-Nb`Y"
+ EDG_HOL_BUTTOM_enable_flag_tt:0 "PSÿ	c®”(Wú^Qru˜b—„vNb—"
+ EDG_HOL_TIAO_tt:0 "•b:gÂríp¦^SÙuˆNbìN'YÏ‘§Rb—îOck§!ÿNÇbìNïSåNÇ§MûN¡R§!µbˆmèRîOck0"
+ EDG_HOL_TIAO_1_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§R•b:gÂríp¦^§!SNO˜YÙuˆNbìNg'YÏQ§R1§!„v^:Ws^3z<P"
+ EDG_HOL_TIAO_2_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§R•b:gÂríp¦^§!SNO˜YÙuˆNbìNg'Y R§R10%§!„v¹ppe±‚9"
+ EDG_HOL_TIAO_3_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§R•b:gÂríp¦^§!SNO˜YÙuˆNbìNg'YÏQ§R100%§!„vºN›Rb`Y¦^"
+ EDG_HOL_TIAO_4_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§R•b:gÂríp¦^§!SNO˜YÙuˆNbìNg'Y R§R5§!„vhQýVÛSqN¦^"
+ EDG_HOL_TIAO_5_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§R•b:gÂríp¦^§!SNO˜YÙuˆNbìNg'YÏQ§R0.2§!„vFUÁTµNúQ"
+ EDG_HOL_TIAO_6_flag_tt:0 "°s(WbìN„v?eœ^ýw›R§R•b:gÂríp¦^§!SNO˜YÙuˆNbìNg'YÏQ§R20%§!„v8fHe‡s"
+ EDG_NED_SPECULATE_TT:0 "nzzbìNNbåb	g„v§R•b:gÂríp¦^§!"
+ EDG_HOL_TIAO_end_flag_tt:0 "bìNòTÏund–†N•b:gÂríp¦^6*Nb—:g6R"
+ EDG_HOL_realtor_TWO_tt:0 "bìNSÎNhTôV„výV¶R·ƒ—VN›N-NËNºN"
+ EDG_HOL_BUTTON_VALUE_1:0 "wýN’N¨R§M9eØSz6eÍ‘ÃV§!O(u!kpe"
+ EDG_HOL_BUTTON_VALUE_2:0 "wýN’N¨R§M9eØSuµNÍ‘ÃV§!O(u!kpe"
+ EDG_HOL_BUTTON_VALUE_3:0 "wýN’N¨R§M9eØSºN›RÍ‘ÃV§!O(u!kpe"
+ EDG_HOL_BOJUE:0 "gT„v=O5r"
+ EDG_NED_WITH_FRA:0 "NÕlpQ‰„vËSŒ" 
+ EDG_HOL_FRA:0 "ìr8—wmáS"
+ EDG_HOL_mission_yes_tooltip:0 "‚YœgbìNNÏ‚<hpQ„v‹Ya¦^¾0R150ÿbìN1STÖNìNÑSúQ§GD–¸^§!Ž÷‹0"
+ EDG_HOL_mission_no_tooltip:0 "&TRÿbìNS·ƒ—VÖNìNW0W„v§G8hÃV§!"
+ EDG_HOL_WEIHAIZAOTIAN_TT:0 "bìN„vÏkN*Nán³agöN„vwýNýïSåN·ƒ—V‚YNîOckÿ"
+ EDG_HOL_peace:0 "wƒpQ»lN„vŒTs^"
+ EDG_HOL_colony:0 "ÛIe°e'YF–"
+ EDG_HOL_THAI:0 "Ïk*N‡eS:N§M¹fW§!„vwýNSÙuˆNbìN5¹p›Q‹N¹ppe"
+ EDG_HOL_GAIMING_TT:0 "ã‰•N*N³Q®‹ÿïSåNSbìN„vTWR9e:N§MTwT‹s QqQŒTýV§!"
+ EDG_HOL_shengfen_tt:0 "Ïk*N=fbìN§MýVYe§!„vwýNSÙuˆNbìN5¹p	N‰|¹ppe"
+ EDG_HOL_SELECTION_2_FLAG:0 "bìN	éb†N§MeQµOÕlpQ‰§!"
+ EDG_HOL_INVADE:0 "eQµOÕlpQ‰"
+ EDG_HOL_SHUGUO_tt:0 "Ïk*N^SýVSO:NbìNÐc›O§M10¹p§!Zgÿv^NYúQeg„vZgSOlS:Nøv”^„v¹ppe"
+ EDG_hol_home_name_1:0 "TwT‹s QqQŒTýV"
+ EDG_HOL_SELECTION_1_FLAG:0 "bìN	éb†N§M²N‹YÕlpQ‰§!"
+ EDG_HOL_GAIMING_decision_title:0 "SýVT9e:NTwT‹s QqQŒTýV"
+ EDG_HOL_CLOVE_TT:0 "bìNNbåb	g„vµNir:N§GN™™§!ŒT§G6ƒöS§!„vwýNýS:NbìNÐc›O1¹pÍ‘FUININŒT10Ñ‘±”"
+ EDG_HOL_SEVEN_COUNTRY:0 "°eNýVb‰N"
+ EDG_HOL_GAIMING:0 "òTã‰•³Q®‹ôf9eTWR"
+ EDG_HOL_ZONGJIZO:0 "ZSëX—RYe:S"
+ EDG_HOL_HONGLONG:0 "¢u™Ÿ"
+ EDG_NED_NANMEI_TT:0 "bìN(W RÒRÔkwm„vÏkN*N–kl†˜^SýV„vNb	gwýNOžX R§M1¹p§!uµN"
+ EDG_HOL_ADMIRAL_flag_TT:0 "SVbìNÛbßRwm›QS†˜öeÿïSåN·ƒ—V§M2¹p§!wm›Q.Oßu"
+ EDG_HOL_HAISHANG:0 "wmNlšf+Y"
+ EDG_LUJUNBAQUAN_TT:0 "M–NO†N±RðyF–›Q8—Cg„v‰Bl"
+ EDG_HOL_REVOLUTION:0 "wƒpQIQcƒi—‹T"
+ EDG_HOL_REVOLUTION_end_flag:0 "wƒpQIQcƒi—‹TòTÓumg"
+ EDG_HOL_REVOLUTION_start_flag:0 "wƒpQIQcƒi—‹TòTVËY"
+ EDG_HOL_REFORM_TT:0 "Œp¾–§RwƒpQIQcƒi—‹T§!òTÓumg"
+ EDG_HOL_GUNDAI:0 "ýVËz›Q–"
+ EDG_NED_KUOJUN_FLAG_TT:0 "SVbìNÛbßR§Gè–§!öeÿïSåN·ƒ—V§M5¹p§!Ñ‘±”"
+ EDG_HOL_flavor.12_TT:0 "§G‹NöNMR»wÿ§!\nÙ*N‹NöNSÙuˆNbìN	ébùR…VÕlpQ‰„v`¦^ÿNvQ²N‹Yÿ‘bb=fVgÕlpQ‰0"
+ EDG_HOL_MENGYOU_TT:0 "Ïk*N(W^y1WWlš^ýV…Qè„vßvËSSOÙuˆNbìN§G100¹p§!Y²N¹ppe"
+ EDG_HOL_MENGYOU:0 "(W^yW„vßvËS"
+ EDG_LOTA_YES_TT:0 "‚YœgmTX—g	TšNXR(WÿbìNSïSåN·ƒ—VTv^ÖNìN„vb‰Nt1u"
+ EDG_LOTA_NO_TT:0 "‚YœgmTX—g	TšNNXR(WÿbìNSOùR§GRÂˆúQeg„výV¶R§!ÑSúQgTRråNTv^ÖNìN"
+ EDG_HOL_MENGYOU_2_TT:0 "§G(W^yW„vßvËS§!ÙNîOckSÍ‘n:N50t^"
+ EDG_HOL_HRE_TT:0 "bìNSÎNT'Y	^¯OŒT‡v^-N—V0R§G¹ppe§!ŒT§G8f Rb§!"
+ EDG_HOL_MENGYOU_2:0 "ßvËS„vôc©R"
+ EDG_HOL_WEICHENG:0 "HQÛkp›RfRô‹"
+ EDG_HOL_PAOBING:0 "®puQâV"
+ EDG_HOL_HAIJUN_TT:0 "Nb	gán³agöN„vwýNýïSåN·ƒ—V‚YNîOck"
+ EDG_HOL_HAIJUN:0 "ëV„v9‚^W"
+ EDG_HOL_XIANGLIAO:0 "™™™e-NlÙz"
+ EDG_HOL_DONGFANG:0 "N¹e8f¹p"
+ EDG_HOL_sweep_away:0 "ˆmmpnm>m"
+ EDG_HOL_mucai:0 "(gPg8f"
+ EDG_HOL_mucai_TT:0 "bìN»lNNb	guµNíp&^(gPg„vwýNSO·ƒ—V§M1¹p§!úWNxuµN"
+ EDG_HOL_ZHIMING:0 "–klípno"
+ EDG_HOL_STATE_EDCIT_TT:0 "ã‰•ôv^SÞTÕläN§Gib'YSuµN§!"
+ edict_HOL_MAX_PRODUCTION:0 "ib'YSuµN"
+ EDG_HOL_BUJIZHONGXING:0 "eˆÙu-NÃV"
+ EDG_HOL_BUJIZHONGXING_TT:0 "Nb	gán³agöN„vwýNýïSåN·ƒ—VåNNîOck"
+ EDG_HOL_DIDI:0 "<S·VpQ‹s Q"
+ EDG_HOL_HUOYAO:0 "kpoƒÑv¡rèè•"
+ EDG_HOL_paobing_TT:0 "bìN„vÏkN*NuµN§GÁ”§!ŒT§GÜ”§!„vwýNýïSåN:NbìNÐc›O0.05®puQkp›RÿÅNP–SVMRNbåb	g„vwýN	ÿ"
+ EDG_HOL_SHUISHOU:0 "teT4lKb"
+ EDG_FENPEI_1_tt:0 ""
+ EDG_FENPEI_2_tt:0 ""
+ EDG_FENPEI_3_tt:0 ""
+ EDG_HOL_AFICA:0 "–kl^—2m"
+ EDG_HOL_GONGSI:0 "wƒpQNpS¦^lQøS"
+ EDG_HOL_XIANGYA:0 "aŒYrwm¸S8f"
+ EDG_NED_mission_issues_1:0 "Åib.VÕlHh"
+ EDG_NED_mission_issues_2:0 "–kl0WTSÕlHh"
+ EDG_NED_susume:0 "MRÛúW0W"
+ EDG_HOL_GBR_KING:0 "NR ˜KN‹s"
+ EDG_HOL_asm:0 "?–(„ÆYqS0Wb"
+ EDG_HOL_JUNSHILILUN:0 "tº‹:N‹s"
+ EDG_HOL_QISHIJS:0 "<S·VpQ‘šuQ"
+ EDG_HOL_TRADE:0 "„W­eñ‚	T)R"
+ EDG_HOL_TRADE_ENGLISH_TT:0 "bìN»lNNb	gMOŽNñ‚	T)RwmáS„vwýNSO·ƒ—V§M1¹p§!úWNxuµN"
+ EDG_HOL_IRE:0 "1rSpQQ`"
+ EDG_HOL_WEST_INDIA_TT:0 "Ïk*N(W‰pS¦^0W:S„vÑSUS¦^ØšŽNbwIrŽN§G5§!„vwýNS:NbìNÐc›O§G2000§!ºN›R"
+ EDG_HOL_YONGBING:0 ":V'YcOuQ"
+ EDG_HOL_MAOPI_TT:0 "bìN»lNÏkN*N(W Rÿb'Y0W:SNuµN§GÛk®v§!„vwýNO·ƒ—V§M1¹p§!úWNxuµNŒT8lENîOck"
+ unlock_issue_EDG_NED_mission_issues_1_tt:0 "ã‰•®‹Hh§MÅib.VÕlHh§!"
+ unlock_issue_EDG_NED_mission_issues_2_tt:0 "ã‰•®‹Hh§M–kl0WTSÕlHh§!"
+ EDG_HOL_GOUMAI_TT:0 "§G‹NöNMR»wÿ§!\nÙ*N‹NöNSÙuˆNbìN:gOTÕlpQ‰±‚9bìN500Ñ‘^-pNiOpQ·V"
+ EDG_HOL_BAOHU_TT:0 "§G‹NöNMR»wÿ§!\nÙ*N‹NöNSO©‹bìNûRBlÕlpQ‰„vìrËzÝOÁ‹"
+ EDG_HOL_tansuo:0 "¢c0t*gåw"
+ EDG_hol_home_name_1_ADJ:0 "TwT‹s QqQŒTýV"
+ EDG_NED_YIJIESUO_1_flag:0 "òTÏuã‰•1µuF–›Q›Q9e"
+ EDG_NED_YIJIESUO_2_flag:0 "òTÏuã‰•2µuF–›Q›Q9e"
+ EDG_NED_YIJIESUO_3_flag:0 "òTÏuã‰•3µuF–›Q›Q9e"
+ EDG_HOL_YIJIESUO_1_flag:0 "òTÏuã‰•1µuwm›Q›Q9e"
+ EDG_HOL_YIJIESUO_2_flag:0 "òTÏuã‰•2µuwm›Q›Q9e"
+ EDG_HOL_YIJIESUO_3_flag:0 "òTÏuã‰•3µuwm›Q›Q9e"
+ EDG_HOL_MAOPI:0 "Ûk®v8f"

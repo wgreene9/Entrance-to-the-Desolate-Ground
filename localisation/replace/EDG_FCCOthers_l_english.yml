@@ -1,0 +1,340 @@
+﻿l_english:
+ EDG_FCC_diplomatic_posture:0 "Y²NÿY`"
+ desc_EDG_FCC_diplomatic_posture:0 ""
+ EDG_FCC_army_support:0 "›Q‹N=ec"
+ desc_EDG_FCC_army_support:0 ""
+ EDG_FCC_ecomic_support:0 "ÏuNm=ec"
+ desc_EDG_FCC_ecomic_support:0 ""
+ EDG_FCC_new_winery:0 "°eR‘„^"
+ desc_EDG_FCC_new_winery:0 ""
+ EDG_FCC_annex_war:0 "|Qv^b‰N"
+ desc_EDG_FCC_annex_war:0 ""
+ EDG_FCC_wine_extra_modifier:0 "a„„R‘œQ:W"
+ desc_EDG_FCC_wine_extra_modifier:0 ""
+ EDG_FCC_lease_regulations:0 "ßyXwàzz"
+ desc_EDG_FCC_lease_regulations:0 "9hncTÕl‹s„vOSšRÿbìNïSåNê1u-pNÕl‹sƒX…Q„va„„R‘œQ:WÏu%„CgÿNÇagöN=fÅV‰˜úQYNrïSÂ‰„vDÑ‘bw(uŽNµb¼b„v0µNÿTöeÏkt^ý4³uNšR„vz6e0"
+ EDG_FCC_hre_lease_regulations:0 "ßyXwàzz"
+ desc_EDG_FCC_hre_lease_regulations:0 "9hncT‡v^„vOSšRÿbìNïSåN-pNN±ƒ5ƒ0W:S„vèRa„„R‘œQ:WÏu%„CgÿFOTöebìNÅV‰˜úQYNrïSÂ‰„vDÑ‘bw(uŽNµb¼b„v0µN01uŽNbìNàeÕlôv¥cµc6R^ýVƒX…Q„vÎW^ÿàVdkÎW^¡rtÍN6q=f1uSV0W„v^ýVLˆ?e:g„gÛLˆ¡rtÿÅN(WTINNRVD–ŽNbìN0"
+ EDG_FCC_wine_engineering:0 "a„„R‘åTz"
+ desc_EDG_FCC_wine_engineering:0 ""
+ EDG_FCC_expand_salt_fields:0 "ibUSÐv:W"
+ desc_EDG_FCC_expand_salt_fields:0 ""
+ EDG_FCC_festival_hall:0 "†^xQ'Y…S"
+ desc_EDG_FCC_festival_hall:0 ""
+ EDG_FCC_patron_of_art:0 "^©Rz‚=g"
+ desc_EDG_FCC_patron_of_art:0 ""
+ EDG_FCC_empiricism:0 "ÏuŒšININ"
+ desc_EDG_FCC_empiricism:0 ""
+ EDG_FCC_scientific_revolution:0 "ÑyfRi—‹T"
+ desc_EDG_FCC_scientific_revolution:0 ""
+ EDG_FCC_dynamic_court:0 "EQánIm›R„v«R÷^"
+ desc_EDG_FCC_dynamic_court:0 ""
+ EDG_FCC_print_culture:0 "pS7R‡eS"
+ desc_EDG_FCC_print_culture:0 ""
+ EDG_FCC_optimism:0 "PNÂ‰ININ"
+ desc_EDG_FCC_optimism:0 ""
+ EDG_FCC_expanded_policies:0 "ibEQ?eVr"
+ desc_EDG_FCC_expanded_policies:0 ""
+ estate_EDG_FCC_balanced_law_modifier:0 "ætÒR¦^>m>y:S"
+ desc_estate_EDG_FCC_balanced_law_modifier:0 "å‹wýN„vINAm—RYe:NætÒR¦^>mÿbìNbú‹:NvQÐc›O—RYe‡^²b„vTöeÿ>y:SmN”^SV:NbìNÐc›OôfY„vz6e0"
+ EDG_FCC_color_crown_modifier_1:0 "§T”NiV‹s Q§!§YI§!"
+ desc_EDG_FCC_color_crown_modifier_1:0 ""
+ EDG_FCC_color_crown_modifier_2:0 "§T”NiV‹s Q§!§YII§!"
+ desc_EDG_FCC_color_crown_modifier_2:0 ""
+ EDG_FCC_color_crown_modifier_3:0 "§T”NiV‹s Q§!§YIII§!"
+ desc_EDG_FCC_color_crown_modifier_3:0 ""
+ EDG_FCC_color_crown_modifier_4:0 "§T”NiV‹s Q§!§YIV§!"
+ desc_EDG_FCC_color_crown_modifier_4:0 ""
+ EDG_FCC_color_crown_modifier_5:0 "§T”NiV‹s Q§!§YV§!"
+ desc_EDG_FCC_color_crown_modifier_5:0 ""
+ EDG_FCC_color_crown_modifier_6:0 "§T”NiV‹s Q§!§YVI§!"
+ desc_EDG_FCC_color_crown_modifier_6:0 ""
+ EDG_FCC_color_crown_modifier_7:0 "§T”NiV‹s Q§!§YVII§!"
+ desc_EDG_FCC_color_crown_modifier_7:0 ""
+ EDG_FCC_color_crown_modifier_8:0 "§T”NiV‹s Q§!§YVII§!"
+ desc_EDG_FCC_color_crown_modifier_8:0 ""
+ EDG_FCC_color_crown_modifier_9:0 "§T”NiV‹s Q§!§YIX§!"
+ desc_EDG_FCC_color_crown_modifier_9:0 ""
+ EDG_FCC_color_crown_modifier_10:0 "§T”NiV‹s Q§!§YX§!"
+ desc_EDG_FCC_color_crown_modifier_10:0 ""
+
+ opinion_EDG_FCC_burgundy_alliance:0 "ÃRn‚,rTwßvbXT"
+ estate_EDG_FCC_balanced_law:0 "GWaˆÕläN"
+ estate_EDG_FCC_balanced_law_desc:0 "ætÒR¦^>mNb!PüR„vYeINùRŽNßu»l6–µuegô‹ASRñ‹ºNÿN¹eb—ÿvQNb!PüR„v+wz?aýwYÎNáO’V-NDdÖSôfY„v0ÌRÿæSN¹eb—ÿ¹eŠ±R²‹åNÊSs^áO’V„v±R²‹CgO—VvQ.O­dôf RëV0‹†ô‹ætÒR¦^>m(W2NŒvt^MR¿O«ˆSb:NVïzÿNÇbìNêS—‰±‚9N¹pS±”egùRYeO?eVr3–IY4–Ýÿ¿Oýw6e·ƒN*Nž^'Y—RYe>y:S²SO„v=ec0"
+ estate_EDG_FCC_balanced_law.event.tt:0 "§YætÒR¦^>m§!S§Y–:g§!(WbìN»lNwýN§Yib.V§!"
+ estate_EDG_FCC_balanced_law.effect.tt:0 "bìN»lNNb	g§T—RYe§!:N§YætÒR¦^>m§!„vwýN·ƒ—V‚YN§YîOck§!"
+ estate_EDG_FCC_ministry_of_economic_coordination:0 "ÏuNmßuyrè"
+ estate_EDG_FCC_ministry_of_economic_coordination_desc:0 "ÏuNmßuyrèèe(W:N‡v²R0µNÛLˆSbtÿTöeØ—‰ùR‡v²R„va„„µNNÛLˆÏu%„¡rtÿvQùR‡v²R„v0µNÛLˆ†N	gHe„v•bD¡rtÿFO‚Ydkž^'Y„v:g„g„vXR(W¿RÅVO RgRP%0"
+ estate_EDG_FCC_financial_support:0 "0?e=ec"
+ estate_EDG_FCC_financial_support_desc:0 "‡v²R¾–MQO	g:±”KNöeÿwdköeR—‰ÏuNmßuyrè„v5ÏeìNPúQNrDÑ‘eg¦^Ç¾–sQÿÕkßzÖNìNmNNó`1Sdk0N‰cÙýNåTjOÿ`ONr^I`	gºNOr^0"
+ estate_EDG_FCC_financial_support.tt:0 "·ƒ—V:Ng”Nt^„v§Y10§!r§Y0§!)Ro`7>k0SV7>kØnöeÿå‹yrCgSê¨Rûyd–0"
+ estate_EDG_FCC_monetary_management_policy:0 "'^¡rt?eVr"
+ estate_EDG_FCC_monetary_management_policy_desc:0 "NN„vºNZPNN„v‹NÿZ„v±”RV¡r±”„vÿASRTt0"
+ estate_EDG_FCC_organizing_celebration:0 "ÄuÇu†^xQ"
+ estate_EDG_FCC_organizing_celebration_desc:0 "ÏuNmßuyrè¡rtNw‡v²R„va„„R‘µNNÿàVdk‚YœgS†^xQyržRôv¥c²N1uvQÄuÇuS·ƒ—VôfØš„vHe‡sŒT(Ï‘ÿmN¸‹ÙOÛNek„vžX RvQÅbÿFON¹pSS„vVY±RmN¸‹ýwYs^o`ÖNìN„v±b(`0"
+ estate_EDG_FCC_knight_assessment_system:0 "‘šëXw8h6R¦^"
+ estate_EDG_FCC_knight_assessment_system_desc:0 ""
+
+ EDG_FCC_mission_1_15_modifier:0 "ÛvN)YX"
+ desc_EDG_FCC_mission_1_15_modifier:0 ""
+ EDG_FCC_mission_5_15_modifier:0 "WN¦hƒX"
+ desc_EDG_FCC_mission_5_15_modifier:0 ""
+ EDG_FCC_province_with_wine_great_project.tt:0 "åb	g§Ya„„R‘œQ:W§!§TGYÂ‰§!"
+ EDG_FCC_mission_1_15_modifier_copy:0 "ÛvN)YX"
+ desc_EDG_FCC_mission_1_15_modifier_copy:0 ""
+ EDG_FCC_mission_5_15_modifier_copy:0 "WN¦hƒX"
+ desc_EDG_FCC_mission_5_15_modifier_copy:0 ""
+
+ EDG_FCC_order_of_cabernet_sauvignon:0 "§Yd—às§!‘šëXâV‰š0W"
+ desc_EDG_FCC_order_of_cabernet_sauvignon:0 ""
+ EDG_FCC_order_of_chenin:0 "§Y‹v×‹WS§!‘šëXâV‰š0W"
+ desc_EDG_FCC_order_of_chenin:0 ""
+ EDG_FCC_order_of_cinsault:0 "§Y^y0t§!‘šëXâV‰š0W"
+ desc_EDG_FCC_order_of_cinsault:0 ""
+ EDG_FCC_order_of_sauvignon_blanc:0 "§Y‹vÏ‚ôuÁ§!‘šëXâV‰š0W"
+ desc_EDG_FCC_order_of_sauvignon_blanc:0 ""
+ EDG_FCC_order_of_chardonnay:0 "§Y—YKN§!‘šëXâV‰š0W"
+ desc_EDG_FCC_order_of_chardonnay:0 ""
+ EDG_FCC_order_of_pinot_noir:0 "§YÑžÔkú‹§!‘šëXâV‰š0W"
+ desc_EDG_FCC_order_of_pinot_noir:0 ""
+ EDG_FCC_order_of_riesling_noir:0 "§Y÷–øSäN§!‘šëXâV‰š0W"
+ desc_EDG_FCC_order_of_riesling_noir:0 ""
+
+ EDG_FCC_num_of_celebration:0 "†^xQ>NžR!kpe"
+
+ EDG_FCC_forge_color_crown_title:0 "@[Root.GetTag]I•.§T”NiV‹s Q§!"
+ EDG_FCC_forge_color_crown.effect.tt:0 "ã‰•³Q®‹ÿ0:N§T”NiV‹s Q§!v•LTRów0\n\n§YÎN°s(WVËY§!ÿÏk!k§Y>NLˆ†^xQ§!ýSÙuˆNbìN§Yv•LTRów§!åNGSµu§T”NiV‹s Q§!§YîOck§!„v:gO"
+ EDG_FCC_precious_stone_for_color_crown_title:0 "@[Root.GetTag]:N§T”NiV‹s Q§!v•LTRów"
+ EDG_FCC_precious_stone_for_color_crown.tt:0 "óS	gN!k§Yv•LTRów§!„v:gO"
+ EDG_FCC_precious_stone_for_color_crown_desc:0 ""
+ EDG_FCC_forge_color_crown_desc:0 ""
+ EDG_FCC_precious_stone_for_color_crown:0 ""
+ EDG_FCC_buy_wine_186_title:0 "@[Root.GetTag]-pN§Y[186.GetName]§!a„„R‘œQ:W"
+ EDG_FCC_buy_wine_186_desc:0 "‹†6qpQ¯e0W:S„va„„R‘µN:Sv^NúQOÿFOjO:NÕlpQ‰Sè:NpeNY„va„„R‘µN:Sÿó`ÅV*gegNšRïSåNÑSUS„vôf:NîX'Yÿ™™ßiR‘û•TŽNte*N'k2mÿTöemNêS	g™™ßi0W:SµNúQ„vÙÍya„„R‘ýw«ˆðy:N™™ßiÿÙµ^R‘„^=fbìNa„„‹s QNNïSb:„vNèRÿ"
+ EDG_FCC_buy_wine_174_title:0 "@[Root.GetTag]-pN§Y[174.GetName]§!a„„R‘œQ:W"
+ EDG_FCC_buy_wine_174_desc:0 "âlSYµN:SjO:NhQ'k2mg'Y„vO(a„„R‘µN:Sÿ‚YœgbìNó`‰'YÄ‰!j„vùW²w°eÁTÍy„va„„R‘ÿ±HNbìNÅV‰˜SÖN6eeQÊV-N0"
+ EDG_FCC_buy_wine_178_title:0 "@[Root.GetTag]-pN§Y[178.GetName]§!a„„R‘œQ:W"
+ EDG_FCC_buy_wine_178_desc:0 "bSætS³l7ŒµN:S=fÍyia„„†SòSg:N `EN„v0W:SKNNÿåb	g‚Ydk•^t…„vR‘„^NšRýwÙubìN„va„„‹s QžXr‚NS0"
+ EDG_FCC_buy_wine_2753_title:0 "@[Root.GetTag]-pN§Y[2753.GetName]§!a„„R‘œQ:W"
+ EDG_FCC_buy_wine_2753_desc:0 "jO:NeYKQ0W:Sg:NW„T„va„„R‘µN:Sÿå‹0W„va„„R‘&^	g›N¸‹„v0W-NwmÎ˜sTÿSvQ6eeQÊV-N¯wšRýwÙubìN„va„„‹s QžXr‚NS0"
+ 
+ EDG_FCC_buy_wine_4765_title:0 "@[Root.GetTag]-pN§Y[4765.GetName]§!a„„R‘œQ:W"
+ EDG_FCC_buy_wine_4765_desc:0 ""
+ EDG_FCC_buy_wine_74_title:0 "@[Root.GetTag]-pN§Y[74.GetName]§!a„„R‘œQ:W"
+ EDG_FCC_buy_wine_74_desc:0 ""
+ EDG_FCC_buy_wine_1761_title:0 "@[Root.GetTag]-pN§Y[1761.GetName]§!a„„R‘œQ:W"
+ EDG_FCC_buy_wine_1761_desc:0 ""
+ EDG_FCC_declare_war_with_ael_title:0 "@[Root.GetTag]ÑS¨RùR@AEL§Y[AEL.GetName]§!„vASWR›Q"
+ EDG_FCC_declare_war_with_ael_desc:0 ""
+
+ merc_EDG_FCC_order_of_sauviignon:0 "§Td—às§!‘šëXâV"
+ merc_EDG_FCC_order_of_cinsault:0 "§T^y0t§!‘šëXâV"
+ merc_EDG_FCC_order_of_pinot_noir:0 "§TÑžÔkú‹§!‘šëXâV"
+ merc_EDG_FCC_order_of_champagne:0 "§T™™ßi§!‘šëXâV"
+ merc_EDG_FCC_order_of_chenin_blanc:0 "§T‹v×‹WS§!‘šëXâV"
+ merc_EDG_FCC_order_of_sauvignon_blanc:0 "§T‹vÏ‚ôuÁ§!‘šëXâV"
+ merc_EDG_FCC_order_of_chardonnay:0 "§T—YKN§!‘šëXâV"
+ merc_EDG_FCC_order_of_riesling:0 "§T÷–øSäN§!‘šëXâV"
+
+ merc_EDG_FCC_order_of_sauviignon_modifier:0 "§Td—às§!‘šëXâVÿÆ–Óu"
+ desc_merc_EDG_FCC_order_of_sauviignon_modifier:0 ""
+ merc_EDG_FCC_order_of_cinsault_modifier:0 "§T^y0t§!‘šëXâVÿÆ–Óu"
+ desc_merc_EDG_FCC_order_of_cinsault_modifier:0 ""
+ merc_EDG_FCC_order_of_pinot_noir_modifier:0 "§TÑžÔkú‹§!‘šëXâVÿÆ–Óu"
+ desc_merc_EDG_FCC_order_of_pinot_noir_modifier:0 ""
+ merc_EDG_FCC_order_of_champagne_modifier:0 "§T™™ßi§!‘šëXâVÿÆ–Óu"
+ desc_merc_EDG_FCC_order_of_champagne_modifier:0 ""
+ merc_EDG_FCC_order_of_chenin_blanc_modifier:0 "§T‹v×‹WS§!‘šëXâVÿÆ–Óu"
+ desc_merc_EDG_FCC_order_of_chenin_blanc_modifier:0 ""
+ merc_EDG_FCC_order_of_sauvignon_blanc_modifier:0 "§T‹vÏ‚ôuÁ§!‘šëXâVÿÆ–Óu"
+ desc_merc_EDG_FCC_order_of_sauvignon_blanc_modifier:0 ""
+ merc_EDG_FCC_order_of_chardonnay_modifier:0 "§T—YKN§!‘šëXâVÿÆ–Óu"
+ desc_merc_EDG_FCC_order_of_chardonnay_modifier:0 ""
+ merc_EDG_FCC_order_of_riesling_modifier:0 "§T÷–øSäN§!‘šëXâVÿÆ–Óu"
+ desc_merc_EDG_FCC_order_of_riesling_modifier:0 ""
+
+ EDG_FCC_wine_lord:0 "a„„R‘†˜IN"
+ EDG_FCC_wine_lord_desc:0 ""
+ EDG_FCC_wine_lord.effect.tt:0 "bìN»lN§TµNir§!:N§Ya„„R‘§!„vwýN·ƒ—V‚YNHeœgÿ\n§G+100%§!uµNHe‡s\n§G-25%§!ÑSUSb,g\n§G-1§!SV0WÛSqN"
+ EDG_FCC_grape_kingdom:0 "a„„‹sýV"
+ EDG_FCC_grape_kingdom_desc:0 ""
+ EDG_FCC_RoyaumeduRaisin:0 "W¦uÆYjg^tîh"
+ EDG_FCC_RoyaumeduRaisin_ADJ:0 "W¦uÆYjg^tîh"
+ EDG_FCC_noble_in_wine:0 "R‘-N5Ïe"
+ EDG_FCC_noble_in_wine_desc:0 ""
+ mechanic_EDG_improve_develpment_add_cash_yes:0 "§YIN¨RÐcGS§!bìN»lN§TµNir§!:N§Ya„„R‘§!„vwýN§TÑSUS¦^§!öeS·ƒ—V§GIrT§!å‹wýN§TÑSUS¦^§!„v¤"
+ mechanic_EDG_enable_grape_farm_unconditional_yes:0 "§Y'YE^M–NO§!=T(u§Ya„„R‘œQ:W§!‰|§TGYÂ‰§!„vagöN"
+ mechanic_EDG_use_grape_farm_specific_ability_yes:0 "§Ya„„R‘œQ:W§!‰|§TGYÂ‰§!SÐc›O§G˜Y Rb§!"
+ EDG_FCC_wine_festival_culture:0 "R‘†^‡eS"
+ EDG_FCC_wine_festival_culture_desc:0 "a„„R‘(WbìN„výV…Q‡eS-N`S	gASRÍ‘‰„v0WMOÿNº‹=f‡v²RØ=f*NºNÏu%„„va„„R‘:WýO(WN*NyršR„vöeô•eg‰R’cN!kÛv'Y„v†^xQÿ‡v²R(WÙ!k†^xQNSpV>fê«Ž„vCgZNS5åN3zúVßu»lÿTöemN:NNû|R„vY²NIm¨RÐc›O†NN*NASRT„vs^ðSÿwùRŽN*NºNegô‹ÿÙ=fN*N¨c•ê«Ža„„R‘ÁTLr„vÝusOs^ðSÿ	ggûRBlOÆ‹w„v^©R=ec0ÙÍy†^xQ„vÆQYöeô•N,‚1u‡v²R„vT'Ya„„R‘œQ:W6ebµNúQegüuT³QšRÿàVdk>NLˆöeô•v^NúVšRÿIm¨RSV)YNÅNÅN	gNBS5Ïe„vÂSNÿTöeØV>e	gNè•:N-NNBSºNlÆQY„vÛv´RŒTôf:N²NlN›N„va„„R‘ÿ†^xQðX¿Ru:Nim'Y0"
+ mechanic_EDG_extra_income_for_estate_land_yes:0 "§YúQ.U4YTˆ§!S·ƒ—V§G2§!P6eeQ"
+ mechanic_EDG_add_develpment_for_estate_land_yes:0 "§YúQ.U4YTˆ§!SOžX RbìN»lN§TµNir§!:N§Ya„„R‘§!wýN„v§TÑSUS¦^§!"
+ ability_EDG_FCC_celebration_mechanic:0 "§OÛv'Y†^xQ§!"
+ EDG_FCC_celebration_mechanic:0 "§OÛv'Y†^xQ§!"
+ EDG_FCC_celebration:0 "§O†^xQÛ¦^§!"
+ EDG_FCC_celebration_desc:0 "§OÛv'Y†^xQ§!=fNy˜Ïk”–pet^¿O‰>NžR„v†^kyIm¨Rÿèe(WUS:yýV…QT‰|„va„„R‘ÿnxšRv^	úQÇ»Söeô•…Qg×S‹YÄ‹„va„„R‘0\n\n§O†^xQÛ¦^§!9hncTIN„v§TLˆ?eýw›R§!ÛLˆê6qžX•ÿdkYÿÇwýN„v§Ta„„R‘œQ:W§!GYÂ‰åNÊST‰|§TyrŠk9ei—§!ïSåNžX Rå‹Û¦^\n\nSV§O†^xQÛ¦^§!¾0R§G100§!öeSOæ‰ÑS†^xQ‹NöNÿÙuˆNNšR„v§Y4Nöe Rb§!ÿTöeS§O†^xQÛ¦^§!RV§R0§!"
+ EDG_FCC_celebration_gain_modifier:0 "§O†^xQÛ¦^§!ÙuˆN„vîOck"
+ monthly_EDG_FCC_celebration:0 "g¦^§O†^xQÛ¦^§!"
+ EDG_FCC_knights_of_the_grapes:0 "a„„‘šëXâV"
+ EDG_FCC_knights_of_the_grapes_desc:0 ""
+ mechanic_EDG_enable_build_grape_order_yes:0 "§GAQ¸‹ú^Ëz§!pe*N§Ta„„‘šëXâV§!ÄuÇu"
+ mechanic_EDG_get_celebration_for_war_win_yes:0 "§TIN‰b‰N§!„v§YÜw)R§!SžX R§G10§!„v§O†^xQÛ¦^§!"
+ EDG_FCC_alsace_treaty:0 "?–S(„¯elQJT"
+ EDG_FCC_alsace_treaty_desc:0 "?–S(„¯elQJTèe(W R:V·Va×VNÕlpQ‰ºN„v²NAmÿÃOOvQÛLˆ‡Teg3zšRbìNÙ*NYCQS‹sýVÿ‹†6qI–›RASR:V'YÿFOI`RVýwY"
+
+
+
+ EDG_FCC_pick_culture_to_inte_title:0 "@[Root.GetTag]‡eS‡T"
+ EDG_FCC_pick_culture_to_inte_desc:0 "	ébN*NïSåN‡T„v‡eSv^VËYÛz"
+ EDG_FCC_build_cabernet_sauvignon_order_title:0 "@[Root.GetTag]ú^Ëz§Yd—às§!‘šëXâV"
+ EDG_FCC_build_cabernet_sauvignon_order_desc:0 "d—às=fNLuW„T„v¢ua„„R‘ÁTÍyKNNÿ+TÖ|Ï‘Øšÿ±—(r‚.t0NÌRÿ	gyrŠkÎ˜sTÿ	cNTöegÇ‘6eÿïS‘.¢ur^R‘0âlSyrR‘0uR‘0™™ßiR‘ÿR‘(gsO0‘6R„vr^¢ua„„R‘HTñmRów¢uÿR‘SO0Nánÿ‡‘šSÿwQSmÁœg™™ÿ°eR‘USRzúQÿR—IƒsTÍ‘0H–t^Tn>f°sê–Œg0ßpIƒ0®vi—0™™Çƒlo`ÿ«ˆ‰Š:N¢ua„„KN‹s0vQŸSµN0W:NâlSYµN:SÿàVdkbìNˆV	gÅV‰(WSV0Wú^ËzN*Na„„‘šëXâVÿ"
+ EDG_FCC_build_chenin_blanc_order_title:0 "@[Root.GetTag]ú^Ëz§Y‹v×‹WS§!‘šëXâV"
+ EDG_FCC_build_chenin_blanc_order_desc:0 "‹v×‹WS	g‡‡±‚™™ÿx‘¦^ØšÿƒRïSýw=fNLuNb—ŒŒgY„va„„ÁTÍyÿÎNgÆuôØš5„vu‹vR‘ÿ0RN,‚Nu„v™Lh‹vR‘ÿýïSåN1uƒR‘.wbÿ(WWS^—	gºNÿbƒReg‘6RlálR‘ÿmN	gºN(uƒRegZP RÈpR‘ÿ b¸„™R‘0vQŸSµN0W:NbSætS³l7ŒµN:Sÿ	cgqbìN„v.Oßuÿ”^SV(Wå‹0W:Sú^ËzN*Na„„‘šëXâV0"
+ EDG_FCC_build_cinsault_order_title:0 "@[Root.GetTag]ú^Ëz§Y^y0t§!‘šëXâV"
+ EDG_FCC_build_cinsault_order_desc:0 "^y0t=fÕlýVgäSw„v‘R‘a„„ÁTÍyKNN0(uvQ‘6R„va„„R‘HTCh¢ur‚bEmRów¢ur‚ÿãSaƒ:NnámÿÔgŒTÿ&^	g÷ºN„v4lœg™™lÿeu&^Iƒ“ƒq‘ŒTnqNgPR„vÎ˜sTÿŒT(Wt^‰öen™(u0^y0tY(ueg‘6RCh¢ua„„R‘ÿNLkwmZŒM‘÷m‘ÿïSåNM–NOR‘¾|+TÏ‘ÿŒTsOKN‘ŒM‘÷m‘ÿïSåNÏQ1Væ‚©m„vsTS0vQŸSµN0W(Wg<hYKQ-nfWúe¯eN&^ÿàVdkbìN	gÅV‰(Wå‹0Wú^ËzN*Na„„‘šëXâV0"
+ EDG_FCC_build_sauvignon_blanc_title:0 "@[Root.GetTag]ú^Ëz§Y‹vÏ‚ôuÁ§!‘šëXâV"
+ EDG_FCC_build_sauvignon_blanc_desc:0 "‹vÏ‚ôuÁÈST•øv`ÿŸSµNŽNâlSY0W:SÿåNvQ‘.„va„„R‘™™ln°e.Vlbÿàg¬j0‰C…²ƒŒT¢ui„vœg™™zúQÿEQán†Níp&^4lœg„v™™lÿ:NvQžXûm†NSmÈpŒTšSÍ‘aÿ®V®V,…ÜƒŒTR—Iƒ„vÿur‚lo`9YBgNwÑž‹‘hŒTN¹p™™™e„v™™lÿù‚œgŒTàg¬j„vnKrsTSeQãS	a¦`ÿãSaW¦mw0NánÿR‘SOOSŒÿx‘¦^cíu'`‹Yÿ6e>SœgsTSmÁÿYOõ—cEN0 `•0"
+ EDG_FCC_build_chardonnay_order_title:0 "@[Root.GetTag]ú^Ëz§Y—YKN§!‘šëXâV"
+ EDG_FCC_build_chardonnay_order_desc:0 "—YKN‘.„va„„R‘8^wQ	gàƒ„0R—ù‚œgbw¨h„vlo`ÿãSaÔkƒW¦m0-N'`ÿd–*N+RÅ`µQYNOASRx‘ÿN®V®V&^	gusTÿvQÁTÍy”^'`ASR:Vÿ(WT*N0W¹eÍyi„vãSsTýNO	gÇY„vØSSÿ«ˆ‰Š:N‹va„„-N„v‡vT0Ù*N°etQ„va„„ÁTÍyîvMRØv^*g«ˆNºNNbŸqåwÿwbìN‰ZP„v¿O=fSƒR¨c^úQ»Sÿ©‹ôfY„vºNåwSƒRÿ"
+ EDG_FCC_build_pinot_noir_order_title:0 "@[Root.GetTag]ú^Ëz§YÑžÔkú‹§!‘šëXâV"
+ EDG_FCC_build_pinot_noir_order_desc:0 "ÑžÔkú‹=fT5„v¢ua„„‡vT, ïSåN‘úQhQNLugäNºN¾–ØV„vìryr„v¢ua„„R‘0ÑžÔkú‹a„„8^=fUSÁTÍy‘6R, ÝuS÷meQvQƒRa„„ÁTÍy0SÏ‘„vÑžÔkú‹mN(uŽN‘6RCh¢ua„„R‘0(uÑžÔkú‹‘6R„vr^¢ua„„R‘	gNwNïSãcid„v*N'`, FOI`„veg²‹NTµN:S„vÑžÔkú‹R‘Ø=f	g›NqQ'`Nyrr‚„v0g:N	gãNhˆ'`„vSV^SÕlýVÃRn‚,rÑžÔkú‹a„„‘.„vO(ÑžÔkú‹R‘, åNvQYBgYBS!k0Æu‰W¦mŒT	gH–t^jo(wW„T0BSBS™™lnUS2—„v=fÅ–ô„v+tWpQÊS«spt¬‚³‚, TöeÈS	gNwIƒ“ƒ01jChIrœg™™, +TNwØpùW0aj(g0ßpIƒuóËyöSIr„v÷ºNlo`0Nb‘R‘œ˜r‚Nñm, TENÏ…, H–t^bŸqTOÑSuØSS, ïS&^	g™™™eÊS¨Rir0®vi—™™sT0™™wNs‚, SmwN‰, ¦mÑn‚YNÒu,‚„vãSa=fbV¹RgÁTÑžÔkú‹R‘„vgsOÍ‹û…, wegêÃRn‚,r„vÑžÔkú‹¢uR‘àVdkb:NNLuNgbYˆOf5„vR‘0‚YdkS5„va„„ÅV‰˜—V0Rg‹Y„vÝO²bÿOncƒRNbú^Ëz„v‘šëXâVSO=fbìNgIN‰„va„„‘šëXâVÿ"
+ EDG_FCC_build_riesling_order_title:0 "@[Root.GetTag]ú^Ëz§Y÷–øSäN§!‘šëXâV"
+ EDG_FCC_build_riesling_order_desc:0 "÷–øSäN(WbŸqÇz-Nÿ÷–øSäN„vœ˜r‚ŒT™™sTN­eØSSÿt^‰öe	gSmÁ„vàg¬j0R—àg0ChPRŒTœœf„vÿwir™™lÿO4O–Nw‡!‡ŒTŒv±‚™™sTÿbŸq„v÷–øSäNOÑSUSbyr+R„v‹l¹lbdq¹lsT0åN÷–øSäN:NŸS™e„v5‡YuR‘N,‚O&^	gOg0‡‡0a„„r^0äpù‚œgŒTChPR„v™™sTÿ&^	gxQ‹W„v‹l¹lsT0‹†6qjO:N·Va×VºN„va„„ÿFON—VNb²‹vQnxžR	gASRìr0RKNYÿbìNïSåNïSåNZPúQN›NR°eKN>NÛbßR±›N·Va×VºNegÝOkSÖNìN„va„„ÿó`ÅVbìN(Wí‹Š`N×ON	gTÍyT7h„vNTÿFOùRŽNa„„ŒTa„„R‘„vœU1rNšRýw©‹bìNtã‰|Vdkÿ"
+ EDG_FCC_build_champagne_order_title:0 "@[Root.GetTag]ú^Ëz§Y™™ßi§!‘šëXâV"
+ EDG_FCC_build_champagne_order_desc:0 "jO:N°ea„„R‘‰|‹WÿÑSála„„R‘„vRËYR‘ÿvQ(WˆVíw„vöeô•…Q¿O6e·ƒ†N'YÏ‘åb¸ÿàVdkz˜¿RSvQ’c:NckV„vÄuÇumN=fz˜4l¨c‚KN‹NNÇ=UN—‰èla„v=fÿSÃVr¸pÿ"
+ EDG_FCC_build_champagne_order.effect.tt:0 "=T(uyrŠkÇ–cOuQ§Y™™ßi§!§T‘šëXâV§!\n\nå‹§T‘šëXâV§!—‰£mil£§Y›Q‹N¹ppe§!w^—¤§YjgaSyr§!ôu²bÿTöeÛbßRÖNìNNOÏQS§YF–›QLwN¦^§!"
+
+
+ BUR_ideas:0 "ÃRn‚,rtõV"
+ BUR_ideas_bonus:0 "ÃRn‚,rÎ‘ÃV"
+ BUR_ideas_start:0 "ÃRn‚,r.Oßu"
+ BUR_1:0 "ÃRn‚,rTwßv„vWµN"
+ BUR_1_desc:0 "ÃRn‚,rTwßv‹†6qòTÏub:N†N†SòSÿFOvQNbWYu„v?e»lDµNåNÊSceK„T0W„v0µNÍN6qïSåN:N:NbìNNb(uÿ‚YUO(WY¹e¿R›RKNô•hTËe·ƒ)R„v¹eVÍN6qbìN—‰fR`N0"
+ BUR_2:0 "”NiV‹s Q"
+ BUR_2_desc:0 "jO:Na„„Na„„R‘„v‹sýVÿbìNåb	gNv˜g:NyrŠk„v‹s QÿðyKN:N”NiV‹s Q0ŒTN,‚„v‹s QNT„v=fÿÏkÍy«ˆ‡v¶RNb²‹Á‹„va„„ÁTÍyýO	ébNÍyNa„„—˜’|œ˜r‚øvÑ„vRówÛLˆ RåTSbèxÿgT6Rbf¶rv•LTŽN‹s QKNN0Ùv˜ÝuàeÅN	g„v‹s Q„vSb.S=fåTz‚„vv˜ðSÿTöemN=fùRŽNa„„Na„„R‘‡eS„vÝuùRCgZ„vaŒVÿNº‹=fbìN»lNØ=fƒXY„vNb	gR‘„^ÿýggêñTNbùW²w„v°ea„„ÁTÍyúQ°s(W‹s QKNNÿÙNÅN=fùRa„„ÁTÍy„v²‹ïSÿØ	g²‹ïSNb&^eg„vS5SO°s0"
+ BUR_3:0 "°e„va„„ÿ"
+ BUR_3_desc:0 "N,‚egô‹ÿT0W„vR‘„^ý=fìrËzÑSUSegÛLˆùW²w°e„va„„N‘.°eÍy‰|„va„„R‘ÿFOÙ*NVïz=f>fwfÁ‰„vÿbìN—‰ôv¥cr^‰mbìN»lNT*N‡v¶RR‘„^ÿŸ±RT¹eb—a„„ÁTÍy„vBg²NùW²wÍyiÿÃOÛT0W‘R‘^²NAmÏuŒšÿÙ7hMbýwôf RÅNØš(Ï‘„vÑS˜cúQôfY„va„„ÁTÍyNa„„R‘‘.åTz‚ÿ"
+ BUR_4:0 "a„„‘šëX"
+ BUR_4_desc:0 ":N†NVlbòTÏu»S„v‘šëX‡eSÿTöežX:V‹sýV„v›Q‹NžR›RÿÏk*N«ˆ‡v¶RNb²‹Á‹„va„„ÁTÍyýSAQ¸‹Äuú^N=eåNa„„ÁTÍyNb‹TT„v‘šëXâVÿwå‹‘šëXâV”^SVÎNå‹ÁTÍya„„„vŸSµN0Wú^¾‹ÑSUS0N.Oßu‘šëXNT„v=fÿÙ›N‘šëXâVGWôv¥cHeàVŽN”NiV‹s Q„vNb	gwÿTöe‘šëXÆQRmNSùW²wa„„N‘.jO:N†NÅV‰˜ŽbýwÿàVdkÙ›N‘šëX(WeSLˆ›Q‹NLw1KNYØÂSNNwR‘„^„v¡rtÿ‘šëXâVmNïSåN(WSV0W„vR‘„^VìSºN	0"
+ BUR_5:0 "R‘†^‡eS"
+ BUR_5_desc:0 "†^xQ¡l	ga„„R‘ÿ1SÏP¡l	ga„„R‘„v†^xQN7hONsTÿ¡l	ga„„R‘„v†^xQ±1SNëS†^xQÿ:N†N	úQôf:NO(„va„„ÁTÍyNR‘ÍyÿÏk”–pet^¿OO>NžRN:WÛv'Y„v´RO†^xQÿÂSOwNÅN=fNBS5ÏeÿØ	g'YÏ‘„v-NNBS6–µu0NBS5ÏeSOÁTSv^	úQg:NúQr‚„va„„ÁTÍyÿØ	gÎNT0WµNúQ„vÎ˜<håV„va„„R‘ûNºNÁTS0d–dkKNYÿÙ‰|Im¨R(WT0WÎW^aNQgGWbVb†NNÍyêÑS„v†^ky`N×Oÿ‹†Ä‰!jÜNÊS‡v²Rôv¥c>NžR„vIm¨RÿFOÍN6q=fR‘†^‡eS(Ws^l-Nôuû|.O­d„vÝuùR=eñg0"
+ BUR_6:0 "‡v¶RÐv:W"
+ BUR_6_desc:0 "d–†Na„„KNYÿÐvÙÍy‹vr‚ÄžÑ‘„vµNúQmN=fbìNg:NÍ‘‰„v8fuµNirDKNN0(WVgÀNTRðl„v(„pQ-±ƒísÐv:WòT	gpeŒvt^†SòSÿFO–Nw.Oßu„vRfÐvÕlVïzn>f2—ÿ‡v²R³QšR(Wå‹0W:SÄ‰ƒµNúQÿ(WŸS	gÐv:WKNN RåN9e.ÿ¾‹¡‹†NNµ^JSWbVÑ°sãNåTNSÐv:Wÿv^9e(unqÐvÕlib'YNÄ‰ƒÐvµNúQ0"
+ BUR_7:0 "Lp‰nGSµu"
+ BUR_7_desc:0 "–NwÑyŽb4ls^„vÛekÿùRŽNa„„„vÍyi¹eVmN(WN­e„vGSµuÿ(WÐcØšHe‡s„vTöeÐcØša„„„vÁT(0N,‚wŠÙ=fÏk*NR‘„^Nb—‰sQèl„v‹NÅ`ÿFOÕkßzÖNìNôf ROVÏuŒšÿwÑyfR„vÑSUS©‹bìNNýwØbålŽN°s	g„vÏuŒšÿÇbËzNè•xvzå‹î•˜˜„vfRb–eg.^©RT0WR‘„^ã‰³Qî•˜˜ÿTöeØýwGlI`òT	g„vÏuŒšÿïSåNg'Y„vÐcGST*NR‘„^a„„Íyi„v4ls^0"
+
+EDG_Chateau_Saukville:0 "0tKQôuSa„„R‘„^"
+ EDG_Chateau_Saukville_desc:0 "?–S(„¯e„vR‘KNïIZ‡50YOlQÌ‘ÿ'YèRa„„íVýce^(WVåe(Voses)qS	T3–„vaW0WNÿeqSŠ­Sÿ*jèñm7Œ0(W¹lÿu„va„„íVKNô•×wËzNwNµ^µ^ÝOYuŒRte„v-NNªuSQg„^0ïO°wØšŸSÿ(WÝ„)YNŒg—g„vlˆXbNÿÅˆ¹púQÕlýVgOŽ„va„„íVÎ˜IQÿwvQ-Ng:NúQO„v¿O=f0tKQôuSÿvQMOŽN‘R‘:S„v-NÃV0W&^0Ù=fNµ^TePLˆw„vaNG•ÿŒRhQ«ˆôVÕu(W2–¡VÎW™X-N0ú”ów„v­^b–0SÒ‰|iŒTAuY„v(gÕ–ÿœœ±‚„v3–ðS&&ÏkNb^?bKS<ONNý¾|ôŒTŒ0"
+ EDG_Chateau_Chablis:0 "Y^)Ra„„R‘œQ:W"
+ EDG_Chateau_Chablis_desc:0 "MOŽNÕlýVW„TÃRn‚,ra„„R‘µN:S„vY^)R=fÃRn‚,rSègW„T„va„„Íyi:SµN:SÿI`b—ïy¦u`S6433lQw˜ÿvQ-NY^)R0W:Sa„„íVb—ïy`S4622lQw˜0‹†ô‹=fN*NêS	g2600TESl„vSÎWÿFOÎN12Nªu1SVËY†NÍya„„‘R‘„v†SòS0Y^)RµN:SSìb^XUáS7Œ2NµO0W:S0=fÃRn‚,rSèN*NSÎWG•ÿÝ»yôTÎžêS	g111ñ‚Ì‘ÿïSô‹=fÃRn‚,r„vÄžÑ‘'Yè•0(WÙ—SæSwO„v:SßW8^Y†‰Övh(gÿY^)RµN:Sõuö^20Y*NG•ÿWäXYówWW0+Tówpp(ÏžWÿ(W0W(fRNÿïSåNý¯n0ROWªuöeãN0"
+ EDG_Chateau_Nuits:0 "YNa„„R‘œQ:W"
+ EDG_Chateau_Nuits_desc:0 "YN?‡‡20YlQÌ‘ÿSw,rbÿWSóSQggËR„v0W¹eNÇ200s|ÿ^—8^ír•ÿSès^GWwmÔb¾270-300s|ÿWSès^GWwmÔb¾230-260s|ÿaW0Wv˜èNµk^—8^a–íSÿŽVNRnØS—VËR–s^ÿö^õuNÝuÿaWb—gWSÿåegqASREQ³0WäX„gb:N-NOWªuöeg„vówpp(WäXÿ’c4lýw›R‹YÿZl„vÑž®vú‹RgT(WÙÌ‘u•0"
+ EDG_Chateau_Beaune:0 "=Oi`Na„„R‘œQ:W"
+ EDG_Chateau_Beaune_desc:0 "=Oi`N„vaW0WÔkYN‰s^ŒTV–¸‹YÿÍyib—ïymN=fYN:S„v2NP0(WÙ*Nír„z„vqSaWNÿNLuNgv˜µu„vr^‹va„„R‘NgÌRÛvT„v¢ua„„R‘NTTNw*Y3–„v¹eTu•Nw0 =Oi`N„vÛvTŒTƒR„vwO=Oi`	gˆV'Y„vTwû|ÿTw=fÃRn‚,ra„„R‘µNNwck„v†SòSŒTÏuNm-NÃV0 (W=Oi`N„vN¹e	gwmÔb:N400s|„vØšŸSÿèÇ³l7ŒïSåNw0RNu–„vÎ˜of0Ù=fN=Oi`N0'Y¦u	g20*Na„„R‘QgPWK„(WEQán*Y3–IQgq„vœeaWNÿ«ˆ‹TT:NN=Oi`NŸSµN:S0"
+ EDG_Chateau_Chalonnaise:0 "Y†–…QNa„„R‘œQ:W"
+ EDG_Chateau_Chalonnaise_desc:0 "ÕlýVÃRn‚,r0W:S„vÑ‘NQŽVWSÿ1SÛeQ†NY†–…QNÿY†–…QNWSS•20lQÌ‘ÿN‰ËR7lQÌ‘ÿs^GWwmÔbØš¦^:N250-370s|0Y†–…QN	g”N*NAOCÕlšRµN0WÿgSè„v=f^òT†–ÿÙÌ‘O(u„va„„ÁTÍy=f?–Ì‘Øšyrÿ‘úQ„vR‘&^	g‹vr‚4lœgŒTnám„v±‚™™ÿãSaŽrUSÿx‘¦^Øš0å‹µN:SúQµN‘6R„v¢ua„„R‘HT+tr‚bf®N„vRów¢ur‚ÿceÑSNwIƒ“ƒŒT‹‘hIrFmœg„v³‚™™ÿ	göe4O	g1jCh0œgÁN0¨RirŒT†Çƒ„vlo`ÿ(0W'tžRÿx‘ŒTUSRASRGWaˆ0"
+ EDG_Chateau_Loire_Valley:0 "bSætS³l7Œa„„R‘œQ:W"
+ EDG_Chateau_Loire_Valley_desc:0 "bSætS³l7ŒIN‰„vPRµN:S	gWSyr0‰R9ƒ0ýpQÊS0ts|SÿI`Íyib—ïy¦u30,000lQw˜ÿvQa„„R‘†SòSASR `Ü0ncøvsQD™e>f:yÿbSætS³l7Œ„va„„R‘†SòSKNgR(W-NNªuOËYKNE–ÿlQCQ5Nªu	ÿ1SÉbV†N7^U^ÿ¦u(WlQCQ582t^ÿ,rN!k	g†NýpQµN:Sa„„íV„v°‹UV0ÙÌ‘NSPRµN:S„va„„R‘ÎN-NNªuVËY1STðX'Y=cÿ‹s²RŒT—RYeºNëXR(WvQ-Nnbo†NNïSb:„vÒ‰r‚0‰R9ƒ=O5r¨N)RŒNN1S=fvQ-NNMON—VNÐcÊS„v‹s²RbXT,ÖN(W1154t^b:N†Nñ‚<hpQýV‹sÿ(WÖN„v‡^QONÿ‰R9ƒa„„R‘ Q•QX‡v0WÛeQ†N«R÷^ÿñm—VT‹s²RbXT„všS1rÿÙ:NbSætS³l7ŒðX‰Š„v.1S`YšR†NZWžR„vúWNx0"
+ EDG_Chateau_Bordeaux:0 "âlSYa„„R‘œQ:W"
+ EDG_Chateau_Bordeaux_desc:0 "âlSYµN:S=fhQNLuO(a„„R‘„vg'YµN:SÿÍyib—ïy¾10NlQw˜ÿt^µN8¿Nöt„va„„R‘0âlSYµN:S„vÔgz˜ÿÃRn‚,rµN:S„vQmšSÿ™™ßiµN:S„v¬‚³‚&&N^‚Ydk7wŒ˜ØšbSºNÿÙuˆNÖNìNgTÍyia„„„vW0WNlP0ÆupeNT„vµN:Sÿ1S‚YT¢cûRÎ˜<håV„vºN„vyr(0¾|ÓšNS0Wý—‰babaSOsT0ÐcwÕlýV„va„„R‘ÿºNìNŽVŽVN¦uwT0Wó`0RâlSYÿ-NNªu„väS!X0ptKN„va„„íV0Íyi(Wa„„íVÛVhT„v«sptÿŽKN„vofaŒ„gb†NâlSYY—'Œ„v0uíVÎ˜IQ0"
+ EDG_Chateau_Rhone:0 "W·‹³l7Œa„„R‘œQ:W"
+ EDG_Chateau_Rhone_desc:0 "W·‹³l7ŒµN:S¿lW·‹³l7Œ„vír•0W&^êSTWSHTag¶rR^ÿ•¦u200lQÌ‘0àVlPŒTWäXagöNNTÿÈSïSRbSèŒTWSè2N'Y:SßW0SW·‹0W:SÿlP^S'YF–'`lPÿr^w·Q„vSÎ˜ Ra„„bŸqÿvQa„„íVY(Wa–íS„v³l¸SqSaWNÿbV‚Y¯h0u0(WWSW·‹0W:SÿlP^S0W-NwmlPÿ3–IQEQ³ÿè–Ï‘EQ›lÿmN	gr^·Q„v:VÎ˜0lQCQMRNNªuWlšºNeQµOÕlýV&^eg†Na„„R‘‘6RŽb=gÿÖNìNÑS°sW·‹³l7Œ=fNWWÍyia„„„v‹Y0W¹eÿ¿OSvQV¦W:Na„„íVÿÎNdkVËY†NÕlýVa„„R‘„v†SòS0KNTWlšYe÷^·u‰NÿYe‡veg0RW·‹³l7Œ„v?–ôu<SÁqNÿ:N†Nán³Ye‡vùRa„„R‘„v—BlÿSV0W„va„„R‘‘.Žb=g—V0R†NÞ˜ÃÑSUS0"
+ EDG_Chateau_Champagne:0 "™™ßia„„R‘œQ:W"
+ EDG_Chateau_Champagne_desc:0 "™™ßi0W:S(WÕlýVôTÎžåNNÿpQ¯e^hTôVÿSìblši`w0ÃW³uwŒTeY^w„vNèR:SßW0™™ßi0W:S=f™™ßiR‘„vµN0Wÿ9hncÕlýVÕl‹VêS	g™™ßi0W:SúQµN„v™™ßiR‘Mbýwðy:N™™ßiR‘ÿvQÖN0W:SúQµN„vT‰|R‘êSýwðy:NÑSála„„R‘0™™ßi0WßWÎNlQCQªut^VËY1SÍyia„„0‹†6qÍyib—ïyN­e)SÿFOƒR„vyrVˆVée¿O«ˆºNìN²‹åwÿùRŸSµN0WÑvµc‹TT„vÝO²bmN=fgée„v0øvÔkƒâlSYÏkt^2000SöeŒTÃRn‚,rÏkt^1900Söe„våegqöeô•ÿ™™ßiw„våegqöeô•ˆVíw‚fÿÏkt^êS	g1650Söe0ÙÌ‘l)nƒNOÿt^s^GW)n¦^êS	g10.5°Cÿ¬Q)Y^—8^·Q0a„„i*h—‰uIm(WóS9°CåNN„v¯sƒXMbýw©‹a„„bŸq0s^GW)n¦^‚YdkNOÿG0R—˜’|N6e„vÒR¬QmN=f8^Á‰„v‹N06qwÿ™™ßiwÍN6qåb	g2N*N‹YagöNÿM–è–Ï‘-Nw	gÄ‰‹VÿW(o‚‹YIN‰1uNCSNt^MRwmmSYuN„v‹v©Wir(Äub0‹v©WW((WŒ‚‚W0W4l+TÏ‘¹eb—ˆV	g÷N<P0(Wr^åq„vcR‚‚ÿƒRÍNýwYŠb4lR•OOÿ(Wè–Ï‘EQ›l„vcR‚‚ÿƒRÈSýwY'YÏ‘8T6e4lR0NbåNÿa„„i*h„v9hè8^t^ýw(W0W•^8T6e0R4lR0"
+ EDG_Chateau_Mosel:0 "idýlSa„„R‘œQ:W"
+ EDG_Chateau_Mosel_desc:0 "idýlS=f·VýV¬u¦^gØš„vµN:SKNNÿS¬u50°ÿlPÉQKrÿàVdkÑž®vú‹^—8^T(WÙÌ‘Íyi0ÉQKr„vlPO—VÙÌ‘„va„„—‰ôf•„vu•ŒTbŸqgÿa„„ïSåNÑSUSúQYBg0SmÁ„v™™l0³l7Œ0W&^„va„„íV'YYgWSÿa„„hïSåN8T6e0RôfY„v3–IQÿ.^©Ra„„„vbŸq0ÙÌ‘M–è–Ï‘Sÿ RKNa–íS„vqSaWa„„íVmN	gNwˆV‹Y„v’c4l'`ÿWäX-N4lRƒSÿ	g©RŽNúQµNSmÁ„va„„R‘0³lAmmNùRµN:S„vlPw0R†NŒ‚‚jO(uÿ¬QcRNO*Y·QÿYcRNO*YípÿFOÙÌ‘„va„„íV'YYMOŽNa–íS„vqSaWNÿàVdkO—Va„„R‘„vÍyib,gNGS0"
+ EDG_Chateau_Rheingau:0 "±ƒ5ƒØša„„R‘œQ:W"
+ EDG_Chateau_Rheingau_desc:0 "jO:Na„„R‘µN:S„v±ƒ5ƒØšƒôV'YŽN0Wtbw†SòSaINN„v±ƒ5ƒØšÿ±ƒ5ƒ0W:S„va„„ÍyiïSåNý¯n0RWlšöegÿ±ƒ5ƒŽ5ƒ0W:SSìbÕlpQKQy(W…QmNÍyi	g‘R‘(ua„„0ôv0R1980t^ãNÿR‘(ua„„„vÍyiMbibUS0R±ƒ5ƒ³læT¸S0±ƒ5ƒØš„va„„íVb—ïyv^N—r'YÿFO=fÙÌ‘tSúQµNNLuµu„va„„R‘0"
+ EDG_Chateau_Hessen:0 "±ƒ5ƒ-Ñžîha„„R‘œQ:W"
+ EDG_Chateau_Hessen_desc:0 "0WßW^–„v±ƒ5ƒÑžîh0W:S‘6R„va„„R‘Íy‰|ÜÜYŽN·VýVvQÖN0W:SÿÎNnf„vPO™R‘0Rwála„„R‘ÿN”^ñOhQ0dk0Wg	gT„vúQãSa„„R‘=f1WÍkKNsNÿ167*NQg„^-NàQÑ99%ý(W‘6RdkR‘ÿÙN0W:S„vR‘`Snc·VýVhQèúQãSa„„R‘„v50%0±ƒ5ƒÑžîh0W:S„va„„R‘õuoÔgŒTÿyrr‚>fW„ÿÙOƒRìNNvQÖN·VýVµN„vR‘øvÔkôffÆ‹+R01uŽNu•(W)nŒT„vlPagöNNÿÙÌ‘„va„„àe—N¯sƒXøv—b‰NÿÙOƒRìNS†NN¹pyrr‚0NÇÙ›NR‘Ø=fåNvQR‘™™SmÁ0sTSuËQwñm×SºNìNœU1r0ƒRìN'YY‘ê*ÒRmtØša„„ÿÙÍya„„OäNR‘ÔgŒT0YAl0œgsTõu•0æSNÍy«ˆ^Ûl(uZP‘R‘ŸS™e„v=f‰Sæt³uÿNb‘ÛãSR‘R‘SOŒRán0R‘sTSmÈp0"
+ EDG_Chateau_Barden:0 "ôT‰va„„R‘œQ:W"
+ EDG_Chateau_Barden_desc:0 "ôT‰v:N·VýV,r	N'Ya„„R‘µN:SÿMOŽN±ƒ5ƒ³lN8n0Ñžîh—gN&^ÿNÕlýV„v?–S(„¯eµN:S”–³løvg0ƒR=f·VýVgWSïz„vµN:Sÿåegqöeô•g•ÿmN=f·VýVg)n–f„v:SßWÿàVdk8^«ˆ»U:N·VýV„vnfWúe¯e0ôT‰vµN:S„va„„Íyi†SòSASR `EN0(W°Q³lNªuKNTÿÎ‘ua„„VËY(Wå‹:SßWu•weg0(WlQCQ2Nªuÿa„„ÍyiVËYÎN·^¯efW(ƒVn.O­d0RSèÿv^(W16Nªu¾0RÅTðSöeg0SVöe„va„„R‘R‘²mf®NÿãSa:V²RÿASR	gÊvŽNeP·^&&ÿÏkt^„vºNGWˆm9Ï‘'Y‚i=f140lQGSÿv^NÇ9‚Ð“0R±ƒ5ƒ³l„vN8n0W:S0°sÊNÿ·VýVÏkt^„va„„R‘ºNGWˆm9Ï‘:N32ötÿwôT‰vµN:S„vºNGWˆm9Ï‘:N53ötÿ:Nte*N·VýVºNGWˆm9Ï‘gØš„v0W:Sÿ1udkïSÁ‰å‹0W:S„vºNìN	gYHNípwˆŽNa„„R‘0"
+ EDG_Chateau_Provence:0 "nfWúe¯ea„„R‘œQ:W"
+ EDG_Chateau_Provence_desc:0 "nfWúe¯e„vlP^SŽN0W-NwmlPÿ3–IQEQ³ÿlPr^åqŽpípÿt^åegqöe•ïS¾27000R2900Söe0ÙÌ‘„vWäX‰|‹WIN‰=fówppów0x©S0EžuSówŒT±‚—S©Sÿ4l'`:Vÿ	g:gir(.SONÿ^—8^Ta„„Íyi0vQa„„R‘åNn°e0fëV0r^Kr:Nyr¹pÿyr+R=fCh¢ua„„R‘ÿãSa^—8^ìryr0"
+ EDG_Eltz_Castle:0 "ÃWS(ƒÎW!X"
+ EDG_Eltz_Castle_desc:0 "ÃWS(ƒÎW!X=f·VýV„vNµ^-NNªuöegÎW!XÿvQPWK„(W·VýVÎW^Ñy^&O(ƒŒTyrÌ‘SKNô•idýlS³lTuN*N‹^Y—qS7ŒÌ‘ÿËYú^ŽNlQCQASŒNNªuÿ=f·VýVƒX…QÝOXRgŒRte„v-NNªuÎW!X0\n\nÃWS(ƒÎW!XËYú^ŽNlQCQ9Nªuÿ=fSVöe^—8^xQ‹W„v2–¡VåT‹NÿvQYôV(uW™XåNÊS(ghh2–¡Vÿ°s(WbìNw0R„vÎW!XÏ–bVúW,gú^.ŽN11-13Nªuÿv^N:NSVöeÙN0W:S„vßu»lw—¨N¯ev–¬‚¶RÏeNb	gÿwÎW!XD–Ñ„vQg„^mNúW,gbVbŽNÙNöeãN0†SòSNsQŽNÃWS(ƒ¶RÏe„v°‹‹ËYŽNôTôTW(„ßu»l„vöegÿÙµ^ÎW!XmNck=fôTôTW(„ÙuˆNÙ*N¶RÏe„vOP0ÃWS(ƒÎW!X	Nb—GW:NÃWS(ƒ³lNb¯sÕuÿÝ»y³lb—70s|ÿƒRNbY„vMOnp`‹Y(WSVöeNagÍ‘‰„väSSNÿÙagäSS=fÞ¥c·VýVSVöeàQ'YÍ‘‰ÎW^idýlS³lAmßW„vŒ‚9SåNÊS…hòƒS·V„vÍ‘‰FUS0"
+ EDG_High_Swan_Castle:0 "Øš)YEž!X"
+ EDG_High_Swan_Castle_desc:0 "Øš)YEž!X=f·VýVjm+oININöeg„vNWWptRÿ(W12NªuRRú^bT1SÎeg†NƒR„vO'Yöegÿv^b:NSVöe«R÷^’bÅ`×‹„v-NÃV˜˜Pg0ÎW!X„vINºNŒTú^.w=fËeNØš„v‘šëXÿËeNØš„v‰Sâlyr=fYuNÓYT„vOY‘šëXKNNÿmN=fwm·V!XLkòfÆ–ÿ¦N«ˆðyjOlšHY^XKb„b,g	ÿ-N„v«R÷^’bÅ`×‹ºNÿËeNØš„v‘šëXŸS=fôu¬‚ŒT¯eS¬‚„vÇ‘‘INÿÏu8^egÙÌ‘ZP¢R0"
+ EDG_Ngmphenburg:0 "R¬‚!X"
+ EDG_Ngmphenburg_desc:0 "R¬‚!XPWK„(W·VýVUa<SÑž‰SÊÿ=f†SãN‹s¯O„vY«R0ú^ŽN1664ó1728t^ÿINú^Qr=fôTmKQÎ˜<hÿteµ^«R¿kPW‰gNÿ1uNb^b^¹ebV|i?bÞÓubNÄuú^Qrirÿckb—•¾600s|0\n\nR¬‚!X=f9êWS·V·lšÌ‘šN²N‹sÙu»YPR(„OO„vi`Ì‘RTX·?–·V±ƒ·V„v<yirÿa0ŒyYu†N?QPRO‹sýV	g†NçubºNÿƒR„vibú^åTzMRT±‚†N200t^öeô•0‹†6qÙµ^«R¿k¡lýw¾0RÕlýVýV‹sïfASÛV‹s«R±7h„vÄ‰!jÿFO¯wšR=f·VýVÙ‰|«R¿k-Ng'Y„vNµ^0åNWSïz„vÕNsYIuÊ^g:NW„T018NªuRÿ	^¯OlšKQ‰s|)R‰RNN·¦umt+YSÖNÍk²NŽr4g„vaNô•+R…Xibú^bjŒNS«R¿k0‹†6qþfm×SŒN!k'YbâlÊS,FOîOYTÍNNÏQvQ(W†SòSNNb`S„v0WMO0"
+ EDG_Heidelberg:0 "wm·V!XÎW!X"
+ EDG_Heidelberg_desc:0 "wm·V!XÎW!X†Söe400t^MbŒRåTÿþfÏu=f'k2mg'Y„vÎW!XKNN0ÎW!X…QèÓu„gYBgÿSìb2–¡VåT‹N0ES²RŒT«R¿kŒTÎW!X±‚íVIrÿSVt^=fNµ^›Q‹N‰^XÿTöemN=f	^¯O«R¸0\n\nwm·V!XžR(W	g*YYt1u<P—V«ˆºN R1rÿyYåb	g·VýVgäSw„v'YfRŒT'YfRþVfN†™ÿÝÊNòT	g611t^†SòSÿyYåb	g'k2mgOŽgW„T„v«R¿kKNN„vWNWÿ(W'k2muóNáQSi«RPŸTÿÏkt^8n¢RÜuÎuNÝuÿ¾300NºN!kåNNÿ†SòSNàepe'Y×‹ºNýþf:Nwm·V!XñmñmÃV˜bÇÿ‚òƒS0^&OTXú‹0?–R0wƒS·V—g0ÃW3uY+Y0©‹·ÝOS&&™QNàepe‰‘ºN×‹ÇrÿÅeLˆ>yg°e„v^JTÍ‹=fwm·V!XLk·VSÃV0N1Y„v0W¹e0"
+ EDG_Zwinger_Palace:0 "(ƒ)n<h«R"
+ EDG_Zwinger_Palace_desc:0 "(ƒ)n<h«Rú^ŽN1709t^ÿvQMR«Ž=f1u(gÓu„gú^Qr¯sÕu„v^:Wÿ(ujO(„KQîh‹slQ5Ïe>NLˆTÍyÔkiŒTÛLˆ«R÷^8nb„v0k†^:WNb01710ó1719t^ô•ÿ(W:VweYäS¯eyr	^¯Oßu»löegÿlšyrLN¯e·9N<SS·ÀsiOSüf(ux©SîOú^†N(ƒ)n<h«Rÿ‡v«R2NµO¯sÕu„v­N–ŒTIuÊ^þfÏu=fXjíV0\n\näS^JWlšöeg„vCQ.tåNÊSa'Y)RôTmKQÛvg„vh×V'`CQ.t†Y¹pNwÙµ^TX|iÿ™X­NÁe=fÙNsYtm`lÿƒR=f·VýVg¾|Ž„vôTmKQV·UÉlKNNÿ(ƒ)n<h«R„v…Qè?bô•Ø«ˆŸ:NZSir†™ÿ·V=t¯e˜(ƒ)n<h«RÌ‘„vv–÷t6eÏ…†™=fNLuNÏ…ÁTgY„vv–÷t6eÏ…†™KNNÿæSYN*NW„T„vZSir†™=fuQhVÍsR†™ÿÙÌ‘ØSìb†NN*NÍs5„v6RgNbYNSuQhV6eÏ…†™ÿîhÀsIuÊ^mNT7h<P—VN8nÿƒR=f1uú^Qr'Y^byrVÌ‘·V·îhÀs(W1847ó1854t^ô•ú^b„vÿÍN6e	gNLuN‡ez‚YtQöegôvóôTmKQöegØuIujOÁTgÍ‘‰„v6eÏ…ÿvQ-NgW„T„vjOÁT‰peÉbeS„v0‰¯e÷^1WÍk00 "
+ EDG_Melk_Abbey:0 "…hSKQîOSb–"
+ EDG_Melk_Abbey_desc:0 "…hSKQîOSb–bËzŽN1089t^ÿØšESqSv˜ÿïO°wYYt³lÿÙ*N,grOîOSb–ÿ„^%N0W8wËzŽNå‹0W:S„vOŽÎ˜ofKN-Nÿàeº‹=fXNfØ=fXN9‚ÎNwÜ1SqVºN<w^0îOSb–*XðyôTmKQVú^Qr„vpgjOÿ1uÅ–<h^·nfpQv–S(W1702t^ó1738t^ô•ú^.0zÇINYe­^b–ÿ8nºNïSåN‰vNÅˆp™jŒNS„v‡v^ðS6–ÿ¿lNw•¦u200s|„v•Ê^MRLˆ0•Ê^2N¹cNweY0W)Rßu»lw„vIuÏP0¥cNegïSåNw0RþVfN†™ÿþVfN†™v˜N=fÝOS·yrW<hØu6R„vÁXIuÿte*NþVfN†™Ï…fN9NYOŒQÿÎNîOSb–„vs^ðSNïO°wYYt³lîXÂ‰KNofÿKS6e<w•^0"
+ EDG_Schloss_Corvey:0 "ÑySôuîOSb–"
+ EDG_Schloss_Corvey_desc:0 "ÙÌ‘,g^SŽN(„KQîh0ågtüfÎNÖN„v–™ýšNtúQÑSÿ(u†N	NASt^Vg(„KQîhºNÿëOvQ9eáOúWcw0(„KQîhºN„vNLuh«ˆgdÁkÿvQ–™†˜îh—gKNPRWidukind‘šNwÑžlšMReg×SmÿÎNdkKNT9e‘š‹vlš0ågtüf(W(„KQîhºN„v†˜0WNú^Ëz†NÑySôuîOSb–ÿv^QrwÎW!XÝO²bƒRÿŽN=fÙÌ‘b:N'k2m„v‡eS-NÃVKNN0îOëXìN(WÙÌ‘åeåe„bÏuÿv^^ÛldÆ–TÍyWlšöeãNAm.ONeg„v‡e.sÿú^ËzwN*NäSxQþVfN†™0ÙNþVfN†™XR(W†NNCSt^ÿôv0RÊN)YÍN	gNN”NCSwSÏ…fNÿvQ-NgÍ‘‰„v1S=f‰^XW„v‡eÆ–åNÊSäSWlšòS¶RTX‰WO„v0t^òS00"
+ EDG_Saint_Nicholas_Church:0 "1W<SäSÉbYeX"
+ EDG_Saint_Nicholas_Church_desc:0 "1W<SäSÉbYeXú^ŽN1195t^ÿØš147s|ÿ=f·VýV,r	NØšYeXÿÅN!kŽNLNSÆYŒTÑy†–'YYeXÿ=fT·‹!X„v	N'YYeXKNN0"
+ EDG_Aachener_Dom:0 "šNt'YYeX"
+ EDG_Aachener_Dom_desc:0 "Ùµ^YeX'Y¦uú^ŽN790t^ó800t^ÿàeº‹=f(Wú^QròSØ=fz‚=gòSNýwQ	g^—áQaINÿ=f—RYeú^Qr„vN*NÏuxQƒ‹OÿÙÌ‘(W•¾600t^„vSg-Ný=f·Va×V^ýV‡v^„v R•QYeXÿågtüf'Y^W¨š¿O=f(WdkËWÏ…0šNt'YYeXÈSTôTÉbN<yÜbX0?–¨N'YYeXÿ=f·VýVW„T„vYeX0°sXR Rm—g‹sgú^Qrz‚=ggÍ‘‰„vƒ‹OÿMOŽN·VýVg‰è„vÎW^šNt^ÿ»ÑÔk)Röe0wƒpQ¹ƒXÿ=fW„T„vg1W0W0jO:Någtüf«R÷^YeX„všNt'YYeXÝOYu†NCSt^eg„v†SòSŸSŒŒÿ8hÃVú^Qr=fYiOS«R0YiOS«R=fSVöe?–SQS¯eqSSèg'Y„vWv˜bVú^Qrÿ=fNµ^kQÒ‰bV„vÎ˜<hìryr„vú^QrirÿÅˆp™NSKN0ƒRbŸR0W‡T†NäSxQú^Qrz‚=g0Üb`S­^Vú^QrÊSåTyrVú^Qr„vz‚=gÎ˜<h0YiOS«R(W'k2m†SòSN`S	ggÍ‘‰„v0WMO0šNt'YYeXteSOÓu„gHT•¹ebVÿKSv˜:NñbbVÿîOú^ŽNlQCQ790t^0RlQCQ800t^ågtüf'Y^öeãN0Ùµ^YeX„vupaegnŽNWlš^ýVöeãN„vN¹eVYeXÿ(W-NNªuöeYiOS«RÈSûm R†N¸‹YNSKN„vÅˆp™01414t^ŒT1884t^ÈSR+R(W2NµOú^1WiW0"
+ EDG_Lichtenstein_Castle:0 ")R^Õn¯efWÎW!X"
+ EDG_Lichtenstein_Castle_desc:0 ")R^Õn¯efWÎW!X=f±ƒ5ƒ¿l¸S†SòSg `EN„väS!XKNNÿmN=fNLuNgqSi–„vú^QrKNN0vQPWK„ŽN·VýVôT‰v-&rŒ!XÞTWOyr—g9h¿SÿMOŽNËeæt,gqS‰SÃWÈT(ƒ³l7Œ„va–ÁXNÿRú^ŽN1200t^ÿ1381t^(WÊN)Y«R¿kD–Ñ„vw)R^Õn¯efWÎW!X(WËeæt,gÎW^b‰N-N«ˆÁkŒT«ˆ>eVTÿ1390t^(WÊN)Y«R¿k„v0W¹eú^.†NNµ^ÎW!XÿÙµ^ÎW!X«ˆwjO=f-NNªuTgg3zúV„vÎW!XKNN0"
+ EDG_University_of_Gottingen:0 "åT÷^9h'YfR"
+ EDG_University_of_Gottingen_desc:0 "1734t^öe:Nñ‚ýVýV‹sÊSIlú‹Z'YlQ„vTN»lŒNN³QšRÔY>mvQÍ‘ã¯Q·f^jŒîh(WåT÷^9hRžRNNb'YfRÿèe(WVlb'k2m=T™„öeãNfR=gê1u„vtõVÿåT÷^9h'YfRmNàVdkNV'k2m'YfRfR=gê1uKNÎ˜l0'YfRRžRKNRÿsS¾‹	g^yfR0ÕlfR0òTfR0ISfRÛV'YÏuxQfRÑyÿ2SåNê6qÑyfRŒTÕlfR:NÍ‘0te*N18NªuÿåT÷^9h'YfRàVvQg:Nê1u„vÑyfR¢c0t¾|^yŒTlôVwESŽN·VýV'YfR-NÃV0WMO00R1812t^fR!hòTÏuÑSUSb:NwQ	gþVfNÏ…Ï‘25NŒQÿ«ˆwm…QY²‹ïS„vNNb°sãNS'YfR0ÿb4xÑNþfŽNdkx`NÕl‹Vÿv^ŠåT÷^9h=f^SŽNhQ'k2m„v0"
+ EDG_Magdeburger_Dom:0 "1W«ƒÌ‘¯e1WïQmt3tINYeµ^X"
+ EDG_Magdeburger_Dom_desc:0 "lš<h·V!XINYeµ^XckVTðy:N1W«ƒÌ‘¯e1WïQmt3tINYeµ^Xÿ=f·VýVg:NäSw„våTyrV)YINYeINYeµ^XKNN0ú^QrirvQ-NN*NSTXØš99.25s|ÿwæSYN*NR:N100.98s|ÿOƒRb:NMRN·VgØš„vINYeµ^X0INYeµ^XMOŽN·VýV(„KQîh-‰RÈTSyrTw¦ÞT„v–™œ^lš<h·V!Xÿ¦NTöe‰Rl„†NNÕlpQKQýV‹s0Wlš^ýV‡v^eYXbNN„vúh¢Q0,rNµ^YeXŽN937t^(WÊN)YINYeµ^X„vMOnú^bÿ=fNNb,gegëS1W«ƒÌ‘¯e„v'YîOSb–ÿåNªuõV)YINYe1WºN1W«ƒÌ‘¯e0INYeµ^XÎN1209t^VËY¨RWÿte*NåTzôuc†N	NŒvYt^ÿwSTX„vÖvú^ŽN1520t^MbckVãzåT0KS¡rq™Ïub‰N c:Yÿlš<h·V!XINYeµ^X,g«ŽS+TNwg0NÌR„vz‚=gbRÿÜóäSc„ÿÑó°sãNz‚=g0"
+ EDG_Wartburg:0 "ætSyr!X"
+ EDG_Wartburg_desc:0 "ætSyr!Xÿ=fNµ^àQNN¡l	gm0R4xOW„v-NNªuÎW!X0Ùµ^ÎW!Xú^ŽN1067t^ÿgTŒRåT(W1170t^0àeº‹=fú^QrPg™eØ=fú^QrÄ‰!jbÎW!X…Q„v¾‹ËeÿætSyr!Xý=f–™HSNc„v015211522t^ô•ÿ—RYe9ei—¶RlšN-ï·V:N†NYe‡vŒT‡v^„výUcw(Wdk¾–ŒT²ŽÏ…ÿ(WÎW!X-NÿÖNåN^yGY„v¦^S°e¦uÎN^J‡eûÑ‹b:N·V‡eÿÎW!X-NÝOXR	g.Oô‹-N„vï·VØyÆRµ–S0"
+ EDG_St_Cyprian_Cathedral:0 "1W‰nfÌ‘‰R'YYeX"
+ EDG_St_Cyprian_Cathedral_desc:0 "1W‰nfÌ‘‰R'YYeXú^.ŽN1305t^ÿsSz<S‰šN1W‰nfÌ‘‰R‘šëXâVú^ËzT	Nt^ÿ1uSV0WINYeT'k2mTýVÄuÇußRPcv^yrÆ–DÑ‘ÿggýwYú^.Nµ^'YYeXegªuõVINÝO1WºN1W‰nfÌ‘‰RN1221t^?QåzASWR›Q„vbŸR01uŽN*‚¿u„vî•˜˜ÿå‹YeX„vú^.ÇzASRbaÿNbx^z<S¯eSV0W'YtówPg0NÌRÿàVdkYeXú^.úW,g1S0WÖSPg0YeX¡‹RŽN1400t^MRŒRbRekú^.ÿFO(W1380t^(„ÈT¾‹sg„vTwÙuˆN†NASWR›QASRž^'Y„v‹S›RÿàVdkú^.¡‹RNQdnÿôvó1437t^MbŒRbyzv˜ú^.0\n\nte*NYeXÎ˜<h:NSVöeÛvLˆ„våTyrVú^QrÿTöe‡T†Nz<S¯eSV0W„vú^QrÎ˜<hÿteSOFh¶g1u'Ytów„gbv^(WYè‰|7R:N¯u‹vÿvQ…Qè'Y…SËR24s|ÿ•67s|ÿ-Nô•ñbv˜gØš20s|ÿYeXè•MRÅN	g2Nµ^STXÿTXSgØšY:N57s|0YeX…QèhQè1u‹vr‚'YtówQrbÿ…QèÅˆp™øvƒTöegvQÖNYeXASRzSÿIN‰US:y?QåzASWR›Qöeg„v1WiråN›Og1Ww»wðNÿYeX…QèµO—z»sƒtv^*gÇ‘(u.OßuåTyrVú^Qr„viVr‚»sƒtÿw=fASRŽrUS„vO(u†NUSr‚»sƒtåNÏQSú^Qrb,g0\n\nå‹YeXîvMRÍN6q(WÛNekibú^ÿ‹†6qøvƒŽN'k2mT‰|-NS‹WYeXwŠÿ1W‰nfÌ‘‰R'YYeXØ=fÇŽN4g.t—|Ù|NNbŸqÿFOÓuTåTyrNS^—V„vú^QrÎ˜<hO—VvQ(WNOYeXSV-NÍN	gïSWïS¹pKNYÿTöeNïS&T²‹„v=fÿvQ(WîvMR:NbkÍN6q=fS^—0W:Sg:Nž^'Y„v)YINYeXÿÙuˆN±›NŽÃÎNT0WMRegz<S¯eÂS RASWR›Q„vt^‰ºNåN¾|^yN„vŸ‚0"
+ EDG_Church_of_Crusade:0 "1WbYeX"
+ EDG_Church_of_Crusade_desc:0 "(WþVbSyQ=O5r÷–™„·VŒNNûQƒn,rN!k?–SÔkASWR›Qv^ÖS—VÜw)RKNTÿnm>m¿O‚YÎqŸSKN¿R-^wSte*NeYKQ‰TX<S0W:SÿúQŽNùRa'Y)R0W:Sbeu„vwÏ‘åNÊS RñmùRnfWúe¯e„vŒcµcÿ5r÷–™„·VŒNNNäN(WyaSÒRúW6wîOú^Nµ^°e„vYeXÿå‹YeXåN1Wb:NTåNªuõV‰|Žx,rN!k?–SÔkASWR›Q0\n\n‹†ô‹nm>mYeININ.VgdÁkYeXw^—ú^.YeXÿFOI`RV	g¹eÕlô‹glOÿwvQ-NN*N¹eV¿O‡˜:NGYyrÿYeX¾‹¡‹KNRv^^—åN±R²‹ªuõV:N1uÿw=fåNNÍy2–¡VåT‹N„vÄ‰<hwú^.ÿvQåN…Qb–Y’W„v¾‹¡‹tõVwÛLˆú^.ÿsS…Qè¾‹	gS‹WîOSb–ÊSYeXÿYèR:NÎW!XÁX’WÓu„gÿŒNwNTÑS%cLwýw0àVdk1WbYeXjO:N‰^X„v›Q‹NaINÜ'YŽNvQjO:NYeX„vªuõVaINÿv^(W1210t^ckVVËYú^¾‹\n\n6qw,rŒN!k?–SÔkASWR›Qb‰N„vSbÍTSb­e†Nå‹YeX„vú^¾‹ÿ(Wb‰NVËYKNöe1WbYeX„vINYeXRRŒRåTÿwY™XuóØ*gVËY¨RåTÿw0Reg„vÕl›Q¿OëkàeI–æb„v‰V•^m«R†Nå‹YeX0ôv0R1260t^ÿRR R•Qb:N?–SÒRýV‹s„v÷–™„·VNN¿OËzIRNwKbVËYùR1WbYeXÛLˆteîOú^.åNÊSib.VÿÕ‹þV(W?–SQS¯e¹ƒXSb.NN*NaSSaSŒgÎW!X0\n\nYeXŽN1443t^ŒRåTÿgÈurešR„v1WbYeXÄ‰!jàQNN=fgRÄ‰!j„v2NP'YSÿ…QèINYeXŒRhQÍ‘°eîOú^ÿv^M‘åNpeµ^îOSb–ÊST‰|D–^S¾‹ËeÿO`—YeXD–ÑaNQg¾0RêÙuê³ÿTöeP`—bSSqSv^Í‘°eú^.1WbYeXY™Xÿ2–¡VåT‹NmNNQTYibú^0‹†6qÎNteSOÄ‰!j00WtàV.tüRô„v¾‹¡‹¥YOSIrT¹eb—àV.tNegwÿ›Q‹NjO(uNÍN6qŽNaSSaSŒgÎW!XÿFOvQNbbÅb„v±R²‹Lw1mNQº‹àeŸR0\n\n2N!k?–SÔkASWR›Q„vÜw)RO—Vnm>mTWSa'Y)R„v®vÃW™„yr0W:SVËY^Ûl.O­dÿw1WbYeXRjO:NTweYKQ‰TX<SÊS®vÃW™„yr0W:S„vehhÿNº‹=f.OYeIm¨RØ=f›Q‹NLˆ¨Rÿå‹YeXbwô‹!X’WòT6qb:N†Nnm>mNLug:NÍ‘‰„vnc¹pKNN0–Nw®vÃW™„0W:Syr‰V•^PTnm>mÿ1WbYeX‹†òTNQ=fa'Y)R0W:S„veh4Y!XÿFOvQÍN6qjO:NN*NÍ‘‰¢gËuImÃŽNT‰|.OYeIm¨RSV-N0"
+ EDG_Vilnius_Cathedral:0 "ôuSËu¯e'YYeX"
+ EDG_Vilnius_Cathedral_desc:0 "ôuSËu¯e'YYeXÿú^ŽN1387t^ÿYeXàVY!k9eú^ÿn‡T†NåTyrV0‡ez‚YtQöegŒTôTmKQÎ˜<h0àQ*NNªuegNôv=fËz)YINYe’VÃVîv-NgÍ‘‰„vYeX0Ëzv–›R†SòSN¸‹YÍ‘'Y‹NöNýNKNøvsQ0YeXckb—qS™XNËzNw	NSQXÏPÿ-Nô•Kb>NASWR¶g„v=f1W‰RZÿvQóS=f1WaSNms|Éb¯eÿvQæT=f1W¯eTX<S¯eÉb+Y0'YYeXÁe=f52s|Øš„vŸ”|iÿ:N13ÿ17 NªuäSÎW!X„v†NgTXÿ…QXR17µ^Ÿ”hˆ0Ï‚TwöegYeX9e:NŽ=g†™ÿËzìrËzTb`YŸSŒŒ0YeXØXR†N14Nªu+gåTyrV4liVÁXIuÿ14ÿ20NªuRYeX(uwQ0YeXNb—„v0W«R…Q‰Rl„Nwôuv–TX¯e'YlQŒT»YPRÿýV‹såe	T™„TX¯e„v2N*N»YPRÿÝOXRNwýV‹sVÉbúW¯eÉb+Y„vÃV0"
+ EDG_Zamosc:0 "Nb«ƒ^GY"
+ EDG_Zamosc_desc:0 "Nb«ƒ^GYMOŽNâlpQNèÿ»ÑbS^—gØš0WŒTWyQXbRNu–0W&^ÿ0WYÉbísaS³l³lTuÿN¹ÛVASàQlQÌ‘1S=fLNKQpQÿwS¹”NASlQÌ‘1S=f‹vÄOW¯e0ƒRPWK„(WS'kŒT‰'kŽVÑžwm„vFUSNÿlQCQ16Nªuÿ›Q‹NS†˜Žr·Nb«ƒ^GYú^Ëz†NNb«ƒGYäSÎW0Nb«ƒ^GY=f16NªuZfgâlpQ„vgØš›Q‹Nßu^ÿbŸRSSW„ÿþfbÜw†N:V'Y„v^txQŒT«ƒ¯eÑylQýV01580t^ÿÖN÷‹eg†Na'Y)Rú^.^SWSY·«ƒpQY¾‹¡‹v^ú^.†NÙµ^ÎW^0å‹äSÎWåNa'Y)RFUNÎW^:NÏ–‹Wÿ1uú^Qr'Y^âlWSY·«ƒpQY¾‹¡‹ú^.ÿŒRbŽNôTmKQöeg0Nb«ƒ^GYäSÎWÝOYu†N16Nªu-NNªuÎWG•„vgRÎ˜ŒŒŒT‰^X!X’WÿNdkTöeØÝOYu†N'YÏ‘„v0EQRSO°sa'Y)RŒT-N'kú^QrÎ˜<hÓuT„vú^Qrir0(WNb«ƒ^GYÎW…QØXR(W	gSìb16NªuîOú^„v0RO„vTwTYeOYeX(W…Q„vN›N'YYeX0Nb«ƒ^GY=f16Nªu+gtQú^„vwQ‡ez‚YtQöegÎ˜<h„vÎW^pgúQ‹OÁ‹ÿƒRÝOYu†NgR„vÎW^Ä‰R0ÎW2–û|ßuåNÊS'YÏ‘gwQ8TV›RbÓuT†N.Oßua'Y)RŒT-N'kÎ˜<h„vú^Qr0.‹Wìryr„vNb«ƒ^GY^?e…SÿMOŽNwÎW„vck-NÃV0Øš8w„vTX|imN=fwÎW„v6RØš¹p0‰¹„v'YYeXú^ŽN16Nªuÿ…Q	gNb«ƒ^GY„vRú^wNb«ƒ„S¯eúW„vmW“X0"
+ EDG_Lublin_Castle:0 "bS^—gÎW!X"
+ EDG_Lublin_Castle_desc:0 "bS^—gÎW!X=fâlpQbS^—g„vNµ^ÎW!Xÿ×k»bS^—gçeÎW:Sÿ`—Ñ^-NÃVÿ=fâlpQ†SòSg `EN„v‡v²R«R¿kKNNÿîOú^ŽNaSPŸs|åeŒNNöegÿvQ†SòSïSåNý¯nê12Nªu0"
+ EDG_Santiago_Cathedral:0 "1W0WšNåT'YYeX"
+ EDG_Santiago_Cathedral_desc:0 "g1WYeX1W0WšNåT'YYeX>f:yúQN Rm—g‡eS.Oßu„vbíusQû|ÿÇ‘(u Rm—göeãN„vÌSJSW²Rs^b—ÿàVg1WwÇRegwŸÛvÿµOb—ÞVÊ^=fïSåN¿lNwYeX…QpNW„vg1Wï¿u‹WV0(W0WNmyiW-N‰RnNwÅ–T„vWSO01W0WšNåT'YYeX=fW„T„váT<yYeXÿée(W-NNªu1SòTÏuXR(Wÿú^Qr-NNôTmKQÎ˜<h	gsQ„v=fYeX„vckËzb—0Ëzb—åNñbbVVmŒTÅˆp™'`ìrËzÁXñg:NúW,g„gþVCQ.tÿêNwNÿÎN‚US0R't.Vÿn¾0RØšnoÿ>f:y†N¾‹¡‹wØš…„v„gþVŽbçT0‚YT¸‹YTöeg‰ísYr„vú^QrN7hÿ1W0WšNåT'YYeXckËzb—„vôTmKQÎ˜<hN'k2mvQÖN0W:S„vf>f:S+R=fÿˆVY„gþVCQ.t=fegê,gýV.Oßubwú^Qr^*NºNÿckËzb—-N.YèR„vµuT„gþV1SìrhN^ÿ^SŽNôTmKQú^QrÎ˜<h-N„vìryrAm>m0"
+ EDG_StLawrence_Cathedrall:0 "1W³R&O¯e'YYeX"
+ EDG_StLawrence_Cathedrall_desc:0 "YeXgéeú^ŽN-NNªuéegÿ‘šëXuQâV0RÙÌ‘TÿO—VESl9eáO)YINYeÿÈSÍ‘îO0ibú^v^OvQb:NWlšôTmKQú^Qrz‚=g„vxQƒ0YeXMR=fNSØšØš„vQXÏPÿ^yðS„v¿uagOŽAmEuÿ4Yv˜IQ¯s„vVyÏP«Žz1WcˆÿKbcASWR¶gÿ<ONN(WTNºN.O­dNwyó—0YeXNè=f‹vr‚„v0WúWÿNb—R=fámÄžr‚xxÓu„gÿv˜èæTóS2Nµ^Ÿ”|i^—8^NSŽ0pÛYeXÿÌ‘b—Øuán†NÁXIuÿckb—=fNµ^¢u(gÕ–IR„v^y›ŸÿS1W³R&O¯e„vQXÏPi(WÌ‘b—0QXÏPøwMRcNwASWR¶gÿ«ŽNw'Y¢ur‚ãuÑ‘N„vÕlcˆÿhˆÅ`Haeyws^ŒT0"
+ EDG_Munster_StPauls_Cathedral:0 "f¯eyr1WÝOW'YYeX"
+ EDG_Munster_StPauls_Cathedral_desc:0 "f¯eyr1WÝOW'YYeXÿ=f)YINYef¯eyrYe:S„vINYeµ^XÿNè•:N1WÝOWwú^0ƒRNÅN=f—RYeIm¨R„v-NÃVÿmN=få‹^gÍ‘‰„v†SòSŒT‡eS0WhKNN0f¯eyr1WÝOW'YYeX„vú^¾‹ËYŽN13NªuÿèŠ†NY*Nú^QrÎ˜<h„vöeãNÿYeX„vú^QrÎ˜<h|QwQWlšVŒTåTyrVCQ.tÿÙÍS.f†NÎNäSWlšÎ˜<hTåTyrÎ˜<hÇ!n„vú^Qr†SòS0\n\nYeX…QÝOXRNwNµ^¾|Ž„v)Y‡eŸ”ÿ6RjOŽN1540t^0Ùµ^Ÿ”NÅN>f:yöeô•ÿØÐc›O)YaŒ0—RYe‚‚åeŒT)Y‡eáOo`0'YYeX„v…Qè	g	N*N-N¿kÿ=fvQN'Yyr¹p0Ù7h„v^NS(WWlšVNåTyrVú^QrÎ˜<h„vÇ!nöegƒ:N8^Á‰0YeX„vÞVÊ^=fæSNYVºNèlîv„v0W¹eÿvQ-NUS:y†NN›N-NNªuŒT‡ez‚YtQöeg„vÕ–IRŒTÅˆp™0myiWŒTÕ–ÏPÿYeX…QÅˆp™	gY*NmyiWŒT¾|Ž„v—RYeÕ–ÏPÿvQ-NN›N=f-NNªuöeg„vpgjO0YeX„viVr‚»sƒt—z=fvQæSN'Y®N¹pÿÙ›N—z7bUS:y†NTÍy—RYeEe‹NŒT1WÏu:Wofÿr‚iV‘e“eÿgwQz‚=g÷N<P0"
+ EDG_Ethel_Palace:0 "Œ‚mtSLˆ«R"
+ EDG_Ethel_Palace_desc:0 ""
+ EDG_Max_Castle:0 "lšKQ¯eÎW!X"
+ EDG_Max_Castle_desc:0 "lšKQ¯e!X=f^³RôTkG•N„vNY!X’W‰^Xÿ=f±ƒ5ƒ³l-Nè=UN*g«ˆmcOW„v-NNªuÎW!X0sQŽNlšKQ¯e!XÎW!X„vøvsQ°‹UVgéeúQ°s(W12NªuÿÙ*NÎW!X	g2N*Nîv„vÿ,rN*Nîv„v=f:N†NÝO²b^³RôTkÿ,rŒN*Nîv„vR=fjO:NN*NV6ez9„v¾‹Ëe0"
+ EDG_Mainz_StMartins_Cathedral:0 "ŽàV(ƒ1W›sSšR'YYeX"
+ EDG_Mainz_StMartins_Cathedral_desc:0 "ŽàV(ƒ'YYeXêlQCQ975t^wÿËYÈu	c¡‹RtQú^ÿ‹†6q†SÏuY!kÎ˜<hØSÁÿêS=f»SžXú^°e„vèRÿàQNN¡l	g9e¨RŸS	gèR0å‹YeX=f)YINYeŽàV(ƒYe:S„vINYeµ^XÿINÝO1WºN=fýS„v›sSšR0'YYeXwQ	g†SòSåNÊSz‚=gN„vÌSÍ‘Í‘‰aINÿ=fúWcwYeáOðN(W'k2mµNu„vpgjOÿZCgkk„v†SûNŽàV(ƒ'YINYe(W¦Rwm‰lnmÿ'YYeXmN–KN‹TÐY‚0"
+ EDG_Frankfurt_Cathedral:0 "‡v^'YYeX"
+ EDG_Frankfurt_Cathedral_desc:0 "ÕlpQKQy'YYeXÿFrankfurtCathedral	ÿMOŽNMOŽNWlš^:WåNNÿ=fNhåT·VVú^Qr0ƒR=f13ó15Nªu„våTyrVú^irÿÈSðy:N‡v^'YYeXÿKaiserdom	ÿÊS R•QYeX0YeXR“^…QH–R	g'YINYeìN(W R•QxQ<yöeNbz„vNSKNcˆˆÿ	g332µuðS6–ôvTXv˜ÿTXv˜ïSïO°wte*NÎW^„vhQofÿIN|i=fîXKN„vAS”NNªuåTyrVTX|iÿØš95s|ÿYeXWSb—„v•bhy<yX=fþfÏu	>N‡v^„v0W¹eÿGY*`„v=f'YYeXÌ‘ÎNeg1S¡l	g'YINYe0"
+ EDG_Speyer_Cathedral:0 "Ëe>mS'YYeX"
+ EDG_Speyer_Cathedral_desc:0 "Ëe>mSINYeµ^XËYú^ŽN1030t^ÿsS·^Éb·VŒNNöegÿ–T(W11Nªu+gÛLˆ†NN!kÍ‘îOÿ'YYeX„vIN‰èR=f'YYe…S0ÛV*NÒ‰TXŒT2N*NñbbVv˜0Ù=fWlš^ýVöeãNgW„T„vWlšVú^QrKNNÿvQú^QrÎ˜<hf>f×S0RN‰¹e2NÍyú^Qr‡eS„vqVÍT0ËeiO6wS'YYeX=f'k2mg'Y„vwQ	gWlšVú^QrÎ˜<h„vYeXÿmN=f^y1WWlš^ýVöeãN„vIN‰ªuõV‘xKNN0\n\nSVRú^.KNöeÿËe>mSINYeµ^X=f’d)RÏeÿ4NªuöeESOO(WwƒpQÕlpQKQèK„	ÿ5Ïe„vÁyºNYeXŒT“X0WÿƒR(Wte*N‰¹eýðy—VN=fg:NR'Y„v^yYeú^Qr0YeX…Q„v0WNÿsS0W“X'Y¦uãzåTŽN1030t^ÿNLuNTNÓu„g0TN‰|‹W„v0WN²RýwNKNøv²ZŽ„våRåRàeàQ0‚YÊN0W“Xb:NNYÝu‹Y„vÅe8nÜw0WÿÙÌ‘¨PXRNwSìb·^Éb·VŒNN'Y^(W…Q„v¸‹Y-NNªu„výV‹s0‹sT„v“X²RÿóS	g8*N	ÿ0Ù›NmW“XGW=f(W1039t^ó1309t^KNô•Nl„„v0vQ-Nÿ·^Éb·VŒNN'Y^(WNT„vgR2Nt^ÿvQ“Xtz=fl„ŽNvQƒR0W¹eÿàV:NSVöe„v0WN“XtzØ*gýwhQèãzåT0\n\n'YYeX„vów4Yœ˜r‚GYVÿÔkƒù`ºNèlîvÿEžÄžr‚NTÍy¢ur‚÷mBg²NÇu(WNwÿQ RN'YYeXú^Qr,g«Ž„vRÂ‰Y‹Wÿ*Xðy:NNLuú^QròS-N„vN'YGYÂ‰0"
+ EDG_Royal_Palace_of_Amsterdam:0 "?–ÆY¯eyr9N‡v«R"
+ EDG_Royal_Palace_of_Amsterdam_desc:0 "?–ÆY¯eyr9N‡v«RPWK„(W?–ÆY¯eyr9N^-NÃV„v4lkW^:WNÿ‡v«Rú^bŽN1648t^ÿ¾‹¡‹^=fÅ–KQ^·ƒ·NW0,gegÙ*Nú^Qr=f(uegjO:N?–ÆY¯eyr9N„v^?e…S„v0\n\n?–ÆY¯eyr9N‡v«RqQ	g13659õhhih=e‘dNwÙµ^ú^Qr0	gºNþfÎN-NÖSúQÇN9hÿÀhKmvQbÍ‘ýw›RÿÓuœghˆfÿteb^?bKSëkàeNw–„vqSi–0Ù›N0WihGW:N16480R1655t^ô•SbeQ0WN„vŸSöNÿ=fú^QròSN„vkQ'YGYùKNN0‹s«RŸS:N^?e…SŒTÕlb–ÿƒRþf=fÙµ^ÎW^CNóte*NqQŒTýV„v?e»lŒTÏuNm-NÃVÿƒRNb(W„v0W¹e'YkWÿmNþfÏu=fhQÎWgÍ‘‰„v^:WŒTIu¶RœU1r„vRjOIN˜˜ÿƒR°s(WÍN6qEQán†NIm›R0"
+ EDG_Leipzig_University:0 "±ƒÔk!•'YfR"
+ EDG_Leipzig_University_desc:0 "(W'k2mÿd–†NNòTXR(W„v'YfRYÿ13Nªu°eú^„v'YfRý=f1uYe‡v!P®‹v^¾‹n„vÿÛeQ14Nªuÿ'k2mT0W„vTIN·u·uV¾‹^SŽNêñT„v'YfRÿFOÍNÅV‰˜·ƒ—VYe‡v„v²‹ïSÿ'k2m'YfR„vpeÏ‘ÅžX R01378t^1417t^ÑSu†NYeO'YRÂˆÿÙùR'k2m„v?e»lHrþVŒT'YfR^NSµNu†NñmÜ„vqVÍT0àV:NÙ:WYeO'YRÂˆÿŸS,gZwÆ–(WôTÎž„vegê'k2mT0W„v^u×e^œœf0WÙz0R†NT0WNb=ec„vYe‡v±N¹ÿS•„vlÏeùRËzŒT—RYeáOðN²QzüRô†N·VýV^u'YÄ‰!j0W»yVôTÎž'YfRÔÞVEeaNÿ1udkÃOb†N·VýV…QN'Yyb'YfR„vúQ°s0·Ví‹W0W:S(WYe‡v„v'Y›R=ecNÿ14NªuTJSgúQ°s†NN:W°eú^'YfR„vÐ¨RÿÙyb°e'YfRý·ƒ—V†NYe‡v˜ÑS„vyr¸‹0\n\n1409t^^Éb<hågt'YfRÑSu†NT7h„vRÂˆÅ`µQÿ¸‹Y(W^Éb<h„vYe^ŒTfRuàVdkÔÞV·VýV0(WÙ7h„vÌwofNÿþV—g9h„v¹e=O¯O5r0æ—÷^‹sg„v¹=O¯O5r0Teg„v(„KQîh	^¯OSyrÈpNNŒTÖN„vVVæ—÷^‹sg„v¹=O¯O5rZÉ^ŒNNŽN1409t^Rú^†N±ƒÔk!•'YfRÿ'YfR¾‹Ëz„vz‚=gû|¥c6e†NÎN^Éb<hÞVeg„v^uÿ±ƒÔk!•'YfR·ƒ—V†NSV0Wßu»lw„v'Y›RD©Rÿv^(WTt^9g9åe·ƒ—VYe‡všN†SqS'Y”NN„v²‹ïSÿ12g2åeckVbËz0vQTÈSøvçu¾‹Ëz†NISfRû|ÿ1415t^	ÿŒTÕlfRû|ÿ1446t^	ÿ0"
+ EDG_Frankfur_Romanplatz:0 "ÕlpQKQyWlš^:W"
+ EDG_Frankfur_Romanplatz_desc:0 "-NNªuöegÿWlš^:W=fte*NÕlpQKQy„v-NÃV^:WÿÆ–^ŒTFUÁT²NfOÿåNÊS?e»l'`Æ–OŒTÕl­^¡R2Rý(WÙÌ‘>NLˆ0"
+ EDG_Frankfurt_School_of_Engineering:0 "ÕlpQKQyåTzfRb–"
+ EDG_Frankfurt_School_of_Engineering_desc:0 ""
+ EDG_Frankfurt_Grand_Library:0 "^Ëz'YþVfN†™"
+ EDG_Frankfurt_Grand_Library_desc:0 ""
+
+ EDG_FCC_center:0 "-NÃV"
+ EDG_FCC_road:0 "Sï"
+ EDG_FCC_action_modifier:0 "ÀoImîOck"
+
+
+ EDG_FCC_num_of_white_knight:0 "ïSˆcCg„v§R¢ua„„§!‘šëXâV"
+ EDG_FCC_num_of_red_knight:0 "ïSˆcCg„v§W‹va„„§!‘šëXâV"
+
+
+
+
+
+
+
+
+
+
+
+
+ obj_edg_early_absolutism:0 "éegN6RININ"
+ obj_edg_early_absolutism_desc:0 "N6R¦^ÅV‰˜óS¾0R50"
+ ab_edg_concentration_of_power:0 "Cg›RÆ–-N"
+ EDG_country_decentralization:0 "Çée„vÆ–Cg9ei—"
+ EDG_country_decentralization_desc:0 "SVMRöeãN‹†6qúQ°s†NN6RININNÆ–Cg9ei—„vqVPRÿFO×SP–ŽNöeãNÑyŽbIràV.tÿ(WýV¶RÐLˆÍyv^NýwýwYw0RINüRjO(u0"

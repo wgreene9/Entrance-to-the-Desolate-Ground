@@ -1,0 +1,197 @@
+﻿l_english:
+ EDG_LIT_mission_1_2_title:0 "雅盖隆的命运"
+ EDG_LIT_mission_1_2_desc:0 ""
+ EDG_LIT_mission_1_2.modifier.effect.tt:0 "解锁决议：§Y操纵派系§!\n"
+
+ EDG_LIT_mission_1_3_title:0 "沃达玛制度"
+ EDG_LIT_mission_1_3_desc:0 ""
+ EDG_LIT_mission_1_3.condition.tt:0 "事件§Y1508年米哈乌·格林斯基武装起义§!已经发生"
+
+ EDG_LIT_mission_1_5_title:0 "征服扎波罗热"
+ EDG_LIT_mission_1_5_desc:0 ""
+
+ EDG_LIT_mission_1_7_title:0 "碾碎梁赞"
+ EDG_LIT_mission_1_7_desc:0 ""
+
+ EDG_LIT_mission_1_9_title:0 "大北方战争"
+ EDG_LIT_mission_1_9_desc:0 ""
+
+ EDG_LIT_mission_1_10_title:0 "八月宪法"
+ EDG_LIT_mission_1_10_desc:0 ""
+
+ EDG_LIT_mission_1_11_title:0 "立陶宛波雅尔"
+ EDG_LIT_mission_1_11_desc:0 ""
+
+ EDG_LIT_mission_1_12_title:0 "维陶塔斯会议"
+ EDG_LIT_mission_1_12_desc:0 ""
+
+ EDG_LIT_mission_1_14_title:0 "炮战的艺术"
+ EDG_LIT_mission_1_14_desc:0 ""
+
+ EDG_LIT_mission_1_17_title:0 "统一罗斯之地"
+ EDG_LIT_mission_1_17_desc:0 ""
+
+ EDG_LIT_mission_2_1_title:0 "黑云压城"
+ EDG_LIT_mission_2_1_desc:0 ""
+ EDG_LIT_mission_2_1.disaster.effect.tt:0 "开始灾难§R破碎之冠§!\n"
+
+ EDG_LIT_mission_2_3_title:0 "入侵白俄罗斯"
+ EDG_LIT_mission_2_3_desc:0 ""
+
+ EDG_LIT_mission_2_4_title:0 "罗斯战争"
+ EDG_LIT_mission_2_4_desc:0 ""
+
+ EDG_LIT_mission_2_5_title:0 "驯服黑鹰"
+ EDG_LIT_mission_2_5_desc:0 ""
+
+ EDG_LIT_mission_2_7_title:0 "践踏瓦良格"
+ EDG_LIT_mission_2_7_desc:0 ""
+
+ EDG_LIT_mission_2_8_title:0 "全罗斯之主"
+ EDG_LIT_mission_2_8_desc:0 ""
+
+ EDG_LIT_mission_2_9_title:0 "脱脱迷失之血"
+ EDG_LIT_mission_2_9_desc:0 ""
+
+ EDG_LIT_mission_2_11_title:0 "在册哥萨克"
+ EDG_LIT_mission_2_11_desc:0 ""
+
+ EDG_LIT_mission_2_12_title:0 "常备外籍军团"
+ EDG_LIT_mission_2_12_desc:0 ""
+
+ EDG_LIT_mission_2_13_title:0 "军事普查"
+ EDG_LIT_mission_2_13_desc:0 ""
+
+ EDG_LIT_mission_2_14_title:0 "季度军"
+ EDG_LIT_mission_2_14_desc:0 ""
+
+ EDG_LIT_mission_2_15_title:0 "一生征战"
+ EDG_LIT_mission_2_15_desc:0 ""
+
+ EDG_LIT_mission_2_17_title:0 "开发鲁塞尼亚"
+ EDG_LIT_mission_2_17_desc:0 ""
+
+ EDG_LIT_mission_2_18_title:0 "人民的小父亲"
+ EDG_LIT_mission_2_18_desc:0 ""
+
+ EDG_LIT_mission_3_2_title:0 "塔金维斯之子"
+ EDG_LIT_mission_3_2_desc:0 ""
+ EDG_LIT_mission_3_2.condition.tt:0 "灾难§R破碎之冠§!已结束"
+
+ EDG_LIT_mission_3_3_title:0 "夺取利沃尼亚"
+ EDG_LIT_mission_3_3_desc:0 ""
+
+ EDG_LIT_mission_3_5_title:0 "统治基辅"
+ EDG_LIT_mission_3_5_desc:0 ""
+
+ EDG_LIT_mission_3_6_title:0 "鲁塞尼亚大公"
+ EDG_LIT_mission_3_6_desc:0 ""
+
+ EDG_LIT_mission_3_7_title:0 "毁灭莫斯科"
+ EDG_LIT_mission_3_7_desc:0 ""
+
+ EDG_LIT_mission_3_9_title:0 "入侵德意志"
+ EDG_LIT_mission_3_9_desc:0 ""
+
+ EDG_LIT_mission_3_10_title:0 "立陶宛霸权"
+ EDG_LIT_mission_3_10_desc:0 ""
+
+ EDG_LIT_mission_3_11_title:0 "卡西米尔法典"
+ EDG_LIT_mission_3_11_desc:0 ""
+ EDG_LIT_mission_3_11.effect.tt:0 "废除§Y高等公爵制度§!\n\n§Y贵族§!将改名为§Y吉诺斯§!\n"
+
+ EDG_LIT_mission_3_12_title:0 "宫廷改革"
+ EDG_LIT_mission_3_12_desc:0 ""
+
+ EDG_LIT_mission_3_14_title:0 "区域征兵制"
+ EDG_LIT_mission_3_14_desc:0 ""
+
+ EDG_LIT_mission_3_16_title:0 "留里克的遗产"
+ EDG_LIT_mission_3_16_desc:0 ""
+
+ EDG_LIT_mission_3_18_title:0 "彻底击溃鞑靼"
+ EDG_LIT_mission_3_18_desc:0 ""
+
+ EDG_LIT_mission_3_19_title:0 "毋庸置疑"
+ EDG_LIT_mission_3_19_desc:0 ""
+
+ EDG_LIT_mission_3_20_title:0 "国土未达尽头"
+ EDG_LIT_mission_3_20_desc:0 ""
+
+ EDG_LIT_mission_4_1_title:0 "信仰抉择"
+ EDG_LIT_mission_4_1_desc:0 ""
+ EDG_LIT_mission_4_1.condition.tt:0 "事件§Y教宗的提议§!已触发"
+
+ EDG_LIT_mission_4_3_title:0 "苏勒战役"
+ EDG_LIT_mission_4_3_desc:0 ""
+
+ EDG_LIT_mission_4_4_title:0 "圣剑与权柄"
+ EDG_LIT_mission_4_4_desc:0 ""
+
+ EDG_LIT_mission_4_5_title:0 "罗斯教会"
+ EDG_LIT_mission_4_5_desc:0 ""
+
+ EDG_LIT_mission_4_7_title:0 "入侵摩尔多瓦"
+ EDG_LIT_mission_4_7_desc:0 ""
+
+ EDG_LIT_mission_4_8_title:0 "保护罗马尼亚"
+ EDG_LIT_mission_4_8_desc:0 ""
+
+ EDG_LIT_mission_4_9_title:0 "征服喀尔巴阡"
+ EDG_LIT_mission_4_9_desc:0 ""
+
+ EDG_LIT_mission_4_11_title:0 "移民与屯垦"
+ EDG_LIT_mission_4_11_desc:0 ""
+
+ EDG_LIT_mission_4_12_title:0 "马格德堡法"
+ EDG_LIT_mission_4_12_desc:0 ""
+
+ EDG_LIT_mission_4_13_title:0 "普世价值"
+ EDG_LIT_mission_4_13_desc:0 ""
+
+ EDG_LIT_mission_4_14_title:0 "纽尔维斯大学"
+ EDG_LIT_mission_4_14_desc:0 ""
+
+ EDG_LIT_mission_4_15_title:0 "工业与西化"
+ EDG_LIT_mission_4_15_desc:0 ""
+
+ EDG_LIT_mission_4_17_title:0 "征服君士坦丁堡"
+ EDG_LIT_mission_4_17_desc:0 ""
+
+ EDG_LIT_mission_4_18_title:0 "欧洲的巨人"
+ EDG_LIT_mission_4_18_desc:0 ""
+
+ EDG_LIT_mission_5_2_title:0 "宗教立场"
+ EDG_LIT_mission_5_2_desc:0 ""
+
+ EDG_LIT_mission_5_3_title:0 "格林瓦尔德战役"
+ EDG_LIT_mission_5_3_desc:0 ""
+
+ EDG_LIT_mission_5_5_title:0 "宗教领袖"
+ EDG_LIT_mission_5_5_desc:0 ""
+
+ EDG_LIT_mission_5_7_title:0 "介入波兰"
+ EDG_LIT_mission_5_7_desc:0 ""
+ EDG_LIT_mission_5_5.effect.tt:0 "当@POL§Y[POL.GetName]§!存在时，我们将获得对@POL§Y[POL.GetName]§!§T重建联合统治§!的§Y宣战理由§!\n"
+
+ EDG_LIT_mission_5_9_title:0 "操纵选王议会"
+ EDG_LIT_mission_5_9_desc:0 ""
+ EDG_LIT_mission_5_9.effct.tt:0 "允许我们§T提前成立§!@PLC§Y立陶宛波兰联邦§!\n"
+
+ EDG_LIT_mission_5_10_title:0 "五三宪法"
+ EDG_LIT_mission_5_10_desc:0 ""
+
+ EDG_LIT_mission_5_11_title:0 "弗洛斯卡思想"
+ EDG_LIT_mission_5_11_desc:0 ""
+
+ EDG_LIT_mission_5_12_title:0 "宗教移民"
+ EDG_LIT_mission_5_12_desc:0 ""
+
+ EDG_LIT_mission_5_14_title:0 "文化熔炉"
+ EDG_LIT_mission_5_14_desc:0 ""
+ EDG_LIT_mission_5_14.condition.tt:0 "接纳了至少§G20§!个§Y文化§!"
+
+ EDG_LIT_mission_5_17_title:0 "灰色潮水"
+ EDG_LIT_mission_5_17_desc:0 ""
+
+

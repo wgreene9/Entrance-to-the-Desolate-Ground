@@ -1,0 +1,55 @@
+
+namespace = EDG_RYA_events
+
+country_event = { #9çeYYS∑eYRbÙuGY
+	id = EDG_RYA_events.104
+	title = EDG_RYA_events.104t
+	desc = EDG_RYA_events.104d
+	picture = SEJM_eventPicture
+
+	is_triggered_only = yes
+
+	trigger = {
+		tag = RYA
+	}
+
+	option = { #1S=f÷NÜNˇ
+		name = "EDG_RYA_events.104A"
+		remove_country_modifier = EDG_RYA_events_101_modifier
+		#define_ruler = {
+		#	name = "(Åh^ç‚l≈ñSkSâV)"
+		#	dynasty = "eYRbÙuGY"
+		#	adm = 0
+    	#	dip = 0
+   		#	mil = 0
+		#}
+		define_ruler = {
+			name = "9çeYYS0æ|fw0"
+			dynasty = "eY)RbÙuGY"
+			age = 17
+			change_adm = 2
+			change_dip = 2
+			change_mil = 2
+		}
+		clear_scripted_personalities = yes
+		#add_ruler_personality = embezzler_personality
+  		#add_ruler_personality = craven_personality
+  		#add_ruler_personality = greedy_personality
+		add_ruler_personality = reformist_personality
+		add_ruler_personality = tolerant_personality
+		add_ruler_personality = careful_personality
+		ai_chance = {
+			factor = 1
+		}
+		#add_country_modifier = {
+		#	name = EDG_RYA_events_104_modifier
+		#	duration = -1
+		#}
+		#hidden_effect = {
+		#	set_variable = {
+		#		which = EDG_rya_rerise_1_var #Åh^çãsCgÕë˙^€è¶^
+		#		value = 0
+		#	}
+		#}
+	}
+}

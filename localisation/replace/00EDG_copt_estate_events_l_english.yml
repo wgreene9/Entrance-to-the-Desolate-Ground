@@ -1,0 +1,105 @@
+﻿l_english:
+
+EDG_copt_estate_events.1.t:0 "ÑynfyrºN„vÑSUS"
+EDG_copt_estate_events.1.d:0 "[Root.GetÑynfyrºNName](WˆVéeåNMR¿O(WÃWÊS„vW0WNuIm†NÿbìNN—VNSÖNìN¥c³ueQbìN„v?eœ^ÿåNžR°sùRÌRv™„vÃWÊS0W:S„vµc6R0SV6qÿ$ESTATE_NOBLES$b$ESTATE_CHURCH$„vCgZRú^Ëz(WáOðNŒT›Q‹NžR›RKNNÿøvƒŽNMR2NwÿÑynfyrºNÅV‰˜äR³RKY—eÿåN0ÌR:NLèlib.VêñT„v‹NN0NÇÿgÑÖNìN„v‹NNÑSUS—V^—8^z˜)R0‹†6q[Root.GetÑynfyrºNName]¡l	gTØš„v>yO0WMOÿFOFUN(WˆVY¹eb—ÿ=fbýVÏuNm„v=eñgÿÇùR'^„vµc6R[Root.GetÑynfyrºNName]òT6qnnb:NbýV„vN¡w¿R›R0"
+EDG_copt_estate_events.1.a:0 "[Root.GetÑynfyrºNName]„vqVÍT›R(Wib'Y0"
+EDG_copt_estate_events.2.t:0 "ÃWs|S«R c[Root.GetÑynfyrºNName]"
+EDG_copt_estate_events.2.d:0 "[Root.GetÑynfyrºNName]ùR$ESTATE_NOBLES$(WbýVwQ	gèT'YqVÍT›Ra0RÅbçV0ÖNìNðXðyˆVYNBS5ÏebXTNŒ˜ýV¶R„vÕl‹Vÿån(uÖNìN„vCg›R(WW0WNàetV6ezÑ‘ÊSLˆFU„vÇï90	g›Nuó«ˆcµc­ˆûQFUºNÿÇ¢b«RNÒR0teg:YÖS±”00\nåN[Root.GetAdjective]:NãNhˆ„v[Root.GetÑynfyrºNName]°s(WðybýV„vÏuNmÑSUSOàV:NÙ›Nv``Nw×SI–0w$ESTATE_NOBLES$Rô‹ÿÖNìNêS=fTtÐ(uÖNìN„vïCg0N›N5ÏemN?aaNýV¶RR«NÙèR6eeQ0"
+EDG_copt_estate_events.2.a:0 "‹Y'TÿÖNìNêS=fTtÐ(uÖNìN„vCg)R0"
+EDG_copt_estate_events.2.b:0 "bìNÅV‰˜6RbkÙ›Nv`Lˆÿ"
+EDG_copt_estate_events.3.t:0 "ÑynfyrºN„vpˆK„"
+EDG_copt_estate_events.3.d:0 "KS¡r[Root.GetÑynfyrºNName]Œcác†N<SW³l„v0ÌRŒTÎW^-N„v'YÏ‘FUOÿFOÖNìN¡l	gvQÖN>mû|„vçeyrCgŒTNˆßu0àVdkÿ[Root.GetÑynfyrºNName]„v0WMOŒTqVÍT›RˆVSýwÏP±›N)Ybo5Äw±7h3zúVÿ¸‹Y[Root.GetÑynfyrºNName]FUºN(Wb—4NÏuNmNLˆöeO6qO4xµNv^1Y»SŽVåe„vCg¿R0gÑÿNpÐ„v0¡RŒT1YVr„v?e»lÎ‘ÃVüRô[Root.GetName]„v[Root.GetÑynfyrºNName]1Y»S†NCg›RŒTqVÍT›RÿÖNìN(WÃWÊSŒTvQÖN0W:S„vÎW^-N1Y»S†NŽVåe„vèT'YqVÍT›R0"
+EDG_copt_estate_events.3.a:0 "ÙùRŽN[Root.GetÑynfyrºNName]wŠÿNåeK„N7hûR8^0"
+EDG_copt_estate_events.4.t:1 "[growing_city.GetCapitalName]‰BlyrCg"
+EDG_copt_estate_events.4.d:1 "(WÃWÊSÿ[Root.GetÑynfyrºNName]•gNLˆ?e0FUNŒTÏuNmÆRNïSRÿÖNìN`SncNw<SW³l¿l¸S„v'YÏ‘W0Wÿv^ŒcácNw¸‹YÎW^-N„v'YÏ‘FUONåTJW0\n[growing_city.GetCapitalName]„v[Root.GetÑynfyrºNName]ŽNMRNENÜbO†N[Root.Monarch.GetTitle]ÿ÷‹BlKˆNÖNìNyrCgv^MQd–ck8^KzÿåNÃOÛÎW^„vÑSUS0[Root.GetÑynfyrºNName]bú‹ÿ‚YœgbìNTr”^ÖNìN„v‰BlÿÖNìNSÝOÁ‹SV0W„vÏuNmSOÅÑSUSÿv^©‹bìN‹NžRNýwY·ƒÖSôfY0ÌR0"
+EDG_copt_estate_events.4.a:0 "bìNËYÈuáOûN[Root.GetÑynfyrºNName]0"
+EDG_copt_estate_events.4.b:0 "[Root.GetÑynfyrºNName]NTˆVár>s0"
+EDG_copt_estate_events.5.t:0 "<SW³l*mm"
+EDG_copt_estate_events.5.d:0 "ˆVENåNegÿ<SW³l³l7ŒNôv=fÉh0uÞõu0Iz±‚Ø˜™™0(W’dÈTÉb™l.oŒT?–Éb=O™l.o„væTóS9Yc-Nÿ?‡‡„v<SW³l¹r‚YNagÿur‚„vpÓ^ÿEQánNwàeP–„vu:g0FO<SW³lœU`àe8^ÿKS¡rÃWÊSºN(WNCSt^„v†SòS-NnŒcác†NyY4–tf„vÄ‰‹VÿFOyYI`=fOúQvQNa0W.b*mmŒTr^ñe0w<SW³l„vœU`àe8^ÿI`=fO©‹ÃWÊSb—4Ne™Rƒ0\n(WÑgÿ<SW³lQ¦^&^eg†NŒpxyÿ.b†N<SW³l	NÒ‰2m„vIk6eÿ–KNweg„v=f®|ß˜qS:g0Ù:We™RƒÅ¨ir^†NbýV¸‹Y'YÎW^„v®|ÓNÿÎNVW0RšN†SqS'YÿÏk)Yý	g'YÏ‘„vŒpl™‰kÿÙùRŽNÃWÊSwŠÿòTÏu‚YT<SW³lÈuSèleQ0W-NwmN7hN«ˆÆ‰:N=f°eœœ‹NÿFOO6qüRô†NýV…Q„v¨Raƒ0\n™šwPR„vwŒvÓYÁ`ŽN8fFUÿe™™²N R„vFz¯e—gŒp¾–ùRWˆSN„v[Root.GetÑynfyrºNName]FU>'YSbúQKbÿÖNìN²‹:NÙ›NFUºN(W:gmrÖS´f)R0æSN¹eb—ÿ[Root.GetÑynfyrºNName]Rhˆ:yÙ=f'níw:„vÅV6qÓuœgÿwN9h,g1S¡l	g³Y„vb—S›O^:WAml0"
+EDG_copt_estate_events.5.a:0 ":VäNFUºNM–NO.U÷N0"
+EDG_copt_estate_events.5.b:0 "bìNN”^å‹ËNeQÙ›N‹N0"
+EDG_copt_estate_events.5.c:0 "bìNÅV‰˜pNNýwpN0R„vNb	gb—SÿRM‘ÙulO0"
+EDG_copt_estate_events.6.t:0 "v^Ëz„vCgZ"
+EDG_copt_estate_events.6.d:1 "[Root.GetÑynfyrºNName]v^N=fÎW^-N=UN„v¿R›Rÿ$ESTATE_CHURCH$eg—VôfZfÿFOùRŽNFz¯e—gwŠôf	gÝ‹í‹Cg0wÏkSVÎW^®‹OìSVöeÿ[Root.GetÑynfyrºNName]Ïu8^OŒT$ESTATE_CHURCH$àV:NaÁ‰NTwÀoÑS²Qz0\nw²Qz„vŠÑSnfMÿ©‹$ESTATE_CHURCH$VËYlQ6q…Æ‰[Root.GetÑynfyrºNName](WÖNìN„vÎW^-NTaÇ„vÄ‰R0àVdkegê«ˆ[Root.GetÑynfyrºNName]µc6R„vÎW^„vOYãNhˆMRegëR‰BlbìNYtÙÍyÅ`µQ0"
+EDG_copt_estate_events.6.a:0 "=ec[Root.GetÑynfyrºNName]0"
+EDG_copt_estate_events.6.b:0 "=ec$ESTATE_CHURCH$0"
+EDG_copt_estate_events.7.t:0 "ib'Y[Root.GetÑynfyrºNName]„vyrCg"
+EDG_copt_estate_events.7.d:0 "SV[Root.GetÑynfyrºNName]wQ†0RÖNìN(WýV¶R‹N¡RN„vÍ‘‰'`öeÿa0RêñT×S0R†NÇ¦^„vVzŒT¡r6Rÿ(WPŸs|6R¦^Nÿ[Root.GetÑynfyrºNName]„v‰4³u˜Y„vºN4YzÿuóÖNìN„vYeXmNO«ˆYV6ez>kÿwFz¯e—gìNR¡l	gÙ›Nmg0àVdkÿ[Root.GetÑynfyrºNName]TbìNÐc®‹ÿbìN”^SVÏQSùR[Root.GetÑynfyrºNName]Nb‰Bl„vz>kÿuó=fSLˆ90zKÊSTÍysQzmNÛLˆÏQS0"
+EDG_copt_estate_events.7.a:0 "PŸs|6R¦^”^å‹ôf:NËR¹R0"
+EDG_copt_estate_events.7.b:0 "[Root.GetÑynfyrºNName]—‰²‹nêñT„v0WMOÿ"
+EDG_copt_estate_events.8.t:0 "[Root.GetÑynfyrºNName]ùR8f?eVrNán"
+EDG_copt_estate_events.8.d:0 "1uŽNbìNùR+RýV˜^†NSb‹S'`„v8f?eVrÿpgúQ„vFUºNâVŒcác„v)RÊv×S†N0Rmc³R0[Root.GetÑynfyrºNName]6–BS=ecÙ›N'Y¶RÏeÿ÷‹BlbìNóS>eV8fyäNÿåNTPÖNìN„v6eeQmc1Y0"
+EDG_copt_estate_events.8.a:0 "bìNÅV‰˜=ec[Root.GetÑynfyrºNName]0"
+EDG_copt_estate_events.8.b:0 "býV„vFUN?eVrNOàV:N[Root.GetÑynfyrºNName]„vr^„˜w9eØS0"
+EDG_copt_estate_events.9.t:0 "¶R­^KbåTN"
+EDG_copt_estate_events.9.d:1 "ÏuNm„vÑSUSI`=fEQánÞz‰NÿÙùRŽNÃWÊS„vø‹YKbåTNwwŠ2S:N‚Ydk0(W<SW³l2N¸SuIm†NNCSt^„v[Root.GetÑynfyrºNName]NôvŒcácNwäSwN3zšR„vuµNŽb=gÿv^UR²wúQ†N*jZ„vFUºN6–BS0[Root.GetÑynfyrºNName]„vÌRÕˆFUºNÕ‹þVÕuÇLˆO„vmgÿYSÙuÎW^Y„v¶R­^KbåTNÛLˆuµN0w‹NžRNÙÍyYS6R=fASR	gZ4Y„vVreuÿFOtSÀo`†N±›NÎW^Ì‘„vLˆOåT.SÿÖNìNa0RêñTäSw„vCg)R«ˆ’Q¯rÿwNvQ¾|ÃVŒµc„v÷N<h6e0R²QûQ0[Root.GetÑynfyrºNName]²‹:NÿÖNìNSV6q	gCg)R9hd–egê^Y„vÞz‰NÿFO[Root.GetAdjective]„vLˆOåT.S°s(W1SMReg÷‹Bl[Root.Monarch.GetTitle]ÝO²bÖNìN„vyrCg0"
+EDG_copt_estate_events.9.a:0 "bìNNýwI–bkÙÍyÛek0"
+EDG_copt_estate_events.9.b:0 "bìNÅV‰˜ÝO²bLˆO„vyrCg0"
+EDG_copt_estate_events.10.t:0 ">yOAm¨R'`"
+EDG_copt_estate_events.10.d:0 "[Root.GetÑynfyrºNName]N­eb•„v›RÏ‘ÿÃOON­e	gÙ6–BS„v*NºN0RvQÖNâVSOb6–BS`SINüR„v0W¹eNŒBlu:g01SÞ[Root.GetÑynfyrºNName]„v-NNO6–BS„v¶R­^„viRPRÿmN×SÇo‚‹Y„vYe²wåNÊSøv9SM‘„vÎ‘ÃVÿýw›RmNnvNçe	g„vyrCg6–BSÿÎNwÖNìNvp†NyrCg6–BSÿŠegŠY0W`Snc?eœ^˜RXT0‹V^0Lˆ?eºNXTIrLwMO0w[Root.GetÑynfyrºNName]OçeÉ‰—VÖNìN«ˆNN*NöeãN„vyrCg6–BSNbÇ¦^mgÿw±›NyrCg6–BStS^—8^ŒS&PSVMR0Nê6q0„v>yOAm¨R'`0\nd–^—bìNZPÐg›N‹NÅ`ÿ&TRbìNïSýwO1Y»SyrCg6–BS„v=ecÿFO=f‚YœgbìNdköe²dˆmùR[Root.GetÑynfyrºNName]„v=ecÿRïSýwOùRNÖNìN„vsQû|µNu%NÍ‘qVÍT0"
+EDG_copt_estate_events.10.a:0 "bìNNýwI–!c°etQ6–BS„vÑSUS0"
+EDG_copt_estate_events.10.b:0 "bìNÅV‰˜ÝO²byrCg6–BS„vâe—VCg)R0"
+EDG_copt_estate_events.11.t:0 "[Root.GetÑynfyrºNName]„vÎW^"
+EDG_copt_estate_events.11.d:0 "–Nw[Root.GetAdjective]„vib.Vÿ[Root.GetÑynfyrºNName]mNNQêS=f×S0R<SW³l„vmgÿweg0R†N°e„vW0WNÿbìNN[Root.GetÑynfyrºNName]øv’NTjO„v?eVrmNbŸR(W¸‹Y†˜ßW„vÏuNm¹eb—ÖS—Vbœg0'YÏ‘„v[Root.GetÑynfyrºNName]ŒmeQ°eÑVg„vÎW^ÿv^INüR†NSV0W„vÏuNmÿÙ›N1u[Root.GetÑynfyrºNName]INüR„vÎW^ck(Wì„ÃRÑSUSÿbìN(WýVE–8f-N„vqVÍT›RmN(WëVžX•0"
+EDG_copt_estate_events.11.a:0 "‹Yg†N0"
+EDG_copt_estate_events.12.t:0 "8fÎ˜i–"
+EDG_copt_estate_events.12.d:0 "ÜÝ»y8f—‰i–-NBl)Rÿ)YlNwm×vNšNŽNF–0WN„vZÁw08^[Root.GetÑynfyrºNName]ýwY”^ØNNû|R‹NEeÿåNÊS(uêñT„v¹eVÝO²bêñTåNÊS'ir06qwÑegÿ'YÏ‘„vFUºNb—4NNw4xµN„vÎ˜i–0b¸‹bìN”^å‹(WÏuNmNÙuÖNìN¹peˆPÿ©‹ÖNìN„vuaÍ‘ÞVckh0"
+EDG_copt_estate_events.12.a:0 "eˆP±›NFUºN0"
+EDG_copt_estate_events.12.b:0 "ÖNìN”^å‹åwSÎ˜i–0"
+EDG_copt_estate_events.13.t:0 "ÎW^S"
+EDG_copt_estate_events.13.d:0 "[Root.GetÑynfyrºNName]6–BSaÑSAucƒÿ8TVNwŠegŠYaNNºNŒmeQŸS,gºNãSÔk‹ONØš„vÎW^-N0N›NÎW^ëVÑSUSÿFO4O–NwkSuåb2cIrî•˜˜ÿÙOùR[Root.GetÑynfyrºNName].bðVpbuóŒp¾–0wzºNìNESOO(WÎW™XKNYÿw®w„vÊ:SúQ°s†NÃRÑS„v¾uÅu0\n[Root.GetÑynfyrºNName]ÑS°sÙÍy¶rµQ¾–åNÍV×Sÿ‰BlýV¶RÛNekÐc›OùRDnôc©Rÿv^ R:VùRÎW™XY„v¡rt0êS	gÙ7hZPÿMbýw(WÎW^S„vÇz-N&^eg‹Y„vqVÍT0"
+EDG_copt_estate_events.13.a:0 "SÕ‹»S9e„UÎW^°s¶r0"
+EDG_copt_estate_events.13.b:0 "Ù¡lÀNHN'YN†N„vÿ[Root.GetÑynfyrºNName]êñTýwYt‹Y0"
+EDG_copt_estate_events.14.t:0 "ÏuNm?eVr"
+EDG_copt_estate_events.14.d:0 "–Nw[Root.GetÑynfyrºNName]Cg›R„vËn•ÿÖNìNùRM–NO?eœ^µc6R›R¦^NÏQSz6e„v‰BlØS—VŠÑS‘˜ÆR0¸‹YºN²‹:NbýV„vFUN?eVrK„TNEQán‹Sëÿ‚YdkåNŽVÿï9ŒTz6eSOàVdkwÏQS0"
+EDG_copt_estate_events.14.a:0 "JR1VÍ‘FUININ0"
+EDG_copt_estate_events.14.b:0 "ÒbÝu9eØS8f?eVr0"
+EDG_copt_estate_events.15.t:0 "[Root.GetÑynfyrºNName]KN-N„v—b®‹"
+EDG_copt_estate_events.15.d:0 "ýV¶RN[Root.GetÑynfyrºNName]KNô•N­ev`S„vsQû|òT6qæ‰ÊS°Q¹pÿåNóŽN(WIN‰ÎW^-Nÿ[Root.Monarch.GetTitle]9h,gN×SáOûN0wýV¶R„vÏk*N!P®‹ý«ˆ`‘u=f:N†NO6R[Root.GetÑynfyrºNName]„vCg›RÿwPzozmNòTb:NnfM°saŒ0\n°s(WÿN›NLˆOòTÏuVËY†N'YbåTÿ‰BlôfY„vê»lCgNê1u0"
+EDG_copt_estate_events.15.a:0 "rÝ‹ÿ"
+EDG_copt_estate_events.15.b:0 "¥c×SÖNìN„v‰Bl0"
+EDG_copt_estate_events.16.t:0 "[Root.GetName]„v[Root.GetÑynfyrºNName]ÛSqN"
+EDG_copt_estate_events.16.d:0 "àVÊ`P`ŽNCgÊv„vmc1Yÿ[Root.GetName]wýN„v[Root.GetÑynfyrºNName]ÿbwfkhVÍS—bbìNÿ"
+EDG_copt_estate_events.16.a:0 "‹Y'T0"
+EDG_copt_estate_events.17.t:0 "[Root.GetÑynfyrºNName]GdFdNšR„vàVÚ‹"
+EDG_copt_estate_events.17.d:0 "‹Y„vsQû|—‰«ˆôuû|0wŸS,gsQû|ASRípÜu„v[Root.GetÑynfyrºNName]ØS—VŠÑS·Qám0bìNÅV‰˜KSëVN[Root.GetÑynfyrºNName]„v†˜üRºNšRN°e„vOS®‹åNôuû|ÖNìN„vàVÚ‹0"
+EDG_copt_estate_events.17.a:0 "‹Y„v0"
+
+
+
+EDG_copt2_estate_events.1.t:0 "ÇRÂríp„vaSê"
+EDG_copt2_estate_events.1.d:0 "býVNµ^IN‰ÎW^-N„vaSêÿYeÕlgbLˆ˜R	ÿNôv(WÐ(uêñT„vqVÍT›Regã‰Ê‘O¯epQYeÕlÊS[Root.Monarch.GetTitle]˜^„vÕläNÿêS=f*gMQÂríp†N›N0ÖNv^Nán³ŽN(W'YY^—Fz¯e—gÎW^Ì‘ôuc°s¶rÿw=fNôvÕ‹þVïyg0WëO^—áO’VˆvOÿTöe	gagNt0WsQí•ÖNìN„v<yÜb-NÃV0\nÑg(WNMO«ˆëˆvO„v[Root.GetÑynfyrºNName]êNgTÿ'Yyb[Root.GetÑynfyrºNName]°sck(WÆ–SO»yVÙµ^ÎW^ÿ»Sôf×S0kÎ„v0W¹ešRES0wNsSO=f$ESTATE_CHURCH$ˆV'Yz¦^N<ONNmNÑS°sÙ›NLˆ:NÇŽNgïzÿÖNìNïSýwOwQ†Ç‘ÖSLˆ¨RI–bkÙMOØS,g R‰S„vaSê0"
+EDG_copt2_estate_events.1.a:0 "=ecÙMOaSê0"
+EDG_copt2_estate_events.1.b:0 "bìNÅV‰˜N[Root.GetÑynfyrºNName]ÝOcTjO0"
+EDG_copt2_estate_events.2.t:0 "‰BlÏQ‰[Root.GetÑynfyrºNName]„vzK"
+EDG_copt2_estate_events.2.d:0 "ckSVbìN„v[Root.Monarch.GetTitle]MRŽV‹s²RnwúRÛLˆÏkhT8nLˆ„v-Nÿ'YÏ‘„v[Root.GetÑynfyrºNName]ZwÆ–(Wú^QrKNMRÿæbOO†N[Root.Monarch.GetTitle]„v»Sïÿv^‰BlÏQ‰Ðg›NùR^—Fz¯e—g„vgkÆ‰'`z6eÿÔk‚YúR™^bwg1W„vzK0"
+EDG_copt2_estate_events.2.a:0 "ÎNÖNìN«ŽNŽÇ»Sÿ"
+EDG_copt2_estate_events.2.b:0 "MQd–±›NzKÿ"
+EDG_copt2_estate_events.3.t:0 "[Root.GetÑynfyrºNName]˜RXT"
+EDG_copt2_estate_events.3.d:0 "(WÇ»S„vàQt^Ì‘ÿbìNýV¶R„v[Root.GetÑynfyrºNName]ŠegŠwQ	gqVÍT›Rÿ‹†6qv^N=fºNºNýœU0kÙN¹p0sSO=f(WbýVÔkƒÍ‘‰„v8fLˆONÿmNýwÏu8^w0RÙ›N[Root.GetÑynfyrºNName]„v«ŽqVÿvQ-N„v¸‹YºN(WbìNýV¶R„vwýN-NÅbûNLˆ?e•˜Rÿb=f«ˆAQ¸‹ÝOYuÖNìN„vžR`N4YTˆ0"
+EDG_copt2_estate_events.3.a:0 "‹Y'T0"
+EDG_copt2_estate_events.4.t:0 "[Root.GetÑynfyrºNName]„vpˆK„"
+EDG_copt2_estate_events.4.d:0 "‹†6q[Root.GetÑynfyrºNName]²SO=fbìN>yO„vÍ‘‰ÄubèRÿFOÖNìNÑegck(W«ˆvQÖN6–BS„v²SOÍ‘+c0ÖNìNÏu8^'`0W«ˆ‰Bl»SeSLˆN›N?eœ^‹N¡Rÿ«ˆë»S4³uN›NgkÆ‰'`„vzKåNÊSÏu8^×S0RFz¯e—gFUºN(WuaN„vv`aI–.c0"
+EDG_copt2_estate_events.4.a:0 "‹Y'T0"
+EDG_copt2_estate_events.5.t:0 "[Root.GetÑynfyrºNName]ŒT$ESTATE_NOBLES$"
+EDG_copt2_estate_events.5.d:0 "ˆVY„vFz¯e—g$ESTATE_NOBLES$ðX¨‹v^±b(`bìN„v?eœ^NYs^IrNYlQckÿÍSw	g)RŽNVYe’V0(W—V0R$ESTATE_CHURCH$„v=ecTÿÖNìN°s(WðXðyÿbýVck(WÝÌwâeŽV„vO¯epQ.Oßu`N×OÿbìNÅV‰˜nxÝOVYe’VÜ»ywQ	g?e»lqVÍT›R„vMOn0\n(WN*N[Root.GetÑynfyrºNName]`SINüR„vwýN-Nÿ1u,g0W[Root.GetÑynfyrºNName]NFUºNŒRhQD©R†NNµ^hQ°e1WNb„vú^.ÿdk‹NtSONS¿RŠoŠÈpÿ$ESTATE_CHURCH$N$ESTATE_NOBLES$‰BlbìNÆb‰cÙµ^1WNbÿŠb[Root.GetÑynfyrºNName]vÞVÖNìN”^(W„v0W¹e0"
+EDG_copt2_estate_events.5.a:0 "bìNÅV‰˜,TÖS$ESTATE_NOBLES$„vaÁ‰0"
+EDG_copt2_estate_events.5.b:0 "=ec[Root.GetÑynfyrºNName]0"
+EDG_copt2_estate_events.6.t:0 "[Root.GetÑynfyrºNName]Ìwof„vLˆ?eºNXT"
+EDG_copt2_estate_events.6.d:0 "(W.OßuNÿ[Root.GetÑynfyrºNName]=f«ˆ’cd–úQØšµuLˆ?eºNXT„vÿÖSwûNKN„v=f±›NT†Ú‹„vFz¯e—g‡eëX0FO[Root.GetÑynfyrºNName](WÙGrW0WNuIm†NNCSt^ÿÖNìNùRLˆ?e:g„g„v†Nã‰N¹RýVÆ‰0wbìN„v?eœ^:g„gÑSUS—V‚YdkKNëVÿLwMOúQ°s†N'YÏ‘„vzz:ÿ[Root.GetÑynfyrºNName]6–BS-N„v¸‹YºNMb—V0R†N'YUSób„v:gO0‹†6q	g›NºNO²‹:NÙ=fNckßu„v>NªcÿFOÇÛbßRÖNìNÿbìNïSýwO·ƒÖS¸‹Y‹YY0"
+EDG_copt2_estate_events.6.a:0 "©‹bìN‹Y‹YIm(uÙ›N[Root.GetÑynfyrºNName]'T0"
+EDG_copt2_estate_events.6.b:0 "bìNNýwÿbÖNìN„vTSýw›R’Qi–0"
+EDG_copt2_estate_events.7.t:0 "[Root.GetÑynfyrºNName]*S’V"
+EDG_copt2_estate_events.7.d:0 "–NwýV¶RN[Root.GetÑynfyrºNName]„vsQû|%`gRv`Sÿ(WN›N0W¹eÌS¹e„váOûNsQû|òTÏuŒRhQ)Tƒn0zTìN.OŠÿ	gN–Ðz±”„vÐ“–uó(WPŸs|6–BS„v0WØv-Nˆm1Y†N0(WN›NÎW^-Nÿ[Root.GetÑynfyrºNName]„v†˜–ˆuóØNYeëXìNÛLˆÀoÈp0WùR—bÿv^Ÿ¨RÍSùRbìN0ÖNìNNÅN(WÎW™X…QŠbNRý–Ï…wegÿ[Root.GetÑynfyrºNName]uóØ(‘ubýV„vgb?eýw›R0"
+EDG_copt2_estate_events.7.a:0 "ïSv`„v—šPRVYe’Vÿ"
+EDG_copt2_estate_events.7.b:0 "ZPúQ©‹ekåNŒTNS¿R0"
+EDG_copt2_estate_events.8.t:0 "ÌRÕˆ„v[Root.GetÑynfyrºNName]"
+EDG_copt2_estate_events.8.d:0 "(W[Root.GetName]„vW0WNÿ[Root.GetÑynfyrºNName]åb	gèT'Y„vqVÍT›RÿÖNìNµc6RNwÃWÊS„v^²ˆW0WÿmNµc6RNw¸‹Y°etQ„våTFUNÎW^ÿ'YÏ‘„v>yO0ÌRÍNác(W[Root.GetÑynfyrºNName]Kb-NÿTöemN¡l	gûNUOÕl‹VybkÖNìNÂSN•bDb>e70"
+EDG_copt2_estate_events.8.a:0 "RgÙ›N[Root.GetÑynfyrºNName]•bDŽN0?eYÏ‚¡‹R-N0"
+EDG_copt2_estate_events.8.b:0 "bìNNýw©‹êñTOVVYe’V0"
+EDG_copt2_estate_events.9.t:0 "[Root.GetName]„v[Root.GetÑynfyrºNName]KNqN"
+EDG_copt2_estate_events.9.d:0 "ÝugŽNyrCg«ˆeR:Yÿ[Root.GetName]„vPŸs|òTÏuÿbwfkhVÍS—bbìNÿ"
+EDG_copt2_estate_events.9.a:0 "‹Y„v0"
+EDG_copt2_estate_events.10.t:0 "[Root.GetÑynfyrºNName]GdFdNšR„vàVÚ‹"
+EDG_copt2_estate_events.10.d:0 "‹Y„vsQû|—‰«ˆôuû|0–NwvQºNpe„vžX RŒTN›N†˜üRºN„vw»Sÿ[Root.GetÑynfyrºNName]NbìNKNô•„vËS‹YsQû|ØS—V·Qám0bìN—‰NSVMR„v[Root.GetÑynfyrºNName]†˜–ˆìN¾bOS®‹ÿåNnxÝOÖNìN„vàVÚ‹¦^0"
+EDG_copt2_estate_events.10.a:0 "‹Y„v0"

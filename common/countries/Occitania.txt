@@ -1,0 +1,683 @@
+graphical_culture = westerngfx
+color = {
+  242
+  232
+  157
+}
+
+revolutionary_colors = {
+  213
+  0
+  25
+}
+historical_score = 6700
+historical_idea_groups = {
+  defensive_ideas
+  offensive_ideas
+  economic_ideas
+  exploration_ideas
+  administrative_ideas
+  maritime_ideas
+  quality_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  chevauchee
+  western_men_at_arms
+  swiss_landsknechten
+  dutch_maurician
+  french_caracolle
+  anglofrench_line
+  french_dragoon
+  french_bluecoat
+  french_cuirassier
+  french_impulse
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+monarch_names = {
+  "�f #10" = 160  # Louis #10
+  "�gt #5" = 80  # Charles #5
+  "�N)R #1" = 60  # Henri #1
+  "Vg0t�t #0" = 40  # Fran�ois #0
+  "S��R #6" = 10  # Philippe #6
+  "�u� #2" = 10  # Jean #2
+  "�R�e� #0" = 10  # Gaston #0
+  "<S�S�b-�N)R #0" = 10  # Nicolas-Henri #0
+  "�f-Vg0t�t #0" = 5  # Louis-Fran�ois #0
+  "ŖKQ #0" = 5  # Jacques #0
+  "�u?�^�Y #0" = 5  # Joachim #0
+  "<hNb�u�W #0" = 5  # Xavier #0
+  "W�S #2" = 1  # Robert #2
+  "��g #1" = 1  # Hugues #1
+  "�bLNS #1" = 1  # Raoul #1
+  "�N�SqS'Y #0" = 0  # Alexandre #0
+  "?�S0N�e #0" = 0  # Alphonse #0
+  "�R^���tyQ #0" = 0  # Ambroise #0
+  "?�S�� #0" = 0  # Armand #0
+  "eY�S�eN #0" = 0  # Augustin #0
+  "�T�l�Rs| #0" = 0  # Barth�lemy #0
+  "=O�R�t #0" = 0  # Beno�t #0
+  "=O�u�V #0" = 0  # Bernard #0
+  "^���e #0" = 0  # Blaise #0
+  "KQm�V #0" = 0  # Claude #0
+  "KQ���� #0" = 0  # Cl�ment #0
+  "9N<S�e #0" = 0  # Denis #0
+  "�����R #0" = 0  # �tienne #0
+  "�S�f #0" = 0  # Firmin #0
+  "TN�l #0" = 0  # Georges #0
+  "ESO #0" = 0  # Guy #0
+  "�u'S�Y #0" = 0  # Guillaume #0
+  "O<S�N�e #0" = 0  # Ignace #0
+  "��-�RXbN #0" = 0  # Jean-Antoine #0
+  "��-�T���eyr #0" = 0  # Jean-Baptiste #0
+  "��-ŖKQ #0" = 0  # Jean-Jacques #0
+  "��-S��R #0" = 0  # Jean-Philippe #0
+  "�umt+Y #0" = 0  # Joseph #0
+  "��eNW #0" = 0  # Josquin #0
+  "Q�R #0" = 0  # Jules #0
+  "l�KQ #0" = 0  # Marc #0
+  "��̑�e #0" = 0  # Maurice #0
+  "l�KQ�s|)R�R #0" = 0  # Maximilien #0
+  "s|GkS #0" = 0  # Michel #0
+  "<S�S�b #0" = 0  # Nicolas #0
+  "^�eaS #0" = 0  # Pascal #0
+  "�v�WS #0" = 0  # Pierre #0
+  "�R�Q #0" = 0  # Ren� #0
+  "^X�T�e���R #0" = 0  # S�bastien #0
+  "��� #0" = 0  # Simon #0
+  "��Z #0" = -10  # Jeanne #0
+  "�sKN #0" = -1  # Marie #0
+  "Ymyr #0" = -1  # Charlotte #0
+  "�R�Y #0" = -10  # Anne #0
+  "�s<hKNyr #0" = -10  # Marguerite #0
+  "?��V���V #0" = -10  # Ad�la�de #0
+}
+leader_names = {
+  "�V f^�Ryr�e"  # d'Ambleteuse
+  "�V 'kHY"  # d'Aulnay
+  "�V ZS?�S�Q"  # de Beauharnais
+  "�V ��"  # de Bercy
+  "�V �����"  # de B�thune
+  "�V ^�t��S"  # de Boissieu
+  "�V ZS�u�R�t"  # de Bonnefoy
+  "�V ZS�uO"  # de Bonneuil
+  "jg ZS�e�Q"  # du Bosquet
+  "�V �b ^�RXb<S�W"  # de la Bretonni�re
+  "�V ^Wa"  # de Broglie
+  "�V aS�efW"  # de Castaing
+  "�V �gl�N"  # de Caumartin
+  "�V S^)R"  # de Chambly
+  "�V S^��<S"  # de Chambronne
+  "�V Snfl�N"  # de Champmartin
+  "�V ��u<S"  # de Chevigny
+  "�V �y���e"  # des Coulons
+  "�V KQ��+Y�yS"  # de Cr�vecSur
+  "�V KQT0tS"  # de Crussol
+  "�V SV�v�WS"  # de Dampierre
+  "�V�Syr"  # Desgouttes
+  "��Q�u"  # Duquesne
+  "�V �WHSS"  # des �cures
+  "�V i`yr��NY�e"  # d'Entraigues
+  "�V �W�eyr��"  # d'Estr�es
+  "jg �R�t�Q"  # du Fournay
+  "�V �R�bS"  # de Galard
+  "�V ^X�k6w"  # des Herbiers
+  "�V �b �Tyr"  # de La Barthe
+  "�V �b Vg��"  # de La Ferrandie
+  "�V �b �R)R0t<S�W"  # de La Galissoni�re
+  "�V �b ��yr"  # de La Mothe
+  "�V �b ��yr �V�WpQ"  # de La Motte d'Airan
+  "�V �b �lyr"  # de La Porte
+  "�R �l)R6w"  # Le Tellier
+  "�V 6w̑"  # de Lh�ry
+  "�V T�Q"  # de Luynes
+  "�V l�S�v6w"  # de Marguerye
+  "�V ���R^"  # de Maurepas
+  "�V ���l�l�R"  # de Neufch�tel
+  "�V eYS�u��"  # d'Ornano
+  "�V �v�R6w�y"  # de Pellefort
+  "�V ̑�N��"  # de Richemont
+  "�V W�N�?�S"  # de Rochechouart
+  "�V W�N��S"  # de Rochemaure
+  "�V ̑�S"  # de Rieu
+  "�V 1W�l��"  # de Saint-Chamond
+  "�V 1W�W�enf̑"  # de Saint-Esprit
+  "�V 1W�eS�f"  # de Saint-Germain
+  "�V 1WeY�hS"  # de Saint-Omer
+  "�V �eY�bKQ"  # de Siorac
+  "�V XbKQ�uS"  # de Tocqueville
+  "�V �b�VS �VeYV�m"  # de La Tour d'Auvergne
+  "�V yr���uS"  # de Tr�ville
+  "�V �N�g"  # d'Usson
+  "� �t&O����"  # du Valentinois
+  "�V �S�p�u"  # de Vergennes
+  "�V �u�k�R"  # de Vibien
+  "�V �u<S"  # de Vigny
+  "�V �uS�u+Y"  # de Villeneuve
+}
+ship_names = {
+  "�k�eVwm�Q"  # Amiral de Biscaye
+  "�R)R��Nwm�Q"  # Amiral de Galice
+  "iVy�"  # Arc-en-Ciel
+  "�KNSsY"  # Belle Poule
+  "�VN�N"  # Bien-Aim�
+  "�gt�NN"  # Charles II
+  "wml�"  # Cheval Marin
+  "�lSYFU9�"  # Commerce de Bordeaux
+  "l�i�FU9�"  # Commerce de Marseille
+  "�TΞFU9�"  # Commerce de Paris
+  "̑fFU9�"  # Commerce du Lyon
+  "eY�e�f�v�Q"  # Couronne Ottomane
+  "^�2mKN҉"  # Croissant d'Afrique
+  "�v*YPR"  # Dauphin Royal
+  "�SĖ"  # Deux Fr�res
+  ")YP�"  # Don de Dieu
+  "ё��"  # Dragon d'Or
+  "f�S���YlQ5r"  # Duc d'Angoul�me
+  "?��WfWlQ5r"  # Duc d'Aquitaine
+  "�̑lQ5r"  # Duc de Berry
+  "�Rn�,rlQ5r"  # Duc de Bourgogne
+  "�<hpQKNIQ"  # �sperance d'Angleterre
+  "N^KNIQ"  # �sperance de Dieu
+  ")YP�KNIQ"  # �sperance en Dieu
+  "�Rn�,r�T"  # �tats de Bourgogne
+  "۞�RZKNf"  # �toile de Diane
+  "�<hpQKNp�"  # Faucon Anglais
+  "�vT��"  # Fleur de Lys
+  "�v�Rb0�"  # Fr�gate Royale
+  "	T�e^9�"  # Galion de Guise
+  "'Y�<hpQ"  # Grand Anglais
+  "'Y�l��"  # Grand Chalain
+  "'Y9N��"  # Grand Danois
+  "O'Y�v�N)R"  # Grand Henry
+  "O'Y�v1W�f"  # Grand Saint Louis
+  "O'Y�v�w)Rw"  # Grand Vainqueur
+  "�V�s�T0�"  # Grand Vasseau du Roi
+  "l�S�N'Y^9�"  # Grande Galion de Malte
+  "ς<hpQIN0�"  # Grande Nef d'�cosse
+  "O'Y�v1W��"  # Grande Saint Jean
+  "�lpQ��S"  # �le de France
+  "�KN���V"  # Le Beau Parterre
+  "�r�s"  # Lion Couronn�
+  "ё�r"  # Lion d'Or
+  "^���eyr�V�`w"  # Madeleine de Brest
+  "'Y�m�s�s"  # Marguerite du Ponant
+  "�sKN �yS�V)R6wS"  # Marie la Cordeli�re
+  "�sKN OKN�l�v"  # Marie-Elisabeth
+  "1W=O�u�VqS"  # Mont Saint-Bernard
+  "�V�s0�"  # Navire-du-Roi
+  "ў^"  # Noire Gal�re
+  "N�w1W�k"  # Notre Dame de la Victoire
+  "1W�k�kS�w"  # Notre Dame des Martyres
+  "1W�kKNl"  # Notre Dame du Peuple
+  "1W�k"  # Notre Dame
+  "�v�q"  # Ours Blanc
+  "ё�q"  # Ours d'Or
+  "S1W�u�"  # Petit Saint Jean
+  "S1W�f"  # Petit Saint Louis
+  "�N)R�sPR"  # Prince Henri
+  "�VDQV"  # Quatre Fr�res
+  "Wl��s"  # Roi de Rome
+  "�v�RlQ5r"  # Royal Duc
+  "�v�Rw�pQ"  # Royal Hollandais
+  "�v�Ra'Y)R"  # Royal Italien
+  "�v�R�f"  # Royal Louis
+  "�v�R�l��N"  # Royale Th�r�se
+  "1W�R�V�p"  # Saint Andr�
+  "�p���N�v1W�RXbN"  # Saint Antoine de G�nes
+  "1W�RXbN"  # Saint Antoine
+  "1WeY�S�eN"  # Saint Augustin
+  "1W�T�S"  # Saint Basile
+  "1W�Qmt3t"  # Saint Catherine
+  "1WYS"  # Saint Charles
+  "1Wb�e�Y"  # Saint Cosme
+  "1WYs|<SKQ"  # Saint Dominique
+  "1W�W�V�Y"  # Saint Edm�
+  "1Wup"  # Saint Esprit
+  "1WVg0t�t"  # Saint Fran�ois
+  "&Ofe�v1WTN�l"  # Saint Georges de Londres
+  "1WO<S�N�e"  # Saint Ignace
+  "a��Yr�v1WŖKQ"  # Saint Jacques du Portugal
+  "1WŖKQ"  # Saint Jacques
+  "�lSY�v1W�u�"  # Saint Jean de Bordeaux
+  "w�pQ�v1W�u�"  # Saint Jean de Hollande
+  "1W�u�"  # Saint Jean
+  "1W�umt+Y"  # Saint Joseph
+  "�V�`w1W�f"  # Saint Louis de Brest
+  "�u�S�v1W�f"  # Saint Louis de Nevers
+  "1Wl�m�v1W�f"  # Saint Louis de Saint-Malo
+  "1W�f"  # Saint Louis
+  "1Ws|GkS"  # Saint Michel
+  "1W�OW"  # Saint Paul
+  "1WS��R"  # Saint Philippe
+  "1W�v�WS"  # Saint Pierre
+  "1W^X�T�e���R"  # Saint S�bastien
+  "?��W�u�v1WXbl��e"  # Saint Thomas d'Aquin
+  "1W�e�hyr"  # Saint Vincent
+  "1WASWR"  # Sainte Croix
+  "1W�p�u�u+Y"  # Sainte Genevi�ve
+  "1W�sKN"  # Sainte Marie
+  "1Wl�m"  # Saint-Malo
+  "1WQhKQ����"  # Saint-Sacrement
+  "�e9S"  # Sans Pareil
+  "^�2m*Y3�"  # Soleil d'Afrique
+  "?�S�SSKNIQ"  # Soleil d'Alger
+  "�v�R*Y3�"  # Soleil Royal
+  "	NIQ"  # Trois Fanaux
+  "	N�v"  # Trois Rois
+  "T�R0�"  # Vaisseau de Torais
+  "�V�sKN0�"  # Vaisseau du Roi
+  "l�i��W"  # Ville-de-Marseille
+  "�TΞ�W"  # Ville-de-Paris
+  "��f�W"  # Ville-de-Rouen
+  "?��W̑�e"  # Achille
+  "ImÍ"  # Actif
+  "�wN"  # Actionnaire
+  "?��V���V"  # Adela�de
+  "��le"  # Admirable
+  "4Z�q"  # Adroit
+  "^�2m�N"  # Africain
+  "?�KO��Q"  # Agamemnon
+  "Ėp�"  # Aigle
+  "�W<h)Ryr"  # Aigrette
+  "�NR"  # Aimable
+  "�W?��e"  # Ajax
+  "?�S��V"  # Alcide
+  "��"  # Alcyon
+  "�N�SqS'Y"  # Alexandre
+  "T�v"  # Alliance
+  "?�S(��e"  # Alsace
+  "ؚ�P"  # Altier
+  "?�l�pQ��"  # Amarante
+  "�Nl��"  # Amazone
+  "Ė�V"  # Ambitieux
+  "�)RZW"  # America
+  "CQ^"  # Amiral
+  "�R��"  # Amphion
+  "�R�yr̑�V"  # Amphitrite
+  "�R�Vm�sIR"  # Andromaque
+  "�<hpQ"  # Anglais
+  "�RZ"  # Anna
+  "Il<S�b"  # Annibal
+  "�eT"  # Anonyme
+  "�RyrkSnf�N"  # Anversois
+  "?��lW"  # Apollon
+  "gΘ"  # Aquilon
+  "?�S�g"  # Arcole
+  "�p�V"  # Ardent
+  "?���ς��"  # Ar�thuse
+  "?�Sb"  # Argonaute
+  "?�Syr�N"  # Art�sien
+  "�N�u�N"  # Asie
+  "��O"  # Assur�
+  "?��eyr��"  # Astr�e
+  "f�v"  # Astrolabe
+  "ŖxQ�N"  # Ath�nien
+  "?�yr�b�e�g"  # Atlante
+  "�Rbe"  # Audacieux
+  "eY�S�eyr"  # Auguste
+  "�fIQ"  # Aurore
+  "�S1rw"  # Avenant
+  "�Qi�w"  # Aventurier
+  "KbVg"  # Badine
+  "�T�QS"  # Banel
+  "�T�eKQ"  # Basque
+  "�lVyr"  # Beaufort
+  "�Yb"  # Belliqueux
+  "b�NsY^y"  # Bellone
+  "�NHa"  # Bienfaisant
+  "GYV"  # Bizarre
+  "SS��"  # Bon
+  "�u&O"  # Bonne
+  "�lSY�N"  # Bordelais
+  "SΘ"  # Bor�e
+  ".a`"  # Boudeuse
+  "N҉"  # Bouffonne
+  "�l�e"  # Bourbon
+  "W�v"  # Boussole
+  "�Rbe"  # Brave
+  ")YMb"  # Br�l�
+  "^RTX<S"  # Bretagne
+  "^RTX<S�N"  # Breton
+  "��Lq"  # Brillant
+  "�kw�w"  # Brutal
+  "^�hv�S"  # Bucentaure
+  "aSTnf0t"  # Calypso
+  "L��Rw"  # Capable
+  "�e8^"  # Capricieux
+  "aS�bKQ^9�"  # Caraquon
+  "�g:g"  # Cardinal
+  "o��"  # Caribou
+  "aS(�S"  # Cassard
+  "aS�e���^�Q"  # Castiglione
+  ")YINYe"  # Catholique
+  "aS�"  # Caton
+  "�v�R�R"  # Censeur
+  "JS�Nl�"  # Centaure
+  "^X(�S"  # C�sar
+  "�l��"  # Chalain
+  "Yg�V"  # Charente
+  "�gt�f"  # Charlemagne
+  "���N"  # Charmante
+  "��sw"  # Chasseur
+  "��v�`�V"  # Choquante
+  "KQ̑�e��Z"  # Christine
+  "lQl"  # Citoyen
+  "KQ̑eY^yr�b"  # Cl�op�tre
+  "KQm�g��"  # Clorinde
+  "�T�N"  # Colosse
+  "WVf"  # Com�te
+  "=O5r"  # Comte
+  "�T�"  # Concorde
+  "�Vgw"  # Conqu�rant
+  "�R�bw"  # Consolante
+  "�w��w"  # Content
+  "Ė!�"  # Coq
+  "�sZt"  # Corail
+  "�Rbew"  # Courageux
+  "�v�Q"  # Couronne
+  "IYbw"  # Courtisan
+  "�eg"  # Croissant
+  "�YGYw"  # Curieux
+  ")YE�"  # Cygne
+  "��Sl��c�N"  # Dalmate
+  "�w"  # Dans�
+  "FO�l"  # Dantzig
+  "Y��Q"  # Dauphin
+  "�Pbaw"  # D�daigneuse
+  "MckSw"  # D�fenseur
+  "�Nb"  # Dego
+  "�Vi�"  # Desaix
+  "�TЏ"  # Destin
+  "�s�Q"  # Diad�me
+  "���w"  # Diamant
+  "�r��w"  # Dictateur
+  "�T��"  # Dragon
+  "�g�N"  # Dryade
+  "�^�t"  # Dubois
+  "lQ5r"  # Duc
+  "�vKQpQ"  # Duguesclin
+  "feIRSKQ�N"  # Dunkerquois
+  "�iO��"  # Duperre
+  "��Q�u"  # Duquesne
+  "ZWlx"  # Dur
+  "IQ��"  # �clatant
+  "�fy"  # �cueil
+  "�g.�"  # �cureuil
+  "YeX"  # �glise
+  "�WS=O+Y"  # Elbeuf
+  "O�Q"  # Embuscade
+  "pp�w��"  # �merillon
+  "SS��"  # �minent
+  "�v^"  # Empereur
+  "kp�p"  # Emporte
+  "��N"  # Engageante
+  "�N�S"  # Enjouree
+  "���S"  # Entendu
+  "ۏ�S"  # Entreprenant
+  "Θ^y"  # �ole
+  "^g"  # �sperance
+  "'kW�T"  # Europe
+  ":gup"  # �veill�
+  "SS��"  # Excellent
+  "p��"  # F�cheux
+  "�N'`"  # Fantasque
+  "��"  # Faucon
+  "�R?Q"  # Favori
+  "�NsY"  # F�e
+  "�gPN"  # F�licit�
+  "R"  # Fendant
+  "9����Y�S"  # Ferroni�re
+  "�Vڋ"  # Fid�le
+  "���P"  # Fier
+  "9�6w�eP�"  # Fiesque
+  "V�b���N"  # Flamand
+  "V�R��"  # Fleuron
+  "Auc�"  # Florissant
+  "�eLe"  # Formidable
+  ":V�X"  # Fort
+  "x^Џ"  # Fortune
+  "�Qa"  # Foudroyant
+  "�r�p"  # Fougueux
+  "�lpQ��N"  # Fran�ais
+  "V���V̑KQ"  # Fr�d�ric
+  "ccˆ<�"  # Friponne
+  "�T�T"  # Fulminant
+  "ZW�V"  # Gaillard
+  "OŖ"  # Galant
+  "�R�b��"  # Galath�e
+  " ؚbS�N"  # Gaulois
+  "�w�"  # Gazelle
+  "ؚ5�"  # G�n�reux
+  "�p���N�N"  # G�nois
+  ")n�T"  # Gentille
+  "�pSR"  # Gerze
+  "IQc�"  # Gloire
+  "O�"  # Gracieuse
+  "�R'Y"  # Grand
+  "�rk�"  # Griffon
+  "b�X"  # Guerrier
+  "���Q"  # Guirlande
+  "�Rbe"  # Hardi
+  "�Qi�"  # Hasardeux
+  "?�VS"  # Havre
+  "R�%fsY^y"  # H�b�
+  "�N)R"  # Henri
+  "k�N)R"  # Hercule
+  "�WSs|eY�u"  # Hermione
+  "sY�Ė"  # H�ro�ne
+  "�Ė"  # H�ros
+  "x^�y"  # Heureux
+  "�ll�"  # Hippopotame
+  "�qPR"  # Hirondelle
+  "wm�"  # Hymen
+  "�e8^"  # Inconstante
+  "pS,r�R�N"  # Indien
+  "NHS"  # Indomptable
+  "�N�s"  # Infante
+  "ZW:V"  # Inflexible
+  "�eOu"  # Intr�pide
+  "�eLe"  # Invincible
+  "O��Y<S"  # Iphigh�nie
+  "O���S"  # Isabelle
+  "O?��R"  # Jason
+  "�p�snf"  # Jemmapes
+  "�z�b"  # Jeux
+  "o�N"  # Joli
+  "Q�R"  # Jules
+  "1g��"  # Junon
+  "1g�^yr"  # Jupiter
+  "lQck"  # Juste
+  "g<hYKQ"  # Languedoc
+  "�R�R"  # Laurier
+  "��Ŗ"  # L�ger
+  "y�"  # L�opard
+  "�r҉�Q"  # Licorne
+  ")Rؚk��t"  # Ligourois
+  "Ė�r"  # Lion
+  "̖�r"  # Lionne
+  "g�N"  # Lune
+  "T�^"  # Lutine
+  "�vT��"  # Lys
+  "+Y�N"  # Madame
+  "l��V3t"  # Madeleine
+  "T�=g^"  # Magicienne
+  "�R�R"  # Magnanime
+  "�t�t"  # Magnifique
+  "sYIN�N"  # Maistresse
+  "Z%N"  # Majestueux
+  "l��QY"  # Maquedo
+  "l��b^yr"  # Marabout
+  "�s<hKNyr"  # Marguerite
+  "wmm"  # Marin
+  "�O5r+Y�N"  # Marquise
+  "b^y"  # Mars
+  "idS�N"  # Maure
+  "���R^"  # Maurepas
+  "l�(��g"  # Mazarin
+  "�jg��"  # M�duse
+  "�hKQS"  # MercSur
+  "�XN)R"  # Mercure
+  "^yGY"  # Merveilleux
+  "�S1r"  # Mignonne
+  "%V��v�m"  # Minotaure
+  ")n�T"  # Mod�r�
+  "TIN"  # Monarque
+  "��yr�m"  # Montebello
+  "��yr��yr"  # Montenotte
+  "����g�"  # Montmorency
+  "��Xb)R�S"  # Montolieu
+  "�S�S"  # Mutine
+  "�b��"  # Nassau
+  "�u�t�b"  # Navarrais
+  "�mnf�"  # Neptune
+  "�m^tO�V�e"  # N�r�ide
+  "�u�lyr"  # Nieuport
+  "���f�^"  # Normand
+  "'Ym"  # Oc�an
+  "ޘ�"  # Oiseau
+  "�Vgb"  # Opini�tre
+  "���P"  # Orgueilleux
+  "N�e"  # Orient
+  "�ur��s�e"  # Oriflamme
+  "�O̑�"  # Orion
+  "�O3w+u�e"  # Orph�e
+  "�q"  # Ours
+  "s^�Rw"  # Pacificateur
+  "�h�i"  # Palmier
+  "�R�"  # Parfait
+  "�TΞ"  # Paris
+  "1r�Vw"  # Patriote
+  "ޘl��^"  # P�gase
+  "H�U�"  # P�lican
+  "iO)R�yi`"  # P�licorne
+  "�s�s"  # Perle
+  "��N�^"  # Pers�e
+  "ZW�V"  # Pers�v�rante
+  "Nf׋>y"  # Pl�iade
+  "�eŖ"  # Poli
+  "�lpQ�N"  # Polonais
+  "�lT�eid�e"  # Polyph�me
+  "�^�"  # Pomp�e
+  "�RKN"  # Pompeux
+  "�O�^w"  # Pourvoyeuse
+  "�sPR"  # Prince
+  "lQIN"  # Princesse
+  "ŏwc"  # Prompt
+  "�v�Ow"  # Pros�lyte
+  "nfm��e"  # Prot�e
+  "nfW�e�e�N"  # Proven�al
+  "(�Na"  # Prudent
+  "YsY"  # Pucelle
+  ":V'Y"  # Puissant
+  "�vm�X"  # Pyrrhus
+  "2Vˋ"  # Railleuse
+  "Tt"  # Raisonnable
+  "leOu"  # Redoutable
+  "�RNa"  # R�fl�chi
+  "1W4l"  # R�g�n�rateur
+  "sY�s"  # Regina
+  "���S�b�e"  # Regulus
+  "sY�s"  # Reine
+  "Tg"  # Renomm�e
+  "�S�b"  # R�sistance
+  "ZW�V"  # Robuste
+  "W�N�yS"  # Rochefort
+  "WpQ"  # Roland
+  "��f"  # Rouen
+  "�v�R"  # Royal
+  "�u�R�w"  # Rubis
+  "1W�N"  # Sage
+  "SKb�^"  # Sagittaire
+  "����"  # Salamandre
+  "CgVg"  # Sceptre
+  "��^?�"  # Scipion
+  "���N"  # S�duisant
+  "^X�u"  # Seine
+  "Im�l"  # S�millante
+  "�^͑"  # S�rieux
+  "��N|�"  # Sir�ne
+  "*Y3�"  # Soleil
+  "ZW�V"  # Solide
+  "0t�"  # Sophie
+  "0tpQ��S"  # Sorlingue
+  "ςS��e"  # Sourdis
+  "�S"  # Souverain
+  "�e��KQ�e"  # Sphinx
+  "�V�Y"  # Subtile
+  "��"  # Suffisant
+  "�SVg"  # Suffren
+  "�ؚ"  # Superbe
+  "�vcw"  # Surveillante
+  "ς�s"  # Suzanne
+  "�S�u"  # Sylvie
+  "�eOu"  # T�m�raire
+  "�fΘ"  # Temp�te
+  "yr3w��y^t"  # Terpsichore
+  "�S`"  # Terreur
+  "�p�S"  # Terrible
+  "0Ws|�eXbKQ)R"  # Th�mistocle
+  "yr����"  # Th�r�se
+  "�V�O�e"  # Th�s�e
+  "�V�c�e"  # Th�tis
+  "N�"  # Tigre
+  "���"  # Tonnant
+  "Ğ�s"  # Topaze
+  "W&O"  # Toulon
+  "�eΘ"  # Tourbillon
+  "�VS�uS"  # Tourville
+  "�V�bw"  # Trajan
+  "	N�Sb"  # Trident
+  "�Q�e"  # Triomphe
+  "yr̑T"  # Triton
+  "yrWaS�VW"  # Trocadero
+  "��R"  # Trompeuse
+  "LNLR<S�N"  # Uranie
+  "	g�v"  # Utile
+  "��R"  # Vaillant
+  "�w)Rw"  # Vainqueur
+  "�Rl"  # Valeur
+  "�eY�Y"  # Vend�me
+  "Y�Nw"  # Vengeur
+  "�u�u�e"  # V�nus
+  "��V"  # Vertu
+  "�u�eTX"  # Vestale
+  "wS"  # V�t�ran
+  "�w)R"  # Victoire
+  "�w)R"  # Victorieux
+  "1Wm"  # Vierge
+  "��nm"  # Volage
+  "�?a"  # Volontaire
+  "�t��"  # Wallon
+  "�e�pQ"  # Z�landais
+  "T�le"  # Z�l�
+  "ĞS�"  # Zodiaque
+}
+army_names = {
+  "�s�RF��Q"  # Arm�e royale
+  "iOpQ�V�Q"  # Arm�e des Flandres
+  "S�e�Q"  # Arm�e du Nord
+  "N�e�Q"  # Arm�e de l'Est
+  "kl�b�Q"  # Arm�e du Jura
+  "̑f�Q"  # Arm�e du Lyonnais
+  "?�SQS�e�Q"  # Arm�e des Alpes
+  "WS�e�Q"  # Arm�e du Midi
+  "�k)Rir�e�Q"  # Arm�e des Pyr�n�es
+  "'Y�m�Q"  # Arm�e de l'Atlantique
+  "^RTX<S�Q"  # Arm�e de Bretagne
+  "a'Y)R�Q"  # Arm�e d'Italie
+  "$PROVINCE$�Q"  # Arm�e de $PROVINCE$
+}
+fleet_names = {
+  "�b���Nwm�S0��"  # Escadre de la Manche
+  "'Y�m0��"  # Escadre de l'Atlantique
+  "0W-Nwm0��"  # Escadre de M�diterran�e
+  "�R�e�y�m0��"  # Escadre de Gascogne
+  "�x݄0��"  # Escadre Bleue
+  "�u�u0��"  # Escadre Rouge
+  "�u�v0��"  # Escadre Blanche
+}

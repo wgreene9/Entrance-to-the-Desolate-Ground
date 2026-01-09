@@ -1,0 +1,12 @@
+EDG_BYZ_rename_2308 = {
+	change_province_name = "ÃW·V(„"
+}
+EDG_BYZ_rename_334 = {
+	change_province_name = "÷^	T¯e"
+}
+EDG_BYZ_rename_221 = {
+	change_province_name = "¯eôT¾Ì‘šNæ*YúW"
+}
+EDG_BYZ_rename_104 = {
+	change_province_name = "…hêeYÉbªRÆY"
+}

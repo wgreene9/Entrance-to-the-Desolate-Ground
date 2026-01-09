@@ -1,0 +1,51 @@
+#mos_civilwar_decisions
+#Belaslav
+
+EDG_mos_handle_nov = {
+    potential = {
+        AND = {
+            tag = MOS
+            has_country_flag = EDG_handle_nov_flag
+        }
+    }
+    allow = {
+        AND = {
+            adm_power = 100
+            dip_power = 100
+            mil_power = 100
+            OR = {
+                NOV = { 
+                    years_in_union_under = {
+                        who = MOS
+                        years = 25
+                    } 
+                }
+                AND = {
+                    NOV = {
+                        has_opinion = {
+                            who = MOS
+                            value = 190
+                        }
+                    }
+                    NOV = { 
+                        years_in_union_under = {
+                            who = MOS
+                            years = 10
+                        } 
+                    }
+                }
+            }
+        }
+    }
+    effect = {
+        add_adm_power = -75
+        add_mil_power = -75
+        add_dip_power = -75
+        inherit = NOV
+        clr_country_flag = EDG_handle_nov_flag
+    }
+    ai_will_do = {
+        factor = 1
+    }
+}
+

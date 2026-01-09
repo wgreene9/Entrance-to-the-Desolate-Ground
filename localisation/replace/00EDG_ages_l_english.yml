@@ -1,0 +1,114 @@
+﻿l_english:
+ ab_chinese_colonial_growth:0 "WSmûylno"
+ ab_vol_warlord:0 "ƒlÌ‘<SšNb‰N†˜IN"
+ ab_EDG_AEL_preach:0 "?–SÒR^S"
+ ab_EDG_Abdul_Cavalry_Regiment:0 "?–jSÉbjg‘šuQâV"
+ ab_EDG_SMO_liberation:0 "W‰šNã‰>eb‰N"
+ ab_EDG_AKK_conquer:0 "LNS·ÈTQh9ei—"
+ab_EDG_SCO_Great_Celticism:0 "'YïQSyrININ"
+ab_ottoman_siege_ability:0 "LNSís'Y®p"
+ab_EDG_NAP_Monarchical_reform:0 "ú‹üfTIN6R9ei—"
+ab_EDG_LER_devotion:0 "ÀQSÂríp"
+ab_EDG_FRA_diplomatic_annexation_cost:0 "ÕlpQ‰S‘teT"
+ab_EDG_FRA_royal_cavalry:0 "UeäN‘šuQâV"
+ab_EDG_PIT_church:0 "®vÃW™„yrYeO"
+
+ ab_EDG_BUL_Grey_Army:0 "ÝO R)RšNpp›Q"
+ ab_EDG_ARL_Safavid_fanaticism:0 "GYyQSôTÀNÂríp"
+ab_EDG_BTA_British_Colony:0 "NR ˜–klININ"
+ab_EDG_SCA_Gustav_conscription_reform:0 "äS¯eTX+YVuQ9ei—"
+ab_EDG_MNG_Zhang_Juzheng_Reform:0 ".VESck9ei—"
+ab_EDG_TTS_Italian_Unification_War:0 "a'Y)RßuNb‰N"
+ab_EDG_MGB_Mahdi_Salvation:0 "lškêQeNb‰N"
+ab_EDG_FRA_monthly_government_power:0 "ÕlpQ‰éeg‹sCg"
+ab_EDG_TUR_sulaiman_reform:0 "Ï‚±ƒüf9ei—"
+ab_EDG_Rhineland_Construction:0 "±ƒ5ƒpQú^¾‹"
+ab_EDG_Rhineland_Construction_age_ability_enable_flag_trigger_tt:0 "òTÇvQƒR¹eVã‰•å‹ýw›R"
+
+ab_EDG_IT1_Italian_provinces:0 "a'Y)RšNLˆwSOû|"
+ab_EDG_Caliphate_dictatorship:0 "ÈTÌ‘ÑSN6R"
+ab_EDG_Iberian_sun_never_sets:0 "OÔk)RšNåeNK„"
+ab_EDG_ZAZ_power:0 "åT(„KQÞVËe‘šuQ"
+
+obj_edg_build_temples:0 "îOú^^y¿k"
+obj_edg_build_temples_desc:0 "»lN„v10*NwýNåb	gYe÷^b'YYeX0"
+
+obj_edg_grown_by_development:0 "V†uÓbW"
+obj_edg_grown_by_development_desc:0 "øvƒŽN8nbVËYöeô•ÿÇûNaKbµkOê«Ž„vI`ÑSUS¦^ÐcØš†NqQ200¹p0"
+
+obj_edg_is_great_power:0 "N¹Rn™U"
+obj_edg_is_great_power_desc:0 "/fZg¾0R50„vR:V0"
+
+obj_edg_all_advisor:0 "‡ez‚YtQV«R÷^"
+obj_edg_all_advisor_desc:0 "TöeÇ–cO†NûNaLˆ?e0Y²NŒT›Q‹NŒ˜î•0"
+
+
+obj_edg_join_the_Krieg:0 "	NASt^b‰N"
+obj_edg_join_the_Krieg_desc:0 "(W^y#WWlš^ýV„v—RYe²Qz-N	éb†N5–%„0"
+
+obj_edg_strength_unity:0 "Ye–ýVšR"
+obj_edg_strength_unity_desc:0 "åb	g20*NýVYeáOðN„vwýNN—RYeßuN¾0R100%0"
+
+obj_edg_at_war_with_religious_enemy:0 "åN^yKNT"
+obj_edg_at_war_with_religious_enemy_desc:0 "ckYŽNˆ”ùR—RYeLeºN„vÛIeb‰N-N0"
+obj_edg_at_war_with_religious_enemy_tt:0 "(WN:W§YÛIeb‰N§!-NN§MNT—RYe§!„výV¶R²Nb0"
+
+obj_edg_crown_land_50:0 "‡v²RyrCg"
+obj_edg_crown_land_50_desc:0 "‹s²R†˜0WÔk‹O¾0R50%0"
+
+
+obj_edg_powerful_diplomacy:0 "ýVE–GW¿R"
+obj_edg_powerful_diplomacy_desc:0 "O(u†N7*NY²NsQû|0"
+
+obj_edg_building_courthouse:0 "øSÕlû|ßu"
+obj_edg_building_courthouse_desc:0 "»lN„v50*NwýNåb	gÕlb–b^?e…S0"
+
+obj_edg_monthly_income_1000:0 "åeÛCS—e"
+obj_edg_monthly_income_1000_desc:0 "ýV¶Rg6eeQ¾0R10000"
+
+obj_edg_monthly_power_12_all:0 ":V›R?eœ^"
+obj_edg_monthly_power_12_all_desc:0 "g¦^Lˆ?e¹p0g¦^Y²N¹pŒTg¦^›Q‹N¹p6eeQGWØšŽN12¹p0"
+
+
+obj_edg_join_revolution:0 "SbŽx·g•"
+obj_edg_join_revolution_desc:0 "b:Ni—‹Tîvh0"
+
+obj_edg_total_development_2000:0 "NLu'YýV"
+obj_edg_total_development_2000_desc:0 "I`ÑSUS¦^¾0R2000¹p0"
+
+obj_edg_is_hegemon:0 "NLu8—Cg"
+obj_edg_is_hegemon_desc:0 "/fûNa8—Cg0"
+
+obj_edg_building_manufactories_100:0 "åTNi—‹T"
+obj_edg_building_manufactories_100_desc:0 "»lN„v100*NwýNåb	gûNaåT:W0"
+
+
+
+obj_christian_convert_desc:0 "ýVYe/f&rTagöN„vyršR—RYe0"
+
+
+ab_edg_years_of_nationalism_feudal_cooperation:0 "Sú^ô•¥cßu»l"
+ab_edg_national_focus_years:0 "CQ–™-NÃVININ"
+ab_edg_free_concentrate_development:0 " R:V­VyV"
+ab_edg_palace_diplomacy:0 "«R÷^Y²N"
+ab_edg_global_missionary_strength:0 "éeg—RYe²Qz"
+
+
+ab_edg_peasants_product:0 "uµNïyg'`"
+ab_edg_peasants_product_trigger_tt:0 "åb	g§YœQlqQŒTýV§!b§YœQl?eCg§!„v?eœ^ýw›R0"
+ab_edg_reverse_relation_with_same_religion:0 "áOðN²‹T"
+ab_edg_religion_tolerance:0 "—RYeËR¹R"
+ab_edg_financial_instruments:0 "Ñ‘‡åTwQ"
+ab_edg_christian_reform:0 "úWcwYe9ei—"
+
+ab_edg_measure_land:0 "°sãN¦W–kåTwQ"
+ab_edg_chartered_company:0 "yr¸‹lQøS"
+ab_edg_culture_choice:0 "‡eS‡T"
+ab_edg_allow_free_estate_privilege_revocation:0 "JR1VSú^yrCg"
+ab_edg_great_project_upgrade_cost:0 "îOú^TÜw"
+
+ab_edg_no_religion_penalty:0 "?eYeR»y"
+ab_edg_max_absolutism_effect:0 "ÝuùRININ"
+ab_edg_nationalism:0 "ýV¶RININ"
+ab_edg_global_allowed_num_of_manufactories:0 "åTNi—‹T"
+ab_edg_warscore_from_battles_modifier:0 "	gP–b‰N"

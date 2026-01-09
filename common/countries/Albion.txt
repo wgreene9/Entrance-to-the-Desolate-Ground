@@ -1,0 +1,336 @@
+graphical_culture = westerngfx
+color = { 64 130 109 }
+revolutionary_colors = {
+  15
+  90
+  15
+}
+preferred_religion = reformed
+historical_idea_groups = {
+  administrative_ideas
+  defensive_ideas
+  exploration_ideas
+  offensive_ideas
+  economic_ideas
+  maritime_ideas
+  trade_ideas
+  innovativeness_ideas
+}
+historical_units = {
+  western_medieval_infantry
+  western_medieval_knights
+  gaelic_galloglaigh
+  gaelic_mercenary
+  gaelic_free_shooter
+  irish_charge
+  scottish_highlander
+  british_redcoat
+  british_hussar
+  british_square
+  mixed_order_infantry
+  open_order_cavalry
+  napoleonic_square
+  napoleonic_lancers
+}
+leader_names = {
+  "öNSV"  # Adam
+  "öNÜSqS'Y"  # Alexander
+  "^ÅúØe"  # Bruce
+  "‘kò"  # Beaton
+  "ZSóV"  # Boyd
+  "aSÖh&O"  # Cameron
+  "NWçS"  # Campbell
+  "—yKQ&O"  # Cochrane
+  "KQ±Éò"  # Crichton
+  "NWÅRâR"  # Cunynghame
+  "KQ≥Rèy∑V"  # Crawford
+  "aSÖQ˙W"  # Carnegie
+  "—y)RS"  # Colyear
+  "Sê<h…bØe"  # Douglas
+  "ìêØw"  # Duncan
+  "∑V ìêÙT"  # de Dunbar
+  "æèS˝lS"  # Dalzell
+  "YôÑ∑V"  # Drummond
+  "ÑSØe—ë"  # Erskine
+  "èy^Øe"  # Forbes
+  "V<hÓh"  # Ferguson
+  "V±ÉâV"  # Fletcher
+  "V±Éf"  # Fleming
+  "bâv"  # Gordon
+  "<h˜ñÑS∆Y"  # Graham
+  "	TSKQÃëØeyr"  # Gilchrist
+  "Oå"  # Hume
+  "kç,g"  # Hepburn
+  "Il∆RSò"  # Hamilton
+  "¶uØeò"  # Johnstone
+  "˙ãKQØe"  # Knox
+  "˙W`"  # Keith
+  "KQS"  # Kerr
+  "≥RS"  # Law
+  "±ÉØe)R"  # Leslie
+  "NgáeØeò"  # Livingston
+  "ógiç"  # Lindsay
+  "¶ûØwGY"  # MacKenzie
+  "¶ûKQU≥u"  # MacDonald
+  "¶û<h˜ñb"  # MacGregor
+  "lö)RyQ"  # Malise
+  "¶ûKQTX<hyr"  # MacTaggart
+  "ôÑÂTlö)R"  # Montgomerie
+  "¶ûKQØeÊó"  # Maxwell
+  "ÿûÃë"  # Murray
+  "ÖhyrpQ"  # Maitland
+  "ÖQÚS∆RØe"  # Nasmyth
+  "eY<hSÙu"  # Ogilvy
+  "nf±É9çS"  # Playfair
+  "iOyrÓh"  # Paterson
+  "˜ñ=Oi`"  # Raeburn
+  "pQSê+Y"  # Randolph
+  "Åú`áe"  # Ruthven
+  "^XScbKQ"  # Selkirk
+  "Øeyr…bØeZS	T"  # Strathbogie
+  "õèKQ±ÉS"  # Sinclair
+  "Øe˛VSyr"  # Stewart
+  "âò"  # Seton
+  "ZS˙W"  # Wilkie
+  "Zôlyr"  # Wishart
+  "Z∆YØe"  # Wemyss
+  "âRØe)R"  # Annesley
+  "ÙTyr“R"  # Butler
+  "∑V ^S<h"  # de Burgh
+  "=OKQ"  # Burke
+  "ZSOS"  # Boyle
+  "^g"  # Browne
+  "=OKQ"  # Bourke
+  "ÙTÃë"  # Barry
+  "çúSV"  # Balfour
+  "^±É<S"  # Blayney
+  "TN∆Y)R"  # Cholmondeley
+  "GYRØeyr"  # Chichester
+  "ì^yr"  # Coote
+  "wSÚÉS∑V"  # Caulfeild
+  "ƒrôü"  # Dillon
+  "U9h"  # Dongan
+  "æè+Y"  # Duff
+  "Íè<h‘k"  # Digby
+  "ÚÉ(Épg…b∑V"  # FitzGerald
+  "ÚÉ(ÉZ…^"  # FitzWilliam
+  "ÚÉ(ÉeY)RV"  # FitzOliver
+  "9çSN"  # Feilding
+  "ÚÉ(É´ÉÃëØe"  # FitzMaurice
+  "ÚÉ(É^yrÃëKQ"  # FitzPatrick
+  "èyÇÑØeN"  # Fortescue
+  "-WS+Y"  # Guelph
+  "†R∑V≥u"  # Gardiner
+  "<hÃë∆YØeò"  # Grimston
+  "Il∆RSò"  # Hamilton
+  "—ûS"  # Hare
+  "kçÙu"  # Hervey
+  "˙W˜^"  # Keating
+  "˙Wi`"  # Keane
+  "aSÊt≥u"  # Kavanagh
+  "pQÙTyr"  # Lambart
+  "löN"  # Martyn
+  "¶ûaS!ï"  # McCarthy
+  "FzS"  # Moore
+  "s|∑V"  # Meade
+  "¶ûaSyr<S"  # Macartney
+  "Àu—ëyr"  # Nugent
+  "eY<SS"  # O'Neill
+  "eY^±Éi`"  # O'Brien
+  "eY∑^HYS"  # O'Connell
+  "eY»T…b"  # O'Hara
+  "eYlö)R"  # O'Malley
+  "eYUHYS"  # O'Donnell
+  "eYaSWS"  # O'Carroll
+  "^ÓhØe"  # Parsons
+  "^KQWS"  # Pakenham
+  "nf&O˙Wyr"  # Plunkett
+  "nf˜ñØeò"  # Preston
+  "ÃëGYÊó"  # Ridgeway
+  "Øeyri`"  # Sterne
+  "˛V0å"  # Touchet
+  "TXV"  # Taaffe
+  "Éli`"  # Vaughan
+  "Ùu)RSØe"  # Villiers
+  ")nyrÉl`"  # Wentworth
+  "ÊóØe)R"  # Wesley
+}
+monarch_names = {
+  "yä∆YØe #0" = 120  # James #0
+  "WçS #2" = 20  # Robert #2
+  "®N)R #0" = 20  # Henry #0
+  "öNÜSqS'Y #3" = 10  # Alexander #3
+  "öNmt #0" = 10  # Arthur #0
+  "ÉlSyr #0" = 10  # Walter #0
+  "¶u #1" = 5  # John #1
+  "ÂgSØe #0" = 5  # Charles #0
+  "löS—y∆Y #4" = 1  # Malcolm #4
+  "U≥u∑V #3" = 1  # Donald #3
+  "'YkS #2" = 1  # David #2
+  "ìêØw #2" = 1  # Duncan #2
+  "âR∑VÃëöN #0" = 0  # Andrea #0
+  "?ñpQ #0" = 0  # Alan #0
+  "?ñSs^ #0" = 0  # Ailpein #0
+  "?ñGYZSS∑V #0" = 0  # Archibald #0
+  "ÙTKQ)R #0" = 0  # Barclay #0
+  "çmt<S #0" = 0  # Beathan #0
+  "^ÅúØe #0" = 0  # Bruce #0
+  "aSÖh&O #0" = 0  # Cameron #0
+  "∑^∑V  #0" = 0  # Cin·ed #0
+  "—y≥uS #0" = 0  # Conall #0
+  "Sê<h…bØe #0" = 0  # Douglas #0
+  "jg+Y  #0" = 0  # Duff #0
+  "Oâv #0" = 0  # Edan #0
+  "ON∑V #0" = 0  # Evander #0
+  "V…bmt #0" = 0  # Fraser #0
+  "†R)R #0" = 0  # Garry #0
+  "<h&O #0" = 0  # Glen #0
+  "Oi` #0" = 0  # Ian #0
+  "˙WS #0" = 0  # Keir #0
+  "Øw<SÍè #0" = 0  # Kennedy #0
+  "&O˙ãKQØe #0" = 0  # Lennox #0
+  "m9h #0" = 0  # Logan #0
+  "s|GkS #0" = 0  # Micheil #0
+  "fb #0" = 0  # Mungo #0
+  "ôÑW #0" = 0  # Munroe #0
+  "Øe—yyr #0" = 0  # Scott #0
+  "NS±ÉÎX #0" = 0  # Wallace #0
+  "õsKN #0" = -10  # Mary #0
+  "OKNéÉãv #0" = -1  # Elizabeth #0
+  "õs<hKNyr #0" = -1  # Margaret  #0
+  "2SÚÉs|Z #0" = -1  # Euphemia #0
+  "âRZç…b #0" = -1  # Anabella  #0
+  "yrmkç #2" = 60  # Turlough #2
+  "Y≥uS #5" = 40  # Donal #5
+  "ÿû˜ñkç #2" = 40  # Muireadhach #2
+  "∑^óS #1" = 40  # Conchobhar #1
+  "9ç∑V)Rs| #1" = 40  # Feidlimidh #1
+  "aS^S #0" = 40  # Cathaoir #0
+  "Fzkç #0" = 40  # Muchadh #0
+  "√W #6" = 20  # ¡ed #6
+  "U˙ãkç #3" = 20  # Fonnchadh #3
+  "^±Éi` #2" = 20  # Brian #2
+  "KQÅúN #2" = 20  # Criomhthann #2
+  "?ñSyr #1" = 20  # Art #1
+  "aSkçS #0" = 20  # Cathal #0
+  "ÖhR¿N #0" = 20  # Muiris #0
+  "l<h #0" = 20  # Tadhg #0
+  "Si` #0" = 20  # Se·n #0
+  "<SS #4" = 15  # Niall #4
+  "i`Ãë #0" = 15  # EinrÌ #0
+  "∑^i` #1" = 10  # Conn #1
+  "'ki` #1" = 10  # Eoghan #1
+  "ÒÇ<hØe #2" = 5  # Aonghus #2
+  "wÊtS #2" = 5  # Comhghall #2
+  "Öh…bkçpQ #2" = 5  # Maeleachlain #2
+  "ÍèSlö∑V #1" = 5  # Diarmaid #1
+  "Vg #1" = 5  # Flann #1
+  "√WSbS #0" = 0  # Aerdghal #0
+  "ç…bkç #0" = 0  # Bearach #0
+  "NYáe #0" = 0  # CaoÌmhin #0
+  "Y˙ãN #0" = 0  # Donnabhain #0
+  "√Wáe #0" = 0  # EÌhmhÌn #0
+  "’lSkçS #0" = 0  # Fearghal #0
+  "OS…bS #0" = 0  # Iarfhlaith #0
+  "mNW #0" = 0  # Lorcc·n #0
+  "lö·wi` #0" = 0  # Math˙in #0
+  "<SN #0" = 0  # Naomh·n #0
+  "'k¿Ni` #0" = 0  # OisÌn #0
+  "^∑VÃë<h #0" = 0  # P·draig #0
+  ")R÷vi` #0" = 0  # RÌag·in #0
+  "0tÊtS“R #0" = 0  # Somhairle #0
+  "^X…b∑V #0" = -1  # Saraid #0
+  "eYS…b #0" = -1  # ”rfhlaith #0
+  "9ç∑VSõs #0" = -1  # Fedelma #0
+}
+ship_names = {
+  "öNÜSqS'Y∑÷v)R"  # Alexander Gaily
+  "âRØeyrÅúmtÑvâRÆY"  # Ann of Anstruther
+  "éUÃëY<SöNÑvâRÆY"  # Ann of Caledonia
+  "âRWSæèS"  # Annandale
+  "âRN<S"  # Anthony
+  "ZS≥uáe˛VS"  # Bonaventure
+  "ZSØe"  # Bosse
+  "éUÃëY<SöN"  # Caledonia
+  "ZSgQØeÑvKQÃëØeÇÑâR"  # Christian of Bo'ness
+  "KQÃëØeXbV"  # Christopher
+  "—y&O^"  # Colomb
+  "'YFñ"  # Continent
+  "'YkS"  # David
+  "&Ofe∑VÃëÑvY†Ráe"  # Dogarvine of Londonderry
+  "wmZå"  # Dolphin
+  "Il∆RSòlQ5r"  # Duke of Hamilton
+  "ìêÙTòŒW!X"  # Dumbarton Castle
+  "ƒñpû"  # Eagle
+  "√W¨ÇÅRŒW!X"  # Effenying Castle
+  "OKNéÉãv"  # Elizabeth
+  "KY€è"  # Endeavour
+  "Au±Ç"  # Flower
+  "x^–è"  # Fortune
+  "ãY–è"  # Good Fortune
+  "O'YÑvÃëf"  # Great Lyon
+  "O'YÑvâÌsYr∫N"  # Great Spaniard
+  "'YÏr“âãQ"  # Great Unicorn
+  "µxh"  # Greentree
+  "^g"  # Hope
+  "ZSgQØeÑvónf"  # Hope of Bo'ness
+  "^gKNÀY"  # Hopeful Beginning
+  "YtQ"  # Instauration
+  "yä∆YØe"  # James
+  "âRØeyrÅúmtÑvyä∆YØe"  # James of Anstruther
+  "ÕsÆYyr"  # Janet
+  "nf^t)nÑvÕsÆYyr"  # Jennet Purwyn
+  "˝VãsKNÇ"  # King's Carvel
+  "<h…bØeÂTîä"  # Lamb of Glasgow
+  ")RØeîä"  # Lamb of Leith
+  "±ÉØe)R"  # Lesley
+  "SÏr“âãQ"  # Little Unicorn
+  "Ãëf"  # Lyon
+  "õs<hKNyr"  # Margaret
+  "|VóV—û∑VÑvõs<hKNyr"  # Margaret of Peterhead
+  "õsKN∑Zm‘k"  # Mary Willoughby
+  "õsKN∑ÉlSõèÑS∆Y"  # Mary Walsingham
+  "®XN)R"  # Mercury
+  "»èKQS"  # Michael
+  "´ÉÃë^Xyr"  # Moriset
+  "´Éò"  # Morton
+  "DjÑiùg"  # Olive Branch
+  "HûUû"  # Pelican
+  "‰QQ"  # Phoenix
+  "Åú¿syr≤Nãs"  # Prince Rupert
+  "ìêÍèKN)YQO"  # Providence of Dundee
+  "Ôg—yÍèKN)YQO"  # Providence of Kirkcaldy
+  "iVyÜ"  # Rainbow
+  "Ãë∑V∑Ãëf"  # Reid Lyon
+  "ÌeÂe"  # Rising Sun
+  "WØe"  # Rothes
+  "áv∂RõsKN"  # Royal Mary
+  "áv∂RZ…^"  # Royal William
+  "1WâR∑VÅú"  # Saint Andrew
+  "kp%á4á"  # Salamander
+  ">y≤"  # Society
+  "	Vê"  # Speedwell
+  "êﬁV"  # Speedy Return
+  "ﬂÑ±Ç"  # Thistle
+  "XbÊtGY"  # Towaich
+  "0ç°RòR"  # Treasurer
+  "Ïr“âãQ"  # Unicorn
+  "TwT"  # Union
+  "íQiñ"  # Venture
+  "<h…bØeÂTNâkû"  # Phoenix of Glasgow
+  "Z∆YØe"  # Wemyss
+  "Z…^NTNªl"  # William and George
+  "Z…^åTõsKN"  # William and Mary
+  "ƒûrÇÎV9Ç"  # Yellow Carvel
+  "OôÇ"  # Aoife
+  "˙W…b"  # Ciara
+  "∑^˙ãyr"  # Connacht
+  "åÇkç∑ã"  # Eithne
+  "Oõs"  # Emer
+  "&OØeyr"  # Leinster
+  "íÇØeyr"  # Munster
+  "ÆYôÇ"  # Niamh
+  "eY…b"  # Orla
+  "´spt"  # Roisin
+  "LNSØeyr"  # Ulster
+}

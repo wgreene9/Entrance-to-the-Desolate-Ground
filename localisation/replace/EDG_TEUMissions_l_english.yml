@@ -1,0 +1,147 @@
+﻿l_english:
+ #---------------------------------------------------------
+ # Edg Teu Mission 1
+ #---------------------------------------------------------
+
+ EDG_TEU_mission_1_2_title: "^ýVKNN"
+ EDG_TEU_mission_1_2_desc: "^y1WWlš^ýVNbìN„v‹TÐo`o`øvsQÿbìNÅV‰˜ÔNÆuwQ†TÖNìNKNô•„vsQû|0"
+ EDG_TEU_mission_1_3_title: "‘šëXâVN^ýV"
+ EDG_TEU_mission_1_3_desc: "bìN ReQ^y1WWlš^ýVÿv^^—=fùR·Va×Vø‹¦	gÀNHNKb³KNŒb^—RKNó`ÿÅN=fúQŽN·ƒÖSÝO²b0NÇâlpQ‹sýVòT6qW)Tætã‰ÿ»ýV„vZÁwNòTaƒ6qàeXR0\n°s(Wÿ=föePìSÆ–T6–BSÊSŒ˜î•ÿÍ‘°eÄ‹0ObIr(W^ýV…Qè„v?e»l0WMO†N0"
+ EDG_TEU_mission_1_5_title: "tQú^YeX"
+ EDG_TEU_mission_1_5_desc: "bìN„v1WbNÅN‰©‹N'kºNllTckáOÿØ‰nxÝOÖNìNýwZWcáOðN)YINYe0àVdkÿsSOQS„vQgG•mNÅV‰˜	gNµ^IY‹TŽNYe—R„vYeX0"
+ EDG_TEU_mission_1_6_title: "îO.<yÜbX"
+ EDG_TEU_mission_1_6_desc: "YeO=f^y„v¿kÿw'YYeXR=fbìNáOðNg>f<w„vÁ‹f0:N†NINóØšàeN„vcƒwÿbìN‰(WýVWNú^¾‹'YYeXÿ"
+ EDG_TEU_mission_1_8_title: "F–›Q9ei—"
+ EDG_TEU_mission_1_8_desc: "S›Q–N´fl:SRVeg„v1S=fªu‹V'`0bìN‰nxÝObìN„vëXuQ­‹Ãu	g.t0ÅˆY¾|o‚ÿv^NgÍ‘‰„v=fªu‹V%Nf0"
+ EDG_TEU_mission_1_9_title: "LwN›Q–"
+ EDG_TEU_mission_1_9_desc: ">fwfÁ‰ÿbìNNýw©‹›Q–1uN²êðyŸqû‹-NýVuQÕl„vœQl†˜üR0bìNÅV‰˜nxÝObýV[Root.GetNobilityOrFallbackName]öeIRÆQYNwb:NLˆO-N„vS†˜0"
+ EDG_TEU_mission_1_10_title: "nfœëXÁ”›Q"
+ EDG_TEU_mission_1_10_desc: "°e›QNÏu×Sb‰N„vw‘Èp1SàeÕl«ˆ²‹:N	g(u0bìN”^å‹(Wb:WNKmÕ‹bìN„vb=gÿºN›RŒTÅˆYÿÁ‹fbýV›Q–³åNùR—bNRLeºN0"
+ EDG_TEU_mission_1_12_title: "eQµOâlpQ"
+ EDG_TEU_mission_1_12_desc: "sQŽN=f&T^SŽN1WbN‹Nÿag˜‘šëXâVŒTâlpQ‹sýV†Seg‰Nº‹NO0êbìNÎN1225t^šRESŽNnfœëXåNegÿâlpQ‹sýV1SNôv(WÕ‹þVFd1bìN0bìNÅV‰˜VgâlpQN=f:N†N—RYeÿw=f:N†NuXR0"
+ EDG_TEU_mission_1_13_title: "Û›Q¢uœ^X<SšN"
+ EDG_TEU_mission_1_13_desc: "bìNÅV‰˜çuíuTWS¨cÛåNN³R8l80Wˆmd–âlpQZÁwÿ¢uœ^X<SšN1S=fÙ²VïzgT„v!X’W0"
+ EDG_TEU_mission_1_14_title: "¥c¡ridS¾ôušN"
+ EDG_TEU_mission_1_14_desc: "idS¾ôušN	gNw¥wƒl„vW0WÿåNa„„R‘µNNû•T0ÙÌ‘mN=feY¯eüfºNÛeQœ^X<SšN„vÅVÏuKN0W0bìN”^SV|Qv^idS¾ôušNÿI–bkW3wvQºNTN'kib.VÿSV6qÿÙmN=f:N†Na„„R‘0"
+ EDG_TEU_mission_1_15_title: "WSè2–¿u"
+ EDG_TEU_mission_1_15_desc: "bìN„v[Root.GovernmentName]†˜WÎNâlW„vwmôv¾ÑžwmÿASRËR^ÿàVdk:N†N2–bkSeg„vZÁwÿbìN—‰ú^¾‹‰^X2–ƒŽN*g6qÿ"
+
+
+ #---------------------------------------------------------
+ # Edg Teu Mission 2
+ #---------------------------------------------------------
+
+ EDG_TEU_mission_2_1_title: "QRNþv"
+ EDG_TEU_mission_2_1_desc: ")Rƒl<SšN‘šëXâV=f(WâlW„vwm¿l¸SbËz„væSN*N‘šëXâVÿ1202t^(WÌ‘ RRËzOËYÿîvhsS=fSâlW„v(„«ƒ	T^šNºNúWcwSÿFO(W1236t^mGè`%Tÿ¿OŒTbìNag˜‘šëXâVÓußv†N0bìNNwbŸR.^©RâlW„vwm¿l¸S„vW0WˆvO†N=UNckáO0\n\nbìN”^SVQ¦^TÖNìNÓußv¦uÿåN¿OðV¾–öe|Vdk	g*NO`—0"
+ EDG_TEU_mission_2_2_title: "RNªg"
+ EDG_TEU_mission_2_2_desc: "KS¡r)Rƒl<SšNŒTag˜2NýVGW:NîOOÿFOêVYe’VˆvOåNegÿŒN‘šëXâVS	gqQT)RÊv0àVdkÿbýVN)Rƒl<SšNv^^—nxšR„vTwßv0bìN”^SV:VS(W2NýV-N„v0WMOÿÇ9e„UY²NbwVgÖNìN0"
+ EDG_TEU_mission_2_4_title: "^ýVY²N"
+ EDG_TEU_mission_2_4_desc: "ìNÇ»S=fŒT:N†NaSVYe’VwNÖNìNKYb„vîOSb–‘šëXâVÿSVbìNŒRb†NASWR›QO‹TÿbìN„vY²Nýw›RRRY©‹âlpQºN2N!kNTv^býV0FO=fåN^y1WWlš^ýV„vhÆQegwÿbìN„vY²Nýw›RêSýwŒTÎ‘î†ºNøvÐcv^º‹0\nbìNÅV‰˜ÐcØšbìN„vY²Nýw›RÿO—VbìN(W°e„v?e»l¯sƒXN—VåNuXR0"
+ EDG_TEU_mission_2_6_title: "úQr‚ÚP–"
+ EDG_TEU_mission_2_6_desc: "[Root.GetName]NýwêSO`—[Root.Monarch.GetTitle]0Õkßzÿ[Root.Monarch.GetTitle]mN=fºNÿmNO¯rºN„v•ï‹0bìN—‰1uðyLwŒ˜î•Äub„v…Q–ÿÖNìNïSåNnxÝOýV¶RsSO(WgqS%`„vöeIRmNýwck8^Ðl0"
+ EDG_TEU_mission_2_7_title: "û°eïg<S¯e!X"
+ EDG_TEU_mission_2_7_desc: "[41.GetName]»¥c[43.GetName]ÿ=fnfœëXƒX…QgÍ‘‰„vÎW^01uŽNƒR„vMOnÿÙµ^ÎW^b:N†NN*NðXTPé„vFUNÍ‘G•ÿ8TV†NFUºNÿfRwŒT^l0bìN”^SVÓbUSÙµ^ÎW^ÿOƒRb:NbýVIQ‰pÂp„v–™ý0"
+ EDG_TEU_mission_2_10_title: "åTNúWNx"
+ EDG_TEU_mission_2_10_desc: "N=eäNºNpSaŒñmIR„v›Q–—‰:V²R„vÏuNm0bìN—‰(WbýVú^¾‹åT:WÿObýVÏuNmýwN›Q›R„vÑSUSøv9SM‘0"
+ EDG_TEU_mission_2_11_title: "›Q–NýV¶R"
+ EDG_TEU_mission_2_11_desc: "N<PNÐc„výV¶RMbåb	g›Q–ÿbìN„v›Q–‰åb	gN*NýV¶R0"
+ EDG_TEU_mission_2_13_title: "ñmeQy0W"
+ EDG_TEU_mission_2_13_desc: "œ^X<SšN0W:S^—8^Ë–ÿœQ0uNIƒ:WNgàeE–0bìNÅV‰˜VgÙGrW0W·ƒÖS³Y„vDneg=e‘dbìNSeg„vb‰N¡‹R0"
+ EDG_TEU_mission_2_14_title: "W¯eEeW"
+ EDG_TEU_mission_2_14_desc: "œ^X<SšNàQÑŒRhQv^eQbýVHrþVÿêSˆmàQ:WbyV¿OïSKQKShQŸR0"
+ EDG_TEU_mission_2_15_title: "¿lNw,rBw=O³l"
+ EDG_TEU_mission_2_15_desc: "yrôuS±.^W¯eºNòTÏupe!kÕ‹þVÓgcN'kÿÖNìNT‰ib.VÿVg¿lNb	gW0WKNÃV-f6qå‚íc0bìNÅV‰˜O,rBw=O³l‰^XSÿv^Pdkµb¡VW¯eºN„vöQsÛIeÿ"
+ EDG_TEU_mission_2_16_title: "IƒŸSASWR›Q"
+ EDG_TEU_mission_2_16_desc: "bìN„v'Y>NVgSbìN&^eQ†N-NšNy0WÿQXb†N¸‹Y^ýVêSýw(WŽ¦h-Nó`Á‰„vË–HrþV0\n(WbìNçuíuTNV¨‹KNMRÿbìNÅV‰˜HQTNekÿÍ‘ÄubìN„vLˆ?eÓu„g0"
+
+ #---------------------------------------------------------
+ # Edg Teu Mission 3
+ #---------------------------------------------------------
+
+ EDG_TEU_mission_3_1_title: "nfœëXTwßv"
+ EDG_TEU_mission_3_1_desc: "ê1410t^<h&OætS·VbyVK„%åNM–ÿbìNS5„v‘šëXâV«ˆëTâlpQýV‹sTPb‰Nmc1YÿÙ©‹bìNÒo4N4xµNàVdk'YâV•ëN—VòTLˆÅV‰KNv`ÿùR6–BSÊSÎW^žXz0\nT6–BSÿ2SvQ=f^l6–BSÿê6qùRdka0R2a`0gÈuÿ1440t^ÿT6–BSãNhˆZwÆ–(WnfœëX„vÃWS¾RÎWÿbËz†NnfœëXTwßv0êdkÿTwßvNWYO›R„vÇ0?e=ecbIr¿RLeâlpQ‹sýVÿåNdkêYw…Qætã‰‘šëXâVKNéy^0\n‘šëXâVó`‰Imÿ1SÅV‰˜ôvb—TwßvÙ*Nî•˜˜0"
+ EDG_TEU_mission_3_2_title: "XNZ†weQ"
+ EDG_TEU_mission_3_2_desc: "âlpQ‹sýVNbIrÇN(`òTÏuõuö^†NN*NNªuKNENÿNÇƒRtSbgR'`„vW)Tætã‰†NÿbìN”^SVXNNwÖNìNØ*gßuNÿÙuÖNìN¹pœ˜r‚wwÿ©‹âlpQÙ*NÇ»S„vZÁw8lÜNOQ¬`ŽNbIr4YNÿbìN‰(Ws^Î‘NûQ%ÖNìN‹kXR„vT*NlQýVÿ4xLeKN•¹eýwÁ‹fbIrO›Ràe¹ÿ"
+ EDG_TEU_mission_3_3_title: "^y1WTßv"
+ EDG_TEU_mission_3_3_desc: "‘šëXâVàVYe—RXR(Wÿ:NYe—Rg¡R0àVdkÿÝOcbìNNYe÷^„vZWžRTßvósQÍ‘‰0"
+ EDG_TEU_mission_3_4_title: "^yfRtõV"
+ EDG_TEU_mission_3_4_desc: "býV=f—RYeKNýV0T†áOKNýV0áOðNKNýVÿEew”^SV¥c³u‘šëXâVŽN—RYe-N„v,g(ÿåb±bbýVìryr„v^yfRtõV0"
+ EDG_TEU_mission_3_5_title: "^y1WKN0W"
+ EDG_TEU_mission_3_5_desc: "KS¡rbìNuŽNRQRKN-Nÿ•ŽNÒR’‚KNµOÿFO«ƒ‰ØV°‹ÿVbNg.bv^N=fbìN„vgÈuîv„v0ŒTûQ%VYe’VøvÔkÿOÖNìNˆvOckÕlMb=f‘šëXâV„v4YIr'Y‹N0bìNÅV‰˜NWYO›Rÿ©‹ÙGrW0WRVŽNckáO0"
+ EDG_TEU_mission_3_7_title: "ÑSUSnfœëX"
+ EDG_TEU_mission_3_7_desc: "bìN„v8hÃVy0WnfœëXƒlÎ‘CSÌ‘ÿÏuNmjo›Rg'Y06qwÿNâlpQŒTËzv–›RÞbÏut^ÿbìNNôv¡lýwŒ˜—VNSV0WÏuNmÑSUS0°s(Wÿ=föePeˆNÙWWíwg†N0"
+ EDG_TEU_mission_3_8_title: "ýV¶R9ei—"
+ EDG_TEU_mission_3_8_desc: "Õl‹VN?eœ^ÅV‰˜SO°sbýVyrr‚ÿÏu1uNû|R9ei—ÿú^„gwNteWYŒR„U„v»lýVSO6R0"
+ EDG_TEU_mission_3_9_title: "N6RNìr­e"
+ EDG_TEU_mission_3_9_desc: "Sú^ßu»l‹YqNPNxyÿ6–BSRÂˆ‰NCg:Y¿RÙ7h„výV¶RèlšR‰Ákmp0:N†NekTO'Yÿd–[Root.Monarch.GetTitle]YÿNýw	gûNUOºNR«Nßu»l'YCg0"
+ EDG_TEU_mission_3_10_title: "VfN=T™„"
+ EDG_TEU_mission_3_10_desc: "bìNW0WN„vºNlv^^—a+Y0ÖNìN(î•ÝuùRININßu»lÿ(î•vQjO:NTIN6RŒT^yCg6R„v8hÃV`ó`ÿîv„v:NUOÿb—ùRÙ›Nî•˜˜ÿ	g„vßu»lwí•ãSNŠÿ	g„vßu»lwÆQY©‹CgÿFObìNtS‰åb±b=T™„ININÿckSVSbIrßu»lNOVN^„vÁNHaÿw=fÉ…1uI‘ŒTt'`0"
+ EDG_TEU_mission_3_11_title: "ùR…Vi—‹T"
+ EDG_TEU_mission_3_11_desc: "'Yi—‹T—²˜Nw'k2m0TINÝOˆRCg›RÿçVÃVáVáVÿlQl0k1kŸ‚ÿåeÊvÂríp0Ç»S=f‹sýV„vÿÊN)YR«ˆðyjOVyýV0\n”^ùR'Yi—‹TÿbìNÅV‰˜ZPúQfnx„vðXfÿåb±byY‘bb=fG•‹SyY0"
+ EDG_TEU_mission_3_12_title:0 "Á”NNˆ„v^ýV"
+ EDG_TEU_mission_3_12_desc:0 "^y1WWlš^ýV„v^ QòT(WbIrKNKbÿbìNS	gôf:V'Y„vžR›RçuíubìN„vASWR›Q?aofÿ"
+ EDG_TEU_mission_3_14_title:0 "'YÜV"
+ EDG_TEU_mission_3_14_desc:0 "IƒŸSNASWR›Q„vÌe×eòT6qGSwÿ©‹bìNß–'YIƒŸSN„v³ùÿTNwôfÜYÛ›Q'Tÿ"
+ EDG_TEU_mission_3_15_title:0 "Ç»SN°s(W"
+ EDG_TEU_mission_3_15_desc:0 "™„äS^ýV(WÇ»SþfÏu«ˆðy:NN^KN­—ÿw°s(WbìNSÔkÖNìNôfÛNekÿ"
+ EDG_TEU_mission_3_16_title:0 "N¹e^ Q"
+ EDG_TEU_mission_3_16_desc:0 "eÜ„vN¹eýV¦^	gNÍy«ˆÖNìNðyKN:N)Yg„vSú^SOû|ÿPå‚bìNåb	g³Y„vžR›Rÿ±HNmN¸‹bìNmNýwYSvQ³ueQbIrKNKb0"
+ EDG_TEU_mission_3_17_title:0 "ÌSÍ‘Wlš"
+ EDG_TEU_mission_3_17_desc:0 "N‰ŒN^ÿÌSÍ‘Wlšÿ"
+ 
+
+
+ #---------------------------------------------------------
+ # Edg Teu Mission 4
+ #---------------------------------------------------------
+
+ EDG_TEU_mission_4_1_title: "fkÅˆ‘šëX"
+ EDG_TEU_mission_4_1_desc: "14090R1411t^014310R1435t^ÿbìNNâlpQŒTËzv–›RSb†N2N:Wb‰NÿÙ'Y'YJR1V†NbìN„v›Q‹NžR›Rÿ‹†6qbìN„vwùRKbòTÏuPN†NÿFOÙv^NasTNwbìN°s(W1S=f‰RhQ„v0àVdkÿbìN”^SVib›Q–ÿv^KSïSýwY0WVìS°euQ0"
+ EDG_TEU_mission_4_2_title: "âlW„vfàs"
+ EDG_TEU_mission_4_2_desc: "sSO=fQa(r„vºNmNýwwúQÞ¥cN‰'k2m„vâlW„vwm8f	gYHNÍ‘‰0âlW„vwmhTôV„v¸‹YlãS=nŒT8f-NÃV1S=fÁ‹f0\nÙ›N8fÎW^=f÷N<PÞÎW„vfàsÿwvQ-N„v|O|Ow¿O=fFOýlÿbìNÅV‰˜ÑSUSƒReg:NbìNÐc›Oôf R	g)RïSþV„v8fÿ"
+ EDG_TEU_mission_4_4_title: "8fŽVeg"
+ EDG_TEU_mission_4_4_desc: "âlW„vwm8f=fbýVIN‰ÏuNmegnKNN0bìN”^SVÎNIl(„TßvFUºNŒT9N¦žºNKbÌ‘ÝO²bƒRÿ&TRbìN1SOmc1Y0n0"
+ EDG_TEU_mission_4_6_title: "ÏuNmNÑSUS"
+ EDG_TEU_mission_4_6_desc: "KS¡r‘šëXâVbXTˆVS	gºN?aab²‹ÙN¹pÿFOôucÏuNmmN=fbýVÍ‘‰„vNèR0RQR0Ôv2u0lš9S0kp®pNRý	gvQ÷N<h0bìNÅV‰˜žX R6eeQÿÎNwnxÝOASWR›Q„vÜw)R0"
+ EDG_TEU_mission_4_7_title: "ZWÁXNÍ‘’W"
+ EDG_TEU_mission_4_7_desc: "‹†6qÛIe=fNagTÜw)R„vïÿFO=fbìNv^NýwýVÆ‰!X’WŒTÎW!X„vÍ‘‰'`0bìN”^SV(WýV¶RÍ‘‰„v‚‚¹p-Nú^¾‹!X’Wv^ôu²bƒRìNÿÙ7h1S¡l	geQµOwýwÎNbìN„vaó`N0R„v‰kÒ‰GY­ˆbìN0"
+ EDG_TEU_mission_4_10_title: "–›Q^yLw"
+ EDG_TEU_mission_4_10_desc: "‚Yœg,gýV„v[Root.GetChurchOrFallbackName]ýNýw=ecbìNÿbìN„v1Wb1S	g>P†‰„vÎ˜i–0NbåNbìN—‰nxÝOvQàVÚ‹ÿv^¸‹åNyrCgÿåNÝOÁ‹ÖNìNýwN[Root.Monarch.GetTitle]TÃV.b›R0"
+ EDG_TEU_mission_4_11_title: "pš‹š'YIƒŸS"
+ EDG_TEU_mission_4_11_desc: "bìNN8ngrèK„„vb—ehˆfÿ(WÙ›Nzz÷e„v'YIƒŸSNÿekuQòTÏuNïSLˆ†N0bìN—‰Q!kŒtebìN„v›Q–ÿ:N‘šëXâVú^ËzN=ež^'Y„v‘šuQÿ=U	g‚YdkbìNMbýwNÎ‘î†„v8ngrèK„ƒ²R0"
+ EDG_TEU_mission_4_13_title: "NˆIw°QVn"
+ EDG_TEU_mission_4_13_desc: "ú‹+YåTW·V=fNckYeVïz„v‹˜úV!X’WÿwƒRckùRNwbìN„vVDQÿ)Rƒl<SšN‘šëXâV„v¶Rè•ãS0bIrÅV‰˜gdÁkÙ*NÎ‘î†®w„vFUNqQŒTýVv^VgÙGrW0W0"
+ EDG_TEU_mission_4_14_title: "ûQƒnNSW¯e"
+ EDG_TEU_mission_4_14_desc: "bìNÅV‰˜(WNSW¯eßuNKNMR‰V•^ûQƒnÙ²VïzRPRÿ"
+ EDG_TEU_mission_4_15_title: "NN‰"
+ EDG_TEU_mission_4_15_desc: "úWcwYeNLuòTÏuàV:N(WáOðNN„v®VSîTVwRÂˆ†N*YEN0†SûNYe—R<ONNv^àe%VTRÂˆ„v¨R›RÿÜb`S­^^ýV„va+YRÙVNw«ˆFz¯e—g„vÁ”DŽVg0îOTRÂˆ0ÈuÓuVïz„v1ûNK„(W†NbìN„v©wN0"
+ EDG_TEU_mission_4_16_title: "nfœëX^ýV"
+ EDG_TEU_mission_4_16_desc: "(WVg†NâlpQÿËzv–›RŒTœ^X<SšNTÿbìN„v[Root.GovernmentName]E^XT0R¾†NN*NØš¹pÿuó©‹^y1WWlš^ýVýïž6q1Yr‚06qwbìN„v†˜WNØ	g'YGrW0WØS*gVÑS0\nbìN”^SVib.VbýV„vúWNxú^¾‹ÿO—VbìNNbk(W†˜WNÔk^ýV'Yÿw(Ï‘mN”^SV:VÇ^y1WWlš^ýVÿ©‹bìNRú^bìN„v[Root.GetAdjective]^ýVÿ"
+
+ #---------------------------------------------------------
+ # Edg Teu Mission 5
+ #---------------------------------------------------------
+
+ EDG_TEU_mission_5_2_title: "nfœëXwm›Q"
+ EDG_TEU_mission_5_2_desc: "‹†6qbýVIN‰¾|›Rý>e(W'YF–›Q‹N‹N¡RNÿFOëkàe‘uî•ÿNæeŒTIl(„Tßvbw¯e*X„v³uôušNÑSu²Qzÿµc6RwmmmN^—8^Í‘‰0bìN”^SVÄuú^N=e¾|•wm›Q0"
+ EDG_TEU_mission_5_3_title: "âlW„v^:W"
+ EDG_TEU_mission_5_3_desc: "Il(„TßvŒT¯e*X„v³uôušNý(WÕ‹þVŠbbìN’c2cúQâlW„vwm^:W0bìNÅV‰˜(WsQ.•wýNú^Ëz²Nf^:Wv^ÐcGS8f-NÃVIrµuegŒTÖNìNv^ŒšPŸqš0"
+ EDG_TEU_mission_5_5_title: "µb6R—RYe9ei—"
+ EDG_TEU_mission_5_5_desc: "—RYe9ei—T›<›,gºN„vpgjOÿþfÏuàVžR„v)YINYe’VìNÌwV†N1Wµ^v^¥c×S†NµNn^yf„vZPÕl0bìNNýw©‹bìNXK„0RÙÍyjv`„vLˆ:N-Nÿ"
+ EDG_TEU_mission_5_6_title: "‰|ŽxVïz"
+ EDG_TEU_mission_5_6_desc: "—RYe9ei—ÙuNLu&^eg†N¸‹YVïzÿÖNìNÕ‹þVSÖNìN„vv`Òk`ó`.O­dÙuvQÖN)YINYe’V0bìNÅV‰˜ËzsSÓumgÙÍyVïzLˆ:Nÿ‰|ŽxÙ:W—RYe9ei—ÿ"
+ EDG_TEU_mission_5_8_title: "rlÖSÏuŒš"
+ EDG_TEU_mission_5_8_desc: "ˆV>f6qÿbìN„v›Q–òTÏuK„O†N0b›QÍN(WO(u„v-NNªu‰'kb=gÿàQNNN(uŽNN'k„v0WbV0bìNÅV‰˜ÛLˆ9ei—ÿ"
+ EDG_TEU_mission_5_9_title: "‡O="
+ EDG_TEU_mission_5_9_desc: "bìN„vF–›Q(WN!kâlpQ-ag˜b‰N-N«ˆpe!kûQ%ÿÙê6qg'Y0WSbûQ†Nb›QëXl0°s(WbìN”^SV(Wb:WNÍ‘:YÜw)Rÿv^:N°euQïy=tR5„vb—eÏuŒš0"
+ EDG_TEU_mission_5_10_title: "”^s^ŸS"
+ EDG_TEU_mission_5_10_desc: "ˆV>f6qÿbìN„v›Q–òTÏuK„O†N0b›QÍN(WO(u„v-NNªu‰'kb=gÿàQNNN(uŽNN'k„v0WbV0bìNÅV‰˜ÛLˆ9ei—ÿ"
+ EDG_TEU_mission_5_12_title: "Tv^Ëzv–›R"
+ EDG_TEU_mission_5_12_desc: "1225t^ÿlšPO+Y‚lQ5r·^Éb·VŽ÷‹bìN(WôTSr^jOb0bìN„vLeºN=fÒbÝuˆvOúWcwYe„vâlW„vVYeèÏe0vQ-NN*NèK„¿Ob•:N†NÊNåe„vËzv–›R0\nÖNìN°s(Wêðy=fT†Ú‹„v)YINYe’VÿFOvQLˆ„VåNÊSˆ”ùRbìN„vµOeutShˆfÖNìNÃVãSNN0bìNÅV‰˜çuíuùRËzv–›RºNÑS¨R1Wbÿ:YÖSÖNìN„vW0Wÿ"
+ EDG_TEU_mission_5_13_title: "m<y'YIƒŸS"
+ EDG_TEU_mission_5_13_desc: "uIm(WN'k'YIƒŸSN„vlÏev^^—ŸSËYVYeáO’VÿFOSV0W„vFz¯e—gtS=fúWcwYeNLu„vN'YZÁw0bìNÅV‰˜VrlšpšT'YIƒŸSÿT8ngrèÏeÑS¨RASWR›Qÿ"
+ EDG_TEU_mission_5_14_title: "µb¾Øš R0t"
+ EDG_TEU_mission_5_14_desc: "Øš R0tqS	=f'k2mNšN2m(WWS¹e„v)Y6qRLu¿u0–NwÙNqS	b:N†NbýVNeY¯eüf^ýV„v¹Lu¿uÿz¥SºNŠƒXGY­ˆ„vÎ˜i–¿OöeIRXR(W0bìNÅV‰˜VgØš R0tqS	S“žÿv^(WÙÌ‘QrwñmŸlØš’W0"
+ EDG_TEU_mission_5_15_title: "NŽVàeMR"
+ EDG_TEU_mission_5_15_desc: ""
+

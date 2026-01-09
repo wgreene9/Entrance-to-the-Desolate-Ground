@@ -1,0 +1,22 @@
+bookmark ={#神圣罗马帝国
+	name = "EDG_BOOKMARK_1_5"
+	desc = "EDG_BOOKMARK_1_5_DESC"
+	date = 1444.11.11
+	
+	
+	
+	country = WUR
+	country = SAX
+	country = HSA
+	country = H04
+	country = SWI
+	country = BRA
+	country = WOL
+	country = H07
+	
+	easy_country = WUR
+	easy_country = SAX
+	easy_country = HSA
+	easy_country = H04
+	easy_country = SWI
+}

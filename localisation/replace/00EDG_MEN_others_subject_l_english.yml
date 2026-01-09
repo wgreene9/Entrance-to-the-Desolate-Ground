@@ -1,0 +1,87 @@
+﻿l_english:
+EDG_MEN_pronoia_subject_type:0 "§OcƒwÎW¦§!"
+EDG_MEN_pronoia_subject_type_title:0 "§OcƒwÎW¦§!"
+EDG_MEN_pronoia_subject_type_title_plural:0 "§OcƒwÎW¦§!"
+EDG_MEN_pronoia_subject_type_long_desc:0 "cƒwÎW¦:NbìNÐc›O§TNNºNMb§!ÿhQ›R=ecbìN(WMR¿uNLeºN„v—b‰N0"
+EDG_MEN_pronoia_subject_type_is_our:0 "$NAME|Y$=fbìN„vN*N§OcƒwÎW¦§!"
+EDG_MEN_commander_subject_type:0 "§OcƒIQ†˜0W§!"
+EDG_MEN_commander_subject_type_title:0 "§OcƒIQ†˜0W§!"
+EDG_MEN_commander_subject_type_title_plural:0 "§OcƒIQ†˜0W§!"
+EDG_MEN_commander_subject_type_long_desc:0 "ãNÿfôT‰	t¯eµc6R^ýVTèÿTöemN=fnfW<SšN6R¦^1Y%T„v°eSÕ‹0"
+EDG_MEN_commander_subject_type_is_our:0 "$NAME|Y$=fbìN„vN*N§OcƒIQ†˜0W§!"
+EDG_MEN_M_pronoia_subject_type:0 "§O¶RÏe†˜0W§!"
+EDG_MEN_M_pronoia_subject_type_title:0 "§O¶RÏe†˜0W§!"
+EDG_MEN_M_pronoia_subject_type_title_plural:0 "§O¶RÏe†˜0W§!"
+EDG_MEN_M_pronoia_subject_type_long_desc:0 "ÇTwûYÿSN›N^ýVbXTÉbâbóbìNž^'Y„v¶Rû|-N0ŸSRNN ReQbìN„vb—eÿýwO:NbìNÐc›ON›N§TY²N§!¹eb—„v=ecÿFOO§RM–NO§!^ýVCgZ„v·ƒÖS0"
+EDG_MEN_M_pronoia_subject_type_is_our:0 "$NAME|Y$=fbìN„vN*N§O¶RÏe†˜0W§!"
+EDG_MEN_R_pronoia_subject_type:0 "§O^ýVê»lÞT§!"
+EDG_MEN_R_pronoia_subject_type_title:0 "§O^ýVê»lÞT§!"
+EDG_MEN_R_pronoia_subject_type_title_plural:0 "§O^ýVê»lÞT§!"
+EDG_MEN_R_pronoia_subject_type_long_desc:0 "Çê«Ž„vqVÍT›RÿSN›N^ýVbXTÉbâbóbìN„v5–%„-N0ŸSRNN ReQbìN„vb—eÿýwO:NbìNÐc›ON›N§TÏuNm§!¹eb—„v=ecÿFOO§RM–NO§!^ýVCgZ„v·ƒÖS0"
+EDG_MEN_R_pronoia_subject_type_is_our:0 "$NAME|Y$=fbìN„vN*N§O^ýVê»lÞT§!"
+
+EDG_MEN_free_friend_3_tt:0 "å‹‰|‹WD–¸^ýVNQ`S(u§YY²NsQû|§!"
+EDG_MEN_free_honor_tt:0 "å‹‰|‹WD–¸^ýVÐc›O§Og¦^Wlšcƒw§!"
+EDG_MEN_free_splendor_tt:0 "å‹‰|‹WD–¸^ýVÐc›O§Og¦^‰Lq¹p§!"
+EDG_MEN_free_friend_4_tt:0 "å‹‰|‹WD–¸^ýV:N	^PöeeˆEQ1Y»S„v§Y•bhy=ec¦^§!"
+
+EDG_MEN_ROYAL_MARRIAGE:0 "§Y(WŒp¾–ÓumgMRÿbìN„v¶RÏeONWlšqQ±`¾–ÿÒbÝuûNUOYè¿R›R„vr^„˜§!"
+
+EDG_AI_IS_OUR_SUBJECT_TT:0 "=fbìN„v^SýV"
+
+EDG_MEN_RUM_betheone_after:0 "nfNYeOòTTN"
+EDG_MEN_window_button:0 "µc6R	c®”"
+EDG_MEN_window_button.tt:0 "§O.O­dòS×‹§!"
+EDG_MEN_window_button.effect.tt:0 "¹pûQdk	c®”V=TbsQí•.O­dòS×‹„vLub—"
+EDG_MEN_dip_button_1.tt:0 "§OOôTÀNòS×‹§!"
+EDG_MEN_dip_button_2.tt:0 "§OnfNYeOTN§!"
+EDG_MEN_dip_button_3.tt:0 "§OWlšÍ‘u§!"
+EDG_MEN_dip_button_4.tt:0 "§OÍ‚yzKN×V§!"
+EDG_MEN_dip_button_5.tt:0 "§ONCSö–NY§!"
+EDG_MEN_dip_button_1:0 "OôTÀNòS×‹"
+EDG_MEN_dip_button_2:0 "nfNYeOTN"
+EDG_MEN_dip_button_3:0 "WlšÍ‘u"
+EDG_MEN_dip_button_4:0 "Í‚yzKN×V"
+EDG_MEN_dip_button_5:0 "NCSö–NY"
+EDG_MEN_already_spread_myth.tt:0 "bìNòTÏuT§Y[Root.GetName]§!.O­dÇå‹òS×‹†N"
+EDG_MEN_exta_cost_gold.tt:0 "§T.O­dòS×‹§!OObìNžX R§Y10Y²N¹ppe§!ÿ§T.O­dòS×‹§!úWNx9(u:N§Y50§!¤ÿÏk§T.O­dòS×‹§!N!kS±‚9˜Y§Y10§!¤ÿÏk.O­dAS!kGSµu·ƒ—V„vîOckÿ…Ç§Y40§!!kûN6qïSåN.O­dÿFO§TNO§!GSµuîOck0"
+EDG_MEN_extat_gold_cost_1:0 "SVMRòT§T.O­dòS×‹§!!kpeÿ§Y[EDG_MEN_spread_myth_count_1.GetValue]§!ÿ˜Y§R=eØN9(u§!:Nÿ§Y[EDG_MEN_spread_myth_extra_cost_1.GetValue]§!¤"
+EDG_MEN_extat_gold_cost_2:0 "SVMRòT§T.O­dòS×‹§!!kpeÿ§Y[EDG_MEN_spread_myth_count_2.GetValue]§!ÿ˜Y§R=eØN9(u§!:Nÿ§Y[EDG_MEN_spread_myth_extra_cost_2.GetValue]§!¤"
+EDG_MEN_extat_gold_cost_3:0 "SVMRòT§T.O­dòS×‹§!!kpeÿ§Y[EDG_MEN_spread_myth_count_3.GetValue]§!ÿ˜Y§R=eØN9(u§!:Nÿ§Y[EDG_MEN_spread_myth_extra_cost_3.GetValue]§!¤"
+EDG_MEN_extat_gold_cost_4:0 "SVMRòT§T.O­dòS×‹§!!kpeÿ§Y[EDG_MEN_spread_myth_count_4.GetValue]§!ÿ˜Y§R=eØN9(u§!:Nÿ§Y[EDG_MEN_spread_myth_extra_cost_4.GetValue]§!¤"
+EDG_MEN_extat_gold_cost:0 "SVMRòT§T.O­dòS×‹§!!kpeÿ§Y[EDG_MEN_spread_myth_count.GetValue]§!ÿ˜Y§R=eØN9(u§!:Nÿ§Y[EDG_MEN_spread_myth_extra_cost.GetValue]§!¤"
+EDG_MEN_POEM_a_var:0 "OôTÀNòS×‹.O­d!kpe"
+EDG_MEN_POEM_b_var:0 "nfNYeOTN.O­d!kpe"
+EDG_MEN_POEM_c_var:0 "WlšÍ‘u.O­d!kpe"
+EDG_MEN_POEM_d_var:0 "Í‚yzKN×V.O­d!kpe"
+EDG_MEN_POEM_e_var:0 "NCSö–NY.O­d!kpe"
+
+EDG_MEN_night_1_modifier:0 "NCSö–NYI"
+EDG_MEN_night_2_modifier:0 "NCSö–NYII"
+EDG_MEN_night_3_modifier:0 "NCSö–NYIII"
+EDG_MEN_night_4_modifier:0 "NCSö–NYIV"
+EDG_MEN_night_5_modifier:0 "NCSö–NYV"
+
+EDG_MEN_the_world_1_modifier:0 "Í‚yzKN×VI"
+EDG_MEN_the_world_2_modifier:0 "Í‚yzKN×VII"
+EDG_MEN_the_world_3_modifier:0 "Í‚yzKN×VIII"
+EDG_MEN_the_world_4_modifier:0 "Í‚yzKN×VIV"
+EDG_MEN_the_world_5_modifier:0 "Í‚yzKN×VV"
+
+EDG_MEN_the_roman_1_modifier:0 "WlšÍ‘uI"
+EDG_MEN_the_roman_2_modifier:0 "WlšÍ‘uII"
+EDG_MEN_the_roman_3_modifier:0 "WlšÍ‘uIII"
+EDG_MEN_the_roman_4_modifier:0 "WlšÍ‘uIV"
+EDG_MEN_the_roman_5_modifier:0 "WlšÍ‘uV"
+
+EDG_MEN_orthdox_1_modifier:0 "nfNYeOTNI"
+EDG_MEN_orthdox_2_modifier:0 "nfNYeOTNII"
+EDG_MEN_orthdox_3_modifier:0 "nfNYeOTNIII"
+EDG_MEN_orthdox_4_modifier:0 "nfNYeOTNIV"
+EDG_MEN_orthdox_5_modifier:0 "nfNYeOTNV"
+
+EDG_MEN_ibashi_legend_1_modifier:0 "OôTÀNòS×‹I"
+EDG_MEN_ibashi_legend_2_modifier:0 "OôTÀNòS×‹II"
+EDG_MEN_ibashi_legend_3_modifier:0 "OôTÀNòS×‹III"
+EDG_MEN_ibashi_legend_4_modifier:0 "OôTÀNòS×‹IV"
+EDG_MEN_ibashi_legend_5_modifier:0 "OôTÀNòS×‹V"

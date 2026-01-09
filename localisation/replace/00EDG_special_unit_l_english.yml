@@ -1,0 +1,184 @@
+﻿l_english:
+
+#yrŠkuQÍy
+ HUSSARS_NAME:0 "$HOME$,r $NUM$ Í‘Åˆ‘šuQ"
+ MODIFIER_HAS_HUSSARS:0 "AQ¸‹ÛbßRÍ‘Åˆ‘šuQ"
+ HUSSARS_CANT_HAVE:0 "`O„výV¶RàeÕlÛbßRÍ‘Åˆ‘šuQ0"
+ HUSSARS_DESC:1 "Í‘Åˆ‘šuQ=f:V'YwzS„vè–0ÖNìNÁkmp'`„v²Q•NÅNýwÙuLeºN„vëXl.bèT'YSbûQÿmNÅd•(W§Y²QûQ6–µk§!ÑS%cZ›R0\n\nÏk100^SŽNøv¹R‡eS„vwýNÑSUS¦^AQ¸‹ÛbßR1–§YÍ‘Åˆ‘šuQ§!0"
+ REGCAT_hussars:0 "Í‘Åˆ‘šuQ"
+ hussars_regiment:0 "Í‘Åˆ‘šuQ"
+ ADD_HUSSARS_SUB_UNIT_EFFECT:0 "(W$WHERE|Y$·ƒ—V0§GÍ‘Åˆ‘šuQ§!0$UNIT$0"
+ HUSSARS_REGIMENT:0 "Í‘Åˆ‘šuQâV\n$EFFECT$"
+ HAVE_LESS_HUSSARS_THAN:0 "åb	gSŽN$VALUE|Y$–Í‘Åˆ‘šuQâV0\n"
+ HAVE_AT_LEAST_HUSSARS_THAN:0 "åb	góS$VALUE|Y$–Í‘Åˆ‘šuQ0\n"
+ MODIFIER_AMOUNT_OF_HUSSARS:0 "ïSÛbßR„vÍ‘Åˆ‘šuQ"
+ MODIFIER_LOCAL_AMOUNT_OF_HUSSARS:0 "1uÑSUS¦^·ƒ—VïSÛbßR„vÍ‘Åˆ‘šuQ"
+ MODIFIER_CAN_RECRUIT_HUSSARS:0 "ïSåNÛbßR§YÍ‘Åˆ‘šuQ§!"
+ HUSSARS_REGIMENT_TYPE:0 "Í‘Åˆ‘šuQ"
+ STATE_HUSSARS_CREATED_REGIMENTS:0 "ÙS±‚9$MILAMOUNT|Y$ £mil£ åN(W$PROV|Y$ÛbßR$NUM|Y$–Í‘Åˆ‘šuQ0\n`Oó`‰Rú^N=eÍ‘Åˆ‘šuQâVTÿ"
+ ONLY_HUSSARS_MODIFIER:0 "§YêSqVÍTÍ‘Åˆ‘šuQ§!"
+ 
+# estate_nobles_sponsor_hussars:0 "^©Rü‘šuQ"
+#  estate_nobles_sponsor_hussars_desc:0 "ÆQ¸‹ýV…Q„vpgúQ5Ïe^©RbýV„v¾|•ü‘šuQâVÿåNbcÖS0W¹eN„v©‹ekNqVÍT›R0"
+# custom_can_recruit_hussars:0 "ü‘šuQ"
+#  custom_can_recruit_hussars_desc:0 "ü‘šuQ=f:V'YwzS„vè–0ÖNìNÁkmp'`„v²Q•NÅNýwÙuLeºN„vëXl.bèT'YSbûQÿmNÅd•(W§Y²QûQ6–µk§!ÑS%cZ›R0\n\nÏk100^SŽNøv¹R‡eS„vwýNÑSUS¦^AQ¸‹ÛbßR1–§Yü‘šuQ§!0"
+#  custom_amount_of_hussars:0 "D©Rü‘šuQ"
+#  custom_amount_of_hussars_desc:0 "ü‘šuQ=fbìN›Q–-NO-N	O„v¾|•0ÖNìN„vpšôcY!k(Wb—e‹vípS6–µkmbl†NbNS06qwÿjO:Nü‘šuQ-N„vNXTÜ^—‰wf>N0”^å‹©‹bìN„výVl†Nã‰0R«Ž:Nü‘šuQNb—Ïu×S„vNRÿ©‹ÖNìN:Nü‘šuQPc.súQêñT„vïyÄ„0"
+# rely_on_polish_hussars_title:0 "O`—âlpQ š‘šuQ"
+#  rely_on_polish_hussars_desc:0 "^²ˆ„vIƒŸSO—VbìNÄuú^‘šuQUSMOg:NTt.bìNòTÏu†Nã‰†NSYr)RÇ–cO›Q‰‘šuQ„vHeœgÿwweghQTw¦ýOÎNÄuú^‰|<ObVV„v›Q–-N×SÊv."
+#  polish_hussars:0 "âlpQ š‘šuQ"
+#  desc_polish_hussars:0 "bìN³QšRåN‰‘šuQjO:N›Q–„vIN›RUSMOÿÙO—VVìS‘šuQUSMOb,gôfNO."
+#  MODIFIER_HUSSARS_COST:0 " š‘šuQ›QâV±‚9"
+
+ SAMURAI_NAME:0 "$HOME$,r $NUM$ j–ãuQâV"
+ MODIFIER_ALLOWED_SAMURAI_FRACTION:0 "j–ãuQâVpeÏ‘NP–"
+ MODIFIER_LOCAL_HAS_SAMURAI:0 "ïSÛbßRj–ãâV„vwýN"
+ SAMURAI_FORCELIMIT:0 "bìNgYïSåNÛbßR$LIMIT|Y$§Gj–ãuQâV§!ÿŸSàV‚YNÿ\n$FLAMOUNT|Y$egêbìNF–›QNP–ÿ$FL$	ÿ„v$PERC|%Y$ÿ\n"
+ SAMURAI_LIMIT_CULTURE:0 "$PROVINCE$=f$CULTURE$‡eS„vwýNÿEewàeÕl(WdkVßRj–ãuQâV0"
+ ADD_SAMURAI_SUB_UNIT_EFFECT:0 "(W$WHERE|Y$·ƒ—V0§Gj–ã§!0$UNIT$0"
+ SAMURAI_DESC:0 "j–ã=f›Q‹N5ÏebXT0ÖNìN¥c×SfkhVO(uùW­‹ÿv^«ˆgg	cgqj–ã„vLˆ:NÆQRuImÿ:VŒàVÚ‹0ÇRlŒTcƒ‰Š0j–ã:N†˜INg¡Rÿ«ˆgg:NvQ†˜INIY.su‹T0\nj–ãïSåN(Wåb	g„v§YyršR§!‡eSÄuwýN-NÛbßRÿïSÛbßR„vj–ãpeÏ‘ÖS³QŽNÙ›NwýN„vÑSUS¦^0"
+ REGCAT_samurai:0 "j–ã"
+ SAMURAI_REGIMENT:0 "j–ãuQâV\n$EFFECT$"
+ HAVE_LESS_SAMURAI_THAN:0 "j–ãuQâVpeÏ‘NOŽN§Y$VALUE$§!0\n"
+ samurai_modifier:0 "òTÛbßR„vj–ã"
+ HAVE_AT_LEAST_SAMURAI_THAN:0 "åb	góS§Y$VALUE$§!–j–ã0\n"
+ MODIFIER_AMOUNT_OF_SAMURAI:0 "j–ãuQâVpeÏ‘NP–"
+MODIFIER_CAN_RECRUIT_SAMURAI:0 "AQ¸‹ÛbßR§Yj–ã›QâV§!"
+ mechanic_allow_samurai_yes:0 "AQ¸‹ÛbßR§Yj–ã›QâV§!"
+ mechanic_allow_samurai_no:0 ""
+ONLY_SAMURAI_MODIFIER:0 "§YêSqVÍTj–ã›QâV§!"
+
+ CAROLEAN_NAME:0 "$HOME$,r $NUM$ °e›Q"
+ MODIFIER_HAS_CAROLEAN:0 "ïSÛbßR°e›QekuQ"
+ MODIFIER_LOCAL_HAS_CAROLEAN:0 "ïSÛbßR°e›QekuQ„vwýN"
+ CAROLEAN_CANT_HAVE:0 "`O„výV¶RàeÕlÛbßRaSSekuQ0"
+ CAROLEAN_FORCELIMIT:0 "bìNgYêSýwÎN$DEV$„vøvsQ‡eSwýNÑSUS¦^-NÛbßR$VAL|%Y$„v§G°e›Q§!ÿÙ=fàV:Nÿ"
+ CAROLEAN_LIMIT_CULTURE:0 "$PROVINCE$=f$CULTURE$‡eS„vwýNÿEewàeÕl(WdkVßRaSSekuQ0"
+ CAROLEAN_DESC:2 "°e›Q=f×SÇ%N<h­‹ÃuÿàVvQäNLeû•Î˜'NÆww^:NºNåw0\n°e›QêSýw(Wåb	g„v§YyršR§!‡eS„vwýNÛbßRÿÛbßRNP–³QšRŽNÙ›NwýN„vÑSUS¦^0"
+ REGCAT_carolean:0 "°e›Q"
+ ADD_CAROLEAN_SUB_UNIT_EFFECT:0 "(W$WHERE|Y$·ƒ—V0§G°e›QekuQ§!0$UNIT$"
+ CAROLEAN_REGIMENT:0 "°e›QâV\n$EFFECT$"
+ HAVE_LESS_CAROLEAN_THAN:0 "åb	g„v°e›QâVSŽN$VALUE|Y$0\n"
+ HAVE_AT_LEAST_CAROLEAN_THAN:0 "åb	góS$VALUE|Y$–°e›Q0\n"
+ MODIFIER_AMOUNT_OF_CAROLEAN:0 "ïSÛbßR„v°e›QekuQ"
+ MODIFIER_LOCAL_AMOUNT_OF_CAROLEAN:0 "ïSÛbßR„v°e›QekuQ"
+ ONLY_CAROLEAN_MODIFIER:0 "§YêSqVÍT°e›QâV§!"
+ MODIFIER_MORALE_DAMAGE_RECIEVED:0 "Nb×SëXlSbûQ"
+ CAROLEAN_REGIMENT_TYPE:0 "°e›Q"
+ mechanic_allow_carolean_yes:1 "ïSåNÛbßR§Y°e›Q§!"
+
+ CAWA_NAME:0 "$HOME$,r $NUM$ ÑkS›Q"
+ MODIFIER_AMOUNT_OF_CAWA:0 "ïSÛbßR„vÑkS›Q"
+ MODIFIER_LOCAL_AMOUNT_OF_CAWA:0 "ïSÛbßR„vÑkS›Q"
+ MODIFIER_CAN_RECRUIT_CAWA:0 "AQ¸‹ÛbßR§YÑkS›Q§!"
+ mechanic_allow_cawa_yes:1 "AQ¸‹ÛbßR§YÑkS›Q§!"
+ mechanic_allow_cawa_no:0 ""
+ CAWA_CANT_HAVE:0 "`O„výV¶RàeÕlÛbßRÑkS›Q0"
+ CAWA_DESC:0 "ÑkS›Q=fàVŽN-N.Y?eœ^„v›QâVÿ8^ÅbûN«R÷^˜RXTåNÊSOPÜwýN„vˆRkSwŒTôuŒTw0ÖNìNïSåNÎNîvMRåb	g„vÞTb^SýVåb	g„vÞTÛbßR0"
+ REGCAT_cawa:0 "ÑkS›Q"
+ CAWA_REGIMENT:0 "ÑkS›Q\n$EFFECT$"
+ HAVE_LESS_CAWA_THAN:0 "åb	gÑkS›Q„vpeÏ‘SŽN$VALUE|Y$0\n"
+ HAVE_AT_LEAST_CAWA_THAN:0 "åb	góS$VALUE|Y$–ÑkS›Q0\n"
+ CAWA_REGIMENT_TYPE:0 "ÑkS›Q"
+ ONLY_CAWA_MODIFIER:0 "§YêSqVÍTÑkS›Q§!"
+ CREATECAWA:0 "VìSÑkS›Q"
+ STATE_CAWA_CREATED_REGIMENTS:0 "±‚9$MILAMOUNT|Y$£mil£Tÿ$NUM|Y$=eÑkS›QSµNu(W$PROV|Y$0\n`Oó`‰Rú^N=eÑkS›QTÿ"
+ CAWA_FROM_TT:0 "§YÑkS›QpeÏ‘NP–§!\nÙ=fbýVîvMRïSåb	g„vÑkS›Q„vpeÏ‘0\n\n(Wôv^SÞT-Nåb	gŒRte8hÃV„vwýNïSÛbßRÑkS›Q0\n\n$NAME$Ðc›O†N$AMOUNT|Y$„vÑkS›QpeÏ‘NP–ÿàVvQÑSUS¦^:Nÿ\n"
+
+
+
+
+
+
+
+
+
+#6w<SRÌ‘
+# STATE_JANISSARIES_MIL_POWER:0 "±‚9$AMOUNT|Y$ £mil£"
+#  CREATEJANISSARIES_TEXT:0 "$EFFECT$"
+#  STATE_JANISSARIES_CREATED_REGIMENTS:0 "$NUM|Y$–6w<SRÌ‘›QâVSOúQ°s(W$PROV|Y$"
+#  STATE_JANISSARIES_HEATHEN_PROVINCES:1 "ôv^SÞT…Q—‰	góS $AMOUNT|Y$ ÑSUS¦^N×S`Oµc6R„vVYewýN0"
+#  STATE_JANISSARIES_BATTLE_OR_SIEGE:0 "`ONýw(Wck(WÑSub—ebwôVÎW„vwýNVìS6w<SRÌ‘›QâV0"
+# CREATE_JANISSARIES_BUTTON:1 "VßR6w<SRÌ‘"
+#  CREATEJANISSARIES:1 "VßR6w<SRÌ‘"
+#  JANISSARIES_REGIMENT:0 "6w<SRÌ‘›QâV\n$EFFECT$"
+#  GAIN_PIETY:0 "žX R $VALUE|Y$ YeagININ0"
+#  LOSE_PIETY:0 "žX R $VALUE|Y$ ^yØyININ0"
+#  RELIGION_VIEW_BANNER_INSTANT:0 "$NAME|Y$\n$DESC$"
+#  RELIGION_VIEW_BANNER_DELAYED:0 "NvQÖNfR>msQû|‚YNÿ\n$RELATION$"
+#  RELIGIOUS_SCHOOL_ITEM_ICON_INSTANT:0 "$NAME|Y$\n$DESC$"
+#  RELIGIOUS_SCHOOL_ITEM_ICON_DELAYED:0 "NvQÖNfR>msQû|‚YNÿ\n$RELATION$"
+#  NATIONS_WITH_TRADING_POLICY_IN_NODE:1 "\nåNNýV¶R(W$NAME$žRËe†Nå‹?eVrÿ\n $LIST$"
+#  CONFORM_TO_TEMPLATE_ALREADY_MATCHES:0 "§RNb	USMOòTŒTå‹!jg9SM‘§!"
+#  ONLY_JANISSARY_MODIFIER:0 "§YêSqVÍT6w<SRÌ‘›QâV§!"
+# STATE_JANISSARIES_GOVERNMENT_ALLOWS:0 "êS	gåb	geY¯eüf^ýV?eœ^„výV¶RïSåNVßR6w<SRÌ‘›QâV0"
+#  STATE_JANISSARIES_COOLDOWN:0 "ïSåNVßRôfY6w<SRÌ‘›QâVŽN$DATE|Y$0"
+#  STATE_JANISSARIES_NEED_MIL_POWER:0 "VßR6w<SRÌ‘›QâV—‰$AMOUNT|Y$ £mil£"
+#  STATE_JANISSARIES_DESC:2 "åb	g§YeY¯eüf^ýV?eœ^§!bìNïSåN(WVYewýNVßR6w<SRÌ‘›QâV0VYewýN„vÑSUS¦^ŠØšÿbìN1SïSåNVßRŠY„v6w<SRÌ‘›QâV0"
+# STATE_JANISSARIES_NO_REGIMENTS:0 "$STATE|Y$„vVYe’V*YSÿàeÕlÐc›OûNUO6w<SRÌ‘0"
+#  STATE_RECRUIT_NO_SUITABLE_PROVINCE:0 "$STATE|Y$¡l	gTÛbßR›Q–„vwýN0êS	g*g«ˆ`S†˜0ôVIebckYŽNb—e„v8hÃVwýN&rTÛbßR„vagöN0"
+#  STATE_JANISSARIES_TITLE:0 "§YVßR6w<SRÌ‘›QâV§!"
+# JANISSARY_FORCELIMIT:1 "bìNgYêSýwÛbßRF–›QNP–ÿ$FL$	ÿ„v$VAL|%Y$„v§G6w<SRÌ‘›QâV§!ÿàV:NbìNêSýwÎNVYewýNVßRÖNìN0\n"
+# JANISSARY_LIMIT_RELIGION:0 "$PROVINCE$=f*N$RELIGION$wýNÿEewNýw(WdkÄuú^6w<SRÌ‘›QâV0"
+# JANISSARY_NAME:0 "$HOME$,r $NUM$ 6w<SRÌ‘›QâV"
+
+#  janissary_regiment:0 "6w<SRÌ‘"
+#  REGCAT_janissaries:0 "6w<SRÌ‘"
+#  combat_janissary_decadence:0 "Obk6w<SRÌ‘›QâVPS"
+#  grant_consessions_to_the_janissaries:0 "ˆcˆN6w<SRÌ‘yr¸‹Cg"janissaries_denied_reward:0 "ÒbÝuOP6w<SRÌ‘"
+#  desc_janissaries_denied_reward:0 "6w<SRÌ‘¡l	g—V0R”^—V„vVYOÿÙO—VÖNìNøvSVNán0"
+#  janissaries_forbidden_to_marry:0 "6w<SRÌ‘ybkÓuZZ"
+#  desc_janissaries_forbidden_to_marry:0 "6w<SRÌ‘«ˆybkÓuZZÿÙO—VÖNìNøvSVNán0"
+#  increased_janissary_recruitment:0 "6w<SRÌ‘°euQpeÏ‘žX R"janissary_landholders:0 "åb	gW0W„v6w<SRÌ‘"
+#  desc_janissary_landholders:0 "6w<SRÌ‘«ˆAQ¸‹åb	gW0W0b:N0WIN0"
+#  janissaries_upset:0 "6w<SRÌ‘Nán"
+#  desc_janissaries_upset:0 "6w<SRÌ‘«ˆybkåb	gW0WÿÙO—VÖNìNøvSVNán0"
+#  tur_janissary:0 "6w<SRÌ‘"
+#  desc_tur_janissary:0 "eY¯eüf6w<SRÌ‘=f^ýV„v¾|•8^Yè–0ÖNìNÅˆY¾|o‚N›Qªu%Nf0"
+#  janissary_decadence:1 "6w<SRÌ‘?eØS"
+#  desc_janissary_decadence:1 "ùRÖNìN:SùR?eœ^„vôv¥cqVÍThˆ:yNánÿ6w<SRÌ‘›QâVòTÏuwuQùR—bÖNìN„vTINv^µc6R†NýV¶R0"
+#  janissary_coup_pay:0 "ÐcØš6w<SRÌ‘›QâVª…4l"
+#  desc_janissary_coup_pay:0 "O(uÖNìN(W?eœ^…Q„vCg¿Rÿ6w<SRÌ‘²‹:N”^ÐcØšÖNìN„vª…4l0"
+#  strictly_enforced_janissary_discipline:0 "%N<hgbLˆ›Qªu"
+#  desc_strictly_enforced_janissary_discipline:0 "bìNòTÏuKSbìNNbýwgbLˆNb	g%NÛ‚„vag‹Oÿeg©‹6w<SRÌ‘RVŽNbìNŒcµc0"
+#  non_christian_janissaries:0 "ÛbßRôfYFz¯e—g6w<SRÌ‘"
+#  desc_non_christian_janissaries:0 "ŠegŠY„v6w<SRÌ‘ëXuQegêŽN^ýV…Q„vFz¯e—g¶R­^ÿwN=fÇ.Oßu„v·V+Y^S…hû|ßuVßR0"
+# janissaries_disciplined:0 ":Vë6w<SRÌ‘uˆR›Qªu"
+#  desc_janissaries_disciplined:0 "bìNòTÏuùR6w<SRÌ‘:V6RžRLˆ%N‰S„vªu‹V0Töe=eØN†NÖNìNOnc°sÊNÀw¡‹—r„vª…4l0"
+#  twenty_percent_janissaries:0 "[Root.GetAdjective]	g§Y20%§!båNN„v›Q–=f6w<SRÌ‘›QâV0"
+# tur_janissaries_salary:0 "*jZ„vy›Q"
+#  desc_tur_janissaries_salary:0 "*jZ„vy›Q‰BlýV¶R:NÖNìNgÑ„virD:ONZPúQeˆP0"
+# desc_increased_janissary_recruitment:1 "d–×S·V+Y^S…h6R¦^VìS„vºNXTKNYÿvQÖNºNmNïS«ˆVßR ReQykS›Q0"
+
+#  MODIFIER_JANISSARY_COST:0 "6w<SRÌ‘›QâV±‚9"
+#  HAVE_LESS_JANISSARIES_THAN:0 "åb	g„v6w<SRÌ‘›QâVSŽN$VALUE|Y$0\n"
+#  HAVE_AT_LEAST_JANISSARIES_THAN:0 "åb	góS$VALUE|Y$–6w<SRÌ‘0\n"
+#  JANISSARIES_REGIMENT_TYPE:0 "6w<SRÌ‘"
+
+ BANNER_NAME:0 "$HOME$,r $NUM$ ïSWl²NkS"
+ MODIFIER_AMOUNT_OF_BANNERS:0 "ïSÛbßR„vïSWl²NkS"
+ MODIFIER_LOCAL_AMOUNT_OF_BANNERS:0 "ïSÛbßR„vïSWl²NkS"
+ MODIFIER_HAS_BANNERS:1 "AQ¸‹ÛbßRïSWl²NkS"
+ mechanic_allow_banners_yes:1 "AQ¸‹ÛbßR§YïSWl²NkS§!"
+ mechanic_allow_banners_no:0 ""
+ BANNERS_DESC:0 "ïSWl²NkS=fôv¥càVŽNïSWl„v¾|•ykS›QâV0ïSWl²NkS­‹Ãu¦^ØšŽNnfè–ÿFOÛbßRïSWl²NkSOžX RP%¦^0"
+ BANNER_REGIMENT:3 "ïSWl²NkS\n$EFFECT$"
+ HAVE_LESS_BANNERS_THAN:1 "åb	gïSWl²NkS„vpeÏ‘SŽN$VALUE|Y$0\n"
+ HAVE_AT_LEAST_BANNERS_THAN:1 "åb	góS$VALUE|Y$–ïSWl²NkS0\n"
+ BANNER_REGIMENT_TYPE:0 "ïSWl²NkS"
+ ONLY_BANNER_MODIFIER:0 "§YêSqVÍTïSWl²NkS§!"
+ BANNER_NOWHERE_TO_GO:0 "(W$NAME$ÿ`O¡l	gµc6R³Y„vwýNegÛLˆÛbßRïSWl²NkS0"
+ BANNER_NONE_AVAIL:3 "(W$NAME$0W:S¡l	g³Y„vc$CULTURE$‡eS„v8hÃVwýNegÛbßRïSWl²NkS0"
+ BANNER_ALL_RAISED:1 "$NAME$NýwYÛbßRôfY„vïSWl²NkSÿSVMRòTÏuÛbßR$CURR|Y$0\n"
+ BANNER_TOO_HIGH_CORRUPTION:0 "ÛbßRïSWl²NkSSOžX R$VAL|R$P%¦^ÿbìN„vP%¦^Nýw…Ç100ÿ"
+ RAISE_MANCHU_BANNERS:0 "VßRïSWl²NkS"
+#  BANNER_TXT:0 "$CURR|Y$ of $ALLOW|Y$"
+ BANNERS_FROM_TT:3 "§YïSWl²NkSpeÏ‘NP–§!\nÙ=fbýVîvMRïSåb	g„vïSWl²NkS„vpeÏ‘0\nïSWl²NkSåNžX RP%¦^:NãN÷NÛLˆÛbßRÿv^åb	gÔknf›Q–ôfØš„v­‹Ãu¦^0\n\n(Wôv^SÞT-Nåb	gŒRte8hÃVN=fINAm‡eS„vwýNïSÛbßRïSWl²NkS0\n\n$NAME$Ðc›O†N$AMOUNT|Y$„vïSWl²NkSpeÏ‘NP–ÿ1uŽNÑSUS¦^:Nÿ\n"
+ STATE_CORRUPTION_INC:2 "ÛbßR$RAISED|Y$–ïSWl²NkSSOžX R$INC$¹pP%¦^0\n"
+ AVAILABLE_BANNERS_LIMIT:0 "1uŽNbìNòTÎN$MAX|Y$–ïSWl²NkS-NÛbßR†N$CURRENT|Y$ÿNbåNå‹peÏ‘ÏQS:N$VAL|Y$0"
+ mechanic_can_recruit_banners_from_primary_culture_provinces:0 "ïSåN(W§YINAm‡eS§!wýNVßR§YïSWl²NkS§!"
+ mechanic_can_recruit_banners_from_primary_culture_provinces_yes:0 "ïSåN(W§YINAm‡eS§!wýNVßR§YïSWl²NkS§!"
+ mechanic_can_recruit_banners_from_primary_culture_provinces_no:0 "NïSåN(W§YINAm‡eS§!wýNVßR§YïSWl²NkS§!"
+ REGCAT_banner:0 "ïSWl²NkS"
+
+ MODIFIER_HAS_TERCIO:0 "å‹ýVïSÛbßR'Y¹e5–"

@@ -1,0 +1,88 @@
+Rom = {
+	graphical_culture = indiangfx
+	EDG_rom_culture = {
+		primary = DMR
+		country = {
+			free_policy = 1
+			possible_policy = 1
+		}
+		province = {
+			local_unrest = -1
+			local_development_cost = -0.1
+			local_governing_cost = -0.1
+		}
+		male_names = {
+			"šNú‹W"
+			"?–Sòƒ"
+			"|V—V"
+			"šN†SqS'Y"
+			"ôuKQXb"
+			"OáQ"
+			"?–RKQ0Œ"
+			"TN»l"
+			"‰R·VÈp"
+			"s|^"
+			"<SäSÉb"
+		}
+		female_names = {
+			"?– RŽƒ"
+			"öSaSwc3tZ"
+			"ïQmt3t"
+			"OKNŽƒ‹v"
+			"‰RZ"
+			"›sKNšN"
+			"wm&O"
+		}
+		dynasty_names = {
+			"XbS¯eðl"
+			"þVW+Y"
+			"ógÜb"
+			"Õl&qS"
+			"Éb+YW+Y"
+			"³u÷–ÀNÑ‘"
+			"Wüfú‹+Y"
+		}
+	}
+	EDG_rom_rus_culture = {
+		country = {
+			free_policy = 1
+			possible_policy = 1
+		}
+		province = {
+			local_unrest = -2
+			local_development_cost = -0.1
+			local_governing_cost = -0.1
+		}
+		male_names = {
+			"šNú‹W"
+			"?–Sòƒ"
+			"|V—V"
+			"šN†SqS'Y"
+			"ôuKQXb"
+			"OáQ"
+			"?–RKQ0Œ"
+			"TN»l"
+			"‰R·VÈp"
+			"s|^"
+			"<SäSÉb"
+		}
+		female_names = {
+			"?– RŽƒ"
+			"öSaSwc3tZ"
+			"ïQmt3t"
+			"OKNŽƒ‹v"
+			"‰RZ"
+			"›sKNšN"
+			"wm&O"
+		}
+		dynasty_names = {
+			"XbS¯eðl"
+			"þVW+Y"
+			"ógÜb"
+			"Õl&qS"
+			"Éb+YW+Y"
+			"³u÷–ÀNÑ‘"
+			"Wüfú‹+Y"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+﻿l_english:
+#missions
+EDG_TIM_yua_cornerstone_empire_title:0 "-Ngñgów"
+EDG_TIM_yua_cornerstone_empire_desc:0 ""
+EDG_TIM_yua_censorate_title:0 "¡VòSðS"
+EDG_TIM_yua_censorate_desc:0 ""
+EDG_TIM_yua_control_eunuchs_title:0 "µc6R¦R˜R"
+EDG_TIM_yua_control_eunuchs_desc:0 ""
+EDG_TIM_yua_reform_civil_registration_title:0 "7bPŸl"
+EDG_TIM_yua_reform_civil_registration_desc:0 ""
+EDG_TIM_yua_examination_system_title:0 "Ñy>N6R¦^"
+EDG_TIM_yua_examination_system_desc:0 ""
+EDG_TIM_yua_civil_and_military_affairs_title:0 "°eD–›Q"
+EDG_TIM_yua_civil_and_military_affairs_desc:0 ""
+EDG_TIM_yua_printing_press_title:0 "ŽrSImWRpS7R"
+EDG_TIM_yua_printing_press_desc:0 ""
+EDG_TIM_yua_shengshi_zhishi_title:0 "ÛvNN»lN"
+EDG_TIM_yua_shengshi_zhishi_desc:0 ""
+EDG_TIM_yua_tame_china_sorrow_title:0 "ošg4l±`"
+EDG_TIM_yua_tame_china_sorrow_desc:0 ""
+EDG_TIM_yua_jing_hang_grand_canal_title:0 "¬Nmg'YÐ³l"
+EDG_TIM_yua_jing_hang_grand_canal_desc:0 ""
+EDG_TIM_yua_reestablish_zongshu_sheng_title:0 "ÄuÇumQè"
+EDG_TIM_yua_reestablish_zongshu_sheng_desc:0 ""
+EDG_TIM_yua_outer_city_beijing_title:0 "'YýYÎW"
+EDG_TIM_yua_outer_city_beijing_desc:0 ""
+EDG_TIM_yua_fortify_coast_title:0 "éTúVwm2–"
+EDG_TIM_yua_fortify_coast_desc:0 ""
+EDG_TIM_mission_YUA_myanmar_title:0 "Í‘Ô8u"
+EDG_TIM_mission_YUA_myanmar_desc:0 ""
+EDG_TIM_mission_YUA_zhongnan_title:0 "Žs^-NWSJS›S"
+EDG_TIM_mission_YUA_zhongnan_desc:0 ""
+EDG_TIM_mission_YUA_japan_title:0 "Qàe^yÎ˜"
+EDG_TIM_mission_YUA_japan_desc:0 ""
+EDG_TIM_mission_YUA_nanyang_title:0 "6R8—WSm"
+EDG_TIM_mission_YUA_nanyang_desc:0 ""
+
+#modifiers
+EDG_TIM_nightmare_of_japan_modifier:0 ")Y‡v¦hG›„vM–Þ‹"
+EDG_TIM_conquer_myanmar_modifier:0 "Í‘Ô8u"
+EDG_TIM_conquer_zhongnan_modifier:0 "VbWSm"
+EDG_TIM_nanyang_trade_modifier:0 "WSm8f"

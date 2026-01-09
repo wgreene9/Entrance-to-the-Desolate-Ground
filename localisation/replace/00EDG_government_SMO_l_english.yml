@@ -1,0 +1,96 @@
+﻿l_english:
+EDG_cb_EDG_WG_Liberation_SMO_allow_tooltip:0 "ùRNb	gN¯eÉb+Y‡eSÄu„výV¶R·ƒ—V§Yã‰>e§!±Rbt1u"
+EDG_cb_EDG_WG_Liberation_SMO_allow_neighbor_tooltip:0 "ùRNb	g¥cäX„výV¶R·ƒ—V§Yã‰>e§!±Rbt1u"
+EDG_cb_EDG_WG_Liberation_SMO_allow_all_tooltip:0 "ùRNb	gýV¶R·ƒ—V§Yã‰>e§!±Rbt1u"
+EDG_cb_EDG_WG_Liberation_SMO_allow_flag:0 "ùRNb	gN¯eÉb+Y‡eSÄu„výV¶R·ƒ—V§Yã‰>e§!±Rbt1u"
+EDG_cb_EDG_WG_Liberation_SMO_allow_neighbor_flag:0 "ùRNb	g¥cäX„výV¶R·ƒ—V§Yã‰>e§!±Rbt1u"
+EDG_cb_EDG_WG_Liberation_SMO_allow_all_flag:0 "ùRNb	gýV¶R·ƒ—V§Yã‰>e§!±Rbt1u"
+EDG_SMO_revolution_rank:0 "§Y?eCgi—‹T>PT§!"
+
+EDG_flavorSMO_2_a_tt:0 "bìNS	ébi—‹Tï¿uÿã‰•¯eidñh¯eKQ„v§YyrŠk…Q¹R§!0"
+EDG_flavorSMO_2_b_tt:0 "bìNS	ébÍS¨Rï¿uÿàeÕlSOŒš¯eidñh¯eKQ„v§YyrŠk…Q¹R§!0"
+EDG_SMO_mission_2_17_tooltip:0 "NXR(WvQƒRÑSUS¦^ØšŽN§Y300§!„vìrËzýV¶R"
+
+EST_EDG_SMO_Official_loyalty_desc:0 "˜RÚPàVÚ‹¦^cpe: "
+EST_EDG_SMO_Official_influence_desc:0 "˜RÚPqVÍT›Rcpe: §Y+5%§!"
+EST_EDG_SMO_peasant_loyalty_desc:0 "œQlàVÚ‹¦^cpe: "
+EST_EDG_SMO_peasant_influence_desc:0 "œQlqVÍT›Rcpe: §Y+5%§!"
+
+EST_EDG_SMO_Official_loyalty_desc_OP:0 "˜RÚPàVÚ‹¦^cpe: "
+EST_EDG_SMO_Official_influence_desc_OP:0 "˜RÚPqVÍT›Rcpe: §Y-5%§!"
+EST_EDG_SMO_peasant_loyalty_desc_OP:0 "œQlàVÚ‹¦^cpe: "
+EST_EDG_SMO_peasant_influence_desc_OP:0 "œQlqVÍT›Rcpe: §Y-5%§!"
+
+EDG_SMO_Official_loyalty:0 "˜RÚPàVÚ‹¦^cpe"
+EDG_SMO_Official_influence:0 "˜RÚPqVÍT›Rcpe"
+EDG_SMO_peasant_loyalty:0 "œQlàVÚ‹¦^cpe"
+EDG_SMO_peasant_influence:0 "œQlqVÍT›Rcpe"
+
+ EDG_Peasant_regime_government:0 "i—‹T‹W?eCg"
+ EDG_Peasant_regime_government_name:0 "i—‹T‹W?eCg"
+ EDG_Peasant_regime_government_desc:0 "i—‹T‹W?eCgv^^—1uDµN6–µuú^Ëz„vi—‹TýV¶Rÿw/f1uœQlbvQÖN•^BS²Oú^Ëz„v?eCgÿwQ	gNšR„vi—‹T'`ÿFOmN×SP–ŽNöeãNNSP–'`0"
+ EDG_Peasant_regime_reform_1:0 "Cg›RÓu„g"
+ EDG_Peasant_regime_reform_Political_system:0 "?e»lSO6R"
+ EDG_Peasant_regime_reform_economic_system:0 "ÏuNm:g„g"
+ EDG_Peasant_regime_reform_Military_organizations:0 "›Q‹NÄuÇu"
+ EDG_Peasant_regime_reform_Religious_principles:0 "—RYeŸSR"
+ EDG_Peasant_regime_reform_National_virtue:0 "ýV¶RŽ·V"
+ EDG_Peasant_regime_reform_public_rights:0 "lQqQCg›R"
+ 
+EDG_Peasant_regime_Political_system_1:0 "›Q?eÔYXTO"
+EDG_Peasant_regime_Political_system_2:0 "ãNhˆ'YO"
+EDG_Peasant_regime_Political_system_3:0 "OSFUÔYXTO"
+    EDG_Peasant_regime_economic_system_1:0 "ê»lQg>y"
+    EDG_Peasant_regime_economic_system_2:0 "Æ–SOœQ„^"
+    EDG_Peasant_regime_economic_system_3:0 "0?eè"
+    EDG_Peasant_regime_economic_system_4:0 "0?eI`r"
+    EDG_Peasant_regime_economic_system_5:0 "ÏuNmÔYXTO"
+EDG_Peasant_regime_Military_organizations_1:0 "VìS›Q–"
+EDG_Peasant_regime_Military_organizations_2:0 "ýVl›Q"
+EDG_Peasant_regime_Military_organizations_3:0 "LwN›Q–"
+EDG_Peasant_regime_Military_organizations_4:0 "lšKQ‰ÆY9ei—"
+    EDG_Peasant_regime_Religious_principles_1:0 ".Oßu—RYeŸSR"
+    EDG_Peasant_regime_Religious_principles_2:0 "9N<SSININ"
+    EDG_Peasant_regime_Religious_principles_3:0 "ã‰>ewŸSR"
+EDG_Peasant_regime_National_virtue_1:0 ".OßuN6RININ"
+EDG_Peasant_regime_National_virtue_2:0 "Æ–SOININ"
+EDG_Peasant_regime_National_virtue_3:0 "s^IrININ"
+    EDG_Peasant_regime_public_rights_1:0 ".OßuN6RCg›R"
+    EDG_Peasant_regime_public_rights_2:0 "Cg›R6R¦u"
+    EDG_Peasant_regime_public_rights_3:0 "Cg›R6Raˆ"
+    EDG_Peasant_regime_public_rights_4:0 "ØšHelQCg›R"
+
+    
+    
+EDG_Peasant_regime_Political_system_1_desc:0 "›Q?eÔYXTOú^ËzŽNqQŒTýV„vqS¡NKNE–ÿ:N†Ng'YP–¦^0WÄuÇuwýV…Q„vNb	g›RÏ‘ÿ›Q?eÔYXTO«ˆKˆN†Ng'Y„vCg›R0"
+EDG_Peasant_regime_Political_system_2_desc:0 "ãNhˆ'YO„vhQðy:NqQŒTýVœQlNKbåTNwãNhˆ'YOÿ'YOgR(Wtº‹NêS	gœQlŒTKbåTNwïSåNåb	g®‹-^ÿTegAQ¸‹vQÖN>yO6–BSb:NãNhˆ0ãNhˆ'YO/fhQýVgØš:gsQÿåb	gÕl‹VÄ‰šR„vNRCg›R0"
+EDG_Peasant_regime_Political_system_3_desc:0 "OSFUÔYXTO&T²‹†NœQl0KbåTNw0FUºN0YeëXŒT˜RÚPKNô•„vîT+Rÿ²‹:N>yO…Q„vNb	gºNý”^å‹ýw ReQ0R?e»lCg›R„v-NÃVKN-Nÿv^²‹:NNRî•˜˜ýïSåNÇOSFUŒT•bhyw^—´f›R—e‰NŒTN?eÛLˆã‰³Q0"
+    EDG_Peasant_regime_economic_system_1_desc:0 "W¯e0W:S„vQg>y•gÝOcê»l.OßuÿT*NQg>y…Q„vêwœQêÙuê³Nøv’NìrËz0"
+    EDG_Peasant_regime_economic_system_2_desc:0 "Æ–SOœQ„^…Q„vœQ7bqQT³R¨Rÿ6eeQ(WjO†NTy˜ÅV‰cbd–T	cÂS R³R¨R„vpeÏ‘RM‘ÿÄuTœQ7bïSåNÝOYuSœQwQŒTNšRpeÏ‘„v¶Rju¶RËy0Ïu%„Ä‰šR„v…RÁe0u0WŒT¶R­^oRNjO:N…©R6eeQ0"
+    EDG_Peasant_regime_economic_system_3_desc:0 "0?eèÅd•ib'YýV¶RznåNÊSÄuÇu?eœ^èè•ÛLˆÏuNm¡rt0"
+    EDG_Peasant_regime_economic_system_4_desc:0 "0?eI`rô›RŽN¨c^HQÛ„vuµNŽb/gŒTÄ‰RÏuNmÿŒR„UýV…Q„vúWNx¾‹Ëeú^¾‹v^ÑSUSuµN0"
+    EDG_Peasant_regime_economic_system_5_desc:0 "ÏuNmÔYXTO1uÌR	gR.'`„vÑ‘‡ºNMbŒTFUºNINüRÿÖNìNýwYibUSýV…QY„v8fŒTvQƒRÑ‘‡Im¨R0"
+EDG_Peasant_regime_Military_organizations_1_desc:0 "bìNIN‰åNegýV¶R´f›R:ghVegVìS›Q–ÿwQ	gNšR„vSú^r‚iV0"
+EDG_Peasant_regime_Military_organizations_2_desc:0 "bìN„v›Q–1u1rýV„v0ÌR	gÇRl„výVlÄubÿ›Q-N&T²‹Irµu6R¦^ÿ›Q˜RNnfëXuQNs^IrÿNb	g›QºNýýwYs^Ir0Tt0WÎN›Q‹NLˆ¨R-N·ƒ—Vb)RÁT0"
+EDG_Peasant_regime_Military_organizations_3_desc:0 "1us^lÄuú^„v›Q–N<P—VO`—ÿêS	gLwNS„v›Q–MbýwÝO¶RkSýV0"
+EDG_Peasant_regime_Military_organizations_4_desc:0 "lšKQ‰ÆY/fW‰šNqQŒTýV„vlÏeñ‚Ä–ÿÖN‡s†˜qQŒTýV„vbëXñ‚ÇR0WÛLˆã‰>eb‰NÿN¦^«ˆˆcˆNCQ^4YTˆ0lšKQ‰ÆYØÛLˆ†NNû|R›Q‹N9ei—ÿjgÝu†N›Q–…Qè„vP%î•˜˜ÿv^nxËz†Ns^IrRM‘„vŸSRÿg'Y0WžX:V†NqQŒTýV„v›Q‹NípÅ`ŒT›Q‹NžR›R0"
+    EDG_Peasant_regime_Religious_principles_1_desc:0 "bìNIYLˆ„v—RYeŸSR-NS+TSmšS„v.OßuININÿ‰BlºNìN‰RRˆRñT0"
+    EDG_Peasant_regime_Religious_principles_2_desc:0 "^yfR¶R9N<SS²‹:NÿbìN”^SV R:VýV¶RùRYeO„v¡rtÿv^ïyg.OYeÿib'YýVYe„vqVÍT›R0"
+    EDG_Peasant_regime_Religious_principles_3_desc:0 "bìN„v—RYeYeüRbìNÿ‰ib'YbìN„vã‰>eb‰Nÿã‰>eNb	g«ˆ‹Së„vTÞw0"
+EDG_Peasant_regime_National_virtue_1_desc:0 ".Oßu1S/fÁ”‹VÿSÍ‘.Oßu/fÏkN*NlQlý—‰õLˆ„vŽ·VÿuIm-N„vIrµu6R¦^NNlQck°saŒ/fnfMNTt„v0"
+EDG_Peasant_regime_National_virtue_2_desc:0 "IrµuNNlQck°saŒ/f—‰«ˆ&TšR„vÿÆ–SO„v)RÊvØšŽNNRÿ:Ndk—‰zrrrNšR„v*NºN)RÊv0"
+EDG_Peasant_regime_National_virtue_3_desc:0 "wck„vs^IrMb/f«ˆbìNSIY„vtõVÿêT`/fýV¶RŒTÆ–SOmNÅV‰˜SÍ‘*NºNv^SÍ‘s^Irÿ¶R•6RŒT.OßuCgZ(Ws^Irb—MRNÇ/fN¸uzzŒ0"
+    EDG_Peasant_regime_public_rights_1_desc:0 "bìN„v.OßuÁ‹f†NÝOœ–ýV¶R„vgØšßu»lwåb	gN6RCg›RMb/fcknx„vÿ¡l	gýV¶R:ghV„vN6RCg›Rÿ*NºN/fàeÕlËz³„v0"
+    EDG_Peasant_regime_public_rights_2_desc:0 "Cg›R/f—‰NšR6R¦u„vÿN×S¦umg„vCg›RSˆV¹RfVw´f?eŒT‹Së0"
+    EDG_Peasant_regime_public_rights_3_desc:0 "lQCg›R—‰—V0RŒR„U„v6RaˆÿåNdkÝOÁ‹NO	gÝuùRCg›R„vúQ°sÿjgÝu´f?eŒT‹Së0"
+    EDG_Peasant_regime_public_rights_4_desc:0 "bìN	gN*NuªVlINŒTs^IrŸSRÄuú^weg„v?eœ^:g„gÿN*NÉ^m0f„v?eœ^&^eg„v/fôfØš„vLˆ?eHe‡s0"
+
+
+EDG_Peasant_regime_National_virtue_4:0 "ZCgININ"
+EDG_Peasant_regime_National_virtue_4_desc:0 "êS	ggOÀy„v†˜–ˆ	gD<hÑS÷SËeäNÿbìNÅV‰˜ShQèCg›RN²NÙubìN„v†˜–ˆÿbìN„v†˜–ˆÅV‰˜/fNMOýwYæTóSýV¶R?e»l„vN6RwÿÙ/fN^PˆNÖN„vCg›R0"
+EDG_Peasant_regime_public_rights_5:0 "N6RININ"
+EDG_Peasant_regime_public_rights_5_desc:0 "bìN„výV¶ROVN6RININÐLˆÿºNl®‹ONÇ/faj®vþVàzÿêwœQŒTKbåTNwêSÝO	gTINN„v?e»lCg)RÿFOûNUOºNýýwwúQegÿÖNìNòTÏuŒT:P¡RtY¶–¡l	g:S+R0"
+
+EDG_ROS_Citizen_Government_2:0 "W‰šNN6R?eœ^"
+EDG_ROS_Citizen_Government_2_desc:0 "(WÏu†S†NÍ‘'Y„vim«RTÿbìNÈuŽNaÆ‹0RêS	gN6Rßu»lMbýwKcQeW‰šN0‚YÊNÿºNl®‹ONÇ/faj®vþVàzÿêwœQŒTKbåTNwêSÝO	gTINN„v?e»lCg)RÿFOûNUOºNýýwwúQegÿÖNìNòTÏuŒT:P¡RtY¶–¡l	g:S+R0"
+

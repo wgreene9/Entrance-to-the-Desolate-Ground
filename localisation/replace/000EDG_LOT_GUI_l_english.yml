@@ -1,0 +1,411 @@
+﻿l_english:
+EDG_LOT_palace_enable_button_tt:0 "ågw§YšNt#W6r'Y‡v«R§!"
+EDG_LOT_palace_enable_button_buttonText:0 "ågw§YšNt#W6r'Y‡v«R§!"
+
+EDG_LOT_palace_open_building_system_button_tt:0 "ågw§YÓu„g§!"
+EDG_LOT_palace_open_building_0_button_tt:0 "ågw§YIN¿k§!"
+EDG_LOT_palace_open_building_adm_button_tt:0 "ågw§Y‡eSOP¿k§!"
+EDG_LOT_palace_open_building_dip_button_tt:0 "ågw§YÏuNmOP¿k§!"
+EDG_LOT_palace_open_building_mil_button_tt:0 "ågw§Y›Q‹NOP¿k§!"
+
+
+EDG_LOT_palace_open_building_system_button_trigger_tooltip:0 "¡l	gck(Wågw§YÓu„g§!"
+EDG_LOT_palace_open_building_0_button_trigger_tooltip:0 "¡l	gck(Wågw§YIN¿k§!"
+EDG_LOT_palace_open_building_adm_button_trigger_tooltip:0 "¡l	gck(Wågw§Y‡eSOP¿k§!"
+EDG_LOT_palace_open_building_dip_button_trigger_tooltip:0 "¡l	gck(Wågw§YÏuNmOP¿k§!"
+EDG_LOT_palace_open_building_mil_button_trigger_tooltip:0 "¡l	gck(Wågw§Y›Q‹NOP¿k§!"
+
+EDG_LOT_palace_open_building_system_button_buttonText:0 "    Óu„g"
+EDG_LOT_palace_open_building_0_button_buttonText:0 "    IN¿k"
+EDG_LOT_palace_open_building_adm_button_buttonText:0 "    ‡eSOP¿k"
+EDG_LOT_palace_open_building_dip_button_buttonText:0 "    ÏuNmOP¿k"
+EDG_LOT_palace_open_building_mil_button_buttonText:0 "    ›Q‹NOP¿k"
+
+EDG_LOT_palace_open_building_0_1_button_buttonText:0 "       ÝR«R"
+EDG_LOT_palace_open_building_0_2_button_buttonText:0 "       íV—g"
+EDG_LOT_palace_open_building_0_3_button_buttonText:0 "       ‹sµ^…S"
+EDG_LOT_palace_open_building_0_4_button_buttonText:0 "       ®‹‹N…S"
+EDG_LOT_palace_open_building_0_5_button_buttonText:0 "       ´RO…S"
+EDG_LOT_palace_open_building_0_6_button_buttonText:0 "       R—Ü”ÏP"
+
+EDG_LOT_palace_open_building_adm_1_button_buttonText:0 "       wyJT²R"
+EDG_LOT_palace_open_building_adm_2_button_buttonText:0 "       .™Q²R"
+EDG_LOT_palace_open_building_adm_3_button_buttonText:0 "       þVfN†™"
+EDG_LOT_palace_open_building_adm_4_button_buttonText:0 "       ÍsR†™"
+EDG_LOT_palace_open_building_adm_5_button_buttonText:0 "       ó—PN…S"
+EDG_LOT_palace_open_building_adm_6_button_buttonText:0 "       'YgR:W"
+
+EDG_LOT_palace_open_building_dip_1_button_buttonText:0 "       ýV“^"
+EDG_LOT_palace_open_building_dip_2_button_buttonText:0 "       …Q^“^"
+EDG_LOT_palace_open_building_dip_3_button_buttonText:0 "       0?e…S"
+EDG_LOT_palace_open_building_dip_4_button_buttonText:0 "       z¡R…S"
+EDG_LOT_palace_open_building_dip_5_button_buttonText:0 "       FU8lQr"
+EDG_LOT_palace_open_building_dip_6_button_buttonText:0 "       LˆOlQr"
+
+EDG_LOT_palace_open_building_mil_1_button_buttonText:0 "       lš:W"
+EDG_LOT_palace_open_building_mil_2_button_buttonText:0 "       v—:W"
+EDG_LOT_palace_open_building_mil_3_button_buttonText:0 "       ›Q°h“^"
+EDG_LOT_palace_open_building_mil_4_button_buttonText:0 "       ïQËeè•"
+EDG_LOT_palace_open_building_mil_5_button_buttonText:0 "       Ôkfk:W"
+EDG_LOT_palace_open_building_mil_6_button_buttonText:0 "       /h–:W"
+
+EDG_LOT_palace_after_builded_tt:0 "(W§Yú^.ŒRb§!TÿbìNSïSåN·ƒ—Vå‹îOckÿ"
+EDG_LOT_palace_after_main_0_builded_tt:0 "(W§Yú^.ŒRb§!TÿbìNSïSåNã‰•§YIN¿k§!:SWW„v§MD–^Sú^Qr§!\n-ú^¾‹§MD–^Sú^Qr§!N—‰±‚9öeô•"
+EDG_LOT_palace_after_main_1_builded_tt:0 "(W§Yú^.ŒRb§!TÿbìNSïSåNã‰•§Y,rNµ^OP¿k§!ÊSvQ:SWW„v§MD–^Sú^Qr§!\n-ú^¾‹§MD–^Sú^Qr§!N—‰±‚9öeô•\n-ã‰•„vOP¿k‰|‹W1ubìN	éb"
+EDG_LOT_palace_after_main_2_builded_tt:0 "(W§Yú^.ŒRb§!TÿbìNSïSåNã‰•§Y,rŒNµ^OP¿k§!ÊSvQ:SWW„v§MD–^Sú^Qr§!\n-ú^¾‹§MD–^Sú^Qr§!N—‰±‚9öeô•\n-ã‰•„vOP¿k‰|‹W1ubìN	éb"
+EDG_LOT_palace_after_main_3_builded_tt:0 "(W§Yú^.ŒRb§!TÿbìNSïSåNã‰•§Y,r	Nµ^OP¿k§!ÊSvQ:SWW„v§MD–^Sú^Qr§!\n-ú^¾‹§MD–^Sú^Qr§!N—‰±‚9öeô•\n-ã‰•„vOP¿k‰|‹W1ubìN	éb"
+
+EDG_LOT_palace_after_main_expend_builded_tt:0 "(W§Yú^.ŒRb§!TÿbìNSïSåNŠb§YyršRGYÂ‰§!§MÆbã‰§!ÿSvQPg™e,dÐó§Y'Y‡v«R§!ÿv^§GGSµu§!§Y'Y‡v«R§!ÿ·ƒ—Vå‹yršRGYÂ‰„v§MèR Rb§!0"
+EDG_LOT_palace_after_main_upgrade_builded_tt:0 "(W§Yú^.ŒRb§!Tÿå‹OP¿k„vîOckSý RåNNHeœgÿ"
+
+building_EDG_LOT_palace_0_building:0 "§YšNt#W6r'Y‡v«R§!:IN¿k"
+building_EDG_LOT_palace_1_building:0 "§YšNt#W6r'Y‡v«R§!:,rNOP¿k"
+building_EDG_LOT_palace_1_1_building:0 "§YšNt#W6r'Y‡v«R§!:ibú^,rNOP¿k"
+building_EDG_LOT_palace_1_2_building:0 "§YšNt#W6r'Y‡v«R§!:GSµu,rNOP¿k"
+building_EDG_LOT_palace_2_building:0 "§YšNt#W6r'Y‡v«R§!:,rŒNOP¿k"
+building_EDG_LOT_palace_2_1_building:0 "§YšNt#W6r'Y‡v«R§!:ibú^,rŒNOP¿k"
+building_EDG_LOT_palace_2_2_building:0 "§YšNt#W6r'Y‡v«R§!:GSµu,rŒNOP¿k"
+building_EDG_LOT_palace_3_building:0 "§YšNt#W6r'Y‡v«R§!:,r	NOP¿k"
+building_EDG_LOT_palace_3_1_building:0 "§YšNt#W6r'Y‡v«R§!:ibú^,r	NOP¿k"
+building_EDG_LOT_palace_3_2_building:0 "§YšNt#W6r'Y‡v«R§!:GSµu,r	NOP¿k"
+building_EDG_LOT_palace_end_building:0 "§YšNt#W6r'Y‡v«R§!:gÈuåTz"
+
+EDG_LOT_palace_building_0_GUI_trigger_tooltip:0 "bìNã‰•†N§YšNt#W6r'Y‡v«R§!„v§MIN¿k§!"
+EDG_LOT_palace_building_adm_GUI_trigger_tooltip:0 "bìNã‰•†N§YšNt#W6r'Y‡v«R§!„v§M‡eSOP¿k§!"
+EDG_LOT_palace_building_dip_GUI_trigger_tooltip:0 "bìNã‰•†N§YšNt#W6r'Y‡v«R§!„v§MÏuNmOP¿k§!"
+EDG_LOT_palace_building_mil_GUI_trigger_tooltip:0 "bìNã‰•†N§YšNt#W6r'Y‡v«R§!„v§M›Q‹NOP¿k§!"
+
+
+EDG_LOT_palace_0_button_tt:0 "ú^.§Y0IN¿k0§!"
+EDG_LOT_palace_1_button_tt:0 "ú^.§Y0,rNµ^OP¿k0§!"
+EDG_LOT_palace_1_1_button_tt:0 "0ibú^§Y0,rNµ^OP¿k§!"
+EDG_LOT_palace_1_2_button_tt:0 "0GSµu0§Y,rNµ^OP¿k§!"
+EDG_LOT_palace_2_button_tt:0 "ú^.§Y0,rŒNµ^OP¿k0§!"
+EDG_LOT_palace_2_1_button_tt:0 "0ibú^0§Y,rŒNµ^OP¿k§!"
+EDG_LOT_palace_2_2_button_tt:0 "0GSµu0§Y,rŒNµ^OP¿k§!"
+EDG_LOT_palace_3_button_tt:0 "ú^.§Y0,r	Nµ^OP¿k0§!"
+EDG_LOT_palace_3_1_button_tt:0 "0ibú^0§Y,r	Nµ^OP¿k§!"
+EDG_LOT_palace_3_2_button_tt:0 "0GSµu0§Y,r	Nµ^OP¿k§!"
+EDG_LOT_palace_0_1_button_tt:0 "ú^.§Y0^:W0§!"
+EDG_LOT_palace_fort_1_1_button_tt:0 "ú^.§Y0²bÎW³l0§!"
+EDG_LOT_palace_fort_1_2_button_tt:0 "ú^.§Y0Teh0§!"
+EDG_LOT_palace_fort_1_3_button_tt:0 "ú^.§Y0è•|i0§!"
+EDG_LOT_palace_fort_1_4_button_tt:0 "ú^.§Y0îtÎW0§!"
+EDG_LOT_palace_0_2_button_tt:0 "ú^.§Y0Y/X0§!"
+EDG_LOT_palace_fort_2_1_button_tt:0 "ú^.§Y0Úh|i0§!"
+EDG_LOT_palace_fort_2_2_button_tt:0 "ú^.§Y0STX0§!"
+EDG_LOT_palace_fort_2_3_button_tt:0 "ú^.§Y0ØšTX0§!"
+EDG_LOT_palace_fort_2_4_button_tt:0 "ú^.§Y0'Y­wgTX0§!"
+EDG_LOT_palace_end_button_tt:0 "ú^.§Y0gÈuåTz0§!"
+
+EDG_LOT_palace_open_building_0_1_button_tt:0 "ú^.IN¿kÿ§YÝR«R§!"
+EDG_LOT_palace_open_building_0_2_button_tt:0 "ú^.IN¿kÿ§YíV—g§!"
+EDG_LOT_palace_open_building_0_3_button_tt:0 "ú^.IN¿kÿ§Y‹sµ^…S§!"
+EDG_LOT_palace_open_building_0_4_button_tt:0 "ú^.IN¿kÿ§Y®‹‹N…S§!"
+EDG_LOT_palace_open_building_0_5_button_tt:0 "ú^.IN¿kÿ§Y´RO…S§!"
+EDG_LOT_palace_open_building_0_6_button_tt:0 "ú^.IN¿kÿ§YR—Ü”ÏP§!"
+EDG_LOT_palace_open_building_adm_1_button_tt:0 "ú^.‡eSOP¿kÿ§YwyJT²R§!"
+EDG_LOT_palace_open_building_adm_2_button_tt:0 "ú^.‡eSOP¿kÿ§Y.™Q²R§!"
+EDG_LOT_palace_open_building_adm_3_button_tt:0 "ú^.‡eSOP¿kÿ§YþVfN†™§!"
+EDG_LOT_palace_open_building_adm_4_button_tt:0 "ú^.‡eSOP¿kÿ§YÍsR†™§!"
+EDG_LOT_palace_open_building_adm_5_button_tt:0 "ú^.‡eSOP¿kÿ§Yó—PN…S§!"
+EDG_LOT_palace_open_building_adm_6_button_tt:0 "ú^.‡eSOP¿kÿ§Y'YgR:W§!"
+EDG_LOT_palace_open_building_dip_1_button_tt:0 "ú^.ÏuNmOP¿kÿ§YýV“^§!"
+EDG_LOT_palace_open_building_dip_2_button_tt:0 "ú^.ÏuNmOP¿kÿ§Y…Q^“^§!"
+EDG_LOT_palace_open_building_dip_3_button_tt:0 "ú^.ÏuNmOP¿kÿ§Y0?e…S§!"
+EDG_LOT_palace_open_building_dip_4_button_tt:0 "ú^.ÏuNmOP¿kÿ§Yz¡R…S§!"
+EDG_LOT_palace_open_building_dip_5_button_tt:0 "ú^.ÏuNmOP¿kÿ§YFU8lQr§!"
+EDG_LOT_palace_open_building_dip_6_button_tt:0 "ú^.ÏuNmOP¿kÿ§YLˆOlQr§!"
+EDG_LOT_palace_open_building_mil_1_button_tt:0 "ú^.›Q‹NOP¿kÿ§Ylš:W§!"
+EDG_LOT_palace_open_building_mil_2_button_tt:0 "ú^.›Q‹NOP¿kÿ§Yv—:W§!"
+EDG_LOT_palace_open_building_mil_3_button_tt:0 "ú^.›Q‹NOP¿kÿ§Y›Q°h“^§!"
+EDG_LOT_palace_open_building_mil_4_button_tt:0 "ú^.›Q‹NOP¿kÿ§YïQËeè•§!"
+EDG_LOT_palace_open_building_mil_5_button_tt:0 "ú^.›Q‹NOP¿kÿ§YÔkfk:W§!"
+EDG_LOT_palace_open_building_mil_6_button_tt:0 "ú^.›Q‹NOP¿kÿ§Y/h–:W§!"
+
+EDG_LOT_palace_0_great_project_1_button_tt:0 ""
+EDG_LOT_palace_0_great_project_2_button_tt:0 ""
+EDG_LOT_palace_0_great_project_3_button_tt:0 ""
+EDG_LOT_palace_0_great_project_4_button_tt:0 ""
+EDG_LOT_palace_0_great_project_5_button_tt:0 ""
+EDG_LOT_palace_0_great_project_6_button_tt:0 ""
+EDG_LOT_palace_adm_great_project_1_button_tt:0 ""
+EDG_LOT_palace_adm_great_project_2_button_tt:0 ""
+EDG_LOT_palace_adm_great_project_3_button_tt:0 ""
+EDG_LOT_palace_adm_great_project_4_button_tt:0 ""
+EDG_LOT_palace_adm_great_project_5_button_tt:0 ""
+EDG_LOT_palace_adm_great_project_6_button_tt:0 ""
+EDG_LOT_palace_dip_great_project_1_button_tt:0 ""
+EDG_LOT_palace_dip_great_project_2_button_tt:0 ""
+EDG_LOT_palace_dip_great_project_3_button_tt:0 ""
+EDG_LOT_palace_dip_great_project_4_button_tt:0 ""
+EDG_LOT_palace_dip_great_project_5_button_tt:0 ""
+EDG_LOT_palace_dip_great_project_6_button_tt:0 ""
+EDG_LOT_palace_mil_great_project_1_button_tt:0 ""
+EDG_LOT_palace_mil_great_project_2_button_tt:0 ""
+EDG_LOT_palace_mil_great_project_3_button_tt:0 ""
+EDG_LOT_palace_mil_great_project_4_button_tt:0 ""
+EDG_LOT_palace_mil_great_project_5_button_tt:0 ""
+EDG_LOT_palace_mil_great_project_6_button_tt:0 ""
+
+
+EDG_LOT_palace_0_great_project_1_button_buttonText:0 ""
+EDG_LOT_palace_0_great_project_2_button_buttonText:0 ""
+EDG_LOT_palace_0_great_project_3_button_buttonText:0 ""
+EDG_LOT_palace_0_great_project_4_button_buttonText:0 ""
+EDG_LOT_palace_0_great_project_5_button_buttonText:0 ""
+EDG_LOT_palace_0_great_project_6_button_buttonText:0 ""
+EDG_LOT_palace_adm_great_project_1_button_buttonText:0 ""
+EDG_LOT_palace_adm_great_project_2_button_buttonText:0 ""
+EDG_LOT_palace_adm_great_project_3_button_buttonText:0 ""
+EDG_LOT_palace_adm_great_project_4_button_buttonText:0 ""
+EDG_LOT_palace_adm_great_project_5_button_buttonText:0 ""
+EDG_LOT_palace_adm_great_project_6_button_buttonText:0 ""
+EDG_LOT_palace_dip_great_project_1_button_buttonText:0 ""
+EDG_LOT_palace_dip_great_project_2_button_buttonText:0 ""
+EDG_LOT_palace_dip_great_project_3_button_buttonText:0 ""
+EDG_LOT_palace_dip_great_project_4_button_buttonText:0 ""
+EDG_LOT_palace_dip_great_project_5_button_buttonText:0 ""
+EDG_LOT_palace_dip_great_project_6_button_buttonText:0 ""
+EDG_LOT_palace_mil_great_project_1_button_buttonText:0 ""
+EDG_LOT_palace_mil_great_project_2_button_buttonText:0 ""
+EDG_LOT_palace_mil_great_project_3_button_buttonText:0 ""
+EDG_LOT_palace_mil_great_project_4_button_buttonText:0 ""
+EDG_LOT_palace_mil_great_project_5_button_buttonText:0 ""
+EDG_LOT_palace_mil_great_project_6_button_buttonText:0 ""
+
+
+EDG_LOT_palace_0_button_modifier:0 "òTú^.0IN¿k0"
+EDG_LOT_palace_1_button_modifier:0 "òTú^.0,rNµ^OP¿k0"
+EDG_LOT_palace_1_1_button_modifier:0 "òT0ibú^0,rNµ^OP¿k"
+EDG_LOT_palace_1_2_button_modifier:0 "òT0GSµu0,rNµ^OP¿k"
+EDG_LOT_palace_2_button_modifier:0 "òTú^.0,rŒNµ^OP¿k0"
+EDG_LOT_palace_2_1_button_modifier:0 "òT0ibú^0,rNµ^OP¿k"
+EDG_LOT_palace_2_2_button_modifier:0 "òT0GSµu0,rŒNµ^OP¿k"
+EDG_LOT_palace_3_button_modifier:0 "òTú^.0,r	Nµ^OP¿k0"
+EDG_LOT_palace_3_1_button_modifier:0 "òT0ibú^0,rNµ^OP¿k"
+EDG_LOT_palace_3_2_button_modifier:0 "òT0GSµu0,r	Nµ^OP¿k"
+EDG_LOT_palace_0_1_button_modifier:0 "òTú^.0^:W0"
+EDG_LOT_palace_1_4_button_modifier:0 "òTú^.0îtÎW0"
+EDG_LOT_palace_0_2_button_modifier:0 "òTú^.0Y/X0"
+EDG_LOT_palace_2_1_button_modifier:0 "òTú^.0Úh|i0"
+EDG_LOT_palace_2_3_button_modifier:0 "òTú^.0ØšTX0"
+EDG_LOT_palace_2_4_button_modifier:0 "òTú^.0'Y­wgTX0"
+EDG_LOT_palace_0_1_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿÝR«R"
+EDG_LOT_palace_0_2_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿíV—g"
+EDG_LOT_palace_0_3_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿ‹sµ^…S"
+EDG_LOT_palace_0_4_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿ®‹‹N…S"
+EDG_LOT_palace_0_5_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿ´RO…S"
+EDG_LOT_palace_0_6_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿR—Ü”ÏP"
+EDG_LOT_palace_adm_1_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿwyJT²R"
+EDG_LOT_palace_adm_2_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿ.™Q²R"
+EDG_LOT_palace_adm_3_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿþVfN†™"
+EDG_LOT_palace_adm_4_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿÍsR†™"
+EDG_LOT_palace_adm_5_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿó—PN…S"
+EDG_LOT_palace_adm_6_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿ'YgR:W"
+EDG_LOT_palace_dip_1_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿýV“^"
+EDG_LOT_palace_dip_2_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿ…Q^“^"
+EDG_LOT_palace_dip_3_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿ0?e…S"
+EDG_LOT_palace_dip_4_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿz¡R…S"
+EDG_LOT_palace_dip_5_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿFU8lQr"
+EDG_LOT_palace_dip_6_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿLˆOlQr"
+EDG_LOT_palace_mil_1_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿlš:W"
+EDG_LOT_palace_mil_2_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿv—:W"
+EDG_LOT_palace_mil_3_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿ›Q°h“^"
+EDG_LOT_palace_mil_4_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿïQËeè•"
+EDG_LOT_palace_mil_5_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿÔkfk:W"
+EDG_LOT_palace_mil_6_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿ/h–:W"
+
+EDG_LOT_palace_0_1_button_modifier:0 "òTú^.0^:W0"
+EDG_LOT_palace_fort_1_1_button_modifier:0 "òTú^.0²bÎW³l0"
+EDG_LOT_palace_fort_1_2_button_modifier:0 "òTú^.0Teh0"
+EDG_LOT_palace_fort_1_3_button_modifier:0 "òTú^.0è•|i0"
+EDG_LOT_palace_fort_1_4_button_modifier:0 "òTú^.0îtÎW0"
+EDG_LOT_palace_0_2_button_modifier:0 "òTú^.0Y/X0"
+EDG_LOT_palace_fort_2_1_button_modifier:0 "òTú^.0Úh|i0"
+EDG_LOT_palace_fort_2_2_button_modifier:0 "òTú^.0STX0"
+EDG_LOT_palace_fort_2_3_button_modifier:0 "òTú^.0ØšTX0"
+EDG_LOT_palace_fort_2_4_button_modifier:0 "òTú^.0'Y­wgTX0"
+EDG_LOT_palace_fort_0_1_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0^:W0"
+EDG_LOT_palace_fort_1_1_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0²bÎW³l0"
+EDG_LOT_palace_fort_1_2_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0Teh0"
+EDG_LOT_palace_fort_1_3_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0è•|i0"
+EDG_LOT_palace_fort_1_4_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0îtÎW0"
+EDG_LOT_palace_fort_0_2_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0Y/X0"
+EDG_LOT_palace_fort_2_1_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0Úh|i0"
+EDG_LOT_palace_fort_2_2_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0STX0"
+EDG_LOT_palace_fort_2_3_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0ØšTX0"
+EDG_LOT_palace_fort_2_4_button_province_modifier:0 "0šNt#W6r'Y‡v«R0Óu„gÿ0'Y­wgTX0"
+
+
+
+EDG_LOT_palace_0_great_project_1_button_flag_trigger_tt:0 "GYÂ‰§Y0wm·V/XÎW/X0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_2_button_flag_trigger_tt:0 "GYÂ‰§Y0±ƒ5ƒØša„„R‘œQ:W0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_3_button_flag_trigger_tt:0 "GYÂ‰§Y0FziO«R0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_4_button_flag_trigger_tt:0 "GYÂ‰§Y0N¹e«R0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_5_button_flag_trigger_tt:0 "GYÂ‰§Y0?–SU^Éb«R0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_6_button_flag_trigger_tt:0 "GYÂ‰§Y0TKQINµ^YeX0§!*g«ˆ§Ry(u§!"
+
+EDG_LOT_palace_adm_great_project_1_button_flag_trigger_tt:0 "GYÂ‰§Y0‡v^'YYeX0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_2_button_flag_trigger_tt:0 "GYÂ‰§Y0±ƒÔk/•'YfR0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_3_button_flag_trigger_tt:0 "GYÂ‰§Y0ÃW¯eyrþVfN†™0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_4_button_flag_trigger_tt:0 "GYÂ‰§Y0^Éb<h†SòS-NÃV0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_5_button_flag_trigger_tt:0 "GYÂ‰§Y0wm^yÉl‡v¶R±‚íV0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_6_button_flag_trigger_tt:0 "GYÂ‰§Y0¯eaSÉbLkgRb–0§!*g«ˆ§Ry(u§!"
+
+EDG_LOT_palace_dip_great_project_1_button_flag_trigger_tt:0 "GYÂ‰§Y0/k)n<h«R0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_2_button_flag_trigger_tt:0 "GYÂ‰§Y0ÃW¯eyrÎW/X0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_3_button_flag_trigger_tt:0 "GYÂ‰§Y0#WTN»l«R0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_4_button_flag_trigger_tt:0 "GYÂ‰§Y0<hœyQ«R0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_5_button_flag_trigger_tt:0 "GYÂ‰§Y0ÃW“^±ƒ¯eTX0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_6_button_flag_trigger_tt:0 "GYÂ‰§Y0g®N/n0§!*g«ˆ§Ry(u§!"
+
+EDG_LOT_palace_mil_great_project_1_button_flag_trigger_tt:0 "GYÂ‰§Y0âl·VÉb0Œs:W0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_2_button_flag_trigger_tt:0 "GYÂ‰§Y0ôTTXS'S¯enwúR0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_3_button_flag_trigger_tt:0 "GYÂ‰§Y0Z<S¯e›Q°h“^0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_4_button_flag_trigger_tt:0 "GYÂ‰§Y0ÃRpQ‰v/Xè•0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_5_button_flag_trigger_tt:0 "GYÂ‰§Y0lšS/XÎW/X0§!*g«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_6_button_flag_trigger_tt:0 "GYÂ‰§Y0SiO,r«R0§!*g«ˆ§Ry(u§!"
+
+
+
+EDG_LOT_palace_0_great_project_1_button_flag_tt:0 "GYÂ‰§Y0wm·V/XÎW/X0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_2_button_flag_tt:0 "GYÂ‰§Y0±ƒ5ƒØša„„R‘œQ:W0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_3_button_flag_tt:0 "GYÂ‰§Y0FziO«R0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_4_button_flag_tt:0 "GYÂ‰§Y0N¹e«R0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_5_button_flag_tt:0 "GYÂ‰§Y0?–SU^Éb«R0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_0_great_project_6_button_flag_tt:0 "GYÂ‰§Y0TKQINµ^YeX0§!SO«ˆ§Ry(u§!"
+
+EDG_LOT_palace_adm_great_project_1_button_flag_tt:0 "GYÂ‰§Y0‡v^'YYeX0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_2_button_flag_tt:0 "GYÂ‰§Y0±ƒÔk/•'YfR0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_3_button_flag_tt:0 "GYÂ‰§Y0ÃW¯eyrþVfN†™0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_4_button_flag_tt:0 "GYÂ‰§Y0^Éb<h†SòS-NÃV0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_5_button_flag_tt:0 "GYÂ‰§Y0wm^yÉl‡v¶R±‚íV0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_adm_great_project_6_button_flag_tt:0 "GYÂ‰§Y0¯eaSÉbLkgRb–0§!SO«ˆ§Ry(u§!"
+
+EDG_LOT_palace_dip_great_project_1_button_flag_tt:0 "GYÂ‰§Y0/k)n<h«R0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_2_button_flag_tt:0 "GYÂ‰§Y0ÃW¯eyrÎW/X0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_3_button_flag_tt:0 "GYÂ‰§Y0#WTN»l«R0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_4_button_flag_tt:0 "GYÂ‰§Y0<hœyQ«R0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_5_button_flag_tt:0 "GYÂ‰§Y0ÃW“^±ƒ¯eTX0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_dip_great_project_6_button_flag_tt:0 "GYÂ‰§Y0g®N/n0§!SO«ˆ§Ry(u§!"
+
+EDG_LOT_palace_mil_great_project_1_button_flag_tt:0 "GYÂ‰§Y0âl·VÉb0Œs:W0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_2_button_flag_tt:0 "GYÂ‰§Y0ôTTXS'S¯enwúR0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_3_button_flag_tt:0 "GYÂ‰§Y0Z<S¯e›Q°h“^0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_4_button_flag_tt:0 "GYÂ‰§Y0ÃRpQ‰v/Xè•0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_5_button_flag_tt:0 "GYÂ‰§Y0lšS/XÎW/X0§!SO«ˆ§Ry(u§!"
+EDG_LOT_palace_mil_great_project_6_button_flag_tt:0 "GYÂ‰§Y0SiO,r«R0§!SO«ˆ§Ry(u§!"
+
+
+
+
+EDG_LOT_palace_0_great_project_1_button_tt:0 "ÆbÁGYÂ‰§Y0wm·V/XÎW/X0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_0_great_project_2_button_tt:0 "ÆbÁGYÂ‰§Y0±ƒ5ƒØša„„R‘œQ:W0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_0_great_project_3_button_tt:0 "ÆbÁGYÂ‰§Y0FziO«R0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_0_great_project_4_button_tt:0 "ÆbÁGYÂ‰§Y0N¹e«R0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_0_great_project_5_button_tt:0 "ÆbÁGYÂ‰§Y0?–SU^Éb«R0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_0_great_project_6_button_tt:0 "ÆbÁGYÂ‰§Y0TKQINµ^YeX0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+
+EDG_LOT_palace_adm_great_project_1_button_tt:0 "ÆbÁGYÂ‰§Y0‡v^'YYeX0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_adm_great_project_2_button_tt:0 "ÆbÁGYÂ‰§Y0±ƒÔk/•'YfR0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_adm_great_project_3_button_tt:0 "ÆbÁGYÂ‰§Y0ÃW¯eyrþVfN†™0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_adm_great_project_4_button_tt:0 "ÆbÁGYÂ‰§Y0^Éb<h†SòS-NÃV0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_adm_great_project_5_button_tt:0 "ÆbÁGYÂ‰§Y0wm^yÉl‡v¶R±‚íV0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_adm_great_project_6_button_tt:0 "ÆbÁGYÂ‰§Y0¯eaSÉbLkgRb–0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+
+EDG_LOT_palace_dip_great_project_1_button_tt:0 "ÆbÁGYÂ‰§Y0/k)n<h«R0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_dip_great_project_2_button_tt:0 "ÆbÁGYÂ‰§Y0ÃW¯eyrÎW/X0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_dip_great_project_3_button_tt:0 "ÆbÁGYÂ‰§Y0#WTN»l«R0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_dip_great_project_4_button_tt:0 "ÆbÁGYÂ‰§Y0<hœyQ«R0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_dip_great_project_5_button_tt:0 "ÆbÁGYÂ‰§Y0ÃW“^±ƒ¯eTX0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_dip_great_project_6_button_tt:0 "ÆbÁGYÂ‰§Y0g®N/n0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+
+EDG_LOT_palace_mil_great_project_1_button_tt:0 "ÆbÁGYÂ‰§Y0âl·VÉb0Œs:W0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_mil_great_project_2_button_tt:0 "ÆbÁGYÂ‰§Y0ôTTXS'S¯enwúR0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_mil_great_project_3_button_tt:0 "ÆbÁGYÂ‰§Y0Z<S¯e›Q°h“^0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_mil_great_project_4_button_tt:0 "ÆbÁGYÂ‰§Y0ÃRpQ‰v/Xè•0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_mil_great_project_5_button_tt:0 "ÆbÁGYÂ‰§Y0lšS/XÎW/X0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+EDG_LOT_palace_mil_great_project_6_button_tt:0 "ÆbÁGYÂ‰§Y0SiO,r«R0§!(uŽNú^¾‹§YšNt#W6r'YYeX§!"
+
+
+
+
+EDG_LOT_palace_0_great_project_1_button_buttonText:0 "    §Y0wm·V/XÎW/X0§!"
+EDG_LOT_palace_0_great_project_2_button_buttonText:0 "    §Y0±ƒ5ƒØša„„R‘œQ:W0§!"
+EDG_LOT_palace_0_great_project_3_button_buttonText:0 "    §Y0FziO«R0§!"
+EDG_LOT_palace_0_great_project_4_button_buttonText:0 "    §Y0N¹e«R0§!"
+EDG_LOT_palace_0_great_project_5_button_buttonText:0 "    §Y0?–SU^Éb«R0§!"
+EDG_LOT_palace_0_great_project_6_button_buttonText:0 "    §Y0TKQINµ^YeX0§!"
+
+EDG_LOT_palace_adm_great_project_1_button_buttonText:0 "    §Y0‡v^'YYeX0§!"
+EDG_LOT_palace_adm_great_project_2_button_buttonText:0 "    §Y0±ƒÔk/•'YfR0§!"
+EDG_LOT_palace_adm_great_project_3_button_buttonText:0 "    §Y0ÃW¯eyrþVfN†™0§!"
+EDG_LOT_palace_adm_great_project_4_button_buttonText:0 "    §Y0^Éb<h†SòS-NÃV0§!"
+EDG_LOT_palace_adm_great_project_5_button_buttonText:0 "    §Y0wm^yÉl‡v¶R±‚íV0§!"
+EDG_LOT_palace_adm_great_project_6_button_buttonText:0 "    §Y0¯eaSÉbLkgRb–0§!"
+
+EDG_LOT_palace_dip_great_project_1_button_buttonText:0 "    §Y0/k)n<h«R0§!"
+EDG_LOT_palace_dip_great_project_2_button_buttonText:0 "    §Y0ÃW¯eyrÎW/X0§!"
+EDG_LOT_palace_dip_great_project_3_button_buttonText:0 "    §Y0#WTN»l«R0§!"
+EDG_LOT_palace_dip_great_project_4_button_buttonText:0 "    §Y0<hœyQ«R0§!"
+EDG_LOT_palace_dip_great_project_5_button_buttonText:0 "    §Y0ÃW“^±ƒ¯eTX0§!"
+EDG_LOT_palace_dip_great_project_6_button_buttonText:0 "    §Y0g®N/n0§!"
+
+EDG_LOT_palace_mil_great_project_1_button_buttonText:0 "    §Y0âl·VÉb0Œs:W0§!"
+EDG_LOT_palace_mil_great_project_2_button_buttonText:0 "    §Y0ôTTXS'S¯enwúR0§!"
+EDG_LOT_palace_mil_great_project_3_button_buttonText:0 "    §Y0Z<S¯e›Q°h“^0§!"
+EDG_LOT_palace_mil_great_project_4_button_buttonText:0 "    §Y0ÃRpQ‰v/Xè•0§!"
+EDG_LOT_palace_mil_great_project_5_button_buttonText:0 "    §Y0lšS/XÎW/X0§!"
+EDG_LOT_palace_mil_great_project_6_button_buttonText:0 "    §Y0SiO,r«R0§!"
+
+
+EDG_LOT_palace_0_great_project_1_button_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿwm·V/XÝR«R±‚íV"
+EDG_LOT_palace_0_great_project_2_button_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿ±ƒ5ƒØša„„íV—g"
+EDG_LOT_palace_0_great_project_3_button_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿFziO‹sµ^…S"
+EDG_LOT_palace_0_great_project_4_button_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿN¹e«R®‹‹N…S"
+EDG_LOT_palace_0_great_project_5_button_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿ?–SU^Éb´RO…S"
+EDG_LOT_palace_0_great_project_6_button_modifier:0 "0šNt#W6r'Y‡v«R0IN¿kÿINµ^R—Ü”ÏP"
+EDG_LOT_palace_adm_great_project_1_button_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿ‡v^wyJT²R"
+EDG_LOT_palace_adm_great_project_2_button_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿ±ƒÔk/•D™e²R"
+EDG_LOT_palace_adm_great_project_3_button_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿÃW¯eyrþVfN†™"
+EDG_LOT_palace_adm_great_project_4_button_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿ†SòS-NÃV"
+EDG_LOT_palace_adm_great_project_5_button_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿwm^yÉló—PN^:W"
+EDG_LOT_palace_adm_great_project_6_button_modifier:0 "0šNt#W6r'Y‡v«R0‡eSOP¿kÿ¯eaSÉbLkgR…S"
+EDG_LOT_palace_dip_great_project_1_button_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿ)n<h÷tÑ‘“^"
+EDG_LOT_palace_dip_great_project_2_button_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿÃW¯eyr“^"
+EDG_LOT_palace_dip_great_project_3_button_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿ#WTN»l0?ežRlQ²R"
+EDG_LOT_palace_dip_great_project_4_button_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿ<hœyQz¡RžRlQ²R"
+EDG_LOT_palace_dip_great_project_5_button_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿÃW“^±ƒ¯eTX"
+EDG_LOT_palace_dip_great_project_6_button_modifier:0 "0šNt#W6r'Y‡v«R0ÏuNmOP¿kÿg®N/n"
+EDG_LOT_palace_mil_great_project_1_button_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿ'Ys:W"
+EDG_LOT_palace_mil_great_project_2_button_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿ#Wbv—:W"
+EDG_LOT_palace_mil_great_project_3_button_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿwm›Q›Q°h“^"
+EDG_LOT_palace_mil_great_project_4_button_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿïQËeè•D–è•"
+EDG_LOT_palace_mil_great_project_5_button_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿlšS/X^:W"
+EDG_LOT_palace_mil_great_project_6_button_modifier:0 "0šNt#W6r'Y‡v«R0›Q‹NOP¿kÿSiO,r"
+
+EDG_LOT_palace_adm_expend_enable_flag_trigger_tooltip:0 "òTibú^§Y0‡eSOP¿k0§!"
+EDG_LOT_palace_dip_expend_enable_flag_trigger_tooltip:0 "òTibú^§Y0ÏuNmOP¿k0§!"
+EDG_LOT_palace_mil_expend_enable_flag_trigger_tooltip:0 "òTibú^§Y0›Q‹NOP¿k0§!"
+
+#生产力
+
+EDG_LOT_productivity_ADM_1_button_tt:0 "‡eSuµN›Rÿ§Y¨c^Ye²w§!"
+EDG_LOT_productivity_ADM_2_button_tt:0 "‡eSuµN›Rÿ§Y¨c^1ZPN§!"
+EDG_LOT_productivity_ADM_3_button_tt:0 "‡eSuµN›Rÿ§Y¨c^˜RÝ‹§!"
+EDG_LOT_productivity_ADM_4_button_tt:0 "‡eSuµN›Rÿ§Y¨c^ýVYe§!"
+
+EDG_LOT_productivity_DIP_1_button_tt:0 "ÏuNmuµN›Rÿ§Y/ecœQN§!"
+EDG_LOT_productivity_DIP_2_button_tt:0 "ÏuNmuµN›Rÿ§Y/ecåTz‚§!"
+EDG_LOT_productivity_DIP_3_button_tt:0 "ÏuNmuµN›Rÿ§Y/ecLˆ?e§!"
+EDG_LOT_productivity_DIP_4_button_tt:0 "ÏuNmuµN›Rÿ§Y/ecúWú^§!"
+
+EDG_LOT_productivity_MIL_1_button_tt:0 "›Q‹NuµN›Rÿ§Y6R.fkhV§!"
+EDG_LOT_productivity_MIL_2_button_tt:0 "›Q‹NuµN›Rÿ§Y6R.2–wQ§!"
+EDG_LOT_productivity_MIL_3_button_tt:0 "›Q‹NuµN›Rÿ§Y6R.kp®p§!"
+EDG_LOT_productivity_MIL_4_button_tt:0 "›Q‹NuµN›Rÿ§Y6R.9‚êS§!"
+
+EDG_LOT_productivity_ADM_enable_flag_trigger_tooltip:0 "òTã‰•§Y0ýV¶R‡eSuµN›R0§!:g6R"
+EDG_LOT_productivity_DIP_enable_flag_trigger_tooltip:0 "òTã‰•§Y0ýV¶RÏuNmuµN›R0§!:g6R"
+EDG_LOT_productivity_MIL_enable_flag_trigger_tooltip:0 "òTã‰•§Y0ýV¶R›Q‹NuµN›R0§!:g6R"

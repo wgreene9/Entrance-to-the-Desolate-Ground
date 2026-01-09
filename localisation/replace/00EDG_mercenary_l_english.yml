@@ -1,0 +1,408 @@
+﻿l_english:
+    EDG_merc_EDG_safavid_valve_UNLOCK_tooltip:0 "bìNSýwYÇ–cO§Y¾|•GYyQSôTÀN§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§YF–›QëXl+20%§!,§YëXlb`Y+20%§!"  
+    merc__EDG_safavid_valve_big:0 "§Y¾|•GYyQSôTÀN§!"
+    merc__EDG_safavid_valve_small:0 "§Y¾|•GYyQSôTÀN§!"
+    merc__EDG_safavid_valve_big_desc:0 "GYyQSôTÀNÿsS¢u4Y›Qÿ/fÄub(„ÕlôuYeâV„v¾|•è–ÿÖNìNW„T„vñm¢ur‚4Y&^hˆfÖNìNàVŽNASŒNO›sîv0"
+    merc__EDG_safavid_valve_small_desc:0 "GYyQSôTÀNÿsS¢u4Y›Qÿ/fÄub(„ÕlôuYeâV„v¾|•è–ÿÖNìNW„T„vñm¢ur‚4Y&^hˆfÖNìNàVŽNASŒNO›sîv0"
+    
+    
+    EDG_Delhi_knight_Unlock_tooltip:0 "bìNSýwYÇ–cO§Y·VÌ‘‘šëX§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§Y‘šuQµOüIeûQýw›R+15%§!,§Y²QûQ2O³R+15%§!"  
+    merc__EDG_Delhi_knight:0 "§Y·VÌ‘‘šëX§!"
+    merc__EDG_Delhi_knight_desc:0 "[Root.GetAdjective]^ýV„v-N.Y›QŒTýV¶R8^Y›Q«ˆðy:NaS®v“^œÿa:NýV¶RKNÆN0wµu8^Y›Q«ˆðy:NiÈT·V“^œÿa:NI`cwKNÆN0^ýVE^XTË–ÿT0W„viÈT·V“^œý	gNbNTÿ‚Y‰R³uXb)RšN0W:SY:N?–Nb^è–ÿå‹‰|‹Wè–„vfkhV1uI`cwÐc›OÿÂS›QwïSMQd–Kzÿv^(Wb‰Ngô•ÑS>egyV%m4ÿFO?–Nb^NTb—e›RN³0-N.Y„vaS®v“^œ›QâV-N	gT:N6w<SRÌ‘„v¾|•è–ÿ0W¹e„viÈT·V“^œmN	g:V'Y„v¾|•è–ÿegêôTSr^0W:S„v·VÌ‘‘šëX¿O/fšÇR„Ub„v‘šuQ›QâVÿ/fg:V'Y„viÈT·V“^œ›QâV0·VÌ‘‘šëXŒT6w<SRÌ‘N7hÿÝu'YèRúQ«ŽVYe’Vÿ9eáOO¯epQYeÿ¥c×SŒRte„v›Q‹N­‹Ãuÿåb	ggØš„vb—e.t‰Q0·VÌ‘›QâV«N	ggyV%m4ÿùR[Root.GetAdjective][Root.Monarch.GetTitle]g¦^àVÚ‹ÿ(Wb‰N-N`NOu‰kÿåb	gg:V„vb—ea×Vÿåb	ggØš„v:g¨R'`ŒTupOe¦^ÿêSiO4bSÏ‘„v²b2uÿFOiO4bèT'Y„v‘šuQþvÿ1S—r(Wb—e-N×S2OmNNOƒnÿw/fO	éb(u2OãSZQaLeºNÿv^çuíuÛLˆ¯uÂr„v²Q•ÿN¦^«ˆðy:N¯uPR‘šëX0·VÌ‘‘šëX	göeOz4b‚YTÑžžËü„vÅˆp™ÿàVw«ˆN›NâlpQºNðy:N/f[Root.GetAdjective]^ýV„vü‘šuQ0–NwbìN(WôTSr^0W:Sib.V„vbŸR¨cÛÿŠegŠY„v·VÌ‘›QâVÛeQ†NbìN„vÆ‰Î‘0"
+    
+    EDG_army_reforms_of_mehemed_II_tooltip:0 "bìNSýwYÇ–cO§Y6w<SRÌ‘,rN›QâV§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§Y²QûQ2O³R+10%%§!,§Y×S0R²QûQ2O³R-10%§!,§Ykp›R2O³R+10%§!,§Y×S0Rkp›R2O³R-10%§!,§Y­‹Ãu¦^+10%§!,§YF–›QëXl+10%§!0"
+    merc__EDG_janisary_the_first:0 "§Y6w<SRÌ‘,rN›QâV§!"
+    
+    EDG_Gold_Mamluk_Unlock_tooltip:0 "bìNSýwYÇ–cO§Y‡v¶RlšFzœKQ§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§Y‘šuQjObýw›R+25%§!,§Y²QûQ2O³R+25%%§!,§Y­‹Ãu¦^+10%§!0"
+    merc__EDG_Gold_Mamluk:0 "§Y‡v¶RlšFzœKQ§!"
+    
+    
+    EDG_Second_Son_Brotherhood_tooltip:0 "bìNSýwYÇ–cO§Y/kPRDQVO§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§YekuQjObýw›R+20%§!,§Y­‹Ãu¦^+5%§!0"
+    merc__EDG_Second_Son_Brotherhood:0 "§Y/kPRDQVO§!"
+    
+    EDG_kafir_legion_tooltip:0 "bìNSýwYÇ–cO§YaSòƒS›QâV§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§YekuQúWNxkp›R+0.25§!,§YF–›Qg¦^mcw-10%§!0"
+    merc__EDG_kafir_legion:0 "§YaSòƒS›QâV§!"
+    
+    EDG_HAB_mission_5_8_hussars_tt:0 "bìNSýwYÇ–cO§YâlpQ,rNü‘šuQâV§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§Y‘šuQjObýw›R+33%§!0"
+    merc__EDG_HAB_hussars:0 "§YâlpQ,rNü‘šuQâV§!"
+    
+    EDG_HAB_Vienna_Guard_Corps_tt:0 "bìNSýwYÇ–cO§YôumN³uÑkSuQâV§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§YF–›QëXl+10%§!,§Y²QûQ2O³R+10%§!0"
+    merc__EDG_HAB_Vienna_Guard_Corps:0 "§YôumN³uÑkSuQâV§!"
+    
+    merc__EDG_HAB_Firearm_Corps_tt:0 "bìNSýwYÇ–cO§Y‚„yrüfkpªguQâV§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§Ykp›R2O³R+10%§!,§Y*gÂSbUSMOëXlîOck+10%§!0"
+    merc__EDG_HAB_Firearm_Corps:0 "§Y‚„yrüfkpªguQâV§!"
+    
+    merc__EDG_HAB_Hungarian_Black_Army_tt:0 "bìNSýwYÇ–cO§YSYr)RÑž›Q§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§Y­‹Ãu¦^+5%§!,§Y*gÂSbUSMOëXlîOck+10%§!0"
+    merc__EDG_HAB_Hungarian_Black_Army:0 "§YSYr)RÑž›Q§!"
+    
+    merc__EDG_MRK_Mahazan_tt:0 "bìNSýwYÇ–cO§YlšÈT^§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§Ykp›R2O³R+10%§!,§Y*gÂSbUSMOëXlîOck+10%§!0"
+    merc__EDG_MRK_Mahazan:0 "§YlšÈT^§!"
+    
+    
+    merc__EDG_BUL_Serbian_Royal_Guard_tt:0 "bìNSýwYÇ–cO§Y^XSôušN‡v¶RkS–§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ\n­‹Ãu¦^:§G+5%§!\n*gÂSbUSMOëXlîOck:§G+10%§!0"
+    merc__EDG_BUL_Serbian_Royal_Guard:0 "§Y^XSôušN‡v¶RkS–§!"
+        
+merc__EDG_BUL_Romanian_Legion_tt:0 "bìNSýwYÇ–cO§YWlš<SšN›QâV§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ\nNb×SëXlSbûQ:§G-20%§!\neˆXT±‚9:§G-20%§!0"
+merc__EDG_BUL_Romanian_Legion:0 "§YWlš<SšN›QâV§!"
+    
+merc__EDG_French_wallonia_army_tt:0 "bìNSýwYÇ–cO§Yæt†–<SšN¹2–›Q§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ\nF–›QëXl:§G+10%§!\nNb×Skp›R2O³R:§G-10%§!0"
+merc__EDG_French_wallonia_army:0 "§Mæt†–<SšN¹2–›Q§!"
+
+merc__EDG_French_six_army_1:0 "§M^tëX'Yôu„S§!"
+merc__EDG_French_six_army_2:0 "§MÇ–cOekuQ'Yôu„S§!"
+merc__EDG_French_six_army_3:0 "§Mïyr¯e'Yôu„S§!"
+merc__EDG_French_six_army_4:0 "§M‰ísYr¹e5–'Yôu„S§!"
+merc__EDG_French_six_army_5:0 "§Ma'Y)RÇ–cO›Q'Yôu„S§!"
+merc__EDG_French_six_army_6:0 "§M‹s¶R'Yôu„S§!"
+merc__EDG_French_six_army_enable_tt:0 "bìNSýwYÇ–cOåNN§M6§!ÍycOuQâVÿÙ›NcOuQâVåb	g§Y75%§!„v˜bcbÿNåb	g˜Y„vîOck0\n\n-§M^tëX'Yôu„S§\n\n-§MÇ–cOekuQ'Yôu„S§\n\n-§Mïyr¯e'Yôu„S§\n\n-§M‰ísYr¹e5–'Yôu„S§\n\n-§Ma'Y)RÇ–cO›Q'Yôu„S§\n\n-§M‹s¶R'Yôu„S§"
+
+
+merc__EDG_FYM_prince_army_enable_flag_tt:0 "(Wå‹îOckuHegô•ÿbìNSýwYÇ–cO§YNbO·V›Q§!cOuQâVÿå‹cOuQâVåb	g§Y50%§!„v˜bcbÿNåb	gåNNîOckÿ\nF–›QëXl:§G+20%§!\n­‹Ãu¦^:§G+5%§!0"
+merc__EDG_FYM_prince_army:0 "NbO·V›Q"
+
+EDG_flavor_FYM_mission_23_a_flag_tt:0 "(Wå‹îOckuHegô•ÿbìNSýwYÇ–cO§Y?–S¯epQKNPR§!cOuQâVÿå‹cOuQâVåb	g§Y50%§!„v˜bcbÿNåb	gåNNîOckÿ\n²QûQ2O³R:§G+20%§!\n­‹Ãu¦^:§G+5%§!0"
+merc__EDG_FYM_Turkic_army:0 "?–S¯epQKNPR"
+
+merc__EDG_FYM_greek_army_1:0 "eY·VîO¯eKNQR"
+merc__EDG_FYM_greek_army_2:0 "Å–xQZKNþv"
+merc__EDG_FYM_greek_army_3:0 "?–^t¯eKNQR"
+merc__EDG_FYM_greek_army_4:0 "?–âlWKN0q"
+merc__EDG_FYM_greek_army_5:0 "kòƒ¯eXb¯eKN2•"
+
+
+
+#鲁塞尼亚
+    merc_EDG_Kiev_free_company:0 "1W‰R·VÈpDQVO"
+    merc_EDG_Chernigov_free_company:0 "RS<Sb+YÑžpž'Y–"
+    merc_EDG_Sich_free_company:0 "åT(„KQê1uuQâV"
+    merc_EDG_275_free_company:0 "V0Œ¯eÉb+YìrËz›Q"
+    merc_EDG_278_free_company:0 "s^¯eKQâl<hs|ÒR>mâV"
+    merc_EDG_274_free_company:0 "nf¯eÑy+YAmjmw"
+    merc_EDG_280_free_company:0 "úW…R—r‚'Y–"
+    merc_EDG_308_free_company:0 "Šq*ruQâV"
+    merc_EDG_307_free_company:0 "VÉbúWs|SYtQw"
+    merc_EDG_294_free_company:0 "yrôuS0CQ^0uQâV"
+    merc_EDG_1961_free_company:0 "ÉbY RÁ”³"
+    merc_EDG_295_free_company:0 "«ƒ¯eÑyQY¦uuQâV"
+    merc_EDG_281_free_company:0 "âlYÌ‘šNçqÑSªg'Y–"
+    merc_EDG_150_free_company:0 "ÝO R)RšNuQâV"
+    merc_EDG_1756_free_company:0 "V&OKQDQVO"
+    merc_EDG_279_free_company:0 "Åu‰‘šuQâV"
+    merc_EDG_2961_free_company:0 "¢uœ^X<SšNluQâV"
+    merc_EDG_286_free_company:0 "^JºNuQâV"
+    
+    merc_EDG_279_EDG_Bogomili_legion:0 "T†áODQVO"
+    
+    EDG_The_Third_Legion_of_Rosia_tooltip:0 "bìNSýwYÇ–cO§Y,r	N›QâV§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§YF–›QëXl+10%§!,§Y*gÂSbUSMOëXlîOck+10%§!,§Y›Q‹Nb=g+0.25§!0"
+    merc__EDG_The_Third_Legion_of_Rosia:0 "W‰šN,r	N›QâV§Y[yrŠk]§!"
+    
+    merc__EDG_The_Legion_of_Rosia_4_tooltip:0 "bìNSýwYÇ–cO§Y,rÛV›QâV§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§YF–›QëXl+10%§!,§YekuQkp›R+0.25§!,§Y­‹Ãu¦^+5%§!0"
+    merc__EDG_The_Legion_of_Rosia_4:0 "W‰šN,rÛV›QâV§Y[yrŠk]§!"
+
+merc__EDG_Qizilbash_1:0 "§MôTOZSyrœGYyQSôTÀN§!"
+merc__EDG_Qizilbash_2:0 "§MLN¯eTX	TGYyQSôTÀN§!"
+merc__EDG_Qizilbash_3:0 "§M™lÆYœGYyQSôTÀN§!"
+merc__EDG_Qizilbash_4:0 "§MWÆYœGYyQSôTÀN§!"
+merc__EDG_Qizilbash_5:0 "§MTXaSœGYyQSôTÀN§!"
+merc__EDG_Qizilbash_6:0 "§MVySaS¾SGYyQSôTÀN§!"
+merc__EDG_Qizilbash_7:0 "§M?–+Y™lSGYyQSôTÀN§!"
+merc__EDG_Qizilbash_8:0 "§Mz` RGYyQSôTÀN§!"
+merc__EDG_Qizilbash_9:0 "§Mæt(„KQGYyQSôTÀN§!"
+
+#不列颠 ˜
+merc_EDG_233_free_company:0 "·^ƒlSSKb%„"
+merc_EDG_237_free_company:0 "ir%mê1uuQâV"
+merc_EDG_374_free_company:0 "&O¯eyrìrËz%„"
+merc_EDG_4376_free_company:0 "±ƒ¯eyrê»l^kS–"
+merc_EDG_1861_free_company:0 "·VÔk!jƒ›Q"
+merc_EDG_238_free_company:0 "ÃW^XKQ¯ewm2–è–"
+merc_EDG_376_free_company:0 "·^ú‹yr²NkS›Q"
+merc_EDG_248_free_company:0 "Ñ‘îrKNPR"
+merc_EDG_4362_free_company:0 "Ï‚<hpQºNìrËz›QâV"
+merc_EDG_246_free_company:0 "ú‹îh^Ì‘šNê1ul"
+merc_EDG_244_free_company:0 "pQVYá¹2–›Q"
+merc_EDG_372_free_company:0 "èTºNÞ"
+merc_EDG_241_free_company:0 "<hÉbid9h=O5râV"
+merc_EDG_4366_free_company:0 "ZSëXqS0WuQâV"
+merc_EDG_234_free_company:0 "‰’dKQìrËzuQâV"
+merc_EDG_4130_free_company:0 "¢ukˆ²Q•–"
+merc_EDG_4372_free_company:0 "w‡e‚WÁ”›Q"
+merc_EDG_240_free_company:0 "1W¦uðmyøS"
+merc_EDG_235_free_company:0 "NWyr=O÷–DQVO"
+merc_EDG_4120_free_company:0 "úWSãNS'Y–"
+merc_EDG_4118_free_company:0 "ÑyKQÐrør'Y–"
+merc_EDG_4379_free_company:0 "1rSpQSûQuQâV"
+merc_EDG_4361_free_company:0 "ôTÌ‘eYSåb²bw"
+merc_EDG_249_strong_company:0 "Œ‚S‹vˆuQâV"
+merc_EDG_4367_strong_company:0 "kSb‰Nñ‚Ä–"
+merc_EDG_4367_free_company:0 "TÜbwê1uÞ"
+merc_EDG_236_more_company:0 "¯e¾R^X¶RÏe"
+merc_EDG_248_more_company:0 "¯eþVšNyr²NuQ"
+merc_EDG_248_extra_company:0 "1rN!XkS–"
+merc_EDG_235_extra_company:0 "YiOkS–"
+
+#伊比利亚
+merc_EDG_213_free_company:0 "ôT^XW±ê1uuQâV"
+merc_EDG_2988_free_company:0 "ÃW^W¯nAmw"
+merc_EDG_218_free_company:0 "?–jSÉbjguQâV"
+merc_EDG_1747_free_company:0 "aS^X÷–¯ebe‰k–"
+merc_EDG_4788_free_company:0 "nfÉbîh‰šN÷m›QâV"
+merc_EDG_206_free_company:0 " R)R‰šNìrËz›Q"
+merc_EDG_4555_free_company:0 "R—ˆekuQâV"
+merc_EDG_4558_free_company:0 "eY&O^X'Y–"
+merc_EDG_208_free_company:0 "±ƒfã‰>ew"
+merc_EDG_216_free_company:0 "(„ÉbüfaS‰ekuQâV"
+merc_EDG_224_free_company:0 "^Xôu)RšNê1u%„"
+merc_EDG_225_free_company:0 "ÑySYætSûQâV"
+merc_EDG_219_free_company:0 "Xb±ƒYDQVO"
+merc_EDG_2754_free_company:0 "ÉbüfågÄžÑ‘âV"
+merc_EDG_222_free_company:0 "?–S…hÌ‘šNfkÅˆFUO"
+merc_EDG_223_free_company:0 "idSºNÞ"
+merc_EDG_220_free_company:0 "™q·V‘šëXâV"
+merc_EDG_4549_free_company:0 "™l‚„æt²Q•Þ"
+merc_EDG_210_free_company:0 "ôT¯eKQìrËz›Q"
+merc_EDG_217_free_company:0 "êkSuQâV"
+merc_EDG_4789_free_company:0 "WS¹eSKb"
+merc_EDG_4551_free_company:0 "?–ôuÉbSûQ›Q"
+merc_EDG_231_free_company:0 "a„„Yr¾|•›Q"
+merc_EDG_228_free_company:0 "Ébê1u›Q"
+merc_EDG_1851_free_company:0 "Ñyñ‚^ÉbSKb"
+merc_EDG_333_free_company:0 "lšeuaS›Q"
+merc_EDG_207_free_company:0 "?–¯eþVÌ‘šN¯e'Y–"
+merc_EDG_1746_free_company:0 "^Sb¯eTwßv"
+merc_EDG_214_free_company:0 "(„Ébb(„kS–"
+merc_EDG_4557_free_company:0 "aSÉbTX2S·V1WbëX"
+merc_EDG_227_free_company:0 "Ì‘¯e,g2–kS›Q"
+merc_EDG_4787_free_company:0 "idSËR5"
+merc_EDG_230_free_company:0 "wmÎ˜Lˆw"
+merc_EDG_221_free_company:0 "FzS‰šNluQâV"
+
+#意大利:0 ""
+merc_EDG_1933_free_company:0 "ôTÌ‘luQêkS–"
+merc_EDG_123_free_company:0 "aSÉb^Ì‘šN'Y–"
+merc_EDG_121_free_company:0 "±âl)RÎW2–›Q"
+merc_EDG_124_free_company:0 "^JÑ‘îr"
+merc_EDG_126_free_company:0 "lš3wÖNDQVO"
+merc_EDG_114_free_company:0 "Éb‡e³ukS–"
+merc_EDG_105_free_company:0 "ÉbNekuQ'Y–"
+merc_EDG_4731_free_company:0 "Á^Ì‘šNìrËz›Q"
+merc_EDG_101_free_company:0 ")RäSÌ‘šNuQâV"
+merc_EDG_2992_free_company:0 "?–S,g RèTuQ"
+merc_EDG_1862_free_company:0 "KQ÷–«ƒ³uÁ”kS"
+merc_EDG_4728_free_company:0 "^ôušN²Q•›QâV"
+merc_EDG_2977_free_company:0 "gb?e˜RkS–"
+merc_EDG_103_free_company:0 "ýup'Y›QâV"
+merc_EDG_2981_free_company:0 "™„yrVSÉbÇRëX"
+merc_EDG_109_free_company:0 "üfXbæt!jƒ›Q"
+merc_EDG_116_free_company:0 "é`bw'Y–"
+merc_EDG_117_free_company:0 "/•6w³uÞ"
+merc_EDG_115_free_company:0 "Ôk(„^lêkS–"
+merc_EDG_2978_free_company:0 "?–÷–PO‘šuQ›QâV"
+merc_EDG_108_free_company:0 "ñ‚ÇRôuW³uºN"
+merc_EDG_1774_free_company:0 "yr÷–ôu0t¹2–›Q"
+
+#意大利佣兵能力
+merc_EDG_2984_ability_company:0 "ÑyîhNbINÇRâV"
+merc_EDG_1934_ability_company:0 "bSaS<SšN‰ekuQâV"
+merc_EDG_121_ability_company:0 "ÿbâlÌ‘Ñžˆ›QâV"
+merc_EDG_105_ability_company:0 "^S›skpªgKb"
+merc_EDG_113_ability_company:0 "ÃW¯eyrlQPR"
+merc_EDG_4730_ability_company:0 "ÉbNAmjm‘šëX"
+merc_EDG_4731_ability_company:0 "ÍS1Wupº‹w"
+merc_EDG_4732_ability_company:0 "SYr)RÔˆ›QâV"
+merc_EDG_102_ability_company:0 "®vÃW™„yrê1ukS–"
+merc_EDG_4740_ability_company:0 "?–SQS¯e¹2–›Q"
+merc_EDG_4728_ability_company:0 "0Á”‹s Q0›QâV"
+merc_EDG_2979_ability_company:0 "ú‹ætÉbekuQ'Y–"
+merc_EDG_107_ability_company:0 "Ñ‘îrqQŒTýVkS–"
+merc_EDG_4739_ability_company:0 "a'Y)Rê1uQY¦ucOuQâV"
+merc_EDG_111_ability_company:0 "VYu)RQY¦ucOuQâV"
+merc_EDG_4729_ability_company:0 "¹ƒXê1ucOuQâV"
+merc_EDG_2977_ability_company:0 "lQ5rkS–"
+merc_EDG_4727_ability_company:0 "a'Y)RqS0W›QâV"
+
+
+#波兰
+
+merc_EDG_258_free_company:0 "0ŒÉbyQ‘šKb"
+merc_EDG_262_free_company:0 "KQÉbÑy+Yê1ucOuQâV"
+merc_EDG_262_free_company_2:0 "‹vü‘šuQâV"
+merc_EDG_1938_free_company:0 "ôuyQ³u‰ekuQâV"
+merc_EDG_259_free_company:0 "QhY…håeê1u'Y–"
+merc_EDG_259_free_company_2:0 "‹vË²bYe›Q"
+merc_EDG_1859_free_company:0 "wmLNÆYú‹luQâV"
+merc_EDG_4523_free_company:0 "Oú‹VW(ƒæt+YuQâV"
+merc_EDG_260_free_company:0 "bS^—gkpªgKb"
+merc_EDG_263_free_company:0 "Éb‚„ZSSÇRëX"
+merc_EDG_4723_free_company:0 "eYâl±ƒê1ukS–"
+merc_EDG_2960_free_company:0 "°eŒgGY¹2–›Q"
+merc_EDG_4528_free_company:0 "‹vˆ‘šëXâV"
+merc_EDG_258_free_company:0 "0ŒÉbyQkpªguQâV"
+merc_EDG_254_free_company:0 "·Va×VYcuQâV"
+merc_EDG_256_free_company:0 "nfƒl(ƒKQkSbè–"
+
+
+#瑞士德意志
+allow_more_Switzerland_Mercenary_tt_flag:0 "AQ¸‹ôfY„v^tëXcOuQâV"
+
+allow_EDG_Geneva_Contract_Mercenary_Corps_tt:0 "bìNSýwYÇ–cO§Yåe…QætQY¦ucOuQâV§!ÿå‹cOuQâVåb	g§M75%§!„v˜bcbÿNåb	gåNNîOckÿ§Mb×S²QûQ2O³R-20%§!,§M²QûQ2O³R+20%§!,§M²Q­‹Ãu¦^+5%§!"  
+allow_more_Switzerland_Mercenary_tt:0 "bìNSýwYã‰•ôfYegê§Y^tëX§!„vÇ–cOuQ0"  
+EDG_HRE_merc_reform_global_flag:0 "^y#WWlš^ýVÇ–cOuQ9ei—"
+
+merc__EDG_Geneva_Contract_Mercenary_Corps:0 "åe…QætQY¦ucOuQâV"
+
+merc_EDG_4722_free_company:0 "OpQ(ƒ^tëX%„"
+merc_EDG_1869_free_company:0 "Ï‚ÎžNluQâV"
+merc_EDG_4721_free_company:0 "VÌ‘/Xê1ucOuQâV"
+
+allow_all_German_Mercenary_tt_flag:0 "AQ¸‹Ç–cOôfY·Va×VcOuQ"
+merc_EDG_68_free_company:0 "…hf9hÎW^kS–"
+merc_EDG_1868_free_company:0 "eY<h¯e/XINYekS–"
+merc_EDG_1872_free_company:0 "LNSÆYê1u^'Y–"
+merc_EDG_132_free_company:0 "ËeðlSlšKQekuQÞ"
+merc_EDG_4759_free_company:0 "NKQi`ÕnâV"
+merc_EDG_64_free_company:0 "pQ(ƒáwyrkpªgKb"
+merc_EDG_2957_free_company:0 "÷–9h¯e/XìrËzâV"
+merc_EDG_1761_free_company:0 "nfÕlS(ƒLˆ«R/O5rkS–"
+merc_EDG_71_free_company:0 "‰R¯eôTkö”r‚'Y–"
+merc_EDG_77_free_company:0 "wm·V/XÇRëX"
+merc_EDG_4710_free_company:0 "^÷–9h(ƒQY¦uuQâV"
+merc_EDG_65_free_company:0 "Ua<SÑžÄ–îr"
+merc_EDG_67_free_company:0 "Ëu&O/X¡R2R˜R"
+merc_EDG_70_free_company:0 "¯eþV RyrkS–"
+merc_EDG_4712_free_company:0 "·^¯efW(ƒê1ul"
+merc_EDG_1768_free_company:0 ")Ri`(ƒ²Q•›QâV"
+merc_EDG_74_free_company:0 "ôT‰v¹2–›Q"
+merc_EDG_1770_free_company:0 "üfÈT(ƒqS0WuQâV"
+merc_EDG_133_free_company:0 "i`¯e³lF–b–"
+merc_EDG_266_free_company:0 "^Éb<h	^¯OkS–"
+merc_EDG_57_free_company:0 "N&O^tKQìrËzuQâV"
+merc_EDG_1758_free_company:0 "Ilú‹Zê1u›QâV"
+merc_EDG_267_free_company:0 "ÔkSîhqS0WuQâV"
+merc_EDG_78_free_company:0 "ŽàV(ƒ'YINYekS–"
+merc_EDG_1876_free_company:0 "ÕlpQKQygb?e˜RˆRYè–"
+merc_EDG_2995_free_company:0 "âlŽÉb<SšNê1u%„"
+merc_EDG_80_free_company:0 "yrÌ‘SINYe²NuQ"
+merc_EDG_1878_free_company:0 "šNtý^uQâV"
+merc_EDG_44_free_company:0 "Il/XÎW^kS–"
+merc_EDG_53_free_company:0 "T·‹/Xbe‰kâV"
+merc_EDG_45_free_company:0 "TKQqQŒTýV›QâV"
+merc_EDG_4786_free_company:0 "nfÌ‘<h<S(ƒASŒNÅe"
+merc_EDG_51_free_company:0 "œs^ekuQâV"
+merc_EDG_1759_free_company:0 "âl(ƒfW‰ekuQÞ"
+merc_EDG_2969_free_company:0 "ËeÕn<hSKb"
+merc_EDG_85_free_company:0 "Ñy†–ê1u›QâV"
+merc_EDG_56_free_company:0 "eY¯e³u^TKQ„vÕlpQKQºN"
+merc_EDG_86_free_company:0 "f¯eyr'YINYekS–"
+merc_EDG_61_free_company:0 "(„KQîhºN›QâV"
+merc_EDG_62_free_company:0 "±ƒÔk/•ê1uuQâV"
+merc_EDG_58_free_company:0 "‰RÈTSyrÑžpž'Y–"
+merc_EDG_4141_free_company:0 "êyrlšS3uê1u›QâV"
+merc_EDG_82_free_company:0 "Z¯eyrÕl&OASNÝ„r‚Åe"
+merc_EDG_4743_free_company:0 "O››sDQVO"
+merc_EDG_55_free_company:0 "eYS‰v/X¹ƒXkS–"
+merc_EDG_1874_free_company:0 "N±ƒ…hINYe²NuQ"
+merc_EDG_1858_free_company:0 "¯e·VNluQâV"
+merc_EDG_1775_free_company:0 "wƒS¯eðlàVOSŒTè–"
+merc_EDG_4715_free_company:0 "WÕn/X•ªg–"
+
+
+
+
+
+
+
+#法兰西
+merc_EDG_183_free_company:0 "#Ws|GkSìrËz%„"
+merc_EDG_182_free_company:0 "ætbSæt'Y–"
+merc_EDG_178_free_company:0 "‰R9ƒê1u›QâV"
+merc_EDG_188_free_company:0 "…h¯ekpªguQâV"
+merc_EDG_4766_free_company:0 "áQS‰vekuQÞ"
+merc_EDG_167_free_company:0 "ú‹üf•^ekuQ'Y–"
+merc_EDG_184_free_company:0 "#W©‹ZDQVO"
+merc_EDG_89_free_company:0 "ÇRbe®vaS,rºN"
+merc_EDG_4387_free_company:0 "fäS±ƒÆYAmjmw"
+merc_EDG_4696_free_company:0 "ætS¹2–›Q"
+merc_EDG_4719_free_company:0 "(„OOqS0W›QâV"
+merc_EDG_4392_free_company:0 "'k^XSkSbè–"
+merc_EDG_180_free_company:0 "ÕlpQ‰`ür"
+merc_EDG_201_free_company:0 "nm>mÛSw"
+merc_EDG_203_free_company:0 "WS¹e8nûQw"
+merc_EDG_205_free_company:0 "ŒÌ‘2–kSw"
+merc_EDG_196_free_company:0 "þVbSyQT†áOw"
+merc_EDG_2753_free_company:0 "ê1uºNkpªgè–"
+merc_EDG_4389_free_company:0 "þVV·‹•ÛwÞ–"
+merc_EDG_194_free_company:0 "iOÌ‘bS7u5r–Hb"
+merc_EDG_175_free_company:0 "?–lš<SšNKQZQ"
+merc_EDG_4694_free_company:0 "ÌRætÉbNÔˆ"
+merc_EDG_193_free_company:0 "VgÀNTRðlR»yININw"
+merc_EDG_4390_free_company:0 "yrœætluQâV"
+merc_EDG_172_free_company:0 "^RTX<S²Q•âV"
+merc_EDG_169_free_company:0 "?–idS'Y–"
+merc_EDG_199_free_company:0 "eYV…m‰ekuQâV"
+merc_EDG_4697_free_company:0 "ÉblšSÀN‹vˆ›Q"
+merc_EDG_181_free_company:0 "™™ßi'Y–"
+merc_EDG_192_free_company:0 "ÃRn‚,rcOuQâV"
+
+
+EDG_flavorFRA_mission_13_a_flag:0 "ÕlpQ‰¥c³uïQSyrºN"
+
+
+
+#波斯
+merc_EDG_410_free_company:0 "aSÉbO¯eNW¾SèK„"
+merc_EDG_410_free_company_2:0 "LNÖvSèK„"
+merc_EDG_409_free_company:0 "ôT<S·iIN·VèK„"
+merc_EDG_408_free_company:0 "™„TXòƒKQèK„"
+merc_EDG_406_free_company:0 "ôTªR·lš)RKQèK„"
+merc_EDG_2310_free_company:0 "ZS·VÉb<hèK„"
+merc_EDG_4291_free_company:0 "?–ÕlKQèK„"
+merc_EDG_2214_free_company:0 "|TWÊs'Y–"
+merc_EDG_2212_free_company:0 "VySaSêSèK„"
+merc_EDG_4300_free_company:0 "LN&VTXúWœèK„"
+merc_EDG_411_free_company:0 "™llšS·>ôTèK„"
+merc_EDG_4338_free_company:0 "idÏ‚S“^S·VkpªgKb"
+merc_EDG_2215_free_company:0 " RyQ)n“^SGY"
+merc_EDG_2218_free_company:0 "aSÀNïQOèK„"
+merc_EDG_4331_free_company:0 "aSýl&OôuèK„"
+merc_EDG_2219_free_company:0 "ís¾SpQ<hèK„"
+merc_EDG_2223_free_company:0 "Éb÷–¯efW“^S·V"
+merc_EDG_428_free_company:0 "·VÑžpQ“^SGY"
+merc_EDG_2216_free_company:0 "^XÆYWSGYyQSôTÀN"
+merc_EDG_429_free_company_2:0 "O¯eÕlU“^SGY"
+merc_EDG_433_free_company_2:0 "šNyQ·VPŸs|›QâV"
+merc_EDG_4171_free_company_2:0 "?–ôTSäSXbnfdcOuQâV"
+merc_EDG_432_free_company_2:0 "KQSüfšNNböSSd"
+merc_EDG_2209_free_company_2:0 "OÉbÆYèK„"
+merc_EDG_2211_free_company_2:0 "?–¾pQ“^S·VkpªgKb"
+merc_EDG_417_free_company_2:0 "Éb^yŠê1ucOuQâV"
+merc_EDG_416_free_company_2:0 "'YNÌ‘ëX“^SGY"
+merc_EDG_417_free_company_2:0 "Éb^yŠê1ucOuQâV"
+merc_EDG_2207_free_company_2:0 "lšÉbÖvê1ucOuQâV"
+merc_EDG_4293_free_company_2:0 "ÃWSÔkÒR“^S·V›QâV"
+
+EDG_PER_merc_part_2_flag:0 "âl¯eb‰N„vib'Y"
+EDG_PER_merc_part_2_flag_tt:0 "ôfYMOŽN§Yâl¯e§!0W:S„v§McOuQ§!SO—V0Rã‰•0"
+
+#安纳托利亚
+merc_EDG_418_free_company:0 "ôTfVjgSèK„"
+merc_EDG_4295_free_company:0 "ÈTQhïQO+YìrËz›Q"
+merc_EDG_326_free_company:0 "‰RaSÉbQh>KQO›QâV"
+merc_EDG_318_free_company:0 "ëX¦ž±s|)RyrcOuQâV"
+merc_EDG_2297_free_company:0 "(„œWlcOuQâV"
+merc_EDG_331_free_company:0 "?–+Y™lSèK„"
+merc_EDG_322_free_company:0 "<hSs|lbèK„"
+merc_EDG_317_free_company:0 "<S‰šNQh>KQ"
+merc_EDG_325_free_company:0 "yŠ¾SèK„"
+merc_EDG_324_free_company:0 "aSÉbüfèK„"
+merc_EDG_1846_free_company:0 "?–lš‰šNèK„"
+merc_EDG_327_free_company:0 "Éblš^èK„"
+merc_EDG_4308_free_company:0 "ãN<SyQ)RÒRO"
+merc_EDG_4310_free_company:0 "jgÒRaSêSèK„"
+
+
+
+merc__EDG_FYM_Muslim_army_1:0 "FzôTÉb%m"
+merc__EDG_FYM_dhi_army_1:0 "ÕlSƒ"
+merc__EDG_LOT_army_1:0 " R¯eÑy…m¾|•kpªguQâV"
+EDG_mission_LOT_2_8_flag_tt:0 "bìNSýwYÇ–cO§Y R¯eÑy…m¾|•kpªguQâV§!cOuQâVÿå‹cOuQâV„vÇ–cO±‚9:NnfcOuQâV„v§G50%§!ÿNåb	gåNNîOckÿ\n-§MekuQúWNxkp›R§!:§G+0.25§!\n-§M­‹Ãu¦^§!:§G+10%§!"

@@ -1,0 +1,152 @@
+southern_group = {
+    graphical_culture = westerngfx
+    EDG_gascone = {
+        primary = OCC
+        country = {
+            free_policy = 1
+        }
+        province = {
+            local_defensiveness = 0.1
+			local_development_cost = -0.1
+			local_governing_cost = -0.1
+        }
+        dynasty_names = {
+            "�TS"  # de Bar
+            "?�S=OTX"  # d'Albert
+            "�W�ew^�R"  # d'Escoubleau
+            "���uS"  # de Neufville
+            "aS�eyrW"  # di Castello
+            "aSm�e"  # 
+            "?�)R�eTX"  # 
+            "O<h<S�e"  # 
+            "QhTN" #
+            "�R��N" #
+            "�R̑�l,r" #
+            "1gi�iO" #
+        }
+        male_names = {
+            "Vg0t�t"  # Fran��ois
+            "��"  # Jean
+            "?��VS"  # Artur
+            "�v�WS"  # Pierre
+            "�N)R"  # Henri
+            "YS"  # Charles
+            "	T6w"  # Gilles
+            "t�g"  # Richard
+            "�yf�^"  # Corentin
+            "9N<SS"  # Deniel
+            "�bNbS"
+            "��	TeY"
+            "l�KQ"
+            "m&OPO"
+            "��f�uY"
+            "'k�w�u"
+            "'k��<S�u"
+            "'k̑�N"
+            "'kpQ(�"
+            "�RyQaS"
+            "bSaS"
+            "ObS"
+            "m�R"
+        }
+        female_names = {
+            "�WSY"  # Aedoc
+            "��eu"  # Aeluit
+            "�W�b"  # Aelwyd
+            "�R�Y"  # Agnes
+            "?��bZ"  # Alana
+            "1rKNN"  # Alis
+            "�RZ"  # Anne
+            "KQ�R��N"  # Claudine
+            "O����b"  # 
+            "��3tZ"
+            "��s|)R�N"
+        }
+    }
+    EDG_languedoc = {
+        primary = OCC
+        country = {
+            free_policy = 1
+        }
+        province = {
+            local_defensiveness = 0.1
+			local_development_cost = -0.1
+			local_governing_cost = -0.1
+        }
+    }
+    EDG_province = {
+        primary = OCC
+        country = {
+            free_policy = 1
+        }
+        province = {
+            local_defensiveness = 0.1
+			local_development_cost = -0.1
+			local_governing_cost = -0.1
+        }
+    }
+    EDG_lemonsin = {
+        primary = OCC
+        country = {
+            free_policy = 1
+        }
+        province = {
+            local_defensiveness = 0.1
+			local_development_cost = -0.1
+			local_governing_cost = -0.1
+        }
+    }
+
+    EDG_auvernhat = {
+        primary = OCC
+        country = {
+            free_policy = 1
+        }
+        province = {
+            local_defensiveness = 0.1
+			local_development_cost = -0.1
+			local_governing_cost = -0.1
+        }
+    }
+    EDG_alps = {
+        primary = OCC
+        country = {
+            free_policy = 1
+        }
+        province = {
+            local_defensiveness = 0.1
+			local_development_cost = -0.1
+			local_governing_cost = -0.1
+        }
+    }
+    EDG_corsica_occ = {
+        primary = OCC
+    }
+    EDG_apls_occ = {
+        primary = OCC
+    }
+    EDG_basque_occ = {
+        primary = BSK
+    }
+    EDG_katalan_occ = {
+        primary = OCC
+    }
+    EDG_valencia_occ = {
+        primary = OCC
+    }
+    EDG_aragon_occ = {
+        primary = OCC
+    }
+    EDG_lonbardy_occ = {
+        primary = OCC
+    }
+    EDG_italie_occ = {
+        primary = OCC
+    }
+    EDG_naples_occ = {
+        primary = OCC
+    }
+    EDG_sisily_occ = {
+        primary = OCC
+    }
+}

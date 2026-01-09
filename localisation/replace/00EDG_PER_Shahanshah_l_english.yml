@@ -1,0 +1,234 @@
+﻿l_english:
+EDG_PER_Shahanshah_off_button:0 "sQí•§Y™lWl™l?–§!Lub—"
+EDG_PER_Shahanshah_on_button:0 "SbV§Y™lWl™l?–§!Lub—"
+EDG_PER_Shahanshah_on_button_tt:0 "sQí•§Y™lWl™l?–§!Lub—"
+EDG_PER_Shahanshah_off_button_tt:0 "SbV§Y™lWl™l?–§!Lub—"
+
+EDG_PER_Shahanshah_GUI_big_shield_tooltip:0 "[EDG_PER_Shahanshah_target.GetNameEDG_PER_Shahanshah_GUI_big_shield_tooltip]"
+GetNameEDG_PER_Shahanshah_GUI_big_shield_tooltip_self:0 "§Y[EDG_PER_Shahanshah_target.Monarch.GetName]§!/f§Y™lWl™l?–§!"
+GetNameEDG_PER_Shahanshah_GUI_big_shield_tooltip_regency:0 "§Y[EDG_PER_Shahanshah_target.Monarch.GetName]§!/f§Y™l?–Dd?e§!"
+
+EDG_PER_war_decision_restore_PER_Shahanshah_target_title:0 "Í‘°e R‹§Y™lWl™l?–§!SOû|"
+EDG_PER_war_decision_restore_PER_Shahanshah_target_desc:0 "™lWl™l?–ŸRýwOàV:Nû‹chIrÍdjOˆm1Yÿ÷‹(Wû‹chT¹pûQ³Q®‹åNÍ‘°e R‹0"
+
+EDG_PER_Shahanshah_authority_var:0 "§YïQlbupIQ§!"
+EDG_PER_Shahanshah_authority_bg_tt:0 "SVMR„v§YïQlbupIQ§!:N§Y[EDG_PER_Shahanshah_target.EDG_PER_Shahanshah_authority_var.GetValue]§!"
+EDG_PER_Shahanshah_authority_title_bg:0 "ïQlbupIQ"
+EDG_PER_Shahanshah_authority_bg:0 "[EDG_PER_Shahanshah_target.EDG_PER_Shahanshah_authority_var.GetValue]"
+EDG_PER_Shahanshah_authority_bg_tt:0 "[EDG_PER_Shahanshah_target.EDG_PER_Shahanshah_authority_var.GetValue]"
+EDG_PER_Shahanshah_trigger_tt:0 "§R/f§!§Y™lWl™l?–§!"
+EDG_PER_Shahanshah_target:0 "§Y™lWl™l?–§!"
+
+EDG_PER_Shahanshah_decree_enable_trigger_tt:0 "/f§Y™lWl™l?–§!ÿ§M10§!t^…Q*g˜^ÇýVfNbåb	g§M25§!¹pâl¯eqVÍT›R"
+EDG_PER_Shahanshah_the_tag_modifier:0 "/f™lWl™l?–"
+NOT_EDG_PER_Shahanshah_trigger_tt:0 "N/f§Y™lWl™l?–§!"
+
+EDG_PER_Shahanshah_the_reform_has_competed_trigger_tt:0 "§Gå‹9ei—òTÏuŒRb§!  Nb	g^SŽN§YOg§!‡eSÄu„výV¶RS«ˆAQ¸‹§YqQ«N§!9ei—bœg0"
+
+EDG_PER_Shahanshah_1_reform_title_bg:0 "?e»l9ei—"
+EDG_PER_Shahanshah_2_reform_title_bg:0 "ÏuNm9ei—"
+EDG_PER_Shahanshah_3_reform_title_bg:0 "›Q‹N9ei—"
+
+# 安抚诸部族
+# 削弱地地主特权
+# 波斯语宫廷
+# 伊朗文艺复兴
+# 改革行政系统
+# 宪政主义
+
+EDG_PER_Shahanshah_1_1_reform_no_tt:0 "£no£‰Ršbø‹èÏe"
+EDG_PER_Shahanshah_1_2_reform_no_tt:0 "£no£JR1V0W0WINyrCg"
+EDG_PER_Shahanshah_1_3_reform_no_tt:0 "£no£âl¯eí‹«R÷^"
+EDG_PER_Shahanshah_1_4_reform_no_tt:0 "£no£Og‡ez‚YtQ"
+EDG_PER_Shahanshah_1_5_reform_no_tt:0 "£no£9ei—Lˆ?eû|ßu"
+EDG_PER_Shahanshah_1_6_reform_no_tt:0 "£no£ªR?eININ"
+
+EDG_PER_Shahanshah_1_1_reform_yes_tt:0 "£yes£‰Ršbø‹èÏe"
+EDG_PER_Shahanshah_1_2_reform_yes_tt:0 "£yes£JR1V0W0WINyrCg"
+EDG_PER_Shahanshah_1_3_reform_yes_tt:0 "£yes£âl¯eí‹«R÷^"
+EDG_PER_Shahanshah_1_4_reform_yes_tt:0 "£yes£Og‡ez‚YtQ"
+EDG_PER_Shahanshah_1_5_reform_yes_tt:0 "£yes£9ei—Lˆ?eû|ßu"
+EDG_PER_Shahanshah_1_6_reform_yes_tt:0 "£yes£ªR?eININ"
+
+EDG_PER_Shahanshah_1_1_reform_global_flag:0 "0?e»l9ei—0‰Ršbø‹èÏe"
+EDG_PER_Shahanshah_1_2_reform_global_flag:0 "0?e»l9ei—0JR1V0W0WINyrCg"
+EDG_PER_Shahanshah_1_3_reform_global_flag:0 "0?e»l9ei—0âl¯eí‹«R÷^"
+EDG_PER_Shahanshah_1_4_reform_global_flag:0 "0?e»l9ei—0Og‡ez‚YtQ"
+EDG_PER_Shahanshah_1_5_reform_global_flag:0 "0?e»l9ei—09ei—Lˆ?eû|ßu"
+EDG_PER_Shahanshah_1_6_reform_global_flag:0 "0?e»l9ei—0ªR?eININ"
+
+# 建设山脉道路
+# 开发伊朗绿洲
+# 收回伊克塔
+# 扩大王室领地
+# 阿拔斯税制改革
+# 资本主义经济
+
+EDG_PER_Shahanshah_2_1_reform_no_tt:0 "£no£ú^¾‹qS	Sï"
+EDG_PER_Shahanshah_2_2_reform_no_tt:0 "£no£VÑSOgÿu2m"
+EDG_PER_Shahanshah_2_3_reform_no_tt:0 "£no£6eÞVOKQTX"
+EDG_PER_Shahanshah_2_4_reform_no_tt:0 "£no£ib'Y‹s²R†˜0W"
+EDG_PER_Shahanshah_2_5_reform_no_tt:0 "£no£?–Ôb¯ez6R9ei—"
+EDG_PER_Shahanshah_2_6_reform_no_tt:0 "£no£D,gININÏuNm"
+
+EDG_PER_Shahanshah_2_1_reform_yes_tt:0 "£yes£ú^¾‹qS	Sï"
+EDG_PER_Shahanshah_2_2_reform_yes_tt:0 "£yes£VÑSOgÿu2m"
+EDG_PER_Shahanshah_2_3_reform_yes_tt:0 "£yes£6eÞVOKQTX"
+EDG_PER_Shahanshah_2_4_reform_yes_tt:0 "£yes£ib'Y‹s²R†˜0W"
+EDG_PER_Shahanshah_2_5_reform_yes_tt:0 "£yes£?–Ôb¯ez6R9ei—"
+EDG_PER_Shahanshah_2_6_reform_yes_tt:0 "£yes£D,gININÏuNm"
+
+EDG_PER_Shahanshah_2_1_reform_global_flag:0 "0ÏuNm9ei—0ú^¾‹qS	Sï"
+EDG_PER_Shahanshah_2_2_reform_global_flag:0 "0ÏuNm9ei—0VÑSOgÿu2m"
+EDG_PER_Shahanshah_2_3_reform_global_flag:0 "0ÏuNm9ei—06eÞVOKQTX"
+EDG_PER_Shahanshah_2_4_reform_global_flag:0 "0ÏuNm9ei—0ib'Y‹s²R†˜0W"
+EDG_PER_Shahanshah_2_5_reform_global_flag:0 "0ÏuNm9ei—0?–Ôb¯ez6R9ei—"
+EDG_PER_Shahanshah_2_6_reform_global_flag:0 "0ÏuNm9ei—0D,gININÏuNm"
+
+
+# 控制奇兹尔巴什
+# 笼络部落武装
+# 削弱红头军特权
+# 阿拔斯军事改革
+# 纳迪尔·沙改革
+# 现代化军事体系
+
+EDG_PER_Shahanshah_3_1_reform_no_tt:0 "£no£µc6RGYyQSôTÀN"
+EDG_PER_Shahanshah_3_2_reform_no_tt:0 "£no£<rÜuèK„fkÅˆ"
+EDG_PER_Shahanshah_3_3_reform_no_tt:0 "£no£JR1V¢u4Y›QyrCg"
+EDG_PER_Shahanshah_3_4_reform_no_tt:0 "£no£?–Ôb¯e›Q‹N9ei—"
+EDG_PER_Shahanshah_3_5_reform_no_tt:0 "£no£³uêS·™l9ei—"
+EDG_PER_Shahanshah_3_6_reform_no_tt:0 "£no£°sãNS›Q‹NSOû|"
+
+EDG_PER_Shahanshah_3_1_reform_yes_tt:0 "£yes£µc6RGYyQSôTÀN"
+EDG_PER_Shahanshah_3_2_reform_yes_tt:0 "£yes£<rÜuèK„fkÅˆ"
+EDG_PER_Shahanshah_3_3_reform_yes_tt:0 "£yes£JR1V¢u4Y›QyrCg"
+EDG_PER_Shahanshah_3_4_reform_yes_tt:0 "£yes£?–Ôb¯e›Q‹N9ei—"
+EDG_PER_Shahanshah_3_5_reform_yes_tt:0 "£yes£³uêS·™l9ei—"
+EDG_PER_Shahanshah_3_6_reform_yes_tt:0 "£yes£°sãNS›Q‹NSOû|"
+
+EDG_PER_Shahanshah_3_1_reform_global_flag:0 "0ÏuNm9ei—0µc6RGYyQSôTÀN"
+EDG_PER_Shahanshah_3_2_reform_global_flag:0 "0ÏuNm9ei—0<rÜuèK„fkÅˆ"
+EDG_PER_Shahanshah_3_3_reform_global_flag:0 "0ÏuNm9ei—0JR1V¢u4Y›QyrCg"
+EDG_PER_Shahanshah_3_4_reform_global_flag:0 "0ÏuNm9ei—0?–Ôb¯e›Q‹N9ei—"
+EDG_PER_Shahanshah_3_5_reform_global_flag:0 "0ÏuNm9ei—0³uêS·™l9ei—"
+EDG_PER_Shahanshah_3_6_reform_global_flag:0 "0ÏuNm9ei—0°sãNS›Q‹NSOû|"
+
+EDG_PER_Shahanshah_decree_in_10_years_tt:0 "™lWl™l?–Ïk§M10t^§!ïSåNMQ9˜^N/k§Y0™l?–ýVfN0§!\nå‚(W§M10t^§!t^òTÏu˜^ÇýVfNÿ±HNSˆmw§M25§!¹p§Yâl¯eqVÍT›R§!\n·ƒ—V§M10§!¹p§YïQlbupIQ§!0"
+EDG_PER_Shahanshah_decree_in_10_years_tt_1:0 "1uŽNbìN(W§M10t^§!…Q˜^Ç§Y0™l?–ýVfN0§!ÿbìNS˜Yˆmw§M25§!¹p§Yâl¯eqVÍT›R§!åN˜^ýVfN0\n·ƒ—V§M10§!¹p§YïQlbupIQ§!0"
+EDG_PER_Shahanshah_decree_in_10_years_tt_2:0 "1uŽNbìN(W§M10t^§!…Q*g˜^Ç§Y0™l?–ýVfN0§!ÿbìNSïSåNMQ9˜^ýVfN0\n·ƒ—V§M10§!¹p§YïQlbupIQ§!0"
+
+
+EDG_PER_Shahanshah_decree_button_1_tt:0 "               §b^©Râl¯e×‹ºN§!"
+EDG_PER_Shahanshah_decree_button_2_tt:0 "               §b°d‹sgòSfN§!"
+EDG_PER_Shahanshah_decree_button_3_tt:0 "               §b(„^jSGYpQ‹s§!"
+EDG_PER_Shahanshah_decree_button_4_tt:0 "               §b^yS#WÔˆ0WMO§!"
+EDG_PER_Shahanshah_decree_button_5_tt:0 "               §bÐcØšLˆwKz§!"
+EDG_PER_Shahanshah_decree_button_6_tt:0 "               §béTúVýVYe0WMO§!"
+EDG_PER_Shahanshah_decree_button_7_tt:0 "               §bËeLˆ—RYeËR¹R§!"
+EDG_PER_Shahanshah_decree_button_8_tt:0 "               §b¨cLˆz6R9ei—§!"
+EDG_PER_Shahanshah_decree_button_9_tt:0 "               §bib'YùRY8f§!"
+EDG_PER_Shahanshah_decree_button_10_tt:0 "               §b•bDýV…QúWú^§!"
+EDG_PER_Shahanshah_decree_button_11_tt:0 "               §bIué…^S‹slQ§!"
+EDG_PER_Shahanshah_decree_button_12_tt:0 "               §b¨cLˆ‡ez‚YtQ§!"
+EDG_PER_Shahanshah_decree_button_13_tt:0 "               §bib'Y‹s²R†˜0W§!"
+
+EDG_PER_Shahanshah_decree_1_tt:0 "0™l?–ýVfN0§Y^©Râl¯e×‹ºN§!"
+EDG_PER_Shahanshah_decree_2_tt:0 "0™l?–ýVfN0§Y°d‹sgòSfN§!"
+EDG_PER_Shahanshah_decree_3_tt:0 "0™l?–ýVfN0§Y(„^jSGYpQ‹s§!"
+EDG_PER_Shahanshah_decree_4_tt:0 "0™l?–ýVfN0§Y^yS#WÔˆ0WMO§!"
+EDG_PER_Shahanshah_decree_5_tt:0 "0™l?–ýVfN0§YÐcØšLˆwKz§!"
+EDG_PER_Shahanshah_decree_6_tt:0 "0™l?–ýVfN0§YéTúVýVYe0WMO§!"
+EDG_PER_Shahanshah_decree_7_tt:0 "0™l?–ýVfN0§YËeLˆ—RYeËR¹R§!"
+EDG_PER_Shahanshah_decree_8_tt:0 "0™l?–ýVfN0§Y¨cLˆz6R9ei—§!"
+EDG_PER_Shahanshah_decree_9_tt:0 "0™l?–ýVfN0§Yib'YùRY8f§!"
+EDG_PER_Shahanshah_decree_10_tt:0 "0™l?–ýVfN0§Y•bDýV…QúWú^§!"
+EDG_PER_Shahanshah_decree_11_tt:0 "0™l?–ýVfN0§YIué…^S‹slQ§!"
+EDG_PER_Shahanshah_decree_12_tt:0 "0™l?–ýVfN0§Y¨cLˆ‡ez‚YtQ§!"
+EDG_PER_Shahanshah_decree_13_tt:0 "0™l?–ýVfN0§Yib'Y‹s²R†˜0W§!"
+
+EDG_PER_Shahanshah_decree_in_10_years_modifier:0 "ASt^…Q˜^Ç0™l?–ýVfN0"
+EDG_PER_Shahanshah_decree_button_1_modifier:0 "0™l?–ýVfN0^©Râl¯e×‹ºN"
+EDG_PER_Shahanshah_decree_button_2_modifier:0 "0™l?–ýVfN0°d‹sgòSfN"
+EDG_PER_Shahanshah_decree_button_3_modifier:0 "0™l?–ýVfN0(„^jSGYpQ‹s"
+EDG_PER_Shahanshah_decree_button_4_modifier:0 "0™l?–ýVfN0^yS#WÔˆ0WMO"
+EDG_PER_Shahanshah_decree_button_5_modifier:0 "0™l?–ýVfN0ÐcØšLˆwKz"
+EDG_PER_Shahanshah_decree_button_6_modifier:0 "0™l?–ýVfN0éTúVýVYe0WMO"
+EDG_PER_Shahanshah_decree_button_7_modifier:0 "0™l?–ýVfN0ËeLˆ—RYeËR¹R"
+EDG_PER_Shahanshah_decree_button_8_modifier:0 "0™l?–ýVfN0¨cLˆz6R9ei—"
+EDG_PER_Shahanshah_decree_button_9_modifier:0 "0™l?–ýVfN0ib'YùRY8f"
+EDG_PER_Shahanshah_decree_button_10_modifier:0 "0™l?–ýVfN0•bDýV…QúWú^"
+EDG_PER_Shahanshah_decree_button_11_modifier:0 "0™l?–ýVfN0IuèK„‹slQ"
+EDG_PER_Shahanshah_decree_button_12_modifier:0 "0™l?–ýVfN0¨cLˆ‡ez‚YtQ"
+EDG_PER_Shahanshah_decree_button_13_modifier:0 "0™l?–ýVfN0ib'Y‹s²R†˜0W"
+EDG_PER_Shahanshah_1_1_reform_modifier:0 "0?e»l9ei—0‰Ršbø‹èÏe"
+EDG_PER_Shahanshah_1_2_reform_modifier:0 "0?e»l9ei—0JR1V0W0WINyrCg"
+EDG_PER_Shahanshah_1_3_reform_modifier:0 "0?e»l9ei—0âl¯eí‹«R÷^"
+EDG_PER_Shahanshah_1_4_reform_modifier:0 "0?e»l9ei—0Og‡ez‚YtQ"
+EDG_PER_Shahanshah_1_5_reform_modifier:0 "0?e»l9ei—09ei—Lˆ?eû|ßu"
+EDG_PER_Shahanshah_1_6_reform_modifier:0 "0?e»l9ei—0ªR?eININ"
+EDG_PER_Shahanshah_2_1_reform_modifier:0 "0ÏuNm9ei—0ú^¾‹qS	Sï"
+EDG_PER_Shahanshah_2_2_reform_modifier:0 "0ÏuNm9ei—0VÑSOgÿu2m"
+EDG_PER_Shahanshah_2_3_reform_modifier:0 "0ÏuNm9ei—06eÞVOKQTX"
+EDG_PER_Shahanshah_2_4_reform_modifier:0 "0ÏuNm9ei—0ib'Y‹s²R†˜0W"
+EDG_PER_Shahanshah_2_5_reform_modifier:0 "0ÏuNm9ei—0?–Ôb¯ez6R9ei—"
+EDG_PER_Shahanshah_2_6_reform_modifier:0 "0ÏuNm9ei—0D,gININÏuNm"
+EDG_PER_Shahanshah_3_1_reform_modifier:0 "0›Q‹N9ei—0µc6RGYyQSôTÀN"
+EDG_PER_Shahanshah_3_2_reform_modifier:0 "0›Q‹N9ei—0<rÜuèK„fkÅˆ"
+EDG_PER_Shahanshah_3_3_reform_modifier:0 "0›Q‹N9ei—0JR1V¢u4Y›QyrCg"
+EDG_PER_Shahanshah_3_4_reform_modifier:0 "0›Q‹N9ei—0?–Ôb¯e›Q‹N9ei—"
+EDG_PER_Shahanshah_3_5_reform_modifier:0 "0›Q‹N9ei—0³uêS·™l9ei—"
+EDG_PER_Shahanshah_3_6_reform_modifier:0 "0›Q‹N9ei—0°sãNS›Q‹NSOû|"
+
+EDG_PER_Shahanshah_2_1_reform_modifier_province_TT:0 "bìN»lN„vNb	g§YOg§!‡eSÄu„v0WbV:N§YqS	§!ŒT§YNu–§!„vwýNÿSO·ƒ—V‚YNîOckÿ"
+EDG_PER_Shahanshah_2_2_reform_modifier_province_TT:0 "bìN»lN„vNb	g§YOg§!‡eSÄu„v0WbV:N§Y™l.o§!ŒT§Y¿lwm™l.o§!„vwýNÿSO·ƒ—V‚YNîOckÿ"
+EDG_PER_Shahanshah_2_1_reform_modifier_province:0 "VÑSOgqS0W"
+EDG_PER_Shahanshah_2_2_reform_modifier_province:0 "VÑSOgÿu2m"
+
+EDG_PER_Shahanshah_event_1:0 "O¯e›sêN„vTw"
+EDG_PER_Shahanshah_event_2:0 "Bw¯eXb)R>m„v÷1Y"
+EDG_PER_Shahanshah_event_3:0 "#Wkp„qmp"
+EDG_PER_Shahanshah_event_4:0 "z¥S²Qz"
+EDG_PER_Shahanshah_event_5:0 "Og-8ngreQµO"
+EDG_PER_Shahanshah_event_6:0 "?–Ébôu>m"
+EDG_PER_Shahanshah_event_7:0 "Og—RYeßuN"
+EDG_PER_Shahanshah_event_8:0 "Og‡ez‚YtQ"
+EDG_PER_Shahanshah_event_10:0 "#WkpÍ‘Ãq"
+
+EDG_flavor_PER_war_10_a_global_flag:0 "Bw¯eXb)R>m„v÷1Y"
+EDG_flavor_PER_war_8_a_global_flag:0 "#Wkp„qmp"
+EDG_flavor_Alawite_1_global_flag:0 "?–Ébôu>mòTÏuúQ°s"
+EDG_flavor_PER_war_17_global_flag:0 "Og-8ngreQµO"
+EDG_Mission_PER_1_11_global_flag:0 "Og‡ez‚YtQ"
+EDG_PER_WAR_END_global_flag:0 "Og—RYeßuN"
+EDG_flavor_PER_war_18_global_flag:0 "z¥S²Qz"
+mission_EDGERSmission_237_1_1_global_flag:0 "#WkpÍ‘Ãq"
+
+EDG_PER_Shahanshah_event_1_flag_tt:0 "OgÍ‘'Y‹NöN - §YO¯e›sêN„vTw§!òTæ‰ÑSÿøvsQ‹NöNÄuSO«ˆ/T(u0"
+EDG_PER_Shahanshah_event_2_flag_tt:0 "OgÍ‘'Y‹NöN - §YBw¯eXb)R>m„v÷1Y§!òTæ‰ÑSÿøvsQ‹NöNÄuSO«ˆ/T(u0"
+EDG_PER_Shahanshah_event_3_flag_tt:0 "OgÍ‘'Y‹NöN - §Y#Wkp„qmp§!òTæ‰ÑSÿøvsQ‹NöNÄuSO«ˆ/T(u0"
+EDG_PER_Shahanshah_event_4_flag_tt:0 "OgÍ‘'Y‹NöN - §Yz¥S²Qz§!òTæ‰ÑSÿøvsQ‹NöNÄuSO«ˆ/T(u0"
+EDG_PER_Shahanshah_event_5_flag_tt:0 "OgÍ‘'Y‹NöN - §Y8ngreQµO§!òTæ‰ÑSÿøvsQ‹NöNÄuSO«ˆ/T(u0"
+EDG_PER_Shahanshah_event_6_flag_tt:0 "OgÍ‘'Y‹NöN - §Y?–Ébôu>m§!òTæ‰ÑSÿøvsQ‹NöNÄuSO«ˆ/T(u0"
+EDG_PER_Shahanshah_event_7_flag_tt:0 "OgÍ‘'Y‹NöN - §YOg—RYeßuN§!òTæ‰ÑSÿøvsQ‹NöNÄuSO«ˆ/T(u0"
+EDG_PER_Shahanshah_event_8_flag_tt:0 "OgÍ‘'Y‹NöN - §YOg‡ez‚YtQ§!òTæ‰ÑSÿøvsQ‹NöNÄuSO«ˆ/T(u0"
+
+EDG_PER_Shahanshah_event_1_tt:0 "O¯e›sêN„vTw"
+EDG_PER_Shahanshah_event_2_tt:0 "Bw¯eXb)R>m„v÷1Y"
+EDG_PER_Shahanshah_event_3_tt:0 "#Wkp„qmp"
+EDG_PER_Shahanshah_event_4_tt:0 "z¥S²Qz"
+EDG_PER_Shahanshah_event_5_tt:0 "Og-8ngreQµO"
+EDG_PER_Shahanshah_event_6_tt:0 "?–Ébôu>m"
+EDG_PER_Shahanshah_event_7_tt:0 "Og—RYeßuN"
+EDG_PER_Shahanshah_event_8_tt:0 "Og‡ez‚YtQ"
+EDG_PER_Shahanshah_event_10_tt:0 "#WkpÍ‘Ãq"
+
+EDG_PER_Shahanshah_event_1_tooltip:0 "å‹§YOgÍ‘'Y‹NöN§!ïSýwµNu‚YNHeœgÿ\n\n-§Y(„Õlôu§!‹sgSOV›Qzw0\n-§YÀNöS>m§!.OYe-NÃVïSýwSOnxËz0\n-VïzVYeßu»lw»lN„v§YÀNöS>m§!wýNïSýwSOµNu¨Raƒ0"
+EDG_PER_Shahanshah_event_2_tooltip:0 "å‹§YOgÍ‘'Y‹NöN§!ïSýwµNu‚YNHeœgÿ\n\n-N§YOg§!‡eSÄuýV¶R¥cäX„výV¶RÿS	g:gO¥c6e§MofYe§!Am¡Nw0"
+EDG_PER_Shahanshah_event_3_tooltip:0 "å‹§YOgÍ‘'Y‹NöN§!ïSýwµNu‚YNHeœgÿ\n\n-N§YOg§!‡eSÄuýV¶R¥cäX„výV¶RÿS	g:gO¥c6e§MFyYe§!Am¡Nw0"
+EDG_PER_Shahanshah_event_4_tooltip:0 "å‹§YOgÍ‘'Y‹NöN§!ïSýwµNu‚YNHeœgÿ\n\n-§Y™lWl™l?–§!ŒTNvQùR—b„v§Mz¥S§!‡eSýV¶RSO·ƒ—V˜YîOck0\n-§Y™lWl™l?–§!S	g:gOT'k2m§MúWcwYe§!ýV¶Rú^ËzËS‹YsQû|0\n-§YOg§!‡eSÄuýV¶RS	g:gO·ƒ—VNyb§M6w<SRÌ‘§!è–0"
+EDG_PER_Shahanshah_event_5_tooltip:0 "å‹§YOgÍ‘'Y‹NöN§!ïSýwµNu‚YNHeœgÿ\n\n-§Y8ngr§!eQµOwSO·ƒ—V˜YîOck0\n-§Y8ngr§!ýV¶RS·ƒ—Vˆ”ùR§YOg§!‡eSÄuýV¶R„v±RbPãS0"
+EDG_PER_Shahanshah_event_6_tooltip:0 "å‹§YOgÍ‘'Y‹NöN§!ïSýwµNu‚YNHeœgÿ\n\n-§Y?–Ébôu>m§!ïSýwO(WOg0W:S.O­d0\n-§Y™lWl™l?–§!S	g:gOã‰•N?–Ébôu>mTjO„vyrCg0"
+EDG_PER_Shahanshah_event_7_tooltip:0 "å‹§YOgÍ‘'Y‹NöN§!ïSýwµNu‚YNHeœgÿ\n\n-§Yâl¯e‰N8—b‰N§!„v±Rbt1uS«ˆy(u0\n-§Y—RYeßuNw§!S·ƒ—V˜YîOck0"
+EDG_PER_Shahanshah_event_8_tooltip:0 "å‹§YOgÍ‘'Y‹NöN§!ïSýwµNu‚YNHeœgÿ\n\n-§Yâl¯e§!0W:SwýN„vÑSUS¦^S—V0RÐcGS0\n-§YOg§!‡eSÄuwýNSïSýw·ƒ—VAucƒ0\n-§YOg§!‡eSÄuýV¶RSôfïSýw·ƒ—VÏuNmN¶RŒ˜î•0"
+EDG_PER_Shahanshah_event_10_tooltip:0 "å‹§YOgÍ‘'Y‹NöN§!ïSýwµNu‚YNHeœg:\n\n-bìN»lN–:gNáOðNFyYeÿN—RYeÄu:N§YúWcw§!N§YFz¯e—g§!„vwýNSæ‰ÑSyršR‹NöN0\n-bìNSýwY§Y˜Y§!/T(u5*N#W0W\n-SVbìNTv^áOðN§YúWcw—R§!YeÄuŒT§YFz¯e—g§!—RYeÄu„výV¶RSO·ƒ—V2¹pïQlbupIQ0\n-áOðNFyYe„výV¶RSôfïSýw·ƒ—V§Y^yfR¶R§!N§Y¡R¯‹˜R§!0\n§P#Wkp§!òTÏuÍ‘Ãqÿ§Ywt§!SM–4NºNô•0"

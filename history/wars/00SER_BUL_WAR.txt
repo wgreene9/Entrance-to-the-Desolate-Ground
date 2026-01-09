@@ -1,0 +1,10 @@
+name = "ÍS—b^XSôušN´f?e"
+war_goal = {
+  type = superiority_punitive
+  casus_belli = cb_super_badboy
+}
+1443.12.1 = {
+  add_attacker = BUL
+  add_attacker = ALB
+  add_defender = GSR
+}

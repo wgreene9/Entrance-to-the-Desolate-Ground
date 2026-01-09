@@ -1,0 +1,88 @@
+government = republic
+add_government_reform = peasants_republic
+government_rank = 1
+technology_group = western
+religion = catholic
+primary_culture = sardinian
+capital = 1247
+
+1436.4.15 = {
+  monarch = {
+    name = "i`…Q¯eyr"  # Ernestu
+    adm = 0
+    dip = 2
+    mil = 5
+    birth_date = 1399.1.1
+    leader = {
+      name = "i`…Q¯eyr" # Ernestu
+      type = general
+      fire = 1
+      shock = 4
+      manuever = 2
+      siege = 2
+      birth_date = 1399.1.1
+    }
+  }
+}
+
+1423.9.1 = {
+  leader = {
+    name ="??S?‚„<S"  # Albertini
+    type = general
+    fire = 3
+    shock = 1
+    manuever = 4
+    siege = 1
+  }
+}
+
+1553.1.1 = {
+  leader = {
+    name = "Qh®v6wW ÑyS0t"  # Sampierro Corso
+    type = general
+    fire = 2
+    shock = 3
+    manuever = 4
+    siege = 0
+    death_date = 1567.1.17
+  }
+}
+1736.4.15 = {
+  monarch = {
+    name = "?eYY I"  # Tiadoru I
+    dynasty = "¯Q ú‹O?+Y"  # von Neuhoff
+    adm = 5
+    dip = 1
+    mil = 1
+    leader = {
+      name = "?eYY ·V ú‹O?+Y"  # Théodore de Neuhoff
+      type = general
+      fire = 3
+      shock = 3
+      manuever = 2
+      siege = 1
+    }
+  }
+}
+1736.4.16 = {
+  set_legacy_government = administrative_monarchy
+}
+1753.10.1 = {
+  set_legacy_government = administrative_republic
+}
+1753.10.1 = {
+  monarch = {
+    name = "KQ±ƒè•yr ôTeYÌ‘"  # Clemente Paoli
+    adm = 1
+    dip = 2
+    mil = 0
+  }
+}
+1755.7.16 = {
+  monarch = {
+    name = "^¯eaSS ôTeYÌ‘"  # Pasquale Paoli
+    adm = 3
+    dip = 4
+    mil = 5
+  }
+}

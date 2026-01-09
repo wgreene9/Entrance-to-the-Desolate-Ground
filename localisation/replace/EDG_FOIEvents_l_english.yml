@@ -1,0 +1,570 @@
+﻿l_english:
+ FOICommonEvents.1.name:0 "OÔk)RšNKNkp"
+ FOICommonEvents.1.desc:0 "ÏuÇhTÆR„v¡‹Rÿ[From.GetName](WÑåeÑSw†NN!kˆ”ùRVYe’V„vb‰NÿjO:NNbìNøvTáOðN„výV¶RÿbìNåb	gckSV„vt1uåN	éb=ecÖNìN„vLˆ¨RÿmNïSåNùRdkÆ‰wNÁ‰0"
+ FOICommonEvents.1.aa:0 "bìNS=ecÖNìN"
+ FOICommonEvents.1.bb:0 "ÙNbìNàesQ"
+ FOICommonEvents.2.name:0 "OÔk)RšNKNkp"
+ FOICommonEvents.2.desc:0 "[From.GetName](WÑåem0R†NVYe’V„vIeûQÿ°s(WÖNìNTbìN÷‹Bl=eôcÿjO:NNbìN	gøvTáOðN„vDQVÿbìN”^SVf‹vU¡NŸÒR„vStÿÙuˆNÖNìN.^©R¦Nb=f­eàedku0"
+ FOICommonEvents.2.aa:0 "bìNS=ecÖNìN"
+ FOICommonEvents.2.bb:0 "ÙNbìNàesQ"
+ FOICommonEvents.3.name:0 "egê[From.GetName]„vôc©R"
+ FOICommonEvents.3.desc:0 "bìN6e0R†Negê[From.GetName]ôc©RÿøváOÙNšRýw©‹bìN„vb‰NÛLˆ„vôf Rz˜)R0"
+ FOICommonEvents.3.aa:0 "ˆV‹Yÿ"
+ FOICommonEvents.4.name:0 "VÓbwOSO"
+ FOICommonEvents.4.desc:0 "°eNLu„vÑS°sO—VŠegŠY„vºN^gýwYTNwôfÜ¹eÛLˆ¢c0tÿÖNìN8^OZwÆ–(WNw:N†NTÍyT7h„vîvhwNTgT*gåwMRÛ0\n\n–Nwöeô•„v¨cûyÿNybÈSNybÌR	g¢ci–ípÅ`„vºN²n(WN›N=nãSbVb†NNšRÄ‰!j„vâVSOÿÙÍyŒgce„vÄuÇuKS¡r¿R›RASRUS„…ÿFO‚Yå‚bìNýwY¥Y„U¡rtv^Ÿ±RÖNìNÑSUSÿÐ(uÖNìN0NÌR„vwmN*‚LˆÏuŒšÿ*gegbìN(WwmNSåb	gôf'Y„vÝ‹í‹Cg0"
+ FOICommonEvents.4.aa:0 "‡v²RS^©RVÓbwOSO"
+ FOICommonEvents.4.bb:0 "©‹VÓbwOSOê»l"
+ FOICommonEvents.4.cc:0 "FUºNS¥c¡rVÓbwOSO"
+ FOICommonEvents.4.dd:0 "ýV¶RS¡rtÖNìN"
+ FOICommonEvents.4.ee:0 "wm×v	gwm×v„vÄ‰Rÿ"
+ FOICommonEvents.4.ff:0 "ÖNìNS:N^ýVV†uibW"
+ FOICommonEvents.4.gg:0 "ÖNìNSçuíubìN^y1W„vO‹Tÿ"
+ FOICommonEvents.500.name:0 "b‰NKNqV"
+ FOICommonEvents.500.desc:0 "OÔk)RšN„vb‰NÎN*gjPbkÿ°s(WÿƒRSbìN&^T†N[FOI_the_random_war_target.GetName]ÿwbìNå‹³QšR=f&T”^SVuÎNÙNa?a0"
+ FOICommonEvents.500.aa:0 "b‰NSOíc:yNR"
+ FOICommonEvents.500.bb:0 "bìNÍN—Ir…V"
+
+ FOIMissionEvents.0.name:0 "ÿbwRQR"
+ FOIMissionEvents.0.desc:0 "OÔk)RšN„vßuNÎNÝuàeÕlÎNrSKNN·ƒ—VÿÖNÅV‰˜1uRQRNœœNˆNbú”1Sÿ°s(WbìNå‹TvQÖNºNUS°sbìN(WOÔk)RšN„vžR›R†Nÿ"
+ FOIMissionEvents.0.aa:0 "öe:gòT0Rÿ"
+ FOIMissionEvents.0.bb:0 "NïSÍdKNÇ%`"
+ FOIMissionEvents.8.name:0 "ßuN±RŠ"
+ FOIMissionEvents.8.desc:0 "ÏuÇ•¾pe*NNªu„v—e‰NÿbìN`Snc†NOÔk)RšNÝu'YèR„v0W:Sÿw°s(WbìNmNïSåN±RJTêñT(WOÔk)RšN„vßu»l0WMOÿTNb	gvQÖN*gãg„v¿R›RÑSúQgT„vRråN‰BlßuNÿ&TRbìNSùRvQÑSwgT„vb‰N0"
+ FOIMissionEvents.8.aa:0 "TiRYOýV¶RÑSgTRr"
+ FOIMissionEvents.8.bb:0 "wb‰NS=fg	gHe„v¹eV"
+ FOIMissionEvents.8.aa.tt:0 "bìNSTNb	g–™ýMOŽN§YOÔk)RšN§!„vìrËzýV¶RÛLˆ±Rb"
+ FOIMissionEvents.9.name:0 "[From.GetName]‰BlßuNÿ"
+ FOIMissionEvents.9.desc:0 ""
+ FOIMissionEvents.9.aa:0 "bìNb²‹[From.GetName]„vCgZ0"
+ FOIMissionEvents.9.bb:0 "bìNv^Nb²‹ÖNìN0"
+ FOIMissionEvents.21.name:0 "OÔk)RšNßuNb‰N"
+ FOIMissionEvents.21.desc:0 "–Nw[From.GetName](WOÔk)RšN„vTwÿ[From.GetName]òTÏuËk¸^n‘u„vb:N†NOÔk)RšNJS›SgwQqVÍT›R„v¿R›RÿwbìNýV¶R(WOÔk)RšNJS›S„v†˜0WòTÏuVw†N[From.GetName]„vNánÿvQ‰BlbìNËzIRRVØNb	g(WOÔk)RšN„v†˜0Wÿ&TRb‰NSOM–4NÌS¹eKNô•0"
+ FOIMissionEvents.21.aa:0 "bìNv^Nggb‰N"
+ FOIMissionEvents.21.bb:0 "‚YœgÖNìNó`‰ÿ ±1Segÿb'Tÿ"
+ FOIMissionEvents.22.name:0 "[From.GetName]ÒbÝuRVØ†˜0W"
+ FOIMissionEvents.22.desc:0 "[From.GetName]ÒbÝuRVØÖNìN(WOÔk)RšN„vW0WÿmN¸‹bìN”^SVÇ‘ÖSvQÖNKbµk†Nÿ"
+ FOIMissionEvents.22.aa:0 "b‰NSOícSfNRÿ"
+ FOIMissionEvents.22.bb:0 "bìNÍN—Ir…Vöe:g..."
+ FOIMissionEvents.23.name:0 "—RYeî•˜˜"
+ FOIMissionEvents.23.desc:0 "‹†6qbìNòTÏuVg†NOÔk)RšN0W:SÿFO—RYeî•˜˜ÍN6qØvËe(WvQKNNÿ1uŽN•gåNegúWcw’VNFz¯e—g„v®SNgÿ RKNOÔk)RšN•üuYBg„v„v0WbVÿîvMROÔk)RšN0W:S„v—RYeR^ASR•Bg0\n\nOÔk)RšNSb—•ENåNeg1uASWR›QNb`SncÿàVdkWlšlQYe`SncIN‰0WMOÿwOÔk)RšN-NèåNÊSèR‰è¿lwm0W:S1u,gW„vFzNbVjS>mNb`SncÿN1uŽN?–Éb!‹sýV„vRÂˆÿMOŽN?–Éb!qS:SSV-NÍN6q	gFzNbVjS>m‹kYOÿ RðlW<SšNqQŒTýV×S0R?–SÒR„vqVÍTwˆvOnm>mÿàVdkOÔk)RšNNSèåNnm>m:NINAm—RYeÿ1uŽNOÔk)RšNWSè•gÏu1uTðlÕlýVNb`SncÿvQIN‰åNO¯epQYe<S>m:NIN0\n\n>f6q(WÍ‘ú^ýV¶RKNMRbìNÅV‰˜Œb0RN*NT„v¹eVegYtÙ›N•üuYBg„v—RYeî•˜˜ÿ=fËR¹RfMQØ=fžRËe—RYeßuNÿ"
+ FOIMissionEvents.23.aa:0 "OÔk)RšNJS›SêSýwáOðNN*N—RYeÿ"
+ FOIMissionEvents.23.bb:0 "ËR¹ROŽNë³R"
+ FOIMissionEvents.24.name:0 "OÔk)RšN°eu"
+ FOIMissionEvents.24.desc:0 "–NwbìNÍ‘°eú^ËzùROÔk)RšNJS›S„vßu»lÿÎN—RYe0ÏuNmÿ0R?e»l0‡eS¹eb—ùRJS›SÛLˆ†NßuNÿbìNòTÏuýwY	gýw›RN”^SVåb±bN*NøvÔk°s(Wôf RO'Y„v‡eSNýV¶R²‹Tÿw°s(WbìN”^SV³QšRbìN*gegSegUO»SUOÎN0\n\nwÎN°s(WVËYÿbìNSÎ¥côf RŽ‹Y„v*gegÿ"
+ FOIMissionEvents.24.aa:0 "N*N-T°e„v‹sýVSßu»lOÔk)RšNJS›Sÿ"
+ FOIMissionEvents.24.bb:0 "‰R¾bS¯eSÍ‘·ƒ°euÿ"
+ FOIMissionEvents.24.cc:0 "?–¹e0t·i`Ì‘KQ„v?aofS«ˆžR°sÿ"
+ FOIMissionEvents.24.dd:0 "bìN”^SVçuíubìN^y1W„v‹NNÿ"
+ FOIMissionEvents.24.ee:0 "OÔk)RšN„v°euÿ"
+ FOIMissionEvents.25.name:0 "ibú^ÑySYætnwúR"
+ FOIMissionEvents.25.desc:0 "lQCQ8NªuÿidSºN`S†˜†N‰ísYrÿŽN=fÑySYætÛeQ†NƒR„vŸÛvöegÿ(WÙµkhQÛvöeg-NÿÎW-Nú^w†N¦u300µ^nwúR0peNn„v«R¿kŒTlQqQú^QrO—VvQ(WSVöeNTëXfWN!X0'YlšëXi—ŒTôT<h¾„v‰LqAucƒøv²ZŽ0\n\nvQ-NÑySYæt'YnwúRú^ŽN8NªuÿwQ	gidSú^QrŒT‰ísYrú^Qr„v÷mTÎ˜<hÿlQCQ786t^MRT‹vcˆ'Yß˜‹sýVýV‹s?–jSjgÒR·ÉbküfNN2kOÑySYætb:NNN¹e9SLe„vO'Y—RYe-NÃVÿ(WWlšŒT‰åTyrVYeX„vúWNxN9eú^†NÙ*NnwúRÿTegÏuÇÉbküfŒNNŒTÈTaSÆYŒNNibú^ÿ0R1236t^öeÿå‹úRb–„vb—ïyòTÔkRú^öeib'Y†N2PÿN!k1SïS¹R³u2NYáO’VÎN‹N—RYeIm¨R0\n\n(WÈT)RÑS^ÀNÆYŒNNöeãNÿ 'YãüfÏ‚SÈSibú^†N‹eb²Rÿ0RÈTÌ‘üf	NNÿ ú^QråTz¾0RgØšðS0å‹úRb–‹†ÏuY!kibú^ÿFOú^QrÎ˜<hŒTyrr‚v^¡l	gØSÿêS=fú^Qrb—ïyŠegŠ'YÿÅˆp™ŠegŠ0NÌR0\n\nNÇ(W6eY1Y0WÇz-Nÿ8^t^„vbqNO—VÙµ^ÎW^„vÑSUSVËYjPÞnÿw<PdkÍ‘ú^KNIRÿbìN”^SVQ!kibú^Ùµ^RO„vnwúR0"
+ FOIMissionEvents.25.aa:0 "bìNSçuíuibú^Ùµ^nwúR"
+ FOIMissionEvents.25.bb:0 "bìNØ	gôf‰'t„v‹NÅ`"
+
+ FOI_ADUEvents.0.name:0 "‰R¾bS‰šNKNï"
+ FOI_ADUEvents.0.desc:0 "°eu„v‰R¾bS‰šN”^SV	ébƒRSeg„vSïÿ=fbËzN6RT†Ú‹„v—RYeýV¶RÿØ=f	ébNagôf RËR¹RVf„vSïÿ"
+ FOI_ADUEvents.0.aa:0 "bìN”^SVÞVRV.Oßu"
+ FOI_ADUEvents.0.aa.tt:0 "§YjOw¨cPƒ§!"
+ FOI_ADUEvents.0.bb:0 "bìNSQ!khËzCgZ"
+ FOI_ADUEvents.0.bb.tt:0 "èR§TûN¡R§!S§RàeÕlŒRb§!"
+
+ FOI_ADUEvents.1.name:0 "‡eS²‹T"
+ FOI_ADUEvents.1.desc:0 "bìNNbVg„vÏk*N0W:Sý	gTr‚„v‡eSÿw‚YUOYtT*NlÏeR=fN*Nž^'Y^ýVNbb—4N„vN*Nî•˜˜ÿ=f¥c³uÿ¦Nb=f’c¥eÿ"
+ FOI_ADUEvents.1.aa:0 "bìNS¥c³uÖNìN"
+ FOI_ADUEvents.1.bb:0 "bìNSTSÖNìN"
+ FOI_ADUEvents.2.name:0 "ASWR›Q„v‹TÐ"
+ FOI_ADUEvents.2.desc:0 "1221t^%fÿÕlpQ‰ASWR›QèŠ^tëXWSNÿÕuÇnm>m„v`S†˜:Sÿêíp±šNúQwmÿFOÖNìN„vîvhv^^—ôv¾ÃWÊSÿw=f*‚Tz<S¯e:YÖSIeSbÃWÊS„vóg0\n\nSVz<S¯eÎW„v­wgXTw0RÞõuNÝu„v^qVêSwegKNöeÿÖNìNÎN*g„˜ó`0RÖNìNOb:NúWcw’V‰vF–„vîvhÿˆR›Q(WÏu†SNµkaŒV'`„vµb—bKNT¿O«ˆvúQ†NÎW^ÿz<S¯eI`cw?–^·NbaSÌ‘šN·öSwmšN«ˆØOO†ÿÖN„vDQV?–jSjgÉb6eÆ–‹k›Q`SncïQœNÎWŒTz<S¯eÎW…Q„vASWR›QùRÙSÿNb—TFzæt^·V‹sg„v†˜INBlôcÿFO1uŽNñmw–idmåTålmoÿFzæt^·V‹sgùRÿFzæt^·V‹sgd–†N>mc†NCSYOºN„vS¡wè–åNYQ¡lýwTz<S¯eÐc›OôfYžR('`„v.^©RÿÕkßz(WÖN<w-NØvŽz<S¯e„vÈT+Y¯e¶RÏeŒTASWR›QN7häNºNŒSæpÿôfY„vÇ‘ÖS”–¸SÂ‰kp„v`¦^0\n\n1121t^¬QÿïQœNÎWw–K„ÿÎW…Q„v'YnwúR«ˆASWR›Q«R cNzzÿS^—Fz¯e—g„v¾|^y-NÃVódkØ˜lbwúWcw’V„v×e^ÿëkàe‘uî•ÿÙ=f^SŽNúWcw’V„vN:WÍ‘'YÜw)R0\n\n(W[GetYear]t^ÿ[Root.GetName]„v›Q–Ie4xz<S¯eÎW™XÿASWR›QT[Root.Monarch.Title][Root.Monarch.GetName]ckV•bM–ÿh×VNw(WØ˜lbŽNS^—„vASWR›Q¿R›RÈuŽN(W2NŒvt^T«ˆFz¯e—g‰V•^ƒwn06qwòTÏu1»yFz¯e—gNLupeŒvt^„vz<S¯e0W:SINAm—RYe°sòTåNúWcw’V:NINÿwbìN”^SVwQ†‚YUOYtÖNìN0"
+ FOI_ADUEvents.2.aa:0 "Í‘ú^ïQœN1WÎWÿfMQiRYO„vúWcw’V"
+ FOI_ADUEvents.2.bb:0 "åNYrØYrÿåN<wØ<w"
+ FOI_ADUEvents.3.name:0 "ÚnÚnÄž™l"
+ FOI_ADUEvents.3.desc:0 "•gåNegÿ’dÈTÉb™l.oWSb—„vÅ`µQNôvN:NbìNNbåwÿvPS	gFUºNMRegNSb—ø‹ýVÛLˆ²NAmÿTbìNÏcØu†N’dÈTÉbåNWS±u:gÃRÃR0M0WÄžÑ‘„vofaŒ0\n\n°s(W[Root.GetName]òTÏu‰V•^µc6ROO†N’dÈTÉbåNSÿ[Root.Monarch.Title][Root.Monarch.GetName]³QšRT’dÈTÉbåNWSÛÑSåNVg±þfÏuÎN*g	gºN‰m³Ç„vÌRv™KN0Wÿwte*N?–^—)R RmNS(W*gegßu»lŽN[Root.GetName]„v×e^KNN0"
+ FOI_ADUEvents.3.aa:0 "íbîvåN…V"
+ FOI_ADUEvents.3.aa.tt:0 "ã‰•§Yú^.AmÑ‘KNï§!³Q®‹"
+ FOI_ADUEvents.4.name:0 "‡eS²‹T"
+ FOI_ADUEvents.4.desc:0 "bìNNbVg„vÏk*N0W:Sý	gTr‚„v‡eSÿw‚YUOYtT*NlÏeR=fN*Nž^'Y^ýVNbb—4N„vN*Nî•˜˜ÿ=f¥c³uÿ¦Nb=f’c¥eÿ"
+ FOI_ADUEvents.4.aa:0 "bìNS¥c³uÖNìN"
+ FOI_ADUEvents.4.bb:0 "bìNSTSÖNìN"
+ FOI_ADUEvents.5.name:0 "‡eS²‹T"
+ FOI_ADUEvents.5.desc:0 "bìNNbVg„vÏk*N0W:Sý	gTr‚„v‡eSÿw‚YUOYtT*NlÏeR=fN*Nž^'Y^ýVNbb—4N„vN*Nî•˜˜ÿ=f¥c³uÿ¦Nb=f’c¥eÿ"
+ FOI_ADUEvents.5.aa:0 "bìNS¥c³uÖNìN"
+ FOI_ADUEvents.5.bb:0 "bìNSTSÖNìN"
+ FOI_ADUEvents.6.name:0 "‡eS²‹T"
+ FOI_ADUEvents.6.desc:0 "bìNNbVg„vÏk*N0W:Sý	gTr‚„v‡eSÿw‚YUOYtT*NlÏeR=fN*Nž^'Y^ýVNbb—4N„vN*Nî•˜˜ÿ=f¥c³uÿ¦Nb=f’c¥eÿ"
+ FOI_ADUEvents.6.aa:0 "bìNS¥c³uÖNìN"
+ FOI_ADUEvents.6.bb:0 "bìNSTSÖNìN"
+
+
+
+ FOIDisasterEvents.0.name:0 "OÔk)RšN'Ye™Rƒ"
+ FOIDisasterEvents.0.desc:0 "NôvåNegåNegOÔk)RšN(WvQÖN‚YÕlpQ‰ÿa'Y)Rø‹ýVIr.Oßu'k2m0W:SýÆ‰:NwzaNûPäXKN0Wÿw‹NžRmNnxžR‚Ydk0\n\n+.v„vOÔk)RšNJS›SO—VvQNÛLˆ„vœQNIm¨R×SP–ÿÛwüRôœQNúWNxASR„…1Vÿ RKN•¾peŒvt^„v6eY1Y0WÐ¨RÿbqNmNgdÁk†N(WŒTs^öegNbú^Ëz„v'YèRœQNNKbåTNúWNx¾‹Ëe0\n\nwÙ›Nî•˜˜(Wb‰Ngô•v^*g—V0RÍ‘Æ‰ÿ|VöeØ	gÎNvQÖN0W:S=eôc„virDAmeQÿw–NwOÔk)RšNJS›S„vßuNÿœQNî•˜˜aoaÈpÿwSVßu»lwwckVËYÍ‘Æ‰å‹î•˜˜KNöeÿOÔk)RšNƒX…QòTCS®uŒvTR„vœQNb:NN—VNb—ùR„v‹NžRÿwýV…Q„vœQNuµNéeòT‹T¬`N¿u0\n\nwN:W'Yr^ñe„v0RegÿR‰V•^ûQ®W†NOÔk)RšN0W:S„vœQNuµNÿØš¬`ŽNOÔk)RšNKNN„v'Ye™RƒÈuŽN(WdköedkIRM–4N0"
+ FOIDisasterEvents.0.aa:0 "qSâTKNNÿ	q	gŒRuS"
+ FOIDisasterEvents.0.aa.tt:0 "OÔk)RšN0W:Såb	g§YúWNx¾‹Ëe§!NÑSUS¦^ØšŽN§Y10§!v^µNúQ§Yrrju§!b§YŠÛk§!„vwýN(WŒp¾–-NS	g‚i‡slØS:NµNúQ§Y7Œir§!\n\nã‰•Y²NLˆ¨R§Y÷‹Blôc©R®|ß˜§!ÿ±‚9ºNÅ`·ƒ—V§YOÔk)RšNÍ‘ú^Û¦^§!"
+ FOIDisasterEvents.1.name:0 "´fqN"
+ FOIDisasterEvents.1.desc:0 "e™Rƒ¬Pu´f¨Rÿ´fqNËnuÛSqN0N²YŽNe™Rƒ„vQg„^ggSV0W?eœ^ýwYèb>kQeNmÿ&TRÖNìNSN—VN:NêñT„vuXRwb0"
+ FOIDisasterEvents.1.aa:0 "±HNvQÖNºNbTÿ"
+ FOIDisasterEvents.1.bb:0 "‚YÖNìNNb?a0"
+ FOIDisasterEvents.2.name:0 "e™Rƒ…ö^"
+ FOIDisasterEvents.2.desc:0 "‹†ô‹e™Rƒv^N=fNÍy¾uÅuÿFOƒRNb.b„vqVÍTtS=f—‰öeô•eg.Oÿ(WdkƒôVKN…Q„vºNýSm×SvQNb&^eg„vqVÍT0"
+ FOIDisasterEvents.2.aa:0 "qSâTKNNÿ	q	gŒRuS"
+ FOIDisasterEvents.3.name:0 "˜YirD"
+ FOIDisasterEvents.3.desc:0 "Nyb°e„vÍ‘ú^irDµb¾†N–™ýÿwÙybirD=f1uT*N6–BSPc`weg„vÿàVdkbìNïSåN	éb‚YUOYtÖNìN0"
+ FOIDisasterEvents.3.aa:0 "eˆEQ0?e"
+ FOIDisasterEvents.3.bb:0 "•bDú^¾‹"
+ FOIDisasterEvents.10.name:0 "®|ß˜î•˜˜"
+ FOIDisasterEvents.10.desc:0 "OÔk)RšN0W:S„v®|ß˜ÍyiÄ‰!jNôvˆVSÿw(WdksQ4Y	gºNÐcúQïSåN(WNYwýNib'YÍyiÄ‰!jÿåNdkegã‰e™RƒùRýV¶RNb&^eg„v•ÜqVÍT"
+ FOIDisasterEvents.10.aa:0 "ybÆQ"
+ FOIDisasterEvents.10.bb:0 "ôuc°s¶rsSïS"
+ FOIDisasterEvents.11.name:0 "GSµuLp‰nû|ßu"
+ FOIDisasterEvents.11.desc:0 "–NwbìNùRœQNuµN„vekÍ‘Æ‰ÿ4l)R¾‹Ëe„vN­eGSµuO—VœQNuµN×SÊvg'YÿøváO(WNÜ„vSegdk!kqS:gýwY‰V•^«ˆã‰³Q0"
+ FOIDisasterEvents.11.aa:0 "çuíuªR›R"
+ FOIDisasterEvents.12.name:0 "KbåTNAucƒ"
+ FOIDisasterEvents.12.desc:0 "–:gúWNx¾‹Ëe„vú^¾‹ÿ*N+RwýN„vKbåTNNVËYekÑSUSv^ÎNb‰N„vR2OSV-Nb`YÿÙS=fOÔk)RšNÈTAucƒ„vNek0"
+ FOIDisasterEvents.12.aa:0 "Q¥cQ‰S"
+ FOIDisasterEvents.20.name:0 "b`YuµN"
+ FOIDisasterEvents.20.desc:0 "(WÏuÇNÈa„vªR›RKNTÿ†wP†OÔk)RšNJS›S„v'Ye™RƒÈuŽNÓumg†NÿwvQNb.b„vqVÍTtS=fASRñmÜ„vÿ„…1V„vœQNúWNx(Wdk!ke™RƒKNTSôf RAuÛvÿdk!kqS:gmNS«ˆNb	gOÔk)RšNºNlNbí”°‹0"
+ FOIDisasterEvents.20.aa:0 "œQN:NËzýVKN,g"
+
+ FOIDisasterEvents.30.name:0 "‰R¾bS‰šN—RYeb‰N"
+ FOIDisasterEvents.30.desc:0 "[Root.GetName](WþfÏu‹†6qùRVYe’Vƒ:NËR¹RÿFOtSåNASR%NÛ‚„vz6e RåNP–6Rÿw°eu„v[Root.GetName]RRdV†NTwÿÕ‹þV©‹úWcwYe’VNFz¯e—gŒTfwøvYÿ6RšR†NNû|R„vÕl‹Vag‡eNyrCgÿv^ÄuÇu†NNybNè•ÎN‹NxvzT‰|úWcwYeVïz„v—RYexvzNbåNggFz¯e—gNúWcw’VKNô•ýwYBlTXRV0\n\nFO•gåNegùRVYe„vËR¹RO—V[Root.GetName]ýVÆ‰†NùRckßuáOðN„vsQèlÿýV…QFz¯e—g²SONNBS6–µuùR[Root.Monarch.Title][Root.Monarch.GetName]ßu»l„vNánaoaÈpÿ(Wv^*g—V0RýV¶RÍ‘Æ‰KNTÿNánSjO†N—b®‹N´f¨R0\n\n:N†Nôu²bckßuáOðN„v6–µuN²O(WT*NFz¯e—g>y:SÑSu´f¨Rÿ‰BlýV¶RJRÏQùRVYe’V„vT‰|yrCgÿv^ R:V—RYeßuNÿwãNhˆTVYe’V„vPŸs|6–µuRÙz(W†N[Root.Monarch.GetName]N¹ev^‰BlÝOc°s	g„v?eVrv^ggG•‹SegêFz¯e—g6–µu²SO„v—b®‹Lˆ:N0ŽN=f(W[Root.GetName]ƒX…QÿNÍyASRäS*`„vofaŒÞ‹u†NÿckßuáOðN„v=ecwb:N†NýV¶R?eœ^„vÍSùRwÿwVYe’VRÍSPb:N†NýV¶Rßu»l„v=ecw0\n\n[Root.GetName]T*N0W:S„vSÄ‰!j²QzÈuŽN(W[GetYear]t^oØS:NN:W-^wSte*N[Root.GetName]„v—RYe²Qz0NMO¡r–OÔk)RšNÑySYæt0W:SÂríp„vðlÕl±R^[Root.Monarch.Title][Root.Monarch.GetName]òTÏuÌwÛS†NwINÿv^lQVÛSqNÿwdk>NmN×S0R†NT*N0W:SFz¯e—g„v=ecÿ1uŽN–™ý[225.GetName]ÎW-NFz¯e—g`SÝuùRO¿RÿàVdkÛSqNwˆVëV1S`S†˜†NÙN0W:Sv^±R^ìrËzÿw(W–™ýw–K„MRYÿ[Root.Monarch.Title][Root.Monarch.GetName]úQ†NÎW^ÿv^(WiRYOHeàV>måNÊSPŸs|6–µu„v=ecKNNÍ‘te×eŸÿaþV‰|¹|dk!kÛSqN0\n\nŽN=fÿN:W†SòSNÝuàeÅN	g„v—RYeb‰N¿O1SdkÉbV7^U^0"
+ FOIDisasterEvents.30.aa:0 "ßu»làesQ—RYeÿýV¶RHQŽNNR"
+ FOIDisasterEvents.30.aa.tt:0 "\ndk!kb‰Ngô•ÿÌS¹eNb`S†˜„v†˜WS«ˆ§YËzIR§!«ˆrR©‹ÿàVdk§RNú^®‹§!§YÉbßvËSeQ:W§!\n"
+
+ FOIDisasterEvents.40.name:0 "SÃWK„šR"
+ FOIDisasterEvents.40.desc:0 "ÏuÇ•öeô•(WT0W„vb‰NÿppÈpÈp„v‰R¾bS‰šN—RYeb‰N¿O1SdkK„U^0\n\nwÙNb‰NO—V[Root.Monarch.Title][Root.Monarch.GetName]npf„v²‹Æ‹0RNýwYýVeuýV…QFz¯e—g²SO„vÅ`êuÿôu²bckßuáOðNmN=f¹RÍV„vNèRÿNb	gºNlàVSVNº‹—RYeÿNÆ‰TÁNÿw—RYeî•˜˜mNS(W*geg«ˆ‰V•^jgÝu0"
+ FOIDisasterEvents.40.aa:0 "w[Root.GetName]SQ!kÎeg°eu"
+
+
+ FOIDisasterEvents.50.name:0 "'Ynm"
+ FOIDisasterEvents.50.desc:0 "KS¡r[Root.GetName](WÇ»SÛLˆ†NN›NRbŸR„v>N¨Rÿnkbd–»S†NPKg„vqQŒTýVRPRÿFOT*NlQ>yÍN6qXR(WNw'YÏ‘„vÍSùR>mRPRÿöeIRZÁwNwlQ>y„vuXRÿ–öeÆQYQ!kYŸqQŒTýVuóTIN6R0\n\n–Nw…Qb„vÓumgÿT*NlQ>y„vºNlùRntÙ›Njo(W„vÍS¨RRPR|TðXŠegŠØšÿ±›NþfÏu«ˆ‹Së„vºNla?ag:N:VÈpÿ‰BllQ>yÛLˆN!k•bhyåNnxšRSegå‹‚YUOÛLˆ‰béb0\n\nw–Nwg°eNn•bhy„vnxšRÿlQ>y…Qèˆ”ùRÍS¨R>m„vnmòTÏu0Reg0"
+ FOIDisasterEvents.50.aa:0 "©‹bww=fŒØ(W±V.Vÿ"
+ FOIDisasterEvents.50.aa.toolitp:0 "bìNSã‰•Ny˜§Y³Q®‹§!åNŒågT*NlQ>yNbjoÏ…„vÍS¨RRPR"
+ FOIDisasterEvents.51.name:0 "cµc"
+ FOIDisasterEvents.51.desc:0 "bìN„vLˆ?eŒ˜î•[Root.Adm_Advisor.GetName]îvMR×S0R†NÐg*NlQ>y„vcµcÿ²‹šRvQ*alP%0(WÏuÇNû|R„vŒågKNTÿîvMRNbŒcµc„vÁ‹ncv^N³åNO—VcµcbËzÿFOz Rr^‰mmNýwYSå‹Œ˜î•eQÑvñr0"
+ FOIDisasterEvents.51.aa:0 "‚YÖNìNNb?a"
+ FOIDisasterEvents.51.bb:0 "å‹cµcv^àeOnc"
+ FOIDisasterEvents.52.name:0 "cµc"
+ FOIDisasterEvents.52.desc:0 "bìN„vY²NŒ˜î•[Root.Dip_Advisor.GetName]îvMR×S0R†NÐg*NlQ>y„vcµcÿ²‹šRvQ:NYýVô•Œ0(WÏuÇNû|R„vŒågKNTÿîvMRNbŒcµc„vÁ‹ncv^N³åNO—VcµcbËzÿFOz Rr^‰mmNýwYSå‹Œ˜î•eQÑvñr0"
+ FOIDisasterEvents.52.aa:0 "‚YÖNìNNb?a"
+ FOIDisasterEvents.52.bb:0 "å‹cµcv^àeOnc"
+ FOIDisasterEvents.53.name:0 "cµc"
+ FOIDisasterEvents.53.desc:0 "bìN„v›Q‹NŒ˜î•[Root.Dip_Advisor.GetName]îvMR×S0R†NÐg*NlQ>y„vcµcÿ²‹šRvQNàVŽNTwTSO0(WÏuÇNû|R„vŒågKNTÿîvMRNbŒcµc„vÁ‹ncv^N³åNO—VcµcbËzÿFOz Rr^‰mmNýwYSå‹Œ˜î•eQÑvñr0"
+ FOIDisasterEvents.53.aa:0 "‚YÖNìNNb?a"
+ FOIDisasterEvents.53.bb:0 "å‹cµcv^àeOnc"
+ FOIDisasterEvents.54.name:0 "nm"
+ FOIDisasterEvents.54.desc:0 "(WÙ:WgvQÀoÈp„v?e»l—e‰NSV-NÿNº‹=f	gjàejKNºNýSïSýwb—4Ng:NqSi–„vcµcw•Û”eQñr0(WgÑÿNS?ST„vegáOcµcTwTSO-N	NMOŒ˜î•LeVSýVÿw(W8hågÇz-Nÿå‹áOöN…Q¹RNåw:NUO«ˆce^úQ»S«ˆT*NlQ>yºNlNbåwÿKS¡r'YOŒåghˆfv^¡l	g³Y„vÁ‹nc²‹šRÙ	NMOŒ˜î•ÛSýVÿFOÙv^N³åNs^o`lQO„v|TðXÿàVdkbìNÅV‰˜ËzIR³QšRÙ	NMOŒ˜î•„v‹TÐ0"
+ FOIDisasterEvents.54.aa:0 "ºNlêOZPúQ	éb"
+ FOIDisasterEvents.54.bb:0 "Ù¿O=fwøv"
+ FOIDisasterEvents.55.name:0 "ÆRŒ"
+ FOIDisasterEvents.55.desc:0 "bìN„vNMOF–›QS†˜(WÑ›N)Y«ˆcµcÛSýVÿ(WÏuÇŒågKNTÿNb	gÁ‹ncýhˆfÙN‹NžR„vnxšR'`ÿàVdkvQÅV‰˜:NvQLˆ:NØNúQãN÷N0"
+ FOIDisasterEvents.55.aa:0 "‹YpN"
+ FOIDisasterEvents.56.name:0 "ÆRŒ"
+ FOIDisasterEvents.56.desc:0 "bìN„vNMOwm›QNS(WÑ›N)Y«ˆcµcÛSýVÿ(WÏuÇŒågKNTÿNb	gÁ‹ncýhˆfÙN‹NžR„vnxšR'`ÿàVdkvQÅV‰˜:NvQLˆ:NØNúQãN÷N0"
+ FOIDisasterEvents.56.aa:0 "‹YpN"
+
+ FOIDisasterEvents.57.name:0 "Nhh"
+ FOIDisasterEvents.57.desc:0 "ÊNåebìN¥c0RÀh>NÿãNhˆ'YO-N	gbXT‰mÌZ*alP%0(WÏuÇNû|RŒågKNTmNPWžR†Nå‹ô‹ÕlÿÙ!k„vbXTØS¨RmNüRô†N'YO„vÐLˆHe‡sNM–0"
+ FOIDisasterEvents.57.aa:0 "Lˆ?eLwýwSO×S0RqVÍT"
+ FOIDisasterEvents.57.bb:0 "ùRY‹N¡RSO«ˆ²QûQ"
+ FOIDisasterEvents.57.cc:0 "›Q‹NÄuÇuSOM–NO"
+
+ FOIDisasterEvents.60.name:0 "YO—"
+ FOIDisasterEvents.60.desc:0 "ÏuÇùRT*NlQ>y+o•„vŒågÿ'YOÈuŽNïSåN±R^‰V•^ÓumgÙ:W'Ynmÿ(WÙvQ-N„vÍSi—‹TRPRý«ˆY³QÿNÇÙvQ-NnxžRmNXR(Wï‹2R«ˆ²Q‰gKNºNÿ'YOmNÙuˆN†NvQgT„vlQS¯r•v^NïS`ÿwNb²‹êñT„v•ï‹Mbg:Na0ˆ0\n\nNÇÙNRmNv^N=f¡l	g6e·ƒÿ†SÏudk!kim«Rÿ'YOmNÎN-N8TÖS†NASRY„vÏuŒšYe­‹0"
+ FOIDisasterEvents.60.aa:0 "Í‘°eVËY"
+ FOIDisasterEvents.70.name:0 "Ãq°QKNb"
+ FOIDisasterEvents.70.desc:0 "1uŽN[Root.GetName]?eCg„vyrŠk'`(ÿbìNùRŽNvQÖNýV¶Regô‹=fÅV‰˜«ˆˆmmp„vùRaŒÿàVdk'YONôvåNegýÝOcNwZw&q…QèÑSUSÿNùRYèZPúQr^‰m„v?eVrÿôucNw1V„vFOŒTs^„vNS¿RFOÙÍy1V„vs^aˆ1SsSS«ˆSb4x0\n\n(WÇ»Sÿ[Root.GetName]„vlOÅNÅN=fggêñTýwY—V0RÇŽVNþf	g„vê1uuImÿFO–NwýV…Qi—‹TípÅ`„vN­eØš¨mÿºNlN­e„vaÆ‹0R(WbìNKNY„vTÞwØYŽN4lukpípKN-Nÿv^nVËY|TT'YOýwYlØSùRY¹eˆ”ÿTYã‰>e±›NØ(WSú^6R¦^KNN„vºNl0\n\nw1S(WgÑÿÙÍyðXó—òTÏuM^hQýVNNÿ'YON—VNìSVN!kO®‹åNYtlO„vípÅ`ÿbìNÅV‰˜ŸeL‘	éb=f&T9eØSùRY„v¹eˆ”ÿ“úQbìN„vtó`=fÅV6q„vÿmN=fbìNÅV‰˜‰ZP„v‹NÅ`ÿFO°s(W„vlQ>y=f&T	gýw›RžR°sbìN„vtó`bTÿ"
+ FOIDisasterEvents.70.aa:0 "ºNl„va×VSO«ˆžR°s"
+ FOIDisasterEvents.70.bb:0 "bìNÍN—öeô•..."
+ FOIDisasterEvents.80.name:0 "ÈuNS"
+ FOIDisasterEvents.80.desc:0 "–NwT*NlQ>yÊSlOùRÉ‹Bl„vðXó—N­eÏQSÿÙ:WØSi—ÈuSŽNÓumgÿNº‹ÙâVi—‹T„vÈpkpÍN6q·Qám‚Y°QÿkpIQÍN6qgq®NNwTwTSO…Qè„vNb	gºNl0"
+ FOIDisasterEvents.80.aa:0 "‚Ydk¿O‹Y"
+ 
+ FOIDisasterEvents.90.name:0 "YOìpb‰N"
+ FOIDisasterEvents.90.desc:0 "‰kÂREQ¥e(W[Root.GetName]„vÏkN*NÒ‰K„ÿþfÏu„vi—‹TípÅ`òTÏuNYXR(WÿÖSwãNKN„v=fùR*geg„v÷Ø`ÿNb	gºNýàeÎN—Våw‚YUO¦^ÇSegÿNRý‚YT‰kppN,‚0\n\n1Sdkÿ±›NþfÊN«ˆ©cËW„v‹Nir¿O(W„`6qKNô•Ënu0b•0ƒîX...…QèÍS¨R¿R›RVËY0ˆ0ˆ2k¨RÿYè¿R›RN†Æ‰wwÿNb	gºNý^gýwYÎN[Root.GetName]S‰0Reg„vÎ˜´fSV-NRNog¹0[Root.GetName]NNàeºNýwYn«Ž‹NYÿwNRý(WdkIRVËY)TLXÿ‚Yœg[Root.GetName]„vXR(WÅNÅN=f©‹Nb	gºNŽrUS„vZwÆ–(WNwÿ±HNNQwQ	gqQTtó`„vºNlêO»yƒRw»Sÿ*NºN)RÊvØšŽNýV¶RKNöeÿ[Root.GetName]mNSNYXR(W0\n\nN:W'YRÂˆsSS0RegÿFOùRŽN[Root.GetName]egô‹ÿîvMRNS¿RØ*g0RgTöeIRÿv(WNRýàeÕlKcÞVKNMR2UÞVbìN»S„vípÅ`ÿÍ‘þbþfÏuO'Y„v¦hó`\n\n§R=U	gnKN‰k0W¹eïSTu§!"
+ FOIDisasterEvents.90.aa:0 "0Øš1U`O‰k¡N„vT^ÿ‚YRVaNñ‚Ä–,‚‰k»S0"
+ FOIDisasterEvents.90.aa.tt:0 "§R=U	g‰k¡NMb=f1ûN„v>SðX§!"
+ FOIDisasterEvents.90.bb:0 "0ŠqŠqÈpkpKN-NÿƒRSÍ‘·ƒ°eu0"
+ FOIDisasterEvents.90.bb.tt:0 "S§YqQŒT.Oßu§!¾‹n:N§Y75§!ÿ§Yi—‹TípÅ`§!¾‹n:N§Y50§!\n\n§Rå‚Œp¾–cíugô•§YqQŒT.Oßu§!NOŽN§Y50§!b§Yi—‹TípÅ`§!NOŽN§Y25§!ÿ§Y[Root.GetName]§!SW)Tætã‰§!"
+ FOIDisasterEvents.91.name:0 "‰kÂR"
+ FOIDisasterEvents.91.desc:0 "\n\n[Root.GetName]„v)TƒnÎNN=fN¬wKNô•ŒRb„vÿƒRÅVÏu1uåeïyg=tÿQ RKNVüRwàeºNýwn«Ž‹NY0\n\n[Root.GetName]ÅVSÎN-NÛLˆ‰béb–Nw,rN*NlQ>y±R^1»y[Root.GetName]ÿN:W'YRÂˆ¿OVËY†N0T*NlQ>y(WdköeVËYåNTÍyt1u·u·u1»y[Root.GetName]v^±R^ìrËzÿw°s(W„v[Root.GetName]NÇ=fÅNiRpe*NlQ>yXR(W„vzzóXýV¶RÿNRýNYSVR0\n\n[Root.GetName]ÅV‰˜	ébåNUOÍy¹eVpŒRƒRgTNŸÅeÿ=f©‹NRýRVŽNÇŽVÿ¦NbƒRÕl..."
+ FOIDisasterEvents.91.aa:0 "1S©‹NR1Sdk»S'T..."
+
+ FOIDisasterEvents.92.name:0 ""
+ FOIDisasterEvents.92.desc:0 ""
+ FOIDisasterEvents.92.aa:0 ""
+
+ FOIDisasterEvents.100.name:0 "Í‘·ƒ°eu"
+ FOIDisasterEvents.100.desc:0 "–NwÇŽVqS:g„vßpˆm‘NceÿbìNSQ¦^=TzÿÎ¥c^SŽNbìN„v*gegÿ"
+ FOIDisasterEvents.100.aa:0 "©‹bìNÍ‘°eVËY"
+
+ FOIDisasterEvents.110.name:0 "âlá‹‘N2Œ"
+ FOIDisasterEvents.110.desc:0 "–NwbìNN­e„vã‰>eT*N0W:S„vºNlÿhTôVPKg„vÍS¨R>m¿R›RVËYö`P`N‰Rÿv^<ONN(WØyÆRŒRNwÀNHNN:NºNåw„v¡‹R0"
+ FOIDisasterEvents.110.aa:0 "bìNßéeO‰V•^ˆmmpÖNìN"
+ FOIDisasterEvents.111.name:0 "OSo`"
+ FOIDisasterEvents.111.desc:0 "(WÇ»Spe*Nggô•…Qÿ¹ƒXlQ>y¥bJThˆf	gèRýV¶R„v›Q–Œ¨RASR‘˜Auÿv^Nv^NNSP–ŽNvQ,gýV†˜Wÿw=f(WýVNýVKNô•ŒÆ–ÿÙNÍS8^°saŒ—‰bìN˜Y„vsQèl0"
+ FOIDisasterEvents.111.aa:0 "LNTKNOÿN³:Nç`"
+ FOIDisasterEvents.112.name:0 "šš¨R"
+ FOIDisasterEvents.112.desc:0 "ëkàeVFQ„vÿbìN»lN„v¹ƒX0W:SGWµNu†NNS„v¨RaƒÿþfÊN„vÍSùR>mz6q‰kppYÃqÿVËYN­e„vššpbT0WÿfkÅˆ²QzVËY‘˜ÑSÿwNbìNïSåNèla0RÿYè¿R›RòTÏuVËY0ˆ0ˆ2k¨R0\n\nÙNR„vv^^—vP6qÿwN:W'YbˆVëV1SOM–4N0"
+ FOIDisasterEvents.112.aa:0 "b‰N„v÷SÒ‰sSS9TÍT"
+ FOIDisasterEvents.112.aa.tt:0 "bìNNbåb	g„v^—OÔk)RšN0W:SNb	gwýN·ƒ—V§Y20§!t^R»yININ"
+ FOIDisasterEvents.113.name:0 "Èp3–KNb"
+ FOIDisasterEvents.113.desc:0 "Ëpíp„v„š3–gqw(Wte*N'k2m'YF–KNNÿb‰N„vÈpkpN­e„v™päpNwÙGr'YF–0ÏuÇ+o•„v›Q‹NåNÊSÏuNmÆQYÿ RKNTýVKNô•„v²NAmÿN*Nž^'Y„vTwßv(WN*NqQT„vZÁwôv¥câVÓuwegÿaþV‰V•^ætã‰Ù*N(WÖNìNÆ‰:N'k2m¿w2v„vÅu`?eCg0w(WÊN)Yÿ1u[EDG_FOI_counter_revolutionary_alliance_organizer_target.GetName]NbINüR„vÍSi—‹TTwßvÊN)YckVT[Root.GetName]±Rb0\n\nKS¡rÍSi—‹TTwßveg¿RppÈpÈpÿFOÙv^¡l	gP`T0R[Root.GetName]ÿÙÍyLˆ:NÍSwÀow†N[Root.GetName]ýV…Qôf RípÈp„vi—‹Tjmnoÿ6qwÇ¦^„vípÅ`mNO—VT*NlQ>yºNl„vÀoÛLˆ:N'YE^žX Rÿ´f›R‹NöNBSúQNwzÿÙÍyÛwþv„vLˆ:NEQ¥elQ>yNNÿÎNÐg›N¹eb—Negô‹ÍSwJR1V†N[Root.GetName]„vteSOžR›RÿNÇ(WsSS0Reg„vb‰NKN-NÿÙ*gÅVŒv³RwàeN)R0\n\n[Root.GetName]ÅV‰˜(Wdk…Q	gY±`„vYƒXb—VÙ:Wb‰N„vÜw)Rÿ(WN6RNìrN„vßu»lKNô•ŒTÂrípN´f>b„vi—‹TjmnoŒT„v(WÀoÈp²N•KN-NÿN:WzzMR„vb‰N1SdkícV7^U^0"
+ FOIDisasterEvents.113.aa:0 "©‹œœNˆülmŽN'Y0WKNNÿ¥wƒlÙGri—‹T„vípWÿ"
+
+ FOIDisasterEvents.114.name:0 "ÍSi—‹TTwßv"
+ FOIDisasterEvents.114.desc:0 "–Nw[FWF.GetName]„vbËzÿÙ*N1uœQllQ>yNbÄub„výV¶RòTÏub:N†Nte*N'k2mgwQZÁw„v?e»lžRSOÿv^NàeöeàeIRNcèbNwbìNýV¶R•^BSlOùRbìN„vÍS—bÿdköe	gNèRýV¶RòTÏuVËYØyÆRTwTwegÆQYùR[FWF.GetName]ÛLˆN!k‰V•^„vôVRb‰NåN‰V•^nd–Ù*N¿w2v0\n\nbìN”^SVNaÍ‘`wbìN„vËz:Wÿ=fÝOc-NËzÿØ=fÂSNvQ-N0"
+ FOIDisasterEvents.114.aa:0 "bìNÅV‰˜‰V•^ûQƒnƒRìNÿ"
+ FOIDisasterEvents.114.bb:0 "ÙùRbìNegô‹v^¡l	g‹YY"
+
+ FOIDisasterEvents.120.name:0 "YÏ‚"
+ FOIDisasterEvents.120.desc:0 "(WÙ:W³åN9eØS†SòSÛz„vi—‹Tb‰N-NÿbìN„vºNlåNœœNˆNípwˆGlZwbN¡w¼d¨RºNÃV„v›RÏ‘ÿ‰V•^‰|Žx†Negêçeéy^„vcb04O–ÍSi—‹TTßvgTNb—×e^„vPNÿbìNÈuŽNÖS—V†NÙ:Wb‰N„vÜw)Rÿw±›NÍS¨RRPRmNK„RƒwÿÛVceTYp0\n\nÜw)R„vˆmo`ˆVëV¿O.OMte*N'k2mÿv^Ïu1u-NšN0W:Sµb¾eÜ„vN¹e...(WÏu†S†NpeASt^„vðVæ‚b‰NKNTÿÜw)RŸ¨RNwNb	gºNlKYwÍS—bÿTNwôf Rê1uŽ‹Y„v*gegwÛLˆ—e‰Nÿ^SŽN'k2mCNóNLuºNl„v%f)YsSS0Regÿ©‹bìNSi—‹T„vjmno¨cTôf ReÜ„v|V¹eÿ"
+ FOIDisasterEvents.120.aa:0 "©‹bìNçuíuTMR"
+ FOIDisasterEvents.120.aa.tt:0 "S*g«ˆbìNNbåb	g„v§Y'k2m§!ÊS§YN'k§!'Y:SwýNSO·ƒ—VîOck§YŸ¨RlO§!"
+
+ FOIDisasterEvents.130.name:0 "qmpb‰N"
+ FOIDisasterEvents.130.desc:0 "–NwbìNùRY?eVr„v9eØSÿvQÖNýV¶Ra×S0R†NegêbìN„v„vZÁwÿN›N0W:S'`'YýVòTÏuVËYyrRˆ”ùRbìN„vb‰NÿÕ‹þV‰|¹|Ù:Wéeeg„vi—‹T0\n\nÍS¨R>m¿R›RVËYZwÆ–ÿT*NlQ>yKNN„v4–Œ0ˆ0ˆ2k¨R0Nº‹=fÇ‘ÖS´f›R¦NbƒRÕlÿNRLˆ:Ný(WÕ‹þV ˜†‰TwTSO°s	g„v?eCgÿQbmpi—‹T„vÈpkp0–Nwkp®pkpðX(W'YWˆS÷TÞVaƒÿºNl«ˆëwSeQbkpKN-NÿÙ:WegêÍS¨R¿R›R„vÁ”óbòTÏu8xTTwTSOÿw=U	gb‰NMbýwã‰³QÙNR0"
+ FOIDisasterEvents.130.aa:0 "i—‹T„vÈpkpSŠqŠqÃqçpÿ"
+ FOIDisasterEvents.131.name:0 "ÞVÍT"
+ FOIDisasterEvents.131.desc:0 "`S†˜:S8^ý=f‰kl‰l‰lÿ¦Nb=fÛSqNÛVwÿFOáQ‹N†v	g‹OY0(WbìN`S†˜†N[EDG_FOI_FOIDisasterEvents_131_target.GetName]KNTÿbìNNå‹0W:S„vºNlÛLˆ†NNû|R„v²NAmÿw(WÙgô•ÖNìNùRbìN„vNbck(WÛLˆ„v‹NN	g†Nôf REQR„v†Nã‰ÿÙmNO—VSV0WŒvÓYggbìNýwYSÖNìNÎNÙEQán‹Së„vßu»lKN-Nã‰>eúQegÿNTÈTôf RIQf„v*geg0"
+ FOIDisasterEvents.131.aa:0 "bìNOZP0R„v"
+ FOIDisasterEvents.140.name:0 ""
+ FOIDisasterEvents.140.desc:0 "–Nwˆ”ùRbìN‰|Žxi—‹Tb‰N„v1Y%ÿbìNÈuŽNÖS—V†N‚föe'`„vÜw)Rÿw±›NÕ‹þVˆ”ùRbìN„vÍS¨R¿R›R°s(WN—VN	N`wTLˆ0"
+ FOIDisasterEvents.140.aa:0 "Ù=f^SŽNºNl„vÈSN!kÜw)Rÿ"
+
+ FOIDisasterEvents.150.name:0 "¯q1q2•¼p"
+ FOIDisasterEvents.150.desc:0 "TwTSO=fú^Ëz(W:N^'YlOŒBlôf RŽ‹Y*geg„vúWNxKNNÿàVdkfkÅˆ—e‰N=fÅVNïSS„v¯s‚‚ÿwbìN„vºNlmN(WIr…VNwôfY„vTÞw«ˆã‰>eÿPå‚›bVÙ*NqQT„vtõVÿ±HNbìNmNSNYXR(WÿNdkTöeÿÀoÛ`ó`öe8^(WT*NlQ>yÛLˆ.O­dÿwSV'YèRºNlý¥c×S†Nå‹`ó`v^ØNø‹žRõÿ[Root.GetName]NNåeÊvØš¨m„vi—‹TípÅ`SOŠbTwTSO¨cTb‰N„v¹ÿçuíu¹p®N±Ñž—fàe W„v'Y0W0"
+ FOIDisasterEvents.150.aa:0 "©‹bìNwwNN*N=fŒ"
+ FOIDisasterEvents.150.bb:0 "i—‹T„vjmno8lNjPGkÿ"
+ FOIDisasterEvents.150.bb.tt:0 "bìNSùRNb	gNbìNøv»„v^—§Yi—‹T?eCg§!±Rb"
+ FOIDisasterEvents.150.cc:0 "ÖNìN„vípÅ`”^±RÄlŽNƒRY"
+ FOIDisasterEvents.160.name:0 "ípÅ`ˆm"
+ FOIDisasterEvents.160.desc:0 "ûNUOjmnoý	gˆm„vN)Yÿ–NwlOi—‹TípÅ`„vˆmÿT*NlQ>y„vlôVQ!k‹ŽNs^Y—ÿwvQNb&^eg„v„vYOâlmNSqVÍTTwTSO*geg„vpet^0"
+ FOIDisasterEvents.160.aa:0 "no¨mnoK„ÿê6q‚Ydk"
+
+ FOIDisasterEvents.170.name:0 "ípjm"
+ FOIDisasterEvents.170.desc:0 "TwTSO„v—RYeî•˜˜Nôv=fASR»žæp„vî•˜˜ÿnm>mjO:NNÍyVïz.O­dóOÔk)RšNJS›Sÿ(W RðlW<SšNßuNte*NOÔk)RšN„vÇzSV-NÿvQáO’VmN(WN­eÓbUSÿFOËYÈuNýwðy—VN=fINAmáOðN0S¹e'YèRºNlýuªVWlšlQYeÿ-NèRåN‰ísYr,gWYeO:NINÿwWSè•g1uO¯epQYeNbßu»lÿnm>m•gêSXR(WŽN RðlW<SšN0W:SÿÙN°s¶rv^N¹Rf‰f„v«ˆ9eØSÿnm>m(WTwTSO…Q„v—RYeR^ASRzSÿ•gåNegý=fYŽN^—O¿R—RYeÿÙmN:NTeg„v¨RqNËWN†N–±`0\n\nTwTSOùR—RYe„v?eVr‹†6q	gteSO„v‰R’cÿFOT*NlQ>yv^Ný	cgq'YONb6RšR„vhÆQwegÿÕkßzÙ—‰wQ†0RvQÖNáO’V„vºNãSúWpeNbüRô„v?eVržRËe¾–¦^ÿàVdkTwTSOfb—N=f	gckV„výVYeÿFOžRE–NT0W„vINAmáOðNR^v^¡l	gÀNHN*Y'YØSSÿÍSwàV:Nøv»lQ>yKNô•„vAm¨R'`²NAmžX:VwüRô—RYe>y:SÛNek„vYBgS0\n\n(W—RYe9ei—KNMRÿTwTSO…QèT*N—RYe„váO’VKNô•mNXR(WNwNšR„vÛwþv²QzÿFOT*NlQ>yê«Ž	gýw›Rv^NòTÏu`Nï`†NYtdk‰|‹NöNÿàVdkv^N³åNb:NTwTSO„v»žæpÿFOppÈpÈp„v—RYe9ei—Ð¨RRb:N†NTwTSO—RYeî•˜˜„v>e'Yj•0\n\n–Nw—RYe9ei—„vÛLˆÿ°eYeYeINmN(WTOÔk)RšNJS›S.OegÿèR0W:S„vINAm—RYeÑSu†NlØSÿv^N°eYe’VmN(WT0WVËYN­ežX RÿTwTSO„v—RYeRè(Wdkgô•ÑSu†NgRØSÿNdkTöeÿôfY„vVïzmNN­eVËYËnuÿÛNek RgR†N—RYeNŒT„vkp0q0—RYeRgk„v­eBS¿u(W°s(WòTÏu…úQ†N.Oßu„vŒNCQ²QzÿTwTSOT0WòTÏuúQ°s†NN×Sµc6R„v—RYeÂrípRPRÿv^NÙÍy—RYeÛwþvòTÏuvQn0RT*NlQ>y„v?e»l¡rtBSb—ÿTöeØ RgR†NNTlÏe‡eSKNô•„vÛwþvÿ—RYe„vÂríp(W—RYe9ei—NTwTSO…Qè9hñm‚„úV„vRÂˆ„v¨c¨RKNNüRô†NNû|R„vÛSqNŒTwINÿNT—RYe>m+R„váO’VÕ‹þVôu²bÖNìNŸS	g„vCg)Rÿv^nxÝO(WÖNìNÃV-N±óØšàeN„vYeagN×SvQÖN—RYeáO’V„vr^‰mÿwmN	gÂráO’VÕ‹þVSêñT„váOðN:V RÙuÖNºN0\n\nw°s(WÿTwTSO„vT0W„v—RYe>y:S°s¶rhˆ°s:NÂríp0´f›R0ë³RNùR—RYe:WNb„v†wa4xOWÿ0W¹elQ>yòTÏuàe›RYtÄ‰!j‚Ydkž^'Y„v—RYe¨RaƒÿVËY‰Bl'YOjOúQ³QšRÿ‰V•^ÓumgÙÎNú^ýVOËY1SNbb—4N„v—RYeðVƒXÿ=fYCQqQXRb=fáOðN=UN0NÇ(WVËYKNMRÿbìN—‰HQnxšRbìN(WÙ:WppÈpÈp„v—RYe9ei—SV-N„vËz:WTwTSOSåNUOÍyb—ŒŒçuíuTMR0"
+ FOIDisasterEvents.170.aa:0 "nm>m"
+ FOIDisasterEvents.170.bb:0 "FzNbVjS>m"
+ FOIDisasterEvents.170.cc:0 "°eYe"
+ FOIDisasterEvents.170.dd:0 "9ei——R"
+ FOIDisasterEvents.170.ee:0 "ôuc°s¶r"
+ FOIDisasterEvents.170.tt:0 "bìNSã‰•2Ny˜³Q®‹åNnxšRbìNùR…VTÍyT7h—RYe„v`¦^ÿ¹RÍVb=f=UNckáO0"
+ FOIDisasterEvents.180.name:0 "no"
+ FOIDisasterEvents.180.desc:0 "–NwbìN—RYe>y:S„vek3zšRÿTwTSOT0W„v—RYe²QzmNåeÊvÏQSÿKS¡r—RYeî•˜˜ùRT0W.b†NNS„vqVÍTÿFOøváObìNKNT„vSïSOôf Rs^fWIQf0"
+ FOIDisasterEvents.180.aa:0 "öeô•Ošbs^NRR2O"
+
+ FOIDisasterEvents.190.name:0 "‰kkp"
+ FOIDisasterEvents.190.desc:0 "›Q‹NÔYXTO(WbËzKNR1S«ˆKˆN†N R:VTwTSO›Q‹Nýw›R„vÍ‘‰ûN¡RÿƒRgRåN<P—Vðy^„vHe‡seSLˆ†NÙNLw1ÿTöe›Q‹NÔYXTO„vbËzmNÖS—V†NASR0NšS„vbœgÿvQžRžR(W(W„vžX:V†NýV¶R„v›Q‹NÄuÇuŒTjObýw›RÿNdkTöeÿ–NwÔYXTO„v0WMOŒTqVÍT›R„vÐcØšÿvQú^ËzKNR„vLw1n(Wbkp„vwŒšKN-N×S0RµOŽ†ÿÙ:NP%„vÍS¨R¿R›R(WÔYXTO…QèNb9hv^ú”s^†NSï0\n\n1uŽNb‰NN­eÿTwTSOùRŽN›Q‹N›RÏ‘—BlmN4l¨m9‚ØšÿNTŽNvQÖNÍS¨RýV¶RÿTwTSOàQNN¡l	gY(WïSýw„v›Q‹Nôc©RÿÙO—VýV¶RåeÊv›Q‹NSÿwùRŽNN=e:V'Y›Q–„v—Blÿ RKN“úQi—‹T„vtó`N°sžRNb—‰b—4N„vðVƒXÿNÍyPKg„vƒXµQ(Wi—‹T„vÈpkpKN-N„`6q…ö^0–Nw›Q–Ä‰!j„vN­eib'Yÿ›Q‹NÔYXTOŒcác†NMRNb*g	g„vCg›RŒTqVÍT›Rÿw‹NžRÁ‹fÿÙÍy°e·ƒ—V„vCgZ RNÝuùRµc6R„vñ‹Ñ`ÿùRŽNÔYXTO„v†˜üRºNegô‹=fNÍy:V	g›R„v¬PSBRÿgÈuÖNìNHSgŽNN×S¦umg„vCg›R„vñ‹Ñ`ÿVËY`	g…ŠvQgRˆcCg„vÎ‘ÃV0\n\n(W›Q‹NÔYXTOKNRÿvQÓu„g1S³QšR†NvQàeÕl«ˆ'YOÛLˆlx'`P–6Rÿ-N.Yv^¡l	g:V6RKbµkNKN—baˆÿÙÃOÛ†NP%(WvQpÊ^…Qn9hñm‚„úVÿwN:ON:V	g›R„vÑvcw:g6RTöeÿ RN›Q‹NÔYXTO„vCg›RÆ–-NN­eÛLˆÆ–-Nv^VËYpTáR4YÿÙÙuˆN†NêT›N*jZ„vÍS¨RRPRïSXNKN:gÿÇùW‰QêÁyê)R„v®‹zŒTÍdµuSO6R:g6RåNŒÖS*NºN)RÊv0\n\n–NwP%„vä…….Õu(WÔYXTOhTôVÿvQ†˜üRBS„vl(ÑSu†Nf>f„vØSS0Ù*NþfÏu1uùRýV¶RýV2–åNÊSžR°stó`„vbú‹Nbqš¨R„v:g„gÿØSb†NN*N1u*NºNÄub„vSÆ–âVÿ4ngÛNek„vCgZNCg›RÿwÙNlØS(WN*NsQ.•öeIR¾0RØšnoÿ›Q‹NÔYXTO„v†˜üRºN×S0RÝuùRCg›R„vñ‹Ñ`ÿZPúQ†NN*Nô‹T„v³QšRÿVrR†NN:WÍSùR'YO„v?eØS0\n\n?eØSv^¡l	gbŸRÿ'YObXTËzIRÛLˆ†Nlûyv^ËzIR±R^TwTSOÛeQ't%`¨RXT¶r`ÿv^±R^›Q‹NÔYXTO:N^—ÕlÄuÇuÿVËY¨RXTT*NlQ>y„vfkÅˆåNG•‹S›Q‹NÔYXTO01uŽN?eäNv^N=fËzIR.O¾0RT0WÿTöe›Q‹NÔYXTO…QèÍN6qXR(WNšR„vTwTSOHeàV>mÿàVdkKS¡rÎNteSONegô‹ÛeQ†N…Qb6–µkÿFOT0W„v0W¹efkÅˆNÛSØS¿R›RN­e„v(W‰N:YT*NlQ>yÿàVdk¿R›Rµc6R²N•YBg0\n\nÙ:Wi—‹T„vœœ¢uÈpkpv^¡l	gaçpaúeÿmN¡l	gàVdkˆmceÿw=fpT‰kl‰l‰lÿ‚YT4–B›<›kpN,‚ÿTwTSO=f&TýwYÍ‘°eÃqwÙâV‰kkp¦Nb=f‰lw–vQ-Nÿ>eúQÙN‹^B›Î‘kpÿûNvQ|ƒÒkÙGri—‹T„vípW0"
+ FOIDisasterEvents.190.aa:0 "<OþføvÆ‹..."
+ FOIDisasterEvents.190.aa.tt:0 "S§Yi—‹TípÅ`§!RV§Y0§!\n\n§YnzzNb	gºN›R§!\n\n§YTwTSOîvMR„v›Q–òTÏu«ˆÁ‹f:NNàVÿbìNÅV‰˜(W›Q‹NÔYXTO‰V•^µc6RNS¿RKNMRËzIR§Rã‰cehQèè–§!ÿ&TR§RTwTSOSNYXR(W§!§!\n\n§Y:VÈpú^®‹(W¹pûQå‹	y˜KNMRã‰cehQèè–ÿ§!"
+ FOIDisasterEvents.191.name:0 "ÍSQb"
+ FOIDisasterEvents.191.desc:0 "KS¡r›Q‹NÔYXTO„v,rN!k?eØS1Y%ÿFOƒRìNˆVëV¿OÆQY¨RXT°syV„vè–ÆQYfk›Rã‰ce'YOÿbìNÅV‰˜Æ–TlQ>yfkÅˆåNYtÙ›NÛS’Vÿ"
+ FOIDisasterEvents.191.aa:0 "ÄuÇuÍS—bÿG•‹SƒRìNÿ"
+ FOIDisasterEvents.191.bb:0 "ÀNHNÿÿ"
+ FOIDisasterEvents.192.name:0 ">SðX"
+ FOIDisasterEvents.192.desc:0 "–NwTwTSO«ˆ›Q?eœ^Nbßu»lÿT*N0W¹elQ>yVËY1»yTwTSOÿbìNQNwQ	gûNUOTÕl'`ÿNRýSÞV0RŸS¹p0"
+ FOIDisasterEvents.192.aa:0 "‚Ydk¿OÓumg†N"
+ FOIDisasterEvents.193.name:0 "ÛS­ˆ"
+ FOIDisasterEvents.193.desc:0 "›Q‹NÔYXTO„v=ecw(Wpe*NwýNÑSw†NÛSqNv^µc6R†NSV0Wnc¹pÿbìNÅV‰˜ZPúQLˆ¨R†N0"
+ FOIDisasterEvents.193.aa:0 "ûQƒnÖNìN"
+ FOIDisasterEvents.194.name:0 "fkÅˆ¨RXT"
+ FOIDisasterEvents.194.desc:0 "…Qbgô•T*NlQ>yfkÅˆKNô•NÛS›Q„v‰N:YNôv(WÛLˆÿw(WgÑ[event_province.GetName]„v0W¹efkÅˆ(WNÛS›Q„vb—eKN-NÍ‘°e:YÖS†Nå‹0W„vµc6RCg0"
+ FOIDisasterEvents.194.aa:0 "ˆV‹Y"
+ FOIDisasterEvents.195.name:0 "²Qz"
+ FOIDisasterEvents.195.desc:0 "[event_province.GetName]lQ>y(WgÑm0R†NÛS›Q„v­ˆûQÿ0W¹e(W(W4NöeÆ–Óu†NluQKNT¿Oˆ”ùRå‹0W:S„vµc6RCgUSV†N‰N:Y0"
+ FOIDisasterEvents.195.aa:0 ">muQ=eôc"
+ FOIDisasterEvents.196.name:0 "=eôc"
+ FOIDisasterEvents.196.desc:0 "KS¡r(WÙ*N÷mqN„vöeãNÿÏk*NlQ>yý(WÙVŽNôu²bê«Ž‰RhQ„vTöemN(Wó`¹e¾‹Õl„v=eôcNwlQ>y0gÑ	g0W¹elQ>y	gNybirDÐµbv^²N1u'YO=eM‘ÿggbìNýwYKSëV‰|ŽxÙ:WÛSqN0"
+ FOIDisasterEvents.196.aa:0 "(uÙybirD­‹Ãu°euQ"
+ FOIDisasterEvents.196.bb:0 "(uÙybirDeˆEQ0?e"
+ FOIDisasterEvents.197.name:0 "0W¹efkÅˆ"
+ FOIDisasterEvents.197.desc:0 "KS¡r›Q‹NÔYXTO„vÛSqNüRô†NbìNi—‹T›QàQNNhQè—‰Í‘ÄuÿFOÍN6q	g*N+RlQ>yýwYbÅb­‹Ãui—‹T›Q„výw›Rÿw1S(WgÑÿ	g0W¹elQ>yT'YOûy²N†NN=ei—‹T›QÿggbìNýwY‰V•^‰|ŽxÛSØSw0"
+ FOIDisasterEvents.197.aa:0 "ÊSöe„v=eôc"
+ FOIDisasterEvents.198.name:0 "z­ˆ"
+ FOIDisasterEvents.198.desc:0 "…Qbgô•ÛS›QíQPKNMR(WT0Wú^Ëz„v›Q‹Nnc¹pN­e„v­ˆûQv^`S†˜4NÑlQ>yÿwgÑ[event_province.GetName]lQ>ym0R†NÛS›Q„vz6q­ˆûQÿluQNLe«ˆë²dÿå‹0W:S‚föe«ˆÛS›QNbµc6R0"
+ FOIDisasterEvents.198.aa:0 "å‹‰k"
+
+ FOIDisasterEvents.200.name:0 "YÃq"
+ FOIDisasterEvents.200.desc:0 "1uþfÏujO:NTwTSO)RQR„v›Q‹NÔYXTONb¾|ÃVVrR„v?eØSÿh×VNwTwTSO†SòS„vgNO¹pÿ÷mqNŒTÍSÛSEQ¥ehQýVNN0w–NwÛS›Q«ˆƒwnÿ›Q‹NÔYXTO„vbXTmNúW,g«ˆhQèƒwnÿdk!kqS:gmN±RJTÓumg0–NwùR›Q‹NÔYXTOTøvsQºNXT„vn—rÿØurÞúQ†N'YO-N„vNû|RP%bXTÿ'YOùRÙ›NøvsQºNXT†vZPúQ†N¡R¯‹ÿv^VËYNwKbb`YTwTSO„v›Q‹NÄub0›Q‹NÔYXTO(W'YOˆcaKNNS‰V•^«ˆ9eÄuÿSnxÝOvQbXTàVŽNTwTSOÿjgÝudk‰|‹NöNQ!kÑSu0\n\nTwTSO„v*gegÍN6qNGrIQfÿi—‹T„vÈpkpS(WdkKNTçuíuŠqŠqÃqçp0"
+ FOIDisasterEvents.200.aa:0 "‚Ydku‹Y"
+
+ FOIDisasterEvents.210.name:0 "Am"
+ FOIDisasterEvents.210.desc:0 "ùRŽNTwTSOegô‹ÿv^NXR(WD–^SýVÙN‚iõVÿNRýV¶R(WTwTSO-N„v0WMO†v=fs^IrÿÅV‰˜åNlQ>y:NUSMO‡eQTwTSOÿ&TRvQÖNlQ>ySÒbÝub²‹å‹ýV¶R^SŽNTwTSO„vNèR0\n\n1uŽNbìNÝÌw†Nå‹y˜ŸSRv^àeÆ‰†NT*NlQ>y„v—b®‹v^ôucNwY*ND–^SýVÿàVdkNy˜®‹Hh«ˆÐcN†N®‹zÿ'YOÅV‰˜ZPúQ	ébÿ‰HN©‹°s(WNbŒ„vD–^SýVËzIRŒTbìNÛLˆTv^Ù>f6qN*YïSýw«ˆbìN„vD–^SýVTaÿ‰HNNÖNìN‰V•^RnLuP–ÿR­eTwû|0\n\nNº‹ZPúQUOÍy	ébÿbìNýÅV‰˜‚VN›NN‰0"
+ FOIDisasterEvents.210.aa:0 "wegêS	gb‰NýwYã‰³QÙNR"
+ FOIDisasterEvents.210.bb:0 "–ÖNìN»S'T"
+ FOIDisasterEvents.220.name:0 "s^o`"
+ FOIDisasterEvents.220.desc:0 "–NwTwTSONQåb	gûNUOD–^SýVÿNRmN‹ŽNs^Y—ÿNº‹=fÇUOÍy¹eVžR°s„vÿÙýO=fN!k<P—V8TÖSÏuŒš„vYe­‹0"
+ FOIDisasterEvents.220.aa:0 "^g¡l	gNN!k"
+
+ FOIDisasterEvents.230.name:0 "Nhh"
+ FOIDisasterEvents.230.desc:0 "TwTSONbýwYuXRg:NsQ.•„vàV.t¿O=fT*NlQ>yKNô•„vÝQZw›Rÿw–NwNû|R„v³QVr1Yï‹Irî•˜˜ÿÙNÝQZw›RòTÏu×S0R†NT*NlQ>yKNô•„v(‘u0\n\nlQ>yKNô•NQáOûN'YONbjO„v³QšRÿ»ÑlQ>yVËYêLˆ³Q­eùRT‰|‹NÅ`„vYtÿTöelQ>yKNô•„vmNVËYnnm°s0'YOlQáO›Rn)TLXKNöeÿŒµcjO(umN–KN«ˆ›bVÿT*NlQ>yKNô•jo(W„vÛwþvÎ˜i–Næ‰sSÑS0\n\nsÌVÿ`‘uEQ¥eNwte*NTwTSOÿteSONQŒRteÿRÂˆ„vÍyPRòTÏuËWNÿbìNÅV‰˜v(W1YµcKNMRÍ‘°eâVÓuT*NlQ>y0"
+ FOIDisasterEvents.230.aa:0 "¡NŠeˆbrÿ:NöeòTZf"
+
+ FOIDisasterEvents.240.name:0 "4x°Q"
+ FOIDisasterEvents.240.desc:0 "–Nw'YOlQáO›R„vÍ‘°eb`YÿTlQ>yQ!kgÎNŒM‘ÿT*NlQ>yKNô•„vÛwþvmN–KN«ˆNNã‰³QÿÍ‘RVŽN‹Y0\n\n‹†6qÇzv^N‚YNb	gºNNb?aÿFO(WØNúQNšR„vãN÷NKNTÿó`ÅV'YOmNýwY²‹Æ‹0R‚YUOYtT*NlQ>yKNô•„vsQû|‹N¡R0\n\nNº‹‚YUOÿdk!kqS:gmN—r=fz˜)R¦^Çÿggdk‰|qS:gKNTSNQÍ‘o0"
+ FOIDisasterEvents.240.aa:0 "¡NŠeˆbrÿ:NöeNZf"
+
+
+ FOI_CATEvents.0.name:0 "egê[From.GetName]„v÷‹Bl"
+ FOI_CATEvents.0.desc:0 "[From.GetName]jO:Nnm>m(WOÔk)RšNgÍ‘‰„vnc¹pÿ°s(WckTbìN÷‹Bl›Q‹N=eôcåNËNeQOÔk)RšN„v‹N¡RÿÙ=fbìNéTúVnm>mNLu†˜–ˆ0WMO„v'Y‹Y:gOÿ‚Yå‚dk‰|›Q‹N=eôcŠYÿRbìNùROÔk)RšN„vŒcµcSOôf R:V›R0\n\nSV6qÿÎNæSN¹eb—eg²‹ÿ[From.GetName]•dÁkag¦u„vïSýwv^^—NïSýwÿàVdkbìN=f&T”^å‹ËNeQØ	g…VFU·i0"
+ FOI_CATEvents.0.aa:0 "©‹bìN ReQ'T"
+ FOI_CATEvents.0.bb:0 "ÙN&rTbìN„v)RÊv"
+ FOI_CATEvents.1.name:0 "ÞV”^"
+ FOI_CATEvents.1.desc:0 "YŽNTÍyàV.tÿ[From.GetName]ÒbÝu†NbìN„v›Q‹Nôc©R÷‹BlÿbìN°s(WÅV‰˜ìrêb—ùRb‰N†N0"
+ FOI_CATEvents.1.aa:0 "N*NOWˆmo`"
+
+
+
+
+
+ FOI_UCIEvents.0.name:0 "ê1uKNðX"
+ FOI_UCIEvents.0.desc:0 "(W|V—VŒNN’ˆ²bnm>m„vŒvt^KNTÿnm>m>y:Sz˜Nwwm¸S¿uWSNeg0R†N RðlW<SšNÿ–Nwnm>m>y:S„vN­eú^ËzNnm>m,g«ŽùRŽNq™×S)YINYe:k‹S„v•^BSlONuñOeg„v8TV›Rÿ RðlW<SšN(WpeASt^…QekPeQ†Nnm>m„v5–%„SV-Nÿ(WÏu†S†NpeASt^„v²QzKNTÿnm>mYe’VÈuŽN‰V•^`Snc†N RðlW<SšNÿw?–Éb!‹sýVmN–KNh–K„ÿÙ*N(WOÔk)RšN0W:SgÍ‘‰mN=f'k2mnm>mÐ¨R„vÍ‘‰nc¹p¿O(WºNl„va?aKNNú^Ëz†NN*NqQŒTýV0\n\n RðlW<SšNqQŒTýV1uŽNOP‰RŽNOÔk)RšNNWSµOÿNIYLˆ²N?–SÒR?eVrÿàVdkOÔk)RšN„vbkpàQNN¡l	gqVÍT0Rå‹0W:SÿFOÙv^NasTNwÙ*N°etQ„vqQŒTýVNOÈúQVg„vek0w(W?–¯eþVÌ‘šN¯eýV‹sO<h³u‰	NNÑS¨R†Nˆ”ùRþV±ƒþVÉb„vASWR›QÿQ!k¹pÃqOÔk)RšN„vŠqŠqÈpkp„vpeASt^KNTÿÙ*N°etQ„vnm>mqQŒTýV¿OTNLu±RJT†NOÔk)RšN„vßuN0\n\n6qw‹NÅ`„vÛUSv^*g‚YÙ*NqQŒTýVNb„˜™e„v¹eTÛUSÿÎ¥cßuN„vN=flO„v0k|Tÿw=fN:WòSàeMR‹O„v'Ye™Rƒ0+.v„vOÔk)RšNJS›SO—VvQNÛLˆ„vœQNIm¨R×SP–ÿÛwüRôœQNúWNxASR„…1Vÿ RKN•¾peŒvt^„v6eY1Y0WÐ¨RÿbqNmNgdÁk†N(WŒTs^öegNbú^Ëz„v'YèRœQNNKbåTNúWNx¾‹Ëe0\n\nwôf Rß|Õ|„v=fÿqQŒTýV?eœ^…QèéeòT«ˆP%PŽ†„vCS®uŒvTR01uŽN(WßuNb‰Ngô•Ç¦^ûRBl?–SÒR„vôc©RÿüRôqQŒTýVŒr¢‹†NNû|RúQVSýV¶R)RÊv„vag¦uÿwÙ›Nag¦u(WÇ»SØýwYÉR:VôucÿFOOÔk)RšN„v'Ye™RƒR‰V•^ûQ®W†NqQŒTýV„v0?eÿ?–SÒR‹sýV>f6qNO>eÇÙN'Y‹Y:gOÿ¿O(W R't‰BlžR°sKNMRag¦u„vTöeûRBlÛNekµc6RqQŒTýV„v:gO0\n\neQNweúQ„v0?eO—VqQŒTýVZPúQ†NN*NSÁkmpƒRìN„v³QšRÿçuíuTéeòTÝOˆRe™Rƒgd‹k„vœQl Rzÿ‚YdkN—VºNÃV„v?eVrê6qm0R†NT0W„v:VÈpÍSùRÿw:N†NýwYÛNek3zšRýV¶RÿqQŒTýV³QšR÷‹Bl?–SÒR‹sýVúQuQG•‹ST0W„vÛSqNÿÙN>NªcR‰V•^¹pÃq†N-NNBSlO„v`kpÿþfÏuú^ËzwegÕ‹þVÝO²bºNl„vqQŒTýVgÈu¦lK„:Në³RºNl„våTwQÿN:W-^wSte*NOÔk)RšN„v'Y´f¨R1SdkÉbV^U^0\n\n1uŽN	gNw1»y?–Éb!‹sýV„vÏu†SÿàVdkdk!k'Y´f¨RIN‰Æ–-N(W RðlW<SšN0W:SÿþfÏu(WOÔk)RšNb‰NSV-Nq™×Sgd‹k„v-NNBSºNl(WdköeòTÏu‰V•^1Y»S†NùR?eœ^„váOûNÿNQøváOýwY	gûNUOýV¶R?eœ^:g„gýwYÙuˆNÖNìNwck„vê1uÿNÍyMRNb*g	g„vê1uININtõVÅÎN RðlW<SšN0W:STY…ö^ÿwÙNtõV„vgÈuîvh=fú^ËzN*NŒRhQê1uÿºNºN†v	gS%N„v>yO0‚Yå‚(Ws^8^dkIr¯uŠ¯uí‹ÅV6qNïSýw«ˆ‚Ydk^Ûl„v.O­dÿFO(W¨Raƒ„vOÔk)RšN0W:S:×S0R†N•^BSlO„v^Ûl=ec0ˆVëVÿ2a`„vlO¿OIe`S†NôT^XW±ÿ‰Blã‰ce°sûN?eœ^0‚YdkàeKzKNŒ>f6qNO«ˆqQŒTýVNb¥c×SÿFOT0W„v´f¨RO—VqQŒTýVØšBSºNºNêqSÿàVw	ébŽV?–SÒR‹sýVÛLˆ¾–0\n\ndköedkIR„v RðlW<SšN°s(WòTÏub:N†NTN&ržR„vzzóXqQŒTýVÿw°s(WºNl—‰ZPúQÖN„v	éb0"
+ FOI_UCIEvents.0.aa:0 "Üw)RÈuS^SŽNºNlÿ"
+ FOI_UCIEvents.0.aa.tt:0 "(WŒp¾–§ROÔk)RšN'YwIN§!SV-NÿbìNS=ec§YºNl§!\n\n§R?–SÒRSNOPWÆ‰Nt§!\n"
+ FOI_UCIEvents.0.bb:0 "qQŒTýVØ*gmp¡Nÿ" 
+ FOI_UCIEvents.0.bb.tt:0 "(WŒp¾–§ROÔk)RšN'YwIN§!SV-NÿbìNS=ec§YqQŒTýV§!"
+
+ FOI_UCIEvents.1.name:0 "OÔk)RšN…Qb"
+ FOI_UCIEvents.1.aa.desc:0 "KS¡r RðlW<SšNqQŒTýV«ˆkb0WúQè•ÿFO?–SÒR‹sýVùRbìN„vqVÍTÍN6qASRèT'YÿwÙÍy›RÏ‘(W¨cû RðlW<SšNqQŒTýVKNTaoaÈp0\n\ngÈu(WÊN)YÿN*Nb:N‰ísYrTwßv„v°etQqQŒTýV«ˆú^Ëz†NwegÿÕ‹þVÖSãNlQ>yÿw?–SÒRmNùRbìNÑSw†NgTRr0\n\n>fwfÁ‰„v=fÙ*NNbŒ„v‰ísYrTwßvNÇ=f?–SÒR„v,rŒN*NŽP!QÿwlQ>yhQSOºNlSôu²bÖNìNNb‰NÖS„vweg„vê1ub‰NSO=fgT„vTrHh0"
+ FOI_UCIEvents.1.bb.desc:0 ""
+ FOI_UCIEvents.1.cc.desc:0 " RðlW<SšNßuN„vOÔk)RšNNÇ=ff±‚N°sÿvQN3zúV„v9húW(WdkIR«ˆÞ9hÔbwÿ(W RðlW<SšNqQŒTýVh–K„KNTÿ°etQ„vqQŒTýV‰ísYrTwßvÍ‘°e«ˆú^ËzÿwánT`kp„vOÔk)RšNºNlRSŒRhQNb²‹Ù*NýV¶RÿRÂˆININQ!k-^wS†NOÔk)RšNJS›Sÿw=U	gb‰NMbýwÓumgÌS¹e„v‰Nïz0"
+ FOI_UCIEvents.1.aa:0 "bìNÅVSÜw)Rÿ"
+
+ FOI_UCIEvents.2.name:0 " RðlW<SšNšš¨R"
+ FOI_UCIEvents.2.desc:0 "lQ>y„vú^Ëz=fASRÓNÃO„vÿT‰||œ™Ÿ÷mBg„v)RÊvÆ–âVÅNÅN=fÇøvT„vîvhwZwÆ–(WNwÿFOSVÐgN>mû|„vÉ‹Bl…ÇvQýw¹RÍV„vƒôVKNöeÿÅVSVwvQNán0\n\n1uŽNÑ›NåePR(W RðlW<SšN0W:S:Nb‰NZPÆQY„vIm¨RVw†NSV0WlQ>y„vNán0NvQÖNlQ>yNTÿ RðlW<SšN0W:SåN`ó`ÀoÛW„ðyÿv^N¦^Ðc®‹ÖSˆm?eœ^ÿú^ËzNÍyŒRhQ¡l	gýV¶R¦umg„v0W:Sÿå‹¹eHhgÈu«ˆ&T³QÿÖSwãNKN„vR=f‰Blåb	ggØš„vê»lCgÿ&TRƒRìNSO1»yte*NlQ>yTwTSO0"
+ FOI_UCIEvents.2.aa:0 "TaƒRìN„vÉ‹Bl"
+ FOI_UCIEvents.2.bb:0 "bìNNÆ‰TÁN"
+
+ FOI_UCIEvents.3.name:0 "ffKNkp"
+ FOI_UCIEvents.3.desc:0 "KS¡rbìNòTÏuã‰>e†Nte*NOÔk)RšNJS›S„vºNlÿFObìN„vtó`v^NNSP–ŽNdkÿ(WbìNNbåw„vNLuSV-NÿØ	gàepe„vTÞwck(Wm×S‹SëNeRJRÿbìNÅV‰˜SÖNìNÎN±›N0WIN5ÏeSV-Nã‰>eúQeg0\n\nKS¡rpeÏ‘zSÿFO'k2m0W:SÍN6qXR(WNwNbìNc	gøvTtõV„výV¶R?eCgÿbìN”^å‹Twû|N=eôcƒRìNÿNT:N†NqQT„vtó`wçuíuTMR0"
+ FOI_UCIEvents.3.aa:0 "TƒRìN.O¾bìN„vtó`ÿ"
+ FOI_UCIEvents.4.name:0 "qQTtó`"
+ FOI_UCIEvents.4.desc:0 "gÑbìN6e0R†Negê[From.GetName]„vegáOÿƒRìNêðyNbìNN7h=f:N†NºNl„v)RÊvwbÿggbìNýwYNTTwTwegùR—bvQÖNùRbìNN†Æ‰ww„výV¶R0\n\n‚Yå‚bìNTaÿ[From.GetName]NbÙuˆN„virDSO©‹bìN„v›Q‹NåNÊSÏuNmÅ`µQ'Y	g9eÂ‰ÿwNåb	g‚YdkwQ	gžR›R„vßvËSSýwYÛNekÝOÁ‹bìN„v‰RhQÿNº‹ÎNUOÍy¹eb—egwÙý=fASR	g)RŽNbìN„v	ébÿFObìNÍN6q	gÒbÝu„vCg)R0"
+ FOI_UCIEvents.4.aa:0 "©‹bìN:dKbv^Û"
+ FOI_UCIEvents.4.bb:0 "bìNæS	gSb—r"
+
+ FOI_UCIEvents.5.name:0 "qQTtó`"
+ FOI_UCIEvents.5.desc:0 "NvQÖNœQlqQŒTýVNTÿÙ*NMOŽNW¯e0W:S„vœQl?eCg	gNwNbìNàQNNNô„vtó`NtõVÿv^NZWšR„vÙz(WœQl„vN¹ev^:NêñT„vXR(WwN­e0WNvQÖNÍS¨R¿R›RwÛLˆNw—e‰N0\n\nbìN	gÅV‰NÖNìNÛLˆN!kñmeQ„vTjO²NAmÿ:N†NbìNNbåb	g„vqQTtó`wNTTMR0"
+ FOI_UCIEvents.5.aa:0 "©‹bìNhˆfega"
+
+ FOI_UCIEvents.6.name:0 "Ü¹eegáO"
+ FOI_UCIEvents.6.desc:0 "ÑåeÿbìN6e0R†NegêeÜ0W¹e„vegáOÿOÔk)RšNJS›S(Wpe*NNªu„v·u‰NÿÏu†SNû|RØSEeKNT«ˆœQlNbµc6Rÿv^bËz†NN*NåN'Y'YSSpeAS*NlQ>yNbÄub„vlQ>yTwTSOÿÙNbìNqQŒTýV„vtõVNtó`NŒwT0\n\nw1S(WgÑƒRìNIN¨R„vTwû|N†NbìNÿggýwYNbìNNT:dKbÿ‰|ŽxNR=eM‘NwTýVºNl„v·g•ÿã‰>eNb	gØY(W4lukpípSV-N„vlO0"
+ FOI_UCIEvents.6.aa:0 "©‹bìNNTžR°sÙO'Y„vtó`ÿ"
+ FOI_UCIEvents.6.bb:0 "ƒRìNv^N<P—VbìNáOûN"
+
+ FOI_UCIEvents.7.name:0 "lQ>yi—‹T›Q"
+ FOI_UCIEvents.7.desc:0 "TwTSO„vbËzv^¡l	gYENÿT*NlQ>yÍN=fO`—b‰Ngô•VìSluQÛLˆjObÿàVdkKS¡r(Wb‰Ngô•ýwY·ƒ—VºNpeN„vO¿RÿFO=fv^*gÏuÇNN­‹Ãu„vè–OO—VsS¿O=f(WÜw)RKNTÍN6qØNúQ†Ng'Y„vmc1Y0\n\núWŽNNðŸSàVÿO®‹ybÆQ†NbËzN=e¾|•„vè–i—‹T›QÿvQSÎNT*NlQ>yVìSúQO„vëXuQåNÊS›Q˜RÛLˆÆ–-N„vNN­‹ÃuNùW‰Qÿv^nxÝOvQýwY:NTwTSO„vºNlwbÿwnf„vlQ>yluQ(WdkKNTÅNjO:Nb:WN„v!k‰è–…©Ri—‹T›QÛLˆjOb0\n\n1uŽN(WdkKNMR5ÏeàQNNŒcµc†NqQŒTýV‘šuQ„v­‹ÃuÄubÿàVdk(W‰V•^n45ÏeKNTÿbìNˆV¾–ÄubÏP7h„v‘šuQè–ÿbìNÅV‰˜”^ÙNÅ`µQv^GPåNöeåeb`Y°s(W„vðVƒX0"
+ FOI_UCIEvents.7.aa:0 "ˆV‹Y"
+ FOI_UCIEvents.7.aa.tt:0 "bìN„v§Yi—‹TkS–§!Sˆmd–§YlQ>yfkÅˆ§!b—îOckNb&^eg„vqVÍT\n\n(W§Y›Q‹NLub—§!ã‰•§Yi—‹T›QÑSUS>PT§!ýw›RÿAQ¸‹bìN(W	N*N¹eb—„vvQ-NKNN:VS§Yi—‹TkS–§!"
+
+ FOI_UCIEvents.8.name:0 "lQ>y,rN®puQuQâV"
+ FOI_UCIEvents.8.desc:0 "–Nwkp®pŽb=g„vN­eÑSUSÿbìN„vb‰NKbµkmN”^å‹ÛLˆGSµuÿîvMRkp®p„v”^(uIN‰SO°s(WIeÎWb-NûQ4xÎW™XÿFO(WÎ‘bÇz-NXR(Wg'Y„vNSP–'`wüRôvQÛl(u'`v^NØš0\n\nNÇbìNýV…Q	gN¶RcúQÿ‚YœgýwY9eÛvQÑSS„v9VoƒÿOvQýwY(WÑSSKNTNšRÝ»y1SrÂˆceS:NãS„VôfS„v9V8Nÿv^N©‹å‹fkhVbÄ‰!j„vèrŽNb:WKNNÿ1SïSåNÇTLeºN•bSpeÏ‘ž^'Y„v9VoƒÿåNÝuùR„vkp›RgdÁkLe¹e„vè–0\n\nÏuÇNµköeô•„vxvzÿbìNbŸRžRŒš'`„vÄuú^†NN=eåNå‹tõV„gb„vuQâVÿKS¡rvQXR(Wø‹Yî•˜˜ÿFO=UNïSåN¯wšR„v=fÙ=euQâVNbåb	g„vkp›R³YûQƒnvQb—MR„vNb	gLeºNMRÐc=f`OýwY¢bHQLeºNÛLˆVkp0"
+ FOI_UCIEvents.8.aa:0 "ÀNHNëSO¿Rkp›RfRô‹ÿ"
+ FOI_UCIEvents.8.aa.tt:0 "bìNSýwÇ–cON*NhQè1u§Y®puQ§!Äub„vÇ–cOuQâV§YlQ>y,rN®puQuQâV§!"
+
+ FOI_UCIEvents.9.name:0 "f¬p‚YIQ"
+ FOI_UCIEvents.9.desc:0 "–NwTwTSO…Qèî•˜˜«ˆNNã‰³QÿOÔk)RšN0W:SmNQ!kqÑSu:gÿbìNÈuŽNïSåNgTvQÖN0W¹eÿ»Sã‰>e±›NÍN(WðVæ‚KN-N„vºNlÿ©‹bìNØš>N¬pkpÿgq®NNLu„vÏkN*NÒ‰K„ÿ"
+ FOI_UCIEvents.9.aa:0 "i—‹T„vÈpkp(WdkIRVËYŠqŠqÃqçpÿ"
+ FOI_UCIEvents.9.aa.tt:0 "Nb	gNbìNÓußv„vÑSUS¦^(W§Y200§!åNN„v§Yi—‹T?eCg§!N§YœQlqQŒTýV§!„výV¶RSNbìNTv^"
+ FOI_UCIEvents.10.name:0 "XNípSbÁ”"
+ FOI_UCIEvents.10.desc:0 "–NwbìN(WWSa'Y)RÙz3zßÿlQYe„v-NÃVWlšmN1SÑ(W«T:S0bìNvQ-N	gºNÐcúQïSåN°s(WËzIRÛ›QWlšåNgdÁkÙ*NPKgN*X„vYe÷^ÿÙSýwYÀoÑSºNlÛNek„vi—‹TípÅ`ÿFObìN—‰ŸeL‘Ù7hNb&^eg„v%NÍ‘Tœg0"
+ FOI_UCIEvents.10.aa:0 "ËzIRLˆ¨Rÿ"
+ FOI_UCIEvents.10.aa.tt:0 "bìNSËzIRùR§YWlš§!„vNb	gwÛLˆ±Rbÿ‚YœgvQNb	gw:N§YYe—RýV§!ÿvQÖN)YINYeýV¶RSNOPWÆ‰Nt0"
+ FOI_UCIEvents.10.bb:0 "zTQº‹"
+ FOI_UCIEvents.11.name:0 "ÂrÎ˜´fè–"
+ FOI_UCIEvents.11.desc:0 "–NwTwTSO(WWSa'Y)RÙz3zßÿvQÎ‘ÃVmNÛNekib.Vÿv^N1S(WgÑT1Wµ^±Rbv^Õ‹þV‰V•^¹bd–Ye÷^0\n\nïSåN„˜™e„v=fÿ‚YœgWlšw–K„ÿ±HNbìNTwTSO„vi—‹TípÅ`mNSÛNekžX•ÿZÁw0Rte*N)YINNLuCNóTIN6RýV¶R„vßu»l0WMOÿbìNÅV‰˜NaÍ‘wQ†=f&T‰ËNeQÙ:Wb‰N"
+ FOI_UCIEvents.11.aa:0 "bìNSÝO²b1Wµ^"
+ FOI_UCIEvents.11.bb:0 "ÙNbìNàesQ"
+ FOI_UCIEvents.12.name:0 "ã‰ceYe÷^"
+ FOI_UCIEvents.12.desc:0 "–NwWlš«ˆi—‹T›QIe4xÿ•g(W)YINYe÷^eRJR‹S¨i„vºNlÈuŽN(WdkIR«ˆbìNã‰>eÿw±ïye†N'YÏ‘0ÌR„vYe÷^Ñ‘“^mN(WdkIR:NTwTSONb(uÿÙrèT'Y„v0ÌR(WÏuÇ'YO„vFU®‹KNT³QšRRÑSÙuT*NlQ>yºNl0\n\nÏudkNbKNTÿlQYeCgZòTaƒ6qàeXRÿÙùRºNlwŠ=fN!kO'Y„vÜw)Rÿ"
+ FOI_UCIEvents.12.aa:0 "a'Y)R„v-NÃVòT«ˆã‰>eÿ"
+ FOI_UCIEvents.12.aa.tt:0 "S§Y50§!¹pÑSUS¦^–:gRM‘0RbìNNbåb	g„v8hÃVwýN"
+ FOI_UCIEvents.13.name:0 "S^—±R²‹"
+ FOI_UCIEvents.13.desc:0 "–NwbìN(WS^—Ùz3zßÿ—RYeî•˜˜mN–KNwegÿÙGrW0WNôvåNegýYŽNFz¯e—g„vßu»lKNNÿbìN—‰nxšR(WÙGrW0W„v±R²‹?eVr0\n\nÀoÛ>m²‹:N”^SV©‹ÖNìNËzIRˆvOŽNbìN„výVYeÿ)nŒT>mR²‹:NR”^å‹VVþVKN0Nº‹bìNÇ‘ÖSUOÍy`¦^ÿÙGrW0W„vºNlmNgÈuSˆvOŽNbìN„váOðN0"
+ FOI_UCIEvents.13.aa:0 "Ç‘ÖS.Oßu„v±R²‹¹eV"
+ FOI_UCIEvents.13.bb:0 "babaeg'T"
+ FOI_UCIEvents.13.bb.tt:0 "bìNKNTNbåb	g„v—RYe(W§YFz¯e—g§!—RYeÄu„vwýNSO·ƒ—VN*NîOckÿåb	gå‹îOck„vwýNSOba„vlØS:NbìN„výVYe"
+ FOI_UCIEvents.14.name:0 "idmåTlQ>y"
+ FOI_UCIEvents.14.desc:0 "–NwidmåT0W:S«ˆbìNNbteTÿbìN—‰ÙuˆNå‹0W:SN*NT„vLˆ?eSOû|ÿwîvMR	g2N*N¹eHh0\n\n‚Yå‚bìNÙuˆNå‹0W:SôfY„vê»lCgÿ±HN(WTwTSOKN-Nå‹lQ>ySÑSUS„vôf RAucƒÿbwbìNmNïSåN¨cLˆ(WOÔk)RšN0W:S„v6R¦^ÿSidmåT0W:ShQèteTeQbìN„vLˆ?eSOû|0"
+ FOI_UCIEvents.14.aa:0 "ÙuˆNƒRìNôfØš„vê»lCg"
+ FOI_UCIEvents.14.bb:0 "bìNNd:S+RùR…V"
+
+ FOI_UCIEvents.15.name:0 "Œ‚KQ¯e¡R2R"
+ FOI_UCIEvents.15.desc:0 "[GetYear]t^ÿ?–SÒR„v–™ýŒ‚KQ¯e«ˆIew–ÿÙmN±RJTNwÇ»SþfÏur^‰mTwTSO„vÍS¨R¿R›R1Sdk‰V•^«ˆûQƒnÿÎW^„v‡v«R«ˆm«RNzzÿ(uåNeˆEQT*NlQ>y„v0?eÿTöebìNmN—‰YtæSNöN‹NÅ`0\n\n(WŒ‚KQ¯eIeÎWbKNTÿ	g'YÏ‘‹slQ5Ïe«ˆØO·ƒbTbìN•bM–ÿwbìNmN—‰ùRÖNìNÛLˆYnÿ=fSÖNìN²NˆNºNlYtÿØ=f1u'YOßuNhˆ³QÛLˆ¡R2R0"
+ FOI_UCIEvents.15.aa:0 "ºNlêOZPúQ³QšR"
+ FOI_UCIEvents.15.aa.tt:0 "S§Y15§!¹pÑSUS¦^–:gRM‘0RbìNNbåb	g„v8hÃVwýN"
+ FOI_UCIEvents.15.bb:0 "©‹bìN²Nê¡R2RÙ›N¶RO"
+
+ FOI_UCIEvents.16.name:0 "›Q‹NÔYXTO"
+ FOI_UCIEvents.16.desc:0 "–NwbìNF–›QÄ‰!j„vN­ežX RÿbìNÅV‰˜wQ†0RbìN°s	g+ON„v¡rtýw›Rv^Nýw=e‘dw‚Ydkž^'Yè–„v¡rtNÄuÇu0\n\n:N†Nã‰³Qå‹î•˜˜ÿNèR'YObXT²‹:NïSåNbËzN*NNè•¡rt›Q–„vÄuÇuÿlQ>y›Q‹NÔYXTOÿå‹èè•èe(WSTwTSO„vI`uQCgûy²NŽNNèRNè•ÎN‹N›Q‹N¡rt„vS›QÿÙ7hýwYg'Y„vÐcGSbìNùRŽN'YÄ‰!j›Q–„v¡rtŒ¨Rýw›RÿTöeýwYÃOÛ	ÔbT0W°eÀyÿOKN1–˜wúQv^:NbìNqQT„vi—‹T‹NNZPúQ!.s0\n\nNÇûy²N›QCgùRŽNTwTSOegô‹ÅV6qmc³RvQNôvåNeg„vqQŒT.OßuÿÙNLˆ:NàeVŽNËn‰QN6RNìrÁˆ„vWäXÿÙvQ-NmNSUR²wN›NNïS„˜™e„v‹NÅ`..."
+ FOI_UCIEvents.16.aa:0 "N*N‹YÐc®‹ÿ"
+ FOI_UCIEvents.16.bb:0 "±HNŒeg¡rtÖNìNbTÿ"
+
+ FOI_UCIEvents.17.name:0 "ú^Ëznc¹p"
+ FOI_UCIEvents.17.desc:0 "Ñåeÿ›Q‹NÔYXTOwIƒ†NNýNibEQ[event_target.GetName]0W:SfkÅˆ„vÐc®‹v^ûy²NÙu'YOÿå‹y˜¡‹R„vDÑ‘†v1uvQìrêbÅbÿ'YOÅN—‰²‹TsSïS0\n\n‚YœgTa„vÝ‹[event_target.GetName]0W:S„vuQnSOôf REQ³ÿv^N'YOSýwYôf	gHe„vS‹TäNN¾0Rå‹0W:Sÿ1uŽNÙNLˆ:N¯wšROÛbôSV0WºNl„vNánÿàVdkbìNmNïSåN	ébÒbÝuÿNÇ›Q‹NÔYXTO¯wšRNPNa'YOÒbÝuÙy˜‰Bl„v0"
+ FOI_UCIEvents.17.aa:0 "ybÆQå‹Ðc®‹"
+ FOI_UCIEvents.17.bb:0 "ÒbÝuÖNìN„v‰Bl"
+
+ FOI_UCIEvents.18.name:0 "ibú^nc¹p"
+ FOI_UCIEvents.18.desc:0 "Ñåeÿ›Q‹NÔYXTOwIƒ†NNýNibú^[event_target.GetName]0W:S!X’W„vÐc®‹v^ûy²NÙu'YOÿå‹y˜¡‹R„vDÑ‘†v1uvQìrêbÅbÿ'YOÅN—‰²‹TsSïS0\n\n‚YœgTa„vÝ‹[event_target.GetName]0W:S„v2–¡Výw›RSOÛNek R:VÿLeºNSOôf¾–åNIeNå‹0W:Sÿ1uŽNÙNLˆ:N¯wšROÛbôSV0WºNl„vNánÿàVdkbìNmNïSåN	ébÒbÝuÿNÇ›Q‹NÔYXTO¯wšRNPNa'YOÒbÝuÙy˜‰Bl„v0"
+ FOI_UCIEvents.18.aa:0 "ybÆQå‹Ðc®‹"
+ FOI_UCIEvents.18.bb:0 "ÒbÝuÖNìN„v‰Bl"
+
+ FOI_UCIEvents.19.name:0 "VßR"
+ FOI_UCIEvents.19.desc:0 "›Q‹NÔYXTO«ˆˆcˆN†Ni—‹T›Q„vVßRåNÊS­‹Ãu„vLw1ÿàVdkvQïSåN(W'YO„vTaKNNÛLˆi—‹TkS–„v­‹Ãu0\n\nÑåeÿ›Q‹NÔYXTOgg'YOýwYÙuˆNNšR„v=ecåN­‹Ãui—‹TkS–ÿ(uåNžX:VbìNTwTSO„vteSO›Q‹NžR›R0"
+ FOI_UCIEvents.19.aa:0 "ybÆQå‹Ðc®‹"
+ FOI_UCIEvents.19.bb:0 "ÒbÝuÖNìN„v‰Bl"
+
+ FOI_UCIEvents.20.name:0 "²Qz"
+ FOI_UCIEvents.20.desc:0 "Ñåeÿ0W¹elQ>yfkÅˆN›Q‹NÔYXTOfkÅˆ(W›Q‹NirD„vRM‘uLˆÑSu†N²QzÿSV0WlQ>yàeÕlŒã‰SV0W„vÛwþvÿàVdkå‹î•˜˜ûy²Nó'YOÛLˆYt0\n\nÙyb›Q‹NirD„vegnASRYBgÿÎNŸSRNegô‹2NwGW	gO(uCgÿàVdkbìNNº‹‰R’cÙuêTN¹eýOÛbôæSN¹e„vÍSa"
+ FOI_UCIEvents.20.aa:0 "RM‘Ùu›Q‹NÔYXTO"
+ FOI_UCIEvents.20.bb:0 "RM‘Ùu0W¹elQ>yfkÅˆ"
+ FOI_UCIEvents.20.cc:0 "'YO	gCgŒM‘ÙybirD"
+
+ FOI_UCIEvents.21.name:0 "t'`TÜb"
+ FOI_UCIEvents.21.desc:0 "äSw„v^yŒTÖN„vvPÏPìN(W‡efNLub—MR`WK„ÿ•g«ˆàeåw„v·g•FcÑuOO„vºNl(WN*NhQ°e„vNLub—MRÉ‰’‘†Nÿ=föePFd1±›N—RYe„vAu‡e‚‚ÿN^òT‰kÿNir†vAQÿ©‹bìNåb±bôf Rt'`„v*geg0"
+ FOI_UCIEvents.21.aa:0 "ôfÛNekÿ"
+ FOI_UCIEvents.21.bb:0 "bÉ‰—V°s(W1SˆV‹Y"
+
+ FOI_UCIEvents.22.name:0 "lQ>yTwTSO"
+ FOI_UCIEvents.22.desc:0 "1uŽNå‹ýV¶R?eSO„vyrŠk'`ÿàVdkÙÌ‘ÙuúQN›NïSýwOS8n©sAmzSOŒš„vàQ¹pú^®‹ÿ\n\n1.1uŽN§ROÔk)RšNlQ>y-MRÛ5–¿u§!IN‰åNŒp¾–qš¨R8nbÛzÿàVdkvQŒp¾–YÍyY7hÿ	g›NØïSåNÍ‘Yæ‰ÑSÿ'YèRÅ`µQNý	gYpeŒp¾–(Wû‹agÿàVdk÷‹HQZP‹YÃVtÆQYÿÙ›NŒp¾–v^¡l	gwN»S±HNïS`ÿuóïSýwØ	gckb—Heœg0\n2.Nú^®‹(WûNUO0W:SV¾‹lQøS0\n3.Nú^®‹>eûNUOD–¸^ÿ‹NöNú^Ëz„vd–Y	ÿ0\n4.Nú^®‹'YÏ‘O(ucOuQjO:NIN›RÿvQb—e›RSOôfNON±‚9OôfØšÿ‹NöNã‰•„vyrŠkcOuQd–Y	ÿ0\n5.Œ˜î•b—góSµO„vUIïSåNàeagöN	éb'YO„v	Ny˜yr(ÿHQ¹pûQNNN*NtõVýiÿQ	ébyr(ÿQ¹pûQN!ktõVýisSŒRbN*Nyr(„v	ébÿUIæTNÒ‰„v	c®”NóSNÒ‰„v	c®”†vïS’N¨R0\n6.vQÖNýV¶RŒTêñTNbåb	g„vwýN†v	gìryr„v’N¨R	c®”ÿvQïS(WwýNú^QrLub—Œb0R0\n\nóŽNvQÖN…Q¹RØ÷‹TMOêLˆ8n©sÿky`O	gN*No‚‹Y„v8nbSOŒš0"
+ FOI_UCIEvents.22.aa:0 "†Nã‰†N"
+ FOI_UCIEvents.22.aa.tt:0 "÷‹ÔNÆu–û‹Nðô‹fÿv^ùRlQ>y„vúWNxîOck	g›N¸‹†Nã‰"
+
+ FOI_UCIEvents.23.name:0 "uµND™eî•˜˜"
+ FOI_UCIEvents.23.desc:0 "–NwlQ>yTwTSO„v…QbrÑSÿbìNÅV‰˜nxšRîvMRNbåb	g„vDnåNÊSïSýw„v6–µu=ecÿKS¡rYeëX6–µuåNÊSFUºN6–µu(WÇ»SNôv=ecNwbìNÿFOÖNìNNbåb	g„vDnå‚N«ˆbìNNbôv¥cµc6Rÿ±HNTwTSOËYÈuSOYŽN«ˆ¨R¶r`ÿàVdkN!kˆ”ùRÙ2N*N6–µu„vLˆ¨RVËY†NÿåNÝOkSTwTSO:N1uïSåNS'YèR„vuµND™e6eRVT*NlQ>yÿw'YO—‰nxšR=f&T‰V•^µc6RÖNìNÿØ=fTwTÖNìNNTTMR0"
+ FOI_UCIEvents.23.aa:0 "Ùv^N=fú^®‹ÿw=fJT"
+ FOI_UCIEvents.23.bb:0 "mN¸‹bìN—‰ÖNìN„v=ec"
+
+ FOI_UCIEvents.500.name:0 "nbc"
+ FOI_UCIEvents.500.desc:0 "ÈS0R†N0hQSOlQ>yãNhˆ'YO0ºNXTÿfbc„vöePÿ‹†6qŸSRNegô‹Ïk!kÿfbcý—‰ShQèºNXTÛLˆÿfbcåN‰V•^Í‘Äu'YOÿFOÙïSýwOmc1YN'YybÌR	gÏuŒš„vbXT0\n\nFONº‹‚YUOÿbìNý—‰ZPúQ	éb0"
+ FOI_UCIEvents.500.aa:0 "ÅNjOèRbXTØS¨R"
+ FOI_UCIEvents.500.bb:0 "ŒRhQÍ‘ÄuãNhˆ'YO"
+
+ FOI_UCIEvents.600.name:0 "Œåg"
+ FOI_UCIEvents.600.desc:0 "bìNòTÏuŒRb†NùRlQ>yŒåg„vÆQYåTjOÿ¥cNegbìN—‰³QšRbìNŒåg„v¹eT"
+ FOI_UCIEvents.600.aa:0 "ŒågluQÄuÇu"
+ FOI_UCIEvents.600.bb:0 "Œåg^l6–µu"
+ FOI_UCIEvents.600.cc:0 "ŒågYeëX6–µu"
+ FOI_UCIEvents.601.name:0 "luQÄuÇu"
+ FOI_UCIEvents.601.desc:0 "TwTSObËzRgÿT*NlQ>yíwöeô•…QVìS†NluQåNÝO²bê«ŽMQ×SeQµOÿFOdköe„vluQÄuÇuv^¡l	gÛLˆirågÿàVdkÄuú^weg„vè–-N|œ™Ÿ÷mBgÿw–NwŒåg„vÓumgÿbìN—‰ÙuˆNºNlN*N²NãN0"
+ FOI_UCIEvents.601.aa:0 "é`Z†˜üRw"
+ FOI_UCIEvents.601.bb:0 "›Q‹NŒ˜î•—‰:Ndk1"
+ FOI_UCIEvents.601.cc:0 "0Rdk:Nbk"
+ FOI_UCIEvents.602.name:0 "^l6–µu"
+ FOI_UCIEvents.602.desc:0 "TwTSO=fú^Ëz(WÍS—bòTÏuPS:N5ÏeqQŒTýVKNNÿàVdki—‹Tgô•NFUºN6–µuÛLˆ†NTjOÿNÇîvMR„vbVVv^NAQ¸‹bìNçuíu3zšR„vŒTå‹6–µuÛLˆTjOÿT*NlQ>yýVËY|TT”^SV‰V•^ÓumgNƒRìN„vTjOÿwîvMRbìNòTÏuµc6R†Nå‹lQ>y-NFUºN„vÝu'YèRDµNÿ=föeP³QšRÖNìN„v‹TÐ†N0"
+ FOI_UCIEvents.602.aa:0 "‰VågÖNìN"
+ FOI_UCIEvents.602.bb:0 "NMOŒ˜î•ïSåNÿfãNƒRìN"
+ FOI_UCIEvents.602.cc:0 "0Rdk:Nbk"
+ FOI_UCIEvents.603.name:0 "YeëX6–µu"
+ FOI_UCIEvents.603.desc:0 "—RYeNôv=flQ>yNbb—4N„v¾–˜˜ÿàV:NbìN„výVYe(WOÔk)RšN'YèR0W:Sv^N×S…VÁ‰ÿàVdkYeëX6–µuùRT*N6–µu„vqVÍTv^N^Ûl0NÇTöe1uŽNnm>m(WdkKNMR«ˆ9e.:N:NýV‹sg¡RÿàVdk°s(WbìNmN”^SVdk:gOSvQQX.:Ng¡RlQ>y„v—RYeÿåNdkegO—VbìN„vi—‹TýwY.O­d„vôfÜÿwÙNRýSÎNÝOˆR>mVËY¨RKb0"
+ FOI_UCIEvents.603.aa:0 "nÞu‹˜úVRPR"
+ FOI_UCIEvents.603.bb:0 "pNMOŒ˜î•"
+ FOI_UCIEvents.603.cc:0 "0Rdk:Nbk"
+ FOI_UCIEvents.700.name:0 "SÃWK„šR"
+ FOI_UCIEvents.700.desc:0 "–NwåN?–SÒR›Q–²dúQOÔk)RšNÿ‰ísYrTwßv„vßu»lmN‰V•^«ˆTwTSO‰|ŽxÿTwTSOÈuŽNã‰>e†Nte*NOÔk)RšNJS›SÿwÙ:WÇée„vi—‹TmNS(Wdku9hÑSË‚ÿKS¡rMRïN¹RPNÂ‰ÿFOTwTSO„vºNlÍN6qO:NÖNìN„vtó`wçuíuKY—eN»S0"
+ FOI_UCIEvents.700.aa:0 "çuíuTMRÿ"
+
+ FOI_ActionEvents.2.name:0 "IQKNï"
+ FOI_ActionEvents.2.desc:0 ":NO—V\t§R RðlW<SšN-OÔk)RšNlQ>y-MRÛ5–¿u§!\t„vï¿u·ƒ—Vôfo‚‹YNôfwQ	gcb'`„v8nbSOŒšÿ(Wdk¾‹n†Nå‹‹NöNåNÐc›OÙuTMOÛLˆ	éb0\n\n‚Yœg=T(uIQKNï!jVÿ±HN`O„vLeºNmNSÔks^öeôf R:V'YÿFOTöe`OïSýw	gaY„v6e·ƒ...\n\nIQKNï!jV„vV=TS§Rôv¥cqVÍT§!`O„v8n©s…Q¹RÿàVdk÷‹ŸeL‘	éb0"
+ FOI_ActionEvents.2.aa:0 "f¬p‚YIQÿ"
+ FOI_ActionEvents.2.aa.tt:0 "V=T§YIQKNï§!!jV\n\n‚Yå‚ó`‰SOŒš§R RðlW<SšN-OÔk)RšNlQ>y-MRÛ5–¿u§!ï¿uÿ§R÷‹¡RÅV	ébå‹	y˜§!ÿ\n\n§Ry(u§!ûN¡R§YÍ‘ú^åTjO§!"
+ FOI_ActionEvents.2.bb:0 "‰ŒgN¹p*gSNïS"
+ FOI_ActionEvents.2.bb.tt:0 "sQí•§YIQKNï§!!jVÿÙS§RàeÕlbËz§!@UCI§Y[UCI.GetName]§!\n\n§G=T(u§!ûN¡R§YÍ‘ú^åTjO§!\n\n§R¡lZPŒR+R	§!"
+
+ FOI_ActionEvents.3.name:0 "Lˆ?etõV"
+ FOI_ActionEvents.3.desc:0 "*NºN(W•öeô•„våTjOI•¼pKNTÿÏuŒšmN–KN!ž‹wÿgÈuýwYÐcGSê«Ž(WÙ¹eb—åTjO„v4ls^ÿwÙÍyÛekÐcGSmNgÈuSÍS.f(Wte*N:g„gÄuÇuN¹e0"
+ FOI_ActionEvents.3.aa:0 "‚Ydku‹Y"
+ FOI_ActionEvents.4.name:0 "Y²NtõV"
+ FOI_ActionEvents.4.desc:0 "*NºN(W•öeô•„våTjOI•¼pKNTÿÏuŒšmN–KN!ž‹wÿgÈuýwYÐcGSê«Ž(WÙ¹eb—åTjO„v4ls^ÿwÙÍyÛekÐcGSmNgÈuSÍS.f(Wte*N:g„gÄuÇuN¹e0"
+ FOI_ActionEvents.4.aa:0 "Y²NtõV"
+ FOI_ActionEvents.5.name:0 "›Q‹NtõV"
+ FOI_ActionEvents.5.desc:0 "*NºN(W•öeô•„våTjOI•¼pKNTÿÏuŒšmN–KN!ž‹wÿgÈuýwYÐcGSê«Ž(WÙ¹eb—åTjO„v4ls^ÿwÙÍyÛekÐcGSmNgÈuSÍS.f(Wte*N:g„gÄuÇuN¹e0"
+ FOI_ActionEvents.5.aa:0 "›Q‹NtõV"
+ FOI_ActionEvents.6.name:0 "Lˆ?e÷mqN"
+ FOI_ActionEvents.6.desc:0 "gÑ'YOIN‰bXTˆ”ùRîvMR°s¶r‹ŽNÝOˆRÿÙüRô†NbìN(WT*N¹eb—×S0R†NøvƒŽNåNŽVôf'Y„vI–›RÿbìNÅV‰˜KQgÙNðV¾–„vöeg0"
+ FOI_ActionEvents.6.aa:0 "ÙïSN™Y"
+ FOI_ActionEvents.7.name:0 "Y²N1Y)R"
+ FOI_ActionEvents.7.desc:0 "gÑ'YOIN‰bXTˆ”ùRîvMR°s¶r‹ŽNÝOˆRÿÙüRô†NbìN(WT*N¹eb—×S0R†NøvƒŽNåNŽVôf'Y„vI–›RÿbìNÅV‰˜KQgÙNðV¾–„vöeg0"
+ FOI_ActionEvents.7.aa:0 "ÙïSN™Y"
+ FOI_ActionEvents.8.name:0 "›Q‹NK„T"
+ FOI_ActionEvents.8.desc:0 "gÑ'YOIN‰bXTˆ”ùRîvMR°s¶r‹ŽNÝOˆRÿÙüRô†NbìN(WT*N¹eb—×S0R†NøvƒŽNåNŽVôf'Y„vI–›RÿbìNÅV‰˜KQgÙNðV¾–„vöeg0"
+ FOI_ActionEvents.8.aa:0 "ÙïSN™Y"
+
+ FOI_ActionEvents.9.name:0 "ípÅ`Øš¨m"
+ FOI_ActionEvents.9.desc:0 "–Nwb‰N„vÛLˆÿbìNýV¶R„vuµNIm¨Rý×S0R†N%NÍ‘„vqVÍT0FOgÑºNl(WØš¨m„vi—‹TípÅ`qš¨RKNNÿuµNIm¨R—V0R†NNšRz¦^„vb`YÿbìNÅVSÖS—VÜw)Rÿ"
+ FOI_ActionEvents.9.aa:0 "—e‰NÍN(Wçuíu"
+ 
+ FOI_ActionEvents.10.name:0 "'Y0N6e"
+ FOI_ActionEvents.10.desc:0 "(WbìN!nÇe™RƒKNT„vàQt^ÿbìN„vœQNuµNÈuŽN‰V•^„vb`Y†Nÿv^NÔkåNŽVôf RAucƒ0(WT*NlQ>yºNl„v³RjOKNNÿÊNt^„vœQNuµNÖS—V†NèT'Y0N6eÿ(WS6ebRM‘ÙuT*NlQ>yKNTÍN	g'YÏ‘ÈvYOÿTwTSOS‹Y‹Y)R(uÙ›NirDçuíuÑSUSTlQ>y0"
+ FOI_ActionEvents.10.aa:0 "?aNb	gºNýýwYFd1e™™"
+ FOI_ActionEvents.10.aa.tt:0 "bìNNb	g„v8hÃVwýNGW·ƒ—V§Y1§!úWNxz6e0§Y1§!úWNxuµN0§Y1§!úWNxºN›R"
+
+ FOI_ActionEvents.11.name:0 "—RYeNS¿R"
+ FOI_ActionEvents.11.desc:0 "–Nw—RYe9ei—ppÈpÈp„v0RegÿbìNmN—‰ùRdkjOúQÍS”^ÿ(WÇ»S?–SÒRNb†˜üR„vnm>mÍN6qjO:N†NTwTSOINAm—RYeÿw–NwbìNqVÍT›R„vN­eib'YÿbìNmN”^SVz˜¿Rw:Nÿ(WÙ:W—RYe9ei—SV-N>Nw^SŽNbìN„v×e^0\n\nbìN„vtõVmNS–Nw—RYe„v.O­dTYibceÿ±›NÍN6q«ˆYeONýV‹sNb‹Së„vºNlÅVS(WbìN„v&^†˜KNNKYwÍS—bÿbìNÝuNO1SdkjPGk0"
+ FOI_ActionEvents.11.aa:0 "°e„vöeãNÿ°e„v:gG"
+ 
+ FOI_ActionEvents.14.name:0 "Ÿ^bktY¶–8f"
+ FOI_ActionEvents.14.desc:0 "[Root.GetName]þfÏuåNtY¶–8f:NINÿw–NwbìNã‰>eå‹0W:Sv^ÛLˆ†NteTÿÛw‰V•^Ÿ^d–†Nå‹0W:S„vtY¶–²Nfÿ[Root.GetName]ºNl·ƒ—Vã‰>e„vTöeÿFUÁTµNúQmNSÑSu9eØS0"
+ FOI_ActionEvents.14.aa:0 "Nb	gºNý”^å‹—V0RÖNìNNuñOeg„vCg)R"
+
+ FOI_ActionEvents.15.name:0 "dRopf0q"
+ FOI_ActionEvents.15.desc:0 "–NwTwTSOek„v3zšRNegÿT*NlQ>ymN	cè1Sís„vVËYÑSUSÿNRý(WTŽVNwôf RŽ‹Y„v*geg0FONïS&T²‹„v=fÿÙŽ‹Y?aofKNTXR(WNwäNºN’zo`„vÑž—fÿ	gYSºNÊ‰Î‰NwÙGrW0WÿÈS	gYSýV¶RÕ‹þVSbìN‰V•^‰|Žxætã‰ÿåN¿O©‹ÖNìNNbŒ„véy^Q!kÞVRV...sS¿O=f‚YTNÏvdRopÿbìNmNSŠqŠqÃqçpÿgq®NNb	gÍN(WðV˜KN-N„vºNl0"
+ FOI_ActionEvents.15.aa:0 "dkTå‚Qàe¬pkpÿbìN¿O=f=UN„vIQ"
+
+ FOI_ActionEvents.16.name:0 "lQ>yVßR"
+ FOI_ActionEvents.16.desc:0 "‹†ô‹i—‹T›Q„v­‹Ãu”^å‹=fÆ–-NÛLˆÿFOvPSmNO	g‹OYÿÌR	gYO›R„vlQ>y‚YœgýwYbÅb„vw­‹Ãui—‹T›Q„vV•ÿRSÄ‰!j„v­‹Ãu=f«ˆAQ¸‹„v0\n\n1S(WgÑÿÐg*NlQ>yggýwYžXôcbìNN=ei—‹T›QóýV¶RŒ¨RÿeˆEQS*gán„v›Q–0"
+ FOI_ActionEvents.16.aa:0 "bìNggŒ¨RN=eekuQ"
+ FOI_ActionEvents.16.bb:0 "‘šuQùRbìN.^©Rôf'Y"
+ FOI_ActionEvents.16.cc:0 "sQ.•(WŽN®puQ„vpeÏ‘"
+ FOI_ActionEvents.16.dd:0 "îvMR›Q–peÏ‘RR‹Y"
+
+ FOI_ActionEvents.17.name:0 "‘šuQ9ei—"
+ FOI_ActionEvents.17.desc:0 "–NwkphV„vN­eÑSUSÿb:WN„v`¿RmN(WN­e„vØSSNwÿ4O–NwTwTSO‘šuQ„v9ei—ÓumgÿbìNmN”^å‹ùRå‹uQÍyÛLˆû|ßu'`„vxvz0b¥cg:N.Oßu„v‘šuQ(uÿbìNïSåNÇ‘ÖS.Oßu‘šuQåN²QûQ:NIN„vbeuÿNÇgÑNÍyŠº‹cúQïSåNæSŸJŽ„VÿÎNck(Wì„ÃRÑSUS„vkphVeQKbÿS‘šuQ„v:g¨R'`NkphV„vNg2OÓuT(WNwÄuöNN=e°e‹W„v‘šuQè–0"
+ FOI_ActionEvents.17.aa:0 "©‹bìNÕ‹Õ‹9ei—‚YUO"
+ FOI_ActionEvents.17.bb:0 "bìNØ=fpwïPR'T"
+
+ FOI_ActionEvents.18.name:0 "kp‘šuQ"
+ FOI_ActionEvents.18.desc:0 "–NwÑn›ªg„vnfÊSÿkphV(Wb:WN„v”^(umNaÑSËR^ÿFOkpóu„vP–6RÍN6qO—VvQ(W‘šuQè–N„vÅˆY×SP–ÿFOÑyŽb„vÛekmN¬Pu†Nôf R¾|•„vfkhVuµNÿ'|nªg(Wdk¿O”^Ðwu0\n\n'|nÙÍySbkpÅˆn„vŸStßÊNåe„vSbkp:g‰|<Oÿ	gN*NÁ”6R„vlnÿO(u9V'|qš¨RËelÿ©‹	g—|Ù|¹uï„vnb—ßNGrÄžÁ”ÿwówidædwµNukp±‚0Ùy˜ÑSf'Y'Y9e„U†Nkpóuªg:d&^ÊSO(uN¿O„vî•˜˜ÿ©‹ªg°hïSåN–«Ž:d&^v^sSöeO(uÿTöeøv”^0WmNúQ°s†NTÍyÝOi–ÅˆnÿžX R'|nªg:d&^öe„v‰RhQ'`0\n\nFO1uŽN'|nªg„v:göNYBgÿêS	gŽbçT¾|o‚„vªg.S	gýw›R6R.ÿb,gmNASRf5ÿàVdk¡l	g›Q–ïSåNnfMM‘YÿFObìNÍN6qïSåN¾‹ÕlfkÅˆN=e‘šuQè–ÿjO:Nb:W„v:g¨R'`kp›RegÍS6RekuQ0"
+ FOI_ActionEvents.18.aa:0 "ˆV‹Y"
+ FOI_ActionEvents.18.aa.tt:0 "§YbìNSã‰•Ny˜³Q®‹ÿHQO(u'|nªgfkÅˆNèR‘šuQè–§!"
+
+ FOI_ActionEvents.19.name:0 "çqÑSªgnfÊS"
+ FOI_ActionEvents.19.desc:0 "çqÑSªg„vúQ°sO—VkphV—VåN'YÄ‰!j”^(uÿv^Nôf R¹e¿OëVwcÿàVdk'|nªgmNnúQ†N†SòS„v‚ðSÿbìN”^SV'tß›Q‹NfkhV„vôf°eÿM‘Yôf RHQÛ„vfkhVÅˆY0"
+ FOI_ActionEvents.19.aa:0 "ÄuÇuôf°euµN¿u"
+ 
+
+
+ EDG_FWFEvents.0.name:0 "ßuN5–¿u"
+ EDG_FWFEvents.0.desc:0 "bìNòTÏubŸRã‰>e†N'YJS*N'k2mÿ±›N«ˆbìNNbã‰>e„vºNlmN(W0k|TNwN*N-T°eöeãN„vsSS0RegÿwbìN”^SVRdV0WßW'`„výV¶R¹LuÿTwTbìNåb	gøvTtó`„vT×VNhQèØYŽN^ýVININ‹SëKNN„vºNlNT:N†Nôf RŽ‹Y„v*gegw—e‰NÿåNÛekNÛÖSKNTÿê1uNs^IrKNaÿV†˜bìNÍT”^ôf RO'Y„vìS2Uÿ"
+ EDG_FWFEvents.0.aa:0 "TwT5–¿uSOçuíuMRÛ"
+ EDG_FWFEvents.0.effect.tt:0 "Øš§Ri—‹T>PT§!NQÐc›O§Yb—îOck§!"
+
+ EDG_FWFEvents.1.name:0 "ßuN5–¿u"
+ EDG_FWFEvents.1.desc:0 "–NwTwT5–¿u„vbËzÿbìNýV…QùRbVbN*NßuN„vi—‹T5–¿u|TðXŠegŠØšÿwbìNÅV‰˜(WdkIRZPúQbìN„v	ébÿ"
+ EDG_FWFEvents.1.aa:0 "©‹bìNNTTMRÿ"
+ EDG_FWFEvents.1.bb:0 "ïSrÿbìNMbNO ReQÖNìN"
+ EDG_FWFEvents.1.bb.tt:0 "§YTwT5–¿u§!S·ƒ—VbìNåb	gwýN„v§Y8hÃV§!ÿTöežX R§Y10§!ÛSqN¦^"
+
+ EDG_FWFEvents.2.name:0 "RVŸXKNè•"
+ EDG_FWFEvents.2.desc:0 "†SòS*mAmÚnÚnTMRÿŒvÝTNAm†vºNRVŸX0\n\nê1444t^„vVÇróÊNòTÿMRÛ5–¿uòTÏupÇ†NpeŒvt^	gYOÿw(WdkKNMR„v†SòSÍN†S†S(Wîvÿ9SWSY	NN»SNTÿúWcwø‹ýVÈuvzàeÕlßuNÿ6eY1Y0WÐ¨RjPÞnNMRÿOÔk)RšNóÊNÍNÛVR”NÂˆÿÑ‘^WlýVR)T»ygÿÑžwmIƒŸS«ˆür²NbÜtRÿNckYe’VÍ‘°e`S†˜†N'YIƒŸS„vW0WÿúW…W¯eÎN™„äSºN„vKb-N·ƒ—Vê1uÿFOýV…QÛwþvS•ÿúW…W¯e…QbNæ‰sSÑSÿÙGrW0WNÅVSürßpÛVwÿ¯eyráQ'Y^.b„vYO—ÍN*g(WSšNÆušNÑnÿž^'Y„vASWR›QÈSN!k«ˆz¥SºNætã‰ÿÃWêS…Q„vßu»lw‚Y1&VKN­rÿ“Š‰Í‘ø”eY¯eüf^ýV„vcƒIQÿ^XSôušN^ýV‚YŒv³KNk†‰kwNõP,(WÌwÛS†NASWR›QTmN¡lýwbcÖS•EN„vŒTs^ÿ‚YÊNôTSr^Q!kÃqwbkpÿ?–SÔkASWR›QŸR%‚Wb,nm>mú^Ëzw?–SÒR‹sýVÿNS¹e„vmTX—g	TšN‹sýVåNÊSÕq¸„åeN„vñ‚<hpQ‹sýVqQTnÕlpQ‰„vaSiO‹sgŽNÛVb—ZiLk„v4lñmkpípKN-NÿlšFzœKQÆ–âVÈuvzRÂˆÿ^S	T‹sgN†ŽVWÿbýw°eßuNÃWÊSv^SNÙS)RšN...\n\n(Wöeô•„vÚnÚn•³lKN-NÿbìNàeÕl9eØSÇ»Sÿ±HN1S”^SVçuíuTMRåNfN™Q^SŽNêñT„vÇràzÿmN¸‹(WSeg„vÐgN)YbìNýwYgTôf ReÜ„v)Y¹ÿNb	gºNýwYâVÓu(WNw‚YT°s(WN7hÿýBlôf RŽ‹Y„vf)YÿÍT”^Nwôf RO'Y„vìS2U0mN¸‹JSöeÿTegwSOðyÙNRwn:NÿAucƒNßu0\n\n†SòS„vèTnÚnÚnTMR,>TIrÈuŽeQRVŸXKNè•"
+ EDG_FWFEvents.2.aa:0 "wöeô•KN³lSçuíuTYAm..."
+ EDG_FWFEvents.2.aa.tt:0 "@[Root.GetTag] §Y[Root.GetName]§!„v…Q¹RódkŒRÓuÿ§Ya0Œ8n©s§!"
+
+ FOI_SPAEvents.0.name:0 "àeLe0‚–"
+ FOI_SPAEvents.0.desc:0 "ÏuÇpet^„vÆQYú^.öeô•ÿN=ež^'Y„vwm›QÈuŽN«ˆbìNÄuú^weg0bìN„vLeºNSO(Wn)YK…åe„vàeLe0‚–KNN²˜–bÿNLuNNb	gjlmýSãgŽN[Root.GetName]ÿ"
+ FOI_SPAEvents.0.aa:0 "Ù=f^SŽNbìN„vöeãNÿ"
+ FOI_SPAEvents.0.aa.tt:0 "N=ehQè1u§Y×e0‚§!Äub„v0‚–S(W§YôT^XW±§!Äuú^"
+
+ FOI_SPAEvents.1.name:0 "OÔk)RšN^ýV"
+ FOI_SPAEvents.1.desc:0 "–NwOÔk)RšNJS›STºNlKNô•„vN­e²NAmÿNT—RYeÿáOðNÿ`N×ONbãNhˆ„v‡eS(Wöeô•„vÁ‰Á‹KNNgÈu‡T:NN0\n\nbìN”^å‹QX.N*N^SŽNbìNêñT„v^ýVÿv^(WNLu„v†SòS•³lKN-NYuNSm¨XÍ‘iVNr0"
+ FOI_SPAEvents.1.aa:0 "åeNK„^ýV8lNåeK„"
+
+
+
+ FOI_SPAEvents.100.tt:0 "Í‘hCgZ"
+ FOI_SPAEvents.100.desc:0 "1147t^„vOÔk)RšNASWR›Q(W?–Éb!ýV‹s|V—VŒNN„vúQVSKNN1Y%ÿwÅbûNdk!kb‰N„vHQ4Yè–aS¯e‚„)RšN‹sýVmNmc1Yè`Í‘ÿ RKN±ƒfýV‹s?–¹e0tkNNùRŽNvQ?QPReêWS	NN‹sMO„vÊ‰Î‰ÿN:W«ˆYe—R±R^:N^—Õl„vZZûYgÈuO—V6rPRKNô•T²RÍdb0\n\ngÈu?QPR	NN·ƒ—V†NÝuùRaINN„vÜw)RÿSV6qÙÍyÜw)R=f?QPR(Wb:WN1YKb:Y»S†N6r²N„vu‹TNb—V0R„v09êWS	NN:N‰RšbùRÖNO6qÝOYu	gLea„v±ƒf5ÏeÿÕ‹þV(W†˜0W…Q±RlbO+Y÷–šN¶RÏeNuñOeg„vßu»lCg›RÿÖNÍ‘°e=T(u†N?–¯eþVÌ‘šN¯e„v‹s÷Sÿê?–¹e0t	NN‰k¡NT2NŒvt^ÿÙN‹sýVQ!kÞVRVOÔk)RšNÿFOƒRtSNQ‚YSVRN,‚âVÓu0\n\nýV‹s…Qè„vRÂˆî•˜˜ËYÈuXR(Wÿ R)R‰šN‹sýVòTÏužR(N„vRÂˆúQ»SpeŒvt^KNENÿwØvŽŽNT0W„v5ÏeìNËYÈuÝOcNwøvSV„vê»l0WMOÿw(W‰V•^6eYTwT‹sýV„vW0WKNTÿÙÍyŒgceTwT„v°s¶rmNå‹‰V•^Óumg†N0\n\nNº‹5ÏeìN=f&TTaÿ±ƒf-aS¯e‚„)RšN- R)R‰šNTwT‹sýVòTÏuQ!kßuNÿbìNÅV‰˜nxÝO”NŒvt^MR„vŒp¾–NQÍ‘°sÿ	Nv˜‹s QSTw:NNÿwjO:NINüR0WMO„v‹s Q”^SV=fŒÿØ=fô‹äSw„v?–¯eþVÌ‘šN¯e‹sýVSOçuíuYuXRÿÁ‰Á‹‰ísYr„vßuNÿ"
+ FOI_SPAEvents.100.aa:0 "@CASaS¯e‚„)RšN"
+ FOI_SPAEvents.100.bb:0 "@LON±ƒf"
+ FOI_SPAEvents.100.cc:0 "@GAL R)R‰šN"
+ FOI_SPAEvents.100.dd:0 "@ASU°s(W1S:cN•"
+ FOI_SPAEvents.100.remove_core.tt:0 "§Gˆm»S§!bìN»lNNb	gvQÖN§Y	N*N‹sýV§!„v§TwýN8hÃV§!"

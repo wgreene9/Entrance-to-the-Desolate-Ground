@@ -1,0 +1,104 @@
+﻿l_english:
+ EDG_EGY_reform_NOM_influence_tooltip:0 "§Y^JºN§!„vqVÍT›RSOÐcGS"
+ EDG_EGY_reform_COP_influence_tooltip:0 "§YÑynfyrºN§!„vqVÍT›RSOÐcGS"
+  EDG_EGY_REFORM_BEGIN_flag:0 "§YÃWÊS?e»lØSi—§!"
+   EDG_flavorMAM_1.tooltip:0 "§YÃWÊS?e»lØSi—§!V=Tÿ§Y[Root.GetAdjective]§!Sã‰•VeQvQÖN¿R›RÛeQ?eœ^„v³Q®‹N‹NöN"
+ 
+ EDG_EGY_reform_NOM_trigger_tooltip:0 "§Y^JºN§!„vqVÍT›RÐcGS†N3!k"
+ EDG_EGY_reform_COP_trigger_tooltip:0 "§YÑynfyrºN§!„vqVÍT›RÐcGS†N3!k"
+
+NOM_nation_debug_title:0 "bËz?–OnfY¯e"
+NOM_nation_debug_desc:0 "T0W„vú‹ÆY^J›Q˜RòTÏuµc6R†NýV¶Rÿ‚YÊNÖNìN–öeÆQYwckŒcácýV¶RCg›R0"
+COP_nation_debug_title:0 "bËzÑynfyr"
+COP_nation_debug_desc:0 "T0W„vÑynfyrCg5òTÏuµc6R†NýV¶Rÿ‚YÊNÖNìN–öeÆQYwckŒcácýV¶RCg›R0"
+
+
+ EDG_EGY_reform_1_NOM_modifier:0 "ib'Y^JcOuQâV"
+ EDG_EGY_reform_1_NOM_modifier_desc:0 "^JºN(WbìNýV¶R…Q„vqVÍT›Rck(Wekib'Yÿv^&^eg†N¸‹YqVÍT0" 
+ EDG_EGY_reform_2_NOM_modifier:0 "ˆcˆNú‹ÆY›Q˜RyrCg"
+ EDG_EGY_reform_2_NOM_modifier_desc:0 "^JºN(WbìNýV¶R…Q„vqVÍT›Rck(Wekib'Yÿv^&^eg†N¸‹YqVÍT0" 
+ EDG_EGY_reform_3_NOM_modifier:0 "žRLˆÃW)Rs|TX6R"
+ EDG_EGY_reform_3_NOM_modifier_desc:0 "^JºN(WbìNýV¶R…Q„vqVÍT›Rck(Wekib'Yÿv^&^eg†N¸‹YqVÍT0"
+ 
+  
+ EDG_EGY_reform_1_COP_modifier:0 "ib'YÑynfyrºNCg)R"
+ EDG_EGY_reform_1_COP_modifier_desc:0 "ÑynfyrºN(WbìNýV¶R…Q„vqVÍT›Rck(Wekib'Yÿv^&^eg†N¸‹YqVÍT0" 
+ EDG_EGY_reform_2_COP_modifier:0 "ÔYûNÑynfyrºNÍ‘ã"
+ EDG_EGY_reform_2_COP_modifier_desc:0 "ÑynfyrºN(WbìNýV¶R…Q„vqVÍT›Rck(Wekib'Yÿv^&^eg†N¸‹YqVÍT0" 
+ EDG_EGY_reform_3_COP_modifier:0 "ú^ËzÑynfyr®‹‹N…S"
+ EDG_EGY_reform_3_COP_modifier_desc:0 "ÑynfyrºN(WbìNýV¶R…Q„vqVÍT›Rck(Wekib'Yÿv^&^eg†N¸‹YqVÍT0" 
+
+ 
+ EDG_flavorEGY_reform.1.t:0 "eg¢R"
+ EDG_flavorEGY_reform.1.d:0 "êÎN'Ylš)RKQ‰BlJR1VlšFzœKQ¿R›RTÿýV…Q¸‹YlšFzœKQºNÃVö`ö`ÿ¸‹Yác	gCgÄg„v‡v¶RlšFzœKQO6qè•­^å‚^ÿVWmNO6q3–IQfšZ0opkpfÿFOâe—V)RÊvwI`=f>eÃVNN±NZf«ˆùpj™„vTRÀ–ÿåNÊS'Ylš)RKQÔnÔnNÝu„voô‹0\n\nôfäNºNN‰R„v=fÿ[Root.Monarch.GetTitle]RçuíuùRÙN?e»l9ei—	gNw«ƒ'Y„vípÅ`ÿ[Root.Monarch.GetTitle]ÞíuàQ)Y±‚9'YÏ‘öeô•NêñT„vÁyºNŒ˜î•¨‹º‹ïSåNSêT›N²SOVeQbìN„v?eœ^åNÛLˆ?e»l9ei—ÿÖNìN8^8^ÃOYŒÿ?bô•…QI`=f	g‰VY*g„qmp„v!‡Ûp0ÿNiOêS‰VeQ(WÇ»S«ˆbìNNb’c2c(W?e»lKNY„v²SOÛeQbìN„v?eœ^ÿbìN1SýwØS—Vôf:V'YN,‚0\n\nˆVëVÿ[Root.Monarch.GetTitle]˜^†N2NSÕläNNSÄ‰šRhQýV…Qú^ËzY*NT:Nú‹ÆY„v›Q:Sÿ›Q:S›Q‹N•˜R=f1u[Root.Monarch.GetTitle]ôv¥cûN‹T„v^JÔˆ›Q˜RÿæSNSŒR„U†Nybkë³RÑynfyrºN„vÍyÍyÄ‰šRÿv^ib'Y†NÑynfyrºNÎN?e„v.nS0\n\n(WæSN)Yÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]ìSÁ‰†N2N=e–OvQ-NN=e–O„v†˜–ˆ=fNTePîX„v^JÇ–cOuQ›Q˜RÿæSN=e„v†˜–ˆR=fNTePŒ„vÑynfyrINYe0¸‹YlšFzœKQ›Q˜RùRÙ2N=e–O„veQ«Rëkàe4Yêuÿôv0R[Root.Monarch.GetName]±R^†N°e„vÕläN0"
+ EDG_flavorEGY_reform.1.a:0 "[Root.Monarch.GetName]³QšRib'Y^JuQâV0"
+ EDG_flavorEGY_reform.1.b:0 "[Root.Monarch.GetTitle]SÁNHa0WKˆNÑynfyrºNôfYCg)R0"
+ EDG_flavorEGY_reform.1.c:0 "lšFzœKQU^ÚPOªR›Rôuc°s¶r0"
+ 
+ EDG_flavorEGY_reform.2.t:0 "Z†-^åN…V"
+ EDG_flavorEGY_reform.2.d:0 "êN®‹ONôv=fbìNýV¶RCg›R„v-NÃVÿêN-N„vÏkN*N-^MOýãNhˆNwèT'Y„vCg›RÿOY‡v¶RlšFzœKQýùRêN-N„v-^MO‚WŽmNR0(WÙN)YÿêNQ!kìSVÿFO[Root.Monarch.GetTitle][Root.Monarch.GetName]w«Žÿ8TV†NNb	gêN–XT„vîvIQÿw[Root.Monarch.GetTitle]ƒwFz0W±R^ÿêNS	gNMO°e„vbXT0"
+ EDG_flavorEGY_reform.2.a:0 "¡l	gÔk^J›Q˜RôfT„v	éb†N0"
+ EDG_flavorEGY_reform.2.b:0 "ÑynfyrºN„vÍ‘ãt”^eQ–0"
+ EDG_flavorEGY_reform.2.c:0 "-^MOê6q^SŽN‡v¶RlšFzœKQ0"
+ 
+ EDG_flavorEGY_reform.3.t:0 "ú‹ÆYî•˜˜"
+ EDG_flavorEGY_reform.3.d:0 "êÎNú‹ÆY›Q:Sú^ËzåNegÿ0W¹e„v›Q‹NCg›R1SNQÅNÅN«ˆác(W0W¹e„v[Root.GetAdjective]•˜RKb-Nÿ1uŽNú‹ÆY•˜RY:N1u-N.Yôv¥cûN‹T„v^J›Q˜RÿàVwãNhˆ†N-N.Y2SvQ=f[Root.Monarch.GetTitle]„va×VÿFOÙmN&^Éb†N¸‹Yî•˜˜0ú‹ÆY„v•˜RˆV¾–(WÍ‘'Yî•˜˜NùR—b0W¹e„v[Root.GetAdjective]ÿÙ©‹Cg›R6Raˆ>f—V¡l±HNOYHe0N›Nú‹ÆY„v^J›Q˜RÐc®‹ÿib'Yú‹ÆY„v^JuQâVÿðXðyÙ7hïSåN R:V[Root.Monarch.GetTitle](W0W¹e„vÝ‹í‹Cgÿv^ýwYVeQôfYO(„v›Q‹NDnÿ"
+ EDG_flavorEGY_reform.3.a:0 "1SÙHNžR0"
+ EDG_flavorEGY_reform.3.b:0 "bìNïSåNâ‹î•NNÑynfyrºN„vaÁ‰&&"
+ EDG_flavorEGY_reform.3.c:0 "ÖNìN”^SVgÎN0W¹e„v[Root.GetAdjective]0"
+ 
+ EDG_flavorEGY_reform.4.t:0 "ÑynfyrºN„v÷‹Bl"
+ EDG_flavorEGY_reform.4.d:0 "KS¡rùRÑynfyrºNCg)R RåNÝO²b„vÕlHhN­eúQðSÿv^(Wtº‹Nek R:V†NùRÑynfyrºN„vÝO²bÿFOI`	gár>s„v0W¹e˜RåwS‚YUOfRÕl(uÕlÿuó˜^°e„v0W¹eÕlÄ‰åNÇTÕl„v¹eVë³R0eRJR0‹SëT0W„vÑynfyrºN0Ù›Nv^N=fÑ›Nt^MbúQ°s„vî•˜˜ÿw=fýV…QN—˜¾–åNjR»S„v‰w2vÿwN1uŽNÑ›Nt^ùRÑynfyrºN„vÝO²b	gNbib'YÿVeg†N¸‹YvQÖN²SOùRÑynfyrºN„vLeÆ‰ÿÙNV?e„v:V¦^ŒT^¦^Ø(WN­e0W R:V0ib'Y0N›NÑynfyrÌRFUŒTYeëX÷‹Bl[Root.Monarch.GetTitle](WhQýVú^ËzwN*NÑynfyr®‹‹NOÿ©‹wQ	g?e»lÏuNm›RÏ‘„vÑynfyrºNÆ–ÓuwegÿnxÝOÑynfyrºN„vCg)RN×SµO¯r0"
+ EDG_flavorEGY_reform.4.a:0 "^JºNNOœU0k„v0"
+ EDG_flavorEGY_reform.4.b:0 "t”^‚Ydk0"
+ EDG_flavorEGY_reform.4.c:0 "FOÙ=f°xýNýw°x„vÝ‹˜˜0"
+ 
+ EDG_flavorEGY_reform.5.t:0 "‰Nº‹"
+ EDG_flavorEGY_reform.5.d:0 "–Nw^JºNŒTÑynfyrºN(W?e»lN„vÝ‹í‹Cgaega'YÿÖNìNKNô•mNNMQµNu†N¸‹Y²Qz0(WÙN)YéeNÿSV[Root.Monarch.GetTitle](WÎW…QáTÆ‰öeÿîvyw†NNT^J›Q˜RNNTÑynfyrINYe‰Nº‹êTN*NlÏeôf:NOÀy0ÖNìN„vl0q8TV†NN›NôVÂ‰wÿv^ËYÈu‰NgbNNÿôv0RÁ‰0R†N[Root.Monarch.GetTitle]µb¾°s:WÿÖNìN&ŒQS0WLˆ<yÿv^^NBl[Root.Monarch.GetName]ËRU`ÖNìN„vLˆ:N0w[Root.Monarch.GetTitle][Root.Monarch.GetName]>f6qmNó`1SÙ*NÝ‹˜˜ÑShˆN›NÁ‰ã‰0"
+ EDG_flavorEGY_reform.5.a:0 "^JºNê6qôfOÀyN›N0"
+ EDG_flavorEGY_reform.5.b:0 "[Root.Monarch.GetTitle]ôfŸ”1rÑynfyrºN0"
+ EDG_flavorEGY_reform.5.c:0 "`OìNý=f[Root.GetAdjective]„vÆNÎNb†Nÿ"
+ 
+ EDG_flavorEGY_reform.6.t:0 "Øu,gN^Ž×‹"
+ EDG_flavorEGY_reform.6.d:0 "egêIl×V„vNbO·V'Y^v^N=fN*NÂríp„vFz¯e—gÿÖNœU1r^JºN„vîOžÿmN¾|âl¯eºN„v×‹Í‹0ôfÍ‘‰„v=fÿÖN=fNTúQr‚„vz‚=g¶RÿÖNÅd•þRÒRúQ¾|Ž„vØu,gÿv^¾|åNOŽ„vîOžRjO‰s¦màsW„v×‹Lk0ÑåeÿN›N[Root.GetAdjective]›Q˜RSNbO·V'Y^&^0R[Root.Monarch.GetTitle]„v«R÷^ÿ¨cPƒÖN:N[Root.Monarch.GetTitle]ÛLˆRjO0NbO·V'Y^ÐcúQÿêñT?aaåNûNUO²SO:Ng¡R„vùRaŒÿêT`=fáOðNNckYe„v^JºNÿêS‰[Root.Monarch.GetTitle]JTÉ‹ÖNÿ—‰SÖN„vMbNS(uŽNUOY0"
+ EDG_flavorEGY_reform.6.a:0 "’r³ROÀy„vú‹ÆY^J›Q˜R0"
+ EDG_flavorEGY_reform.6.b:0 "OPÙuäRÉR„vÑynfyr˜RÚP0"
+ EDG_flavorEGY_reform.6.c:0 "Ù›Nìr^SŽN[Root.Monarch.GetTitle]NºN0"
+
+
+EDG_flavorEGY_reform.7.t:0 "0?eI`NS"
+EDG_flavorEGY_reform.7.d:0 "ÑynfyrºNT[Root.Monarch.GetName]Ðc®‹ÿú^ËzN*N1u-N.Y†˜üR„v0?eI`rÿåNÎTbìNÛLˆW0W0z9ei—„v—‰0(WbìNÏu†S†N‚YdkY„v…QqNTÿú^ËzNWYôfbŸq„v0z6R¦^nxžR=fë(W	wkw„vÿbìN—‰ÔYûNT„vºN0"
+EDG_flavorEGY_reform.7.a:0 "^JºNˆVÅd•dkS0"
+EDG_flavorEGY_reform.7.b:0 "ÔYûNN*NÑynfyr˜RÚP0"
+EDG_flavorEGY_reform.7.c:0 "bìN	gêñT„vºN	0"
+
+EDG_flavorEGY_reform.8.t:0 "°e„vLˆ?eÍ‘ÃV"
+EDG_flavorEGY_reform.8.d:0 "Yt?eœ^ÄuÇuøvsQ„v‹N¡RÎNegýN=f[Root.Monarch.GetName]„v•Y0>f6qÿÅN`—[Root.Monarch.GetName]=fàeÕlŒRhQŒcµcÙ›N•üuYBg„v‹N¡R„vÿŒNN*NOÀy„v†˜üRw%Veˆdk‰|1Vy˜„v¹eÕl¿O=fÔYûNÖNºN0bìN„v[Root.Monarch.GetTitle]mNck=fÙHNZP„vÿwNÿ[Root.Monarch.GetName]	gˆVY„v	éb0\n[Root.Monarch.GetName]^g(W?eœ^ÐjO:g6R-N ReQN›N^JºNŒTÑynfyr„vsTSÿuófnxhˆ:yÿïSåNAQ¸‹Lˆ?e‹N¡R„vµOÍ‘¹pÛLˆlûy9hncNbÔYûN„vºN	Nbgg„v±7h0"
+EDG_flavorEGY_reform.8.a:0 ",Tô‹^JºNck(W¡‹R8T³uôfY„vFU>0"
+EDG_flavorEGY_reform.8.b:0 "ÑynfyrºN9ei—W0W0?e„vÐc®‹ôfñ‹ºN0"
+EDG_flavorEGY_reform.8.c:0 "KSïSýwie0Mb=f?eœ^XR(W„vaIN0"
+
+EDG_flavorEGY_reform.9.t:0 "zz:„v0W¹e?eœ^LwMO"
+EDG_flavorEGY_reform.9.desc:0 "(W[Root.GetName]ÿN=fNb	g„v0W¹e˜RÚPýýwf‹vêñT„vP%Lˆ:NvzßzasTNwÀNHN0(WÇ»Sÿ¸‹YÃWs|SŒTlšFzœKQàV×SÑ‘±”ñ‹Ñ`wÆ‰ºNl:NR×rÿNvQÖNCg5åNCgŒÁy0(W[Root.GetName]ÿÉ^mòTÏuàQNNŒRhQˆm1Y†Nÿw[Root.Monarch.GetName]4ng9eØSÙN°s¶r0ÑgÿN›Nô•ŒÕ‹þVÇ?BŒTÒR0tmc³RbýVLˆ?e:g„gÿÖNìNg…V«ˆP%„v˜RXTOS©RÿFOtSŒT˜RXTNTÍSw«ˆÀh>N0[Root.Monarch.GetName]SÙ›NxYªKNºN©e–™V^TÿaÆ‹0RêñT„v0W¹e?eœ^KN-NÈSúQ°s†N¸‹YLwMOzz:0"
+EDG_flavorEGY_reform.9.a:0 "bìNS©‹^JºN ReQÙ:W8nb0"
+EDG_flavorEGY_reform.9.b:0 "ÑynfyrºNôf<P—VáOûN0"
+EDG_flavorEGY_reform.9.c:0 "lšFzœKQ=f[Root.Monarch.GetTitle]„væTŽóSÂ0"
+EDG_flavorEGY_reform.9.d:0 "bìNÅV‰˜ðNVÃWs|SìN0"
+
+EDG_flavorEGY_reform.10.t:0 ""
+EDG_flavorEGY_reform.10.d:0 ""
+EDG_flavorEGY_reform.10.a:0 ""
+EDG_flavorEGY_reform.10.b:0 ""
+EDG_flavorEGY_reform.10.c:0 ""
+
+EDG_flavorEGY_reform.11.t:0 ""
+EDG_flavorEGY_reform.11.d:0 ""
+EDG_flavorEGY_reform.11.a:0 ""
+EDG_flavorEGY_reform.11.b:0 ""
+EDG_flavorEGY_reform.11.c:0 ""
+
+EDG_flavorEGY_reform.12.t:0 ""
+EDG_flavorEGY_reform.12.d:0 ""
+EDG_flavorEGY_reform.12.a:0 ""
+EDG_flavorEGY_reform.12.b:0 ""
+EDG_flavorEGY_reform.12.c:0 ""
