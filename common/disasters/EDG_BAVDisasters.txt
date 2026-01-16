@@ -96,7 +96,7 @@ EDG_BAV_subject_disaster = {
 			has_country_flag = EDG_BAV_subject_disaster_can_start_flag
 		}
 		custom_trigger_tooltip = {
-			tooltip = EDG_BAV_religion_disaster_tt
+			tooltip = EDG_BAV_subject_disaster_tt
 			always = yes
 		}
 	}

@@ -102,6 +102,9 @@ EDG_BAV_GUI_religious_congress_button_trigger = {
 			NOT = {
 				has_government_attribute = EDG_BAV_establish_religious_agency_attribute
 			}
+			NOT = {
+				has_country_modifier = EDG_BAV_event_60_modifier
+			}
 		}
 		papal_influence = 25
 	}

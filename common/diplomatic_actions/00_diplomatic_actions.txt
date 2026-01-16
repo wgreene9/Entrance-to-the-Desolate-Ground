@@ -1663,3 +1663,37 @@ excommunicate_action = {
 		}
 	}
 }
+
+milaccess = {
+	condition = {
+		tooltip = ALWAYS_FALSE
+		potential = { 
+			ai = yes
+			is_in_war = {
+				attacker_leader = ROOT
+				casus_belli = EDG_BAV_independence_cb
+			}
+		}
+		allow = { 
+			always = no
+		}
+	}
+}
+
+offermilaccess = {
+	condition = {
+		tooltip = ALWAYS_FALSE
+		potential = { 
+			ai = yes
+			FROM = {
+				is_in_war = {
+					attacker_leader = FROM
+					casus_belli = EDG_BAV_independence_cb
+				}
+			}
+		}
+		allow = { 
+			always = no
+		}
+	}
+}

@@ -219,7 +219,7 @@
 						estate = estate_edg_artists
 						desc = EDG_BAV_1_1_6_title
 						loyalty = 5
-						duration = 7300
+						duration = 9125
 					}
 				}
 			}
@@ -442,6 +442,12 @@ EDG_BAV_1_3 = {
 		}
 		trigger = {
 			OR = {
+				if = {
+					limit = {
+						ai = yes
+					}
+					ai = yes
+				}
 				army_size_percentage = 1
 				army_size = 15
 			}
@@ -698,6 +704,9 @@ EDG_BAV_1_3 = {
 				name = "EDG_BAV_1_3_6_modifier"
 				duration = -1
 			}
+			custom_tooltip = EDG_BAV_3_3_10_1
+			set_country_flag = EDG_BAV_3_3_10_flag
+			custom_tooltip = EDG_SPACE_TT
 			country_event = {
 				id = EDG_BAV_event.9
 			}
@@ -793,7 +802,7 @@ EDG_BAV_1_4 = {
 		}
 	}
 	EDG_BAV_1_4_5 = {
-		icon = secure_the_succession
+		icon = regal_splendour
 		position = 5
 		required_missions = {
 			EDG_BAV_1_5_4
@@ -813,6 +822,11 @@ EDG_BAV_1_4 = {
 			}
 			NOT = {
 				active_imperial_incident = any
+			}
+			hidden_trigger = {
+				NOT = {
+					has_global_flag = EDG_BAV_enable_form_bavarian_nation_flag
+				}
 			}
 		}
 		effect = {
@@ -972,7 +986,7 @@ EDG_BAV_1_5 = {
 		}
 	}
 	EDG_BAV_1_5_6 = {
-		icon = electorate_of_saxony
+		icon = mission_religious
 		position = 6
 		provinces_to_highlight = {
 			owned_by = SAX
@@ -1029,7 +1043,7 @@ EDG_BAV_2_1 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_religion_disaster
 	}
 	EDG_BAV_2_1_2 = {
@@ -1173,7 +1187,7 @@ EDG_BAV_2_2 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_religion_disaster
 	}
 	EDG_BAV_2_2_1 = {
@@ -1248,7 +1262,7 @@ EDG_BAV_2_3 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_religion_disaster
 	}
 	EDG_BAV_2_3_2 = {
@@ -1354,7 +1368,7 @@ EDG_BAV_2_4 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_religion_disaster
 	}
 	EDG_BAV_2_4_1 = {
@@ -1437,7 +1451,7 @@ EDG_BAV_2_5 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_religion_disaster
 	}
 	EDG_BAV_2_5_2 = {
@@ -1501,7 +1515,7 @@ EDG_BAV_3_1 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -1853,7 +1867,7 @@ EDG_BAV_3_2 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -2071,7 +2085,7 @@ EDG_BAV_3_3 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -2335,18 +2349,13 @@ EDG_BAV_3_3 = {
 			}
 		}
 		effect = {
-			EDG_BAV_add_permanent_claims_effect = yes
-			custom_tooltip = EDG_SPACE_TT
-			custom_tooltip = EDG_BAV_3_3_10_1
-			set_country_flag = EDG_BAV_3_3_10_flag
-			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_BAV_3_3_10_2
 			custom_tooltip = EDG_SPACE_TT
 			tooltip = {
 				country_event_with_insight = {
 					id = EDG_BAV_event.158
 					days = 10
-					insight_tooltip = EDG_BAV_event.158.a
+					insight_tooltip = EDG_BAV_3_3_10_3
 				}
 			}
 			hidden_effect = {
@@ -2368,7 +2377,7 @@ EDG_BAV_3_4 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -2435,19 +2444,19 @@ EDG_BAV_3_4 = {
 			lower_saxony_area = {
 				add_permanent_province_modifier = {
 					name = EDG_BAV_3_4_7_modifier
-					duration = -1
+					duration = 9125
 				}
 			}
 			braunschweig_area = {
 				add_permanent_province_modifier = {
 					name = EDG_BAV_3_4_7_modifier
-					duration = -1
+					duration = 9125
 				}
 			}
 			weser_area = {
 				add_permanent_province_modifier = {
 					name = EDG_BAV_3_4_7_modifier
-					duration = -1
+					duration = 9125
 				}
 			}
 		}
@@ -2536,13 +2545,13 @@ EDG_BAV_3_4 = {
 			lower_rhineland_area = {
 				add_permanent_province_modifier = {
 					name = EDG_BAV_3_4_9_modifier
-					duration = 7300
+					duration = 9125
 				}
 			}
 			north_rhine_area = {
 				add_permanent_province_modifier = {
 					name = EDG_BAV_3_4_9_modifier
-					duration = 7300
+					duration = 9125
 				}
 			}
 			custom_tooltip = EDG_SPACE_TT
@@ -2592,7 +2601,7 @@ EDG_BAV_3_5 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -2874,7 +2883,7 @@ EDG_BAV_4_1 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -3084,7 +3093,7 @@ EDG_BAV_4_2 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -3147,7 +3156,7 @@ EDG_BAV_4_2 = {
 		}
 	}
 	EDG_BAV_4_2_14 = {
-		icon = bavarian_cultural_dominance
+		icon = establish_oktoberfest
 		required_missions = {
 			EDG_BAV_4_1_13
 			EDG_BAV_4_3_13
@@ -3156,6 +3165,7 @@ EDG_BAV_4_2 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			has_country_modifier = EDG_BAV_event_105_modifier
 			custom_trigger_tooltip = {
 				tooltip = EDG_BAV_4_2_14_4
 				OR = {
@@ -3165,6 +3175,16 @@ EDG_BAV_4_2 = {
 					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_8
 					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_9
 					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_10
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_11
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_12
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_13
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_14
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_15
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_16
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_17
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_18
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_19
+					has_ruler_modifier = EDG_BAV_enhance_grain_trade_modifier_20
 				}
 			}
 		}
@@ -3188,7 +3208,7 @@ EDG_BAV_4_3 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -3307,7 +3327,7 @@ EDG_BAV_4_4 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -3498,7 +3518,7 @@ EDG_BAV_4_5 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -3626,7 +3646,7 @@ EDG_BAV_5_1 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -3780,7 +3800,7 @@ EDG_BAV_5_2 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -3896,7 +3916,7 @@ EDG_BAV_5_3 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -4030,7 +4050,7 @@ EDG_BAV_5_4 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -4237,7 +4257,7 @@ EDG_BAV_5_5 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		NOT = {
 			has_disaster = EDG_BAV_religion_disaster
 		}
@@ -4348,7 +4368,7 @@ EDG_BAV_6_1 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_subject_disaster
 	}
 	EDG_BAV_6_1_3 = {
@@ -4358,34 +4378,27 @@ EDG_BAV_6_1 = {
 			EDG_BAV_6_2_2
 		}
 		provinces_to_highlight = {
-			owner = {
-				alliance_with = ROOT
-			}
 		}
 		trigger = {
 			has_disaster = EDG_BAV_subject_disaster
-			calc_true_if = {
-				amount = 2
-				all_country = {
-					is_free_or_tributary_trigger = yes
-					has_opinion = {
-						who = ROOT
-						value = 180
-					}
-					trust = {
-						who = ROOT
-						value = 60
-					}
+			OR = {
+				war_exhaustion = 10
+				NOT = {
+					war_exhaustion = 0.1
 				}
 			}
 		}
 		effect = {
+			add_war_exhaustion = -8
+			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_BAV_6_1_3_1
 			set_country_flag = EDG_BAV_6_1_3_flag
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_BAV_6_1_3_2
 		}
 	}
 	EDG_BAV_6_1_5 = {
-		icon = mission_have_two_subjects
+		icon = mission_dismantle_hre
 		position = 5
 		required_missions = {
 			EDG_BAV_6_1_3
@@ -4397,24 +4410,46 @@ EDG_BAV_6_1 = {
 		}
 		trigger = {
 			has_disaster = EDG_BAV_subject_disaster
-			calc_true_if = {
-				amount = 2
-				all_country = {
-					is_free_or_tributary_trigger = no
-					has_opinion = {
-						who = ROOT
-						value = 180
-					}
-					trust = {
-						who = ROOT
-						value = 60
-					}
-				}
+			NOT = {
+				war_exhaustion = 0.1
 			}
 		}
 		effect = {
 			custom_tooltip = EDG_BAV_6_1_5_1
 			set_country_flag = EDG_BAV_6_1_5_flag
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_BAV_6_1_5_2
+			hidden_effect = {
+				every_country = {
+					limit = {
+						is_in_war = {
+							attacker_leader = THIS
+							defender_leader = ROOT
+							casus_belli = EDG_BAV_independence_cb
+						}
+						check_variable = {
+							which = EDG_BAV_compliance_variable
+							value = 1
+						}
+					}
+					change_variable = {
+						which = EDG_BAV_compliance_variable
+						value = 2
+					}
+					if = {
+						limit = {
+							check_variable = {
+								which = EDG_BAV_compliance_variable
+								value = 5
+							}
+						}
+						set_variable = {
+							which = EDG_BAV_compliance_variable
+							value = 5
+						}
+					}
+				}
+			}
 		}
 	}
 }
@@ -4428,7 +4463,7 @@ EDG_BAV_6_2 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_subject_disaster
 	}
 	EDG_BAV_6_2_2 = {
@@ -4472,7 +4507,7 @@ EDG_BAV_6_2 = {
 						}
 					}
 					every_owned_province = {
-						add_province_triggered_modifier = EDG_BAV_6_2_4_modifier
+						add_province_triggered_modifier = EDG_BAV_6_2_2_modifier
 					}
 				}
 			}
@@ -4509,11 +4544,17 @@ EDG_BAV_6_2 = {
 		effect = {
 			custom_tooltip = EDG_BAV_6_2_4_1
 			hidden_effect = {
-				south_german_region = {
-					add_province_triggered_modifier = EDG_BAV_6_2_4_modifier
-				}
-				north_german_region = {
-					add_province_triggered_modifier = EDG_BAV_6_2_4_modifier
+				every_country = {
+					limit = {
+						is_in_war = {
+							attacker_leader = THIS
+							defender_leader = ROOT
+							casus_belli = EDG_BAV_independence_cb
+						}
+					}
+					every_owned_province = {
+						add_province_triggered_modifier = EDG_BAV_6_2_4_modifier
+					}
 				}
 			}
 		}
@@ -4573,7 +4614,7 @@ EDG_BAV_6_3 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_subject_disaster
 	}
 	EDG_BAV_6_3_1 = {
@@ -4902,7 +4943,7 @@ EDG_BAV_6_4 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_subject_disaster
 	}
 	EDG_BAV_6_4_2 = {
@@ -5139,7 +5180,7 @@ EDG_BAV_6_5 = {
 		is_or_was_tag = {
 			tag = BAV
 		}
-		mission_completed = EDG_BAV_1_3_6
+		has_country_flag = EDG_BAV_1_3_6_flag
 		has_disaster = EDG_BAV_subject_disaster
 	}
 	EDG_BAV_6_5_3 = {

@@ -16,7 +16,7 @@
  EDG_BAV_enhanced_ideas_6: "§MƒlS+YˆQ›Q‹N9ei—§!"
  EDG_BAV_enhanced_ideas_6_desc: "ƒlS+YˆQ„v›Q‹N9ei—:VŒ­‹ÃuNªu‹Vÿte˜VßRSOû|ÿÄ‰ƒ›Q°heˆÙuÿv^ú^ËzôfïS`—„vc%cþ”ag0›Q–NQêS=f4NöeübÑQ„vfkÅˆÿw=fN=eýwYcíujOb0ëVÆ–Óuv^(WsQ.•byV-N3zOO5–„v8^Y›RÏ‘0"
  EDG_BAV_enhanced_ideas_7: "§MrSr^b§!"
- EDG_BAV_enhanced_ideas_7_desc: "(W·Va×V„vCg›RËhNS-NÿÜwv^NêSÖS³QŽNRQR0bìN„U(u‡efN0ag¦uN«R÷^žäNÿåNY²NRSLeùRTwßvÿåNÕl‹VIN.VéTúV†˜0WÿåNr¨X‰NÖSöeô•NTÕl'`0NbŒrSr^bÿck=f(u‡eWR:NýV¶Rb—VÜw)R0"
+ EDG_BAV_enhanced_ideas_7_desc: "(W·Va×V„vCg›RËhNS-NÿÜwv^NêSÖS³QŽNRQR0bìN„U(u‡efN0ag¦uN«R÷^žäNÿåNY²NRSLeùRTwßvÿåNÕl‹VIN.VéTúV†˜0WÿåNr¨X‰NÖSöeô•NTÕl'`0NbŒ0rSr^b0ÿck=f(u‡eWR:NýV¶Rb—VÜw)R0"
  estate_edg_artists_privilege_7_modifier: "SÍ‘—RYeê1u"
  estate_edg_artists_privilege_8_modifier: "ÝO²bVïz0µN"
  estate_edg_artists_privilege_9_modifier: "ÃOÛÎW^ÑSUS"
@@ -29,6 +29,7 @@
  EDG_BAV_1_3_1_modifier: "ôTO)RšNßuNKNï"
  EDG_BAV_1_3_2_modifier: "O‰Quo`"
  EDG_BAV_1_3_6_modifier: "@BAV§YôTO)RšN§!QNßu"
+ EDG_BAV_1_5_6_modifier: "wyJT>m„v0§Y1YPNíV§!0"
  EDG_BAV_2_2_1_modifier: "'t%`¶r`gô•ybkµNuÛS›Q"
  EDG_BAV_3_1_7_modifier: "çubïfÛVN„vON"
  EDG_BAV_3_1_9_modifier: "6eg^tëXÇ–cOuQ"
@@ -66,6 +67,7 @@
  EDG_BAV_8_5_35_modifier: "-eQz‚=gÍsÏ…"
  EDG_BAV_event_29_modifier: "hQlµb—bµOeuw"
  EDG_BAV_event_46_modifier: "'YfMQÏ‹äN"
+ EDG_BAV_event_60_modifier: "‡^²bWÉb·V>m¾–l"
  EDG_BAV_event_70_modifier: "·Va×V„vÎžf"
  EDG_BAV_event_91_modifier: "Vg&Ofe"
  EDG_BAV_event_92_modifier: "Vglš·VÌ‘"
@@ -139,9 +141,9 @@
  EDG_BAV_recently_has_changed_goods_to_grain_modifier_2: "µNÏ‘NM–"
  EDG_BAV_humanist_modifier: "ŒRb0§YºN‡etõV§!0"
  EDG_BAV_tolerance_modifier: "Vïz¹RÍV¦^óS:N0§Y8§!0"
- EDG_BAV_has_level_5_adm_advisors_modifier: "åb	gN*N§Y5§!µu0§YLˆ?eŒ˜î•§!0"
- EDG_BAV_has_level_5_dip_advisors_modifier: "åb	gN*N§Y5§!µu0§YY²NŒ˜î•§!0" 
- EDG_BAV_has_level_5_mil_advisors_modifier: "åb	gN*N§Y5§!µu0§Y›Q‹NŒ˜î•§!0"
+ EDG_BAV_has_level_5_adm_advisor_modifier: "åb	gN*N§Y5§!µu0§YLˆ?eŒ˜î•§!0"
+ EDG_BAV_has_level_5_dip_advisor_modifier: "åb	gN*N§Y5§!µu0§YY²NŒ˜î•§!0" 
+ EDG_BAV_has_level_5_mil_advisor_modifier: "åb	gN*N§Y5§!µu0§Y›Q‹NŒ˜î•§!0"
  EDG_BAV_munich_parliament_modifier: "§YUa<SÑž®‹O§!9ei—"
  EDG_BAV_beer_festival_positive_opinion: "Ta†^kydUR‘‚‚"
  EDG_BAV_beer_festival_negative_opinion: "ÒbÝu†^kydUR‘‚‚"
@@ -215,4 +217,6 @@
  EDG_BAV_Wittelsbach_Territories_overlord_modifier_SWA: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@SWA§YËeæt,g§!0"
  EDG_BAV_Wittelsbach_Territories_overlord_modifier_HES: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@HES§YÑžîh§!0"
  EDG_BAV_Wittelsbach_Territories_overlord_modifier_BAD: "òTTv^„v§MôuyrS¯eôTk¶RÏe†˜0W§!0@BAD§YôT‰v§!0"
- EDG_BAV_subject_disaster_modifier: "§MNˆIQKNY§!"
+ EDG_BAV_subject_disaster_modifier: "§RNˆIQKNY§!"
+ EDG_BAV_production_economy_modifier: "NQ×S0R÷N<hi—‹T„vâlÊS"
+ EDG_BAV_wittelsbach_system_modifier: "òTbËz@GER§Y·Va×V§!"

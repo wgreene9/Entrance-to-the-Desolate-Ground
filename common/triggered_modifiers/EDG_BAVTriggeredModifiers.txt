@@ -1,3 +1,24 @@
+EDG_BAV_1_5_6_modifier = {
+	potential = {
+		has_country_flag = EDG_BAV_1_5_6_flag
+	}
+	trigger = {
+		SAX = {
+			OR = {
+				alliance_with = ROOT
+				is_subject_of = ROOT
+			}
+			mission_completed = EDG_mission_SAX_1_7
+		}
+	}
+	tolerance_own = -2
+	tolerance_heretic = 3
+	tolerance_of_heretics_capacity = 3
+	global_heretic_missionary_strength = -2
+	religious_unity = 1
+	reasons_to_elect = -50
+}
+
 EDG_BAV_beer_factory_merchants_1 = {
 	potential = {
 		EDG_BAV_is_bavarian_country_trigger = yes
@@ -145,7 +166,7 @@ EDG_BAV_bavarian_local_council_modifier_1 = {
 	trigger = {
 		current_age = age_of_discovery
 	}
-	global_tax_modifier = 0.2
+	global_tax_modifier = 0.33
 }
 
 EDG_BAV_bavarian_local_council_modifier_2 = {
@@ -211,7 +232,7 @@ EDG_BAV_has_level_5_adm_advisor_modifier = {
 	monthly_EDG_BAV_government_power = 0.1
 }
 
-EDG_BAV_has_level_5_dip_advisors_modifier = {
+EDG_BAV_has_level_5_dip_advisor_modifier = {
 	potential = {
 		has_country_flag = EDG_BAV_5_5_11_flag
 	}
@@ -221,7 +242,7 @@ EDG_BAV_has_level_5_dip_advisors_modifier = {
 	monthly_EDG_BAV_government_power = 0.1
 }
 
-EDG_BAV_has_level_5_mil_advisors_modifier = {
+EDG_BAV_has_level_5_mil_advisor_modifier = {
 	potential = {
 		has_country_flag = EDG_BAV_5_5_11_flag
 	}
@@ -397,23 +418,25 @@ EDG_BAV_MAM_trade_modifier = {
 		has_global_flag = EDG_BAV_event_163_triggered_flag
 		OR = {
 			EDG_BAV_is_bavarian_country_trigger = yes
-			tag = MAM
+			is_or_was_tag = {
+				tag = MAM
+			}
 		}
 	}
 	trigger = {
 		if = {
 			limit = {
-				tag = MAM
-			}
-			any_ally = {
 				EDG_BAV_is_bavarian_country_trigger = yes
 			}
-		}
-		else = {
 			any_ally = {
 				is_or_was_tag = {
 					tag = MAM
 				}
+			}
+		}
+		else = {
+			any_ally = {
+				EDG_BAV_is_bavarian_country_trigger = yes
 			}
 		}
 	}
@@ -435,23 +458,23 @@ EDG_BAV_subject_disaster_modifier = {
 	global_regiment_cost = 1
 }
 
-EDG_BAV_1_5_6_modifier = {
+EDG_BAV_production_economy_modifier = {
 	potential = {
-		has_country_flag = EDG_BAV_1_5_6_flag
+		has_government_attribute = EDG_BAV_production_economy_attribute
 	}
 	trigger = {
-		SAX = {
-			OR = {
-				alliance_with = ROOT
-				is_subject_of = ROOT
-			}
-			mission_completed = EDG_mission_SAX_1_7
-		}
+		has_country_modifier = EDG_flavor_Price_Revolution_0_a_modifier
 	}
-	tolerance_own = -2
-	tolerance_heretic = 3
-	tolerance_of_heretics_capacity = 3
-	global_heretic_missionary_strength = -2
-	religious_unity = 1
-	reasons_to_elect = -50
+	inflation_reduction = 1.25
+	inflation_action_cost = -0.25
+}
+
+EDG_BAV_wittelsbach_system_modifier = {
+	potential = {
+		has_government_attribute = EDG_BAV_more_governing_capacity_attribute
+	}
+	trigger = {
+		tag = GER
+	}
+	governing_capacity = 250
 }

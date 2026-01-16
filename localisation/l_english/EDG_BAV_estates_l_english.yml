@@ -36,6 +36,8 @@ l_english:
  estate_edg_artists_privilege_4_desc: "委托艺术家以壁画、史诗与戏剧描绘国家复兴的愿景，塑造共同认同并鼓舞民心，借文化叙事巩固统治合法性与社会凝聚力。"
  estate_edg_artists_privilege_5: "增加艺术开支"
  estate_edg_artists_privilege_5_desc: "提高宫廷与公共项目的艺术预算，扩充赞助、奖掖与委托创作，以培养人才、繁荣文化；相应地，财政负担与反对之声亦会增加。"
+ estate_edg_artists_privilege_5_tt_yes: "§G启用§!自动完成§Y艺术家§!阶层议程。"
+ estate_edg_artists_privilege_5_tt_no: "§R禁用§!自动完成§Y艺术家§!阶层议程。"
  estate_edg_artists_privilege_6: "出售王室领地"
  estate_edg_artists_privilege_6_desc: "出售部分王室领地以筹措资金，并将土地转让给艺术家家族与其赞助者经营，换取其对朝廷政策的支持与持续投资。"
  estate_edg_artists_privilege_7: "尊重宗教自由"

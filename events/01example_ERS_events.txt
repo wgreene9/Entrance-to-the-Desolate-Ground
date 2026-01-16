@@ -10031,17 +10031,16 @@ country_event = { #圣火重燃
     fire_only_once = yes
     trigger = {
         religion = zoroastrian
-        all_province = {
-            superregion = persia_superregion
+        khorasan_region = {
+            type = all
             country_or_non_sovereign_subject_holds = ROOT
-            culture_group = iranian
             religion = zoroastrian
         }
-        # persia_superregion = {
-        #     type = all
-        #     country_or_non_sovereign_subject_holds = ROOT
-        #     religion = zoroastrian
-        # }
+        persia_region = {
+            type = all
+            country_or_non_sovereign_subject_holds = ROOT
+            religion = zoroastrian
+        }
     }
     major = yes
     option = {
@@ -10079,7 +10078,6 @@ country_event = { #推崇正信
     title = mission_EDGERSmission.238.ct
     desc = mission_EDGERSmission.238.txt
     picture = PER_EVENT_PICTURE_1
-    fire_only_once = yes
     trigger = {
         religion = zoroastrian
         has_global_flag = mission_EDGERSmission_237_1_1_global_flag

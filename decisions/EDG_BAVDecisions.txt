@@ -181,6 +181,14 @@ country_decisions = {
 				name = centralization_modifier
 				duration = 7300
 			}
+			if = {
+				limit = {
+					ai = yes
+				}
+				country_event = {
+					id = EDG_BAV_event.9
+				}
+			}
 		}
 		ai_will_do = {
 			factor = 10
@@ -1067,6 +1075,11 @@ country_decisions = {
 	EDG_BAV_hussite_decision_5 = {
 		#宣扬圣战主义
 		major = yes
+		color = {
+			35
+			220
+			240
+		}
 		provinces_to_highlight = {
 		}
 		potential = {
@@ -1326,6 +1339,7 @@ country_decisions = {
 			240
 		}
 		potential = {
+			always = no
 			has_global_flag = EDG_BAV_event_156_triggered_flag
 			tag = MLO
 			exists = BAV
@@ -1358,7 +1372,27 @@ country_decisions = {
 			factor = 1
 		}
 	}
-	EDG_BAV_hide_subject_decisions_flag = {
+	EDG_BAV_decrease_war_exhaustion = {
+		major = yes
+		color = {
+			35
+			220
+			240
+		}
+		potential = {
+			EDG_BAV_is_bavarian_country_trigger = yes
+			has_country_flag = EDG_BAV_6_1_3_flag
+		}
+		allow = {
+			years_of_income = 0.2
+			war_exhaustion = 0.1
+		}
+		effect = {
+			add_years_of_income = -0.2
+			add_war_exhaustion = -2
+		}
+	}
+	EDG_BAV_hide_subject_decisions = {
 		major = yes
 		color = {
 			35
@@ -2427,7 +2461,7 @@ country_decisions = {
 			custom_tooltip = EDG_BAV_Wittelsbach_Territories_long_desc
 		}
 	}
-	EDG_BAV_release_subject_EN1 = {
+	EDG_BAV_release_subject_NFK = {
 		major = yes
 		color = {
 			35
@@ -2444,28 +2478,28 @@ country_decisions = {
 		allow = {
 			OR = {
 				NOT = {
-					exists = EN1
+					exists = NFK
 				}
-				overlord_of = EN1
+				overlord_of = NFK
 			}
 			british_isles_region = {
 				country_or_non_sovereign_subject_holds = ROOT
 			}
 		}
 		effect = {
-			release = EN1
+			release = NFK
 			british_isles_region = {
 				limit = {
 					country_or_non_sovereign_subject_holds = ROOT
 				}
-				add_core = EN1
-				cede_province = EN1
+				add_core = NFK
+				cede_province = NFK
 			}
 			EDG_BAV_create_subject_effect = {
-				who = EN1
+				who = NFK
 			}
-			EN1 = {
-				override_country_name = EDG_BAV_EN1
+			NFK = {
+				override_country_name = EDG_BAV_NFK
 			}
 			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_BAV_Wittelsbach_Territories_long_desc
@@ -3009,13 +3043,13 @@ country_decisions = {
 				}
 				overlord_of = KON
 			}
-			africa_superregion = {
+			southern_africa_superregion = {
 				country_or_non_sovereign_subject_holds = ROOT
 			}
 		}
 		effect = {
 			release = KON
-			africa_superregion = {
+			southern_africa_superregion = {
 				limit = {
 					country_or_non_sovereign_subject_holds = ROOT
 				}

@@ -214,6 +214,7 @@ country_event = {
 	desc = EDG_BAV_event.9.d
 	is_triggered_only = yes
 	fire_only_once = yes
+	major = yes
 	picture = EMPEROR_eventPicture
 	option = {
 		name = EDG_BAV_event.9.a
@@ -279,9 +280,6 @@ country_event = {
 	}
 	option = {
 		name = EDG_BAV_event.10.b
-		trigger = {
-			ai = yes
-		}
 		ai_chance = {
 			factor = 1
 		}
@@ -388,7 +386,7 @@ country_event = {
 		name = EDG_BAV_event.16.a
 		hidden_effect = {
 			country_event = {
-				id = EDG_BAV_event.17
+				id = EDG_BAV_event.18
 				days = 365
 			}
 		}
@@ -409,7 +407,7 @@ country_event = {
 		name = EDG_BAV_event.17.a
 		hidden_effect = {
 			country_event = {
-				id = EDG_BAV_event.18
+				id = EDG_BAV_event.19
 				days = 365
 			}
 		}
@@ -460,7 +458,7 @@ country_event = {
 		name = EDG_BAV_event.18.a
 		hidden_effect = {
 			country_event = {
-				id = EDG_BAV_event.19
+				id = EDG_BAV_event.17
 				days = 365
 			}
 		}
@@ -691,6 +689,9 @@ country_event = {
 	id = EDG_BAV_event.27
 	title = EDG_BAV_event.27.t
 	desc = EDG_BAV_event.27.d
+	trigger = {
+		ai = no
+	}
 	is_triggered_only = yes
 	fire_only_once = yes
 	picture = DIET_eventPicture
@@ -763,6 +764,10 @@ country_event = {
 	is_triggered_only = yes
 	fire_only_once = yes
 	picture = DIET_eventPicture
+	trigger = {
+		EDG_BAV_is_bavarian_country_trigger = yes
+		has_disaster = EDG_BAV_religion_disaster
+	}
 	option = {
 		name = EDG_BAV_event.29.a
 		reduce_stability_or_adm_power = yes
@@ -993,12 +998,14 @@ country_event = {
 		years = 2
 	}
 	immediate = {
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				religion = catholic
+		hidden_effect = {
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					religion = catholic
+				}
+				save_event_target_as = EDG_BAV_event_33_province_target
 			}
-			save_event_target_as = EDG_BAV_event_33_province_target
 		}
 	}
 	goto = EDG_BAV_event_33_province_target
@@ -1095,12 +1102,14 @@ country_event = {
 	picture = DIET_eventPicture
 	is_triggered_only = yes
 	immediate = {
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				religion = EDG_Euchites
+		hidden_effect = {
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					religion = EDG_Euchites
+				}
+				save_event_target_as = EDG_BAV_event_35_province_target
 			}
-			save_event_target_as = EDG_BAV_event_35_province_target
 		}
 	}
 	goto = EDG_BAV_event_35_province_target
@@ -1145,12 +1154,14 @@ country_event = {
 	picture = DIET_eventPicture
 	is_triggered_only = yes
 	immediate = {
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				religion = EDG_Euchites
+		hidden_effect = {
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					religion = EDG_Euchites
+				}
+				save_event_target_as = EDG_BAV_event_36_province_target
 			}
-			save_event_target_as = EDG_BAV_event_36_province_target
 		}
 	}
 	goto = EDG_BAV_event_36_province_target
@@ -1186,12 +1197,14 @@ country_event = {
 	picture = DIET_eventPicture
 	is_triggered_only = yes
 	immediate = {
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				religion = EDG_Euchites
+		hidden_effect = {
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					religion = EDG_Euchites
+				}
+				save_event_target_as = EDG_BAV_event_37_province_target
 			}
-			save_event_target_as = EDG_BAV_event_37_province_target
 		}
 	}
 	goto = EDG_BAV_event_37_province_target
@@ -1200,7 +1213,6 @@ country_event = {
 		event_target:EDG_BAV_event_37_province_target = {
 			add_prosperity = -100
 			area = {
-				add_devastation = 10
 			}
 		}
 		change_variable = {
@@ -1762,19 +1774,21 @@ country_event = {
 		months = 10
 	}
 	immediate = {
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				religion = EDG_Euchites
+		hidden_effect = {
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					religion = EDG_Euchites
+				}
+				catholic_rebels = 2
 			}
-			catholic_rebels = 2
-		}
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				religion = catholic
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					religion = catholic
+				}
+				heretic_rebels = 2
 			}
-			heretic_rebels = 2
 		}
 	}
 	option = {
@@ -1796,6 +1810,9 @@ country_event = {
 			was_player = no
 		}
 		is_free_or_tributary_trigger = yes
+		NOT = {
+			active_imperial_incident = any
+		}
 	}
 	mean_time_to_happen = {
 		years = 20
@@ -1807,6 +1824,7 @@ country_event = {
 				create_union = ROOT
 			}
 			add_truce_with = LBV
+			set_imperial_incident = incidents_bavarian_unification
 		}
 	}
 	option = {
@@ -1819,12 +1837,32 @@ country_event = {
 	desc = EDG_BAV_event.60.d
 	picture = DIET_eventPicture
 	trigger = {
-		always = no
+		NOT = {
+			exists = NFK
+		}
 	}
-	is_triggered_only = yes
+	fire_only_once = yes
 	option = {
 		name = EDG_BAV_event.60.a
+		add_adm_power = 50
+		random_province = {
+			limit = {
+				country_or_non_sovereign_subject_holds = ROOT
+				religion = catholic
+			}
+			change_religion = EDG_Lollards
+		}
+		add_country_modifier = {
+			name = EDG_BAV_event_60_modifier
+			duration = 9125
+		}
 		custom_tooltip = EDG_BAV_event.60.a_tt
+	}
+	option = {
+		name = EDG_BAV_event.60.b
+		add_prestige_or_monarch_power = {
+			amount = 10
+		}
 	}
 }
 
@@ -1865,9 +1903,114 @@ country_event = {
 
 country_event = {
 	id = EDG_BAV_event.62
-	is_triggered_only = yes
-	hidden = yes
+	title = EDG_BAV_event.62.t
+	desc = EDG_BAV_event.62.d
+	picture = DIET_eventPicture
+	trigger = {
+		EDG_BAV_is_bavarian_country_trigger = yes
+		tag = GER
+		owns_core_province = 87
+		has_country_flag = EDG_BAV_subject_disaster_ended_flag
+		british_isles_region = {
+			type = all
+			is_claim = ROOT
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		NOT = {
+			exists = NFK
+		}
+		any_country = {
+			ai = yes
+			british_isles_region = {
+				type = all
+				OR = {
+					owned_by = PREV
+					owned_by_subject_of = PREV
+				}
+			}
+		}
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	immediate = {
+		hidden_effect = {
+			random_country = {
+				ai = yes
+				limit = {
+					british_isles_region = {
+						type = all
+						OR = {
+							owned_by = PREV
+							owned_by_subject_of = PREV
+						}
+					}
+				}
+				save_event_target_as = EDG_BAV_event_62_country_target
+			}
+			event_target:EDG_BAV_event_62_country_target = {
+				release = NFK
+			}
+			NFK = {
+				change_religion = EDG_Lollards
+				capital_scope = {
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					infantry = PREV
+					cavalry = PREV
+					cavalry = PREV
+					cavalry = PREV
+					cavalry = PREV
+					cavalry = PREV
+					cavalry = PREV
+					cavalry = PREV
+					cavalry = PREV
+					cavalry = PREV
+					cavalry = PREV
+				}
+				declare_war_with_cb = {
+					casus_belli = cb_annex
+					who = event_target:EDG_BAV_event_62_country_target
+				}
+			}
+		}
+	}
+	fire_only_once = yes
 	option = {
+		name = EDG_BAV_event.62.a
+		join_all_offensive_wars_of = NFK
+		EDG_BAV_create_subject_effect = {
+			who = NFK
+		}
+		1860 = {
+			change_religion = EDG_Lollards
+			add_reform_center = EDG_Lollards
+		}
+	}
+	option = {
+		name = EDG_BAV_event.62.b
+		add_prestige_or_monarch_power = {
+			amount = 10
+		}
 	}
 }
 
@@ -1879,7 +2022,6 @@ country_event = {
 	trigger = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 		has_disaster = EDG_BAV_religion_disaster
-		has_saved_global_event_target = emperor
 		emperor = {
 			is_in_war = {
 				attacker_leader = THIS
@@ -1914,7 +2056,6 @@ country_event = {
 	trigger = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 		has_disaster = EDG_BAV_religion_disaster
-		has_saved_global_event_target = emperor
 		emperor = {
 			is_in_war = {
 				attacker_leader = THIS
@@ -1946,7 +2087,6 @@ country_event = {
 	trigger = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 		has_disaster = EDG_BAV_religion_disaster
-		has_saved_global_event_target = emperor
 		emperor = {
 			is_in_war = {
 				attacker_leader = THIS
@@ -1975,7 +2115,6 @@ country_event = {
 	trigger = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 		has_disaster = EDG_BAV_religion_disaster
-		has_saved_global_event_target = emperor
 		emperor = {
 			is_in_war = {
 				attacker_leader = THIS
@@ -2111,14 +2250,19 @@ country_event = {
 	}
 	option = {
 		name = EDG_BAV_event.70.a
-		add_stability_or_adm_power_per_stab = {
-			amount = 6
-		}
+		add_stability = 6
 		swap_non_generic_missions = yes
 		custom_tooltip = EDG_BAV_event.70.a_tt
 		unlock_diplomatic_action = {
 			type = EDG_BAV_annex_subject
 		}
+		custom_tooltip = EDG_SPACE_TT
+		# south_german_region = {
+		# 	add_province_triggered_modifier = EDG_BAV_event_70_modifier
+		# }
+		# north_german_region = {
+		# 	add_province_triggered_modifier = EDG_BAV_event_70_modifier
+		# }
 		hidden_effect = {
 			remove_country_modifier = EDG_BAV_6_3_1_modifier
 			every_province = {
@@ -2126,12 +2270,6 @@ country_event = {
 				remove_province_triggered_modifier = EDG_BAV_6_2_4_modifier
 				remove_province_triggered_modifier = EDG_BAV_6_2_6_modifier
 				remove_province_triggered_modifier = EDG_BAV_6_4_4_modifier
-			}
-			south_german_region = {
-				add_province_triggered_modifier = EDG_BAV_event_70_modifier
-			}
-			north_german_region = {
-				add_province_triggered_modifier = EDG_BAV_event_70_modifier
 			}
 		}
 	}
@@ -2280,17 +2418,19 @@ country_event = {
 	}
 	immediate = {
 		set_country_flag = EDG_BAV_heir_education_event_triggered_flag
-		random_country = {
-			limit = {
-				capital_scope = {
-					region = italy_region
+		hidden_effect = {
+			random_country = {
+				limit = {
+					capital_scope = {
+						region = italy_region
+					}
+					has_opinion = {
+						who = ROOT
+						value = 150
+					}
 				}
-				has_opinion = {
-					who = ROOT
-					value = 150
-				}
+				save_global_event_target_as = EDG_BAV_heir_education_italian_country_target
 			}
-			save_global_event_target_as = EDG_BAV_heir_education_italian_country_target
 		}
 	}
 	option = {
@@ -3559,17 +3699,19 @@ country_event = {
 		years = 20
 	}
 	immediate = {
-		random_country = {
-			limit = {
-				NOT = {
-					tag = ROOT
+		hidden_effect = {
+			random_country = {
+				limit = {
+					NOT = {
+						tag = ROOT
+					}
+					has_opinion = {
+						who = ROOT
+						value = 0
+					}
 				}
-				has_opinion = {
-					who = ROOT
-					value = 0
-				}
+				save_event_target_as = EDG_BAV_event_107_country_target
 			}
-			save_event_target_as = EDG_BAV_event_107_country_target
 		}
 	}
 	option = {
@@ -3823,10 +3965,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.116.a
 		1878 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -3842,18 +3983,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -3871,10 +4000,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.117.a
 		1876 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -3890,18 +4018,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -3919,10 +4035,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.118.a
 		67 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -3938,18 +4053,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -3967,10 +4070,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.119.a
 		85 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -3986,18 +4088,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -4015,10 +4105,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.120.a
 		50 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -4034,18 +4123,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -4063,10 +4140,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.121.a
 		78 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -4082,18 +4158,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -4111,10 +4175,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.122.a
 		80 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -4130,18 +4193,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -4159,10 +4210,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.123.a
 		45 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -4178,18 +4228,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -4207,10 +4245,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.124.a
 		44 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -4226,18 +4263,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -4255,10 +4280,9 @@ country_event = {
 	option = {
 		name = EDG_BAV_event.125.a
 		70 = {
-			add_devastation = 10
-			add_base_tax = -3
-			add_base_production = -3
-			add_base_manpower = -3
+			add_base_tax = -1
+			add_base_production = -1
+			add_base_manpower = -1
 			add_permanent_province_modifier = {
 				name = EDG_BAV_occupied_hre_province_modifier
 				duration = -1
@@ -4274,18 +4298,6 @@ country_event = {
 		add_mil_power = 25
 		add_prestige_or_monarch_power = {
 			amount = 10
-		}
-		custom_tooltip = EDG_BAV_event.116.a_tt
-		hidden_effect = {
-			every_known_country = {
-				limit = {
-					is_part_of_hre = yes
-				}
-				add_aggressive_expansion = {
-					who = ROOT
-					value = 2
-				}
-			}
 		}
 	}
 }
@@ -4771,12 +4783,14 @@ country_event = {
 	}
 	goto = EDG_BAV_event_141_province_target
 	immediate = {
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				EDG_BAV_can_build_beer_factory_in_province_trigger = yes
+		hidden_effect = {
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					EDG_BAV_can_build_beer_factory_in_province_trigger = yes
+				}
+				save_event_target_as = EDG_BAV_event_141_province_target
 			}
-			save_event_target_as = EDG_BAV_event_141_province_target
 		}
 	}
 	option = {
@@ -4814,12 +4828,14 @@ country_event = {
 	}
 	goto = EDG_BAV_event_142_province_target
 	immediate = {
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				EDG_BAV_has_beer_factory_modifier_trigger = yes
+		hidden_effect = {
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					EDG_BAV_has_beer_factory_modifier_trigger = yes
+				}
+				save_event_target_as = EDG_BAV_event_142_province_target
 			}
-			save_event_target_as = EDG_BAV_event_142_province_target
 		}
 	}
 	option = {
@@ -4854,15 +4870,17 @@ country_event = {
 	}
 	goto = EDG_BAV_event_143_province_target
 	immediate = {
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				trade_goods = grain
-				NOT = {
-					has_province_modifier = EDG_BAV_event_143_modifier
+		hidden_effect = {
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					trade_goods = grain
+					NOT = {
+						has_province_modifier = EDG_BAV_event_143_modifier
+					}
 				}
+				save_event_target_as = EDG_BAV_event_143_province_target
 			}
-			save_event_target_as = EDG_BAV_event_143_province_target
 		}
 	}
 	option = {
@@ -4894,17 +4912,19 @@ country_event = {
 	mean_time_to_happen = {
 		years = 10
 	}
-	goto = EDG_BAV_event_143_province_target
+	goto = EDG_BAV_event_144_province_target
 	immediate = {
-		random_province = {
-			limit = {
-				country_or_non_sovereign_subject_holds = ROOT
-				EDG_BAV_has_beer_factory_modifier_trigger = yes
-				NOT = {
-					has_province_modifier = EDG_BAV_event_144_modifier
+		hidden_effect = {
+			random_province = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+					EDG_BAV_has_beer_factory_modifier_trigger = yes
+					NOT = {
+						has_province_modifier = EDG_BAV_event_144_modifier
+					}
 				}
+				save_event_target_as = EDG_BAV_event_144_province_target
 			}
-			save_event_target_as = EDG_BAV_event_144_province_target
 		}
 	}
 	option = {
@@ -5228,6 +5248,10 @@ country_event = {
 			attacker_leader = THIS
 			casus_belli = EDG_BAV_independence_cb
 		}
+		war_score_against = {
+			who = BAV
+			value = -99
+		}
 		NOT = {
 			any_country = {
 				EDG_BAV_is_bavarian_country_trigger = yes
@@ -5295,6 +5319,10 @@ country_event = {
 		is_in_war = {
 			attacker_leader = THIS
 			casus_belli = EDG_BAV_independence_cb
+		}
+		war_score_against = {
+			who = BAV
+			value = -99
 		}
 		NOT = {
 			any_country = {
@@ -5681,6 +5709,35 @@ country_event = {
 		add_estate_loyalty = {
 			estate = estate_nobles
 			loyalty = 20
+		}
+	}
+}
+
+country_event = {
+	id = EDG_BAV_event.169
+	title = EDG_BAV_event.169.t
+	desc = EDG_BAV_event.169.d
+	picture = DIET_eventPicture
+	fire_only_once = yes
+	trigger = {
+		exists = ERS
+		ERS = {
+			is_subject_of = ROOT
+			is_subject_of_type = EDG_BAV_Wittelsbach_Territories
+			owns = 426
+		}
+		NOT = {
+			has_global_flag = EDG_game_rule_1_4_close_flag			#如果禁用了彩蛋事件，则此事件不发生
+		}
+	}
+	option = {
+		name = EDG_BAV_event.169.a
+		EDG_BAV_create_backer_advisor_effect = yes		#兰斯为什么要把归来者写成backer？
+	}
+	option = {
+		name = EDG_BAV_event.169.b
+		add_prestige_or_monarch_power = {
+			amount = 10
 		}
 	}
 }

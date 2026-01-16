@@ -113,12 +113,12 @@ estate_edg_artists_privilege_13_modifier = {
 }
 
 estate_edg_artists_privilege_14_modifier = {
-	local_institution_spread = 0.33
+	local_institution_spread = 1
 	religion = yes
 }
 
 estate_edg_artists_privilege_16_modifier = {
-	regiment_recruit_speed = -0.25
+	regiment_recruit_speed = -0.9
 	local_regiment_cost = -0.25
 	local_tax_modifier = -0.1
 	religion = yes
@@ -306,7 +306,7 @@ EDG_BAV_5_4_14_modifier_3 = {
 }
 
 EDG_BAV_5_4_14_modifier_4 = {
-	global_institution_spread = 1
+	governing_cost = -0.1
 }
 
 EDG_BAV_6_3_1_modifier = {
@@ -318,7 +318,7 @@ EDG_BAV_8_1_35_modifier = {
 }
 
 EDG_BAV_8_4_36_modifier = {
-	all_power_cost = -0.025
+	all_power_cost = -0.05
 }
 
 EDG_BAV_8_4_38_modifier = {
@@ -351,14 +351,13 @@ EDG_BAV_add_buff_for_allies_in_war_modifier = {
 	global_manpower_modifier = 0.25
 	manpower_recovery_speed = 0.33
 	land_maintenance_modifier = -0.15
-	all_power_cost = 0.1
 }
 
 EDG_BAV_request_monarch_power_cooldown_modifier = {
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_SWI = {
-	defensiveness = 0.1
+	siege_ability = 0.1
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_H02 = {
@@ -366,35 +365,35 @@ EDG_BAV_Wittelsbach_Territories_overlord_modifier_H02 = {
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_BOH = {
-	production_efficiency = 0.1
+	production_efficiency = 0.2
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_MEI = {
-	global_tax_modifier = 0.1
+	global_tax_modifier = 0.2
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_POM = {
-	development_cost = -0.05
+	development_cost = -0.1
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_H03 = {
-	global_manpower_modifier = 0.1
+	global_manpower_modifier = 0.2
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_SAX = {
-	land_morale = 0.05
+	land_morale = 0.1
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_SHL = {
-	trade_efficiency = 0.1
+	trade_efficiency = 0.2
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_WES = {
-	global_unrest = -1
+	global_unrest = -2
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_H11 = {
-	global_trade_goods_size_modifier = 0.05
+	global_trade_goods_size_modifier = 0.1
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_FKN = {
@@ -402,11 +401,11 @@ EDG_BAV_Wittelsbach_Territories_overlord_modifier_FKN = {
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_PAL = {
-	legitimacy = 1
+	governing_capacity_modifier = 0.1
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_SWA = {
-	papal_influence = 2
+	all_power_cost = -0.05
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_HES = {
@@ -414,7 +413,7 @@ EDG_BAV_Wittelsbach_Territories_overlord_modifier_HES = {
 }
 
 EDG_BAV_Wittelsbach_Territories_overlord_modifier_BAD = {
-	leader_cost = -0.1
+	all_estate_loyalty_equilibrium = 0.1
 }
 
 EDG_BAV_event_29_modifier = {
@@ -426,6 +425,11 @@ EDG_BAV_event_46_modifier = {
 	global_unrest = -2
 	tolerance_of_heretics_capacity = 2
 	legitimacy = 1
+}
+
+EDG_BAV_event_60_modifier = {
+	shock_damage = 0.1
+	development_cost = -0.1
 }
 
 EDG_BAV_event_91_modifier = {
@@ -499,7 +503,7 @@ EDG_BAV_event_134_modifier = {
 
 EDG_BAV_event_135_modifier = {
 	discipline = 0.025
-	cavalry_cost = -0.1
+	global_regiment_cost = -0.1
 }
 
 EDG_BAV_event_143_modifier = {
@@ -584,7 +588,7 @@ EDG_BAV_recently_has_changed_goods_to_grain_modifier_2 = {
 }
 
 EDG_BAV_munich_parliament_modifier = {
-	local_unrest = -5
+	local_governing_cost = -0.1
 }
 
 EDG_BAV_art_masterpiece_modifier_1 = {
@@ -606,7 +610,7 @@ EDG_BAV_art_masterpiece_modifier_3 = {
 }
 
 EDG_BAV_art_masterpiece_modifier_4 = {
-	all_power_cost = -0.025
+	all_power_cost = -0.05
 	institution_growth = 0.1
 	edg_artists_loyalty_modifier = 0.05
 }
@@ -684,7 +688,7 @@ EDG_BAV_GUI_religious_congress_Catholic_button_1_modifier = {
 
 EDG_BAV_GUI_religious_congress_Catholic_button_2_modifier = {
 	global_unrest = -2
-	yearly_corruption = -0.1
+	yearly_corruption = -0.5
 }
 
 EDG_BAV_GUI_religious_congress_Catholic_button_3_modifier = {
@@ -698,12 +702,12 @@ EDG_BAV_GUI_religious_congress_Catholic_button_4_modifier = {
 }
 
 EDG_BAV_GUI_religious_congress_Euchites_button_1_modifier = {
-	religious_unity = 0.25
 	tolerance_heretic = 1
+	tolerance_of_heretics_capacity = 1
 }
 
 EDG_BAV_GUI_religious_congress_Euchites_button_2_modifier = {
-	years_of_nationalism = -5
+	years_of_nationalism = -10
 	global_autonomy = -0.1
 }
 
@@ -714,47 +718,47 @@ EDG_BAV_GUI_religious_congress_Euchites_button_3_modifier = {
 
 EDG_BAV_GUI_religious_congress_Euchites_button_4_modifier = {
 	church_privilege_slots = 1
-	stability_cost_modifier = -0.1
+	church_loyalty_modifier = 0.1
 }
 
 EDG_BAV_GUI_religious_congress_Catharism_button_1_modifier = {
-	missionary_maintenance_cost = -0.2
-	tolerance_of_heretics_capacity = 1
+	missionary_maintenance_cost = -0.25
+	prestige_per_development_from_conversion = 0.5
 }
 
 EDG_BAV_GUI_religious_congress_Catharism_button_2_modifier = {
-	governing_capacity = 50
-	autonomy_change_time = -0.2
+	governing_capacity = 100
+	autonomy_change_time = -0.5
 }
 
 EDG_BAV_GUI_religious_congress_Catharism_button_3_modifier = {
-	culture_conversion_time = -0.1
-	culture_conversion_cost = -0.1
+	culture_conversion_time = -0.15
+	culture_conversion_cost = -0.15
 }
 
 EDG_BAV_GUI_religious_congress_Catharism_button_4_modifier = {
-	production_efficiency = 0.05
-	trade_efficiency = 0.05
+	production_efficiency = 0.1
+	trade_efficiency = 0.1
 }
 
 EDG_BAV_GUI_religious_congress_Hussite_button_1_modifier = {
-	curia_powers_cost = -0.2
-	global_manpower_modifier = 0.1
+	curia_powers_cost = -0.25
+	global_manpower_modifier = 0.15
 }
 
 EDG_BAV_GUI_religious_congress_Hussite_button_2_modifier = {
-	min_autonomy_in_territories = -0.05
-	diplomatic_reputation = 1
+	min_autonomy_in_territories = -0.1
+	min_autonomy = -10
 }
 
 EDG_BAV_GUI_religious_congress_Hussite_button_3_modifier = {
 	improve_relation_modifier = 0.25
-	war_exhaustion = -0.1
+	ae_impact = -0.1
 }
 
 EDG_BAV_GUI_religious_congress_Hussite_button_4_modifier = {
-	church_influence_modifier = -0.1
-	prestige_decay = -0.01
+	edg_artists_privilege_slots = 2
+	stability_cost_modifier = -0.25
 }
 
 EDG_BAV_subject_compliance_province_modifier_1 = {

@@ -10,7 +10,15 @@ estate_edg_artists_privilege_1 = {
 	penalties = {
 	}
 	benefits = {
-		governing_capacity = 100
+		governing_capacity = 200
+	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
 	}
 	ai_will_do = {
 		factor = 0
@@ -76,6 +84,14 @@ estate_edg_artists_privilege_2 = {
 		}
 		modifier = {
 			technology_cost = -0.15
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
 		}
 	}
 	ai_will_do = {
@@ -172,6 +188,14 @@ estate_edg_artists_privilege_3 = {
 			reform_progress_growth = 0.5
 		}
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -189,6 +213,22 @@ estate_edg_artists_privilege_4 = {
 	benefits = {
 		prestige_decay = -0.01
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			edg_artists_privilege_slots = 1
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -205,6 +245,28 @@ estate_edg_artists_privilege_5 = {
 	}
 	penalties = {
 		global_tax_modifier = -0.05
+	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			edg_artists_privilege_slots = 1
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
+	on_granted = {
+		custom_tooltip = estate_edg_artists_privilege_5_tt_yes
+	}
+	on_revoked = {
+		custom_tooltip = estate_edg_artists_privilege_5_tt_no
 	}
 	ai_will_do = {
 		factor = 0
@@ -225,8 +287,13 @@ estate_edg_artists_privilege_6 = {
 		tolerance_heretic = 2
 		tolerance_of_heretics_capacity = 2
 	}
-	mechanics = {
-		exempt_from_seize_land
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
 	}
 	ai_will_do = {
 		factor = 0
@@ -270,6 +337,14 @@ estate_edg_artists_privilege_7 = {
 	on_invalid_province = {
 		remove_province_modifier = estate_edg_artists_privilege_7_modifier
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -279,7 +354,7 @@ estate_edg_artists_privilege_8 = {
 	icon = privilege_demand_more_troops
 	loyalty = 0.05
 	influence = 0.05
-	land_share = 10
+	land_share = 5
 	max_absolutism = -5
 	on_granted = {
 		custom_tooltip = estate_edg_artists_privilege_every_owned_heretic_province
@@ -313,6 +388,14 @@ estate_edg_artists_privilege_8 = {
 	on_invalid_province = {
 		remove_province_modifier = estate_edg_artists_privilege_8_modifier
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -322,7 +405,6 @@ estate_edg_artists_privilege_9 = {
 	icon = privilege_development_efficiency
 	loyalty = 0.05
 	influence = 0.05
-	land_share = 5
 	max_absolutism = -5
 	on_granted = {
 		custom_tooltip = estate_edg_artists_privilege_every_owned_heretic_and_church_province
@@ -359,6 +441,14 @@ estate_edg_artists_privilege_9 = {
 	}
 	on_invalid_province = {
 		remove_province_modifier = estate_edg_artists_privilege_9_modifier
+	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
 	}
 	ai_will_do = {
 		factor = 0
@@ -444,6 +534,14 @@ estate_edg_artists_privilege_11 = {
 			papal_influence = -10
 		}
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -494,6 +592,14 @@ estate_edg_artists_privilege_12 = {
 	on_invalid_province = {
 		remove_province_modifier = estate_edg_artists_privilege_12_modifier
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -503,7 +609,6 @@ estate_edg_artists_privilege_13 = {
 	icon = privilege_fort
 	loyalty = 0
 	influence = 0.1
-	land_share = 0
 	max_absolutism = -5
 	on_granted = {
 		custom_tooltip = estate_edg_artists_privilege_13_tt_yes
@@ -540,6 +645,14 @@ estate_edg_artists_privilege_13 = {
 	}
 	on_invalid_province = {
 		remove_province_modifier = estate_edg_artists_privilege_13_modifier
+	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
 	}
 	ai_will_do = {
 		factor = 0
@@ -583,6 +696,14 @@ estate_edg_artists_privilege_14 = {
 	on_invalid_province = {
 		remove_province_modifier = estate_edg_artists_privilege_14_modifier
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -615,6 +736,14 @@ estate_edg_artists_privilege_15 = {
 			diplomatic_upkeep = 2
 		}
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -623,12 +752,10 @@ estate_edg_artists_privilege_15 = {
 estate_edg_artists_privilege_16 = {
 	icon = privilege_manpower_of_true_faith
 	loyalty = 0
-	influence = 0
+	influence = 0.05
 	max_absolutism = -5
 	is_valid = {
-		has_unlocked_estate_privilege = {
-			estate_privilege = estate_edg_artists_privilege_16
-		}
+		has_country_flag = EDG_BAV_2_1_2_flag
 		OR = {
 			EDG_BAV_is_bavarian_country_trigger = no
 			has_country_flag = EDG_BAV_2_3_4_flag
@@ -673,6 +800,14 @@ estate_edg_artists_privilege_16 = {
 	on_invalid_province = {
 		remove_province_modifier = estate_edg_artists_privilege_16_modifier
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -681,7 +816,7 @@ estate_edg_artists_privilege_16 = {
 estate_edg_artists_privilege_17 = {
 	icon = privilege_devotion_yellow
 	loyalty = 0
-	influence = 0
+	influence = 0.05
 	max_absolutism = -5
 	is_valid = {
 		has_country_flag = EDG_BAV_2_2_3_flag
@@ -699,6 +834,14 @@ estate_edg_artists_privilege_17 = {
 	on_invalid = {
 		custom_tooltip = estate_edg_artists_privilege_17_tt_no
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
+	}
 	ai_will_do = {
 		factor = 0
 	}
@@ -707,7 +850,7 @@ estate_edg_artists_privilege_17 = {
 estate_edg_artists_privilege_18 = {
 	icon = privilege_royal_authority
 	loyalty = 0
-	influence = 0
+	influence = 0.05
 	max_absolutism = -5
 	is_valid = {
 		has_unlocked_estate_privilege = {
@@ -719,6 +862,14 @@ estate_edg_artists_privilege_18 = {
 	}
 	penalties = {
 		reduced_liberty_desire = -15
+	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_artists_politics_attribute
+		}
+		modifier = {
+			max_absolutism = 5
+		}
 	}
 	ai_will_do = {
 		factor = 0

@@ -12,12 +12,20 @@ estate_edg_artists_agenda_1 = {
 		}
 	}
 	task_requirements = {
-		custom_trigger_tooltip = {
-			tooltip = estate_edg_artists_agenda_1_tt
-			NOT = {
-				is_variable_equal = {
-					which = estate_edg_artists_agenda_1_variable
-					which = EDG_BAV_government_power_interaction_1_variable
+		if = {
+			limit = {
+				has_estate_privilege = estate_edg_artists_privilege_5
+			}
+			always = yes
+		}
+		else = {
+			custom_trigger_tooltip = {
+				tooltip = estate_edg_artists_agenda_1_tt
+				NOT = {
+					is_variable_equal = {
+						which = estate_edg_artists_agenda_1_variable
+						which = EDG_BAV_government_power_interaction_1_variable
+					}
 				}
 			}
 		}
@@ -57,12 +65,20 @@ estate_edg_artists_agenda_2 = {
 		}
 	}
 	task_requirements = {
-		custom_trigger_tooltip = {
-			tooltip = estate_edg_artists_agenda_2_tt
-			NOT = {
-				is_variable_equal = {
-					which = estate_edg_artists_agenda_2_variable
-					which = EDG_BAV_government_power_interaction_2_variable
+		if = {
+			limit = {
+				has_estate_privilege = estate_edg_artists_privilege_5
+			}
+			always = yes
+		}
+		else = {
+			custom_trigger_tooltip = {
+				tooltip = estate_edg_artists_agenda_2_tt
+				NOT = {
+					is_variable_equal = {
+						which = estate_edg_artists_agenda_2_variable
+						which = EDG_BAV_government_power_interaction_2_variable
+					}
 				}
 			}
 		}
@@ -102,12 +118,20 @@ estate_edg_artists_agenda_3 = {
 		}
 	}
 	task_requirements = {
-		custom_trigger_tooltip = {
-			tooltip = estate_edg_artists_agenda_3_tt
-			NOT = {
-				is_variable_equal = {
-					which = estate_edg_artists_agenda_3_variable
-					which = EDG_BAV_government_power_interaction_3_variable
+		if = {
+			limit = {
+				has_estate_privilege = estate_edg_artists_privilege_5
+			}
+			always = yes
+		}
+		else = {
+			custom_trigger_tooltip = {
+				tooltip = estate_edg_artists_agenda_3_tt
+				NOT = {
+					is_variable_equal = {
+						which = estate_edg_artists_agenda_3_variable
+						which = EDG_BAV_government_power_interaction_3_variable
+					}
 				}
 			}
 		}
@@ -148,10 +172,18 @@ estate_edg_artists_agenda_4 = {
 		factor = 10
 	}
 	task_requirements = {
-		has_government_power = {
-			mechanic_type = EDG_BAV_government_ability
-			power_type = EDG_BAV_government_power
-			value = 30
+		if = {
+			limit = {
+				has_estate_privilege = estate_edg_artists_privilege_5
+			}
+			always = yes
+		}
+		else = {
+			has_government_power = {
+				mechanic_type = EDG_BAV_government_ability
+				power_type = EDG_BAV_government_power
+				value = 30
+			}
 		}
 	}
 	task_completed_effect = {
@@ -195,24 +227,16 @@ estate_edg_artists_agenda_5 = {
 			save_event_target_as = agenda_province
 		}
 		event_target:agenda_province = {
-			if = {
-				limit = {
-					check_variable = {
-						which = province_dev_var
-						value = 1
-					}
-				}
-				set_variable = {
-					which = province_dev_var
-					value = 0
-				}
+			set_variable = {
+				which = province_adm_var
+				value = 0
 			}
 			export_to_variable = {
-				which = province_dev_var
-				value = trigger_value:development
+				which = province_adm_var
+				value = trigger_value:base_tax
 			}
 			change_variable = {
-				which = province_dev_var
+				which = province_adm_var
 				value = 2
 			}
 		}
@@ -221,8 +245,16 @@ estate_edg_artists_agenda_5 = {
 		province_id = event_target:agenda_province
 	}
 	task_requirements = {
-		event_target:agenda_province = {
-			development = "province_dev_var"
+		if = {
+			limit = {
+				has_estate_privilege = estate_edg_artists_privilege_5
+			}
+			always = yes
+		}
+		else = {
+			event_target:agenda_province = {
+				base_tax = "province_adm_var"
+			}
 		}
 	}
 	task_completed_effect = {

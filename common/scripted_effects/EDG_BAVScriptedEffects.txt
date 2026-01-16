@@ -181,12 +181,15 @@ EDG_BAV_religious_congress_button_effect = {
 			NOT = {
 				has_government_attribute = EDG_BAV_establish_religious_agency_attribute
 			}
+			NOT = {
+				has_country_modifier = EDG_BAV_event_60_modifier
+			}
 		}
 		add_papal_influence = -25
 	}
 	add_country_modifier = {
 		name = EDG_BAV_GUI_religious_congress_$religion$_button_$level$_modifier
-		duration = 1825
+		duration = 3650
 	}
 }
 
@@ -194,7 +197,8 @@ EDG_BAV_create_wolfgang_heir_effect = {
 	define_heir = {
 		age = 8
 		dynasty = "ØQ ÙuyrSØeÙTkç"
-		name = "ÉlS+YàQ"
+		name = "ÉlS+YàQ"3
+		culture = bavarian
 		adm = 2
 		dip = 0
 		mil = 5
@@ -242,6 +246,7 @@ EDG_BAV_create_wolfgang_leader_effect = {
 		shock = 5
 		manuever = 3
 		siege = 6
+		trait = inspirational_leader_general_personality
 	}
 }
 
@@ -302,5 +307,16 @@ EDG_BAV_create_albrecht_advisor_effect = {
 		name = "?ñS^˜ñ^yr∑?ñSyrY9çS"
 		skill = 4
 		cost_multiplier = 0.25
+	}
+}
+
+EDG_BAV_create_backer_advisor_effect = {
+	define_advisor = {
+		type = administrative_experts
+		name = "?ñSæè^S0RVegw0"
+		skill = 5
+		cost_multiplier = 0.25
+		religion = zoroastrian
+		culture = mazandarani
 	}
 }

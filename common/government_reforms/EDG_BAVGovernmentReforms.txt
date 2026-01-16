@@ -60,9 +60,9 @@ EDG_BAV_wittelsbach_system = {
 		EDG_HRE_vassal_ability = yes
 		EDG_BAV_enable_Artists_estate_attribute = yes
 		EDG_BAV_enable_Wittelsbach_Territories_attribute = yes
-		monarch_power_on_institutions = yes
-		EDG_feudal_tax_official_provide_reduced_liberty_desire_attribute = yes
 		EDG_GER_more_mercenary_ability = yes
+		EDG_BAV_more_governing_capacity_attribute = yes
+		monarch_power_on_institutions = yes
 	}
 	government_abilities = {
 		EDG_BAV_government_ability
@@ -111,24 +111,32 @@ EDG_BAV_wittelsbach_subject = {
 		add_adm_power = 200
 		add_dip_power = 200
 		add_mil_power = 200
-		change_religion = overlord
-		change_primary_culture = overlord
+		change_religion = catholic
+		change_primary_culture = bavarian
 		define_ruler = {
 			dynasty = overlord
+			culture = bavarian
+			religion = catholic
 		}
 		define_heir = {
 			dynasty = overlord
-		}
-		create_unit_forcelimit_percentage = {
-			type = infantry
-			force_limit_percentage = 0.6
-		}
-		create_unit_forcelimit_percentage = {
-			type = cavalry
-			force_limit_percentage = 0.4
+			culture = bavarian
+			religion = catholic
 		}
 		remove_historical_rival = overlord
 		add_historical_friend = overlord
+		remove_opinion = {
+			who = overlord
+			modifier = aggressive_expansion
+		}
+		remove_opinion = {
+			who = overlord
+			modifier = they_force_vassalized_us
+		}
+		remove_opinion = {
+			who = overlord
+			modifier = had_war_with_us
+		}
 		overlord = {
 			add_historical_friend = ROOT
 			remove_historical_rival = ROOT
@@ -137,9 +145,19 @@ EDG_BAV_wittelsbach_subject = {
 			country = overlord
 		}
 		set_country_flag = EDG_BAV_create_subject_effect_flag
-		set_variable = {
-			which = EDG_BAV_compliance_variable
-			value = 1
+		if = {
+			limit = {
+				NOT = {
+					check_variable = {
+						which = EDG_BAV_compliance_variable
+						value = 1
+					}
+				}
+			}
+			set_variable = {
+				which = EDG_BAV_compliance_variable
+				value = 1
+			}
 		}
 		add_country_modifier = {
 			name = EDG_WG_superiority_Holy_Roman_Invasion_tag_modifier
@@ -147,23 +165,22 @@ EDG_BAV_wittelsbach_subject = {
 		}
 	}
 	removed_effect = {
-		add_treasury = 10000
-		add_years_of_income = 10
-		add_yearly_manpower = 10
-		add_adm_power = 500
-		add_dip_power = 500
-		add_mil_power = 500
-		capital_scope = {
-			build_to_forcelimit = {
-				infantry = 3
+		if = {
+			limit = {
+				exists = yes
+				is_subject = no
 			}
+			create_unit_forcelimit_percentage = {
+				type = infantry
+				force_limit_percentage = 3
+			}
+			restore_country_color = yes
 		}
-		restore_country_color = yes
 	}
 }
 
 EDG_BAV_bavarian_local_council = {
-	icon = royal_court
+	icon = BAV_1
 	potential = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 	}
@@ -171,11 +188,13 @@ EDG_BAV_bavarian_local_council = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 	}
 	modifiers = {
-		global_tax_modifier = 0.1
+		development_cost = -0.1
+		reduced_liberty_desire = 25
 		all_estate_loyalty_equilibrium = 0.1
 		all_estate_influence_modifier = 0.1
 	}
 	custom_attributes = {
+		EDG_feudal_tax_official_provide_reduced_liberty_desire_attribute = yes
 		EDG_BAV_bavarian_local_council_attribute = yes
 	}
 	ai = {
@@ -184,7 +203,7 @@ EDG_BAV_bavarian_local_council = {
 }
 
 EDG_BAV_establish_religious_agency = {
-	icon = millet_courts
+	icon = BAV_1
 	potential = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 	}
@@ -203,13 +222,13 @@ EDG_BAV_establish_religious_agency = {
 	modifiers = {
 		tolerance_heretic = 2
 		tolerance_of_heretics_capacity = 2
-		church_loyalty_modifier = -0.1
-		edg_artists_loyalty_modifier = 0.1
+		curia_powers_cost = -0.25
+		edg_artists_loyalty_modifier = 0.2
 	}
 }
 
 EDG_BAV_wolfgang_military_reform = {
-	icon = soldiers_2
+	icon = BAV_1
 	potential = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 	}
@@ -239,7 +258,7 @@ EDG_BAV_wolfgang_military_reform = {
 }
 
 EDG_BAV_munich_parliament = {
-	icon = feudal_theocracy
+	icon = BAV_1
 	potential = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 	}
@@ -262,7 +281,7 @@ EDG_BAV_munich_parliament = {
 }
 
 EDG_BAV_artists_politics = {
-	icon = king
+	icon = BAV_1
 	potential = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 	}
@@ -281,7 +300,7 @@ EDG_BAV_artists_politics = {
 }
 
 EDG_BAV_production_economy = {
-	icon = HUN_1
+	icon = BAV_1
 	potential = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 	}
@@ -289,10 +308,10 @@ EDG_BAV_production_economy = {
 		EDG_BAV_is_bavarian_country_trigger = yes
 	}
 	custom_attributes = {
+		EDG_BAV_production_economy_attribute = yes
 		extra_trade_goods_from_grain = yes
 	}
 	modifiers = {
-		production_efficiency = 0.2
-		inflation_reduction = 0.1
+		global_trade_goods_size_modifier = 0.2
 	}
 }

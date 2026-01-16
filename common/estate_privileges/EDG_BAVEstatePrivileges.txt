@@ -19,6 +19,14 @@ estate_EDG_BAV_german_expansion = {
 			EDG_BAV_is_german_province_trigger = yes
 		}
 	}
+	conditional_modifier = {
+		trigger = {
+			has_government_attribute = EDG_BAV_production_economy_attribute
+		}
+		modifier = {
+			development_cost = -0.1
+		}
+	}
 	on_granted = {
 		custom_tooltip = estate_EDG_BAV_german_expansion_tt_yes
 	}

@@ -27,6 +27,9 @@ on_royal_marriage = {
 			}
 		}
 		add_historical_friend = FROM
+		FROM = {
+			add_historical_friend = ROOT
+		}
 	}
 }
 
@@ -34,6 +37,7 @@ on_adm_development = {
 	if = {
 		limit = {
 			has_state_edict = EDG_BAV_german_infrastructure_edict
+			development = 20
 			owner = {
 				OR = {
 					has_country_flag = EDG_BAV_4_5_11_flag
@@ -91,6 +95,7 @@ on_dip_development = {
 	if = {
 		limit = {
 			has_state_edict = EDG_BAV_german_infrastructure_edict
+			development = 20
 			owner = {
 				OR = {
 					has_country_flag = EDG_BAV_4_5_11_flag
@@ -223,6 +228,7 @@ on_mil_development = {
 	if = {
 		limit = {
 			has_state_edict = EDG_BAV_german_infrastructure_edict
+			development = 20
 			owner = {
 				OR = {
 					has_country_flag = EDG_BAV_4_5_11_flag
@@ -503,7 +509,6 @@ on_monthly_pulse = {
 		limit = {
 			has_estate = estate_edg_artists
 			overlord = {
-				EDG_BAV_is_bavarian_country_trigger = yes
 				has_estate = estate_edg_artists
 			}
 		}
@@ -723,6 +728,31 @@ on_monthly_pulse = {
 		74 = {
 			set_great_project_tier_2 = {
 				type = EDG_Chateau_Barden
+			}
+		}
+	}
+	if = {
+		limit = {
+			is_in_war = {
+				attacker_leader = THIS
+				casus_belli = EDG_BAV_independence_cb
+			}
+			any_country = {
+				EDG_BAV_is_bavarian_country_trigger = yes
+				is_in_war = {
+					attacker_leader = ROOT
+					defender_leader = THIS
+					casus_belli = EDG_BAV_independence_cb
+				}
+				war_score_against = {
+					who = ROOT
+					value = 100
+				}
+			}
+		}
+		every_province = {
+			kill_units = {
+				who = ROOT
 			}
 		}
 	}
@@ -1096,6 +1126,11 @@ on_bankruptcy = {
 		}
 		every_owned_province = {
 			change_controller = event_target:EDG_BAV_bavarian_country_target
+		}
+		every_province = {
+			kill_units = {
+				who = ROOT
+			}
 		}
 	}
 }
