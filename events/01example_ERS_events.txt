@@ -750,9 +750,11 @@ country_event = {#亚述斯坦复兴
         custom_tooltip = EDG_ERSmission_22_opinion_1_1_txt
         hidden_effect = {
             every_owned_province = {
-                OR = {
-                    area = iraq_arabi_area
-                    area = basra_area
+                limit = {
+                    OR = {
+                        area = iraq_arabi_area
+                        area = basra_area
+                    }
                 }
                 add_base_tax = 1
                 add_base_production = 1
@@ -780,6 +782,9 @@ country_event = {#泰西封的复兴
     option = {
         name = EDG_ERSmission_23_opinion_1
         410 = {
+            set_great_project_tier_3 = {
+                type = EDG_ERS_Tucker_Kisla
+            }
             add_base_tax = 4
             add_base_production = 6
             add_base_manpower = 5

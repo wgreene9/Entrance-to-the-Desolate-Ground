@@ -448,191 +448,11 @@ guiTypes = {
 				buttonFont = "vic_18"
 			}			
 		}		
-	}
 
-	################################################################################################
-	### --- Economy list item
-	
-	windowType = {
-		name = "countryeconomyview_listitem"
-		backGround =""
-		position = { x=0 y=0 }	
-		size = { x=200 y=17 }
-		moveable = 0
-		dontRender = ""
-		horizontalBorder = ""		
 		
-		instantTextBoxType = {
-			name = "name"
-			position = { x = -2 y = -1 }
-			textureFile = ""
-			font = "vic_18"
-			borderSize = {x = 4 y = 4}	
-			text = "EXPENSE_TRIBUTE"	
-			maxWidth = 200
-			maxHeight = 16
-			format = left
-		}
-
-		instantTextBoxType = {
-			name = "value2"
-			position = { x = 94 y = -1 }
-			textureFile = ""
-			font = "vic_18_grey"
-			borderSize = {x = 4 y = 4}	
-			text = ""
-			maxWidth = 100
-			maxHeight = 16
-			format = centre
-		}		
-		
-		instantTextBoxType = {
-			name = "value"
-			position = { x = 170 y = -1 }
-			textureFile = ""
-			font = "vic_18"
-			borderSize = {x = 4 y = 4}	
-			text = "0 (0%)"	
-			maxWidth = 54
-			maxHeight = 16
-			format = right
-		}
-	}	
-	
-	windowType = {
-		name = "countryeconomyview_listitem_slider"
-		backGround =""
-		position = { x=0 y=0 }	
-		size = { x=200 y=16 }
-		moveable = 0
-		dontRender = ""
-		horizontalBorder = ""	
-
-		scrollbarType = {
-			name = "slider"	
-			slider = "SliderButton"
-			track= "TrackButton"
-			leftbutton = "upButton"
-			rightbutton = "downButton"
-			size = {x =220 y =16 }
-			position = {x= 3 y = 3}
-			priority = 100			
-			borderSize = {x =16 y = 16}	
-			maxValue = 1
-			minValue = 0
-			stepSize =0.01
-			startValue = 1
-			horizontal = 1
-
-			guiButtonType = {
-				name = "SliderButton"	
-				quadTextureSprite = "GFX_scroll_drager_blue"
-				tooltip = ""
-				tooltipText =""	
-				delayedTooltipText = ""
-				position = { x=0 y =0}
-			}
-
-			guiButtonType = {
-				name = "TrackButton"
-				quadTextureSprite = "yearslider_background"
-				position = { x=0 y =0}	
-				tooltip = ""
-				tooltipText =""
-				delayedTooltipText = ""	
-
-			}	
-
-			guiButtonType = {
-				parent = "SliderButton"
-				name = "upButton"
-				quadTextureSprite = "GFX_scroll_left"
-				position = { x=0 y =0}	
-			}
-			
-			guiButtonType = {
-				parent = "SliderButton"
-				name = "downButton"
-				quadTextureSprite = "GFX_scroll_right"
-				position = { x=0 y =120}	
-			}
-		}		
-	}		
-	
-	################################################################################################
-	### --- Loan repay list item
-	
-	windowType = {
-		name = "countryeconomyview_loanrepayitem"
-		backGround =""
-		position = { x=0 y=0 }	
-		size = { x=445 y=70 }
-		moveable = 0
-		dontRender = ""
-		horizontalBorder = ""
-
-		iconType =
-		{
-			name ="loan_background"
-			spriteType = "GFX_economy_repayLoan_bg"
-			position = { x= -16 y = -5 }
-			Orientation = "UPPER_LEFT"
-		}		
-
-		instantTextBoxType = {
-			name = "loan_lender"
-			position = { x = 2 y = 2 }
-			textureFile = ""
-			font = "vic_18"
-			borderSize = {x = 4 y = 4}	
-			text = "CV_ECONOMY_LOAN_LENDER"	
-			maxWidth = 300
-			maxHeight = 32
-			format = left
-		}
-		
-		instantTextBoxType = {
-			name = "loan_amount_interest"
-			position = { x = 2 y = 19 }
-			textureFile = ""
-			font = "vic_18"
-			borderSize = {x = 4 y = 4}	
-			text = "CV_ECONOMY_LOAN_AMOUNT_INTEREST"	
-			maxWidth = 300
-			maxHeight = 32
-			format = left
-		}
-
-		instantTextBoxType = {
-			name = "loan_expire"
-			position = { x = 2 y = 36 }
-			textureFile = ""
-			font = "vic_18"
-			borderSize = {x = 4 y = 4}	
-			text = "CV_ECONOMY_LOAN_EXPIRE"	
-			maxWidth = 300
-			maxHeight = 32
-			format = left
-		}		
-
-		guiButtonType = {
-			name = "pay_button"
-			position = { x=337 y = 15}
-			quadTextureSprite ="GFX_standard_button_71"	
-			tooltip = ""
-			tooltipText =""
-			delayedTooltipText = ""
-			buttonText = "CV_ECONOMY_LOAN_REPAY"
-			buttonFont = "vic_18"
-		}		
-	}	
-
-
-	
 		windowType = {
 			name = "EDG_DMR_MARKET_GUI_window"
-			position = { x=0 y=0 }
-			moveable = 1
+			position = { x = 0 y = 0 }
 			scripted = yes
 
 			###罗姆经济建设
@@ -1550,5 +1370,190 @@ guiTypes = {
 				scripted = yes
 			}
 		}
+	}
+
+	################################################################################################
+	### --- Economy list item
+	
+	windowType = {
+		name = "countryeconomyview_listitem"
+		backGround =""
+		position = { x=0 y=0 }	
+		size = { x=200 y=17 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder = ""		
+		
+		instantTextBoxType = {
+			name = "name"
+			position = { x = -2 y = -1 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}	
+			text = "EXPENSE_TRIBUTE"	
+			maxWidth = 200
+			maxHeight = 16
+			format = left
+		}
+
+		instantTextBoxType = {
+			name = "value2"
+			position = { x = 94 y = -1 }
+			textureFile = ""
+			font = "vic_18_grey"
+			borderSize = {x = 4 y = 4}	
+			text = ""
+			maxWidth = 100
+			maxHeight = 16
+			format = centre
+		}		
+		
+		instantTextBoxType = {
+			name = "value"
+			position = { x = 170 y = -1 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}	
+			text = "0 (0%)"	
+			maxWidth = 54
+			maxHeight = 16
+			format = right
+		}
+
+	}	
+	
+	windowType = {
+		name = "countryeconomyview_listitem_slider"
+		backGround =""
+		position = { x=0 y=0 }	
+		size = { x=200 y=16 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder = ""	
+
+		scrollbarType = {
+			name = "slider"	
+			slider = "SliderButton"
+			track= "TrackButton"
+			leftbutton = "upButton"
+			rightbutton = "downButton"
+			size = {x =220 y =16 }
+			position = {x= 3 y = 3}
+			priority = 100			
+			borderSize = {x =16 y = 16}	
+			maxValue = 1
+			minValue = 0
+			stepSize =0.01
+			startValue = 1
+			horizontal = 1
+
+			guiButtonType = {
+				name = "SliderButton"	
+				quadTextureSprite = "GFX_scroll_drager_blue"
+				tooltip = ""
+				tooltipText =""	
+				delayedTooltipText = ""
+				position = { x=0 y =0}
+			}
+
+			guiButtonType = {
+				name = "TrackButton"
+				quadTextureSprite = "yearslider_background"
+				position = { x=0 y =0}	
+				tooltip = ""
+				tooltipText =""
+				delayedTooltipText = ""	
+
+			}	
+
+			guiButtonType = {
+				parent = "SliderButton"
+				name = "upButton"
+				quadTextureSprite = "GFX_scroll_left"
+				position = { x=0 y =0}	
+			}
+			
+			guiButtonType = {
+				parent = "SliderButton"
+				name = "downButton"
+				quadTextureSprite = "GFX_scroll_right"
+				position = { x=0 y =120}	
+			}
+		}		
+	}		
+	
+	################################################################################################
+	### --- Loan repay list item
+	
+	windowType = {
+		name = "countryeconomyview_loanrepayitem"
+		backGround =""
+		position = { x=0 y=0 }	
+		size = { x=445 y=70 }
+		moveable = 0
+		dontRender = ""
+		horizontalBorder = ""
+
+		iconType =
+		{
+			name ="loan_background"
+			spriteType = "GFX_economy_repayLoan_bg"
+			position = { x= -16 y = -5 }
+			Orientation = "UPPER_LEFT"
+		}		
+
+		instantTextBoxType = {
+			name = "loan_lender"
+			position = { x = 2 y = 2 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}	
+			text = "CV_ECONOMY_LOAN_LENDER"	
+			maxWidth = 300
+			maxHeight = 32
+			format = left
+		}
+		
+		instantTextBoxType = {
+			name = "loan_amount_interest"
+			position = { x = 2 y = 19 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}	
+			text = "CV_ECONOMY_LOAN_AMOUNT_INTEREST"	
+			maxWidth = 300
+			maxHeight = 32
+			format = left
+		}
+
+		instantTextBoxType = {
+			name = "loan_expire"
+			position = { x = 2 y = 36 }
+			textureFile = ""
+			font = "vic_18"
+			borderSize = {x = 4 y = 4}	
+			text = "CV_ECONOMY_LOAN_EXPIRE"	
+			maxWidth = 300
+			maxHeight = 32
+			format = left
+		}		
+
+		guiButtonType = {
+			name = "pay_button"
+			position = { x=337 y = 15}
+			quadTextureSprite ="GFX_standard_button_71"	
+			tooltip = ""
+			tooltipText =""
+			delayedTooltipText = ""
+			buttonText = "CV_ECONOMY_LOAN_REPAY"
+			buttonFont = "vic_18"
+		}		
+
+
+	}	
+
+
+	
+	
 
 }
