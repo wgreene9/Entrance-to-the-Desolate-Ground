@@ -16,4 +16,6 @@ bookmark ={#巴尔干与安纳托利亚
 	easy_country = BYZ
 	easy_country = BUL
 	easy_country = MHM
+	easy_country = MEN
+	easy_country = GSR
 }

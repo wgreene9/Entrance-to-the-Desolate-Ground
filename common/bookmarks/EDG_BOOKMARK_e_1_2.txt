@@ -5,20 +5,18 @@ bookmark ={#波兰与罗斯
 	
 	
 	
-	country = LER
-	country = MAZ
+	country = TVE
 	country = VOL
 	country = ZAZ
-	country = TVE
+	country = MAZ
+	country = LER
 	country = MOS
 	country = TOV
 	country = SMO
 	
-	easy_country = LER
 	easy_country = MAZ
 	easy_country = VOL
 	easy_country = ZAZ
-	easy_country = MOS
-	easy_country = TOV
+	easy_country = TVE
 	
 }

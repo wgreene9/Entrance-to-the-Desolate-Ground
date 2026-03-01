@@ -3,19 +3,6 @@ bookmark =
 	name = "EDG_BOOKMARK_Innovativeness_2"
 	desc = "EDG_BOOKMARK_Innovativeness_2_DESC"
 	date = 1444.11.11
-	
-	#传统
-	# country = VOL
-	# country = ZAZ
-	# country = SWE
-	# country = AKK
-	# country = CDC
-	# country = LER
-	# country = MLO
-	# country = PIT
-	# country = ASU
-	# country = TEU
-	# country = VEN
 
 	# #中等
 	country = BUL
@@ -29,15 +16,17 @@ bookmark =
 	country = ETH
 	country = BRA
 	country = SMI
+	country = WOL
+	country = KNI
+	country = FYM
+	country = TIM
+	country = ENG
+	country = FEO
+	country = HUN
+	country = LEB
+	country = BDX
+	country = HOL
+	country = AK2
+	country = LST
 
-	# #较新
-	# country = RIG
-	# country = BDH
-	# country = FRA
-	# country = WUR
-	# country = AEL
-	# country = SMO
-	# country = CAT
-	# country = HSA
-	# country = GOT
 }

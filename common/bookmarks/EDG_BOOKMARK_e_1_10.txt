@@ -8,10 +8,12 @@ bookmark ={#非洲与叙利亚
 	country = MRK
 	country = ETH
 	country = CDC
-	country = FYM
 	country = LEB
+	country = FYM
+	
 	
 	easy_country = MRK
 	easy_country = ETH
 	easy_country = CDC
+	easy_country = LEB
 }

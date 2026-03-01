@@ -38,4 +38,5 @@ bookmark =
 	easy_country = MLO
 	easy_country = MLO
 	easy_country = AKK
+	easy_country = TVE
 }

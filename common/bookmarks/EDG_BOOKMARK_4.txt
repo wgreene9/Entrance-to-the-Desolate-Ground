@@ -21,4 +21,9 @@ bookmark =
 	country = LST
 	country = LBV
 
+	easy_country = H04
+	easy_country = LEB
+	easy_country = MEN
+	easy_country = MHM
+	easy_country = BRI
 }

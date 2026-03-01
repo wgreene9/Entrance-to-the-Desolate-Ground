@@ -7,8 +7,8 @@ bookmark =
 	# #中等
 	country = PIT
 	country = LER
-	country = BDH
 	country = ASU
+	country = VEN
 	country = SWE
 	country = AEL
 	country = MRK
@@ -18,5 +18,16 @@ bookmark =
 	country = LIT
 	country = SMI
 	country = H07
+	country = GOL
+	country = TBR
+	country = SHY
+	country = KNI
+	country = GSR
+	country = TIM
+	country = BYZ
+	country = MEN
+	country = H02
+	country = LST
+	country = LBV
 
 }

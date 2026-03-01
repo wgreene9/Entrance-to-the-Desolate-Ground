@@ -14,5 +14,15 @@ bookmark =
 	country = BRA
 	country = SWI
 	country = WAL
-	#country = ENG
+	country = WOL
+	country = MOS
+	country = BAH
+	country = FYM
+	country = ENG
+	country = BRI	
+	country = TOV
+	country = BDX
+	country = TAB
+	country = LOT
+	country = AK2
 }

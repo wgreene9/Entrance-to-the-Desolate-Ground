@@ -471,6 +471,33 @@ incident_franche_comte = {#弗朗什孔泰自由伯国
 				value = 180
 			}
 		}
+		modifier = {
+			factor = 5
+			not = { 
+				has_opinion = {
+					who = FRA
+					value = 0
+				}
+			}
+		}
+		modifier = {
+			factor = 5
+			not = { 
+				has_opinion = {
+					who = FRA
+					value = -50
+				}
+			}
+		}
+		modifier = {
+			factor = 5
+			not = { 
+				has_opinion = {
+					who = FRA
+					value = -100
+				}
+			}
+		}
 	}
 
 	1 = {#这与我们无关。
@@ -485,6 +512,13 @@ incident_franche_comte = {#弗朗什孔泰自由伯国
 			factor = 2.5
 			FRA = {
 				diplomatic_reputation = 4
+			}
+		}
+		modifier = {
+			factor = 2.25
+			has_opinion = {
+				who = FRA
+				value = 50
 			}
 		}
 		modifier = {

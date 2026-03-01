@@ -10,6 +10,7 @@ bookmark ={#波斯
 	country = HZB
 	country = TBR
 	country = ORM
+	country = BDX
 	country = BAH
 	country = AK2
 	

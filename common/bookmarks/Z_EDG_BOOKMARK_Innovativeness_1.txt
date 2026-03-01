@@ -17,32 +17,17 @@ bookmark =
 	country = VEN
 	country = LIT
 	country = H07
-
-	# #中等
-	# country = BUL
-	# country = MRK
-	# country = ARL
-	# country = SCO
-	# country = TVE
-	# country = CBI
-	# country = ASU
-	# country = SAX
-	# country = ETH
-	# country = BRA
-	# country = SMI
-
-	# #较新
-	# country = RIG
-	# country = BDH
-	# country = FRA
-	# country = WUR
-	# country = AEL
-	# country = SMO
-	# country = CAT
-	# country = HSA
-	# country = GOT
-	# country = SWI
-	# country = GEN
-	# country = WAL
+	country = KAZ
+	country = GOL
+	country = TBR
+	country = ORM
+	country = MOS
+	country = SUG
+	country = MAZ
+	country = BAH
+	country = GSR
+	country = HZB
+	country = BRI
+	country = H02
 	
 }

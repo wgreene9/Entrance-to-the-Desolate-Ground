@@ -13,11 +13,23 @@ bookmark =
 	country = ARL
 	country = AKK
 	country = SAX
-	country = VEN
 	country = TEU
 	country = ETH
+	country = BDH
 	country = GEN
 	country = RIG
+	country = KAZ
+	country = ORM
+	country = SUG
+	country = MAZ
+	country = FEO
+	country = HUN
+	country = HZB
+	country = H04
+	country = LEB
+	country = MHM
+	country = HOL
+	country = FRN
 
 	# #中等
 	# country = PIT

@@ -15,6 +15,7 @@ EDG_HOL_1 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			ai = no
 			has_reform = EDG_dutch_republic
 			custom_trigger_tooltip = {
 				tooltip = EDG_HOL_REFORM_TT
@@ -828,6 +829,7 @@ EDG_HOL_2 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			ai = no
 			OR = {
 				army_size_percentage = 1
 				army_size = 10
@@ -1999,6 +2001,7 @@ EDG_HOL_3 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			ai = no
 			has_reform = EDG_dutch_republic
 			custom_trigger_tooltip = {
 				tooltip = EDG_HOL_REFORM_TT
@@ -2737,6 +2740,7 @@ EDG_HOL_4 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			ai = no
 			calc_true_if = {
 				amount = 5
 				all_country = {
@@ -3625,6 +3629,7 @@ EDG_HOL_5 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			ai = no
 			any_ally = {
 				is_part_of_hre = yes
 			}

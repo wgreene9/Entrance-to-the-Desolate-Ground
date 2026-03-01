@@ -10,13 +10,18 @@ bookmark ={#神圣罗马帝国
 	country = HSA
 	country = H04
 	country = SWI
+	country = LBV
+	country = HOL	
+	country = H07	
 	country = BRA
 	country = WOL
-	country = H07
+	country = H02
+	country = FRN
 	
 	easy_country = WUR
 	easy_country = SAX
 	easy_country = HSA
 	easy_country = H04
 	easy_country = SWI
+	easy_country = LBV
 }

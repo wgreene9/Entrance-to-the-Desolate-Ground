@@ -1,3 +1,4 @@
+namespace = EDG_CWN_mission
 country_event = {
 	#事件，不列颠新生
 	id = EDG_CWN_mission.1
