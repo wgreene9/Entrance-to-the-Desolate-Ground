@@ -85,7 +85,7 @@ custom_button = {
 				tooltip = {
 					add_province_modifier = {
 						name = EDG_BAV_recently_has_changed_goods_to_grain_modifier_2
-						duration = 912
+						duration = 180
 					}
 				}
 			}
@@ -93,7 +93,7 @@ custom_button = {
 				tooltip = {
 					add_province_modifier = {
 						name = EDG_BAV_recently_has_changed_goods_to_grain_modifier_1
-						duration = 1825
+						duration = 365
 					}
 				}
 			}
@@ -135,13 +135,13 @@ custom_button = {
 							}
 							add_province_modifier = {
 								name = EDG_BAV_recently_has_changed_goods_to_grain_modifier_2
-								duration = 912
+								duration = 180
 							}
 						}
 						else = {
 							add_province_modifier = {
 								name = EDG_BAV_recently_has_changed_goods_to_grain_modifier_1
-								duration = 1825
+								duration = 365
 							}
 						}
 					}

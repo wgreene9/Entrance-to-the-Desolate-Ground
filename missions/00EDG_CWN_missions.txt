@@ -6575,10 +6575,10 @@ EDG_CWN_got_4 = {
 				# }
 			}
 			else = {
-				france_region = {
-					type = all
+				num_of_owned_provinces_with = {
+					region = france_region
 					has_port = yes
-					owned_by = root
+					value = 15
 				}
 			}
 		}

@@ -2827,7 +2827,7 @@ country_decisions = {
 			custom_tooltip = EDG_BAV_Wittelsbach_Territories_long_desc
 		}
 	}
-	EDG_BAV_release_subject_TEU = {
+	EDG_BAV_release_subject_DNZ = {
 		major = yes
 		color = {
 			35
@@ -2844,28 +2844,28 @@ country_decisions = {
 		allow = {
 			OR = {
 				NOT = {
-					exists = TEU
+					exists = DNZ
 				}
-				overlord_of = TEU
+				overlord_of = DNZ
 			}
 			baltic_region = {
 				country_or_non_sovereign_subject_holds = ROOT
 			}
 		}
 		effect = {
-			release = TEU
+			release = DNZ
 			baltic_region = {
 				limit = {
 					country_or_non_sovereign_subject_holds = ROOT
 				}
-				add_core = TEU
-				cede_province = TEU
+				add_core = DNZ
+				cede_province = DNZ
 			}
 			EDG_BAV_create_subject_effect = {
-				who = TEU
+				who = DNZ
 			}
-			TEU = {
-				override_country_name = EDG_BAV_TEU
+			DNZ = {
+				override_country_name = EDG_BAV_DNZ
 			}
 			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_BAV_Wittelsbach_Territories_long_desc
@@ -3836,6 +3836,62 @@ country_decisions = {
 			}
 			SST = {
 				override_country_name = EDG_BAV_SST
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_BAV_Wittelsbach_Territories_long_desc
+		}
+	}
+	EDG_BAV_release_subject_SIB = {
+		major = yes
+		color = {
+			35
+			220
+			240
+		}
+		potential = {
+			EDG_BAV_is_bavarian_country_trigger = yes
+			has_country_flag = EDG_BAV_subject_disaster_ended_flag
+			NOT = {
+				has_country_flag = EDG_BAV_hide_subject_decisions_flag
+			}
+		}
+		allow = {
+			OR = {
+				NOT = {
+					exists = SIB
+				}
+				overlord_of = SIB
+			}
+			OR = {
+				west_siberia_region = {
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+				east_siberia_region = {
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+			}
+		}
+		effect = {
+			release = SIB
+			west_siberia_region = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+				add_core = SIB
+				cede_province = SIB
+			}
+			east_siberia_region = {
+				limit = {
+					country_or_non_sovereign_subject_holds = ROOT
+				}
+				add_core = SIB
+				cede_province = SIB
+			}
+			EDG_BAV_create_subject_effect = {
+				who = SIB
+			}
+			SIB = {
+				override_country_name = EDG_BAV_SIB
 			}
 			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_BAV_Wittelsbach_Territories_long_desc

@@ -1018,7 +1018,7 @@ country_decisions = {
 					province = 1876
 					level = II
 					scale = medium #small medium large
-					great_project = EDG_Frankfurt_Cathedral
+					great_project = EDG_Ethel_Palace
 					copper = 750
 					glass = 250
 				}

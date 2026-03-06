@@ -10119,11 +10119,11 @@ country_event = { #推崇正信
             }
             change_religion = zoroastrian
             add_building = temple
-            change_variable = {
-				which = EDG_PER_Shahanshah_authority_var
-				value = 0.75
-			}
         }
+        change_variable = {
+			which = EDG_PER_Shahanshah_authority_var
+			value = 0.75
+		}
     }
 }
 country_event = {#圣地 379耶路撒冷

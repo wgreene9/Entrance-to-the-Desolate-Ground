@@ -146,7 +146,7 @@ EDG_mission_LOT_1 = {
 						modifier = EDG_mission_LOT_1_3_opinion
 					}
 				}
-				country_event = { id = EDG_flavor_LOT_mission.5 days = 3650 }
+				country_event = { id = EDG_flavor_LOT_mission.6 days = 3650 }
 			}
 		} 
 	}
@@ -2694,13 +2694,6 @@ EDG_mission_LOT_3 = {
 				north_america = { has_discovered = root }
 				south_america = { has_discovered = root }
 				new_world = { has_discovered = root }
-				any_ally = {
-					or = {
-						north_america = { has_discovered = root }
-						south_america = { has_discovered = root }
-						new_world = { has_discovered = root }
-					}
-				}
 			}
 			97 = {
 				num_of_times_improved = 5
@@ -5007,7 +5000,7 @@ EDG_mission_LOT_5 = {
 				}
 				custom_tooltip = EDG_mission_LOT_5_3_a_tt_yes
 				hidden_effect = {
-					remove_country_modifier = EDG_mission_LOT_5_3
+					remove_country_modifier = DG_mission_LOT_5_2_modifie
 					add_country_modifier = {
 						name = EDG_mission_LOT_5_2_modifier_upgrate
 						duration = 7300

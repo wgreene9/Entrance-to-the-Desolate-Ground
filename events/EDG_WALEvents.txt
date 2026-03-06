@@ -512,6 +512,15 @@ country_event = {
 				amount = 2
 			}
 		}
+		if = {
+			limit = {
+				has_estate_privilege = estate_EDG_silver_agreement
+				has_country_flag = EDG_WAL_hostility_nobles_flag
+			}
+			country_event = {
+				id = EDG_WALEvents.12
+			}
+		}
 	}
 }
 country_event = {

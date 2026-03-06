@@ -3191,6 +3191,7 @@ EDG_DMR_3 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
+			ai = no
 			num_of_owned_provinces_with = {
 				value = 10
 				region = ruthenia_region

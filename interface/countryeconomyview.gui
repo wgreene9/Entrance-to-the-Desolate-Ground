@@ -450,10 +450,10 @@ guiTypes = {
 		}		
 
 		
-		windowType = {
-			name = "EDG_DMR_MARKET_GUI_window"
-			position = { x = 0 y = 0 }
-			scripted = yes
+		# windowType = {
+		# 	name = "EDG_DMR_MARKET_GUI_window"
+		# 	position = { x = 0 y = 0 }
+		# 	scripted = yes
 
 			###罗姆经济建设
 
@@ -1370,7 +1370,7 @@ guiTypes = {
 				scripted = yes
 			}
 		}
-	}
+	# }
 
 	################################################################################################
 	### --- Economy list item

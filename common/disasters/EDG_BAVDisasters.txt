@@ -2,6 +2,7 @@ EDG_BAV_religion_disaster = {
 	#安魂曲
 	potential = {
 		EDG_BAV_is_bavarian_country_trigger = yes
+		ai = no
 		NOT = {
 			has_country_flag = EDG_BAV_religion_disaster_ended_flag
 		}
@@ -86,6 +87,7 @@ EDG_BAV_subject_disaster = {
 	#血光之夜
 	potential = {
 		EDG_BAV_is_bavarian_country_trigger = yes
+		ai = no
 		NOT = {
 			has_country_flag = EDG_BAV_subject_disaster_ended_flag
 		}

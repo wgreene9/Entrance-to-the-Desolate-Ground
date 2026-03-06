@@ -73,7 +73,7 @@ EDG_LOT_palace_fort_1_4_button_province_modifier = {#「亚琛圣父大皇宫」
 	local_defensiveness = 0.25
 	local_defender_dice_roll_bonus = 1
 }
-EDG_LOT_palace_fort_0_1_button_province_modifier = {#「亚琛圣父大皇宫」结构：「外堡」
+EDG_LOT_palace_fort_0_2_button_province_modifier = {#「亚琛圣父大皇宫」结构：「外堡」
 	local_garrison_size = 0.5
 	fort_level = 2
 }

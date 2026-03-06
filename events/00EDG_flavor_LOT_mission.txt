@@ -397,6 +397,7 @@ country_event = {#[Root.Heir.GetName]的哲学教育
   picture = EDG_EVENT_PICTURE_LOT_1
   is_triggered_only = yes
   trigger = {
+    has_country_flag = EDG_flavor_LOT_mission_13_A_flag
     not = { has_heir_flag = EDG_flavor_LOT_mission_14_heir_flag }
   }
   immediate = {

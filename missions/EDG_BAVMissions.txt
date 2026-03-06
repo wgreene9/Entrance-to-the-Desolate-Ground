@@ -16,7 +16,10 @@ EDG_BAV_8_1 = {
 		trigger = {
 			egypt_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -40,7 +43,10 @@ EDG_BAV_8_1 = {
 		trigger = {
 			horn_of_africa_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -70,15 +76,24 @@ EDG_BAV_8_1 = {
 		trigger = {
 			sahel_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 			niger_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 			guinea_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -99,7 +114,10 @@ EDG_BAV_8_1 = {
 		trigger = {
 			south_africa_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -120,7 +138,10 @@ EDG_BAV_8_1 = {
 		trigger = {
 			east_africa_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -140,7 +161,10 @@ EDG_BAV_8_1 = {
 		trigger = {
 			indonesia_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -169,7 +193,10 @@ EDG_BAV_8_2 = {
 		trigger = {
 			mashriq_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -191,7 +218,10 @@ EDG_BAV_8_2 = {
 		trigger = {
 			arabia_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -208,7 +238,10 @@ EDG_BAV_8_2 = {
 		trigger = {
 			west_india_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -233,17 +266,23 @@ EDG_BAV_8_2 = {
 		trigger = {
 			deccan_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 			coromandel_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
-			country_event = {
-				id = mug_mission_events.1
-			}
+			add_adm_power = 200
+			add_dip_power = 200
+			add_mil_power = 200
 		}
 	}
 	EDG_BAV_8_2_38 = {
@@ -256,7 +295,10 @@ EDG_BAV_8_2 = {
 		trigger = {
 			malaya_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -280,7 +322,10 @@ EDG_BAV_8_2 = {
 		trigger = {
 			moluccas_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -396,7 +441,10 @@ EDG_BAV_8_3 = {
 		trigger = {
 			anatolia_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -423,7 +471,10 @@ EDG_BAV_8_3 = {
 		trigger = {
 			persia_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -447,7 +498,10 @@ EDG_BAV_8_3 = {
 		trigger = {
 			khorasan_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -474,7 +528,10 @@ EDG_BAV_8_3 = {
 		trigger = {
 			hindusthan_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -498,7 +555,10 @@ EDG_BAV_8_3 = {
 		trigger = {
 			burma_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -525,7 +585,10 @@ EDG_BAV_8_3 = {
 		trigger = {
 			indo_china_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -546,7 +609,10 @@ EDG_BAV_8_3 = {
 		trigger = {
 			japan_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -570,6 +636,7 @@ EDG_BAV_8_3 = {
 					continent = north_america
 					continent = south_america
 					continent = oceania
+					continent = new_world
 					is_city = no
 					country_or_non_sovereign_subject_holds = ROOT
 				}
@@ -603,7 +670,10 @@ EDG_BAV_8_4 = {
 		trigger = {
 			crimea_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -625,7 +695,10 @@ EDG_BAV_8_4 = {
 		trigger = {
 			caucasia_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -645,7 +718,10 @@ EDG_BAV_8_4 = {
 		trigger = {
 			bengal_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -669,7 +745,10 @@ EDG_BAV_8_4 = {
 		trigger = {
 			tibet_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -691,7 +770,10 @@ EDG_BAV_8_4 = {
 		trigger = {
 			china_superregion = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -720,7 +802,10 @@ EDG_BAV_8_4 = {
 		trigger = {
 			korea_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -748,7 +833,10 @@ EDG_BAV_8_5 = {
 		trigger = {
 			ruthenia_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -772,7 +860,10 @@ EDG_BAV_8_5 = {
 		trigger = {
 			russia_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -795,7 +886,10 @@ EDG_BAV_8_5 = {
 		trigger = {
 			ural_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -816,7 +910,10 @@ EDG_BAV_8_5 = {
 		trigger = {
 			central_asia_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -837,7 +934,10 @@ EDG_BAV_8_5 = {
 		trigger = {
 			mongolia_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {
@@ -845,9 +945,10 @@ EDG_BAV_8_5 = {
 				add_permanent_claim = ROOT
 			}
 			custom_tooltip = EDG_SPACE_TT
-			unlock_estate = {
-				estate = estate_nomadic_tribes
-			}
+			add_splendor = 800
+			# unlock_estate = {
+			# 	estate = estate_nomadic_tribes
+			# }
 		}
 	}
 	EDG_BAV_8_5_39 = {
@@ -860,7 +961,10 @@ EDG_BAV_8_5 = {
 		trigger = {
 			manchuria_region = {
 				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+				OR = {
+					country_or_non_sovereign_subject_holds = ROOT
+					is_city = no
+				}
 			}
 		}
 		effect = {

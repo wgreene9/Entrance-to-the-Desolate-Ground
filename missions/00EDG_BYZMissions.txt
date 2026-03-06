@@ -2477,8 +2477,7 @@ EDG_BYZ_mission_3 = {
 		trigger = {
 			BYZ_is_not_latin_empire = yes
 			118 = {
-				owned_by = ROOT
-				is_state_core = ROOT
+				country_or_non_sovereign_subject_holds = ROOT
 			}
 		} 
 

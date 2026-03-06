@@ -2412,7 +2412,11 @@ EDG_HOL_3 = {
 		}
 		trigger = {
 			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
-				continent = new_world
+				or = {
+					continent = north_america
+					continent = south_america
+					continent = new_world
+				}
 				value = 50
 			}
 		}

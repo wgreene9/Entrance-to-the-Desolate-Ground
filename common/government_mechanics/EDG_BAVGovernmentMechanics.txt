@@ -391,6 +391,7 @@ EDG_BAV_government_ability = {
 				}
 				custom_tooltip = EDG_SPACE_TT
 				custom_tooltip = EDG_BAV_government_power_interaction_tt_gain_bonus_as_below
+				add_reform_progress_big_effect = yes
 				if = {
 					limit = {
 						has_country_flag = EDG_BAV_8_3_37_flag
@@ -409,6 +410,7 @@ EDG_BAV_government_ability = {
 						duration = 1825
 					}
 				}
+				custom_tooltip = EDG_SPACE_TT
 				custom_tooltip = EDG_BAV_government_power_interaction_tt_effect_per_heretic_province
 				tooltip = {
 					add_splendor = 2

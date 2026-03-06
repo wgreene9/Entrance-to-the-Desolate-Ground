@@ -594,6 +594,9 @@ EDG_Mission_LOT_NED_SLOT_3 = {
 		} 
 
 		effect = {  
+			country_event = { id = EDG_flavor_LOT_mission.27 }
+
+			custom_tooltip = EDG_SPACE_TT
 			create_admiral = { tradition = 50 add_fire = 1 culture = EDG_FRA_dutch }
 			define_explorer = {
 				shock = 4

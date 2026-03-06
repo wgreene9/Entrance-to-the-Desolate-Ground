@@ -165,7 +165,7 @@
  EDG_BAV_religion_disaster: "§R‰RB›òf§!"
  EDG_BAV_religion_disaster_can_start_tt: "§YVV›§!úQ°s†N'YÄ‰!j„v§Y—RYe²Qz§!0"
  EDG_BAV_religion_disaster_ended_tt: "Œp¾–0§R‰RB›òf§!0òTÓumg"
- EDG_BAV_religion_disaster_tt: "jOwÐc:yÿ\n1.,gŒp¾–¾–¦^§Y-NIr§!ÿú^®‹	cgqåNNcV8n©så‹Œp¾–0\n2.Œp¾–gô•O«ˆ§R±Rb§!ÿú^®‹ÐcMRŒb‹Y§YßvËS§!ÿžR(WNáOª„vmNú^®‹XR*Nch0\n3.å‚òTã‰•0§Yz‚=g¶R§!06–BSÿ÷‹MRŽV6–BSLub—OmÈ‰§YyrCg§!ÿýwùR`Otã‰å‹tag©sÕlw0R.^©R0"
+ EDG_BAV_religion_disaster_tt: "jOwÐc:yÿ\n1.,gŒp¾–¾–¦^§Y-NIr§!ÿú^®‹	cgqåNNcV8n©så‹Œp¾–0\n2.Œp¾–gô•O«ˆ§R±Rb§!ÿú^®‹ÐcMRŒb‹Y§YßvËS§!ÿú^®‹OHQûRŒb@FRA§YÕlpQ‰§!	ÿÿžR(WNáOª„vmNú^®‹XR*Nch0\n3.å‚òTã‰•0§Yz‚=g¶R§!06–BSÿ÷‹MRŽV6–BSLub—OmÈ‰§YyrCg§!ÿýwùR`Otã‰å‹tag©sÕlw0R.^©R0"
  EDG_BAV_religion_disaster_opinion: "¹RÍVwyJT>mVïz"
  EDG_BAV_religion_disaster_variable: "TwyJT>mZPúQ„v©‹ek"
  EDG_BAV_religion_disaster_can_end_tt: "Œp¾–0§R‰RB›òf§!0‹NöNþ”òThQèÓumg" 
@@ -279,10 +279,10 @@
  EDG_BAV_release_subject_CRI_desc: ""
  EDG_BAV_CRI: "'YIƒŸS†˜0W"
  EDG_BAV_CRI_ADJ: "'YIƒŸS"
- EDG_BAV_release_subject_TEU_title: "@[Root.GetTag]Ê‘>e£icon_EDG_BAV_Wittelsbach_Territories£§M¶RÏe†˜0W§!0@TEU§YâlW„v†˜0W§!0"
- EDG_BAV_release_subject_TEU_desc: ""
- EDG_BAV_TEU: "âlW„v†˜0W"
- EDG_BAV_TEU_ADJ: "âlW„v"
+ EDG_BAV_release_subject_DNZ_title: "@[Root.GetTag]Ê‘>e£icon_EDG_BAV_Wittelsbach_Territories£§M¶RÏe†˜0W§!0@DNZ§YâlW„v†˜0W§!0"
+ EDG_BAV_release_subject_DNZ_desc: ""
+ EDG_BAV_DNZ: "âlW„v†˜0W"
+ EDG_BAV_DNZ_ADJ: "âlW„v"
  EDG_BAV_release_subject_LIT_title: "@[Root.GetTag]Ê‘>e£icon_EDG_BAV_Wittelsbach_Territories£§M¶RÏe†˜0W§!0@LIT§Yœ^X<SšN†˜0W§!0"
  EDG_BAV_release_subject_LIT_desc: ""
  EDG_BAV_LIT: "œ^X<SšN†˜0W"
@@ -367,6 +367,10 @@
  EDG_BAV_release_subject_SST_desc: ""
  EDG_BAV_SST: "8u†˜0W"
  EDG_BAV_SST_ADJ: "8u"
+ EDG_BAV_release_subject_SIB_title: "@[Root.GetTag]Ê‘>e£icon_EDG_BAV_Wittelsbach_Territories£§M¶RÏe†˜0W§!0@SIB§Y‰=O)RšN†˜0W§!0"
+ EDG_BAV_release_subject_SIB_desc: ""
+ EDG_BAV_SIB: "‰=O)RšN†˜0W"
+ EDG_BAV_SIB_ADJ: "‰=O)RšN"
  EDG_BAV_add_buff_for_allies_in_war_title: "@[Root.GetTag]Ìw4lNb"
  EDG_BAV_add_buff_for_allies_in_war_desc: ""
  EDG_BAV_change_color_title: "@[Root.GetTag]9eØSýV¶Rœ˜r‚"
