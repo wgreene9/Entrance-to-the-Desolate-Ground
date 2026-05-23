@@ -64,7 +64,7 @@ EDG_DMR_ground_poetry_3 = {
         }
     }
     modifiers = {
-        advisor_cost = -0.1
+        advisor_cost = -0.15
         monthly_EDG_DMR_gripsy_romanticism_power = 1
         state_maintenance_modifier = -0.1
     }

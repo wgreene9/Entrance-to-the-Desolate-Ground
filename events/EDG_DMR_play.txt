@@ -598,8 +598,7 @@ country_event = {
 			}
 		}
 		custom_tooltip = EDG_SPACE_TT
-		add_prestige = 10
-		custom_tooltip = EDG_SPACE_TT
+		add_prestige = 100
 		country_event = {
 			id = EDG_DMR_play.36
 		}
@@ -728,6 +727,7 @@ country_event = {
 	desc = EDG_DMR_play.33.d
 	picture = REVOLUTION_eventPicture
 	is_triggered_only = yes
+	fire_only_once = yes
 	option = {
 		name = EDG_DMR_play.33.aa
 		inherit = emperor
@@ -780,7 +780,6 @@ country_event = {
 				add_truce_with = DMR
 			}
 		}
-		set_country_flag = EDG_DMR_WITHDRAW_FLAG_1
 		custom_tooltip = EDG_DMR_play.33.aa_tt
 	}
 }
@@ -883,6 +882,7 @@ country_event = {
 	desc = EDG_DMR_play.38.d
 	picture = SIEGE_eventPicture
 	is_triggered_only = yes
+	fire_only_once = yes
 	option = {
 		name = EDG_DMR_play.38.aa
 		hidden_effect = {
@@ -1169,42 +1169,29 @@ country_event = {
 	desc = EDG_DMR_play.46.d
 	picture = HRE_eventPicture
 	is_triggered_only = yes
+	fire_only_once = yes
 	option = {
 		name = EDG_DMR_play.46.aa
-		hidden_effect = {
-			british_isles_region = {
-				add_core = BTA
-				cede_province = BTA
-			}
-			low_countries_region = {
-				cede_province = NED
-				add_core = NED
-			}
-			italy_region = {
-				cede_province = ITA
-				add_core = ITA
-			}
-			iberia_region = {
-				cede_province = USP
-				add_core = USP
-			}
-			france_region = {
-				cede_province = FRA
-				add_core = FRA
-			}
-			vassalize = FRA
-			vassalize = USP
-			vassalize = ITA
-			vassalize = NED
-			vassalize = BTA
-			every_country = {
-				limit = {
-					war_with = DMR
-				}
-				white_peace = DMR
-			}
+		france_region = {
+			cede_province = ROOT
+			add_core = ROOT
 		}
-		custom_tooltip = EDG_DMR_XIOU_FUYONG
+		italy_region = {
+			cede_province = ROOT
+			add_core = ROOT
+		}
+		iberia_region = {
+			cede_province = ROOT
+			add_core = ROOT
+		}
+		low_countries_region = {
+			cede_province = ROOT
+			add_core = ROOT
+		}
+		british_isles_region = {
+			cede_province = ROOT
+			add_core = ROOT
+		}
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_DMR_play.46.aa_tt
 		hidden_effect = {
@@ -1213,6 +1200,12 @@ country_event = {
 					id = EDG_DMR_play.48
 					days = 3
 				}
+			}
+			every_country = {
+				limit = {
+					war_with = DMR
+				}
+				white_peace = DMR
 			}
 		}
 	}
@@ -1224,6 +1217,7 @@ country_event = {
 	desc = EDG_DMR_play.47.d
 	picture = ADVISOR_eventPicture
 	is_triggered_only = yes
+	fire_only_once = yes
 	option = {
 		name = EDG_DMR_play.47.aa
 		custom_tooltip = EDG_DMR_play.47.aa_tt
@@ -1250,6 +1244,7 @@ country_event = {
 	desc = EDG_DMR_play.48.d
 	picture = eventPicture
 	is_triggered_only = yes
+	fire_only_once = yes
 	immediate = {
 		hidden_effect = {
 			play_sound = EDG_DMR_EBW_victory
@@ -1266,6 +1261,7 @@ country_event = {
 	desc = EDG_DMR_play.49.d
 	picture = GUILLOTINE_eventPicture
 	is_triggered_only = yes
+	fire_only_once = yes
 	option = {
 		name = EDG_DMR_play.49.aa
 		custom_tooltip = EDG_DMR_play.49.aa_tt
@@ -1314,6 +1310,7 @@ country_event = {
 	desc = EDG_DMR_play.51.d
 	picture = CIVIL_WAR_eventPicture
 	is_triggered_only = yes
+	fire_only_once = yes
 	option = {
 		name = EDG_DMR_play.51.aa
 		278 = {
@@ -1336,50 +1333,6 @@ country_event = {
 			duration = -1
 		}
 		clr_country_flag = EDG_DMR_gipsy_uprising_end_flag
-	}
-}
-
-country_event = {
-	id = EDG_DMR_play.52
-	title = EDG_DMR_play.52.t
-	desc = EDG_DMR_play.52.d
-	picture = ADVISOR_eventPicture
-	is_triggered_only = yes
-	fire_only_once = yes
-	option = {
-		name = EDG_DMR_play.52.aa
-		set_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
-		custom_tooltip = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG_TT
-		hidden_effect = {
-			BTA = {
-				add_liberty_desire = 50
-			}
-			NED = {
-				add_liberty_desire = 50
-			}
-			FRA = {
-				add_liberty_desire = 50
-			}
-			USP = {
-				add_liberty_desire = 50
-			}
-			ITA = {
-				add_liberty_desire = 50
-			}
-		}
-	}
-}
-
-country_event = {
-	id = EDG_DMR_play.53
-	title = EDG_DMR_play.53.t
-	desc = EDG_DMR_play.53.d
-	picture = ADVISOR_eventPicture
-	is_triggered_only = yes
-	fire_only_once = yes
-	option = {
-		name = EDG_DMR_play.53.aa
-		clr_country_flag = EDG_DMR_EBW_ZHANHOU_DECISION_FLAG
 	}
 }
 

@@ -505,7 +505,7 @@ EDG_DMR_SHIQIDAJIAN = {
 EDG_DMR_bkzs = {
 	discipline = 0.05
 	fire_damage = 0.15
-	shock_damage = 0.1
+	shock_damage = 0.15
 	land_morale = 0.15
 	global_attacker_dice_roll_bonus = 1
 	land_forcelimit_modifier = 0.25
@@ -528,7 +528,6 @@ EDG_DMR_DOMINVADE = {
 #巴尔干火药桶
 EDG_DMR_BALKAN_ZZFS = {
 	local_warscore_cost_modifier = -0.25
-	unjustified_demands = -0.2
 }
 
 #火药桶熄灭
@@ -581,8 +580,7 @@ EDG_DMR_BAOJIANQISHI = {
 
 #高加索酒品
 EDG_DMR_GAOJIASUO = {
-	global_trade_goods_size_modifier = 0.33
-	production_efficiency = 0.25
+	local_production_efficiency = 0.33
 	local_governing_cost = -0.2
 }
 

@@ -34,7 +34,7 @@ country_event = {#德意志与贝格伯爵
     country_event = { id = EDG_flavor_LOT_mission.2 }
   }
 }
-country_event = {#洛塔林吉亚与七国战争
+country_event = {#洛塔林吉亚与四国战争
   id = EDG_flavor_LOT_mission.2
   title = "EDG_flavor_LOT_mission.2.title"
   desc = "EDG_flavor_LOT_mission.2.desc"

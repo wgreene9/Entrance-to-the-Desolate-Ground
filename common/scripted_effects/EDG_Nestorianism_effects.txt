@@ -53,4 +53,13 @@ EDG_Nestorianism_effect_1 = {
 			days = 30
 		}
 	}
+	if = {
+		limit = {
+			has_church_aspect = EDG_Nestorianism_aspects_A7
+		}
+		country_event = {
+			id = EDG_Nestorianism_event.18
+			days = 30
+		}
+	}
 }

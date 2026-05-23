@@ -135,11 +135,6 @@ EDG_DMR_1 = {
 				name = EDG_DMR_crown_of_rus
 				duration = -1
 			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
 		}
 	}
 	EDG_DMR_1_7 = {
@@ -261,11 +256,6 @@ EDG_DMR_1 = {
 				name = EDG_DMR_constantinian_law
 				duration = 18250
 			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
 		}
 	}
 	EDG_DMR_1_12 = {
@@ -353,8 +343,6 @@ EDG_DMR_1 = {
 						}
 					}
 				}
-			}
-			OR = {
 				has_spy_network_in = {
 					who = HAB
 					value = 50
@@ -363,8 +351,6 @@ EDG_DMR_1 = {
 					who = WUR
 					value = 50
 				}
-			}
-			OR = {
 				military_strength = {
 					who = WUR
 					value = 1
@@ -372,6 +358,9 @@ EDG_DMR_1 = {
 				military_strength = {
 					who = HAB
 					value = 1
+				}
+				NOT = {
+					exists = HAB
 				}
 			}
 			army_size_percentage = 0.5
@@ -1103,7 +1092,7 @@ EDG_DMR_1 = {
 			num_of_owned_provinces_with = {
 				value = 50
 				not = {
-					local_autonomy = 5
+					local_autonomy = 30
 				}
 			}
 		}
@@ -1398,11 +1387,6 @@ EDG_DMR_2 = {
 			151 = {
 				change_trade_goods = gems
 			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
 		}
 	}
 	EDG_DMR_2_13 = {
@@ -1459,11 +1443,6 @@ EDG_DMR_2 = {
 			add_country_modifier = {
 				name = EDG_DMR_hussite_fire
 				duration = 18250
-			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
 			}
 		}
 	}
@@ -1563,9 +1542,11 @@ EDG_DMR_2 = {
 			}
 		}
 		trigger = {
-			maghreb_region = {
-				type = all
-				country_or_non_sovereign_subject_holds = ROOT
+			num_of_provinces_owned_or_owned_by_non_sovereign_subjects_with = {
+				OR = {
+					region = maghreb_region
+				}
+				value = 25
 			}
 		}
 		effect = {
@@ -1573,7 +1554,7 @@ EDG_DMR_2 = {
 			root = {
 				distribute_development = {
 					type = tax
-					amount = 10
+					amount = 20
 				}
 			}
 			custom_tooltip = EDG_SPACE_TT
@@ -2224,11 +2205,6 @@ EDG_DMR_3 = {
 				}
 			}
 			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
-			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_estate_DMR_privilege_1_flag_tt
 			set_country_flag = EDG_estate_DMR_privilege_1_flag
 			tooltip = {
@@ -2262,11 +2238,6 @@ EDG_DMR_3 = {
 			add_country_modifier = {
 				name = EDG_DMR_invincible_legion
 				duration = -1
-			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
 			}
 			custom_tooltip = EDG_SPACE_TT
 			country_event = {
@@ -2580,15 +2551,15 @@ EDG_DMR_3 = {
 		}
 		trigger = {
 			OR = {
+				NOT = {
+					any_country = {
+						is_emperor = yes
+					}
+				}
 				custom_trigger_tooltip = {
 					tooltip = EDG_DMR_FIRST_WAR_WIN_TT
 					all_elector = {
 						truce_with = DMR
-					}
-				}
-				NOT = {
-					any_country = {
-						is_emperor = yes
 					}
 				}
 			}
@@ -2734,24 +2705,6 @@ EDG_DMR_3 = {
 					superregion = europe_superregion
 				}
 				value = 150
-			}
-			custom_trigger_tooltip = {
-				tooltip = EDG_DMR_3_17_FUYONG_TT
-				NOT = {
-					exists = FRA
-				}
-				NOT = {
-					exists = ITA
-				}
-				NOT = {
-					exists = BTA
-				}
-				NOT = {
-					exists = USP
-				}
-				NOT = {
-					exists = NED
-				}
 			}
 		}
 		effect = {
@@ -3191,7 +3144,6 @@ EDG_DMR_3 = {
 		provinces_to_highlight = {
 		}
 		trigger = {
-			ai = no
 			num_of_owned_provinces_with = {
 				value = 10
 				region = ruthenia_region
@@ -3199,12 +3151,6 @@ EDG_DMR_3 = {
 			}
 		}
 		effect = {
-			custom_tooltip = EDG_DMR_MARKET_enable_flag_tt
-			set_country_flag = EDG_DMR_MARKET_enable_flag
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
 			add_country_modifier = {
 				name = EDG_DMR_governmental_group
 				duration = 7300
@@ -3226,7 +3172,7 @@ EDG_DMR_3 = {
 				development = 25
 				trade_share = {
 					country = ROOT
-					share = 40
+					share = 30
 				}
 			}
 		}
@@ -3301,10 +3247,6 @@ EDG_DMR_3 = {
 				tooltip = EDG_FENPEI_3_tt
 			}
 			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
 		}
 	}
 	EDG_DMR_3_35 = {
@@ -3341,8 +3283,8 @@ EDG_DMR_3 = {
 			}
 		}
 		effect = {
-			set_country_flag = EDG_DMR_MARKET_decree_button_1_unlock_flag
-			custom_tooltip = EDG_DMR_MARKET_decree_button_1_unlock_flag_TT
+			add_stability_or_adm_power = yes
+			change_government_reform_progress = 100
 		}
 	}
 	EDG_DMR_3_36 = {
@@ -3579,11 +3521,6 @@ EDG_DMR_4 = {
 				name = EDG_DMR_dread_fleet
 				duration = 18250
 			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
 		}
 	}
 	EDG_DMR_4_11 = {
@@ -3626,11 +3563,6 @@ EDG_DMR_4 = {
 						add_mil_power = 5
 					}
 				}
-			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
 			}
 			custom_tooltip = EDG_SPACE_TT
 			complex_dynamic_effect = {
@@ -3688,11 +3620,6 @@ EDG_DMR_4 = {
 					}
 					EDG_DMR_auto_interact_province = yes
 				}
-			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
 			}
 			custom_tooltip = EDG_SPACE_TT
 			add_country_modifier = {
@@ -4483,11 +4410,6 @@ EDG_DMR_5 = {
 					}
 				}
 			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
 		}
 	}
 	EDG_DMR_5_7 = {
@@ -4658,11 +4580,6 @@ EDG_DMR_5 = {
 				free_merc = yes
 			}
 			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
-			custom_tooltip = EDG_SPACE_TT
 			complex_dynamic_effect = {
 				first_custom_tooltip = DMR_mission_2_17_a_tt_yes
 				first_limit = "accepted_culture = swedish"
@@ -4698,11 +4615,6 @@ EDG_DMR_5 = {
 			add_country_modifier = {
 				name = EDG_DMR_SKNWG
 				duration = -1
-			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
 			}
 			custom_tooltip = EDG_SPACE_TT
 			country_event = {
@@ -4759,11 +4671,6 @@ EDG_DMR_5 = {
 			custom_tooltip = EDG_SPACE_TT
 			set_country_flag = EDG_DMR_mission_assimilate_3_flag
 			custom_tooltip = EDG_DMR_mission_assimilate_3_flag_TT
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
-			}
 		}
 	}
 	EDG_DMR_5_14 = {
@@ -4851,11 +4758,6 @@ EDG_DMR_5 = {
 			add_country_modifier = {
 				name = EDG_AVE_mission_5_29_modifier_great_project
 				duration = 7300
-			}
-			custom_tooltip = EDG_SPACE_TT
-			change_variable = {
-				which = EDG_DMR_money_value
-				value = 1
 			}
 		}
 	}
@@ -4989,8 +4891,10 @@ EDG_DMR_5 = {
 			}
 		}
 		effect = {
-			remove_non_electors_emperors_from_empire_effect = yes
-			EDG_NEW_PER_Shahanshah_target_effect = yes
+			every_owned_province = {
+				add_local_autonomy = -100
+				add_nationalism = -10
+			}
 			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_TOV_unfinished_business_TT
 			hidden_effect = {
@@ -5337,8 +5241,18 @@ EDG_DMR_5 = {
 			}
 		}
 		effect = {
-			set_country_flag = EDG_DMR_MARKET_decree_button_2_unlock_flag
-			custom_tooltip = EDG_DMR_MARKET_decree_button_2_unlock_flag_TT
+			custom_tooltip = EDG_DMR_UNIVERSITY_TT
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						base_tax = 5
+						base_manpower = 5
+						base_production = 5
+						has_building = marketplace
+					}
+					add_building = university
+				}
+			}
 		}
 	}
 	EDG_DMR_5_34 = {

@@ -41,7 +41,7 @@ EDG_H06_mission_1 = {
 			1864 = {
 				add_province_triggered_modifier = EDG_H06_frontier_post
 			}
-			1172 = {
+			1772 = {
 				add_province_triggered_modifier = EDG_H06_frontier_post
 			}
 			custom_tooltip = EDG_SPACE_TT

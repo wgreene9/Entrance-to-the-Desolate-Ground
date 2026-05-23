@@ -90,7 +90,7 @@ EDG_DMR_exploison = {
         events = {
         }
         random_events = {
-            300 = 0
+            700 = 0
             100 = EDG_DMR_flavor.32
 			100 = EDG_DMR_flavor.33
 			100 = EDG_DMR_flavor.34

@@ -510,6 +510,9 @@ custom_button = {#行政强化按钮
 		EDG_IR1_strengthen_button_1_trigger = yes
 		event_target:EDG_IR1_overlord_1_target = {
 			legitimacy = 20
+			not = {
+				has_country_modifier = EDG_IR1_strengthen_button_1_effect_modifier
+			}
 		}
 	}
 	effect = { 
@@ -529,6 +532,9 @@ custom_button = {#经济强化按钮
 		EDG_IR1_strengthen_button_2_trigger = yes
 		event_target:EDG_IR1_overlord_1_target = {
 			legitimacy = 20
+			not = {
+				has_country_modifier = EDG_IR1_strengthen_button_2_effect_modifier
+			}
 		}
 	}
 	effect = { 
@@ -548,6 +554,9 @@ custom_button = {#军事强化按钮
 		EDG_IR1_strengthen_button_3_trigger = yes
 		event_target:EDG_IR1_overlord_1_target = {
 			legitimacy = 20
+			not = {
+				has_country_modifier = EDG_IR1_strengthen_button_2_effect_modifier
+			}
 		}
 	}
 	effect = { 

@@ -328,8 +328,14 @@
 		provinces_to_highlight = {  } 
 
 		trigger = {  
-			manpower_percentage = 0.75
-			army_size_percentage = 0.99
+			or ={
+				or = {
+					manpower_percentage = 0.75
+					army_size_percentage = 0.75
+				}
+				has_mil_advisor_3 = yes
+			}
+			num_of_generals = 3
 		} 
 
 		effect = {  

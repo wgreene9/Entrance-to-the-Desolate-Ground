@@ -34,34 +34,38 @@ on_new_monarch = {
 	}
 }
 
-on_war_won = {
+on_main_war_won = {
 	if = {#赢得战争获得兴衰值
 		limit = {
-			exists = event_target:EDG_IR1_overlord_1_target
-			event_target:EDG_IR1_overlord_1_target = {
+			root = {
 				has_reform = EDG_AK2_reform_1
 				has_country_flag = EDG_IR1_reform_select_1_flag_1
 			}
 		}
-		event_target:EDG_IR1_overlord_1_target = {
+		root = {
 			add_government_power = {
 				mechanic_type = EDG_AK2_government_mechanics_1
 				power_type = EDG_AK2_mechanics_power_A
 				value = 10
 			}
 		}
+		
 	}
 }
 
-on_war_lost = {
+on_main_war_lost = {
 	if = {#打输战争失去兴衰值
 		limit = {
-			has_reform = EDG_AK2_reform_1
+			root = {
+				has_reform = EDG_AK2_reform_1
+			}
 		}
-		add_government_power = {
-			mechanic_type = EDG_AK2_government_mechanics_1
-			power_type = EDG_AK2_mechanics_power_A
-			value = -10
+		root = {
+			add_government_power = {
+				mechanic_type = EDG_AK2_government_mechanics_1
+				power_type = EDG_AK2_mechanics_power_A
+				value = -10
+			}
 		}
 	}
 }

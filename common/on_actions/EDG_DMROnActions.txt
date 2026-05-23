@@ -79,31 +79,6 @@ on_revoke_estate_land = {
 on_yearly_pulse = {
 	if = {
 		limit = {
-			mission_completed = EDG_DMR_1_13
-			mission_completed = EDG_DMR_2_13
-			mission_completed = EDG_DMR_3_13
-			mission_completed = EDG_DMR_4_13
-			mission_completed = EDG_DMR_5_13
-			tag = DMR
-		}
-		country_event = {
-			id = EDG_DMR_play.31
-		}
-	}
-	if = {
-		limit = {
-			had_country_flag = {
-				flag = EDG_DMR_WITHDRAW_FLAG_1
-				days = 1500
-			}
-			tag = DMR
-		}
-		country_event = {
-			id = EDG_DMR_play.27
-		}
-	}
-	if = {
-		limit = {
 			has_country_flag = EDG_DMR_on_yearly_pulse_add_loyalty_flag
 			tag = DMR
 		}
@@ -210,90 +185,6 @@ on_mercenary_recruited = {
 }
 
 on_siege_lost_province = {
-	if = {
-		limit = {
-			province_id = 227
-			from = {
-				tag = DMR
-			}
-			controlled_by = from
-		}
-		country_event = {
-			id = EDG_DMR_play.39
-		}
-	}
-	if = {
-		limit = {
-			province_id = 217
-			from = {
-				tag = DMR
-			}
-			controlled_by = from
-		}
-		country_event = {
-			id = EDG_DMR_play.40
-		}
-	}
-	if = {
-		limit = {
-			province_id = 104
-			from = {
-				tag = DMR
-			}
-			controlled_by = from
-		}
-		country_event = {
-			id = EDG_DMR_play.41
-		}
-	}
-	if = {
-		limit = {
-			province_id = 201
-			from = {
-				tag = DMR
-			}
-			controlled_by = from
-		}
-		country_event = {
-			id = EDG_DMR_play.42
-		}
-	}
-	if = {
-		limit = {
-			province_id = 118
-			from = {
-				tag = DMR
-			}
-			controlled_by = from
-		}
-		country_event = {
-			id = EDG_DMR_play.43
-		}
-	}
-	if = {
-		limit = {
-			province_id = 183
-			from = {
-				tag = DMR
-			}
-			controlled_by = from
-		}
-		country_event = {
-			id = EDG_DMR_play.44
-		}
-	}
-	if = {
-		limit = {
-			province_id = 236
-			from = {
-				tag = DMR
-			}
-			controlled_by = from
-		}
-		country_event = {
-			id = EDG_DMR_play.45
-		}
-	}
 	if = {
 		limit = {
 			war_with = BYZ
@@ -622,7 +513,6 @@ on_monthly_pulse = {
 		}
 		country_event = {
 			id = EDG_DMR_flavor.26
-			days = 1
 		}
 	}
 	if = {
@@ -680,43 +570,6 @@ on_monthly_pulse = {
 	}
 	if = {
 		limit = {
-			has_country_flag = EDG_DMR_WITHDRAW_FLAG_2
-			exists = USP
-			exists = NED
-			exists = FRA
-			exists = ITA
-			exists = BTA
-			tag = DMR
-		}
-		country_event = {
-			id = EDG_DMR_play.52
-		}
-	}
-	if = {
-		limit = {
-			NOT = {
-				exists = USP
-			}
-			NOT = {
-				exists = NED
-			}
-			NOT = {
-				exists = FRA
-			}
-			NOT = {
-				exists = ITA
-			}
-			NOT = {
-				exists = BTA
-			}
-			tag = DMR
-		}
-		country_event = {
-			id = EDG_DMR_play.53
-		}
-	}
-	if = {
-		limit = {
 			war_score_against = {
 				who = IT1
 				value = 99
@@ -769,6 +622,6 @@ on_monthly_pulse = {
 		country_event = {
 			id = EDG_DMR_play.46
 		}
-		set_country_flag = EDG_DMR_WITHDRAW_FLAG_2
+		set_country_flag = EDG_DMR_WITHDRAW_FLAG
 	}
 }

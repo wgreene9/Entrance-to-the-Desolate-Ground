@@ -30,6 +30,11 @@ sound = {
 }
 
 sound = {
+	name = EDG_mongol_window_sound
+	file = "mongol_window_sound.wav"
+}
+
+sound = {
 	name = EDG_DMR_EBW_victory
 	file = "EDG_DMR_EBW_victory.wav"
 	volume = 1

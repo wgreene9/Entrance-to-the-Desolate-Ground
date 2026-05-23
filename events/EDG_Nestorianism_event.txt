@@ -72,7 +72,8 @@ country_event = {#朝觐罗马
 	title = EDG_Nestorianism_event.5.t
 	desc = EDG_Nestorianism_event.5.d
 	is_triggered_only = yes 
-	picture = CONSTANTINOPLE_eventPicture
+	#picture = CONSTANTINOPLE_eventPicture
+	picture = ST_PETERS_CHURCH_eventPicture
 	option = {
 		name = EDG_Nestorianism_event.5.a
 		remove_church_aspect = EDG_Nestorianism_aspects_A5
@@ -96,6 +97,23 @@ country_event = {#朝觐安条克
 		add_stability_or_adm_power = yes
 		add_country_modifier = {
 			name = EDG_Nestorianism_aspects_A6_modifier
+			duration = 3650
+		}
+	}
+}
+
+country_event = {#朝觐君士坦丁堡
+	id = EDG_Nestorianism_event.18
+	title = EDG_Nestorianism_event.18.t
+	desc = EDG_Nestorianism_event.18.d
+	is_triggered_only = yes 
+	picture = CONSTANTINOPLE_eventPicture
+	option = {
+		name = EDG_Nestorianism_event.18.a
+		remove_church_aspect = EDG_Nestorianism_aspects_A7
+		add_stability_or_adm_power = yes
+		add_country_modifier = {
+			name = EDG_Nestorianism_aspects_A7_modifier
 			duration = 3650
 		}
 	}
@@ -307,6 +325,10 @@ country_event = {#测试事件
 			cede_province = root
 		}
 		379 = {
+			change_religion = EDG_Nestorianism
+			cede_province = root
+		}
+		151 = {
 			change_religion = EDG_Nestorianism
 			cede_province = root
 		}

@@ -1188,15 +1188,15 @@ EDG_flavor_LOT_mission_52_b_ruler_modifier = {#闻名的艺术资助人
 }
 EDG_flavor_LOT_mission_74_a_modifier = {#失败的军事路线
 	discipline = -0.05
-	mil_tech_cost_modifier = -0.1
+	mil_tech_cost_modifier = 0.1
 }
 EDG_flavor_LOT_mission_75_a_modifier = {#失败的经济路线
 	global_trade_goods_size_modifier = -0.1
-	dip_tech_cost_modifier = -0.1
+	dip_tech_cost_modifier = 0.1
 }
 EDG_flavor_LOT_mission_76_a_modifier = {#失败的文化路线
 	idea_cost = 0.1
-	adm_tech_cost_modifier = -0.1
+	adm_tech_cost_modifier = 0.1
 }
 
 EDG_flavor_LOT_mission_56_a_modifier = {#进攻主义

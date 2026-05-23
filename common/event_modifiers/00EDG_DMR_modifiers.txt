@@ -153,23 +153,9 @@ EDG_DMR_EBW_XUERUO_7 = {
 	discipline = -0.05
 }
 
-EDG_DMR_province_divine_1 = {
-	local_manpower_modifier = 0.25
-	land_maintenance_modifier = -0.01
-}
-
 EDG_DMR_province_divine_2 = {
 	local_production_efficiency = 0.25
 	global_tax_modifier = 0.01
-}
-
-EDG_DMR_province_divine_3 = {
-	local_autonomy = -0.05
-	core_creation = -0.01
-}
-
-EDG_DMR_province_divine_4 = {
-	local_unrest = -2
 	stability_cost_modifier = -0.01
 }
 

@@ -73,6 +73,7 @@ country_event = {
         }
       }
     }
+    custom_tooltip = EDG_LOT_inheritance_301_b_tt_1
     hidden_effect = {
       if = {
         limit = {
@@ -152,7 +153,6 @@ country_event = {
         }
 
       }
-      custom_tooltip = EDG_LOT_inheritance_301_b_tt_1
       if = {
         limit = { NOT = { exists = LOR } }
         custom_tooltip = EDG_SPACE_TT

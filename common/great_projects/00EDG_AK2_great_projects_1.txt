@@ -77,7 +77,10 @@ EDG_temple_1_AK2 = {#圣库科礼拜堂
 		conditional_modifier = {
 			trigger = { 
 				owner = {
-					tag = IR1 
+					custom_trigger_tooltip = {
+						tooltip = EDG_Nestorianism_decisions_6_tool_1
+						has_country_flag = EDG_Nestorianism_decisions_6_flag
+					}
 				}
 			}
 			modifier = {
@@ -110,7 +113,10 @@ EDG_temple_1_AK2 = {#圣库科礼拜堂
 		conditional_modifier = {
 			trigger = { 
 				owner = {
-					tag = IR1 
+					custom_trigger_tooltip = {
+						tooltip = EDG_Nestorianism_decisions_6_tool_1
+						has_country_flag = EDG_Nestorianism_decisions_6_flag
+					}
 				}
 			}
 			modifier = {
@@ -144,7 +150,10 @@ EDG_temple_1_AK2 = {#圣库科礼拜堂
 		conditional_modifier = {
 			trigger = { 
 				owner = {
-					tag = IR1 
+					custom_trigger_tooltip = {
+						tooltip = EDG_Nestorianism_decisions_6_tool_1
+						has_country_flag = EDG_Nestorianism_decisions_6_flag
+					}
 				}
 			}
 			modifier = {
@@ -253,7 +262,10 @@ EDG_temple_2_AK2 = {#怛逻斯大教堂
 		conditional_modifier = {
 			trigger = { 
 				owner = {
-					tag = IR1 
+					custom_trigger_tooltip = {
+						tooltip = EDG_Nestorianism_decisions_6_tool_1
+						has_country_flag = EDG_Nestorianism_decisions_6_flag
+					}
 				}
 			}
 			modifier = {
@@ -290,7 +302,10 @@ EDG_temple_2_AK2 = {#怛逻斯大教堂
 		conditional_modifier = {
 			trigger = { 
 				owner = {
-					tag = IR1 
+					custom_trigger_tooltip = {
+						tooltip = EDG_Nestorianism_decisions_6_tool_1
+						has_country_flag = EDG_Nestorianism_decisions_6_flag
+					}
 				}
 			}
 			modifier = {
@@ -400,7 +415,10 @@ EDG_temple_3_AK2 = {#拉班·霍尔米兹德修道院
 		conditional_modifier = {
 			trigger = { 
 				owner = {
-					tag = IR1 
+					custom_trigger_tooltip = {
+						tooltip = EDG_Nestorianism_decisions_6_tool_1
+						has_country_flag = EDG_Nestorianism_decisions_6_flag
+					}
 				}
 			}
 			modifier = {
@@ -433,7 +451,10 @@ EDG_temple_3_AK2 = {#拉班·霍尔米兹德修道院
 		conditional_modifier = {
 			trigger = { 
 				owner = {
-					tag = IR1 
+					custom_trigger_tooltip = {
+						tooltip = EDG_Nestorianism_decisions_6_tool_1
+						has_country_flag = EDG_Nestorianism_decisions_6_flag
+					}
 				}
 			}
 			modifier = {
@@ -543,7 +564,10 @@ EDG_temple_4_AK2 = {#哈烈大教堂
 		conditional_modifier = {
 			trigger = { 
 				owner = {
-					tag = IR1 
+					custom_trigger_tooltip = {
+						tooltip = EDG_Nestorianism_decisions_6_tool_1
+						has_country_flag = EDG_Nestorianism_decisions_6_flag
+					}
 				}
 			}
 			modifier = {
@@ -576,7 +600,10 @@ EDG_temple_4_AK2 = {#哈烈大教堂
 		conditional_modifier = {
 			trigger = { 
 				owner = {
-					tag = IR1 
+					custom_trigger_tooltip = {
+						tooltip = EDG_Nestorianism_decisions_6_tool_1
+						has_country_flag = EDG_Nestorianism_decisions_6_flag
+					}
 				}
 			}
 			modifier = {

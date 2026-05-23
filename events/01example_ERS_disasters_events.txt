@@ -998,8 +998,8 @@ country_event = {#格鲁吉亚
 					cede_province = GEO
 					remove_core = ROOT
 				}
-				grant_independence = yes
 				GEO = {
+					grant_independence = yes
 					change_religion = orthodox
 					add_treasury = 20000
 					add_country_modifier = {
@@ -1127,8 +1127,8 @@ country_event = {#吉兰
 					cede_province = KRY
 					remove_core = ROOT
 				}
-				grant_independence = yes
 				KRY = {
+					grant_independence = yes
 					change_religion = shiite
 					add_treasury = 20000
 					add_country_modifier = {

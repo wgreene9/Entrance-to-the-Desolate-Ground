@@ -64,7 +64,7 @@ EDG_FRA_government_ability = {
 				}
 				modifier = {
 					nobles_loyalty_modifier = 0.2
-					educed_liberty_desire_on_other_continent = -33
+					reduced_liberty_desire_on_other_continent = -33
 					same_culture_advisor_cost = -0.2
 					relation_with_same_culture = 100
 					relation_with_same_culture_group = 100

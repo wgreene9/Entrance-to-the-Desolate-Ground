@@ -440,6 +440,7 @@ christian = {
 			EDG_Nestorianism_aspects_A4
 			EDG_Nestorianism_aspects_A5
 			EDG_Nestorianism_aspects_A6
+			EDG_Nestorianism_aspects_A7
 
 			EDG_Nestorianism_aspects_B1 
 			EDG_Nestorianism_aspects_B2
@@ -473,6 +474,7 @@ christian = {
 						has_church_aspect = EDG_Nestorianism_aspects_A4
 						has_church_aspect = EDG_Nestorianism_aspects_A5
 						has_church_aspect = EDG_Nestorianism_aspects_A6
+						has_church_aspect = EDG_Nestorianism_aspects_A7
 					}
 				}
 			}
@@ -869,7 +871,11 @@ christian = {
 	
 	
 	catholic = {
-		color = { 204 204 0 }
+		color = {
+			204
+			204
+			0
+		}
 		icon = 1
 		allowed_conversion = {
 			reformed
@@ -885,38 +891,33 @@ christian = {
 			tolerance_own = 1
 			global_heathen_missionary_strength = 0.01
 		}
-		
 		country_as_secondary = {
 			diplomatic_reputation = 1
 			advisor_pool = 1
 		}
-		
 		hre_religion = yes
-		
 		on_convert = {
 			change_religion = catholic
 			add_prestige = -100
-			
 			remove_country_modifier = the_test_act
 			remove_country_modifier = superintendent_office
 			remove_country_modifier = the_popery_act
-			
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
-			}			
-		
+			}
 		}
-		
-
-		heretic = { BOGOMILIST WALDENSIAN FRATICELLI LOLLARD SOCINIAN }
-		
+		heretic = {
+			BOGOMILIST
+			WALDENSIAN
+			FRATICELLI
+			LOLLARD
+			SOCINIAN
+		}
 		papacy = {
 			papal_tag = PAP
 			election_cost = 5
-			seat_of_papacy = 118 # rome
-			
-			
+			seat_of_papacy = 118			# rome
 			#Council of Trent Positions
 			harsh = {
 				relation_with_heretics = -10
@@ -933,14 +934,13 @@ christian = {
 				global_heretic_missionary_strength = -0.05
 				improve_relation_modifier = 0.25
 			}
-			
 			#Council of Trent Concessions
 			concessions = {
 				first_concession = {
 					harsh = {
 						relation_with_heretics = -10
-						global_heretic_missionary_strength  = 0.02
-					}	
+						global_heretic_missionary_strength = 0.02
+					}
 					concilatory = {
 						relation_with_heretics = 5
 						tolerance_heretic = 2
@@ -949,18 +949,18 @@ christian = {
 				second_concession = {
 					harsh = {
 						relation_with_heretics = -10
-						institution_spread_from_true_faith = 0.30
-					}	
+						institution_spread_from_true_faith = 0.3
+					}
 					concilatory = {
 						relation_with_heretics = 5
-						global_institution_spread = 0.10
+						global_institution_spread = 0.1
 					}
 				}
 				third_concession = {
 					harsh = {
 						relation_with_heretics = -10
-						manpower_in_true_faith_provinces  = 0.1
-					}	
+						manpower_in_true_faith_provinces = 0.1
+					}
 					concilatory = {
 						relation_with_heretics = 5
 						global_manpower_modifier = 0.05
@@ -969,55 +969,83 @@ christian = {
 				fourth_concession = {
 					harsh = {
 						relation_with_heretics = -10
-						warscore_cost_vs_other_religion  = -0.10
-					}	
+						warscore_cost_vs_other_religion = -0.1
+					}
 					concilatory = {
 						relation_with_heretics = 5
-						curia_powers_cost = -0.10
+						curia_powers_cost = -0.1
 					}
 				}
 			}
-			
-
-
-			
-			
-			
-			
 			# Papal Actions below!
-			
 			levy_church_tax = {
 				cost = 50
 				potential = {
-					NOT = { tag = PAP }
+					NOT = {
+						tag = PAP
+					}
 				}
 				allow = {
-					NOT = { war_with = PAP }
-					NOT = { has_country_modifier = papal_sanction_for_church_taxes }
+					NOT = {
+						war_with = PAP
+					}
+					NOT = {
+						has_country_modifier = papal_sanction_for_church_taxes
+					}
 				}
 				effect = {
 					add_country_modifier = {
 						name = "papal_sanction_for_church_taxes"
 						duration = 3650
 					}
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
+					}
 				}
 				ai_will_do = {
 					factor = 1
-				}				
-			}			
+				}
+			}
 			bless_monarch = {
 				cost = 50
 				potential = {
-					NOT = { tag = PAP }
+					NOT = {
+						tag = PAP
+					}
 				}
 				allow = {
-					NOT = { war_with = PAP }
-					NOT = { has_country_modifier = papal_blessing }
+					NOT = {
+						war_with = PAP
+					}
+					NOT = {
+						has_country_modifier = papal_blessing
+					}
 				}
 				effect = {
 					add_country_modifier = {
 						name = "papal_blessing"
 						duration = 3650
+					}
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
 					}
 				}
 				ai_will_do = {
@@ -1027,79 +1055,155 @@ christian = {
 			indulgence_for_sins = {
 				cost = 50
 				potential = {
-					NOT = { tag = PAP }
+					NOT = {
+						tag = PAP
+					}
 				}
 				allow = {
-					NOT = { war_with = PAP }
-					NOT = { has_country_modifier = papal_indulgence }
+					NOT = {
+						war_with = PAP
+					}
+					NOT = {
+						has_country_modifier = papal_indulgence
+					}
 				}
 				effect = {
 					add_country_modifier = {
 						name = "papal_indulgence"
 						duration = 3650
 					}
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
+					}
 				}
 				ai_will_do = {
 					factor = 1
 				}
-			}	
+			}
 			local_saint = {
 				cost = 100
 				potential = {
-					NOT = { tag = PAP }
+					NOT = {
+						tag = PAP
+					}
 				}
 				allow = {
-					NOT = { war_with = PAP }
-					NOT = { stability = 3 }
+					NOT = {
+						war_with = PAP
+					}
+					NOT = {
+						stability = 3
+					}
 				}
 				effect = {
 					add_stability = 1
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
+					}
 				}
 				ai_will_do = {
 					factor = 1
 					modifier = {
 						factor = 2
-						NOT = { stability = 0 }
+						NOT = {
+							stability = 0
+						}
 					}
 				}
 			}
 			forgiveness_for_usury = {
 				cost = 50
 				potential = {
-					NOT = { tag = PAP }
+					NOT = {
+						tag = PAP
+					}
 				}
 				allow = {
-					NOT = { war_with = PAP }
-					NOT = { has_country_modifier = usury_forgiven }
+					NOT = {
+						war_with = PAP
+					}
+					NOT = {
+						has_country_modifier = usury_forgiven
+					}
 				}
 				effect = {
 					add_country_modifier = {
 						name = "usury_forgiven"
 						duration = 3650
 					}
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
+					}
 				}
 				ai_will_do = {
 					factor = 1
 					modifier = {
 						factor = 0
-						NOT = { num_of_loans = 1 }
+						NOT = {
+							num_of_loans = 1
+						}
 					}
 				}
-			}			
+			}
 			proclaim_holy_war = {
 				cost = 50
 				potential = {
-					NOT = { tag = PAP }
+					NOT = {
+						tag = PAP
+					}
 				}
 				allow = {
 					is_at_war = yes
-					NOT = { war_with = PAP }
-					NOT = { has_country_modifier = papal_sanction_for_holy_war }
+					NOT = {
+						war_with = PAP
+					}
+					NOT = {
+						has_country_modifier = papal_sanction_for_holy_war
+					}
 				}
 				effect = {
 					add_country_modifier = {
 						name = "papal_sanction_for_holy_war"
 						duration = 3650
+					}
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
 					}
 				}
 				ai_will_do = {
@@ -1113,40 +1217,78 @@ christian = {
 			send_papal_legate = {
 				cost = 50
 				potential = {
-					NOT = { tag = PAP }
+					NOT = {
+						tag = PAP
+					}
 					is_papal_controller = no
 				}
 				allow = {
-					NOT = { war_with = PAP }
-					NOT = { has_country_modifier = papal_legate }
+					NOT = {
+						war_with = PAP
+					}
+					NOT = {
+						has_country_modifier = papal_legate
+					}
 				}
 				effect = {
 					add_country_modifier = {
 						name = "papal_legate"
 						duration = 3650
 					}
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
+					}
 				}
 				ai_will_do = {
 					factor = 1
 				}
-			}	
+			}
 			sanction_commercial_monopoly = {
 				cost = 50
 				potential = {
-					NOT = { tag = PAP }
+					NOT = {
+						tag = PAP
+					}
 				}
 				allow = {
-					NOT = { war_with = PAP }
-					NOT = { mercantilism = 100 }
+					NOT = {
+						war_with = PAP
+					}
+					NOT = {
+						mercantilism = 100
+					}
 				}
 				effect = {
 					add_mercantilism = 1
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
+					}
 				}
 				ai_will_do = {
 					factor = 1
 					modifier = {
 						factor = 0
-						NOT = { has_idea_group = trade_ideas }
+						NOT = {
+							has_idea_group = trade_ideas
+						}
 					}
 				}
 			}
@@ -1160,7 +1302,9 @@ christian = {
 				allow = {
 					is_papal_controller = yes
 					reform_desire = 0.1
-					NOT = { has_country_modifier = investigate_heresy_in_5_years_modifier }
+					NOT = {
+						has_country_modifier = investigate_heresy_in_5_years_modifier
+					}
 				}
 				effect = {
 					add_reform_desire = -0.1
@@ -1170,12 +1314,26 @@ christian = {
 						duration = 1825
 						hidden = yes
 					}
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
+					}
 				}
 				ai_will_do = {
 					factor = 1
 					modifier = {
 						factor = 0
-						NOT = { reform_desire = 0.75 }
+						NOT = {
+							reform_desire = 0.75
+						}
 					}
 				}
 			}
@@ -1187,28 +1345,40 @@ christian = {
 				}
 				allow = {
 					curia_treasury = 1000
-					NOT = { has_country_modifier = edg_vatican_treasury_take_modifier }
+					NOT = {
+						has_country_modifier = edg_vatican_treasury_take_modifier
+					}
 				}
 				effect = {
 					edg_add_reform_desire_tiny_effect = yes
 					if = {
-						limit = { monthly_income = 500 }
+						limit = {
+							monthly_income = 500
+						}
 						add_treasury = 1000
 					}
 					else_if = {
-						limit = { monthly_income = 400 }
+						limit = {
+							monthly_income = 400
+						}
 						add_treasury = 800
 					}
 					else_if = {
-						limit = { monthly_income = 300 }
+						limit = {
+							monthly_income = 300
+						}
 						add_treasury = 600
 					}
 					else_if = {
-						limit = { monthly_income = 200 }
+						limit = {
+							monthly_income = 200
+						}
 						add_treasury = 400
 					}
 					else_if = {
-						limit = { monthly_income = 100 }
+						limit = {
+							monthly_income = 100
+						}
 						add_treasury = 200
 					}
 					else = {
@@ -1218,20 +1388,32 @@ christian = {
 						name = edg_vatican_treasury_take_modifier
 						duration = 3650
 					}
+					if = {
+						limit = {
+							has_country_flag = EDG_CWN_2_3_flag
+						}
+						custom_tooltip = EDG_CWN_2_1_A_TT						#获得1点不列颠世界影响力
+						hidden_effect = {
+							change_variable = {
+								which = EDG_CWN_world_var								#不列颠世界影响力
+								value = 1
+							}
+						}
+					}
 				}
 				ai_will_do = {
 					factor = 0.1
 					modifier = {
-					  factor = 4
-					  ruler_has_personality = embezzler_personality
+						factor = 4
+						ruler_has_personality = embezzler_personality
 					}
 					modifier = {
-					  factor = 2
-					  adm = 3
+						factor = 2
+						adm = 3
 					}
 					modifier = {
-					  factor = 2
-					  dip = 3
+						factor = 2
+						dip = 3
 					}
 					modifier = {
 						factor = 2
@@ -1243,11 +1425,11 @@ christian = {
 					}
 					modifier = {
 						factor = 0.5
-						 treasury = 500
+						treasury = 500
 					}
 					modifier = {
 						factor = 0.5
-						 treasury = 1000
+						treasury = 1000
 					}
 				}
 			}
@@ -3379,6 +3561,7 @@ eastern = {#东方
 		}
 		on_convert = {
 			add_prestige = -100
+			add_stability = -1
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
@@ -3409,6 +3592,7 @@ eastern = {#东方
 		}
 		on_convert = {
 			add_prestige = -100
+			add_stability = -1
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
@@ -3439,6 +3623,7 @@ eastern = {#东方
 		}
 		on_convert = {
 			add_prestige = -100
+			add_stability = -1
 			add_country_modifier = {
 				name = "conversion_zeal"
 				duration = 3650
@@ -4484,7 +4669,7 @@ zoroastrian_group = {
 			hinduism
 		}
 
-		holy_sites = { 2212 433 2223 441 4336 }
+		holy_sites = { 2212 4430 2223 441 4336 }
 
 		blessings = {
 			blessing_yasna

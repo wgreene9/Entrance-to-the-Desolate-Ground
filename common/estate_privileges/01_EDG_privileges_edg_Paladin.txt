@@ -42,10 +42,10 @@ estate_edg_paladin_privilege_1 = {#圣骑士领地权
 }
 estate_edg_paladin_privilege_2 = {#圣骑士首要地位
 	icon = privilege_military_power
-	land_share = 0
-	max_absolutism = -5
+	land_share = 5
+	max_absolutism = -10
 	conditional_modifier = { trigger = { has_absolutism_reduction_for_estate_privileges = yes } modifier = { max_absolutism = 2 } }
-	loyalty = 0.10
+	loyalty = 0.0
 	influence = 0.2
 	can_select = {
 	}

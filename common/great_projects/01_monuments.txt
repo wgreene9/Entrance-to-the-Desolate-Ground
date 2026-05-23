@@ -8495,8 +8495,16 @@ kiev_pechersk_lavra = {
 
 	#can we build it?
 	build_trigger = {
-		province_is_or_accepts_religion = {
-			religion = orthodox
+		OR = {
+			province_is_or_accepts_religion = {
+				religion = orthodox
+			}
+			custom_trigger_tooltip = {
+				tooltip = has_completed_the_plains_of_ruthenia_mission_tt
+				owner = {
+					has_country_flag = enable_monument_bonus_1_flag
+				}
+			}
 		}
 	}
 
@@ -8512,15 +8520,31 @@ kiev_pechersk_lavra = {
 
 	#can our country use it?
 	can_use_modifiers_trigger = {
-		province_is_or_accepts_religion = {
-			religion = orthodox
+		OR = {
+			province_is_or_accepts_religion = {
+				religion = orthodox
+			}
+			custom_trigger_tooltip = {
+				tooltip = has_completed_the_plains_of_ruthenia_mission_tt
+				owner = {
+					has_country_flag = enable_monument_bonus_1_flag
+				}
+			}
 		}
 	}
 
 	#can our country upgrade it?
 	can_upgrade_trigger = {
-		province_is_or_accepts_religion = {
-			religion = orthodox
+		OR = {
+			province_is_or_accepts_religion = {
+				religion = orthodox
+			}
+			custom_trigger_tooltip = {
+				tooltip = has_completed_the_plains_of_ruthenia_mission_tt
+				owner = {
+					has_country_flag = enable_monument_bonus_1_flag
+				}
+			}
 		}
 	}
 
@@ -8663,6 +8687,7 @@ kiev_pechersk_lavra = {
 			modifier = {
 				missionary_maintenance_cost = -0.25
 				missionaries = 1
+				monthly_church_power = 1
 			}
 		}
 	}

@@ -861,7 +861,10 @@ EDG_ERS_Academy_of_Gundishapur  = { #贡德沙普尔学院
 					OR = {
 						tag = TAB
 						tag = ERS
-						tag = IR1 
+						custom_trigger_tooltip = {
+							tooltip = EDG_Nestorianism_decisions_6_tool_1
+							has_country_flag = EDG_Nestorianism_decisions_6_flag
+						}
 					}
 				}
 			}

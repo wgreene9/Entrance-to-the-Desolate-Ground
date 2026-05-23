@@ -858,6 +858,19 @@ EDG_BDX_mission_2 = {
 		}
 
 		effect = {
+			hidden_effect = {
+				if = {
+					limit = {
+						NOT = {
+							has_estate = estate_nomadic_tribes
+						}
+					}
+					change_estate_land_share = {
+						estate = all
+						share = -5
+					}
+				}
+			}
 			enable_estate_effect = {
 				estate = estate_nomadic_tribes
 			}
@@ -962,6 +975,12 @@ EDG_BDX_mission_2 = {
 			enable_estate_effect = {
 				estate = estate_ghulams
 			}
+			hidden_effect = {
+				change_estate_land_share = {
+					estate = all
+					share = -5
+				}
+			}
 			set_country_flag = EDG_ignore_ghulams_loyalty_and_influence_penalty_flag
 			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_BDX_mission_nestorianism_tt2
@@ -1013,18 +1032,34 @@ EDG_BDX_mission_2 = {
 				}
 			}
 			hidden_effect = {
-				2218 = {
-					change_religion = EDG_Nestorianism
-					add_reform_center = EDG_Nestorianism
-					add_permanent_province_modifier = {
-						name = EDG_TIM_holy_city_modifier
-						duration = -1
+				if = {
+					limit = {
+						religion = EDG_Nestorianism
 					}
+					2218 = {
+						change_religion = EDG_Nestorianism
+						add_reform_center = EDG_Nestorianism
+						add_permanent_province_modifier = {
+							name = EDG_TIM_holy_city_modifier
+							duration = -1
+						}
+					}
+					if = {
+						limit = {
+							NOT = {
+								has_estate = estate_nomadic_tribes
+							}
+						}
+						change_estate_land_share = {
+							estate = all
+							share = -5
+						}
+					}
+					enable_estate_effect = {
+						estate = estate_nomadic_tribes
+					}
+					set_country_flag = EDG_BDX_kereit_and_naiman_tribes_flag
 				}
-				enable_estate_effect = {
-					estate = estate_nomadic_tribes
-				}
-				set_country_flag = EDG_BDX_kereit_and_naiman_tribes_flag
 			}
 		}
 	}
@@ -1933,7 +1968,6 @@ EDG_BDX_mission_3 = {
 				first_limit = "
 					religion = EDG_Nestorianism
 					PAP = {
-						is_great_power = yes
 						alliance_with = ROOT
 					}
 				"
@@ -2031,20 +2065,25 @@ EDG_BDX_mission_3 = {
 				}
 			}
 			hidden_effect = {
-				151 = {
-					change_religion = EDG_Nestorianism
-					add_reform_center = EDG_Nestorianism
-				}
-				anatolia_region = {
+				if = {
 					limit = {
-						country_or_non_sovereign_subject_holds = ROOT
-						religion = orthodox
+						religion = EDG_Nestorianism
 					}
-					change_religion = EDG_Nestorianism
-				}
-				add_country_modifier = {
-					name = EDG_BDX_overturn_council_of_ephesus_modifier
-					duration = -1
+					151 = {
+						change_religion = EDG_Nestorianism
+						add_reform_center = EDG_Nestorianism
+					}
+					anatolia_region = {
+						limit = {
+							country_or_non_sovereign_subject_holds = ROOT
+							religion = orthodox
+						}
+						change_religion = EDG_Nestorianism
+					}
+					add_country_modifier = {
+						name = EDG_BDX_overturn_council_of_ephesus_modifier
+						duration = -1
+					}
 				}
 			}
 		}
@@ -2572,6 +2611,12 @@ EDG_BDX_mission_4 = {
 			enable_estate_effect = {
 				estate = estate_rajput
 			}
+			hidden_effect = {
+				change_estate_land_share = {
+					estate = all
+					share = -5
+				}
+			}
 			custom_tooltip = EDG_SPACE_TT
 			EDG_BDX_add_5_argead_legitimacy_effect = yes
 			add_accepted_culture_or_dip_power = {
@@ -2637,6 +2682,12 @@ EDG_BDX_mission_4 = {
 					}
 					enable_estate_effect = {
 						estate = estate_jains
+					}
+					hidden_effect = {
+						change_estate_land_share = {
+							estate = all
+							share = -10
+						}
 					}
 				"
 			}
@@ -3335,6 +3386,12 @@ EDG_BDX_mission_5 = {
 		effect = {
 			enable_estate_effect = {
 				estate = estate_qizilbash
+			}
+			hidden_effect = {
+				change_estate_land_share = {
+					estate = all
+					share = -5
+				}
 			}
 			set_country_flag = EDG_ignore_qizilbash_loyalty_and_influence_penalty_flag
 			custom_tooltip = EDG_SPACE_TT

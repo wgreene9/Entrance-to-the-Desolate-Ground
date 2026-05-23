@@ -15,6 +15,7 @@
  EDG_Nestorianism_aspects_A4:0 "1W¿k:’dlšSU"
  EDG_Nestorianism_aspects_A5:0 "1W¿k:Wlš"
  EDG_Nestorianism_aspects_A6:0 "1W¿k:‰RagKQ"
+ EDG_Nestorianism_aspects_A7:0 "1W¿k:TëXfWN!X"
 
  EDG_Nestorianism_aspects_A1_modifier:0 "1W¿k:ôT<h¾"
  EDG_Nestorianism_aspects_A2_modifier:0 "1W¿k:·VÑžpQ"
@@ -22,6 +23,7 @@
  EDG_Nestorianism_aspects_A4_modifier:0 "1W¿k:’dlšSU"
  EDG_Nestorianism_aspects_A5_modifier:0 "1W¿k:Wlš"
  EDG_Nestorianism_aspects_A6_modifier:0 "1W¿k:‰RagKQ"
+ EDG_Nestorianism_aspects_A7_modifier:0 "1W¿k:TëXfWN!X"
 
  desc_EDG_Nestorianism_aspects_A1:0 "(WIQ‰„vôT<h¾ÿofYezfgaKNopþfgqwN‰0ÙÌ‘NÅNGlZwYe6rW„ð0INYe©ÏuNîOëXHywyÿmN=fgr–™KNµ^NáOðN‹VÕl„vÑSn0W01W¿kNbk=fówx„vX‡Rÿôf=fãNãNáO’VÃV-N^y1WNïSµO¯r„vupB›opTX0\n·ƒ—V˜Y§M:VSîOck§!0"
 
@@ -34,6 +36,8 @@
  desc_EDG_Nestorianism_aspects_A5:0 "äSwÎW™XNÿ1W¿k„vŸ”ðX `lbÞVaƒÿ2U’‘‰law„váOðN0Wlšÿ=f^yNN×O²NÇu„v‚ðSÿ=fáOðN9húWNupB›RV¿R„vNb(W0ÙÌ‘„vÏkNWWówxÿýí”IRNw1W’V„v³ùN†SòS„vcƒIQ0\n·ƒ—V˜Y§M:VSîOck§!0"
 
  desc_EDG_Nestorianism_aspects_A6:0 "‰RagKQÿäSãNáOðN„vopTXÿ=fofYe.Ob„v8hÃVnc¹p0ÙÌ‘GlZwgr–™NYe’V„vÃVNˆÿ1W¿k×wËzvQ-NÿˆR²bNwYeO„v.OßuNupB›0áO’VìNgÜbŽNdkÿa×S^y1W„vi` RN†SòS„všSÍ‘0\n·ƒ—V˜Y§M:VSîOck§!0"
+
+ desc_EDG_Nestorianism_aspects_A7:0 "TëXfWN!XÿN‰áOðN²NGl„v Q•QKNÎWÿ=fofYe(WWlšNLu-N„vÍ‘‰aŒV0^ýV„vZCgN^yfR„v`¨(Wdk²NÇuÿ1W¿kySËzŽNÎWÃVÿÁ‰Á‹YeIN„vZWˆRN.O­d0\n·ƒ—V˜Y§M:VSîOck§!0"
 
  EDG_Nestorianism_aspects_B1:0 "Ye²w^yLwºNXT"
  EDG_Nestorianism_aspects_B2:0 "îOSb–QÜu"
@@ -103,6 +107,10 @@
  EDG_Nestorianism_event.6.d:0 "‰RagKQO’VÝOWŒTôTÿbôT±RS„vÎW‘ÿ=fofYe.Ob-NNïSýVÆ‰„vw¹p0ÙÌ‘ÿáO’V,rN!k«ˆðy:NúWcw’VÿÙÌ‘ÿmNþfySËzNwN¹eYeO„vgr–™µ^XÿTÈS†SÏubkp0RÂˆNWØV0\n‚YÊNofYeYtQKN¿RQwÿg1WwŽNÙGräSwW0WÿûRŒbáOðN„v9hÿ¦N=f(W±RJTN*Nôf^–0ôfENÜ„vYeOckÍ‘°eÝQZw0"
  EDG_Nestorianism_event.6.a:0 "bS²Nó‰RagKQÿœÜbRãN1W’VKNï0"
 
+ EDG_Nestorianism_event.18.t:0 "gÐ‰TëXfWN!X"
+ EDG_Nestorianism_event.18.d:0 "gTZS¯enfœ¯e„v4lIQÿáO’VŽNŽVTëXfWN!X„vSï0±µ^«ˆyzv˜NÎW™X¯sÕu„v1WÎWÿb‹Nw^ýV„v°‹ÆVNwS„vcƒIQ0gÐ‰KNï+o•wƒwFzÿzŠqSwmNSN„v·upbÿêS:N(W1W¿kKNMRïO–™Hywy0\nSV1W0tòƒšN„vyzv˜.feQ<w^ÿŸ”ðXÞVaƒŽNów6–N•Ê^KNô•ÿÅe„v²uë`SjOleOu0gr–™„vkywy(W¿k-NNO‰lÞVÍTÿ1WÏP(WÛpIQ-NY—ØžèlÆ‰ÿáO’VŽNdkÍ‘3u“ŠŠÿmÀQupB›ÿFw,T^y1W‹VÕl„vÁˆ:y0"
+ EDG_Nestorianism_event.18.a:0 "OÎWKNsY‡vÿ²PÆ‰²Ä–0"
+
  EDG_Nestorianism_event.7.t:0 "ofYeÏuxQûÑ‹"
  EDG_Nestorianism_event.7.d:0 "–NwofYe(WVßWW0WN„v3zek.O­dÿ.OYeëXìNn²‹Æ‹0Rí‹Š„v”––ckb:NáOðNibUS„vN'Yœ–x0:N†N©‹,g0WáO’VôfñmeQtã‰áOðN8hÃVÿYeOfRwVËYûÑ‹01WÏu0NYeIN‡e.sÿO(uâl¯eí‹0ÙS)RšNí‹0Ÿ|yrí‹ÿuóIl‡eNz¥Sí‹ÿS^y1W„v=T:y­d’dóNl3w-N0Ùy˜O'Y„v‡eSåTzNÅNéTúV†NáOðN9húWÿmNQX.†N°etQ„v,g0W^yfR.Oßu0"
  EDG_Nestorianism_event.7.a:0 "^y„vwtÿN”^ÿVŽNSpeºN„v‚4Y0"
@@ -144,21 +152,42 @@
  EDG_Nestorianism_event.16.a:0 "=f„vÿbìNSIYN^„vTIN»ltNl0"
 
 
+ EDG_Nestorianism_decisions_1_title:0 "£icon_EDG_Nestorianism£SÍ‘SV0W—RYe>y:S"
+ EDG_Nestorianism_decisions_1_desc:0 "ƒX…QVÏeNVáOwOYÿ:V‹SáOðNêSOËnu(`<`0bìNNÏ‹ËR…VT—RYe>y²ÿÝOœ–vQ<yÜb0`N×ONµNNKN‰RRÿåNS¹RbcÖSýVðll‰R0"
+
+ EDG_Nestorianism_decisions_2_title:0 "£icon_EDG_Nestorianism£¨c¨RofYeÏuxQûÑ‹"
+ EDG_Nestorianism_decisions_2_desc:0 "äSÙS)RšNÏu‡ep‚ñm¾–ÿŒvÓY¾–f1WS0bìN”^SVìSÆ–ofYefRwÿSyó—01W.ON<yêNxQM|Ñ‹:N0W¹eŠí‹ÿ^^YeSÿONlTlwIQ"
+
+ EDG_Nestorianism_decisions_3_title:0 "£icon_EDG_Nestorianism£yrYnfN—R’V‚‚†^†^xQ"
+ EDG_Nestorianism_decisions_3_desc:0 "Ä‰šRNt^N¦^„v—R’V‚‚†^ÿìSÆ–ƒX…QYofYeINYeqQD‰'YxQÿ±RlbO’V1W.Oÿpašb»yceYeOÿpV>fN¹eYeOKNTNN„^%N0"
+
+ EDG_Nestorianism_decisions_4_title:0 "£icon_EDG_Nestorianism£©‹gr–™INc R•Q1W<y"
+ EDG_Nestorianism_decisions_4_desc:0 "1uN¹ešNðYeOgr–™²NêINc R•Q1W<yÿåN1W¹lwe¹bT‹sÿ±RJTTCg^yˆc0ýVZy™„y0dk>NSéTúVckßu0ÝQZwYeOÿv^OhQýVãlb²‹TIN„v^y1Wßu»l0"
+
+ EDG_Nestorianism_decisions_5_title:0 "£icon_EDG_Nestorianism£ÝOkS1W0WáT<yKNï"
+ EDG_Nestorianism_decisions_5_desc:0 "1uYeO=ecv^ÄuÇuofYeáO’VMRŽV1W0WáT<yÿåNdkZWšRáOOáOðNÿÝQZwhQýVºNÃV0v^N>mc›Q–N²bkSÝO²báT<ySïÿnR×v*S0ÝOœ–áO’V‰RhQÿ©‹1W0WKNïEu‰R3z0"
+
+ EDG_Nestorianism_decisions_6_title:0 "£icon_EDG_Nestorianism£±Rðy§Y0úWcw)YýV0§!M–4NºNô•"
+ EDG_Nestorianism_decisions_6_desc:0 "£icon_EDG_Nestorianism£§Y[Root.GetName]§!ýV¦^£icon_EDG_Nestorianism£òTb:NúWcw)YýV(WºNô•„v>f°sÿTCg^y1WÿNlRVÃVÿáOðNZWNïSgd0"
+
+ EDG_Nestorianism_decisions_7_title:0 "£icon_EDG_Nestorianism£-dú^ofYe8fQÜu"
+ EDG_Nestorianism_decisions_7_desc:0 "OXbEu„v1W0WáT<yï¿uÿåNáOðN:NËu&^TwÓuT0WofYeFUºNNYeËS>y²0Sbè:SßWFUïÿåNFU²bYe0åNYeÃOFUÿâežR°s8fžX6eÿmN©‹wmY.OYeôf Rz˜Eu0"
+
+ EDG_Nestorianism_decisions_8_title:0 "£icon_EDG_Nestorianism£ªuõV‰kSw"
+ EDG_Nestorianism_decisions_8_desc:0 "ýS†SãN:N1WYe‰kS„váOOÿîOú^1W`y0>NLˆky1W<yêNÿ`ñ‚Èp0ÝQZwT†ÃVÿpV>f1WYeNHSÎ˜¨š0"
 
 
 
+ EDG_Nestorianism_decisions_1_modifier:0 "SÍ‘SV0W—RYe>y:S"
+ EDG_Nestorianism_decisions_2_modifier:0 "¨c¨RofYeÏuxQûÑ‹"
+ EDG_Nestorianism_decisions_3_modifier:0 "yrYnfN—R’V‚‚†^†^xQ"
+ EDG_Nestorianism_decisions_4_modifier:0 "gr–™ R•QKNT"
+ EDG_Nestorianism_decisions_5_modifier:0 "ÝOkS1W0WáT<yKNï"
+ EDG_Nestorianism_decisions_7_modifier:0 "ofYeFU8	Üu"
+ EDG_Nestorianism_decisions_8_modifier:0 "ªuõV‰kSw"
 
-
-
-
-
-
-
-
-
-
-
-
+ EDG_Nestorianism_decisions_6_tool:0 "£icon_EDG_Nestorianism£ïSåNO(u§YofYeGYÂ‰øvsQ§!„v˜Y…Q¹R0"
+ EDG_Nestorianism_decisions_6_tool_1:0 "£icon_EDG_Nestorianism£±Rðy0úWcw)YýV0M–4NºNô•"
 
 
 

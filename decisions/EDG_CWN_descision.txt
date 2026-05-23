@@ -2038,7 +2038,7 @@ country_decisions = {
 					superregion = india_superregion
 				}
 			}
-			iberia_region = {
+			india_superregion = {
 				country_or_non_sovereign_subject_holds = root
 			}
 		}

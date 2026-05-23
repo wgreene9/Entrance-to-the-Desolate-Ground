@@ -449,7 +449,6 @@ country_decisions = {
 		}
 		allow = {
 			adm_power = 50
-			is_emperor = no
 			OR = {
 				is_emperor = yes
 				has_country_modifier = EDG_EMP_Grant_Mint_Privilege_modifier
