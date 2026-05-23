@@ -27,7 +27,9 @@ EDG_mission_SAX_5_2_flag_trigger_modifier = {#帝国公捐税维护元首卫队
 }
 EDG_mission_SAX_5_3_flag_trigger_modifier = {#永久元帅幕府
 	potential = {
-		has_country_flag = EDG_mission_SAX_5_3_flag
+		or = {
+			complete_mission = EDG_mission_SAX_5_3
+		}
 	}
 	trigger = {
 		OR = {

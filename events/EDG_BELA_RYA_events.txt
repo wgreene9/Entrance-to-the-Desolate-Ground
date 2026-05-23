@@ -16,6 +16,7 @@ country_event = { #空悬的王位
 
 	trigger = {
 		tag = RYA
+		always = no
 	}
 
 	immediate = {
@@ -123,6 +124,7 @@ country_event = { #介入梁赞危机
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	option = { #我们不关心梁赞
@@ -187,6 +189,7 @@ country_event = { #梁赞继承危机
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	option = { #让我们接受特维尔的统治
@@ -541,6 +544,7 @@ country_event = { #费奥多尔改革
 		tag = RYA
 		has_regency = no
 		is_subject = no
+		always = no
 	}
 
 	option = { #向波雅尔承诺，与他们分享利益。
@@ -635,6 +639,7 @@ country_event = { #占领穆罗姆
 				}
 			}
 		}
+		always = no
 	}
 	immediate = {
 		hidden_effect = {
@@ -700,6 +705,7 @@ country_event = { #梁赞占领穆罗姆
 	}
 
 	trigger = {
+		always = no
 	}
 
 	option = { #他们会为此付出代价
@@ -767,6 +773,7 @@ country_event = { #夺取奥卡河
 			owned_by = MOS
 			controlled_by = MOS
 		}
+		always = no
 	}
 
 	option = { #犹豫就会败北，今天是莫斯科，明天就轮到我们！
@@ -803,6 +810,7 @@ country_event = { #梁赞夺取奥卡河
 	}
 
 	trigger = {
+		always = no
 	}
 
 	option = { #他们会为此付出代价
@@ -832,6 +840,7 @@ country_event = { #解决奥卡河叛匪
 		tag = RYA
 		war_with = OKA
 		has_country_modifier = EDG_RYA_events_104_modifier
+		always = no
 	}
 
 	option = { #你们只能成为团结梁赞的牺牲品.
@@ -866,6 +875,7 @@ country_event = { #大公之诺
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -896,6 +906,7 @@ country_event = { #建立大梁赞国
 
 	trigger = {
 		tag = RYA
+		always = no
 	}
 
 	immediate = {
@@ -927,6 +938,7 @@ country_event = { #灾难月度事件
 	hidden = yes
 
 	trigger = {
+		always = no
 	}
 	immediate = {
 		
@@ -1010,6 +1022,7 @@ country_event = { #波雅尔架空王权
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1044,6 +1057,7 @@ country_event = { #波雅尔的权力
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	option = { #君主时代的终结
@@ -1099,6 +1113,7 @@ country_event = { #隐藏事件添加flag
 
 	trigger = {
 		tag = RYA
+		always = no
 	}
 
 	option = { #
@@ -1119,6 +1134,7 @@ country_event = { #处置奥卡领地
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1175,6 +1191,7 @@ country_event = { #君临基辅
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1223,6 +1240,7 @@ country_event = { #基辅罗斯
 
 	trigger = {
 		has_country_modifier = EDG_RYA_kie_1_modifier
+		always = no
 	}
 
 	immediate = {
@@ -1247,6 +1265,7 @@ country_event = { #特维尔波雅尔的去留
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1297,6 +1316,7 @@ country_event = { #弗拉基米尔的遗产
 
 	trigger = {
 		has_country_modifier = EDG_RYA_tve_1_modifier
+		always = no
 	}
 
 	immediate = {
@@ -1323,6 +1343,7 @@ country_event = { #干涉南罗斯战争
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1528,6 +1549,7 @@ country_event = { #加沃：与梁赞的同盟？
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1571,6 +1593,7 @@ country_event = { #与加沃：同盟达成
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1594,6 +1617,7 @@ country_event = { #与加沃：同盟未达成
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1635,6 +1659,7 @@ country_event = { #拉拢梁赞波雅尔
 		not = {
 			is_year = 1475
 		}
+		always = no
 	}
 
 	immediate = {
@@ -1664,6 +1689,7 @@ country_event = { #来自基辅的要求
 	trigger = {
 		tag = RYA
 		has_country_flag = EDG_vol_vassalize_rya_flag
+		always = no
 	}
 
 	immediate = {
@@ -1710,6 +1736,7 @@ country_event = { #加沃：梁赞同意了
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1735,6 +1762,7 @@ country_event = { #加沃：梁赞拒绝
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1766,6 +1794,7 @@ country_event = { #基辅：与梁赞的同盟？
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1793,6 +1822,7 @@ country_event = { #与基辅：同盟达成
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1834,6 +1864,7 @@ country_event = { #基辅市民暴动
 		not = {
 			is_year = 1475
 		}
+		always = no
 	}
 
 	immediate = {
@@ -1861,6 +1892,7 @@ country_event = { #来自大公的请求
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1888,6 +1920,7 @@ country_event = { #大帐：惩戒梁赞
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1933,6 +1966,7 @@ country_event = { #粉碎枷锁
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -1961,6 +1995,7 @@ country_event = { #草原贸易
 	trigger = {
 		mission_completed = EDG_BELA_RYA_A_5_3
 		tag = RYA
+		always = no
 	}
 
 	immediate = {
@@ -2121,9 +2156,9 @@ province_event = { #转文化
 	picture = SEJM_eventPicture
 
 	hidden = yes
-	mean_time_to_happen = {
-		months = 48
-	}
+	#mean_time_to_happen = {
+	#	months = 48
+	#}
 
 	trigger = {
 		owner = {
@@ -2133,6 +2168,7 @@ province_event = { #转文化
 		culture_group = tartar
 		has_owner_accepted_culture = yes
 		not = { unrest = 0 } 
+		always = no
 	}
 
 	immediate = {
@@ -2187,6 +2223,7 @@ province_event = {#城市射击军
 				}
 			}
 		}
+		always = no
 	}
 	immediate = {
 		hidden_effect = {
@@ -2284,6 +2321,7 @@ country_event = { #整编射击军团
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -2328,6 +2366,7 @@ country_event = { #射击军的军饷
 		not = {
 			has_country_modifier = EDG_rya_sjj_jjfy_modifier
 		}
+		always = no
 	}
 
 	immediate = {
@@ -2536,6 +2575,7 @@ country_event = { #臣服或是战争
 	hidden = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -2605,6 +2645,7 @@ country_event = { #反梁赞联合
 		any_country = {
 			has_country_flag = EDG_rya_rus_rival_flag
 		}
+		always = no
 	}
 
 	immediate = {
@@ -2655,6 +2696,7 @@ country_event = { #最伟大的汗？
 	is_triggered_only = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {
@@ -2690,6 +2732,7 @@ country_event = { #臣服于梁赞
 	hidden = yes
 
 	trigger = {
+		always = no
 	}
 
 	immediate = {

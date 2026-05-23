@@ -461,6 +461,12 @@ country_decisions = {
 				years_of_income = 0.20
 			}
 			#is_at_war = no
+			if = {
+				limit = {
+					ai = yes
+				}
+				always = no
+			}
 		}
 		effect = {
 			#add_years_of_income = -0.15
@@ -537,6 +543,12 @@ country_decisions = {
 			else = {
 				adm_power_cost = 20
 			}
+			if = {
+				limit = {
+					ai = yes
+				}
+				always = no
+			}
 		}
 		effect = {
 			#adm_power_cost = 10
@@ -605,6 +617,12 @@ country_decisions = {
 			}
 			else = {
 				dip_power_cost = 20
+			}
+			if = {
+				limit = {
+					ai = yes
+				}
+				always = no
 			}
 		}
 		effect = {
@@ -675,6 +693,12 @@ country_decisions = {
 			else = {
 				mil_power_cost = 20
 			}
+			if = {
+				limit = {
+					ai = yes
+				}
+				always = no
+			}
 		}
 		effect = {
 			#mil_power_cost = 10
@@ -736,6 +760,12 @@ country_decisions = {
 			#is_at_war = no
 			#manpower_percentage = 0.80
 			manpower_percentage = 0.50
+			if = {
+				limit = {
+					ai = yes
+				}
+				always = no
+			}
 		}
 		effect = {
 			#add_manpower = -0.75
@@ -2569,10 +2599,23 @@ country_decisions = {
 					duration = 1095
 				}
 			}
-			POM = {
+			if = {
+				limit = {
+					has_country_flag = EDG_BELA_KSB_colony_reply_decision_hidden_flag
+				}
+				POM = {
+					country_event = {
+						id = EDG_BELA_POM_events.88
+						days = 30
+					}
+				}
+			}
+			else = {
+				POM = {
 				country_event = {
-					id = EDG_BELA_POM_events.79
-					days = 30
+						id = EDG_BELA_POM_events.79
+						days = 30
+					}
 				}
 			}
 		}
@@ -2609,7 +2652,28 @@ country_decisions = {
 			}
 		}
 		ai_will_do = {
-			factor = 100
+			factor = 1
+			modifier = {
+				factor = 0
+				not = {
+					num_of_loans = 1
+				}
+			}
+			modifier = {
+				factor = 0
+				not = {
+					war_exhaustion = 5
+				}
+			}
+			modifier = {
+				factor = 0
+				and = {
+					is_at_war = yes
+					not = {
+						war_score = -25
+					}
+				}
+			}
 		}
 		ai_importance = 100
 	}

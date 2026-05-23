@@ -1,133 +1,0 @@
-﻿l_english:
-
-ability_BAH_mil_mechanic:0 "óØšcäN"
-BAH_infantry_1_button:0 "Nˆ‰wb¿u"
-BAH_infantry_1_button_desc:0 ""
-BAH_cavalry_1_button:0 "áOðN²Q•" 
-BAH_cavalry_1_button_desc:0 ""
-BAH_artillery_1_button:0 "kp›R‹S6R"
-BAH_artillery_1_button_desc:0 ""
-BAH_mil_reform:0 "‹TäNNVg"
-BAH_mil_reform_desc:0 "bìNNÅNÎNirtNVgÖNìNÿmN‰ÎN²‹TNVgÖNìNÿSÖNìNTS³ueQbìN„v›Q‹NLˆ?eSOû|ÿ©‹ÖNìN:NbNb(u0"
-
- ASSIMILATED_CULTURE_HEADER:0 "$TITLE|Y$"
- ASSIMILATED_CULTURE_NO_BENEFIT:0 "TSå‹‡eSÄuàeûNUOžXÊv0"
-BAH_mil_reform_altaic_assimilated:0 "W“^üfkpªgKb"
-BAH_mil_reform_altaic_assimilated_desc:0 "(WVg-NšNIƒŸSTÿW“^üfkpªgKb ReQ†NbìN„v›Q–0©‹LeºN(WbìN„vªgðXMR²˜–b'Tÿ"
-BAH_mil_reform_baltic_assimilated:0 "âlW„vwm8f"
-BAH_mil_reform_baltic_assimilated_desc:0 "egêâlpQ„v®|ß˜ÿegêÄOW¯e„vÛk®vÿ‹NwÙ›N5Í‘'ir„v9‚êS(WâlW„vwmegÞV8nVÿwm¸S¹¿OàVdkú^Ëzw†N¸‹Yôu²bo‚‹Y„vÌRv™=nãS0"
-BAH_mil_reform_british_assimilated:0 "ßu»lwmm"
-BAH_mil_reform_british_assimilated_desc:0 "‚Yœgô‹'YNR ˜	gÀNHNf>f„vyrV„vÝ‹ÿ±¿O=fvQNïSNN„vwm›Q0ÙêS0‚–ÊSvQb=gÜ…+RýV0SvQ9‚êS³ueQwm›QTÿbìNSßu»lwmmÿ"
-BAH_mil_reform_burman_assimilated:0 "8u›Q^"
-BAH_mil_reform_burman_assimilated_desc:0 "8u5ÏeìN«ˆg¸‹ÈuuÂSxuQÕl0ÖNìN„vNNåwÆ‹SùRbìN'Y	gÊvY0"
-BAH_mil_reform_byzantine_assimilated:0 "Wlš„vWµN"
-BAH_mil_reform_byzantine_assimilated_desc:0 "¸‹Yåb	gNTz¦^TÕl'`„výV¶Rýþfêðy:NWlš^ýV0¾–SbìNNýwb:NæSN*N`—VgºNleg:YÖSWlšKNT„výV¶RHNÿ"
-BAH_mil_reform_carpathian_assimilated:0 "ŽUSôT!–Ñž›Q"
-BAH_mil_reform_carpathian_assimilated_desc:0 "ŽUSôT!–„vßu»lw•ENåNegOV8^YÇ–cO›QegÝOkSÖNìN„výV¶R0°s(W±›NcOuQÍN(WdkYÿïS=fNO	gºNQ-pNÖNìN„vg¡R†NÿàVdkbìNïSåNëOÖNìNM–÷N0"
-BAH_mil_reform_caucasian_assimilated:0 "lšFzœKQtY¶–"
-BAH_mil_reform_caucasian_assimilated_desc:0 "Øš R0tºN•gåNegý=flšFzœKQ„vtY¶–bëX„vºN›Regnÿw1S=fø‹‚Ydk‰|„vºNú^Ëz†N·VÌ‘Ï‚9NýV0bìNOçuíuÛb6etY¶–bëXv^¥c³uÖNìN0"
-BAH_mil_reform_gaelic_assimilated:0 "Øš0WºN„vÇRl"
-BAH_mil_reform_gaelic_assimilated_desc:0 "Ù›NegêNR ˜›SSSè„vºNìNåNvQùRYLe„vµb—bNùR8^„v—Qab=g„v—b'`wû•T)YN0°s(W(WbìN„vßu»lNÿïSåNÇ–(uÖNìNÛbìN„v›Q–egO›Q–ôf	g”^›R0"
-BAH_mil_reform_central_indic_assimilated:0 "N—gb"
-BAH_mil_reform_central_indic_assimilated_desc:0 "SmÆR„vN—gŒTi–v`„v)Yl„gb†NpS¦^„v-Nè0W:S0SV0WWW„NÅNŒb0R†NuXR„v¹eÕlÿwN(W±Ì‘ƒîXb•0bìNSŠbÖNìN„våwÆ‹Ð(u0R›Q–-NÿÙ7hbìN1SïSåN(Wgp‚æ‚„v0W:SÝOc›Q–„veˆÙu0"
-BAH_mil_reform_east_asian_assimilated:0 "Q¶R˜RÚP:g„g"
-BAH_mil_reform_east_asian_assimilated_desc:0 "CSŒvt^egQ¶R„v?e»ltõVcVNw-NýVÿbVb	gHe‡s„vßu»lÿÝOœ–TIN„vckßu0‹†6qƒRKNMR*gýwpNckSÿQ¶R˜RÚPSO6R„vN›NbRïSåN«ˆbìNêñT„v?eœ^8T6e0"
-BAH_mil_reform_kongo_group_assimilated:0 "Rœg—RYe‡T"
-BAH_mil_reform_kongo_group_assimilated_desc:0 "YNRœgºNùR—RYeÇ‘ÖS>eûN`¦^ÿSV0W„vßu»lw¶RÏeøvSVPNa:N«ƒgS?Q^ýVN²N!K0"
-BAH_mil_reform_cushitic_assimilated:0 "myøS‹s¦uð„v‹sýV"
-BAH_mil_reform_cushitic_assimilated_desc:0 "àQ*NNªuåNegÿ^—2mKNÒ‰Nôv=fúWcwYe„v!X’W0myøS‹s¦uð„vEe‹NKˆN†N‹sýV(WúWcwYeNLu<w-N„vTÕl'`ÿNdkTöevQýV‹sðXðyvQNˆßuegêŽN1WÏu-N„vNbWè•‹s0bìNïSåN)R(uÙ*NWµNeg¨c^bìN„v^ýVv^.O­dbìN„váOðN0"
-BAH_mil_reform_dravidian_assimilated:0 "WSpS¦^åTN"
-BAH_mil_reform_dravidian_assimilated_desc:0 "WSpS¦^=fºuÇu0™™™eŒTÍs5Rów„vµNNtQúeKN¶R0Ù›NµNN„vbŸRNÅNÅN=f0WtN„vvP6qÿØ=fuµNŒT8fKNô••üuYBg„vQÜuTwû|„vÓuœg0bìNïSåNÎNÙ*NSOû|-NfR0RˆVYïSåNÐ(u(WbìNýV¶R„vN‰0"
-BAH_mil_reform_african_assimilated:0 "¯eæt^Ì‘„v0ÌR"
-BAH_mil_reform_african_assimilated_desc:0 "NísþVºNESOO„v^—2mNwm¸SEQán†N0ÌR0x^NSV0WºNòTÏuú^Ëz†NÿwqSÿ)R(uÙ›NR5„vDnS=fNy˜ŽrUS„vûN¡R0"
-BAH_mil_reform_east_slavic_assimilated:0 "'YÄ‰!jVuQ"
-BAH_mil_reform_east_slavic_assimilated_desc:0 "øvùRvQÖNýV¶RÿN¯eÉb+YºNýwYÛbâbž^'Y„v›Q–0ÖNìNÇ'YÄ‰!jVuQŒTfkÅˆ•^BS6–µueg¾0RÙ*Nîv„v0‹†6qbìNÇ»SÎN*gIN¨RSÕ‹ÇÙÍy?eVrÿFO=fmN¸‹ÙÍy¹eÕlØ=f	gN›NO¹p„v0"
-BAH_mil_reform_eastern_aryan_assimilated:0 "NpS¦^ºuÇuN"
-BAH_mil_reform_eastern_aryan_assimilated_desc:0 "Nøu0Éh±‚ŒT^™eÀoÑS†NNpS¦^0W:S„vÏuNm0ÖNìNùRÙ›NFUÁT„vOVOÙ*N0W:Sb:N°euµNŽb=g„vR°e-NÃVÿwbìNSëkN¹rkŒ0WÇ‘(uÙ›NŽb=g0"
-BAH_mil_reform_evenks_assimilated:0 "án2m‘šuQb=g"
-BAH_mil_reform_evenks_assimilated_desc:0 "W„T„ván2mÁ”‘šÿvQ:V'YKNY(WŽNÖNìNOÀy„vb=g0ÌQŒšŽNLeºN„v:g¨R'`O:NÁkmp'`„vµOüIeûQÐc›O:gO0‹†6qbìNêñT„v‘šuQùRÙ›N¹eÕlv^NL–uÿFO=ffR`NánÏeºN„vNNåwÆ‹SO—VÖNìNwck„vàeïSµb!c0"
-BAH_mil_reform_french_assimilated:1 "ÕlýV«R÷^‡eS"
-BAH_mil_reform_french_assimilated_desc:0 "ÕlýV5Ïe‡eS(WhQNLu«N	gÛvT0ÕlýV„vY²N˜RìNŒT'YOìNnxÝOÖNìNýV¶R„vÍ‘‰0WMO(WýVE–N^:NAm.O0ÖNìN”^å‹:NbìN„výV¶Rg¡R0"
-BAH_mil_reform_germanic_assimilated:0 "·Va×VpS7R:g"
-BAH_mil_reform_germanic_assimilated_desc:0 "ImWRpS7R„vÑSfi—‹T'`0W¨c¨R†NhQt>yO„vÑSUSÿw·Va×VckYŽN²QûQ„v-NÃV0ŒcácúQHrpS7RïSåN.^©RbìNSbìN„v`ó`ŒTtõV.OM^ýV„vÏkN*NÒ‰K„0"
-BAH_mil_reform_great_lakes_group_assimilated:0 "'YVn:SceuQ"
-BAH_mil_reform_great_lakes_group_assimilated_desc:0 "^—2m'YVn:S„vèK„ìN•ENåNeg­‹ÃuNwOÀy„vceuQ0ÇŠbÖNìNTv^eQbìN„v'Y›QÿbìNïSåNôf	gHe‡s0W c:YLeºN„v0ÌR0"
-BAH_mil_reform_hindusthani_assimilated:0 "8làebkƒX„vib.V"
-BAH_mil_reform_hindusthani_assimilated_desc:0 "ck‚Y·VÌ‘Ï‚9NýVKNMR¸‹YO'Y„vHQˆN7hÿbìNSVŸN*NO'Y„vpS¦^^ýV0pS¦^¯efWêS=f*NVËYÿ"
-BAH_mil_reform_iberian_assimilated:0 "OÔk)RšN–klININ"
-BAH_mil_reform_iberian_assimilated_desc:0 "OÔk)RšNºNlåb	gNwib.V„vÄ–ÃVÿv^SÖNìN„vÆ‰¿u>e(W†N¢c0tŒTVg*gåwNLuN0jO:NbìNýV¶RNïSRrR„vNèRÿÖNìNSOVgv^šRES(WbìN`S†˜„v0W:S0"
-BAH_mil_reform_iranian_assimilated:0 "‰¹efRw"
-BAH_mil_reform_iranian_assimilated_desc:0 "Åd•âl¯eí‹„vfRwåNÊSFUºN=fbìNKbNg—V›R„výwã0(W8T³u†NˆVYâl¯e„vfRÆ‹TÿbìNmNïSåN(WêñT„výV¶RùW‰QN›NÙ7h„vfRw0"
-BAH_mil_reform_japanese_g_assimilated:0 "åe,gfkëX"
-BAH_mil_reform_japanese_g_assimilated_desc:0 "åe,gfkëX6–µuàVÖNìN„vÝuùRàVÚ‹åNÊS(Wb:WNR‰kNHS„v¾|^ywû•TÛVwm0KS¡rÖNìN„vRRŒTbìN„vÅˆYÔkøvîTuÜÿbìN„vëXuQÍN6qïSåNfR`NÖNìN„vfkëX¾|^y0"
-BAH_mil_reform_korean_g_assimilated:0 "gœœ‡eºN"
-BAH_mil_reform_korean_g_assimilated_desc:0 "gœœ„v?e»l¯sƒXNôvˆV'Yz¦^×SYÒ‰¦^„vfR=gÂ‰¹pqVÍT0Ù1SŽVŽVObVbN:WEQán‡eS.t‰Q„v©º‹ÿÙ=fbìN”^å‹fR`N„v0Ç‘(uå‹6R¦^ïSåN¨c¨RýV¶RR°eÑSUS0"
-BAH_mil_reform_latin_assimilated:0 "‡ez‚YtQVTIN"
-BAH_mil_reform_latin_assimilated_desc:0 "a'Y)RTSi—°e„v‡eSÎN¡l	gpˆÇÿv^nbVbNÍyfŽN¥c×S°eœœ‹NirŒT`ó`„v°e‡eS0bìN„výV¶R(W|Qv^ÖNìN„vTöeÿmNÅV‰˜ÎNÖNìNNöeñOÛ„v`ó`-NfR`N0"
-BAH_mil_reform_lost_cultures_group_assimilated:0 "1YK„„våwÆ‹"
-BAH_mil_reform_lost_cultures_group_assimilated_desc:0 "±›NNïS`®‹N'Y	geg†S„vºNòT«ˆbýVVg0ÖNìN^yGY„vbeuNb=gÙubìN&^egˆVY=TÑS0"
-BAH_mil_reform_turko_semitic_assimilated:0 "ÎžáQyrÁ”‘š"
-BAH_mil_reform_turko_semitic_assimilated_desc:0 "?–Éb=ONLu.tegåN:VîX„vblšW„ðy0©‹bìN„vëXuQM‘YÙ›N:VeP„vlšÿïSåN©‹bìN„v‘šuQäNLeºNôf Rû•Î˜'NÆw0"
-BAH_mil_reform_maghrebi_assimilated:0 "ôTôTÌ‘wm×v"
-BAH_mil_reform_maghrebi_assimilated_desc:0 "lš<hÌ‘^àQNNÊVìb†NS^—„vwm¸S0ÖNìN(W«R cegêa'Y)RÎW¦„vFU9‚ÙNöN‹NN	g0NÌR„vÏuŒš0bìN”^å‹VìSÖNìN ReQbìN„vwm›Qv^Äuú^N=eÁy c9‚0"
-BAH_mil_reform_malay_assimilated:0 "lšegjŒFU"
-BAH_mil_reform_malay_assimilated_desc:0 "lšegºN	gNw `EN„v8fNN.Oßu0ûNUO^gbŸR„vlšegßu»lwýÅV‰˜brbrŠbác8f?eVrŒTSV0WFUºN„vøvùR:V¦^0ÙÍy0NÌR„vFUNåwÆ‹SùRbìN'Y	gÊvY0"
-BAH_mil_reform_mande_assimilated:0 "O¯epQ„v‰è¹ƒX"
-BAH_mil_reform_mande_assimilated_desc:0 "bìNòTÏuSüf·VºNßuN(WbìN„v×e^KNNÿbìN„v^ýVòTÏuÎN^—2mNôvö^8O0RšN2m0(WbìN„vnfNÏ‚9NýVKNNÿO¯epQSOâVÓuNô0"
-BAH_mil_reform_mon_khmer_assimilated:0 "NWSšNúR™^ú^¾‹"
-BAH_mil_reform_mon_khmer_assimilated_desc:0 "ØšÉhŒTŠWSW0WN„vofÂ‰Ýu'YYpeý=fèT'Y„vúR™^0t’ŽNbìNùRú^¾‹O'YåTz„vtQ±ÿxvzÙ›N‡eS„vú^QrŽb=g¯wšRïSåN6e·ƒˆVYN‰0"
-BAH_mil_reform_pacific_assimilated:0 "*Ys^m4lKb"
-BAH_mil_reform_pacific_assimilated_desc:0 "*Ys^mN„vºN=f)Yu„v4lKbÿïSåN(WòTåwg'Y„vwmmN*‚LˆˆVÜ„vÝ»y0bìN”^å‹Ð(uÖNìNjO:NbìNwm›Q„vN*NÄubèRegÝOkSbìN„vwm¸S0"
-BAH_mil_reform_sahelian_assimilated:0 "™l.o8ngrl"
-BAH_mil_reform_sahelian_assimilated_desc:0 "(„kÒRºN=f’dÈTÉb™l.o„v8ngrlÿÖNìNýwY(W8^ºNàeÕlLˆp„v0WbVNÜLˆ0"
-BAH_mil_reform_scandinavian_assimilated:0 "S'kºN„vÞz‰NNR°e"
-BAH_mil_reform_scandinavian_assimilated_desc:0 "¯e*X„v³uôušN	g `EN„vb‰N.Oßuÿ1uŽNÙ*NŸSàVÿS'k	g'YÏ‘ÏuŒš0NÌR„v›Q˜RÿbìNïSåNÎN-NrlÖSR5„våwÆ‹0"
-BAH_mil_reform_south_slavic_assimilated:0 "¯eÉb+Y!X’W"
-BAH_mil_reform_south_slavic_assimilated_desc:0 "WS¯eÉb+YºNEQSV†N'k2mvQÖNýV¶Rµb¡VYegµOeuw„v!X’W0ÇVgÖNìNÿbìNÁ‹f†NNR!X’Wý=f’V³R„vÿˆVëV'k2mmNOHSgŽNbìN„vßu»l0"
-BAH_mil_reform_southern_african_assimilated:0 "WS^—ÄžÑ‘"
-BAH_mil_reform_southern_african_assimilated_desc:0 "WS^—ÛvµNÄžÑ‘ÿàVdkSV0WºN	gNw^—8^	gHe‡s„v¡‹—r¹eÕlÿåNnxÝOÖNìN„v'¨ÀwNO%`gRNGS0"
-BAH_mil_reform_sudanese_assimilated:0 "Ï‚9NºNFU–ï¿u"
-BAH_mil_reform_sudanese_assimilated_desc:0 "Ï‚9NºNéeòTú^Ëz†N†‰ÖvÖNìNW0WN„vqSi–0W&^„v8fï¿u0YN†NÙ¹pÿÖNìN„v8fŠb^—2m„vWSè0W:SŒTÃWÊS„v0ÌRÓuT†Nweg0"
-BAH_mil_reform_tartar_assimilated:0 "'YIƒŸSšlš"
-BAH_mil_reform_tartar_assimilated_desc:0 "N'k'YIƒŸSùRlš9Segô‹=fNGrOÀy„v>egr:W0Wÿ‘—|—ºNˆV‹Y0W)R(u†NƒR0ÖNìN(W	gHe„v>egr!jVŒTAu²wŽb=gN„v)YK	g©RŽNbìN:N‘šuQìNyrY'YÏ‘„vlš9S0"
-BAH_mil_reform_tibetan_group_assimilated:0 "Ï…Ïeæ‚LˆININ"
-BAH_mil_reform_tibetan_group_assimilated_desc:0 "‰Ï…„vçP±OŠbÖNìN„vu‹TIY.sÙu(WV>ewÈSeÜ„vúR™^Ì‘æ‚Lˆ¥Qó`0bìNOHeÿNÖNìN„vIY.s¾|^y0"
-BAH_mil_reform_finno_ugric_assimilated:0 "¬‚pQ„š²P"
-BAH_mil_reform_finno_ugric_assimilated_desc:0 "çeNLuS¹e«ˆ°Qê–†‰Öv„vg0WNGr«ˆ¸‹YºNðy:NNÛkKN0W„v0W¹e«ˆ¬‚pQ-LNbSºNðy|T:NêñT„v¶RíV0"
-BAH_mil_reform_west_african_assimilated:0 "‰^—ßu»l6–µu"
-BAH_mil_reform_west_african_assimilated_desc:0 "–NwbìN„v^ýVNôvö^8O0R‰^—èK„ÿbìNŠegŠOVŽNeÜ„vSV0Wßu»lw06qwÿ–Nwöeô•„v¨cûyÿbìNck(WfR`NSÙ›N,g0W†˜üRBSTv^0RbìNêñTKN-Nÿbaba0WµOŽ†SV0W„vßu»lv^ÓumgƒRìN„vê»l0"
-BAH_mil_reform_west_slavic_assimilated:0 "¯eÉb+YS›Q"
-BAH_mil_reform_west_slavic_assimilated_desc:0 "‰¯eÉb+YºNàQASt^eg:N›Q–ùW‰Q†N¸‹YÅd•(u^—8^Ä‰b=gN°eVfkhV„vS›Q0çuÖNìN«ˆbìNVgKNTÿbìN”^å‹EQR)R(uÙN¹p0"
-BAH_mil_reform_western_aryan_assimilated:0 "äS	TÉbyrFUºN"
-BAH_mil_reform_western_aryan_assimilated_desc:0 "MOŽNäS	TÉbyr„vFUºNìNvšMpS¦^m„v^–wmßWûRŒbZÖS)R¦m„v:gO0ÖNìNŠb8fÐc¼p:NNè•¾|ÆR„vÑyfRÿSVbìN8T6eÖNìN„v=nãSöeÿÙSùRbìN'Y	g(uY0"
-BAH_mil_reform_southeastasian_group_assimilated:0 "ðlÏeÎW^S"
-BAH_mil_reform_southeastasian_group_assimilated_desc:0 "(WðlÏeºN-NnfMXR(W„v0üf|ƒW0?e»l!jVSßu»lwŒTÖN„vÎW^SVjONLu„v-NÃV0ùR–™ýÍ‘‰'`„v:VÈpsQèlüRôðlÏeºNú^Ëz†NýwY=ecpeŒvNESl„v'YÎW^0àV:NbìNêñTmNµc6RNwàQµ^'YÎW^ÿðlÏeºNùRÎW^ÑSUS„v¾|SùRbìN'Y	gÊvY0"
-BAH_mil_reform_thai_group_assimilated:0 "íp&^ú^Qr"
-BAH_mil_reform_thai_group_assimilated_desc:0 "pS¦^=e±=fN*N%Nw‘NxQ‹Wíp&^„v0W:SÿFOðlÏeºNtS¾‹Õl(W±Ì‘ú^.†NRO„vú^Qr0°s(WÙ›Nú^Qr)YMb:NbìNg¡Rÿ©‹bìNýwYôf	gHe0Wú^.bìN„vú^Qr0"
-BAH_mil_reform_kamchatkan_g_assimilated:0 "‰=O)RšNsºN"
-BAH_mil_reform_kamchatkan_g_assimilated_desc:0 "*XßR RºNˆVePîXÿåwS‚YUO(WN‰=O)RšN„vÒR·Q¯sƒX-NuXR0ÖNìNmN=fØšHe„vsºNÿïSåNûQPûNUOa0ˆ0RµOeQÖNìN†˜W„vºN0(WÖNìN„v.^©RNÿ¡l	geQµOwO(WbìN„v‹sýVƒX…Qx^MQ0"
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

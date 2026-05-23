@@ -1088,7 +1088,7 @@ country_event = {
 			NOT = {
 				has_province_modifier = EDG_CWN_big_modifier
 			}
-		}		
+		}
 		OR = {
 			check_variable = {
 				EDG_CWN_world_var = 5
@@ -1206,8 +1206,11 @@ country_event = {
 			check_variable = {
 				EDG_CWN_world_var = 5
 			}
-			PAP = {
-				is_subject_of = root
+			AND = {
+				tag = CWN
+				PAP = {
+					is_subject_of = root
+				}
 			}
 		}
 	}

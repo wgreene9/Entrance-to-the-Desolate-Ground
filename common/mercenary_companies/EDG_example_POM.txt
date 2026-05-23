@@ -9,7 +9,7 @@ merc__EDG_BELA_KSB_streltsy = {
 	cost_modifier = 1.5
 	min_size = 8
 	max_size = 20
-	manpower_pool = 10
+	manpower_pool = 15
 	trigger = {
 		or = {
 			has_unlocked_merc_company = {
@@ -34,8 +34,9 @@ merc__EDG_BELA_KSB_streltsy = {
 		discipline = 0.10
 		morale_damage = 0.15
 		military_tactics = 1.00
-		reinforce_speed = -0.15
-		land_maintenance_modifier = 0.50
+		reinforce_speed = -0.10
+		land_maintenance_modifier = 0.25
+		#cost_modifier = -0.10
 	}
 	# No home province means local mercenary company
 }
@@ -46,10 +47,10 @@ merc__EDG_BELA_KSB_guards_corps = {
 	cavalry_weight = 0.1
 	artillery_weight = 0.4
 	#cavalry_cap = 0
-	cost_modifier = 1.0
+	cost_modifier = 1.25
 	min_size = 20
 	max_size = 80
-	manpower_pool = 10
+	manpower_pool = 15
 	trigger = {
 		has_unlocked_merc_company = {
 			merc_company = merc__EDG_BELA_KSB_guards_corps
@@ -64,20 +65,20 @@ merc__EDG_BELA_KSB_guards_corps = {
 		#}
 	}
 	modifier = {
-		morale_damage_received = -0.25
-		shock_damage_received = -0.50
-		fire_damage_received = -0.50
-		shock_damage = 0.50
-		fire_damage = 0.50
+		morale_damage_received = -0.33
+		shock_damage_received = -0.33
+		fire_damage_received = -0.33
+		shock_damage = 0.25
+		fire_damage = 0.33
 		cavalry_flanking = 2.00
 		discipline = 0.25
-		morale_damage = 0.25
-		military_tactics = 0.25
-		reinforce_speed = -0.25
+		morale_damage = 0.50
+		military_tactics = 0.50
+		reinforce_speed = -0.15
 		movement_speed = 1.00
 		can_bypass_forts = yes
 		#reinforce_cost_modifier = 2.5
-		land_maintenance_modifier = 3.00
+		land_maintenance_modifier = 0.50
 	}
 	# No home province means local mercenary company
 }

@@ -6706,6 +6706,28 @@ country_event = { #来自[from]的支持
 			factor = 10
 		}
 	}
+	option = { #
+		name = EDG_BELA_POM_events.79B
+		add_adm_power = 50
+		add_dip_power = 50
+		add_mil_power = 50
+		add_government_power = {
+			mechanic_type = EDG_KSB_national_self_confidence_mechanic
+			power_type = EDG_KSB_national_self_confidence_power
+			value = 3
+		}
+		add_government_power = {
+			mechanic_type = EDG_KSB_national_pride_mechanic
+			power_type = EDG_KSB_national_pride_power
+			value = 1
+		}
+		from = {
+			set_country_flag = EDG_BELA_KSB_colony_reply_decision_hidden_flag
+		}
+		ai_chance = {
+			factor = 10
+		}
+	}
 	after = {
 	}
 }
@@ -7195,6 +7217,39 @@ country_event = { #波美拉尼亚民族
 		add_country_modifier = {
 			name = EDG_BELA_POM_events_87_modifier
 			duration = -1
+		}
+	}
+	after = {
+	}
+}
+country_event = { #来自[from]的支持
+	id = EDG_BELA_POM_events.88
+	title = EDG_BELA_POM_events.88.t
+	desc = EDG_BELA_POM_events.88.d
+	picture = SEJM_eventPicture
+	is_triggered_only = yes
+	hidden = yes
+
+	immediate = {
+	}
+
+	option = { #
+		name = EDG_BELA_POM_events.88A
+		add_adm_power = 50
+		add_dip_power = 50
+		add_mil_power = 50
+		add_government_power = {
+			mechanic_type = EDG_KSB_national_self_confidence_mechanic
+			power_type = EDG_KSB_national_self_confidence_power
+			value = 3
+		}
+		add_government_power = {
+			mechanic_type = EDG_KSB_national_pride_mechanic
+			power_type = EDG_KSB_national_pride_power
+			value = 1
+		}
+		ai_chance = {
+			factor = 10
 		}
 	}
 	after = {

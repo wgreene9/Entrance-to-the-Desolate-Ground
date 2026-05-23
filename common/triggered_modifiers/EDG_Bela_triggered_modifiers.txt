@@ -290,6 +290,16 @@ EDG_estate_slavic_brothers_trigger_modifier_czech = {
 	advisor_cost = -0.15
 	num_accepted_cultures = 1
 }
+EDG_estate_slavic_brothers_trigger_modifier_moravia = {
+	potential = {
+		has_estate_privilege = estate_EDG_slavic_brothers_privilege
+	}
+	trigger = {
+		accepted_culture = EDG_Moravia_culture
+	}
+	all_power_cost = -0.05
+	num_accepted_cultures = 1
+}
 EDG_estate_slavic_brothers_trigger_modifier_polish = {
 	potential = {
 		has_estate_privilege = estate_EDG_slavic_brothers_privilege

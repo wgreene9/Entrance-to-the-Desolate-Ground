@@ -6,6 +6,7 @@ EDG_ers_heir = {#无能之主
 		uses_doom = no
 		normal_or_historical_nations = yes
 		is_revolutionary = no
+		always = no
 	}
 	
 	

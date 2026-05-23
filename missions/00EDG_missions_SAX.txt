@@ -2625,6 +2625,7 @@ EDG_mission_SAX_5 = {
 			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_mission_SAX_4_2_flag_TT
 			set_country_flag = EDG_mission_SAX_4_2_flag
+			set_country_flag = EDG_mission_SAX_5_3_flag
 			tooltip = {
 				add_country_modifier = {
 					name = EDG_mission_SAX_5_3_flag_modifier

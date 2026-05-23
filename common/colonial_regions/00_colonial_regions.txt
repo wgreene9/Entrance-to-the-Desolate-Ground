@@ -60,6 +60,13 @@ colonial_alaska = {
 		}
 		name = "COLONIAL_ALASKA_hellas"
 	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_COLONIAL_ALASKA_Alyeska"
+	}
 
 	# Generic
 	names = {
@@ -272,6 +279,13 @@ colonial_canada = {
 		}
 		name = "COLONIAL_CANADA_hellas"
 	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_COLONIAL_CANADA_Now_Kashubia"
+	}
 
 
 	# Generic
@@ -428,6 +442,13 @@ colonial_eastern_america = {
 		}
 		name = "COLONIAL_EASTERN_AMERICA_hellas"
 	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_COLONIAL_EASTERN_AMERICA_Now_Pomoria"
+	}
 
 
 	# Generic
@@ -563,6 +584,13 @@ colonial_louisiana = {
 			}
 		}
 		name = "COLONIAL_LOUISIANA_hellas"
+	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_COLONIAL_LOUISIANA_Visabia"
 	}
 
 
@@ -741,6 +769,13 @@ colonial_california = {
 		}
 		name = "COLONIAL_CALIFORNIA_hellas"
 	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_COLONIAL_CALIFORNIA_Vastoknia"
+	}
 
 	# Generic
 	names = {
@@ -826,6 +861,13 @@ colonial_mexico = {
 			}
 		}
 		name = "COLONIAL_MEXICO_hellas"
+	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_COLONIAL_MEXICO_Glasorvsk"
 	}
 
 	# Generic
@@ -977,6 +1019,13 @@ colonial_the_carribean = {
 		}
 		name = "COLONIAL_THE_CARRIBEAN_hellas"
 	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_COLONIAL_CARRIBEAN_Kaniporia"
+	}
 	# Generic
 	names = {
 		name = "COLONIAL_THE_CARRIBEAN_Root_Culture_GetName_West_Indies"
@@ -1055,6 +1104,13 @@ colonial_colombia = {
 		}
 		name = "COLONIAL_COLOMBIA_hellas"
 	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_COLOMBIA_Now_Mikalianbog"
+	}
 
 	# Generic
 	names = {
@@ -1103,12 +1159,13 @@ colonial_peru = {
 		2944 2945 #Amazon
 	}
 
-#	# Specific
-#	names = {
-#		trigger = {
-#		}
-#		name = ""
-#	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_PERU_Boguswavsk"
+	}
 
 	names = {
 		trigger = {
@@ -1218,6 +1275,13 @@ colonial_la_plata = {
 			}
 		}
 		name = "COLONIAL_LA_PLATA_hellas"
+	}
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_LA_PLATA_Kranya"
 	}
 	# Generic
 	names = {
@@ -1340,6 +1404,14 @@ colonial_brazil = {
 		name = "COLONIAL_BRAZIL_hellas"
 	}
 
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_BRAZIL_Krasnodalya"
+	}
+
 	# Generic
 	names = {
 		name = "COLONIAL_BRAZIL_Root_Culture_GetName_Brazil"
@@ -1434,6 +1506,14 @@ colonial_australia = {
 			}
 		}
 		name = "COLONIAL_AUSTRALIA_hellas"
+	}
+
+	#EDG_KSB_specific
+	names = {
+		trigger = {
+			primary_culture = EDG_BELA_kashubia
+		}
+		name = "EDG_KSB_AUSTRALIA_Auftralya"
 	}
 	# Generic
 	names = {
