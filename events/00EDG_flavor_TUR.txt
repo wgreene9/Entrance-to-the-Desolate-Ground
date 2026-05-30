@@ -1258,6 +1258,7 @@ country_event = {#处死法雷克·易卜拉欣
     }
     custom_tooltip = EDG_flavor_TUR_Sulaiman_succession_tt
     custom_tooltip = EDG_flavor_TUR_37_b_tt
+    set_country_flag = EDG_flavor_TUR_musitafa_is_safe_flag
     hidden_effect = { country_event = { id = EDG_flavor_TUR.45 days = 30 } }
   }
 }
@@ -1319,6 +1320,7 @@ country_event = {#穆斯塔法皇子的命运
     custom_tooltip = EDG_flavor_TUR_37_b_tt
     add_stability = -1
     set_country_flag = EDG_flavor_TUR_43_c_flag
+    set_country_flag = EDG_flavor_TUR_musitafa_is_safe_flag
     hidden_effect = { country_event = { id = EDG_flavor_TUR.45 days = 30 } }
   }
 }
@@ -1398,6 +1400,8 @@ country_event = {#穆斯塔法皇子叛乱
   trigger = {
     has_ruler_flag = EDG_flavor_TUR_Sulaiman_succession_ruler_flag
     not = { has_country_flag = EDG_flavor_TUR_43_c_flag }
+    not = { has_country_flag = EDG_flavor_TUR_musitafa_is_safe_flag }
+    not = { has_country_flag = edg_tur_musitada_is_dead_flag }
   }
   option = {#他怎敢反抗他的父亲？
     name = "EDG_flavor_TUR.47.a"
@@ -1439,6 +1443,7 @@ country_event = {#穆斯塔法皇子叛乱
       factor = 10
     }
     EDG_flavor_TUR_47_a_name_effect = yes
+    set_country_flag = EDG_flavor_TUR_musitafa_is_safe_flag
   }
   option = {#父亲，我将继承你的王位！
     name = "EDG_flavor_TUR.47.c"
@@ -1459,6 +1464,7 @@ country_event = {#猜疑成真
   trigger = {
     has_ruler_flag = EDG_flavor_TUR_Sulaiman_succession_ruler_flag
     has_heir_flag = EDG_TUR_musitafa_heir_flag
+    not = { has_country_flag = EDG_flavor_TUR_43_c_flag }
   }
   option = {#你在做什么，我的孩子？！
     name = "EDG_flavor_TUR.48.a"
@@ -2328,6 +2334,7 @@ country_event = {#穆斯塔法之死
       kill_heir = {}
     }
     EDG_flavor_TUR_43_A_effect = yes
+    set_consort_flag = edg_tur_musitada_is_dead_flag
     hidden_effect = {
       country_event = { id = EDG_flavor_TUR.55 days = 44 }
       country_event = { id = EDG_flavor_TUR.56 days = 100 }
