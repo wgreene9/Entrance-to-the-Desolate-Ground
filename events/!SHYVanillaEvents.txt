@@ -4,7 +4,7 @@ province_event = {
 	desc = "EVTDESC757"
 	picture = ANGRY_MOB_eventPicture
 	goto = root
-	
+
 	trigger = {
 		owner = { NOT = { num_of_rebel_controlled_provinces = 3 } }
 		owner = { overextension_percentage = 1.01 }
@@ -18,7 +18,7 @@ province_event = {
 		modifier = {
 			factor = 5.0
 			owner = { luck = yes }
-		}		
+		}
 		modifier = {
 			factor = 2.0
 			owner = {
@@ -75,6 +75,8 @@ province_event = {
 		trigger = {
 			owner = {
 				has_country_modifier = EDG_SHY_great_expedition
+				mission_completed = EDG_FDM_mission_3_29
+				has_disaster = EDG_FDM_path_of_rebirth_disaster
 			}
 		}
 		highlight = yes

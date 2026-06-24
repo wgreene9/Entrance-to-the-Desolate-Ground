@@ -67,3 +67,32 @@ music = {
 	name = "Powerwolf_2"
 	file = "Powerwolf_2.ogg"
 }
+
+
+
+
+
+music = {
+	name = "Gate_Of_Arabia"
+	file = "Gate_Of_Arabia.ogg"
+}
+music = {
+	name = "Istanbul"
+	file = "Istanbul.ogg"
+}
+music = {
+	name = "Palm_Tree_Oasis"
+	file = "Palm_Tree_Oasis.ogg"
+}
+music = {
+	name = "Queen_Zenobia"
+	file = "Queen_Zenobia.ogg"
+}
+music = {
+	name = "Saladin"
+	file = "Saladin.ogg"
+}
+music = {
+	name = "The_Sultans_Throne"
+	file = "The_Sultans_Throne.ogg"
+}

@@ -19,6 +19,7 @@ country_decisions = {
 			}
 		}
 		potential = {
+			ai = yes
             event_target:EDG_shiite_Caliph_target = {
                 exists = yes
             }

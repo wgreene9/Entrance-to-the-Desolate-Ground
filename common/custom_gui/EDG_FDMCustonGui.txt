@@ -1,0 +1,81 @@
+custom_button = {
+	name = EDG_FDM_GUI_military_control_button
+	tooltip = EDG_FDM_GUI_military_control_button_tt
+	potential = {
+		FROM = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_4_19
+		}
+		owned_by = FROM
+	}
+	trigger = {
+		ROOT = {
+			has_port = yes
+		}
+		FROM = {
+			mil_power = 50
+		}
+		ROOT = {
+			num_of_units_in_province = {
+				amount = 1
+				who = FROM
+			}
+		}
+		ROOT = {
+			trade_share = {
+				country = FROM
+				share = 10
+			}
+		}
+		ROOT = {
+			NOT = {
+				trade_share = {
+					country = FROM
+					share = 99
+				}
+			}
+		}
+	}
+	effect = {
+		FROM = {
+			add_mil_power = -50
+		}
+		custom_tooltip = EDG_FDM_GUI_military_control_button_tt_effect
+		hidden_effect = {
+			every_country = {
+				limit = {
+					NOT = {
+						tag = FROM
+					}
+					ROOT = {
+						trade_share = {
+							country = PREV
+							share = 0.1
+						}
+					}
+				}
+				ROOT = {
+					add_casus_belli = {
+						type = cb_trade_conflict_triggered
+						target = FROM
+						months = 120
+					}
+					add_opinion = {
+						who = FROM
+						modifier = opinion_displeased
+					}
+					reverse_add_opinion = {
+						who = FROM
+						modifier = opinion_displeased
+					}
+					add_trade_modifier = {
+						who = PREV
+						duration = 3650
+						power = -1000
+						key = EDG_FDM_GUI_military_control_button_tt
+					}
+				}
+			}
+		}
+	}
+}

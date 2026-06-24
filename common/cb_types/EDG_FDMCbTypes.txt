@@ -1,0 +1,22 @@
+EDG_FDM_imam_jihad_cb = {
+	valid_for_subject = yes
+	prerequisites_self = {
+		is_revolutionary = no
+		mission_completed = EDG_FDM_mission_3_8
+	}
+	prerequisites = {
+		FROM = {
+			any_neighbor_country = {
+				OR = {
+					tag = ROOT
+					is_subject_of = ROOT
+				}
+			}
+			NOT = {
+				religion = ROOT
+			}
+		}
+	}
+	holy_war = yes
+	war_goal = EDG_FDM_imam_jihad_war_goal
+}

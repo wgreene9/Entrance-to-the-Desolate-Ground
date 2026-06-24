@@ -1,0 +1,975 @@
+namespace = EDG_SICDisasterEvents
+
+country_event = {#背景事件，西西里晚祷
+	id = EDG_SICDisasterEvents.1
+	title = EDG_SICDisasterEvents.1.name
+	desc = EDG_SICDisasterEvents.1.desc
+	picture = ANGRY_MOB_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.1.aa
+		ai_chance = { factor = 100 }
+		country_event = { id = EDG_SICDisasterEvents.2 }
+		2982 = {
+			center_of_trade = 2
+			add_base_production = 2
+		}
+	}
+}
+
+country_event = {#背景事件，叙拉古的孑遗
+	id = EDG_SICDisasterEvents.2
+	title = EDG_SICDisasterEvents.2.name
+	desc = EDG_SICDisasterEvents.2.desc
+	picture = STREET_SPEECH_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.2.aa
+		ai_chance = { factor = 100 }
+		country_event = { id = EDG_SICDisasterEvents.3 }
+		GEN = {
+			add_opinion = {
+    			who = SIC
+    			modifier = EDG_SIC_Andreas_Legacy_opinion
+			}
+			add_historical_rival = SIC
+		}
+		SIC = {
+			add_opinion = {
+    			who = GEN
+    			modifier = EDG_SIC_Trinacria_Coveter_opinion
+			}
+			add_historical_rival = GEN
+		}
+	}
+}
+
+country_event = {#背景事件，背信弃义
+	id = EDG_SICDisasterEvents.3
+	title = EDG_SICDisasterEvents.3.name
+	desc = EDG_SICDisasterEvents.3.desc
+	picture = ACCUSATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.3.aa
+		ai_chance = { factor = 100 }
+		country_event = { id = EDG_SICDisasterEvents.4 }
+		add_opinion = {
+    		who = MOE
+    		modifier = EDG_SIC_rebel_against_BYZ_opinion
+		}
+		MOE = {
+			add_opinion = {
+    			who = SIC
+    			modifier = EDG_SIC_supported_MOE_opinion
+			}
+		}
+		VEN = {
+			add_opinion = {
+    			who = SIC
+    			modifier = EDG_SIC_Angelos_Betrayal_opinion
+			}
+		}
+		add_country_modifier = {
+			name = EDG_SIC_Reforms_of_Issac
+			duration = 9125
+		}
+	}
+}
+
+country_event = {#背景事件，山雨欲来
+	id = EDG_SICDisasterEvents.4
+	title = EDG_SICDisasterEvents.4.name
+	desc = EDG_SICDisasterEvents.4.desc
+	picture = ASSASSINATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.4.aa
+		ai_chance = { factor = 100 }
+		add_country_modifier = {
+			name = EDG_SIC_Inner_Troubles
+			duration = -1
+		}
+		define_advisor = {
+			type = diplomat
+			skill = 2
+			cost_multiplier = 0.33
+		}	
+	}
+}
+
+country_event = {#西西里游玩事项
+	id = EDG_SICDisasterEvents.5
+	title = EDG_SICDisasterEvents.5.name
+	desc = EDG_SICDisasterEvents.5.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = no
+	option = {
+		name = EDG_SICDisasterEvents.5.aa
+		ai_chance = { factor = 100 }
+	}
+}
+
+country_event = {#孤星
+	id = EDG_SICDisasterEvents.6
+	title = EDG_SICDisasterEvents.6.name
+	desc = EDG_SICDisasterEvents.6.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.6.aa
+		ai_chance = { factor = 100 }
+		country_event = { id = EDG_SICDisasterEvents.7 }
+	}
+}
+
+country_event = {#马耳他的黑鹰
+	id = EDG_SICDisasterEvents.7
+	title = EDG_SICDisasterEvents.7.name
+	desc = EDG_SICDisasterEvents.7.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.7.aa
+		ai_chance = { factor = 100 }
+	}
+}
+
+country_event = {#密信
+	id = EDG_SICDisasterEvents.8
+	title = EDG_SICDisasterEvents.8.name
+	desc = EDG_SICDisasterEvents.8.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.8.aa
+		ai_chance = { factor = 100 }
+		set_country_flag = EDG_SIC_Fatimid_support_sicily_flag
+		SIC = {
+			define_advisor = {
+				type = army_reformer 
+				skill = 2
+				religion = shiite
+				culture = berber
+				cost_multiplier = 0.25
+			}
+			create_alliance = FDM
+			add_opinion = {
+    			who = FDM
+    			modifier = EDG_SIC_supported_sicily_opinion
+			}
+		}
+		transfer_trade_power = SIC
+		add_opinion = {
+    		who = SIC
+    		modifier = EDG_SIC_Fatimid_made_a_deal_opinion
+		}
+		hidden_effect = {
+			add_trust = {
+				who = SIC
+				value = 10
+				mutual = yes
+			}
+			remove_rival = SIC
+			SIC = {
+				remove_rival = FDM
+				set_ai_attitude = {
+					attitude = attitude_friendly
+					who = FDM
+				}
+				add_historical_friend = FDM
+			}
+			set_ai_attitude = {
+				attitude = attitude_friendly
+				who = SIC
+			}
+		}
+	}
+	option = {
+		name = EDG_SICDisasterEvents.8.bb
+		ai_chance = { factor = 0 }
+	}
+}
+
+country_event = {#与恶魔缔约
+	id = EDG_SICDisasterEvents.9
+	title = EDG_SICDisasterEvents.9.name
+	desc = EDG_SICDisasterEvents.9.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.9.aa
+		ai_chance = { factor = 100 }
+		FDM = {
+			country_event = {
+				id = EDG_SICDisasterEvents.8
+				days = 3
+			}
+		}
+	}
+}
+
+country_event = {#要求西西里兑现承诺
+	id = EDG_SICDisasterEvents.10
+	title = EDG_SICDisasterEvents.10.name
+	desc = EDG_SICDisasterEvents.10.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.10.aa
+		ai_chance = { factor = 100 }
+		add_prestige_or_monarch_power = 5
+		SIC = {
+			country_event = {
+				id = EDG_SICDisasterEvents.11
+				days = 3
+			}
+		}
+	}
+}
+
+country_event = {#法蒂玛人要求内附
+	id = EDG_SICDisasterEvents.11
+	title = EDG_SICDisasterEvents.11.name
+	desc = EDG_SICDisasterEvents.11.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.11.aa
+		ai_chance = { factor = 100 }
+		FDM = {
+			create_subject = { 
+				subject_type = march 
+				subject = ROOT
+			}
+			country_event = {
+				id = EDG_SICDisasterEvents.13
+			}
+		}
+	}
+	option = {
+		name = EDG_SICDisasterEvents.11.bb
+		ai_chance = { factor = 0 }
+		highlight = yes
+		add_historical_rival = FDM
+		FDM = {
+			country_event = {
+				id = EDG_SICDisasterEvents.12
+			}
+			add_historical_rival = SIC
+		}
+	}
+}
+
+country_event = {#希腊的孽种选择毁约！
+	id = EDG_SICDisasterEvents.12
+	title = EDG_SICDisasterEvents.12.name
+	desc = EDG_SICDisasterEvents.12.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.12.aa
+		ai_chance = { factor = 100 }
+		add_opinion = {
+    		who = SIC
+    		modifier = EDG_SIC_betrayed_Fatimid_opinion
+		}
+		custom_tooltip = EDG_SPACE_TT
+		add_casus_belli = {
+    		target = SIC
+    		type = cb_annex
+    		month = 60
+		}
+	}
+}
+
+country_event = {#西西里的归附
+	id = EDG_SICDisasterEvents.13
+	title = EDG_SICDisasterEvents.13.name
+	desc = EDG_SICDisasterEvents.13.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.13.aa
+		ai_chance = { factor = 100 }
+		SIC = {
+			override_country_name = EDG_SIC_Italia_name
+			add_liberty_desire = -100
+			add_historical_firend = FDM
+			remove_opinion = {
+				who = FDM
+				modifier = aggressive_expansion
+			}
+			change_primary_culture = EDG_FDM_italian_culture
+			set_ruler_culture = EDG_FDM_italian_culture
+			change_religion = shiite
+			set_ruler_religion = shiite
+			set_religious_school = {
+				group = muslim
+				school = ismaili_school
+			}
+			change_government = monarchy
+			change_government_reform_progress = 250
+			add_government_reform = iqta
+			if = {
+				limit = {
+					NOT = {
+						government_rank = 2
+					}
+				}
+				set_government_rank = 2
+			}
+			add_country_modifier = {
+				name = EDG_SIC_loyal_Sicily_modifier
+				duration = -1
+			}
+		}
+		add_historical_firend = SIC
+		custom_tooltip = EDG_SPACE_TT
+		add_country_modifier = {
+			name = EDG_SIC_Fatimid_integrate_sicily_modifier
+			duration = 9125
+		}
+		add_years_of_income = 1
+		add_yearly_manpower = 1
+		custom_tooltip = EDG_SPACE_TT
+		add_power_projection = {
+			type = EDG_SIC_Unify_Sicily
+			amount = 10
+		}
+		custom_tooltip = EDG_GRE_permanent_powerprojection_tt
+	}
+}
+
+country_event = {#求援
+	id = EDG_SICDisasterEvents.14
+	title = EDG_SICDisasterEvents.14.name
+	desc = EDG_SICDisasterEvents.14.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.14.aa
+		ai_chance = { factor = 100 }
+		join_all_defensive_wars_of = SIC
+		custom_tooltip = EDG_SPACE_TT
+		add_country_modifier = {
+			name = EDG_SIC_intervene_sicily_civil_war_modifier
+			duration = 3650
+		}
+		SIC = {
+			country_event = {
+				id = EDG_SICDisasterEvents.15
+			}
+		}
+	}
+	option = {
+		name = EDG_SICDisasterEvents.14.bb
+		ai_chance = { factor = 100 }
+		white_peace = APU
+		clr_country_flag = EDG_SIC_Fatimid_support_sicily_flag
+		add_prestige = -5
+		SIC = {
+			country_event = {
+				id = EDG_SICDisasterEvents.63
+			}
+		}
+		break_alliance = SIC
+	}
+}
+
+country_event = {#驰援
+	id = EDG_SICDisasterEvents.15
+	title = EDG_SICDisasterEvents.15.name
+	desc = EDG_SICDisasterEvents.15.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.15.aa
+		ai_chance = { factor = 100 }
+		add_country_modifier = {
+			name = EDG_SIC_Fatimid_Support_modifier
+			duration = 1825
+		}
+		add_yearly_manpower = 1
+	}
+}
+
+country_event = {#大捷（西西里赢
+	id = EDG_SICDisasterEvents.16
+	title = EDG_SICDisasterEvents.16.name
+	desc = EDG_SICDisasterEvents.16.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.16.aa
+		ai_chance = { factor = 100 }
+		APU = {
+			kill_ruler = yes
+		}
+		custom_tooltip = EDG_SPACE_TT
+		inherit = APU
+		inherit = BEV
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_SIC_Complete_obj_humiliate_rival_tt
+		set_country_flag = humiliated_rival
+		set_country_flag = EDG_SIC_Kiled_APU_flag
+	}
+}
+
+country_event = {#败北
+	id = EDG_SICDisasterEvents.17
+	title = EDG_SICDisasterEvents.17.name
+	desc = EDG_SICDisasterEvents.17.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.17.aa
+		ai_chance = { factor = 100 }
+		add_prestige = -25
+		custom_tooltip = EDG_SPACE_TT
+		set_country_flag = EDG_SIC_Fatimid_support_sicily_flag
+		custom_tooltip = EDG_SICDisasterEvents.17.aa.tt
+	}
+}
+
+country_event = {#大捷（阿普利亚赢
+	id = EDG_SICDisasterEvents.18
+	title = EDG_SICDisasterEvents.18.name
+	desc = EDG_SICDisasterEvents.18.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.18.aa
+		ai_chance = { factor = 100 }
+		white_peace = SIC
+		inherit = SIC
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_SIC_Complete_obj_humiliate_rival_tt
+		set_country_flag = humiliated_rival
+		custom_tooltip = EDG_SPACE_TT
+		if = {
+			limit = {
+				NOT = {
+					government_rank = 2
+				}
+			}
+			set_government_rank = 2
+		}
+		custom_tooltip = EDG_SPACE_TT
+		if = {
+			limit = {
+				FDM = {
+					has_country_flag = EDG_SIC_Fatimid_support_sicily_flag
+				}
+			}
+			FDM = {
+				country_event = {
+					id = EDG_SICDisasterEvents.17
+				}
+			}
+		}
+	}
+}
+
+country_event = {#旧日之冠
+	id = EDG_SICDisasterEvents.24
+	title = EDG_SICDisasterEvents.24.name
+	desc = EDG_SICDisasterEvents.24.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.24.aa
+		ai_chance = { factor = 100 }
+		declare_war_with_cb = {
+			who = SIC
+			casus_belli = cb_EDG_WG_APU_Crusade_against_SIC
+		}
+		BEV = {
+			country_event = {
+				id = EDG_SICDisasterEvents.26
+			}
+		}
+		CBI = {
+			country_event = {
+				id = EDG_SICDisasterEvents.26
+			}
+		}
+		PUA = {
+			country_event = {
+				id = EDG_SICDisasterEvents.26
+			}
+		}
+	}
+	option = {
+		name = EDG_SICDisasterEvents.24.bb
+		ai_chance = { factor = 0 }
+		add_prestige_or_monarch_power = 5
+		add_casus_belli = {
+    		target = SIC
+    		type = cb_annex
+    		month = 60
+		}
+	}
+}
+
+country_event = {#南征
+	id = EDG_SICDisasterEvents.26
+	title = EDG_SICDisasterEvents.26.name
+	desc = EDG_SICDisasterEvents.26.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.26.aa
+		ai_chance = { factor = 100 }
+		join_all_offensive_wars_of = APU
+	}
+	option = {
+		name = EDG_SICDisasterEvents.26.bb
+		ai_chance = { factor = 0 }
+		add_prestige_or_monarch_power = 5
+	}
+}
+
+country_event = {#溃于蚁穴
+	id = EDG_SICDisasterEvents.28
+	title = EDG_SICDisasterEvents.28.name
+	desc = EDG_SICDisasterEvents.28.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.28.aa
+		ai_chance = { factor = 100 }
+		custom_tooltip = unlcok_EDG_SIC_decision_ambush_capua_tt
+		set_country_flag = unlcok_EDG_SIC_decision_ambush_capua_flag
+		custom_tooltip = EDG_SPACE_TT
+		add_spy_network_in = {
+			who = PUA
+			value = 30
+		}
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_SIC_share_with_Fatimid_tt
+		hidden_effect = {
+			if = {
+				limit = {
+					FDM = {
+						has_country_flag = EDG_SIC_Fatimid_support_sicily_flag
+					}
+				}
+				FDM = {
+					set_country_flag = unlcok_EDG_SIC_decision_ambush_capua_flag
+				}
+			}
+		}
+	}
+}
+
+country_event = {#狭路相逢——
+	id = EDG_SICDisasterEvents.29
+	title = EDG_SICDisasterEvents.29.name
+	desc = EDG_SICDisasterEvents.29.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.29.aa
+		ai_chance = { factor = 100 }
+		custom_tooltip = unlcok_EDG_SIC_decision_ambush_calabria_tt
+		set_country_flag = unlcok_EDG_SIC_decision_ambush_calabria_flag
+		custom_tooltip = EDG_SPACE_TT
+		add_spy_network_in = {
+			who = CBI
+			value = 30
+		}
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_SIC_share_with_Fatimid_tt
+		hidden_effect = {
+			if = {
+				limit = {
+					FDM = {
+						has_country_flag = EDG_SIC_Fatimid_support_sicily_flag
+					}
+				}
+				FDM = {
+					set_country_flag = unlcok_EDG_SIC_decision_ambush_calabria_flag
+				}
+			}
+		}
+	}
+}
+
+country_event = {#诸王烬乱
+	id = EDG_SICDisasterEvents.30
+	title = EDG_SICDisasterEvents.30.name
+	desc = EDG_SICDisasterEvents.30.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.30.aa
+		ai_chance = { factor = 100 }
+		APU = {
+			country_event = {
+				id = EDG_SICDisasterEvents.24
+			}
+		}
+		if = {
+			limit = {
+				FDM = {
+					has_country_flag = EDG_SIC_Fatimid_support_sicily_flag
+				}
+			}
+			FDM = {
+				country_event = {
+					id = EDG_SICDisasterEvents.14
+				}
+			}
+		}
+		hidden_effect = {
+			country_event = {
+				id = EDG_SICDisasterEvents.42
+				days = 1
+			}
+			country_event = {
+				id = EDG_SICDisasterEvents.28
+				days = 60
+			}
+			country_event = {
+				id = EDG_SICDisasterEvents.29
+				days = 65
+			}
+		}
+	}
+}
+
+country_event = {#救国热忱
+	id = EDG_SICDisasterEvents.42
+	title = EDG_SICDisasterEvents.42.name
+	desc = EDG_SICDisasterEvents.42.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_SICDisasterEvents.42.aa
+		ai_chance = { factor = 100 }
+		custom_tooltip = unlock_EDG_SIC_Hellas_disaster_mercs_tt
+		set_country_flag = unlock_EDG_SIC_Hellas_disaster_mercs_flag
+		custom_tooltip = EDG_SPACE_TT
+		add_treasury = 100
+	}
+}
+
+country_event = {#公民提供战船
+	id = EDG_SICDisasterEvents.51
+	title = EDG_SICDisasterEvents.51.name
+	desc = EDG_SICDisasterEvents.51.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_SICDisasterEvents.51.aa
+		ai_chance = { factor = 100 }
+		random_owned_province = {
+    		limit = { has_port = yes }
+    		galley = ROOT
+		}	
+	}
+}
+
+country_event = {#后院失火
+	id = EDG_SICDisasterEvents.52
+	title = EDG_SICDisasterEvents.52.name
+	desc = EDG_SICDisasterEvents.52.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.52.aa
+		ai_chance = { factor = 100 }
+		add_stability_or_adm_power = -1
+		add_country_modifier = {
+			name = EDG_SIC_PUA_lose_capital_modifier
+			duration = 1825
+		}
+		add_war_exhaustion = 5
+	}
+}
+
+country_event = {#势如破竹
+	id = EDG_SICDisasterEvents.54
+	title = EDG_SICDisasterEvents.54.name
+	desc = EDG_SICDisasterEvents.54.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_SICDisasterEvents.54.aa
+		ai_chance = { factor = 100 }
+		add_army_tradition_or_mil_power = 10
+		PUA = {
+			capital_scope = {
+    			change_controller = SIC
+			}
+			country_event = {
+				id = EDG_SICDisasterEvents.52
+			}
+		}
+		clr_country_flag = unlcok_EDG_SIC_decision_ambush_capua_flag
+	}
+}
+
+country_event = {#残烬新生
+	id = EDG_SICDisasterEvents.57
+	title = EDG_SICDisasterEvents.57.name
+	desc = EDG_SICDisasterEvents.57.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_SICDisasterEvents.57.aa
+		ai_chance = { factor = 100 }
+		define_advisor = {
+			type = economist 
+			skill = 3
+			cost_multiplier = 0.25
+		}
+		remove_country_modifier = EDG_SIC_Inner_Troubles
+		add_country_modifier = {
+			name = EDG_SIC_rebuild_country_modifier
+			duration = 9125
+		}
+		add_power_projection = {
+			type = EDG_SIC_Unify_Sicily
+			amount = 10
+		}
+		custom_tooltip = EDG_GRE_permanent_powerprojection_tt
+		if = {
+			limit = {
+				FDM = {
+					has_country_flag = EDG_SIC_Fatimid_support_sicily_flag
+				}
+			}
+			FDM = {
+				country_event = {
+					id = EDG_SICDisasterEvents.10
+				}
+			}
+		}
+	}
+}
+
+country_event = {#北国征伐
+	id = EDG_SICDisasterEvents.58
+	title = EDG_SICDisasterEvents.58.name
+	desc = EDG_SICDisasterEvents.58.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_SICDisasterEvents.58.aa
+		ai_chance = { factor = 100 }
+		inherit = PUA
+		add_treasury = 250
+		add_adm_power = 100
+		add_prestige_or_monarch_power = 25
+	}
+}
+
+country_event = {#南方攻略
+	id = EDG_SICDisasterEvents.59
+	title = EDG_SICDisasterEvents.59.name
+	desc = EDG_SICDisasterEvents.59.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_SICDisasterEvents.59.aa
+		ai_chance = { factor = 100 }
+		inherit = CBI
+		add_treasury = 250
+		add_mil_power = 100
+		add_prestige_or_monarch_power = 25
+	}
+}
+
+country_event = {#背景事件，霍亨施陶芬与欧特维尔
+	id = EDG_SICDisasterEvents.61
+	title = EDG_SICDisasterEvents.61.name
+	desc = EDG_SICDisasterEvents.61.desc
+	picture = BAD_WITH_MONARCH_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.61.aa
+		ai_chance = { factor = 100 }
+		country_event = { id = EDG_SICDisasterEvents.1 }
+		APU = {
+			add_opinion = {
+    			who = SIC
+    			modifier = EDG_SIC_Sicily_betrayal_opinion
+			}
+			add_historical_rival = SIC
+		}
+		SIC = {
+			add_opinion = {
+    			who = APU
+    			modifier = EDG_SIC_Trinacria_Coveter_opinion
+			}
+			add_historical_rival = APU
+		}
+	}
+}
+
+country_event = {#贵族支持
+	id = EDG_SICDisasterEvents.62
+	title = EDG_SICDisasterEvents.62.name
+	desc = EDG_SICDisasterEvents.62.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_SICDisasterEvents.62.aa
+		ai_chance = { factor = 100 }
+		random_owned_province = {
+    		limit = { controlled_by = ROOT }
+    		infantry = ROOT
+		}	
+		add_manpower = 1	
+	}
+}
+
+country_event = {#法蒂玛毁约
+	id = EDG_SICDisasterEvents.63
+	title = EDG_SICDisasterEvents.63.name
+	desc = EDG_SICDisasterEvents.63.desc
+	picture = BAD_WITH_MONARCH_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_SICDisasterEvents.63.aa
+		ai_chance = { factor = 100 }
+		add_prestige = -5
+		add_historical_rival = FDM
+		add_casus_belli = {
+    		target = FDM
+    		type = cb_annex
+    		month = 120
+		}
+		add_opinion = {
+    		who = FDM
+    		modifier = EDG_SIC_betrayed_Fatimid_opinion
+		}
+		remove_historical_rival = FDM
+	}
+}
+
+country_event = {#命运歧途
+	id = EDG_SICDisasterEvents.99
+	title = EDG_SICDisasterEvents.99.name
+	desc = EDG_SICDisasterEvents.99.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.99.aa
+		ai_chance = { factor = 0 }
+		custom_tooltip = EDG_SIC_WIP_tt
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_SICDisasterEvents.99.aa.tt
+		set_country_flag = EDG_SIC_Catholic_path_flag
+	}
+	option = {
+		highlight = yes
+		name = EDG_SICDisasterEvents.99.bb
+		ai_chance = { factor = 100 }
+		custom_tooltip = EDG_SICDisasterEvents.99.bb.tt
+		set_country_flag = EDG_SIC_Hellas_path_flag
+	}
+}
+
+country_event = {#叙拉古的不死鸟
+	id = EDG_SICDisasterEvents.100
+	title = EDG_SICDisasterEvents.100.name
+	desc = EDG_SICDisasterEvents.100.desc
+	picture = WESTERNISATION_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_SICDisasterEvents.100.aa
+		highlight = yes
+		ai_chance = { factor = 0 }
+		custom_tooltip = EDG_form_Syracusae_tooltip
+		hidden_effect = {
+			change_tag = GRE
+			change_primary_culture = EDG_Syracusae
+			set_ruler_culture = EDG_Syracusae
+			override_country_name = EDG_SIC_Syracusae_name
+		}
+		on_change_tag_effect = yes
+		custom_tooltip = EDG_SPACE_TT
+		hidden_effect = {
+			override_country_name = EDG_SIC_Syracusae_name
+		}
+		if = {
+			limit = {
+				NOT = {
+					government_rank = 2
+				}
+			}
+			set_government_rank = 2
+		}	
+		custom_tooltip = EDG_SPACE_TT
+		swap_non_generic_missions = yes
+		custom_tooltip = EDG_SPACE_TT
+		country_event = { id = ideagroups.1 }
+		set_country_flag = formed_greece_flag
+		set_country_flag = restored_rome_flag
+		set_country_flag = is_EDG_Syracusae_flag
+		custom_tooltip = EDG_SPACE_TT
+		add_accepted_culture_or_dip_power = {
+			culture = greek
+			free = yes
+		}
+		add_accepted_culture_or_dip_power = {
+			culture = pontic_greek
+			free = yes
+		}
+		add_accepted_culture_or_dip_power = {
+			culture = sicilian
+			free = yes
+		}
+		add_accepted_culture_or_dip_power = {
+			culture = EDG_Aegean
+			free = yes
+		}
+	}
+	option = {
+		name = EDG_SICDisasterEvents.100.bb
+		ai_chance = { factor = 100 }
+		set_country_flag = can_form_EDG_Syracusae_flag
+	}
+}

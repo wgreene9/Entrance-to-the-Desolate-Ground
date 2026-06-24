@@ -1,0 +1,369 @@
+EDG_FDM_path_of_rebirth_disaster = {
+	#重生之路
+	potential = {
+		tag = FDM
+		NOT = {
+			has_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_1
+		}
+		NOT = {
+			has_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_2
+		}
+	}
+	can_start = {
+		mission_completed = EDG_FDM_mission_3_3
+	}
+	can_stop = {
+		always = no
+	}
+	can_end = {
+		OR = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_path_of_rebirth_disaster_can_end_tt_1
+				mission_completed = EDG_FDM_mission_3_8
+			}
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_path_of_rebirth_disaster_can_end_tt_2
+				has_country_flag = EDG_FDM_path_of_rebirth_disaster_can_end_flag
+			}
+		}
+	}
+	modifier = {
+		cb_on_religious_enemies = yes
+		extra_manpower_at_religious_war = yes
+		overextension_impact_modifier = -0.5
+	}
+	progress = {
+		modifier = {
+			factor = 100
+			always = yes
+		}
+	}
+	ended_by_country_breaking_to_rebels = no
+	on_start_effect = {
+		custom_tooltip = EDG_FDM_path_of_rebirth_disaster_tt
+	}
+	on_start = EDG_FDMEvents.14
+	on_end = EDG_FDMEvents.15
+	on_monthly = {
+		random_events = {
+			200 = 0
+			10 = EDG_FDMEvents.16
+			10 = EDG_FDMEvents.17
+			10 = EDG_FDMEvents.18
+			10 = EDG_FDMEvents.19
+			# 10 = EDG_FDMEvents.20
+		}
+	}
+}
+
+EDG_FDM_sword_of_despair_disaster = {
+	#绝望之剑
+	potential = {
+		tag = FDM
+		NOT = {
+			has_country_flag = EDG_FDM_sword_of_despair_disaster_ended_flag
+		}
+		NOT = {
+			has_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_1
+		}
+	}
+	can_start = {
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_path_of_rebirth_disaster_ended_tt_2
+			has_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_2
+		}
+	}
+	can_stop = {
+		always = no
+	}
+	can_end = {
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_sword_of_despair_disaster_can_end_tt
+			all_country = {
+				OR = {
+					NOT = {
+						has_country_flag = EDG_FDMEvents_26_country_flag
+					}
+					AND = {
+						war_with = FDM
+						capital_scope = {
+							controller = {
+								OR = {
+									tag = FDM
+									is_subject_of = FDM
+									alliance_with = FDM
+								}
+							}
+						}
+						NOT = {
+							war_score_against = {
+								who = FDM
+								value = -79
+							}
+						}
+					}
+				}
+			}
+		}
+	}
+	modifier = {
+		global_unrest = 10
+		land_morale = -0.2
+		discipline = -0.1
+		fire_damage_received = 0.1
+		shock_damage_received = 0.1
+		defensiveness = -0.25
+	}
+	progress = {
+		modifier = {
+			factor = 100
+			always = yes
+		}
+	}
+	ended_by_country_breaking_to_rebels = no
+	on_start_effect = {
+		custom_tooltip = EDG_FDM_sword_of_despair_disaster_tt
+	}
+	on_start = EDG_FDMEvents.26
+	on_end = EDG_FDMEvents.27
+}
+
+EDG_FDM_scale_of_imam_disaster = {
+	#伊玛目的天平
+	potential = {
+		tag = FDM
+		NOT = {
+			has_country_flag = EDG_FDM_scale_of_imam_disaster_ended_flag
+		}
+	}
+	can_start = {
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_scale_of_imam_disaster_can_start_tt
+			has_country_flag = EDG_FDM_scale_of_imam_disaster_can_start_flag
+		}
+	}
+	can_stop = {
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_scale_of_imam_disaster_tt
+			always = no
+		}
+	}
+	can_end = {
+		is_at_war = no
+		has_country_modifier = EDG_FDMEvents_30_modifier
+		has_country_modifier = EDG_FDMEvents_41_modifier
+		has_country_modifier = EDG_FDMEvents_42_modifier
+		has_country_modifier = EDG_FDMEvents_43_modifier
+		has_country_modifier = EDG_FDMEvents_44_modifier
+	}
+	modifier = {
+		can_not_declare_war = yes
+		all_estate_loyalty_equilibrium = -0.25
+		tolerance_own = -2
+		tolerance_heretic = -10
+		tolerance_heathen = -10
+		global_missionary_strength = -10
+		religious_unity = -10
+		land_forcelimit = 200
+		global_regiment_cost = -0.75
+	}
+	progress = {
+		modifier = {
+			factor = 4
+			always = yes
+		}
+	}
+	ended_by_country_breaking_to_rebels = no
+	on_start_effect = {
+		custom_tooltip = EDG_FDM_scale_of_imam_disaster_tt
+	}
+	on_start = EDG_FDMEvents.28
+	on_end = EDG_FDMEvents.29
+	on_monthly = {
+		random_events = {
+			100 = 0
+			10 = EDG_FDMEvents.31
+			10 = EDG_FDMEvents.32
+			10 = EDG_FDMEvents.33
+			10 = EDG_FDMEvents.34
+			10 = EDG_FDMEvents.35
+			10 = EDG_FDMEvents.36
+			10 = EDG_FDMEvents.37
+			10 = EDG_FDMEvents.38
+			10 = EDG_FDMEvents.45
+		}
+	}
+}
+
+EDG_FDM_egyptian_in_name_only_disaster = {
+	#名不副实
+	potential = {
+		tag = FDM
+		NOT = {
+			has_country_flag = EDG_FDM_egyptian_in_name_only_disaster_ended_flag
+		}
+	}
+	can_start = {
+		mission_completed = EDG_FDM_mission_3_6
+		NOT = {
+			primary_culture = al_misr_arabic
+		}
+	}
+	can_stop = {
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_egyptian_in_name_only_disaster_tt
+			always = no
+		}
+	}
+	can_end = {
+		primary_culture = al_misr_arabic
+	}
+	modifier = {
+		global_tax_modifier = -0.25
+		min_autonomy = 10
+		promote_culture_cost = 10
+		culture_conversion_time = 10
+		culture_conversion_cost = 10
+	}
+	progress = {
+		modifier = {
+			factor = 4
+			always = yes
+		}
+	}
+	ended_by_country_breaking_to_rebels = no
+	on_start_effect = {
+		custom_tooltip = EDG_FDM_egyptian_in_name_only_disaster_tt
+	}
+	on_start = EDG_FDMEvents.51
+	on_end = EDG_FDMEvents.52
+	on_monthly = {
+		random_events = {
+			1100 = 0
+			50 = EDG_FDMEvents.53
+			50 = EDG_FDMEvents.54
+		}
+	}
+}
+
+EDG_FDM_tear_of_iset_disaster = {
+	#伊西斯的眼泪
+	potential = {
+		tag = FDM
+		NOT = {
+			has_country_flag = EDG_FDM_tear_of_iset_disaster_ended_flag
+		}
+	}
+	can_start = {
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_tear_of_iset_disaster_can_start_tt
+			has_country_flag = EDG_FDM_egyptian_in_name_only_disaster_can_start_flag
+		}
+	}
+	can_stop = {
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_tear_of_iset_disaster_tt
+			always = no
+		}
+	}
+	can_end = {
+		egypt_region = {
+			type = all
+			owned_by = ROOT
+			NOT = {
+				devastation = 0.1
+			}
+			has_tax_building_trigger = yes
+			has_production_building_trigger = yes
+		}
+	}
+	modifier = {
+		global_unrest = 2
+		global_tax_modifier = -0.25
+		production_efficiency = -0.75
+		global_trade_goods_size_modifier = -0.25
+		global_monthly_devastation = 2
+		inflation_reduction = -2
+		build_cost = -0.5
+		build_time = -0.5
+		interest = -4
+		min_autonomy = -10
+		development_cost_modifier = -0.25
+	}
+	progress = {
+		modifier = {
+			factor = 4
+			always = yes
+		}
+	}
+	ended_by_country_breaking_to_rebels = no
+	on_start_effect = {
+		custom_tooltip = EDG_FDM_tear_of_iset_disaster_tt
+	}
+	on_start = EDG_FDMEvents.72
+	on_end = EDG_FDMEvents.73
+}
+
+EDG_FDM_plight_of_the_red_sea_disaster = {
+	#红海的困境
+	potential = {
+		tag = FDM
+		NOT = {
+			has_country_flag = EDG_FDM_plight_of_the_red_sea_disaster_ended_flag
+		}
+	}
+	can_start = {
+		is_year = 1500
+		any_country = {
+			capital_scope = {
+				continent = europe
+			}
+			has_institution = new_world_i
+		}
+	}
+	can_stop = {
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_plight_of_the_red_sea_disaster_tt
+			always = no
+		}
+	}
+	can_end = {
+		4316 = {
+			has_great_project = {
+				type = suez_canal
+				tier = 3
+			}
+		}
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_plight_of_the_red_sea_disaster_can_end_tt
+			home_trade_node = {
+				any_trade_node_member_province = {
+					OR = {
+						province_id = 235
+						province_id = 101
+						province_id = 426
+					}
+				}
+				strongest_trade_power = {
+					tag = ROOT
+				}
+				highest_value_trade_node = yes
+			}
+		}
+	}
+	modifier = {
+		can_not_send_merchants = yes
+	}
+	progress = {
+		modifier = {
+			factor = 4
+			always = yes
+		}
+	}
+	ended_by_country_breaking_to_rebels = no
+	on_start_effect = {
+		custom_tooltip = EDG_FDM_plight_of_the_red_sea_disaster_tt
+	}
+	on_start = EDG_FDMEvents.74
+	on_end = EDG_FDMEvents.75
+}

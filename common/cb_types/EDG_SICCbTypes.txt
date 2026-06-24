@@ -1,0 +1,64 @@
+cb_EDG_WG_GRE_unification = {#希腊战争
+	valid_for_subject = yes
+	holy_war = yes
+
+	prerequisites = {
+		OR = {
+			has_country_flag = allow_country_cb_EDG_WG_GRE_unification_flag
+			tag = GRE
+		}
+		FROM = {
+			any_owned_province = {
+				OR = {
+					province_gruop = Hellas_province_group 
+					culture_group = byzantine
+				}
+			}
+		}
+		is_revolutionary = no
+	}
+
+	war_goal = EDG_WG_GRE_unification
+}
+
+cb_EDG_WG_APU_Crusade_against_SIC = {#西西里十字军
+	valid_for_subject = yes
+	is_triggered_only = yes
+	holy_war = yes
+	months = 120
+	ai_peace_desire = -2000
+
+	war_goal = EDG_WG_APU_Crusade_against_SIC
+}
+
+cb_EDG_WG_Orthodox_Divine_War = {#正义之战
+	valid_for_subject = yes
+	is_triggered_only = yes
+	holy_war = yes
+	months = 300
+
+	war_goal = EDG_WG_Orthodox_Divine_War
+}
+
+cb_EDG_WG_GRE_East_Conquest = {#征服东方
+	valid_for_subject = yes
+	holy_war = yes
+
+	prerequisites = {
+		mission_completed = EDG_GRE_3_12
+			FROM = {
+				any_owned_province = {
+					OR = {
+						superregion = india_superregion
+						superregion = east_indies_superregion
+						superregion = china_superregion
+						superregion = tartary_superregion
+						superregion = far_east_superregion
+					}	
+				}		
+			}
+		is_revolutionary = no
+	}
+
+	war_goal = EDG_WG_GRE_East_Conquest
+}

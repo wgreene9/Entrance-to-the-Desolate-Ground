@@ -1,8 +1,21 @@
 spriteTypes = {
-
+#灾难图标
+	spriteType = {
+		name = "GFX_disaster_EDG_SIC_civil_war_1"
+		texturefile = "gfx//interface//disasters//counts_feud.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+#任务图标
 	spriteType = {
 		name = "mission_greekn"
-		texturefile = "gfx//interface//missions/mission_greekn.dds"
+		texturefile = "gfx//interface//missions//mission_greekn.dds"
+	}
+#旗舰特性图标
+	spriteType = {
+		name = "GFX_flagship_EDG_GRE_mass_load_greek_fire"
+		texturefile = "gfx//interface//EDG_GRE_mass_load_greek_fire.dds"
+		loadType = "INGAME"
 	}
 #政府改革图标
 	spriteType = {
@@ -14,8 +27,45 @@ spriteTypes = {
 		texturefile = "gfx//interface//government_reform_icons//SIC_2.dds"
 	}
 #属国图标
+	spriteType = {#同盟者
+		name = "GFX_icon_EDG_Hellenic_alliance"
+		texturefile = "gfx//interface//vassal_icon//GFX_icon_EDG_Hellenic_alliance.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_EDG_Hellenic_alliance_am"
+		texturefile = "gfx//interface//vassal_icon//GFX_icon_EDG_Hellenic_alliance_am.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_EDG_Hellenic_alliance_lead"
+		texturefile = "gfx//interface//vassal_icon//GFX_icon_EDG_Hellenic_alliance_lead.dds"
+	}
 
-#
+	spriteType = {#海外领地
+		name = "GFX_icon_EDG_GRE_Overseas_Territory"
+		texturefile = "gfx//interface//vassal_icon//GFX_icon_EDG_GRE_Overseas_Territory.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_EDG_GRE_Overseas_Territory_am"
+		texturefile = "gfx//interface//vassal_icon//GFX_icon_EDG_GRE_Overseas_Territory_am.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_EDG_GRE_Overseas_Territory_lead"
+		texturefile = "gfx//interface//vassal_icon//GFX_icon_EDG_GRE_Overseas_Territory_lead.dds"
+	}
+
+	spriteType = {#边疆区
+		name = "GFX_icon_EDG_Hellenic_Methorion"
+		texturefile = "gfx//interface//vassal_icon//GFX_icon_EDG_Hellenic_Methorion.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_EDG_Hellenic_Methorion_am"
+		texturefile = "gfx//interface//vassal_icon//GFX_icon_EDG_Hellenic_Methorion_am.dds"
+	}
+	spriteType = {
+		name = "GFX_icon_EDG_Hellenic_Methorion_lead"
+		texturefile = "gfx//interface//vassal_icon//GFX_icon_EDG_Hellenic_Methorion_lead.dds"
+	}
+
 
 #霍亨斯陶芬政府能力	
 	spriteType = {
@@ -121,4 +171,78 @@ spriteTypes = {
 		name = "GFX_faction_EDG_Syracusae_MIL_faction"	
 		texturefile = "gfx//interface//factions//GFX_faction_EDG_Syracusae_MIL_faction.dds"
 	}
+
+#叙拉古特权
+	spriteType = {
+		name = "privileges_estate_EDG_GRE_control_Doukas"
+		texturefile = "gfx/interface/privileges/privileges_estate_EDG_GRE_control_Doukas.dds"
+	}
+	spriteType = {
+		name = "privileges_estate_EDG_GRE_control_Komnenos"
+		texturefile = "gfx/interface/privileges/privileges_estate_EDG_GRE_control_Komnenos.dds"
+	}
+	spriteType = {
+		name = "privileges_estate_EDG_GRE_control_Palaiologos"
+		texturefile = "gfx/interface/privileges/privileges_estate_EDG_GRE_control_Palaiologos.dds"
+	}
+	spriteType = {
+		name = "privileges_estate_EDG_GRE_control_Angelos"
+		texturefile = "gfx/interface/privileges/privileges_estate_EDG_GRE_control_Angelos.dds"
+	}
+	spriteType = {
+		name = "privileges_estate_EDG_GRE_control_Laskaris"
+		texturefile = "gfx/interface/privileges/privileges_estate_EDG_GRE_control_Laskaris.dds"
+	}
+	spriteType = {
+		name = "privileges_estate_EDG_GRE_control_Vatatzes"
+		texturefile = "gfx/interface/privileges/privileges_estate_EDG_GRE_control_Vatatzes.dds"
+	}
+	spriteType = {
+		name = "privileges_estate_EDG_GRE_control_Sassanid"
+		texturefile = "gfx/interface/privileges/privileges_estate_EDG_GRE_control_Sassanid.dds"
+	}
+
+#事件图
+
+	spriteType = {
+		name = "EDG_EVENT_PICTURE_BUL_1"
+		texturefile = "gfx/event_pictures/EDG_EVENT_PICTURE_BUL_1.dds"
+		alwaystransparent = yes
+	}
+	spriteType = {
+		name = "EDG_EVENT_PICTURE_BUL_2"
+		texturefile = "gfx/event_pictures/EDG_EVENT_PICTURE_BUL_2.dds"
+		alwaystransparent = yes
+	}
+	spriteType = {
+		name = "EDG_EVENT_PICTURE_AKK_1"
+		texturefile = "gfx/event_pictures/EDG_EVENT_PICTURE_AKK_1.dds"
+		alwaystransparent = yes
+	}
+	spriteType = {
+		name = "EDG_EVENT_PICTURE_hell_1"
+		texturefile = "gfx/event_pictures/EDG_EVENT_PICTURE_hell_1.dds"
+		alwaystransparent = yes
+	}
+	spriteType = {
+		name = "EDG_EVENT_PICTURE_hell_2"
+		texturefile = "gfx/event_pictures/EDG_EVENT_PICTURE_hell_2.dds"
+		alwaystransparent = yes
+	}
+	spriteType = {
+		name = "EDG_EVENT_PICTURE_hell_3"
+		texturefile = "gfx/event_pictures/EDG_EVENT_PICTURE_hell_3.dds"
+		alwaystransparent = yes
+	}
+	spriteType = {
+		name = "EDG_EVENT_PICTURE_hell_4"
+		texturefile = "gfx/event_pictures/EDG_EVENT_PICTURE_hell_4.dds"
+		alwaystransparent = yes
+	}
+	spriteType = {
+		name = "EDG_EVENT_PICTURE_hell_5"
+		texturefile = "gfx/event_pictures/EDG_EVENT_PICTURE_hell_5.dds"
+		alwaystransparent = yes
+	}
 }
+

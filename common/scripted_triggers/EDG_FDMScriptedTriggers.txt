@@ -1,0 +1,23 @@
+EDG_FDM_scale_of_imam_disaster_annex_country_trigger = {
+	tag = FDM
+	is_in_war = {
+		attacker_leader = $tag$
+		defender_leader = FDM
+		casus_belli = EDG_BAV_independence_cb
+	}
+	war_score_against = {
+		who = $tag$
+		value = 80
+	}
+	$tag$ = {
+		capital_scope = {
+			controller = {
+				OR = {
+					tag = FDM
+					is_subject_of = FDM
+					alliance_with = FDM
+				}
+			}
+		}
+	}
+}

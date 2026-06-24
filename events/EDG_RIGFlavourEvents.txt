@@ -50,6 +50,15 @@ country_event = { #利夫兰
 
 	option = {
 		name = RigaExpandFlavour.2.aa
+		37 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
 	}
 }
 country_event = { #维尔纽斯
@@ -87,6 +96,420 @@ country_event = { #但泽
 				duration = -1
 			}
 			change_trade_goods = paper
+		}
+	}
+}
+country_event = { #斯德哥尔摩
+	id = RigaExpandFlavour.5
+	is_triggered_only = yes
+	title = RigaExpandFlavour.5.name
+	desc = RigaExpandFlavour.5.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.5.aa
+		1 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #隆德
+	id = RigaExpandFlavour.6
+	is_triggered_only = yes
+	title = RigaExpandFlavour.6.name
+	desc = RigaExpandFlavour.6.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.6.aa
+		6 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+			center_of_trade = 1
+		}
+	}
+}
+country_event = { #波兹南
+	id = RigaExpandFlavour.7
+	is_triggered_only = yes
+	title = RigaExpandFlavour.7.name
+	desc = RigaExpandFlavour.7.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.7.aa
+		254 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+			center_of_trade = 1
+		}
+	}
+}
+country_event = { #华沙
+	id = RigaExpandFlavour.8
+	is_triggered_only = yes
+	title = RigaExpandFlavour.8.name
+	desc = RigaExpandFlavour.8.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.8.aa
+		257 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #斯摩棱斯克
+	id = RigaExpandFlavour.9
+	is_triggered_only = yes
+	title = RigaExpandFlavour.9.name
+	desc = RigaExpandFlavour.9.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.9.aa
+		293 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #莫斯科
+	id = RigaExpandFlavour.10
+	is_triggered_only = yes
+	title = RigaExpandFlavour.10.name
+	desc = RigaExpandFlavour.10.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.10.aa
+		295 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #沃里尼亚
+	id = RigaExpandFlavour.11
+	is_triggered_only = yes
+	title = RigaExpandFlavour.11.name
+	desc = RigaExpandFlavour.11.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.11.aa
+		279 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #波多里亚
+	id = RigaExpandFlavour.12
+	is_triggered_only = yes
+	title = RigaExpandFlavour.12.name
+	desc = RigaExpandFlavour.12.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.12.aa
+		281 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+			center_of_trade = 1
+		}
+	}
+}
+country_event = { #特维尔
+	id = RigaExpandFlavour.13
+	is_triggered_only = yes
+	title = RigaExpandFlavour.13.name
+	desc = RigaExpandFlavour.13.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.13.aa
+		294 = {
+			add_province_modifier = {
+				name = rig_world_city_fulcrum
+				duration = -1
+			}
+			change_trade_goods = paper
+		}
+	}
+}
+country_event = { #克拉科夫
+	id = RigaExpandFlavour.14
+	is_triggered_only = yes
+	title = RigaExpandFlavour.14.name
+	desc = RigaExpandFlavour.14.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.14.aa
+		262 = {
+			add_province_modifier = {
+				name = rig_world_city_fulcrum
+				duration = -1
+			}
+			change_trade_goods = paper
+		}
+	}
+}
+country_event = { #塞萨洛尼基
+	id = RigaExpandFlavour.15
+	is_triggered_only = yes
+	title = RigaExpandFlavour.15.name
+	desc = RigaExpandFlavour.15.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.15.aa
+		148 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #雅典
+	id = RigaExpandFlavour.16
+	is_triggered_only = yes
+	title = RigaExpandFlavour.16.name
+	desc = RigaExpandFlavour.16.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.16.aa
+		146 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #安卡拉
+	id = RigaExpandFlavour.17
+	is_triggered_only = yes
+	title = RigaExpandFlavour.17.name
+	desc = RigaExpandFlavour.17.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.17.aa
+		326 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #阿达纳
+	id = RigaExpandFlavour.18
+	is_triggered_only = yes
+	title = RigaExpandFlavour.18.name
+	desc = RigaExpandFlavour.18.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.18.aa
+		327 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #开罗
+	id = RigaExpandFlavour.19
+	is_triggered_only = yes
+	title = RigaExpandFlavour.19.name
+	desc = RigaExpandFlavour.19.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.19.aa
+		361 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #大马士革
+	id = RigaExpandFlavour.20
+	is_triggered_only = yes
+	title = RigaExpandFlavour.20.name
+	desc = RigaExpandFlavour.20.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.20.aa
+		382 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #德黑兰
+	id = RigaExpandFlavour.21
+	is_triggered_only = yes
+	title = RigaExpandFlavour.21.name
+	desc = RigaExpandFlavour.21.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.21.aa
+		428 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #伊斯法罕
+	id = RigaExpandFlavour.22
+	is_triggered_only = yes
+	title = RigaExpandFlavour.22.name
+	desc = RigaExpandFlavour.22.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.22.aa
+		429 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_province_modifier = {
+				name = rig_city_expand_project
+				duration = -1
+			}
+		}
+	}
+}
+country_event = { #大不里士
+	id = RigaExpandFlavour.23
+	is_triggered_only = yes
+	title = RigaExpandFlavour.23.name
+	desc = RigaExpandFlavour.23.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.23.aa
+		416 = {
+			add_province_modifier = {
+				name = rig_world_city_fulcrum
+				duration = -1
+			}
+			center_of_trade = 1
+		}
+	}
+}
+country_event = { #君士坦丁堡
+	id = RigaExpandFlavour.24
+	is_triggered_only = yes
+	title = RigaExpandFlavour.24.name
+	desc = RigaExpandFlavour.24.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.24.aa
+		151 = {
+			add_province_modifier = {
+				name = rig_world_city_fulcrum
+				duration = -1
+			}
+			change_trade_goods = paper
+		}
+	}
+}
+country_event = { #耶路撒冷
+	id = RigaExpandFlavour.25
+	is_triggered_only = yes
+	title = RigaExpandFlavour.25.name
+	desc = RigaExpandFlavour.25.desc
+	picture = GREAT_BUILDING_eventPicture
+
+	option = {
+		name = RigaExpandFlavour.25.aa
+		379 = {
+			add_province_modifier = {
+				name = rig_world_city_fulcrum
+				duration = -1
+			}
+			change_trade_goods = paper
+			center_of_trade = 1
 		}
 	}
 }

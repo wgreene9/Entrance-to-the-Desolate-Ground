@@ -1,0 +1,3046 @@
+country_decisions = {
+	EDG_FDM_play_guide_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			NOT = {
+				is_year = 1445
+			}
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			custom_tooltip = EDG_FDMEvents.0.a_tt
+		}
+	}
+	EDG_FDM_change_country_name_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			ai = no
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			if = {
+				limit = {
+					has_country_flag = EDG_FDM_change_country_name_decision_flag
+				}
+				restore_country_name = yes
+				clr_country_flag = EDG_FDM_change_country_name_decision_flag
+			}
+			else = {
+				override_country_name = EDG_FDM_Green_Clad
+				set_country_flag = EDG_FDM_change_country_name_decision_flag
+			}
+		}
+	}
+	EDG_FDM_raid_on_djerba_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_3
+			NOT = {
+				has_country_flag = EDG_FDM_raid_on_djerba_decision_flag
+			}
+		}
+		allow = {
+			OR = {
+				owns = 353
+				controls = 353
+			}
+			NOT = {
+				controls = 2954
+			}
+			2954 = {
+				owner = {
+					war_with = ROOT
+				}
+			}
+			353 = {
+				OR = {
+					infantry_in_province = 3
+					cavalry_in_province = 3
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_FDM_raid_on_djerba_decision_flag
+			custom_tooltip = EDG_FDM_raid_on_djerba_decision_tt
+			353 = {
+				if = {
+					limit = {
+						infantry_in_province = 22
+					}
+					kill_units = {
+						who = ROOT
+						amount = 22
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 20
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 21
+					}
+					kill_units = {
+						who = ROOT
+						amount = 21
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 19
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 20
+					}
+					kill_units = {
+						who = ROOT
+						amount = 20
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 18
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 19
+					}
+					kill_units = {
+						who = ROOT
+						amount = 19
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 17
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 18
+					}
+					kill_units = {
+						who = ROOT
+						amount = 18
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 16
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 17
+					}
+					kill_units = {
+						who = ROOT
+						amount = 17
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 15
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 16
+					}
+					kill_units = {
+						who = ROOT
+						amount = 16
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 14
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 15
+					}
+					kill_units = {
+						who = ROOT
+						amount = 15
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 13
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 14
+					}
+					kill_units = {
+						who = ROOT
+						amount = 14
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 12
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 13
+					}
+					kill_units = {
+						who = ROOT
+						amount = 13
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 11
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 12
+					}
+					kill_units = {
+						who = ROOT
+						amount = 12
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 10
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 11
+					}
+					kill_units = {
+						who = ROOT
+						amount = 11
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 9
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 10
+					}
+					kill_units = {
+						who = ROOT
+						amount = 10
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 8
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 9
+					}
+					kill_units = {
+						who = ROOT
+						amount = 9
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 7
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 8
+					}
+					kill_units = {
+						who = ROOT
+						amount = 8
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 6
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 7
+					}
+					kill_units = {
+						who = ROOT
+						amount = 7
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 5
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 6
+					}
+					kill_units = {
+						who = ROOT
+						amount = 6
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 4
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 5
+					}
+					kill_units = {
+						who = ROOT
+						amount = 5
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 3
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 4
+					}
+					kill_units = {
+						who = ROOT
+						amount = 4
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 2
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						infantry_in_province = 3
+					}
+					kill_units = {
+						who = ROOT
+						amount = 3
+						type = infantry
+					}
+					2954 = {
+						for = {
+							amount = 1
+							effect = "
+								infantry = ROOT
+							"
+						}
+					}
+				}
+			}
+			353 = {
+				if = {
+					limit = {
+						cavalry_in_province = 22
+					}
+					kill_units = {
+						who = ROOT
+						amount = 22
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 20
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 21
+					}
+					kill_units = {
+						who = ROOT
+						amount = 21
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 19
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 20
+					}
+					kill_units = {
+						who = ROOT
+						amount = 20
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 18
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 19
+					}
+					kill_units = {
+						who = ROOT
+						amount = 19
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 17
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 18
+					}
+					kill_units = {
+						who = ROOT
+						amount = 18
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 16
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 17
+					}
+					kill_units = {
+						who = ROOT
+						amount = 17
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 15
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 16
+					}
+					kill_units = {
+						who = ROOT
+						amount = 16
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 14
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 15
+					}
+					kill_units = {
+						who = ROOT
+						amount = 15
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 13
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 14
+					}
+					kill_units = {
+						who = ROOT
+						amount = 14
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 12
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 13
+					}
+					kill_units = {
+						who = ROOT
+						amount = 13
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 11
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 12
+					}
+					kill_units = {
+						who = ROOT
+						amount = 12
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 10
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 11
+					}
+					kill_units = {
+						who = ROOT
+						amount = 11
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 9
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 10
+					}
+					kill_units = {
+						who = ROOT
+						amount = 10
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 8
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 9
+					}
+					kill_units = {
+						who = ROOT
+						amount = 9
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 7
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 8
+					}
+					kill_units = {
+						who = ROOT
+						amount = 8
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 6
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 7
+					}
+					kill_units = {
+						who = ROOT
+						amount = 7
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 5
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 6
+					}
+					kill_units = {
+						who = ROOT
+						amount = 6
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 4
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 5
+					}
+					kill_units = {
+						who = ROOT
+						amount = 5
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 3
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 4
+					}
+					kill_units = {
+						who = ROOT
+						amount = 4
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 2
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+				else_if = {
+					limit = {
+						cavalry_in_province = 3
+					}
+					kill_units = {
+						who = ROOT
+						amount = 3
+						type = cavalry
+					}
+					2954 = {
+						for = {
+							amount = 1
+							effect = "
+								cavalry = ROOT
+							"
+						}
+					}
+				}
+			}
+		}
+	}
+	EDG_FDM_build_beer_factory_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_country_flag = EDG_BAV_4_4_12_flag
+		}
+		allow = {
+			treasury = 500
+			any_owned_province = {
+				EDG_BAV_can_build_beer_factory_in_province_trigger = yes
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_BAV_build_beer_factory_tt
+			hidden_effect = {
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							EDG_BAV_can_build_beer_factory_in_province_trigger = yes
+						}
+					}
+					random_owned_province = {
+						limit = {
+							EDG_BAV_can_build_beer_factory_in_province_trigger = yes
+						}
+						add_building_construction = {
+							building = EDG_BAV_beer_factory
+						}
+					}
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = desc_EDG_BAV_beer_factory_modifier_1
+		}
+	}
+	EDG_FDM_pacify_egyptian_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			OR = {
+				NOT = {
+					has_country_flag = EDG_FDM_pacify_egyptian_decision_flag
+				}
+				had_country_flag = {
+					flag = EDG_FDM_pacify_egyptian_decision_flag
+					days = 365
+				}
+			}
+		}
+		allow = {
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			NOT = {
+				check_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+					value = 100
+				}
+			}
+			years_of_income = 0.1
+			adm_power = 50
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_pacify_egyptian_decision_tt
+			if = {
+				limit = {
+					has_country_flag = EDG_FDM_pacify_egyptian_decision_flag
+				}
+				clr_country_flag = EDG_FDM_pacify_egyptian_decision_flag
+			}
+			set_country_flag = EDG_FDM_pacify_egyptian_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			random_owned_province = {
+				limit = {
+					culture = al_misr_arabic
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture = al_misr_arabic
+				}
+				nationalist_rebels = 3
+			}
+			change_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = 20
+			}
+		}
+	}
+	EDG_FDM_pacify_algerian_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			NOT = {
+				has_country_flag = EDG_FDM_pacify_algerian_decision_flag
+			}
+		}
+		allow = {
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_1
+				value = 10
+			}
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = 10
+			}
+			years_of_income = 0.1
+			adm_power = 50
+		}
+		effect = {
+			set_country_flag = EDG_FDM_pacify_algerian_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			random_owned_province = {
+				limit = {
+					culture = algerian
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture = algerian
+				}
+				nationalist_rebels = 3
+			}
+			change_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = -10
+			}
+			add_accepted_culture_or_dip_power = {
+				culture = algerian
+				free = yes
+			}
+		}
+	}
+	EDG_FDM_pacify_tunisian_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			NOT = {
+				has_country_flag = EDG_FDM_pacify_tunisian_decision_flag
+			}
+		}
+		allow = {
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_2
+				value = 10
+			}
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = 10
+			}
+			years_of_income = 0.1
+			adm_power = 50
+		}
+		effect = {
+			set_country_flag = EDG_FDM_pacify_tunisian_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			random_owned_province = {
+				limit = {
+					culture = tunisian
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture = tunisian
+				}
+				nationalist_rebels = 3
+			}
+			change_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = -10
+			}
+			add_accepted_culture_or_dip_power = {
+				culture = tunisian
+				free = yes
+			}
+		}
+	}
+	EDG_FDM_pacify_moroccan_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			NOT = {
+				has_country_flag = EDG_FDM_pacify_moroccan_decision_flag
+			}
+		}
+		allow = {
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_3
+				value = 10
+			}
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = 10
+			}
+			years_of_income = 0.1
+			adm_power = 50
+		}
+		effect = {
+			set_country_flag = EDG_FDM_pacify_moroccan_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			random_owned_province = {
+				limit = {
+					culture = moroccan
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture = moroccan
+				}
+				nationalist_rebels = 3
+			}
+			change_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = -10
+			}
+			add_accepted_culture_or_dip_power = {
+				culture = moroccan
+				free = yes
+			}
+		}
+	}
+	EDG_FDM_pacify_berber_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			NOT = {
+				has_country_flag = EDG_FDM_pacify_berber_decision_flag
+			}
+		}
+		allow = {
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_4
+				value = 10
+			}
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = 10
+			}
+			years_of_income = 0.1
+			adm_power = 50
+		}
+		effect = {
+			set_country_flag = EDG_FDM_pacify_berber_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			random_owned_province = {
+				limit = {
+					culture = berber
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture = berber
+				}
+				nationalist_rebels = 3
+			}
+			change_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = -10
+			}
+			add_accepted_culture_or_dip_power = {
+				culture = berber
+				free = yes
+			}
+		}
+	}
+	EDG_FDM_convert_maghrebi_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			NOT = {
+				any_province = {
+					culture = EDG_FDM_maghrebi_culture
+				}
+			}
+		}
+		allow = {
+			owns_all_provinces = {
+				culture_group = maghrebi
+			}
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_convert_maghrebi_decision_tt_1
+				has_country_flag = EDG_FDM_pacify_algerian_decision_flag
+				has_country_flag = EDG_FDM_pacify_tunisian_decision_flag
+				has_country_flag = EDG_FDM_pacify_moroccan_decision_flag
+				has_country_flag = EDG_FDM_pacify_berber_decision_flag
+			}
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = 20
+			}
+			years_of_income = 0.1
+			adm_power = 50
+		}
+		effect = {
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			random_owned_province = {
+				limit = {
+					culture_group = maghrebi
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture_group = maghrebi
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture_group = maghrebi
+				}
+				nationalist_rebels = 3
+			}
+			change_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = -20
+			}
+			custom_tooltip = EDG_FDM_convert_maghrebi_decision_tt_2
+			hidden_effect = {
+				every_province = {
+					limit = {
+						culture_group = maghrebi
+					}
+					change_culture = EDG_FDM_maghrebi_culture
+				}
+			}
+		}
+	}
+	EDG_FDM_become_egyptian_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			NOT = {
+				culture = al_misr_arabic
+			}
+		}
+		allow = {
+			any_owned_province = {
+				culture = EDG_FDM_maghrebi_culture
+			}
+			NOT = {
+				num_of_rebel_armies = 1
+			}
+			NOT = {
+				num_of_rebel_controlled_provinces = 1
+			}
+			check_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = 100
+			}
+			years_of_income = 0.25
+			adm_power = 200
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_adm_power = -200
+			random_owned_province = {
+				limit = {
+					culture = al_misr_arabic
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture = al_misr_arabic
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture = al_misr_arabic
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture = al_misr_arabic
+				}
+				nationalist_rebels = 3
+			}
+			random_owned_province = {
+				limit = {
+					culture = al_misr_arabic
+				}
+				nationalist_rebels = 3
+			}
+			change_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = -100
+			}
+			change_primary_culture = al_misr_arabic
+			set_ruler_culture = al_misr_arabic
+			if = {
+				limit = {
+					has_heir = yes
+				}
+				set_heir_culture = al_misr_arabic
+			}
+		}
+	}
+	EDG_FDM_integrate_hanafi_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_16
+			NOT = {
+				has_country_flag = EDG_FDM_integrate_hanafi_decision_flag
+			}
+		}
+		allow = {
+			years_of_income = 0.1
+			adm_power = 50
+			NOT = {
+				has_country_modifier = hanafi_scholar_modifier
+			}
+			OR = {
+				piety = 0.75
+				NOT = {
+					piety = -0.75
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_FDM_integrate_hanafi_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			if = {
+				limit = {
+					piety = 0.75
+				}
+				add_piety = -0.5
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						piety = -0.75
+					}
+				}
+				add_piety = 0.5
+			}
+			add_country_modifier = {
+				name = hanafi_scholar_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_integrate_hanbali_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_16
+			NOT = {
+				has_country_flag = EDG_FDM_integrate_hanbali_decision_flag
+			}
+		}
+		allow = {
+			years_of_income = 0.1
+			adm_power = 50
+			NOT = {
+				has_country_modifier = hanbali_scholar_modifier
+			}
+			OR = {
+				piety = 0.75
+				NOT = {
+					piety = -0.75
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_FDM_integrate_hanbali_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			if = {
+				limit = {
+					piety = 0.75
+				}
+				add_piety = -0.5
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						piety = -0.75
+					}
+				}
+				add_piety = 0.5
+			}
+			add_country_modifier = {
+				name = hanbali_scholar_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_integrate_maliki_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_16
+			NOT = {
+				has_country_flag = EDG_FDM_integrate_maliki_decision_flag
+			}
+		}
+		allow = {
+			years_of_income = 0.1
+			adm_power = 50
+			NOT = {
+				has_country_modifier = maliki_scholar_modifier
+			}
+			OR = {
+				piety = 0.75
+				NOT = {
+					piety = -0.75
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_FDM_integrate_maliki_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			if = {
+				limit = {
+					piety = 0.75
+				}
+				add_piety = -0.5
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						piety = -0.75
+					}
+				}
+				add_piety = 0.5
+			}
+			add_country_modifier = {
+				name = maliki_scholar_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_integrate_shafii_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_16
+			NOT = {
+				has_country_flag = EDG_FDM_integrate_shafii_decision_flag
+			}
+		}
+		allow = {
+			years_of_income = 0.1
+			adm_power = 50
+			NOT = {
+				has_country_modifier = shafii_scholar_modifier
+			}
+			OR = {
+				piety = 0.75
+				NOT = {
+					piety = -0.75
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_FDM_integrate_shafii_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			if = {
+				limit = {
+					piety = 0.75
+				}
+				add_piety = -0.5
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						piety = -0.75
+					}
+				}
+				add_piety = 0.5
+			}
+			add_country_modifier = {
+				name = shafii_scholar_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_integrate_jafari_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_16
+			NOT = {
+				has_country_flag = EDG_FDM_integrate_jafari_decision_flag
+			}
+		}
+		allow = {
+			years_of_income = 0.1
+			adm_power = 50
+			NOT = {
+				has_country_modifier = jafari_scholar_modifier
+			}
+			OR = {
+				piety = 0.75
+				NOT = {
+					piety = -0.75
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_FDM_integrate_jafari_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			if = {
+				limit = {
+					piety = 0.75
+				}
+				add_piety = -0.5
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						piety = -0.75
+					}
+				}
+				add_piety = 0.5
+			}
+			add_country_modifier = {
+				name = jafari_scholar_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_integrate_zaidi_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_16
+			NOT = {
+				has_country_flag = EDG_FDM_integrate_zaidi_decision_flag
+			}
+		}
+		allow = {
+			years_of_income = 0.1
+			adm_power = 50
+			NOT = {
+				has_country_modifier = zaidi_scholar_modifier
+			}
+			OR = {
+				piety = 0.75
+				NOT = {
+					piety = -0.75
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_FDM_integrate_zaidi_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			if = {
+				limit = {
+					piety = 0.75
+				}
+				add_piety = -0.5
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						piety = -0.75
+					}
+				}
+				add_piety = 0.5
+			}
+			add_country_modifier = {
+				name = zaidi_scholar_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_integrate_muwashid_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_16
+			NOT = {
+				has_country_flag = EDG_FDM_integrate_muwashid_decision_flag
+			}
+		}
+		allow = {
+			years_of_income = 0.1
+			adm_power = 50
+			NOT = {
+				has_country_modifier = muwashid_school_modifier
+			}
+			OR = {
+				piety = 0.75
+				NOT = {
+					piety = -0.75
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_FDM_integrate_muwashid_decision_flag
+			add_years_of_income = -0.1
+			add_adm_power = -50
+			if = {
+				limit = {
+					piety = 0.75
+				}
+				add_piety = -0.5
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						piety = -0.75
+					}
+				}
+				add_piety = 0.5
+			}
+			add_country_modifier = {
+				name = muwashid_school_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_cavalry_qizilbash_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_21
+			NOT = {
+				has_country_modifier = EDG_FDM_cavalry_qizilbash_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 25
+				culture_group = iranian
+			}
+			NOT = {
+				exists = ARL
+			}
+			NOT = {
+				exists = HZB
+			}
+			NOT = {
+				exists = TAB
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_cavalry_qizilbash_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_cavalry_janissary_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_21
+			NOT = {
+				has_country_modifier = EDG_FDM_cavalry_janissary_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 10
+				culture = turkish
+			}
+			NOT = {
+				exists = MHM
+			}
+			NOT = {
+				exists = TUR
+			}
+			NOT = {
+				exists = KAR
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_cavalry_janissary_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_cavalry_cossack_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_21
+			NOT = {
+				has_country_modifier = EDG_FDM_cavalry_cossack_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 25
+				culture_group = tartar
+			}
+			NOT = {
+				exists = GOL
+			}
+			NOT = {
+				exists = KAZ
+			}
+			NOT = {
+				exists = NOG
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_cavalry_cossack_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_cavalry_winged_hussar_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_21
+			NOT = {
+				has_country_modifier = EDG_FDM_cavalry_winged_hussar_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 25
+				culture_group = west_slavic
+			}
+			NOT = {
+				exists = POL
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_cavalry_winged_hussar_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_cavalry_war_elephant_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_21
+			NOT = {
+				has_country_modifier = EDG_FDM_cavalry_war_elephant_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 25
+				OR = {
+					culture_group = western_aryan
+					culture_group = eastern_aryan
+					culture_group = central_indic
+				}
+			}
+			NOT = {
+				exists = DLH
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_cavalry_war_elephant_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_cavalry_kheshig_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_21
+			NOT = {
+				has_country_modifier = EDG_FDM_cavalry_kheshig_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 25
+				culture_group = east_asian
+			}
+			NOT = {
+				exists = YUA
+			}
+			NOT = {
+				exists = MNG
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_cavalry_kheshig_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_cavalry_keshik_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_21
+			NOT = {
+				has_country_modifier = EDG_FDM_cavalry_keshik_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 25
+				culture_group = altaic
+			}
+			NOT = {
+				exists = TIM
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_cavalry_keshik_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_cavalry_paladin_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_1_21
+			NOT = {
+				has_country_modifier = EDG_FDM_cavalry_paladin_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 25
+				culture_group = french
+			}
+			NOT = {
+				exists = FRA
+			}
+			NOT = {
+				exists = LOT
+			}
+			NOT = {
+				exists = FRK
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_cavalry_paladin_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_sect_shia_fire_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_11
+			NOT = {
+				has_country_modifier = EDG_FDM_sect_shia_fire_decision_modifier
+			}
+		}
+		allow = {
+			calc_true_if = {
+				amount = 25
+				all_province = {
+					region = persia_region
+					religion = shiite
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_FDM_sect_shia_fire_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_sect_seven_twelve_imam_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_11
+			NOT = {
+				has_country_modifier = EDG_FDM_sect_seven_twelve_imam_decision_modifier
+			}
+		}
+		allow = {
+			if = {
+				limit = {
+					any_country = {
+						religious_school = {
+							group = muslim
+							school = jafari_school
+						}
+					}
+				}
+				any_country = {
+					religious_school = {
+						group = muslim
+						school = zaidi_school
+					}
+					OR = {
+						is_subject_of = ROOT
+						alliance_with = ROOT
+						has_opinion = {
+							who = ROOT
+							value = 150
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_FDM_sect_seven_twelve_imam_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_sect_sufi_order_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_11
+			NOT = {
+				has_country_modifier = EDG_FDM_sect_sufi_order_decision_modifier
+			}
+		}
+		allow = {
+			OR = {
+				piety = 0.9
+				NOT = {
+					piety = -0.9
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_FDM_sect_sufi_order_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_sect_dai_murid_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_11
+			NOT = {
+				has_country_modifier = EDG_FDM_sect_dai_murid_decision_modifier
+			}
+		}
+		allow = {
+			num_of_religion = {
+				value = 0.9
+				religion = shiite
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_FDM_sect_dai_murid_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_sect_sayyid_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_11
+			NOT = {
+				has_country_modifier = EDG_FDM_sect_sayyid_decision_modifier
+			}
+		}
+		allow = {
+			prestige = 100
+			legitimacy = 100
+			EDG_great_power_rank_1 = yes
+			total_development = 2000
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_FDM_sect_sayyid_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_reform_fight_for_imam_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_21
+			NOT = {
+				has_country_modifier = EDG_FDM_reform_fight_for_imam_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 200
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = -200
+			}
+			add_country_modifier = {
+				name = EDG_FDM_reform_fight_for_imam_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_reform_desert_army_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_21
+			NOT = {
+				has_country_modifier = EDG_FDM_reform_desert_army_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 25
+				OR = {
+					has_terrain = desert
+					has_terrain = coastal_desert
+				}
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_reform_desert_army_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_reform_palace_army_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_21
+			NOT = {
+				has_country_modifier = EDG_FDM_reform_palace_army_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			army_professionalism = 0.5
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_reform_palace_army_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_reform_frontier_fortress_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_21
+			NOT = {
+				has_country_modifier = EDG_FDM_reform_frontier_fortress_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			num_of_owned_provinces_with = {
+				value = 10
+				has_fort_building_trigger = yes
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_reform_frontier_fortress_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_reform_naval_empire_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_3_21
+			NOT = {
+				has_country_modifier = EDG_FDM_reform_naval_empire_decision_modifier
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			mil_power = 200
+			navy_size = 100
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_mil_power = -200
+			add_country_modifier = {
+				name = EDG_FDM_reform_naval_empire_decision_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_holy_jerusalem_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_4_9
+		}
+		allow = {
+			years_of_income = 0.25
+			dip_power = 200
+			owns_core_province = 379
+			379 = {
+				religion = shiite
+			}
+			NOT = {
+				any_owned_province = {
+					is_reformation_center = yes
+				}
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_dip_power = -200
+			379 = {
+				custom_tooltip = EDG_add_reform_center_shiite_tooltip
+				add_reform_center = shiite
+			}
+		}
+	}
+	EDG_FDM_holy_medina_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_4_9
+			385 = {
+				is_reformation_center = no
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			dip_power = 200
+			owns_core_province = 385
+			384 = {
+				religion = shiite
+			}
+			NOT = {
+				any_owned_province = {
+					is_reformation_center = yes
+				}
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_dip_power = -200
+			384 = {
+				custom_tooltip = EDG_add_reform_center_shiite_tooltip
+				add_reform_center = shiite
+			}
+		}
+	}
+	EDG_FDM_holy_mecca_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_4_9
+			384 = {
+				is_reformation_center = no
+			}
+		}
+		allow = {
+			years_of_income = 0.25
+			dip_power = 200
+			owns_core_province = 384
+			385 = {
+				religion = shiite
+			}
+			NOT = {
+				any_owned_province = {
+					is_reformation_center = yes
+				}
+			}
+		}
+		effect = {
+			add_years_of_income = -0.25
+			add_dip_power = -200
+			385 = {
+				custom_tooltip = EDG_add_reform_center_shiite_tooltip
+				add_reform_center = shiite
+			}
+		}
+	}
+	EDG_FDM_persian_war_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_4_10
+			NOT = {
+				has_country_modifier = EDG_PER_war_decision_jion_modifier
+			}
+			NOT = {
+				has_global_flag = EDG_PER_war_decision_Religious_conflicts_0_gloal_flag
+			}
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_PER_war_decision_jion_modifier
+				duration = 18250
+			}
+		}
+	}
+	EDG_FDM_persian_religion_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_4_11
+			NOT = {
+				has_global_flag = EDG_PER_war_decision_Religious_conflicts_0_gloal_flag
+			}
+		}
+		allow = {
+			persia_region = {
+				type = all
+				religion = ROOT
+			}
+			all_country = {
+				OR = {
+					NOT = {
+						culture_group = iranian
+					}
+					NOT = {
+						total_development = ROOT
+					}
+				}
+			}
+		}
+		effect = {
+			set_global_flag = EDG_PER_war_decision_Religious_conflicts_0_gloal_flag
+			country_event = {
+				id = EDG_flavor_PER_war.2
+			}
+		}
+	}
+	EDG_FDM_control_prices_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			mission_completed = EDG_FDM_mission_5_23
+		}
+		allow = {
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 50
+			}
+			NOT = {
+				has_country_modifier = EDG_FDMEvents_66_modifier
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_FDMEvents.66
+			}
+		}
+	}
+	EDG_FDM_reverse_piety_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			OR = {
+				tag = FDM
+				AND = {
+					1211 = {
+						owned_by = ROOT
+						has_great_project = {
+							type = harar_jugol
+							tier = 3
+						}
+					}
+				}
+			}
+		}
+		allow = {
+			stability = 1
+			OR = {
+				piety = 0.75
+				NOT = {
+					piety = -0.74
+				}
+			}
+		}
+		effect = {
+			add_stability = -1
+			custom_tooltip = EDG_FDM_reverse_piety_decision_tt
+			if = {
+				limit = {
+					piety = 0.75
+				}
+				add_piety = -2
+			}
+			else_if = {
+				limit = {
+					NOT = {
+						piety = -0.74
+					}
+				}
+				add_piety = 2
+			}
+		}
+	}
+	EDG_FDM_unify_islam_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			religion_group = muslim
+			NOT = {
+				has_country_flag = unified_islam
+			}
+			NOT = {
+				has_global_flag = unified_islam_global
+			}
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 504
+				province_id = 225
+				province_id = 151
+				province_id = 410
+				province_id = 385
+				province_id = 384
+				province_id = 124
+				province_id = 125
+				province_id = 425
+				province_id = 382
+				province_id = 454
+				province_id = 347
+				province_id = 388
+				province_id = 400
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		allow = {
+			religion_group = muslim
+			owns_or_non_sovereign_subject_of = 504
+			owns_or_non_sovereign_subject_of = 225
+			owns_or_non_sovereign_subject_of = 151
+			owns_or_non_sovereign_subject_of = 410
+			owns_or_non_sovereign_subject_of = 385
+			owns_or_non_sovereign_subject_of = 384
+			owns_or_non_sovereign_subject_of = 124
+			owns_or_non_sovereign_subject_of = 125
+			owns_or_non_sovereign_subject_of = 425
+			owns_or_non_sovereign_subject_of = 382
+			owns_or_non_sovereign_subject_of = 454
+			owns_or_non_sovereign_subject_of = 347
+			owns_or_non_sovereign_subject_of = 388
+			owns_or_non_sovereign_subject_of = 400
+		}
+		effect = {
+			if = {
+				limit = {
+					NOT = {
+						government_rank = 3
+					}
+				}
+				set_government_rank = 3
+			}
+			set_country_flag = unified_islam
+			set_global_flag = unified_islam_global
+			add_country_modifier = {
+				name = unified_islam
+				duration = -1
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	EDG_FDM_restore_cradle_of_gold_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			384 = {
+				owned_by = ROOT
+				NOT = {
+					has_province_modifier = ARB_mahd_adh_dhahab
+				}
+			}
+		}
+		provinces_to_highlight = {
+			province_id = 384
+		}
+		allow = {
+			384 = {
+				owned_by = ROOT
+				base_production = 5
+				num_of_buildings_in_province = 1
+			}
+		}
+		effect = {
+			384 = {
+				change_trade_goods = gold
+				add_permanent_province_modifier = {
+					name = ARB_mahd_adh_dhahab
+					duration = -1
+				}
+			}
+		}
+		ai_will_do = {
+			factor = 1
+		}
+	}
+	EDG_FDM_close_the_cradle_of_gold_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			384 = {
+				owned_by = ROOT
+				has_province_modifier = ARB_mahd_adh_dhahab
+			}
+		}
+		provinces_to_highlight = {
+			province_id = 384
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			384 = {
+				change_trade_goods = cloth
+				remove_province_modifier = ARB_mahd_adh_dhahab
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_FDM_tear_of_iset_emergency_relief_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_tear_of_iset_disaster
+		}
+		allow = {
+			years_of_income = 1
+			NOT = {
+				has_country_modifier = EDG_FDM_tear_of_iset_emergency_relief_decision_modifier
+			}
+		}
+		effect = {
+			add_years_of_income = -1
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 25
+			}
+			egypt_region = {
+				add_devastation = -25
+			}
+			add_country_modifier = {
+				name = EDG_FDM_tear_of_iset_emergency_relief_decision_modifier
+				duration = 1825
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					treasury = 400
+				}
+			}
+		}
+	}
+	EDG_FDM_tear_of_iset_open_granaries_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_tear_of_iset_disaster
+		}
+		allow = {
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 50
+			}
+			NOT = {
+				has_country_modifier = EDG_FDM_tear_of_iset_open_granaries_decision_modifier
+			}
+		}
+		effect = {
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = -50
+			}
+			add_country_modifier = {
+				name = EDG_FDM_tear_of_iset_open_granaries_decision_modifier
+				duration = 1825
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					check_variable = {
+						which = EDG_shiite_Caliph_authority_var
+						value = 100
+					}
+				}
+			}
+		}
+	}
+	EDG_FDM_tear_of_iset_suppress_grain_price_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_tear_of_iset_disaster
+		}
+		allow = {
+			NOT = {
+				has_country_modifier = EDG_FDM_tear_of_iset_suppress_grain_price_decision_modifier
+			}
+		}
+		effect = {
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 25
+			}
+			change_price = {
+				trade_goods = grain
+				key = EDG_FDM_tear_of_iset_suppress_grain_price_decision_modifier
+				value = -0.25
+				duration = 1825
+			}
+			add_country_modifier = {
+				name = EDG_FDM_tear_of_iset_suppress_grain_price_decision_modifier
+				duration = 1825
+			}
+		}
+		ai_will_do = {
+			factor = 1
+			modifier = {
+				factor = 0
+				NOT = {
+					check_variable = {
+						which = EDG_shiite_Caliph_authority_var
+						value = 80
+					}
+				}
+			}
+		}
+	}
+	EDG_FDM_tear_of_iset_hoarding_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_tear_of_iset_disaster
+		}
+		allow = {
+			NOT = {
+				has_country_modifier = EDG_FDM_tear_of_iset_hoarding_decision_modifier
+			}
+		}
+		effect = {
+			add_stability = -1
+			add_years_of_income = 0.5
+			change_price = {
+				trade_goods = grain
+				key = EDG_FDM_tear_of_iset_hoarding_decision_modifier
+				value = 0.25
+				duration = 1825
+			}
+			add_country_modifier = {
+				name = EDG_FDM_tear_of_iset_hoarding_decision_modifier
+				duration = 1825
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_FDM_tear_of_iset_increase_tax_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_tear_of_iset_disaster
+		}
+		allow = {
+			NOT = {
+				has_country_flag = EDG_FDM_tear_of_iset_increase_tax_decision_modifier
+			}
+		}
+		effect = {
+			add_years_of_income = 2
+			add_country_modifier = {
+				name = EDG_FDM_tear_of_iset_increase_tax_decision_modifier
+				duration = 1825
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_FDM_tear_of_iset_conscript_fields_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_tear_of_iset_disaster
+		}
+		allow = {
+			NOT = {
+				has_country_modifier = EDG_FDM_tear_of_iset_conscript_fields_decision_modifier
+			}
+		}
+		effect = {
+			egypt_region = {
+				add_base_manpower = -1
+				add_base_production = 1
+			}
+			add_years_of_income = 1
+			add_country_modifier = {
+				name = EDG_FDM_tear_of_iset_conscript_fields_decision_modifier
+				duration = 1825
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_FDM_tear_of_iset_expand_loans_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+			has_disaster = EDG_FDM_tear_of_iset_disaster
+		}
+		allow = {
+			NOT = {
+				has_country_modifier = EDG_FDM_tear_of_iset_expand_loans_decision_modifier
+			}
+		}
+		effect = {
+			add_inflation = 1
+			add_loan = {
+				fixed_interest = 0
+				duration = -1
+			}
+			add_loan = {
+				fixed_interest = 0
+				duration = -1
+			}
+			add_loan = {
+				fixed_interest = 0
+				duration = -1
+			}
+			add_loan = {
+				fixed_interest = 0
+				duration = -1
+			}
+			add_loan = {
+				fixed_interest = 0
+				duration = -1
+			}
+			add_country_modifier = {
+				name = EDG_FDM_tear_of_iset_expand_loans_decision_modifier
+				duration = 1825
+			}
+		}
+		ai_will_do = {
+			factor = 0
+		}
+	}
+	EDG_FDM_achievement_Fatima_reborn_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_enable_achievement_tt
+				has_country_flag = EDG_FDM_enable_achievement_flag
+			}
+			NOT = {
+				is_date = 1454.11.12
+			}
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_path_of_rebirth_disaster_ended_tt_1
+				has_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_1
+			}
+		}
+		effect = {
+			add_splendor = 5
+		}
+	}
+	EDG_FDM_achievement_all_under_anlah_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_enable_achievement_tt
+				has_country_flag = EDG_FDM_enable_achievement_flag
+			}
+			current_age = age_of_discovery
+			all_country = {
+				OR = {
+					religion = shiite
+					NOT = {
+						religion_group = muslim
+					}
+				}
+			}
+		}
+		effect = {
+			add_splendor = 5
+		}
+	}
+	EDG_FDM_achievement_overlord_bavaria_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_enable_achievement_tt
+				has_country_flag = EDG_FDM_enable_achievement_flag
+			}
+			OR = {
+				overlord_of = LBV
+				overlord_of = BAV
+			}
+		}
+		effect = {
+			add_splendor = 5
+			custom_tooltip = EDG_FDM_achievement_overlord_bavaria_decision_tt
+		}
+	}
+	EDG_FDM_achievement_anti_fatimid_alliance_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_enable_achievement_tt
+				has_country_flag = EDG_FDM_enable_achievement_flag
+			}
+			is_in_war = {
+				defender_leader = FDM
+				casus_belli = cb_super_badboy
+				war_score = 50
+			}
+		}
+		effect = {
+			add_splendor = 5
+		}
+	}
+	EDG_FDM_achievement_overlord_mazandaran_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_enable_achievement_tt
+				has_country_flag = EDG_FDM_enable_achievement_flag
+			}
+			overlord_of = TAB
+		}
+		effect = {
+			add_splendor = 5
+		}
+	}
+	EDG_FDM_achievement_overlord_byzantine_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_enable_achievement_tt
+				has_country_flag = EDG_FDM_enable_achievement_flag
+			}
+			overlord_of = BYZ
+		}
+		effect = {
+			add_splendor = 5
+		}
+	}
+	EDG_FDM_achievement_iberian_unifier_decision = {
+		color = {
+			0
+			100
+			0
+		}
+		potential = {
+			tag = FDM
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_enable_achievement_tt
+				has_country_flag = EDG_FDM_enable_achievement_flag
+			}
+			custom_trigger_tooltip = {
+				tooltip = FOI_FOI_unify_iberia_country
+				has_country_flag = FOI_unify_iberia_country_flag
+			}
+		}
+		effect = {
+			add_splendor = 5
+		}
+	}
+}

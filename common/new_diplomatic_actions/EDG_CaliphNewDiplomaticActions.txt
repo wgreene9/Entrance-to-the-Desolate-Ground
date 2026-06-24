@@ -1,0 +1,1687 @@
+EDG_caliph_condemns_action = {
+	category = CALIPH
+	require_acceptance = no
+	is_visible = {
+		FROM = {
+			religion_group = muslim
+		}
+		OR = {
+			EDG_sunni_Caliph_ability_trigger = yes
+			EDG_shiite_Caliph_ability_trigger = yes
+		}
+	}
+	is_allowed = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = 10
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 10
+			}
+		}
+		NOT = {
+			has_country_modifier = EDG_did_Caliph_condemns_action_in_10_years_modifier
+		}
+		FROM = {
+			NOT = {
+				has_country_modifier = EDG_Caliph_condemns_action_in_10_years_modifier
+			}
+		}
+	}
+	on_accept = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = -10
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = -10
+			}
+		}
+		add_country_modifier = {
+			name = EDG_did_Caliph_condemns_action_in_10_years_modifier
+			duration = 3650
+			hidden = yes
+		}
+		FROM = {
+			country_event = {
+				id = EDG_flavor_caliphate.1
+			}
+			add_country_modifier = {
+				name = EDG_Caliph_condemns_action_in_10_years_modifier
+				duration = 3650
+			}
+		}
+	}
+	ai_will_do = {
+		FROM = {
+			OR = {
+				war_with = ROOT
+				is_rival = ROOT
+			}
+		}
+	}
+}
+
+EDG_caliph_improve_relation_action = {
+	category = CALIPH
+	require_acceptance = no
+	is_visible = {
+		OR = {
+			AND = {
+				EDG_sunni_Caliph_ability_trigger = yes
+				FROM = {
+					religion = sunni
+				}
+			}
+			AND = {
+				EDG_shiite_Caliph_ability_trigger = yes
+				FROM = {
+					religion = shiite
+				}
+			}
+		}
+	}
+	is_allowed = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = 10
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 10
+			}
+		}
+	}
+	on_accept = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = -10
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = -10
+			}
+		}
+		reverse_add_opinion = {
+			who = FROM
+			modifier = opinion_good_relations
+		}
+		add_opinion = {
+			who = FROM
+			modifier = opinion_good_relations
+		}
+	}
+	ai_will_do = {
+		always = no
+	}
+}
+
+EDG_caliph_mediation_action = {
+	category = CALIPH
+	require_acceptance = yes
+	alert_index = 1
+	alert_tooltip = EDG_caliph_mediation_action_alert_tooltip
+	is_visible = {
+		OR = {
+			AND = {
+				EDG_sunni_Caliph_ability_trigger = yes
+				FROM = {
+					religion = sunni
+				}
+			}
+			AND = {
+				EDG_shiite_Caliph_ability_trigger = yes
+				FROM = {
+					religion = shiite
+				}
+			}
+		}
+	}
+	is_allowed = {
+		FROM = {
+			is_in_war = {
+				attacker_leader = THIS
+			}
+		}
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = 15
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 15
+			}
+		}
+		NOT = {
+			has_country_modifier = EDG_did_Caliph_mediation_action_in_10_years_modifier
+		}
+	}
+	on_accept = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = -15
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = -15
+			}
+		}
+		add_country_modifier = {
+			name = EDG_did_Caliph_mediation_action_in_10_years_modifier
+			duration = 3650
+			hidden = yes
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.60
+			}
+		}
+	}
+	on_decline = {
+		play_sound = diplomaticfailure
+		country_event = {
+			id = EDG_FDMEvents.65
+		}
+		every_country = {
+			limit = {
+				war_with = FROM
+			}
+			ROOT = {
+				join_all_defensive_wars_of = PREV
+			}
+		}
+	}
+	ai_acceptance = {
+		add_entry = {
+			name = BASE_REJECTION
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -25
+			}
+		}
+		add_entry = {
+			name = attitude_neutral_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_neutral
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -20
+			}
+		}
+		add_entry = {
+			name = attitude_rivalry_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_rivalry
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_hostile_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_hostile
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_friendly_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_friendly
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 50
+			}
+		}
+		add_entry = {
+			name = attitude_outraged_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_outraged
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_domineering_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_domineering
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 1000
+			}
+		}
+		add_entry = {
+			name = attitude_protective_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_protective
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 1000
+			}
+		}
+		add_entry = {
+			name = DIPLO_BORDER_DISTANCE_TT
+			export_to_variable = {
+				variable_name = ai_value
+				value = border_distance
+				who = FROM
+				with = ROOT
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -0.25
+			}
+		}
+		add_entry = {
+			name = DIPLO_OPPINION
+			export_to_variable = {
+				variable_name = ai_value
+				value = opinion
+				who = FROM
+				with = ROOT
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 0.25
+			}
+		}
+		add_entry = {
+			name = TRUST
+			export_to_variable = {
+				variable_name = ai_value
+				value = trust
+				who = FROM
+				with = ROOT
+			}
+			subtract_variable = {
+				which = ai_value
+				value = 50
+			}
+		}
+	}
+	ai_will_do = {
+		always = no
+	}
+}
+
+EDG_caliph_legitimacy_action = {
+	category = CALIPH
+	require_acceptance = no
+	is_visible = {
+		OR = {
+			AND = {
+				EDG_sunni_Caliph_ability_trigger = yes
+				FROM = {
+					religion = sunni
+				}
+			}
+			AND = {
+				EDG_shiite_Caliph_ability_trigger = yes
+				FROM = {
+					religion = shiite
+				}
+			}
+		}
+	}
+	is_allowed = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = 10
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 10
+			}
+		}
+		FROM = {
+			NOT = {
+				has_country_modifier = EDG_Caliph_legitimacy_action_target_modifier
+			}
+		}
+	}
+	on_accept = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = -10
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = -10
+			}
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.61
+			}
+		}
+	}
+	ai_will_do = {
+		always = no
+	}
+}
+
+EDG_caliph_loyalty_oath_action = {
+	category = CALIPH
+	require_acceptance = no
+	is_visible = {
+		overlord_of = FROM
+		OR = {
+			AND = {
+				EDG_sunni_Caliph_ability_trigger = yes
+				FROM = {
+					religion = sunni
+				}
+			}
+			AND = {
+				EDG_shiite_Caliph_ability_trigger = yes
+				FROM = {
+					religion = shiite
+				}
+			}
+		}
+	}
+	is_allowed = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = 15
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 15
+			}
+		}
+		NOT = {
+			has_country_modifier = EDG_did_Caliph_loyalty_oath_action_in_10_years_modifier
+		}
+	}
+	on_accept = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = -15
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = -15
+			}
+		}
+		add_country_modifier = {
+			name = EDG_did_Caliph_loyalty_oath_action_in_10_years_modifier
+			duration = 3650
+			hidden = yes
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.62
+			}
+		}
+	}
+	ai_will_do = {
+		FROM = {
+			liberty_desire = 50
+		}
+	}
+}
+
+EDG_caliph_organize_hajj_action = {
+	category = CALIPH
+	require_acceptance = no
+	is_visible = {
+		OR = {
+			AND = {
+				EDG_sunni_Caliph_ability_trigger = yes
+				FROM = {
+					religion = sunni
+				}
+			}
+			AND = {
+				EDG_shiite_Caliph_ability_trigger = yes
+				FROM = {
+					religion = shiite
+				}
+			}
+		}
+	}
+	is_allowed = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = 15
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 15
+			}
+		}
+		NOT = {
+			has_country_modifier = EDG_did_Caliph_organize_hajj_action_in_20_years_modifier
+		}
+	}
+	on_accept = {
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = -15
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = -15
+			}
+		}
+		add_country_modifier = {
+			name = EDG_did_Caliph_organize_hajj_action_in_20_years_modifier
+			duration = 7300
+			hidden = yes
+		}
+		add_country_modifier = {
+			name = EDG_Caliph_organize_hajj_action_caliph_modifier
+			duration = 3650
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.63
+			}
+		}
+	}
+	ai_will_do = {
+		always = no
+	}
+}
+
+EDG_caliph_jihad_action = {
+	category = CALIPH
+	require_acceptance = no
+	is_visible = {
+		OR = {
+			EDG_sunni_Caliph_ability_trigger = yes
+			EDG_shiite_Caliph_ability_trigger = yes
+		}
+		FROM = {
+			NOT = {
+				religion_group = muslim
+			}
+		}
+	}
+	is_allowed = {
+		dip_power = 100
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = 25
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			check_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 25
+			}
+		}
+		NOT = {
+			has_country_modifier = EDG_Caliph_Jihad_action_in_10_years_modifier
+		}
+		FROM = {
+			NOT = {
+				religion_group = muslim
+			}
+			if = {
+				limit = {
+					ROOT = {
+						EDG_sunni_Caliph_ability_trigger = yes
+						EDG_shiite_Caliph_ability_trigger = yes
+					}
+				}
+				OR = {
+					is_neighbor_of = ROOT
+					any_neighbor_country = {
+						religion = sunni
+					}
+					any_neighbor_country = {
+						religion = shiite
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					ROOT = {
+						EDG_sunni_Caliph_ability_trigger = yes
+					}
+				}
+				OR = {
+					is_neighbor_of = ROOT
+					any_neighbor_country = {
+						religion = sunni
+					}
+				}
+			}
+			else_if = {
+				limit = {
+					ROOT = {
+						EDG_shiite_Caliph_ability_trigger = yes
+					}
+				}
+				OR = {
+					is_neighbor_of = ROOT
+					any_neighbor_country = {
+						religion = shiite
+					}
+				}
+			}
+			else = {
+				OR = {
+					is_neighbor_of = ROOT
+					any_neighbor_country = {
+						religion = ROOT
+					}
+				}
+			}
+		}
+	}
+	on_accept = {
+		add_dip_power = -100
+		if = {
+			limit = {
+				EDG_sunni_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_sunni_Caliph_authority_var
+				value = -25
+			}
+		}
+		if = {
+			limit = {
+				EDG_shiite_Caliph_ability_trigger = yes
+			}
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = -25
+			}
+		}
+		add_country_modifier = {
+			name = EDG_Caliph_Jihad_action_in_10_years_modifier
+			duration = 3650
+			hidden = yes
+		}
+		FROM = {
+			country_event = {
+				id = EDG_flavor_caliphate.2
+			}
+			hidden_effect = {
+				add_country_modifier = {
+					name = EDG_Caliph_Jihad_action_in_10_years_modifier
+					duration = 3650
+					hidden = yes
+				}
+			}
+		}
+	}
+	ai_will_do = {
+		FROM = {
+			OR = {
+				war_with = ROOT
+				is_rival = ROOT
+			}
+		}
+	}
+}
+
+EDG_request_jihad_permission_action = {
+	category = CALIPH
+	require_acceptance = yes
+	alert_index = 1
+	alert_tooltip = EDG_request_jihad_permission_action_alert_tooltip
+	is_visible = {
+		OR = {
+			AND = {
+				religion = sunni
+				FROM = {
+					EDG_sunni_Caliph_ability_trigger = yes
+				}
+			}
+			AND = {
+				religion = shiite
+				FROM = {
+					EDG_shiite_Caliph_ability_trigger = yes
+				}
+			}
+		}
+	}
+	is_allowed = {
+		dip_power = 100
+		any_neighbor_country = {
+			NOT = {
+				religion_group = ROOT
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					EDG_sunni_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				check_variable = {
+					which = EDG_sunni_Caliph_authority_var
+					value = 10
+				}
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					EDG_shiite_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				check_variable = {
+					which = EDG_shiite_Caliph_authority_var
+					value = 10
+				}
+			}
+		}
+	}
+	on_accept = {
+		add_adm_power = -100
+		if = {
+			limit = {
+				FROM = {
+					EDG_sunni_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				change_variable = {
+					which = EDG_sunni_Caliph_authority_var
+					value = -25
+				}
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					EDG_shiite_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				change_variable = {
+					which = EDG_shiite_Caliph_authority_var
+					value = -25
+				}
+			}
+		}
+		country_event = {
+			id = EDG_FDMEvents.64
+		}
+	}
+	on_decline = {
+		play_sound = diplomaticfailure
+		country_event = {
+			id = EDG_FDMEvents.65
+		}
+	}
+	ai_acceptance = {
+		add_entry = {
+			name = BASE_REJECTION
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -25
+			}
+		}
+		add_entry = {
+			name = attitude_neutral_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_neutral
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -20
+			}
+		}
+		add_entry = {
+			name = attitude_rivalry_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_rivalry
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_hostile_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_hostile
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_friendly_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_friendly
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 50
+			}
+		}
+		add_entry = {
+			name = attitude_outraged_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_outraged
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_domineering_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_domineering
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 1000
+			}
+		}
+		add_entry = {
+			name = attitude_protective_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_protective
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 1000
+			}
+		}
+		add_entry = {
+			name = DIPLO_BORDER_DISTANCE_TT
+			export_to_variable = {
+				variable_name = ai_value
+				value = border_distance
+				who = FROM
+				with = ROOT
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -0.25
+			}
+		}
+		add_entry = {
+			name = DIPLO_OPPINION
+			export_to_variable = {
+				variable_name = ai_value
+				value = opinion
+				who = FROM
+				with = ROOT
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 0.25
+			}
+		}
+		add_entry = {
+			name = TRUST
+			export_to_variable = {
+				variable_name = ai_value
+				value = trust
+				who = FROM
+				with = ROOT
+			}
+			subtract_variable = {
+				which = ai_value
+				value = 50
+			}
+		}
+	}
+	ai_will_do = {
+		FROM = {
+			ai = yes
+		}
+		has_opinion = {
+			who = FROM
+			value = 0
+		}
+		reverse_has_opinion = {
+			who = FROM
+			value = 0
+		}
+	}
+}
+
+EDG_request_legitimacy_action = {
+	category = CALIPH
+	require_acceptance = yes
+	alert_index = 1
+	alert_tooltip = EDG_request_legitimacy_action_alert_tooltip
+	is_visible = {
+		OR = {
+			AND = {
+				religion = sunni
+				FROM = {
+					EDG_sunni_Caliph_ability_trigger = yes
+				}
+			}
+			AND = {
+				religion = shiite
+				FROM = {
+					EDG_shiite_Caliph_ability_trigger = yes
+				}
+			}
+		}
+	}
+	is_allowed = {
+		dip_power = 100
+		NOT = {
+			has_country_modifier = EDG_Caliph_legitimacy_action_target_modifier
+		}
+		if = {
+			limit = {
+				FROM = {
+					EDG_sunni_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				check_variable = {
+					which = EDG_sunni_Caliph_authority_var
+					value = 10
+				}
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					EDG_shiite_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				check_variable = {
+					which = EDG_shiite_Caliph_authority_var
+					value = 10
+				}
+			}
+		}
+	}
+	on_accept = {
+		add_adm_power = -100
+		if = {
+			limit = {
+				FROM = {
+					EDG_sunni_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				change_variable = {
+					which = EDG_sunni_Caliph_authority_var
+					value = -10
+				}
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					EDG_shiite_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				change_variable = {
+					which = EDG_shiite_Caliph_authority_var
+					value = -10
+				}
+			}
+		}
+		country_event = {
+			id = EDG_FDMEvents.61
+		}
+	}
+	on_decline = {
+		play_sound = diplomaticfailure
+		country_event = {
+			id = EDG_FDMEvents.65
+		}
+	}
+	ai_acceptance = {
+		add_entry = {
+			name = BASE_REJECTION
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -25
+			}
+		}
+		add_entry = {
+			name = attitude_neutral_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_neutral
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -20
+			}
+		}
+		add_entry = {
+			name = attitude_rivalry_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_rivalry
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_hostile_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_hostile
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_friendly_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_friendly
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 50
+			}
+		}
+		add_entry = {
+			name = attitude_outraged_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_outraged
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_domineering_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_domineering
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 1000
+			}
+		}
+		add_entry = {
+			name = attitude_protective_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_protective
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 1000
+			}
+		}
+		add_entry = {
+			name = DIPLO_BORDER_DISTANCE_TT
+			export_to_variable = {
+				variable_name = ai_value
+				value = border_distance
+				who = FROM
+				with = ROOT
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -0.25
+			}
+		}
+		add_entry = {
+			name = DIPLO_OPPINION
+			export_to_variable = {
+				variable_name = ai_value
+				value = opinion
+				who = FROM
+				with = ROOT
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 0.25
+			}
+		}
+		add_entry = {
+			name = TRUST
+			export_to_variable = {
+				variable_name = ai_value
+				value = trust
+				who = FROM
+				with = ROOT
+			}
+			subtract_variable = {
+				which = ai_value
+				value = 50
+			}
+		}
+	}
+	ai_will_do = {
+		FROM = {
+			ai = yes
+		}
+		has_opinion = {
+			who = FROM
+			value = 0
+		}
+		reverse_has_opinion = {
+			who = FROM
+			value = 0
+		}
+	}
+}
+
+EDG_request_hajj_action = {
+	category = CALIPH
+	require_acceptance = yes
+	alert_index = 1
+	alert_tooltip = EDG_request_hajj_action_alert_tooltip
+	is_visible = {
+		OR = {
+			AND = {
+				religion = sunni
+				FROM = {
+					EDG_sunni_Caliph_ability_trigger = yes
+				}
+			}
+			AND = {
+				religion = shiite
+				FROM = {
+					EDG_shiite_Caliph_ability_trigger = yes
+				}
+			}
+		}
+	}
+	is_allowed = {
+		dip_power = 50
+		if = {
+			limit = {
+				FROM = {
+					EDG_sunni_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				check_variable = {
+					which = EDG_sunni_Caliph_authority_var
+					value = 15
+				}
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					EDG_shiite_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				check_variable = {
+					which = EDG_shiite_Caliph_authority_var
+					value = 15
+				}
+			}
+		}
+	}
+	on_accept = {
+		add_dip_power = -50
+		if = {
+			limit = {
+				FROM = {
+					EDG_sunni_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				change_variable = {
+					which = EDG_sunni_Caliph_authority_var
+					value = -15
+				}
+			}
+		}
+		if = {
+			limit = {
+				FROM = {
+					EDG_shiite_Caliph_ability_trigger = yes
+				}
+			}
+			FROM = {
+				change_variable = {
+					which = EDG_shiite_Caliph_authority_var
+					value = -15
+				}
+			}
+		}
+		country_event = {
+			id = EDG_FDMEvents.63
+		}
+	}
+	on_decline = {
+		play_sound = diplomaticfailure
+		country_event = {
+			id = EDG_FDMEvents.65
+		}
+	}
+	ai_acceptance = {
+		add_entry = {
+			name = BASE_REJECTION
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -25
+			}
+		}
+		add_entry = {
+			name = attitude_neutral_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_neutral
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -20
+			}
+		}
+		add_entry = {
+			name = attitude_rivalry_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_rivalry
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_hostile_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_hostile
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_friendly_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_friendly
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 50
+			}
+		}
+		add_entry = {
+			name = attitude_outraged_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_outraged
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -1000
+			}
+		}
+		add_entry = {
+			name = attitude_domineering_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_domineering
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 1000
+			}
+		}
+		add_entry = {
+			name = attitude_protective_DIPLO_ATTITUDE_TT
+			limit = {
+				FROM = {
+					ai_attitude = {
+						who = ROOT
+						attitude = attitude_protective
+					}
+				}
+			}
+			export_to_variable = {
+				variable_name = ai_value
+				value = 1
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 1000
+			}
+		}
+		add_entry = {
+			name = DIPLO_BORDER_DISTANCE_TT
+			export_to_variable = {
+				variable_name = ai_value
+				value = border_distance
+				who = FROM
+				with = ROOT
+			}
+			multiply_variable = {
+				which = ai_value
+				value = -0.25
+			}
+		}
+		add_entry = {
+			name = DIPLO_OPPINION
+			export_to_variable = {
+				variable_name = ai_value
+				value = opinion
+				who = FROM
+				with = ROOT
+			}
+			multiply_variable = {
+				which = ai_value
+				value = 0.25
+			}
+		}
+		add_entry = {
+			name = TRUST
+			export_to_variable = {
+				variable_name = ai_value
+				value = trust
+				who = FROM
+				with = ROOT
+			}
+			subtract_variable = {
+				which = ai_value
+				value = 50
+			}
+		}
+	}
+	ai_will_do = {
+		FROM = {
+			ai = yes
+		}
+		has_opinion = {
+			who = FROM
+			value = 0
+		}
+		reverse_has_opinion = {
+			who = FROM
+			value = 0
+		}
+	}
+}

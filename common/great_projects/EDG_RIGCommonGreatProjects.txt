@@ -770,6 +770,19 @@ EDG_Temple_of_the_Prophets = { #麦地那 先知寺
 			diplomatic_reputation = 1
 			innovativeness_gain = 0.25
 		}
+		
+		conditional_modifier = {
+			trigger = {
+				owner = {
+					mission_completed = EDG_FDM_mission_3_15
+				}
+			}
+			modifier = {
+				missionaries = 1
+				global_missionary_strength = 0.02
+				monthly_piety_accelerator = 0.001
+			}
+		}
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {

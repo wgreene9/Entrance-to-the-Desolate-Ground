@@ -1,0 +1,36 @@
+EDG_caliph_ideas = {
+	category = ADM
+	trigger = {
+		OR = {
+			EDG_sunni_Caliph_ability_trigger = yes
+			EDG_shiite_Caliph_ability_trigger = yes
+		}
+	}
+	bonus = {
+		warscore_cost_vs_other_religion = -0.1
+	}
+	EDG_caliph_ideas_1 = {
+		global_unrest = -2
+	}
+	EDG_caliph_ideas_2 = {
+		missionaries = 1
+		monthly_piety_accelerator = 0.001
+	}
+	EDG_caliph_ideas_3 = {
+		trade_efficiency = 0.1
+		trade_steering = 0.1
+	}
+	EDG_caliph_ideas_4 = {
+		institution_spread_from_true_faith = 0.33
+		technology_cost = -0.05
+	}
+	EDG_caliph_ideas_5 = {
+		global_tax_modifier = 0.15
+	}
+	EDG_caliph_ideas_6 = {
+		global_missionary_strength = 0.03
+	}
+	EDG_caliph_ideas_7 = {
+		all_estate_loyalty_equilibrium = 0.1
+	}
+}

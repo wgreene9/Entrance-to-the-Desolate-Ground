@@ -31,6 +31,206 @@ estate_burghers_land_rights = {
 		trigger = { has_government_mechanic = russian_modernization_mechanic }
 		modifier = { monthly_russian_modernization = -0.03 }
 	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 100
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 200
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 300
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 400
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 500
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 600
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 700
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 800
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 900
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1000
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1100
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1200
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1300
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1400
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1500
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1600
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1700
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1800
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1900
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 2000
+		}
+		modifier = {
+			burghers_loyalty_modifier = 0.2
+			burghers_influence_modifier = 0.5
+		}
+	}
 	ai_will_do = {
 		factor = 5
 		modifier = {

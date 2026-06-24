@@ -199,7 +199,7 @@ EDG_UKR_mission_P2_trigger = {
 	tag = UKR
 }
 EDG_Reformed_Islam_trigger = {
-	
+
 }
 EDG_EDG_CN_Frontier_Command_trigger = {
 	OR = {
@@ -261,7 +261,7 @@ EDG_Chinawarlord_generic_mission_tag_trigger = {
 		tag = CYI
 		tag = CDL
 		tag = CGS
-		tag = SHU 
+		tag = SHU
 		tag = FRM
 		tag = WUY
 		tag = CHN
@@ -287,7 +287,7 @@ EDG_Chinawarlord_generic_mission_tag_trigger = {
 		tag = LAG
 		tag = HNG
 		tag = YIN
-		
+
 	}
 }
 EDG_PER_generic_mission_tag_trigger = {
@@ -344,7 +344,7 @@ EDG_CAT_generic_mission_tag_trigger = {
 		tag = CAT
 		tag = VAL
 		AND = {
-			
+
 			OR = {
 				tag = SPA
 				tag = IBR
@@ -492,6 +492,8 @@ EDG_IBR_conflict_trigger = {
 			tag = PRT
 			tag = TLD
 			tag = ZRZ
+
+			mission_completed = EDG_FDM_mission_2_5
 		}
 	}
 }
@@ -614,7 +616,7 @@ EDG_IBR_conflict_vote_trigger = {
 
 
 EDG_ALL_estate_loyalty_above_50_trigger = {
-	
+
 	if = {
 		limit = { has_estate = estate_nobles }
 		estate_loyalty = { estate = estate_nobles loyalty = 50 }
@@ -690,7 +692,7 @@ EDG_ALL_estate_loyalty_above_50_trigger = {
 }
 
 EDG_ALL_estate_influence_under_50_trigger = {
-	
+
 	if = {
 		limit = { has_estate = estate_nobles }
 		estate_influence = { estate = estate_nobles influence = 50 }

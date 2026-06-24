@@ -238,7 +238,6 @@ monarchy = {
 				EDG_Byzantium_Dominus_government	#多米努斯制
 				#马格里布
 				EDG_caliph_reform						#哈里发国
-				EDG_Fatima_caliph_reform				#法蒂玛哈里发国
 				EDG_Muwahhidun_caliph_reform			#穆瓦希德哈里发国
 				EDG_Muwahhidun_caliph_Mahdi_reform		#穆瓦希德哈里发-马赫迪国
 				NYGX_CDC_crusader_kingdom				#突尼西亚十字军
@@ -326,6 +325,9 @@ monarchy = {
 				EDG_Duchy_von_Bavaria_LBV		#巴伐利亚领地（兰茨胡特专属）
 				EDG_BAV_wittelsbach_system		#维特尔斯巴赫体系
 				EDG_BAV_wittelsbach_subject		#维特尔斯巴赫家族领地
+
+				#法蒂玛
+				EDG_FDM_Fatima_caliph_reform				#法蒂玛哈里发国
 			}
 		}
 		hereditary_vs_nobility = {#贵族特权
@@ -486,6 +488,8 @@ monarchy = {
 				#伊朗
 				
 				EDG_AK2_reform_2  #乌古斯联盟  红羊
+				#法蒂玛
+				EDG_FDM_provincial_supervision_reform		#法蒂玛行省监察制
 			}
 		}
 		bureaucracy = {#文官制度
@@ -610,63 +614,12 @@ monarchy = {
 
 				#巴伐利亚
 				EDG_BAV_bavarian_local_council
+				#法蒂玛
+				EDG_FDM_wazir_centered_bureaucracy_reform	#法蒂玛维齐尔专政
 			}
 		}
 		military_doctrines = {#军事学说和组织
 			reforms = {
-				#军事学说和组织
-				EDG_Ordnance_Bureau			#军械总局
-				EDG_kurdish_domains_reform	#库尔德冲锋队
-				EDG_BUL_army_reform			#保加利亚灰军
-				EDG_akk_horde_reform		#白羊游牧帝国
-				EDG_Spanish_cavalry			#西班牙骑兵
-				EDG_STRONG_Caledonia		#加强骑士团
-				EDG_Berber_Cavalry			#柏柏尔骑兵
-				EDG_Moorish_soldiers		#摩尔人泰法亲兵
-				EDG_ENG_Conscription_system					#亨利七世	亨利改革？募军制
-				EDG_Decision_on_standby_service_reform		#俄罗斯守备法
-				EDG_New_Model_Military_Law_Case				#克伦威尔	新模范军法案
-				EDG_FCC_knights_of_the_grapes
-				#意大利
-				EDG_Norman_standing_army					#诺曼常备军
-				EDG_Latin_National_Army						#拉丁国民军
-				EDG_Military_philosopher_Reform				#军事哲人
-				#神罗
-				EDG_GER_mercenary							#德意志雇佣兵
-				EDG_Imperial_Circle_Army					#帝国圈与帝国军
-				EDG_Maximian_Military_Reform				#马克西米安军事改革
-				EDG_HAB_Leopold_Military_Reform				#利奥波德军事改革
-				#马格里布
-				EDG_Consolidate_Berber_military_rank		#巩固柏柏尔军事等级制度
-				EDG_Black_Slave_Guard_reform				#建立黑奴卫队
-				EDG_Mahazan_reform							#马哈赞军团
-				#波斯
-				EDG_PER_Qurchi_reform						#扩大库尔奇禁卫军
-				#北欧
-				EDG_SWE_swedish_iron_army
-				#热那亚
-				EDG_WAL_kalmanni_deprivation
-				#波美拉尼亚
-				EDG_POM_kashubian_streltsy_reform			#卡舒比火枪兵
-				#游牧
-				NYAB_GOL_steppe_mil_reform
-				#萨哈达
-				EDG_FYM_Silahtar_aga_reform					#马利克的执剑阿迦
-				EDG_Syria_Taranq_reform						#建立塔瑞格幕府
-                #巴赫曼尼
-				BAH_mil_reform                              #达罗毗荼司令部
-				#塞尔维亚
-				EDG_Serbia_control_konjica_reform			#塞尔维亚骠骑兵
-				#狄奥多罗
-				EDG_EDG_FEO_mil_Reform                      #帝国议会
-				#突厥
-				EDG_timariot_domains_reform					#蒂玛尔制度
-				EDG_Ottoman_hayreddin_reform				#海雷丁改革
-				
-				#洛塔林吉亚
-				EDG_LOT_Bernadette_Reform					#贝尔娜黛特改革
-
-
 				#原版
 				organized_military_staff_reform
 				military_engineering_reform
@@ -725,10 +678,7 @@ monarchy = {
 				tercios_reform
 				expanded_black_army_reform
 				theme_system_reform
-				#军事学说和组织
-				EDG_Expand_feudal_military_service	#加强封建征兵
-				EDG_Expand_mercenaries				#扩大雇佣兵
-				EDG_Conscription_system				#募兵制
+				
 				#1.36
 				sparapet_office
 				legacy_of_the_seljuk_reform
@@ -741,6 +691,61 @@ monarchy = {
 				#1.37 Bohemia
 				vozove_hradby_reform
 				russian_mercenary_guard_reform 
+				#军事学说和组织
+				#军事学说和组织
+				EDG_Expand_feudal_military_service	#加强封建征兵
+				EDG_Expand_mercenaries				#扩大雇佣兵
+				EDG_Conscription_system				#募兵制
+				EDG_Ordnance_Bureau			#军械总局
+				EDG_kurdish_domains_reform	#库尔德冲锋队
+				EDG_BUL_army_reform			#保加利亚灰军
+				EDG_akk_horde_reform		#白羊游牧帝国
+				EDG_Spanish_cavalry			#西班牙骑兵
+				EDG_STRONG_Caledonia		#加强骑士团
+				EDG_Berber_Cavalry			#柏柏尔骑兵
+				EDG_Moorish_soldiers		#摩尔人泰法亲兵
+				EDG_ENG_Conscription_system					#亨利七世	亨利改革？募军制
+				EDG_Decision_on_standby_service_reform		#俄罗斯守备法
+				EDG_New_Model_Military_Law_Case				#克伦威尔	新模范军法案
+				EDG_FCC_knights_of_the_grapes
+				#意大利
+				EDG_Norman_standing_army					#诺曼常备军
+				EDG_Latin_National_Army						#拉丁国民军
+				EDG_Military_philosopher_Reform				#军事哲人
+				#神罗
+				EDG_GER_mercenary							#德意志雇佣兵
+				EDG_Imperial_Circle_Army					#帝国圈与帝国军
+				EDG_Maximian_Military_Reform				#马克西米安军事改革
+				EDG_HAB_Leopold_Military_Reform				#利奥波德军事改革
+				#马格里布
+				EDG_Consolidate_Berber_military_rank		#巩固柏柏尔军事等级制度
+				EDG_Black_Slave_Guard_reform				#建立黑奴卫队
+				EDG_Mahazan_reform							#马哈赞军团
+				#波斯
+				EDG_PER_Qurchi_reform						#扩大库尔奇禁卫军
+				#北欧
+				EDG_SWE_swedish_iron_army
+				#热那亚
+				EDG_WAL_kalmanni_deprivation
+				#波美拉尼亚
+				EDG_POM_kashubian_streltsy_reform			#卡舒比火枪兵
+				#游牧
+				NYAB_GOL_steppe_mil_reform
+				#萨哈达
+				EDG_FYM_Silahtar_aga_reform					#马利克的执剑阿迦
+				EDG_Syria_Taranq_reform						#建立塔瑞格幕府
+                #巴赫曼尼
+				BAH_mil_reform                              #达罗毗荼司令部
+				#塞尔维亚
+				EDG_Serbia_control_konjica_reform			#塞尔维亚骠骑兵
+				#狄奥多罗
+				EDG_EDG_FEO_mil_Reform                      #帝国议会
+				#突厥
+				EDG_timariot_domains_reform					#蒂玛尔制度
+				EDG_Ottoman_hayreddin_reform				#海雷丁改革
+				
+				#洛塔林吉亚
+				EDG_LOT_Bernadette_Reform					#贝尔娜黛特改革
 				#SHY
 				EDG_SHY_grenadier_guards
 				#POL
@@ -763,6 +768,8 @@ monarchy = {
 
 				#巴伐利亚
 				EDG_BAV_wolfgang_military_reform
+				#法蒂玛
+				EDG_FDM_multicultural_guard_reform		#法蒂玛职业军体系
 			}
 		}
 		growth_of_administration = {#行政官僚
@@ -789,12 +796,11 @@ monarchy = {
 				legacy_of_eranshahr_reform
 				superiority_of_the_state_reform
 				divided_aristocracy_reform
+				egyptian_government_reform
 				#行政官僚
 				EDG_Expand_the_power_of_executives	#扩大执达官权力
 				EDG_Imperial_Economic_Advisor		#御前经济顾问
 				EDG_VEN_tradecircle_reform		#威尼斯贸易圈
-				egyptian_government_reform
-				#
 				EDG_Caste_System_reform
 				EDG_Colonial_Governor_reform
 				EDG_ottoman_Suleiman_Land_Law_reform	#苏莱曼土地改革
@@ -863,6 +869,8 @@ monarchy = {
 
 				#巴伐利亚
 				EDG_BAV_artists_politics
+				#法蒂玛
+				EDG_FDM_diwan_centralization_reform		#法蒂玛迪万中央集权
 			}
 		}
 		state_and_religion = {#国家与宗教
@@ -985,6 +993,8 @@ monarchy = {
 
 				#巴伐利亚
 				EDG_BAV_establish_religious_agency
+				#法蒂玛
+				EDG_FDM_dawah_intellectualism_reform		#法蒂玛伊斯兰学术传统
 			}
 		}
 		deliberative_assembly = {#合议团体
@@ -1065,6 +1075,8 @@ monarchy = {
 
 				#巴伐利亚
 				EDG_BAV_munich_parliament
+				#法蒂玛
+				EDG_FDM_majlis_al_shura_reform			#法蒂玛舒拉会议
 			}
 		}
 		economical_matters = {#经济事务
@@ -1149,6 +1161,8 @@ monarchy = {
 
 				#巴伐利亚
 				EDG_BAV_production_economy
+				#法蒂玛
+				EDG_FDM_mediterranean_hub_reform		#法蒂玛地中海枢纽
 			}
 		}
 		legitimation_of_power = {#权力合法性理论
@@ -1183,6 +1197,8 @@ monarchy = {
 				#马赞德兰
 				EDG_ERS_Motivate_Vlashaokreti #激励弗拉邵克雷提
 				EDG_BDX_World_Culture
+				#法蒂玛
+				EDG_FDM_ismaili_rationalism_reform		#法蒂玛伊斯玛仪理性论
 			}
 		}
 		absolute_rule_vs_constitutional = {#专制主义与宪政主义
@@ -1220,6 +1236,8 @@ monarchy = {
 
 				#马赞德兰
 				EDG_ERS_Sassanid_enlightened_rule #萨珊的开明统治
+				#法蒂玛
+				EDG_FDM_constitutional_caliphate_reform	#法蒂玛宪政哈里发
 
 			}
 		}
@@ -1257,6 +1275,8 @@ monarchy = {
 
 				#马赞德兰
 				EDG_ERS_Jamshid_power_structure_reform #贾姆希德的近代化改革
+				#法蒂玛
+				EDG_FDM_dualist_judicial_executive_reform	#法蒂玛司法行政二元制
 			}
 		}
 	}

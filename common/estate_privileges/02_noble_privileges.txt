@@ -50,6 +50,206 @@ estate_nobles_land_rights = {
 			governing_capacity = 100 
 		}
 	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 100
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 200
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 300
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 400
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 500
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 600
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 700
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 800
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 900
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1000
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1100
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1200
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1300
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1400
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1500
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1600
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1700
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1800
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 1900
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			mission_completed = EDG_FDM_mission_2_24
+			num_of_provinces_in_states = 2000
+		}
+		modifier = {
+			nobles_loyalty_modifier = 0.2
+			nobles_influence_modifier = 0.5
+		}
+	}
 	ai_will_do = {
 		factor = 5
 		modifier = {

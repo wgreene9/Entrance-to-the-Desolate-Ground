@@ -7,57 +7,81 @@ province_event = {
 	desc = "EVTDESC3098"
 	picture = COUNTRY_COLLAPSE_eventPicture
 	goto = root
-	
 	trigger = {
-		owner = { overextension_percentage = 1.01 }
-		NOT = { has_province_modifier = rebel_sentiment }
+		owner = {
+			overextension_percentage = 1.01
+		}
+		NOT = {
+			has_province_modifier = rebel_sentiment
+		}
 		is_colony = no
 		likely_rebels = nationalist_rebels
 	}
-	
 	mean_time_to_happen = {
 		months = 780
-
 		modifier = {
 			factor = 0.5
-			owner = { overextension_percentage = 1.5 }
+			owner = {
+				overextension_percentage = 1.5
+			}
 		}
 		modifier = {
 			factor = 0.5
-			owner = { overextension_percentage = 2.0 }
+			owner = {
+				overextension_percentage = 2
+			}
 		}
 		modifier = {
 			factor = 0.75
-			NOT = { owner = { stability = 0 } }
+			NOT = {
+				owner = {
+					stability = 0
+				}
+			}
 		}
 		modifier = {
 			factor = 0.75
-			NOT = { owner = { stability = -1 } }
+			NOT = {
+				owner = {
+					stability = -1
+				}
+			}
 		}
 		modifier = {
 			factor = 1.5
-			owner = { legitimacy_or_horde_unity = 95 }
+			owner = {
+				legitimacy_or_horde_unity = 95
+			}
 		}
 		modifier = {
 			factor = 1.1
-			owner = { stability = 2 }
+			owner = {
+				stability = 2
+			}
 		}
 		modifier = {
 			factor = 1.4
-			owner = { stability = 3 }
+			owner = {
+				stability = 3
+			}
 		}
 		modifier = {
 			factor = 1.5
-			owner = { has_country_flag = BYZ_less_rebel_sentiment }
+			owner = {
+				has_country_flag = BYZ_less_rebel_sentiment
+			}
 		}
 		modifier = {
 			factor = 1.5
-			NOT = { owner = { overextension_percentage = 1.1 } }
+			NOT = {
+				owner = {
+					overextension_percentage = 1.1
+				}
+			}
 		}
 	}
-	
 	option = {
-		name = "EVTOPTA3098" # A minor inconvenience
+		name = "EVTOPTA3098"		# A minor inconvenience
 		add_province_modifier = {
 			name = "rebel_sentiment"
 			duration = 1825
@@ -65,7 +89,9 @@ province_event = {
 		random_neighbor_province = {
 			limit = {
 				owned_by = ROOT
-				NOT = { has_province_modifier = rebel_sentiment }
+				NOT = {
+					has_province_modifier = rebel_sentiment
+				}
 				is_colony = no
 				likely_rebels = nationalist_rebels
 			}
@@ -75,20 +101,23 @@ province_event = {
 			}
 		}
 	}
-
 	option = {
 		name = "EDG_SHY_3098"
 		highlight = yes
 		trigger = {
 			owner = {
 				has_country_modifier = EDG_SHY_great_expedition
+				mission_completed = EDG_FDM_mission_3_29
+				has_disaster = EDG_FDM_path_of_rebirth_disaster
 			}
 		}
 		add_unrest = -15
 		random_neighbor_province = {
 			limit = {
 				owned_by = ROOT
-				NOT = { has_province_modifier = rebel_sentiment }
+				NOT = {
+					has_province_modifier = rebel_sentiment
+				}
 				is_colony = no
 				likely_rebels = nationalist_rebels
 			}

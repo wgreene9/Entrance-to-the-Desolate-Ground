@@ -1,0 +1,790 @@
+﻿l_english:
+#Œp¾–
+ EDG_SIC_civil_war_1:0 "ø‹‹sìpqN"
+ EDG_SIC_civil_war_1_end_tt:0 "bìNòTÏuÇûN¡RÈuÓu§Tø‹‹sìpqN§!"
+ EDG_SIC_AI_CANT_DECLARE_WARS_BEFORE_DISASTER:0 "§R(W‰‰Ì‘Œp¾–ÓumgMRybk±Rbÿ§!"
+ EDG_SIC_share_with_Fatimid_tt:0 "bìNSNbìN„vßvËSR«NsQ.•Å`¥b0"
+ unlock_EDG_SIC_Hellas_disaster_mercs_tt:0 ""
+ EDG_SIC_0_2_2_1_title:0 "@SIC=ec,g0WFUºN"
+ EDG_SIC_0_2_2_2_title:0 "@VEN¨‹‹YZ<S¯eºN"
+
+#öeãN
+ EDG_SIC_Complete_obj_humiliate_rival_tt:0 "öeãNîvh§Y0ž±¿RLe0§!SÆ‰:NòTŒRb0"
+
+#ûN¡R
+ EDG_SIC_allow_form_syracusae_tt:0 "ã‰•³Q®‹ÿ@GRE§Tú^ËzÙSÉbäSqQŒTýV§!"
+ EDG_SIC_Hellenic_path_tt:0 "å‚bìN	éb†N§TqQŒT§!„vSïÿ"
+ EDG_SIC_Latin_path_tt:0 "å‚bìN	éb†N§TTIN§!„vSïÿ"
+ EDG_SIC_stirred_up_disaster_tt:0 "§RòTÏuÇ³Q®‹æ‰ÑSŒp¾–§!"
+ EDG_SIC_mission_end_civil_war_1_tt:0 "§RŒp¾–§!§Tø‹‹sìpqN§!§RSO«ˆÈuÓuÿ§!"
+ EDG_SIC_Killed_APU_tt:0 "å‚bìNòTÏuÇ‹NöNTv^@APU§Y?–nf)RšN§!ÿ"
+ EDG_SIC_won_rival_bonus_1_tt:0 "SVbìNb—VùR§R†SòS¿RLe§!„vb‰NS·ƒ—V§Y50§!£adm£0"
+ EDG_SIC_won_rival_bonus_2_tt:0 "SVbìNb—VùR§R†SòS¿RLe§!„vb‰NS·ƒ—V§Y50§!£dip£0"
+ EDG_SIC_won_rival_bonus_3_tt:0 "SVbìNb—VùR§R†SòS¿RLe§!„vb‰NS·ƒ—V§Y50§!£mil£0"
+ EDG_SIC_won_rival_bonus_4_tt:0 "SVbìNb—VùR§R†SòS¿RLe§!„vb‰NS·ƒ—V§Y10§!›RÏ‘•bS0"
+ EDG_SIC_against_rival_bonus_tt:0 "SVbìNT§R†SòS¿RLe§!jOböeS·ƒ—VNšR§Y›Q‹N Rb§!0"
+ EDG_SIC_mission_0_2_2.trigger.tt:0 "Ç§Y9e„UsQû|§!óS·ƒ—V†NN@VEN§Y[VEN.GetName]§!§T50§!„vsQû|ÐcGS"
+ EDG_GRE_DISTRIBUTE_IN_MOREA_TT:0 "RM‘§G6§!¹p£dip£ŒT§G6§!¹p£mil£Ùu@MOE§T[MOE.GetName]§!»lN„vwýN0"
+ EDG_GRE_primitive_guns_tt:0 "\n1uŽNvQ:SøRŒTäSw„v¾‹¡‹ÿÙSÉbäSkp®pSÅNýw(WôVÎWb-N—V0RO(u0"
+ unlock_EDG_GRE_Revenge_on_Latins_flag_tt:0 "rR`S§GÉbN§!‡eSÄuwýNöeSûm RîOck0§R@GRE^JºN„vYÇN§!0ÿêS‰å‹îOckcíuÿŒRb§Y.OYe§!öeÿbìNS·ƒ—VwýN§Gê»l†˜0W8hÃV§!0"
+ EDG_GRE_distribute_10_base_tax_among_greek_provinces_tt:0 "bìN»lN„v§T^J§!‡eSwýNS·ƒ—VqQ¡‹§T10¹p§!zúW0"
+ EDG_GRE_Remove_Latin_Crusaders_tt:0 "@EP0@EPI@GK1§YÉbNASWR›Q§!„v8hÃVS«ˆ§R¹bd–§!"
+ EDG_GRE_Rejuvenate_Magna_Graecia_tt:0 "bìN»lN„v§Y±NÒR¯e§!ŒT§Y‰‰Ì‘§!‡eSwýNSlØS:N§TÙSÉbäS§!‡eS0"
+ EDG_GRE_Byzantium_Hussars_tt:0 "(W§YÜb`S‚„Á§!:NbìNÛbßR§Y10–§T§TÁ”2u1W‘šuQ§!"
+ EDG_GRE_3_5_tooltip:0 "bìN„v£icon_ideas£§YýV¶RtõV§!S—V0R§TžX:V§!0"
+ EDG_GRE_back_home_still_available_tt: "‚YœgýV¶RîOck§T0RVaNÃVR0§!S*g0Rg,"
+ unlock_estate_EDG_GRE_Elysium_Dream_tt:0 "ã‰•§TlQl§!yrCgÿ§TÃW‹V‰fKN¦h§!"
+ EDG_GRE_permanent_powerprojection_tt:0 "dk›RÏ‘•bS=f§Y8lEN§!„v0"
+ unlock_estate_EDG_GRE_Illyrian_Hussars_tt:0 "ã‰•§T^WÑyO§!yrCgÿ§TO)RÌ‘šN™Ÿ‘šuQâV§!"
+ EDG_GRE_DISTRIBUTE_IN_AZOV_TT:0 "RM‘§G6§!¹p£dip£ŒT§G6§!¹p£mil£Ùu@AZO§T[AZO.GetName]§!»lN„vwýN0"
+ unlock_EDG_GRE_Cimmerian_agriculture_descion_tt:0 "ã‰•³Q®‹ÿ@GRE§TÑžwmœQNYtQ§!"
+ EDG_GRE_MISSION_AREA:0 "Nb	g§TûN¡R‰Bl§!„vwýNÿ"
+ EDG_GRE_Alexandaria_Tower_equivalent_tt:0 "àeº‹§YO'YåTz§!§MšN†SqS'YopTX§!=f&T«ˆbìNôv¥cc	gÿbìNýS·ƒ—VIrTŽNvQ§YÄ–OîXKN§!µu+R„v§GîOck§!Heœg0" 
+ unlock_EDG_GRE_descion_Suez_Cannal_tt:0 "ã‰•³Q®‹ÿ@GRE§TîOú^XbÒRÆRÐ³l§!"
+ EDG_GRE_Aegyptos_is_our_subject_tt:0 "‚Yœg@NOM§T[NOM.GetName]§!=fbìN„v§M^SýV§!ÿ"
+ EDG_GRE_Azov_is_our_subject_tt:0 "‚Yœg@AZO§T[AZO.GetName]§!=fbìN„v§M^SýV§!ÿ"
+ EDG_GRE_Bactria_is_our_subject_tt:0 "‚Yœg@BAC§T[BAC.GetName]§!=fbìN„v§M^SýV§!ÿ"
+ EDG_GRE_Landsia_is_our_subject_tt:0 "‚Yœg@ERS§T(„Ês§!=fbìN„v§M^SýV§!ÿ"
+ EDG_GRE_Morea_is_our_subject_tt:0 "‚Yœg@MOE§T[MOE.GetName]§!=fbìN„v§M^SýV§!ÿ"
+ EDG_GRE_Smyrna_is_our_subject_tt:0 "‚Yœg@SUG§T[SUG.GetName]§!=fbìN„v§M^SýV§!ÿ"
+ EDG_GRE_Bosprus_Bonus_tt:0 "êS‰@AZO§T[AZO.GetName]§!Ø=fbìN„v£icon_EDG_Hellenic_alliance£§TTßvw§!ÿbìNS˜Y·ƒ—V§G1§!*N§YFUºNâV§!0"
+ EDG_GRE_Sparta_Bonus_tt:0 "êS‰@MOE§T[MOE.GetName]§!Ø=fbìN„v£icon_EDG_Hellenic_alliance£§TTßvw§!ÿbìNS˜Y·ƒ—V§G-1%§!„v§YF–›Q.OßupˆÏQ§!0"
+ EDG_GRE_Aegyptus_Bonus_tt:0 "êS‰@NOM§T[NOM.GetName]§!Ø=fbìN„v£icon_EDG_Hellenic_alliance£§TTßvw§!ÿbìNS˜Y·ƒ—V§G10%§!„v§YFUÁTµNúQîOck§!0"
+ EDG_GRE_Bactria_Bonus_tt:0 "êS‰@BAC§T[BAC.GetName]§!Ø=fbìN„v£icon_EDG_Hellenic_alliance£§TTßvw§!ÿbìNS˜Y·ƒ—V§G-25%§!„v§YO'YåTzú^.öeô•§!0"
+ EDG_GRE_Landsia_Bonus_tt:0 "êS‰@ERS§T(„Ês§!Ø=fbìN„v£icon_EDG_Hellenic_alliance£§TTßvw§!ÿbìNS˜Y·ƒ—V§G-10%§!„v§YNb×Skp›R2O³R§!0"
+ unlock_EDG_GRE_descion_Landsia_Silk_tt:0 "ã‰•³Q®‹ÿ@GRE§TÑSUSÌ‘wm0Wïk§!"
+ unlock_EDG_GRE_descion_Pannonian_Methorian_tt:0 "ã‰•³Q®‹ÿ@RMN§Tú^ËzXoú‹<SšN¹†u:S§!"
+ unlock_EDG_GRE_descion_Rhipaion_Methorian_tt:0 "ã‰•³Q®‹ÿ@SWI§Tú^Ëz^tôˆf¹†u:S§!"
+ EDG_GRE_gift_of_Mithras_still_available_tt:0 "‚YœgýV¶RîOck§T0ÆRyrÉb„v`<y0§!S*g0Rg,"
+ EDG_GRE_Bibliotheca_Corviniana_equivalent_tt:0 "àeº‹§YO'YåTz§!§MÑyS‡e³uþVfN†™§!=f&T«ˆbìNôv¥cc	gÿbìNýS·ƒ—VIrTŽNvQ§YÄ–OîXKN§!µu+R„v§GîOck§!Heœg0"
+ EDG_GRE_ARL_dead_tt:0 "‚Yœg@ARL§G[ARL.GetName]§!b1u[ARL.GetName]bËz„v@PER§G[PER.GetName]§!NXR(WRÿ"
+ EDG_GRE_ARL_is_dead_tt:0 "‹NöN0§Y‹TÐKNPRO¯e›sêN§!0SNQÑSu00"
+ allow_EDG_GRE_unlock_Landsia_GreatProjects_tt:0 "@GRE§T[GRE.GetName]§!S«ˆAQ¸‹O(uèR§YOgGYÂ‰§!0"
+ unlock_EDG_GRE_Revenge_on_Turkeys_flag_tt:0 "rR`S§GW3wvQ§!‡eSwýNöeSûm RîOck0§R@GREYÇNüfPŸIRSyr§!0ÿêS‰å‹îOckcíuÿ§YeRJR§!ÑSUS¦^öeÿbìNS	gàQ‡sSwýNlØSb§YšNÆušN§!‡eSŒT§YNckYe§!áOðNÿv^N·ƒ—V˜Y·ƒ—V25£cash£0"
+
+#tõV
+ Syracusae_ideas:0 "ÙSÉbäStõV"
+ Syracusae_ideas_bonus:0 "ÙSÉbäSÎ‘ÃV"
+ Syracusae_ideas_start:0 "ÙSÉbäS.Oßu"
+ Syracusae_plus_ideas:0 "ÙSÉbäStõV"
+ Syracusae_plus_ideas_bonus:0 "ÙSÉbäSÎ‘ÃV"
+ Syracusae_plus_ideas_start:0 "ÙSÉbäS.Oßu"
+ Syracusae_Military_Government:0 "ÙSÉbäS›Q?eœ^"
+ Syracusae_Military_Government_desc:0 "(W0ÙSÉbäSìrËzb‰N0TÿÄreYYÒR·ætTXýl¯e+c%†N‰Rpgm¯e‹s²RŒTlQYe’V„vYŸ4–ŒÿFOÖNv^*gÙuêñT R•QÿpNWlš^ýV„vwïÿw=f	ébNTjŒÏe¦ušRÿú^Ëz†NN*N¾|Ú‹âVÓu„v›Q?eœ^ÿïygb`Y^J.OßuÿFd1WlšqVÍTÿ(WyrÌ‘³uKQÌ‘šNKNènÍ‘ú^†NÙSÉbäSqQŒTýV0"
+ Syracusae_rejuvenation_of_civilization:0 "‡ef„vYÏ‚"
+ Syracusae_rejuvenation_of_civilization_desc:0 "1204t^„vim«Ri–›NSckYeNLuŒT^J‡efÖbeQN«RNYKN0WÿNÇa0ŒNINÿbìNÈuvz:cÇeg†N0^J‡efäSwzfga„vppìp(WÙSÉbäSwm¸SÍ‘Ãq0bìNþbwÏgÉbþV„vfNwSÿQõ‹wƒlš„vWÇrÿb`YÙSÉbäS„vgR:WÿÍ‘ú^Ñy—g¯e„vËzñgÿîOz„Å–xQ„vfRb–ÿÍ‘ÄulšvQ˜„vb5–ÿN*NäSwwÌR	gu‹T›R„v‡efck(WYÏ‚ÿv^NÔkyY†SòSNûNUON*NöeIRýôf R:VeP0" 
+ Syracusae_control_the_Ecumenical_Patriarch:0 "‡^²bnfNgr–™"
+ Syracusae_control_the_Ecumenical_Patriarch_desc:0 "TëXfWNâl)R¯eINYeÿsSnfNgr–™ÿ^JNLuáOðN„v†˜–ˆÿÙMO^y1W„vLwMOtS•g«ˆWlš‡v^µc6Rÿ¡l	gÖS—V”^	g„v0WMOÿÅNÅN=fôT‰	t¯e„våTwQ0FOÙSÉbäSòTÏuã‰>e†NÜb`S‚„ÁÎWÿ^JºN„vnfNgr–™òTàe—×SP–ŽNWlšºNŒTVYe’V„v4–qVÿ²býVlQsS=fÖN„v°e‡^²bºN0"
+ Syracusae_Come_form_Syracusae:0 "ÎNÅ–xQ0RÙSÉbäS"
+ Syracusae_Come_form_Syracusae_desc:0 "ÏgÉbþVþfÏu	NtÙSÉbäSÿFOýåNæ‚©m„v1Y%JTÈu0°eu„vÙSÉbäSþfÏumNêS=fNÏeËR–„v)RÊvTwTSOÿYŽNw–eQ›Q‹NíPINßu»l„v¹ÿFOÏuÇYMO²býVlQ„vªR›RÿbìNÈuŽNTNºNÁ‹fÿNbŒíPIN„v´f?eNÇ(fåeEe¦hÿCSt^MRòTºNÿVŽNùRÝ‹UV-N„vtó`òT(W0W-Nwm„vhfIQ-N>fbVÿ(WÕlxQN®‹O-N,rN!kwžR|T8T0ÎNÅ–xQegÿ0RÙSÉbäS»SÏgÉbþV*gßz„v|V¸Sÿ‚YÊNòTÏuySËzŽNdk0W0"
+ Syracusae_Meagali_Idea:0 "O'Ytó`"
+ Syracusae_Meagali_Idea_desc:0 "(WWlšºNƒzÖSbìN„vWµN0,‘bbìN„v‡eSKNMRÿ^JlÏe(W‡efNLuåb	gÔkWlšôf'Y„vqVÍT›RÿuóÜÜ…úQbìN„vHrþV0ÎNwm<h›R¯eñg0RpS¦^ÿÎN‰VšNIƒŸS0R<SW³lKS4YÿÙSÉbäSÅV‰˜žR°sýV6rÄreYYÒR„vO'Ytó`ÿQ!kb`Y^JSNLuÿqQTÞ˜TO'Y„vf)Y0" 
+ Syracusae_Greek_Fire_Revolution:0 "^Jkpi—‹T"
+ Syracusae_Greek_Fire_Revolution_desc:0 "^J‡ef=fú^Ëz(WwmmN‚9‚N„v‡efÿ:V'Y„v0‚–ÎNäS^J0RNWlšÿý:NbìN&^eg†NàepeŽT0:N†Nb`YÎN'Y‰m0RpS¦^m„vË–^JSNLuÿwm›Q„v:V'YNïSb:ÿw:N†N%VeˆÎN1204'Y«RóÊN„vpeŒvt^pˆÿN:WŽb=gi—‹T¿R(WÅVLˆ00^Jkp0ÙNZTkk„vwm›QfkhVÿsSSåNæSNÍyÿY`Q!k‰vNb‰N‚ðS0"
+ Syracusae_Second_Hellenistic_Age:0 ",rŒN!k^JSöeãN"
+ Syracusae_Second_Hellenistic_Age_desc:0 ",rN!k^JSöeãN=fêšN†SqS'Y'Y^NVÿlQCQMR334t^	ÿóWlšTv^gTN*N^JS‹sýVXbÒRÆRÃWÊSÿlQCQMR30t^	ÿKNô•„v†SòSöeg0gô•ÿ^JäSxQ‡efN‰šN0S^—Ir0W,gW‡efñm¦^²N‡„vúWNxNÿbVb†NN*NåN^Jí‹:N(uí‹0^JVÎW^:N‚‚¹p0FO‡eSYCQ÷mT„vè0WßW‡efWÿv^(W?e»l0ÑyfR0z‚=gŒT—RYe†˜ßWµNu†NVR'`b1S0‚YÊNÿ^JlÏeÈSN!k(W:V'Y„v›Q‹N†˜–ˆ&^†˜NÿûQ%†NNRLeºNÿckÎeg,rŒN!k^JSöeãN„vÙfIQÿ"
+ Syracusae_Hellenic_Military_Government:0 "^J›Q?eœ^"
+ Syracusae_Hellenic_Military_Government_desc:0 "(W0ÙSÉbäSìrËzb‰N0TÿÄreYYÒR·ætTXýl¯eNTjŒÏe¦ušRÿú^Ëz†NN*N¾|Ú‹âVÓu„v›Q?eœ^ÿïygb`Y^J.OßuÿFd1WlšqVÍTÿ(WyrÌ‘³uKQÌ‘šNKNènÍ‘ú^†NÙSÉbäSqQŒTýVÿÙN>N¨RñmIRqVÍT†NbìNlÏeCNóNLu„v†SòS0‚YÊNÿ›Q?eœ^òTÏuIQY†Nte*N^JNLuÿbìNNQêS=f0ÙSÉbäS„v›Q?eœ^0ÿw=f0hQSO^JºN„v›Q?eœ^0ÿY)RšNºN„vªu‹V01reY<SšNºN„vzfga0lšvQ˜ºN„vÇRfký:NqQŒTýVNb(u0"
+ Syracusae_Restore_World:0 "Í‘ú^NLu"
+ Syracusae_Restore_World_desc:0 "(WˆVYºNwegÿÙSÉbäSìrËzb‰NòT=fYt^MR„vŽV‹Nÿ1204t^„vim«R=f2NŒvt^MR„vçe2OÿÑy—g¯e«ˆ’dÐvŒT?–úWs|·VP(WQRN„v°‹ÆVôf=fM`‚Y”–N0‚YÊNÿqQŒTýV„v0‚–ckvšeQÜb`S‚„ÁÿÑy—g¯eFUO„vFU9‚(W^X(„m<SúW„v=nãSÛúQÙVŒxÿÙSÉbäS„vfRw(WÅ–xQþVfN†™åeYtetäSM|0bìNþfÏuàQÑN«RNYKN0WÿFO™„INRi`ÿbìNgÈuÍ‘ú^†N^JNLuÿîOY†NCSŒvt^egïy=t„vR2OÿÔk†SòSNûNUON*NöeIRý‰Aucƒ0fÛv0O'Y0" 
+ Syracusae_control_the_Ecumenical_Patriarch_plus:0 "1WYeOˆcCgqQŒTýV"
+ Syracusae_control_the_Ecumenical_Patriarch_plus_desc:0 "çeåe„vWlš‡v^àe›R(WVYe’VŒTn^yw„v4–qVMRÝO²bckYeOÿFOÙSÉbäS²býVlQïSåNÿ^J„vÇRëXïSåN0–NwÜb`S‚„Á«ˆqQŒTýVNbã‰>eÿnfNgr–™NQãgŽNôT‰	t¯e„vCgVgÿw=f:NÙ*N1u^JºNú^Ëz0:N^JºNXR(W„vqQŒTýVHyy01WYeOb²‹ÙSÉbäSqQŒTýV=fckYeáOðN„vTÕlÝOkSwÿ=fhQSO^JºN„vN×O†˜–ˆ0jO:NÞV¥bÿqQŒTýVÝOÁ‹YeO„vìrËzNS%Nÿgr–™	gCgìSÆ–'YlQO®‹ÿ	gCgÔYûNINYeÿ	gCg(WNRáOðN‹N¡RNÂSNÁˆ³Q0ÙN=fWlš^ýV„v‡v^ÌQŒšŽNYeOKNNÿmNN=flQYeVïz„vYeOÌQŒšŽNýV¶RKNNÿw=fASWR¶gNÝ„‹v×e^„v|VdkÁ‰Á‹ÿ=f1WYeONÙSÉbäSqQŒTýV„v^y1Wßv¦u0"
+ Syracusae_Come_form_Syracusae_plus:0 "ÎNÅ–xQ0RÙSÉbäS"
+ Syracusae_Come_form_Syracusae_plus_desc:0 "ÏgÉbþVþfÏu	NtÙSÉbäSÿFOýåNæ‚©m„v1Y%JTÈu0°eu„vÙSÉbäSþfÏumNêS=fNÏeËR–„v)RÊvTwTSOÿYŽNw–eQ›Q‹NíPINßu»l„v¹ÿFOÏuÇYMO²býVlQ„vªR›RÿbìNÈuŽNTNºNÁ‹fÿNbŒíPIN„v´f?eNÇ(fåeEe¦hÿCSt^MRòTºNÿVŽNùRÝ‹UV-N„vtó`òT(W0W-Nwm„vhfIQ-N>fbVÿ(WÕlxQN®‹O-N,rN!kwžR|T8T0ÎNÅ–xQegÿ0RÙSÉbäS»SÏgÉbþV*gßz„v|V¸Sÿ‚YÊNòTÏuySËzŽNdk0W0"
+ Syracusae_Meagali_Idea_plus:0 "O'Ytó`"
+ Syracusae_Meagali_Idea_plus_desc:0 "(WWlšºNƒzÖSbìN„vWµN0,‘bbìN„v‡eSKNMRÿ^JlÏe(W‡efNLuåb	gÔkWlšôf'Y„vqVÍT›RÿuóÜÜ…úQbìN„vHrþV0ÎNwm<h›R¯eñg0RpS¦^ÿÎN‰VšNIƒŸS0R<SW³lKS4YÿÙSÉbäSÅV‰˜žR°sýV6rÄreYYÒR„vO'Ytó`ÿQ!kb`Y^JSNLuÿqQTÞ˜TO'Y„vf)Y0" 
+ Syracusae_Greek_Fire_Revolution_plus:0 "^Jkpi—‹T"
+ Syracusae_Greek_Fire_Revolution_plus_desc:0 "^J‡ef=fú^Ëz(WwmmN‚9‚N„v‡efÿ:V'Y„v0‚–ÎNäS^J0RNWlšÿý:NbìN&^eg†NàepeŽT0:N†Nb`YÎN'Y‰m0RpS¦^m„vË–^JSNLuÿwm›Q„v:V'YNïSb:ÿw:N†N%VeˆÎN1204'Y«RóÊN„vpeŒvt^pˆÿN:WŽb=gi—‹T¿R(WÅVLˆ00^Jkp0ÙNZTkk„vwm›QfkhVÿsSSåNæSNÍyÿY`Q!k‰vNb‰N‚ðS0"
+ Syracusae_Second_Hellenistic_Age_plus:0 ",rŒN!k^JSöeãN"
+ Syracusae_Second_Hellenistic_Age_plus_desc:0 ",rN!k^JSöeãN=fêšN†SqS'Y'Y^NVÿlQCQMR334t^	ÿóWlšTv^gTN*N^JS‹sýVXbÒRÆRÃWÊSÿlQCQMR30t^	ÿKNô•„v†SòSöeg0gô•ÿ^JäSxQ‡efN‰šN0S^—Ir0W,gW‡efñm¦^²N‡„vúWNxNÿbVb†NN*NåN^Jí‹:N(uí‹0^JVÎW^:N‚‚¹p0FO‡eSYCQ÷mT„vè0WßW‡efWÿv^(W?e»l0ÑyfR0z‚=gŒT—RYe†˜ßWµNu†NVR'`b1S0‚YÊNÿ^JlÏeÈSN!k(W:V'Y„v›Q‹N†˜–ˆ&^†˜NÿûQ%†NNRLeºNÿckÎeg,rŒN!k^JSöeãN„vÙfIQÿ"
+
+ Hohenstaufen_ideas:0 "—¨NËev–¬‚‰‰Ì‘tõV"
+ Hohenstaufen_ideas_bonus:0 "—¨NËev–¬‚„v8lN.OGY"
+ Hohenstaufen_ideas_start:0 "—¨NËev–¬‚‰‰Ì‘.Oßu"
+ Hohenstaufen_eagle_of_Malta:0 "lš3wÖNKNpž"
+ Hohenstaufen_eagle_of_Malta_desc:0 "^J0åe3wüf0ÉbNÿ	N*N‡ef„v¾|NSø”1S†NbìN„vT‹sSyrÈp0¯eðl±ƒyr0„vO'Y0\nÖN„viOQR••0ÖN„vªgÛw•)RÿÖN„vbÔv’‘îvê•®N0ÖN„vö”þv.fgqÿyz‡Ràe W²fLqLq0\nÖN=f¯ev–¬‚„vdRf0=flš3wÖN„vÑžpž0=f°eöeãN„vóS0"
+ Hohenstaufen_Barbarossa_ambition:0 "ôTôTW(„Ä–ÃV"
+ Hohenstaufen_Barbarossa_ambition_desc:0 "O'Y„v—¨NËev–¬‚‡v^SyrÈp0ôTôTW(„0ÎNËeæt,gw¶Rÿ R•Q:NWlšºN„v‡v^ÿ:YÖS†N·Va×V0a'Y)RŒTÃRn‚,r„v‹s QÿNu:NúWcwŒT^ýVWSVSbÿÖNYuN„v°‹ÆVóÊNÀo±RNwbìN„vëXuQŒTS›QÿëXuQìNg…VNwôfO'Y„vb—eÿS›QìNs‚¡ÖN„v^yŸR1Wfkÿv^ý?aa:NžR°sÖN*gßz„vÄ–ÃVwKY—eÈuu0"
+ Hohenstaufen_Kaiserreich:0 "a'Y)RŒTåe3wüf„vïQ’d"
+ Hohenstaufen_Kaiserreich_desc:0 "ßu»lte*Na'Y)RŒT·Va×VMR2MOSyrÈp„v*gßzKNNÿ‚YÊNck't't%e(W,r	NMOSyrÈp„vKb-NÿN*N-T°e„v0wckaINN„vWlš^ýVòTÏuÍ‘4NºNô•ÿïQ’d„vcƒIQ<ri†NhQa'Y)RNåe3wüfÿCNóte*N‰¹eÿ'k2mòTÏuÈeQ†N°eöeãN—¨NËev–¬‚„v0Á”KNNªu00"
+ Hohenstaufen_University_of_Fredrich:0 "SyrÈp'YfR"
+ Hohenstaufen_University_of_Fredrich_desc:0 "SyrÈpŒNN(WMOgô•ÿRžR†N‰‰Ì‘,rNNb'YfRÿtQžR†N×‹LkfR!hÿrlÖS†N?–Éb=OŒT^JNLu„vzfgaÿS‰‰Ì‘ØSb†N0ÎžfMR‡ez‚YtQ0„v,rN¹bÙfIQ0N*NýV¶Rg—‰„v8lÜ=fºNMbÿ1S©‹,r	NMOSyrÈpÎNSyrÈpŒNNKb-N¥cÇ¥c›RÒhÿSÖN„vWµNibú^:N‰‰Ì‘„v'YfR²0"
+ Hohenstaufen_Norman_ammiratus:0 "ú‹üfwm›Q'YCQ^"
+ Hohenstaufen_Norman_ammiratus_desc:0 "\n‰‰Ì‘ýV‹sWpgŒNN¾‹Ëz†N†SòSN,rN*Nwm›Q'YCQ^ÿ\n9ei—wm›QSO6Rÿ1udk`YšR†Nú‹üfºN„v8—N0\n\nyrÌ‘³uKQÌ‘šN0WY0W-NwmKNÃVÿ‚Yœg‰b:N'k2m„v'YýVÿfR`Nú‹üfºN„vÏuŒš0ÏPWpgN7h9ei—wm›QS=fÅVÏuKNï0"
+ Hohenstaufen_Papal_controller:0 "	NÍ‘•Q„v‡^²bºN"
+ Hohenstaufen_Papal_controller_desc:0 "O'Y„v—¨NËev–¬‚¶RÏeNPKg„vWlšYe÷^KNô•„v—e‰NÈuŽNK„N†N7^U^ÿbìN‚Y?aåNPµc6R†NnfNYeO„v8hÃVÿýw:NïbQelQYe‡ef'YUSRþVÿw—Rµ^mNQàe—«ˆSN×O¡RSbpbÿïSåN0Rlš3wÖN„vîOSb–joÃVxû‹xQM|ÿ:N9ei—lQYeZPúQ!.sÿwïSŒ2NhQvQŽ0"
+ Hohenstaufen_the_Constitutions_of_Melfi:0 "°e…hSòƒªRÕl"
+ Hohenstaufen_the_Constitutions_of_Melfi_desc:0 "1231t^ÿSyrÈpŒNN˜^†N0…hSòƒªRÕl0ÿSO°s†NÖNú^Ëz-N.YÆ–CgýV¶R0žRLˆÍ‘FUININ„v`ó`0öeóÊNåeÿb—T°eöeãN„vÙfIQÿbìN”^å‹Ùz(WèTºN„v©wN9eÛ…hSòƒªRÕlÿÛNek¨c¨RN6R‹sCgŒT-N.YÆ–Cg0"
+
+ Angelos_ideas:0 "‰Rpgm¯e°eWlštõV"
+ Angelos_ideas_bonus:0 "‰Rpgm¯e°eWlšÎ‘ÃV"
+ Angelos_ideas_start:0 "‰Rpgm¯e°eWlš.Oßu"
+ Angelos_Porphyrogennetos:0 "uŽN+t²R"
+ Angelos_Porphyrogennetos_desc:0 "bìN=fWlšºNÿbìN„vTIN=fuŽN+t²R„vckßuN^ýVçubºNÿbìN„v‹sg=fTëXfWNâl)R¯eTckŠz˜„vßu»l¶RÏeÿNb	g'k2mýV¶Rý‰¦”UabìN„v‡v²Rl¦^0"
+ Angelos_Issac_reforms:0 "O(„KQ0?e9ei—"
+ Angelos_Issac_reforms_desc:0 "‰‰Ì‘…QbYuN†NN*Nánîv®uÍu„výV¶Rÿ…Q	gRRãg00ˆ0ˆ2k¨R„vÉbNºNÿY	gYe—RŒTZ<S¯e„v‹SëÿO(„KQ”NNÛLˆ†NNû|R0?e9ei—ÿegÝOœ–‰‰Ì‘„výV¶R:ghVýwck8^ÐLˆÿåNnxÝOÖN„vÄ–ÃVýw—V0RžR°s0"
+ Angelos_Roman_league:0 "WlšTßvªRàz"
+ Angelos_Roman_league_desc:0 "N*N…QY²NðV„v‰‰Ì‘N³åN=e‘d‰Rpgm¯e‹sg„vWlšKN¦hÿ±bìNUONteT›RÏ‘ÿSNb	gFkUaWlšKNºNýÉbâb0RbìN„v5–%„ÿ¸‹ú‹ÖNìN‹YYÿêS‰ÖNìN.sNàVÚ‹ÿ"
+ Angelos_Learn_from_the_west:0 "fR`N‰¹eSO6R"
+ Angelos_Learn_from_the_west_desc:0 "jO:NN^ýV„vckßu‹sgÿ¡l	gºNÔkbìNôf†Nã‰Üb`S­^„vH–çe˜RÚP:g6R=fYHNß|Õ|v˜0bìN°eWlš„v«R÷^tQÛvŽN‰¹eÿïSåNŽ÷‹‰¹e„vŒ˜î•0FUºNŒT˜RÚPÿåNÛNekÐcØšbìN„vLˆ?eýw›RÿôucN*N3zšR„v˜RÚPSOû|0"
+ Angelos_Romance_Hellen_friendship:0 "Wüf-^JDQVÅ`Œ"
+ Angelos_Romance_Hellen_friendship_desc:0 "Nåe3wüfºN„vTjOÈuvzêS=fZ†NÔYÇ†ÿNWüfDQV„vËSŒMbýw:N^ýV&^egg'Y„v)RÊv0WüfºNåb	gÔkåe3wüfºNôfHQÛ„v‡ef0ôf:V'Y„v›Q–0ôfcƒw„v‹s²RÿmNßbìNN7hôfàVŽNWlšŒTóØšàeN„vYe—R0"
+ Angelos_decentralization:0 "0W¹eRCg"
+ Angelos_decentralization_desc:0 "ÎN,rÛV!kASWR›QåNeg„vpeŒvt^ÿ^ýV†˜W=e»y4xŽxÿvQz¦^=fMRNb*g	g„v0‹†6qbìNòTÏuúW,gb`Y†N^ýV†uLuÿFO0W¹eê»lòTÏub†N.OßuÿwbìNVåNŒRbßuNON„vŸRãmNN?a«ˆ:YCg0âe6q‚YdkÿbìNN¨Y>eCg0W¹e0SV6qÿMRÐc=fÖNìN:N°eWlš.súQÃV0"
+ Angelos_Imperator:0 "N¹eN‰¹e„vïQ’d"
+ Angelos_Imperator_desc:0 "åe3wüfºNðyÖNìN=fWlš„vçubºNÿFO‹NžR>f6qN=f‚Ydk0°eWlšÏPäQðQ…mÃi,‚ÎNŸ^ŸX-NTwÿpTIQcƒ„v‹TÐÿ±RJT†NN¹eN‰¹e„vïQ’d„vàeNCgZ0‰Rpgm¯e„vB›upÎN­eÁX‹k±W-N4xWwúQÿY—Y—«N×SnfNKNýV„vcƒw0"
+
+ EDG_Ducate_ideas:0 "^J›Q:StõV"
+ EDG_Ducate_ideas_bonus:0 "^J›Q:SÎ‘ÃV"
+ EDG_Ducate_ideas_start:0 "^J›Q:S.Oßu"
+ EDG_Ducate_1:0 "¹ƒX›QâV"
+ EDG_Ducate_2:0 "^J˜RÚP"
+ EDG_Ducate_3:0 "ÙSÉb“^^X„vÆNÎN"
+ EDG_Ducate_4:0 "«Ž‘šNLu„všlš"
+ EDG_Ducate_5:0 "^JS"
+ EDG_Ducate_6:0 "ckYeípñV"
+ EDG_Ducate_7:0 "ÙSÉbäS»lN„vŒTs^"
+ EDG_Ducate_1_desc:0 "?–KQÌ‘yrŸS=fN^ýVNb¾‹ÿZWˆRšN2m¹ƒX„v¹2–›Q0ÖNìN(WqSô•Qrw!X’Wÿ(W‰S¾‹aSÿ(uýpkp.OLeÅ`ÿ(u•ÛwŒTV)VˆR²b«ŽT„v^JQgK„0kNóASNªuÿ?–KQÌ‘yr«ˆ³ueQckÄ‰›QSOû|ÿ«N	gW0WMQzCg0b)RÁTRbŒT¹ƒXê»lCg0(WHQTÏuÇ^XSñgeQµOŒTôTReYeu„vfiw»ltTÿ?–KQÌ‘yr6R¦^nŸ^V0‚YÊNÿ^JºN„v›Q?eœ^:N†Nb`Y‡ef„v¹†uÿQ!kÍ‘ú^†N?–KQÌ‘yr6R¦^0"
+ EDG_Ducate_2_desc:0 "›Q:S„v˜RÚPôv¥c1uÙSÉb“^^XÔY>mÿ=f‡efNLugÌR	gÏuŒš„vLˆ?eºNXT–OÿÙWY.ObêN^ýV0ÏuÇqQŒTýV9ei—„v^J˜RÚPû|ßuàe‘u=fØšHewÉ^m„v0"
+ EDG_Ducate_3_desc:0 "›Q:S„vXR(WÿN=f:N†NÎN²býV®‹OKb-NR¦mCg›Rÿw=f:N†N©‹ÙSÉb“^^X„v²býVlQýwYôf‹Y0Wµc6R0W¹e0›Q:S„vS›Qb¥cVyýVKN6r„vi`ýlwßu»lÿãNÿfgb?e˜R R:VùRT0W„vßu»l0"
+ EDG_Ducate_4_desc:0 "bìNý–NwbàeNÜw„v²býVlQÿZWáOÖNS‘šXNšlšVghQNLuÿžR°sšN†SqS'Y'Y^*gßz„v„˜Šÿv^'tßvQVgNLu„vekÿ?a:NÖN„v‹NNw‚m0W0tdlHŽkp0"
+ EDG_Ducate_5_desc:0 "^J‡ef„vqVÍTƒôVþfÏu‰ÄOÔk)RšNÿN0RpS¦^³lAmßWÿFO‚YÊNtSˆR1r4twmN…–0:N†NžR°s^JºNKN6r„v0O'Ytó`0ÿ›Q:SNÅN=f-N.Y?eœ^N„vN*NR=eÿôf=f^J‡ef„v­dÍywÿïyg(W0W¹e¨c^TSÿrlÖSSV0W‡eS„v	gÊv÷N<Pÿ‡eQ^JNLu0"
+ EDG_Ducate_6_desc:0 "SVÊN^JºN„v¾|^yNLuú^ËzŽNckYe‡ef„vúWówKNNÿÙSÉbäSºNùRckYe„vÂrípmNñmñmqVÍT†NbìN0áOðNSegêNT0W:S„vëXuQÝQZw:NDQVÿ©‹ÖNìN(WVYeÛVb—ôVIe„v¹†uu?aZWˆRÿîOSb–|QjOISb–0®|ÓNNýpkpðSÿîOëXTöeKbgb1WÏuN)RQRÿ=f›Q:SgZWç—„vh0"
+ EDG_Ducate_7_desc:0 "bìNYŽN^JTw¦„v‡^²bKNNÿ«N×SNw•EN3zšR„v*Ys^ÛvNÿÙSÉb“^^X„v²býVlQte»l0?e0b`Yz6eéy^0teƒw›Q–ªu‹V0îOú^úWNx¾‹Ëe0¨c^^Jí‹06RšR^JÕlÿO^JSNLuŒTs^	g^ÿöeºNðyKN:N0ÙSÉbäS»lN„vŒTs^00"
+
+#tõVÄu
+ EDG_Firepower_basic_ideas:0 "kp›RtõV"
+ EDG_Firepower_basic_ideas_start:0 "kp›RtõVÎ‘ÃV"
+ EDG_Firepower_basic_ideas_bonus:0 "ŒRbkp›RtõV"
+ EDG_Firepower_basic_ideas_1:0 "8^Y›Q9ei—"
+ EDG_Firepower_basic_ideas_2:0 "¡VMR®puQfRb–"
+ EDG_Firepower_basic_ideas_3:0 "R—Ü”öeãN"
+ EDG_Firepower_basic_ideas_4:0 "wmmKNkp"
+ EDG_Firepower_basic_ideas_5:0 "Î‘b®puQìrËzS"
+ EDG_Firepower_basic_ideas_6:0 "¿uV:g¨ROSTb=g"
+ EDG_Firepower_basic_ideas_7:0 "'Y®p²b=g"
+ EDG_Firepower_basic_ideas_1_desc:0 "8^Y›Q=f>yOuµN›RÑSUS0RNšR6–µk„vµNirÿ=fýV¶Rb?e»lÆ–âVs^öeÝOc„v°syVckÄ‰›Q–8^Y›Q8^Ç‘ÖSßuN„vÄuÇu6R08^Y›QN,‚M‘6RV„vÅˆYÿžRLˆyršR„v›QTˆIrµu6R¦^ÿzNwßuN„vgÅˆÿO(uN(u„vh×VŒT&r÷SÿžRËeNè•„vYe²w­‹ÃuÿgbLˆ%N<h„vÄ‰àz6R¦^ÿÝOcƒØš„vjObýw›RŒTbY4ls^0ÈT8^Y›Q=f›Q‹N9ei—„vÅV1uKNïÿmNh×VNwýV¶RSôfYDn•beQ0RF–›QSV-Nÿ:N°eVfkhV„vVÑS`YšRúWNx0"
+ EDG_Firepower_basic_ideas_2_desc:0 "¡VMR®puQfRb–=fbýVgÍ‘‰„v›Q!hKNNÿå‹!hËYRŽN15Nªuÿ=fbýVgée„vùW‰Q®puQ›Q˜R„vLwN›Q‹NYe²wb–!hÿ(WTegb:Nte*Nkp®p›Q„vûN‹TMRYe²w:g„g0Ïkt^ÿfRb–O	Ôb	gMbr^„vR—t^°euQÿÛeQb–!h„vfRPRSx`NN›Q‹NTäR0è–ŒcåNÊSôVÎWhV°hú^.øvsQ„vNRåwÆ‹0"
+ EDG_Firepower_basic_ideas_3_desc:0 "1450t^ó1540t^=fNbŒ„v'k2m0,rŒN*NR—Ü”öeãN0ÿTýVÞzøvø”.Ü”®p¡rÿvQµNÏ‘KN'Y0‰mÊS0WßWKN^ÿzzMRÝuT0kp®pR‰|SOû|nb‹Wÿ•®p¡r•SÜÿ RœQ®p¡ríw›RsÿëûQ®pòfSØš›b0^JpefR¶R<SäSÉb·KQÌ‘<S¯eÑS°s®p9V(Wwzz-NåN45¦^SÒ‰ÑSSöeSzg'Yÿ:N®puQfR`YšR†Ntº‹úWNx0QÙNöeãNÿýV¶RßuNkp®pãS„Vÿú^Ëz®puQšRµu6R¦^ÿOkp®pwckb:N›Q–„v8^YuQÍy0"
+ EDG_Firepower_basic_ideas_4_desc:0 "^Jkp=fAm.OêNWlš^ýV„väSwfkhVÿvQM‘¹eåNów¹l:NúWÿ÷mTkxúx0Œg™™0hÿÏuR—Ü”y†8T¡r·USÿïS(W4lb—NcíuÃqçp0‚YÊNÿ1uŽNb‹N„v—‰ÿ^J„våT.SSäSw„v^JkpNN¹e„vkpoƒ0kxówøvÓuTÿ¬PuúQôfïS`„vr4xfkhVÿb:NgdÁkLe›QŽÍ‘0qÁk®|Iƒ0Iew–ZWÎW„v)RhV0"
+ EDG_Firepower_basic_ideas_5_desc:0 "äS¯eTX+Y·?–S+Y=fW„T„v›Q‹N9ei—¶RÿÖNKˆN†Nkp®pMRNb*g	g„v:g¨R'`ÿvQ8hÃV`ï=f©‹kp®pßN'Y›Q„vekOÿÇÏQ‰®p¡r0)íw•¦^v^ÏQSÅˆoƒÏ‘ÿR.úQÅN—2NºNbN9Slš1SïSurV„v0®vi—®p0ŒT3Åx0âV^Skp®p0ÿb:N4O–ekuQ²Q•„v0ûy¨Rkp›R¹p0ÿS®puQÎN0…©R00WMOÐcGS:NNek0‘šuQv^R„vìrËzuQÍyÿv^ú^ËzNè•„vc%cSOû|ŒT­‹ÃuhÆQÿKˆNvQìrËzb=g0WMO0"
+ EDG_Firepower_basic_ideas_6_desc:0 "äS¯eTX+Y·?–S+Y‡sHQSkp®p‰‹WSÿåN®v6R®p¡rŒTôf‰„v®p¶gOkp®p—VåN4O–ekuQ:g¨R0ÖNŸ^d–(rÍ‘„vIeÎWèT®pÿÇ‘(u3Åx06Åx012Åx„vhÆQSâV^Skp®pÿSkp®pNekuQ0‘šuQOSTO(u0¿uVb=göeãNÿkp®p«ˆèr(Wb¿u-N.YÿåN²NÉSkp›R•dÂˆLe›Q–R0Skp®pRceM‘^SÿåN2Nè•®p:NNÄuÿ–ÛIe¿uRûy¨RÐc›Okp›R=eôcÿOek0‘š0®p	NuQÍyOSTjObÿck=fvQb=g8hÃV0"
+ EDG_Firepower_basic_ideas_7_desc:0 "úQ«Ž®puQ„vÿb4xÑN·âlÿbôT(Wpš‹š†u:WöeS®puQb=gÐ(u0Rgô0ÖN–™R0'Y®p²b=g0SpeŒvè•kp®pÆ–-NO(uÿ(W³QšR'`¹eTNùRLe›QUSNüµOžRËeÁkmp'`pûQÿ…VLe5–Œg¨RTåN‘šuQŒTekuQµu–zeQ0(W›QâV6R-NN¾‹0®puQ„˜Y–0ÿ1ugØšßu»lwôv¥cc%cÿïSåNnxÝObìN(W³QböeIRåb	g‹SP'`„vkp›R0"
+
+ EDG_Firepower_Act_0:0 "kpoƒÑv¡rÕlHh"
+ EDG_Firepower_Act_1:0 "›QåTSOû|ÕlHh"
+ EDG_Firepower_Act_2:0 "®p0‚Y²NÕlHh"
+ EDG_Firepower_Act_3:0 "^yZÈp0q"
+ EDG_Firepower_Act_4:0 "Ârpån¸p"
+ EDG_Firepower_Act_5:0 "kpñrKNQR"
+ EDG_Firepower_Act_6:0 "NLu^ýV"
+ EDG_Firepower_Act_7:0 "ºNl®puQ"
+ EDG_Firepower_Act_8:0 "0°eéy^09ei—"
+ EDG_Firepower_Act_9:0 "‹s¶RåT‹N0®puQN¾‹¡‹fRb–"
+ EDG_Firepower_Act_10:0 "³uÌ‘šN·VâV"
+ EDG_Firepower_Act_11:0 "Ng^ÕnËeðlàVSOû|"
+ EDG_Firepower_Act_12:0 "Üw)RKNï"
+ EDG_Firepower_Act_13:0 "ÀQSag‹O"
+
+ EDG_Firepower_Act_0_desc:0 "kpoƒ=fýV¶R›Q–„vNˆ	ÿmN=f>yO´fqN„vVáO0Skxówÿw0kxúxÿw0kpoƒåTJW6eRVýV%„ÿßuNM‘¹eÿßuNXRÏ‘ÿßuNM‘ÑS0ÏkNvhkpoƒý	g÷SÿÏkNÑS®p9Vý‰v°‹(WŒQ0Ñv¡rr„vpSàzÖv(W9VóXNÿmNÖv(WÛSqN„vËT‰UN0ýV“^àV„W­ewEQÈvÿ>yOàV¡rµcw‰RšR0"
+ EDG_Firepower_Act_1_desc:0 "ø”®p—‰Ü”!•ÿkpoƒ—‰kxówÿÐ“—‰flš0ÎNÿwqS0RåTJWÿÎNåTJW0R=nãSÿÎN=nãS0RMR¿uÇNû|R„vªR›RÿbýVòTÏuåb	g†NŒRte„v›QåTµNNþ”ÿýwêINSŸSPg™elS:Nkp›R0ÏkNè•kp®p„v®p¡rNýÙppSNwÿwåT„vWl4l0åT.S„vŽbz‚0FUºN„vD,g0›QåTtQRŒvNtQÿŒvNtQRýV“^Èv0"
+ EDG_Firepower_Act_2_desc:0 "Y²NžäN„vÌwTÿ=f0‚–7‚—z-N8OúQ„v®p¡r0ÅˆYèT®p„vb0‚áTVlQwmKNNÿÏk0FUï‰Nïzb†˜0W u·uÿ0‚®p„vp1ž¿O=fgŽrm„vŒ2Rí‹Š0ŒTs^egê—Qaÿ©‹eknŽNP`ç`0LeºNOuç`®pãSÿßvËSleÍ‘žR›R0®p0‚µb¾KNåeÿŒ2R¿OVËYKNöe0"
+ EDG_Firepower_Act_3_desc:0 "^yLwºNXT:Nkp®pky1WÿëXuQSáOðN„va×VIR(W®p9VN0^y1WO‹TKˆNb‰NåNTÕl'`ÿÈp0qb:Né`ZLeÇR„v)RR0ÏkNðXp1žý=fùRn^yw„v¡R2RÿÏkNSr¸pý=f)YZ„v>f°s01W×eNbTÿ®pkpNbóÿáOðNNmpÿÈp0qNo`0"
+ EDG_Firepower_Act_4_desc:0 "Æ–-NNb	gkp®pŽN³QšR'`¹eTÿN¡‹b,g0W>Pûl9Voƒÿ¬wô•9eØSN:WbyV„v<hNSÿåN÷–—Nµ”KN¿R•dVLe5–0S›QâVÎ‘b®p–eQÛIe¯h–ÿ(WÛIejOb-NN¡‹b,g0W>Pûl9Voƒ09VU^ÆR¦^…ÇLe›Qb×SgP–öeÿÎW™XVÂˆÿ–Rƒnceÿ2–¿u)TLXƒn%ÎN)YwM–0HQpT²QÿNYuImãSÿåNkpm0WÿøRIƒNu0sÈp„vkp›R,g«Ž1S=fÛIe„v÷SÒ‰0"
+ EDG_Firepower_Act_5_desc:0 "kpñr=f0äSpQÏu0ÍSYÏcð„v:NNáOS0jOv`NNINw„˜Y„vTNé`ZKNNbÿ±Ì‘ÃqçpNwTlVNR„vÈpkpÿEQán¸l4l0ÒkÎ˜N8làeô•­e„vw‘Rÿ=f«ˆúQwINHa¯`„vÈugñmn0wHQåwFzUØž·Vÿ?aINy‰RKN	ÿþfPˆN?–Ì‘TQRPOÒRòƒaSSÿÙŠbQR(WckINKNb-NãNhˆ†NMckSckS0S–`KNLeûQeQkpñr„v^y1WÁˆ³Q›RÏ‘0wSVáO’VàVÁy2kb>mû|·u‰NÿS,gå‹cTYLe„v)RR%cTêñT„vYeÞwöeÿÙŠbQR¿OÎN	TÈT·V„våTwQÿmbl:NScQRw,g«ŽÖbeQkpñr„v0RZKNV00‚YÊNÿYeÕlfR¶R²‹:NÿwINòTÏuSkpñrKNQRPˆN†NbìN„vÈTÌ‘ÑSÿÃOObýV:N°eNn„v	TÈT·VŒTßuN¾S·O¯epQwªR›R0"
+ EDG_Firepower_Act_6_desc:0 "ÜV0‚–„v9‚O‚®pãScT*gåw„vwm¸S¿u0kp®pNÅN(uŽNpûQWW„!X’Wÿôf(uŽN±RJTINCg0qšÞz‰Nw0–kl0W(W®pðS„v‡^²bNu9hÿ8fÙz(W0‚®p„vSz…QAucƒ0ÏkNðX®pÍTÿý=f‡ef†uLuTYö^8O„váO÷S0"
+ EDG_Firepower_Act_7_desc:0 "bìN„v®puQè–NÅNåb	ggHQÛ„vfkhVÿôfåb	ggHQÛ„v`ó`ŒTtõVÿv^Ç‘(u†NgHQÛ„vb=g0NbåN®puQýúQ«ŽŽNê1ulÿN:N'Y'YSS„vSú^INwbÿwNÃVNa:NêñT„vœQlTÞwwbÿ=fwck„vºNl®puQ0"
+ EDG_Firepower_Act_8_desc:0 ":N†N|b6RLeýV„vNGS¿R4Yÿ^ê™l^X)RÆY	NN³QšRHQÎN›Q–eQKbÿ­‹ÃuN=e°eV›Q–ÖSãN^ýV„vÑkSuQâV0ÖNNè•-eQ†NNybegYªgŒT‰Vkp®pÿÈS÷‹egYýV›Q‹NŒ˜î•1­‹Ãu°e›Q0^X)RÆY	NNÄuú^†NàVŽNTIN„v°e„v8^Y›Q0ÖNRžR†NF–›QŒTwm›QIrTÍy°e„v›Q‹NfR!hÿXw÷‹YýVYe˜RûNYe0:N†NM‘TYýVYe˜RìN„våTjOÿÖNØNè•¾‹Ëz†NàQNb›Q‹Nb–!hÿ(uY‡eˆcþ‹ÿÏkNbfR!hý°eú^N*NþVfN†™ÿ6eÏ…„vmN'Yý=fY‡efNM|0"
+ EDG_Firepower_Act_9_desc:0 "kp®p•dVçeöeãN„vÎW™XÿåT‹Nµb¡V°eöeãN„vjmno0:N†Nôuc‹sýV(WwmY„v)RÊvÿßuNOÔk)RšNåNM–„vRMOOÔk)RšNTINý'Y›Rö^ýc'k2mv˜S›Q‹NåTz^ÿŽNÌ‘¯e,gRËzÙNbÓuTpefR06RþV0QrÎWN®puQfR„v‡v¶RfRb–0(WÙÌ‘ÿ5ÏePRVNs^l)YMbNT»”xƒl¦V2–¿u09VS¡‹—rNwm¸S®pðS¾‹¡‹0ck=fÙ›NÕkNuÿ©‹Nµ^µ^ñh!X(WàepeôVIe-NySËzNPÿmNäNOÔk)RšN„v®puQ(WÏkN!k’cS-NSbúQ^SŽNJS›S„v`<T0"
+ EDG_Firepower_Act_10_desc:0 ":N†N¨cÛW¯e^ýV„v8—NÿOáQ0÷–^0'Y›RžX:V-N.YÆ–Cg0¨cLˆ›Q‹N9ei—ÿÖNú^Ëz†N0³uÌ‘šN·V0ÿ,ga:N0>mc0b0Rc–0	ÿÿsSNÍyûN¡RüRT„v4Nöe'`®puQRc–ÿ,g«Žv^^—úVšR6Rÿw=f9hncwQSOûN¡R—‰Æ–Óu„v4NöeUSMO0ºNXTIN‰ÎN®pKbŒTéegkpóuªgekuQ-NËbŒ0³uÌ‘šN·VâV(WSVöe=fÍ‘‹Wkp›R„vãNTÍ‹ÿ:NIeZW4xÎWËzN†NWllšŸR³RÿvQÐjO!jVmN:NTeg„vW¯e®puQckÄ‰S`YšR†NúWNx0"
+ EDG_Firepower_Act_11_desc:0 "ˆ”ùR(WeY0W)R‹sMOçubb‰N-N´f2—„v®puQ%NÍ‘íwgÿNg^ÕnËeðlàV²N‹s×S‹TùR‡v¶R®puQÛLˆhQb—9ei—0ÖN²NêxÑSv^nfÊS†N®p¡rðNÒ‰º‡ËeŒteÅˆnÿg'YÐcØš†NSŒT¾|¦^ÿv^Ÿ^d–(W2—)Y:WNbÅˆ‹Œgcekpoƒ„vqSi–ÍdjOÿ9e(u‰RhQØšHe„voƒS›O9V0Ç0Ng^ÕnËeðlàVSOû|0 ÿÖN:NeY0W)Rú^Ëz†NÎNfkhV6R.09Voƒ›O”^0RºNXT­‹Ãu„vhQ°ehÆQÿ©‹^ýV®puQNÃb:N'k2m›Q‹N:VýV-N0g:V'Y„våTwQ00"
+ EDG_Firepower_Act_12_desc:0 "pQV¯eyr¶RÏe„v¶RËV=fN5gœœ¢u„v«sptÿwGmQrúQ±7h„v«spt—‰³Y„vœœNˆÿwœœNˆnŽNb‰N0\n\n(uLeºN„vNˆø”1SbìN„v.OGYÿ(uLeºN„vNˆ±RJTbìN„vÜw)Rÿ(WÝuùR„vkp›Rb—MRÿÜw)RKNïòT6q^e®Nÿ"
+ EDG_Firepower_Act_13_desc:0 "1WÍk›s)RšN„v‘šëXìN(W1Wb×e^NÆ–ÓuÿASWR›QåNàe¢W„vŸSÎwKNTÿSn^yw„vj‹RKSpem7R0(W1W=OY„yŒTÌ‘ R'YINYe„vcVNÿbìNO(u1WÍk„v^y1Wøwm‰YeüRNáOwÿTÖNìN.OˆcúWcw„vYeIN0"
+
+#ýVT 
+ EDG_SIC_Syracusae_name:0 "ÙSÉbäS"
+ EDG_SIC_Syracusae_name_ADJ:0 "ÙSÉbäS"
+
+ EDG_SIC_Italia_name:0 "OTX<S6w"
+ EDG_SIC_Italia_name_ADJ:0 "OTX<S6w"
+
+ EDG_SIC_Hellas_name:0 "^J"
+ EDG_SIC_Hellas_name_ADJ:0 "^J"
+
+ EDG_SIC_Hohenstaufen_name:0 "2N‰‰Ì‘"
+ EDG_SIC_Hohenstaufen_name_ADJ:0 "2N‰‰Ì‘"
+
+ EDG_SIC_Roma_name:0 "Wlš<SšN"
+ EDG_SIC_Roma_name_ADJ:0 "Wlš"
+
+ EDG_LKS_Landsia_name:0 "pQ¯eVyr"
+ EDG_LKS_Landsia_name_ADJ:0 "pQ¯e"
+
+ EDG_BEIHAI_name:0 "Swm*s)YPR"
+ EDG_BEIHAI_name_ADJ:0 "*s"
+
+ GK3:0 "ZS¯enfœ¯e"
+ GK3_ADJ:0 "›Q:S"
+
+ GK5:0 "¯eôT¾"
+ GK5_ADJ:0 "›Q:S"
+
+ EDG_Meroes_name:0 "¦žWÃW"
+ EDG_Meroes_name_ADJ:0 "¦žWÃW"
+
+ EDG_Elysium_name:0 "ÃW‹V‰f"
+ EDG_Elysium_name_ADJ:0 "wmY"
+
+ EDG_Pannonia_name:0 "Xoú‹<SšN"
+ EDG_Pannonia_name_ADJ:0 "¹:S"
+
+ EDG_Dacia_name:0 "¾QYšN"
+ EDG_Dacia_name_ADJ:0 "¹:S"
+
+ GK4:0 "°eÙSÉbäS"
+ GK4_ADJ:0 "wmY"
+
+ GK6:0 "^tôˆf"
+ GK6_ADJ:0 "¹:S"
+
+ GK7:0 "ôTKQyrÌ‘šN"
+ GK7_ADJ:0 "›Q:S"
+
+ GK8:0 "^ÐcšN"
+ GK8_ADJ:0 "›Q:S"
+
+ GK9:0 "Ñ‘—¬S"
+ GK9_ADJ:0 "›Q:S"
+
+ G10:0 "‰Wlš"
+ G10_ADJ:0 "Wlš"
+
+ G11:0 "ÃWäSnfXb¯e"
+ G11_ADJ:0 "ÃWÊS"
+
+ G12:0 "'Y^J"
+ G12_ADJ:0 "'Y^J"
+
+ G13:0 "ÑySŽU¯e"
+ G13_ADJ:0 "ÑySŽU¯e"
+
+#>mû|
+ EDG_SIC_MIL_faction:0 "åe3wüf>m"
+ EDG_SIC_MIL_faction_influence:0 "åe3wüf>mqVÍT›R"
+ EDG_SIC_MIL_faction_FACTION_DESC:0 "åe3wüf>mwnŽNlš3wÖN„vSyrÈpÄuú^„v0qS³SºN0kS–ÿÖNìNZWˆR)YINYeáOðNÿàVÚ‹wZWÍVÿ=fýV¶R„v8hÃV›RÏ‘ÿÖNìNŒcácNw›Q–ÿINüRVO'Y‹NÿýwV„Ub0\n§Yå‚bìNåb	gØšF–›Q.OßubYŽNb‰NKN-Nÿå‹>mû|„vqVÍT›RSOžX•0§!"
+ EDG_SIC_ADM_faction:0 "Wlš>m"
+ EDG_SIC_ADM_faction_influence:0 "Wlš>mqVÍT›R"
+ EDG_SIC_ADM_faction_FACTION_DESC:0 "Wlš>mÿÈSðy^J>mÿwnŽNO(„KQ·‰Rpgm¯eVeQ0R‰‰Ì‘„v^J˜RÚPÿÖNìN(WN^ýV	gNw `EN„v†SòSÿåNOÀy„vLˆ?eýw›Rû•T0\n§Yå‚bìNYŽNØš3zšR¦^ŒTŒTs^KN-Nÿå‹>mû|„vqVÍT›RSOžX•0§!"
+ EDG_SIC_DIP_faction:0 "ÉbN>m"
+ EDG_SIC_DIP_faction_influence:0 "ÉbN>mqVÍT›R"
+ EDG_SIC_DIP_faction_FACTION_DESC:0 "ÉbN>m=fa'Y)RšN„v,gW¿R›Rÿ•gYŽNY*N:VCgKNô•ÿI•¼púQ•–ˆ„U‚„v,g†˜ÿ(WbìN„vY²NbeuŒT8fVreu-NwQ	g>N³‰Í‘„v0WMO0\n§Yå‚bìNåb	gØšY²NðX‰Šÿå‹>mû|„vqVÍT›RSOžX•0§!"
+
+ EDG_Syracusae_MIL_faction:0 "lšvQ˜>m"
+ EDG_Syracusae_MIL_faction_influence:0 "lšvQ˜>mqVÍT›R"
+ EDG_Syracusae_MIL_faction_FACTION_DESC:0 "lšvQ˜>mIN‰1uÕkNŽN1uýV6rÄreYYÒR·ætTXýl¯eRú^„vlšvQ˜›Q‹NfRb–„vTw¦›Q‹N¾|ñ‚ÄubÿÖNìNôv¥cHeàVŽNgb?e˜Rÿ=fb‰N…Q–„vINüR›RÏ‘ÿÙSÉbäS„vINb>m0\n§Yå‚bìNåb	gØšF–›Q.OßubYŽNb‰NKN-Nÿå‹>mû|„vqVÍT›RSOžX•0§!"
+ EDG_Syracusae_ADM_faction:0 "‰RagKQ>m"
+ EDG_Syracusae_ADM_faction_influence:0 "‰RagKQ>mqVÍT›R"
+ EDG_Syracusae_ADM_faction_FACTION_DESC:0 "‰RagKQ>m„vVRw«ˆ²‹:N=fªu=O&OCQ^ÿNTÎNO¯epQYeˆvOckYe„v‰RagKQºN0å‹>mçub†NÖN„v?e»lWµNÿñmwŽNýV…QNS¿R¡rtŒTLˆ?eteTÿâVÓuVÏeºNŒTVYe’Vÿ¨c^ckYeáOðNŒT°e^J²‹T0\n§Yå‚bìNYŽNØš3zšR¦^ŒTŒTs^KN-Nÿå‹>mû|„vqVÍT›RSOžX•0§!"
+ EDG_Syracusae_DIP_faction:0 "mRe¯e>m"
+ EDG_Syracusae_DIP_faction_influence:0 "mRe¯e>mqVÍT›R"
+ EDG_Syracusae_DIP_faction_FACTION_DESC:0 "mRe¯e>mwnŽNMRÃWÊSú‹ÆY›Q?eœ^„v^JÔˆ›Q˜RËR–ÿÖNìN(Wã‰2uRV0uNŸSÙSÉbäS?e»ljŒÏeTAmÿ)R(udkMRïy=t„vÏuŒšÎN‹N0W¹e?e¡RŒTY²N‹N¡Rÿ(WýVE–‚ðSN8nR	gYO0\n§Yå‚bìNåb	gØšY²NðX‰Šÿå‹>mû|„vqVÍT›RSOžX•0§!"
+
+#‡eS
+ EDG_Hellenic_group:"^J"
+ EDG_Syracusae:"ÙSÉbäS"
+ EDG_Aegean:"1r4t"
+ EDG_Carthage:"°eÙSÉbäS"
+ EDG_Seleucia:"^X	t‰šN"
+ EDG_Cyrenaica:"fpQ<S R"
+ EDG_Ptolemia:"ÃWäSnfXb¯e"
+ EDG_Italia:"a'Y)RšN"
+ EDG_Asia:"šNÆušN"
+ EDG_Persis:"âl‰¯e"
+ EDG_Bosporus:"ZS¯enfœ¯e"
+ EDG_Scythia:"‰VšN"
+ EDG_Caucasia:"ÑySŽU¯e"
+ EDG_Gedrosia:"<h·VW‰šN"
+ EDG_Bactria:"ôTKQyrÌ‘šN"
+ EDG_Elysium:"ÃW‹V‰f"
+ EDG_Illyria:"O)RÌ‘šN"
+ EDG_Thrace:"r‚÷–‰šN"
+ EDG_massalia:"lš‰)RšN"
+ EDG_Keltike:"ÖvSÐcKQ"
+ EDG_Elybirge:"ÃW‹V‡^b"
+ EDG_Arabia:"?–ÉbÔkšN"
+ EDG_Auomatia:"ÃW^XÄOÔkšN"
+ EDG_Meroes:"¦žWÃW"
+ EDG_Pannonia:"Xoú‹<SšN"
+ EDG_Methorion:"…hÏ‚Ì‘‰R"
+ EDG_Hellas:"^J"
+ EDG_Malaike: "lšÉbOIR"
+
+#D–¸^
+ EDG_Hellenic_alliance:0 "§MTßvw§!"
+ EDG_Hellenic_alliance_title:0 "§MTßvw§!"
+ EDG_Hellenic_alliance_title_plural:0 "§MTßvw§!"
+ EDG_Hellenic_alliance_long_desc:0 "£icon_EDG_Hellenic_alliance£§TTßvw§!=f^SŽN@GRE§TÙSÉbäS§!„vyrŠk^SýVÿ`S(uY²NsQû|ÿO:NbìNÐc›ONšRF–›Q Rbÿ£icon_EDG_Hellenic_alliance£§TTßvw§!‰|<OŽNkSbýVÿFONÐc›OúWNxF–›QNP–ÿwïSåN«ˆTv^0\n\nyršR„v£icon_EDG_Hellenic_alliance£§TTßvw§!(WNšRÅ`µQNOÙuˆN—RINýV§Y˜Y Rb§!0"
+ EDG_Hellenic_alliance_is_our:0 "$NAME|Y$=fbìN„vN*N§MTßvw§!"
+ EDG_Hellenic_alliance_subject_Basic:0 "§T^JTßv§!"
+
+ EDG_GRE_Overseas_Territory:0 "§MwmY†˜0W§!"
+ EDG_GRE_Overseas_Territory_title:0 "§MwmY†˜0W§!"
+ EDG_GRE_Overseas_Territory_title_plural:0 "§MwmY†˜0W§!"
+ EDG_GRE_Overseas_Territory_long_desc:0 "£icon_EDG_GRE_Overseas_Territory£§TwmY†˜0W§!=f^SŽN@GRE§TÙSÉbäS§!„vyrŠk^SýVÿN`S(uY²NsQû|ÿ‰|<OŽN–kl0WÿïSåNNvQ(W^SýVLub—ÛLˆyrŠk„v’N¨R0\n\n§T£icon_EDG_GRE_Overseas_Territory£wmY†˜0W§!ÅNýwÇûN¡Rú^Ëz0"
+ EDG_GRE_Overseas_Territory_is_our:0 "$NAME|Y$=fbìN„vN*N§MwmY†˜0W§!"
+ EDG_GRE_Overseas_Territory_subject_Basic:0 "§TóyPNW§!"
+
+ EDG_Hellenic_Methorion:0 "§M¹†u:S§!"
+ EDG_Hellenic_Methorion_title:0 "§M¹†u:S§!"
+ EDG_Hellenic_Methorion_title_plural:0 "§M¹†u:S§!"
+ EDG_Hellenic_Methorion_long_desc:0 "£icon_EDG_Hellenic_Methorion£§T¹†u:S§!=f^SŽN@GRE§TÙSÉbäS§!„vyrŠk^SýVÿÅNýwÇ³Q®‹ú^ËzÿN`S(uY²NsQû|ÿàQNN«ˆÆ‰:NÙSÉbäS„vôv–†˜W0Ç³Q®‹ùR£icon_EDG_Hellenic_Methorion£§T¹†u:S§!ÛLˆú^¾‹0ÓbUSÿƒRSnbo‹Yµb¡VVÏe„vOSœ–0"
+ EDG_Hellenic_Methorion_is_our:0 "$NAME|Y$=fbìN„vN*N§M¹†u:S§!"
+ EDG_Hellenic_Methorion_subject_Basic:0 "§TkSbO‹T§"
+
+#‹Ya¦^
+ EDG_SIC_Hellenic_alliance_opinion:0 "Tßvw"
+ EDG_SIC_GRE_Overseas_Territory_opinion:0 "wmY†˜0W"
+ EDG_SIC_GRE_ourhome_opinion:0 "EeíV"
+ EDG_Hellenic_Methorion_subject_opinion:0 "‡efKNþv"
+ EDG_Hellenic_Methorion_overlord_opinion:0 "-N.Y?eœ^"
+ EDG_SIC_supported_MOE_opinion:0 "=ecbìNìrËz"
+ EDG_SIC_rebel_against_BYZ_opinion:0 "ÍSùRTëXfWN!X"
+ EDG_SIC_betrayed_Fatimid_opinion:0 "ÌwÛSßv“Š"
+ EDG_SIC_Trinacria_Coveter_opinion:0 "Ê‰Î‰yrÌ‘³uKQÌ‘šN"
+ EDG_SIC_Sicily_betrayal_opinion:0 "ƒzncEeW"
+ EDG_SIC_Andreas_Legacy_opinion:0 "‰R·VÈpšN„vWµN"
+ EDG_SIC_Angelos_Betrayal_opinion:0 "ÌwÛS‰Rpgm¯e‹sg"
+ EDG_GRE_support_Noms_opinion:0 "Ðc›OcOuQg¡R"
+ EDG_SIC_supported_sicily_opinion:0 "=ecbìN"
+ EDG_SIC_Fatimid_made_a_deal_opinion:0 "Nr²Nf"
+ 
+#±RbPãS
+ EDG_WG_APU_Crusade_against_SIC:0 "§O‰‰Ì‘ASWR›Q§!"
+ EDG_WG_APU_Crusade_against_SIC_desc:0 "bìN„vîvh=fUS°s8—CgÿÍ‘ú^‰‰Ì‘‹sýV0"
+ cb_EDG_WG_APU_Crusade_against_SIC:0 "§O‰‰Ì‘ASWR›Q§!"
+ cb_EDG_WG_APU_Crusade_against_SIC_desc:0 "bìN=fWpgŒNN„vçuNwÿbìNSQ¦^ßuN2N‰‰Ì‘ÿ"
+ EDG_APULIA_SICILY_CRUSADE_WAR_NAME:0 "§O‰‰Ì‘ASWR›Q§!"
+ 
+ EDG_WG_GRE_unification:0 "§T@GRE^Jb‰N§!"
+ EDG_WG_GRE_unification_desc:0 "bìN„vîvh=fUS°s8—CgÿžR°s^JNLu„vQßuN0"
+ EDG_WG_GRE_unification_prov_desc:0 "Nb	g^SŽN§T^J§!wýNÄub§PÜb`S­^§!‡eSÄu„vwýN"
+ cb_EDG_WG_GRE_unification:0 "§T^Jb‰N§!"
+ cb_EDG_WG_GRE_unification_desc:0 "bìN=f«ˆˆcˆNIQY^JO‹T„výV¶R0"
+ cb_EDG_WG_GRE_war_enable_flag_tt:0 "bìNS=T(ub‰NPãS§T@GRE^Jb‰N§!\n-å‹b‰NPãSAQ¸‹bìN0tÖSNb	g^SŽN§T^J§!wýNÄub§PÜb`S­^§!‡eSÄu„vwýNÿN(W`S†˜wýNöe·ƒÖSê»l†˜0W8hÃV0"
+
+ EDG_WG_GRE_East_Conquest:0 "§TVgN¹e§!"
+ EDG_WG_GRE_East_Conquest_desc:0 "bìN„vîvh=fUS°s8—CgÿŒRbšN†SqS'Y'Y^*gßz„vONÿ"
+ EDG_WG_GRE_East_Conquest_prov_desc:0 "Nb	g^SŽN§Y-NýV§!0§YpS¦^§!0§Y‘—|—§!0§YÜN§!b§YNpS¦^§!!k'YF–„vwýN"
+ cb_EDG_WG_GRE_East_Conquest:0 "§TVgN¹e§!"
+ cb_EDG_WG_GRE_East_Conquest_desc:0 "bìN=fšN†SqS'Y'Y^„vçubºNÿÅVSú^ËzwN*N…ŠlšvQ˜^ýV„vO'YýV¦^0"
+
+ EDG_WG_Orthodox_Divine_War:0 "§T^y1Wb‰N§!"
+ EDG_WG_Orthodox_Divine_War_desc:0 "bìN=fckYeO„vQRNþvÿbìNS(WúWcw„v×e^NŽs^NRLeºN0"
+ cb_EDG_WG_Orthodox_Divine_War:0 "§T^y1Wb‰N§!"
+ cb_EDG_WG_Orthodox_Divine_War_desc:0 "jO:NckYeO„vQRNþvÿbìNïSåNTNáOwŒT*OáOwÑS¨R^y1W„vb‰N0"
+
+#›RÏ‘•bS
+ EDG_GRE_Reunify_Hellas:0 "§TßuN¶RíV§!ÿ8lEN	ÿ"
+ EDG_GRE_Alexandar:0 "§TšN†SqS'YwãU§!ÿ8lEN	ÿ"
+ EDG_SIC_Unify_Sicily:0 "§TßuN2N‰‰Ì‘§!ÿ8lEN	ÿ"
+
+#Ç–cOuQ
+ EDG_SIC_Hellas_disaster_mercs_1:0 "§TÙSÉb“^^XQeýV›Q§!"
+ EDG_SIC_Hellas_disaster_mercs_2:0 "§T^ÒR«ƒ‰RýV›Q§!"
+ EDG_SIC_Hellas_disaster_mercs_3:0 "§T…h‰<SkSýV›Q§!"
+ EDG_GRE_Hetairoi:0 "§TOËS‘šuQ§!"
+ EDG_Sicilian_Guard:0 "§TqS³SºNkS–§!"
+ EDG_GRE_Argyraspides:0 "§Tö”þv¹e5–§!"
+ EDG_GRE_Akritas:0 "§TÄr	T<S¯ebâV§!"
+ EDG_GRE_Marine_Corps:0 "§T^Jwm›QF–b–§!"
+ EDG_GRE_Lord_Protector_Guards:0 "§T²býVlQÑkS§!"
+ EDG_GRE_Elysium_Expedeition:0 "§TÃW‹V‰fÜV›Q§!"
+ EDG_GRE_Musketeers:0 "§TÙSÉbäS,rNkpªg›Q§!"
+ EDG_GRE_Gaul_Company:0 "§TØšbSÇRëXâV§!"
+ EDG_GRE_Italia_Company:0 "§Ta'Y)RšNìrËz%„§!"
+ EDG_GRE_Carthago_Crusaders:0 "§T°eÙSÉbäS1W‘šëX§!"
+ EDG_GRE_Iberian_Tercio:0 "§TÃW‹V‡^b¹e5–›Q§!"
+ EDG_GRE_Illyria_Hussars:0 "§TO)RÌ‘šN š‘šuQ§!"
+ EDG_GRE_Nile_Noms:0 "§T<SW³lú‹ÆY¾|ñ‚§!"
+ EDG_GRE_Selucia_Company:0 "§T^X	t‰šN÷m›QâV§!"
+ EDG_GRE_Parthia_Company:0 "§T^ÐcšN‰‘šuQ§!"
+ EDG_GRE_Persian_Greek:0 "§Tâl¯e^JÔˆ§!"
+ EDG_GRE_Indian_Security_Company:0 "§TpS¦^»l‰R›Q§!"
+ EDG_GRE_Scythian_Calvary:0 "§T‰VšN‘šKb§!" 
+ EDG_GRE_Bactrian_Company:0 "§TôTKQyrÌ‘šN²N‹skS–§!"
+ EDG_GRE_Swiss_Gurad:0 "§T¾|ñ‚^tôˆfkS–§!"
+ EDG_GRE_BEIHAIZHUSHEN_Company:0 "§TSwmø‹^ycOuQlQøS§!"
+ EDG_GRE_LANCE_Company:0 "§TpQ¯e„vSlš§!"
+ EDG_GRE_Paocai_Company:0 "§TàeLe®pÜƒ'Y–§!"
+
+#–kl0W
+ EDG_GRE_Thule:0 "þVÒR"
+ EDG_GRE_Thule_ADJ:0 "þVÒR"
+ EDG_GRE_Borealia:0 "SÎ˜"
+ EDG_GRE_Borealia_ADJ:0 "SÎ˜"
+ EDG_GRE_Elysium:0 "ÃW‹V‰f"
+ EDG_GRE_Elysium_ADJ:0 "ÃW‹V‰f"
+ EDG_GRE_Antigone:0 "‰RÐcb…m"
+ EDG_GRE_Antigone_ADJ:0 "‰RÐcb…m"
+ EDG_GRE_Hesperidia:0 "k¯eiO)RÄršN"
+ EDG_GRE_Hesperidia_ADJ:0 "k¯eiO)RÄršN"
+ EDG_GRE_Nova_Laconia:0 "°eÉbÑy<SšN"
+ EDG_GRE_Nova_Laconia_ADJ:0 "°eÉbÑy<SšN"
+ EDG_GRE_Nova_Aegean:0 "°e1r4t²›S"
+ EDG_GRE_Nova_Aegean_ADJ:0 "°e1r4t²›S"
+ EDG_GRE_Arcadia:0 "?–aSêšN"
+ EDG_GRE_Arcadia_ADJ:0 "?–aSêšN"  
+ EDG_GRE_Nova_Olympus:0 "°eeY—g^¯e"
+ EDG_GRE_Nova_Olympus_ADJ:0 "°eeY—g^¯e"
+ EDG_GRE_Argyrea:0 "šNúW)R…m"
+ EDG_GRE_Argyrea_ADJ:0 "šNúW)R…m"
+ EDG_GRE_Nova_Phoenicia:0 "°eS<SúW"
+ EDG_GRE_Nova_Phoenicia_ADJ:0 "°eS<SúW"
+ EDG_GRE_Antipodia:0 "‰R‚„ÀsÄr¯e"
+ EDG_GRE_Antipodia_ADJ:0 "‰R‚„ÀsÄr¯e"
+
+#yr(
+ EDG_personality_Grand_LordProtector:0 "'Y²býVlQ"
+ EDG_personality_Grand_LordProtector_desc:0 "ÄreYYÒR·ætTXýl¯eúQ«ŽŽNÉb¯eaSÌ‘¯e¶RÏeÁe=eÿÑSùŽNLˆOÿ	NASYS¿O(W›Q–-T2—4YÒ‰ÿv^(W‰‰Ì‘‡v^O(„KQÛVN‰kTgbŒc'YCgÿŸ^Üžàeýw|^^ÿ(Wø‹jŒÏe„våb²bNú^Ëz†NqQŒTýV0(WÉbNºNÑSw„vµOeu0Ÿ^^ŒTlQYeYO‹RþRÓu„vÛSqN-NÿÄreYYÒRûQ%†NÏkN*NLeºNÿ:NÙSÉbäSºNb—V†NlÏeìrËz0ýV¶RYtQ0dkIRÿÖNsSS&^†˜ÙSÉbäSÙ*N-T°ewäSw„výV¶RÿTYTôfO'Y„v‹TÐ0"
+ EDG_personality_Grand_LordProtector_die_desc:0 "ÄreYYÒR·ætTXýl¯e=f^Jg„š²P„v?QPRÿÖNÍ‘ú^†NÙSÉbäSýV¶RÿïbQe†NckYe‡efÿYtQ†N^JNLu„vqQŒT.Oßuÿv^çubšN†SqS'Y'Y^„vcˆµ”ÑSw†N°e„vVgÿ:N,rŒN!k^JSöeãNÉbV†N^U^0ÖN„vgb?eu¯m*XðyŒRŽÿùR—Vw²býV®‹OŒThQSO^JºNlˆcˆN„v'Y²býVlQLw¡Rÿ†˜üRÙSÉbäSÙX‚^JºN„vú‹šN¹e‚*‚TÜ¹eÿàe‘u=fbýV†SòSNg^yŸR1Wfk„vNMO†˜–ˆ0dkIRÿNb	g^JºN„v|T8TýàV1Y»SÖN„vÀTx`w‚fjP0"
+
+ EDG_personality_LordProtector:0 "²býVlQ"
+ EDG_personality_LordProtector_desc:0 "å‹ßu»lwÁTLˆO%n0'`<hRÅk0ýw›RÇºNÿ=f×S²býV®‹OŒThQSO^JºNlqQT¨c>N„vTw¦gb?e˜Rÿ«ˆˆcˆN†NNýV6rÄreYYÒR·ætTXýl¯eøvT„v0²býVlQ04YTˆÿ“Š‰&^†˜qQŒTýV¿lNwHQ2„vSïLˆ3zôÜ0"
+ EDG_personality_LordProtector_die_desc:0 "ÖN„vb1SŒTÁT·V©‹Ïk*NåwSÖN„vºN:NKNñmÅ``õVÿÖN„vŸRNS«ˆ‹eQNLuòSŒQÿÖN„vúhiS«ˆ^JºNl¬beQÅ–xQ„vHQ2`y0"
+
+ EDG_personality_Therios:0 "^XÌ‘eY¯e0åNVNbºN0"
+ EDG_personality_Therios_desc:0 "^XÌ‘eY¯e·^^¯eúQuŽNåNVNb„v?e»lN¶RÿvQ¶RÏeNãNŠbácëX¦ž±qQŒTýV„v'YCg0ÖN×S0Ro‚‹Y„vYe²wÿþfTM¿‹1r4twm¿l¸SCNó,gý0‰‰Ì‘fR`Nó—PN0?e»ltº‹ŒTòTfR`ó`0ÖNuŽNTè•wN‰QSYOÿˆRckN?–0É^mIYlQ0	g<wIQ0„Uoô‹0ZWÅk·QY—0l‡RNáQ0²NÑs^lÿt^ªu‰‰1S‰vN†NëX¦ž±„v?e»l‚ðSÿv^(Wz¥SºNuQ4NÎWNMR4NqS×S‹Tÿ¥cûNëX¦ž±gb?e˜R0ÖNÑSêÃV•^²‹T²býVlQÄreYYÒRØdIu„v^JlÏeININÿv^?aa:NKNKY—eÈuu0(W²býVlQJT+RSNTÿÖN«ˆ¨c	:N°eNãNgb?e˜RÿøvƒÄreYYÒRÿ^XÌ‘eY¯eôf R…Qieñm‰lÿNèlŽNLˆ?e9ei—ŒT…Q?eú^¾‹ÿ8^8^«ˆÿbNäS^JHQ2=O)RKQÌ‘øvÐcv^º‹0"
+ EDG_personality_Therios_die_desc:0 ""
+ 
+ EDG_personality_Andreas:0 "‰R·VÈpšN¯e0‰RÐcïg0"
+ EDG_personality_Andreas_desc:0 "‰R·VÈpšN¯e·ªu=O&OuŽN‰RagKQÎWY„vN*NSQg„^ÿvQTQgQgl„vVyHQàQNNý=fëŽN‹S›RGPa9eáO„vckYe’VÿàVdkÿ(WTw¦›Q–Lˆó‰RagKQD–ÑöeÿÖNìNªrß˜öXFmÿœUÎ‹s^ÿ‰R·VÈpšN¯emNck=f(WÙ*NöeP ReQ†NÙSÉbäS›Q–0RúQƒ^„vÖN1SUS°súQ†NÊ`ºN„v›Q‹NMbýwÿÎN'Y4YuQZPwÿaSËz'YŸRÿ=tGSó^X	t‰šN›Q:Sc%c˜Rÿv^(WTw¦„v	gaVüRNÿb:N†NMRVYe’VŒTV¦ºN„vœi7hÿàVdkâVÓu†NNyb8n»yŽNÙSÉbäSINAm?e»l‚ðSKNY„vž^'Y›RÏ‘0ÖN„vN›N?eLeðyÖN:N0‰RÐcïg0±MOîT¹pßuN†N^JSNLu„vçuNw›Q–ÿKS¡rÖN,gºNôfœU0kåNšN†SqS'Y'Y^êÔkÿFOÃVøwËR^„vÖNØ=f¥c×S†NÙ*Nðy÷Sÿuó(WN!koô‹-NËzN†N‰…Š‰RÐcïg0Í‘ú^^JSNLu„vjŒŠîXí‹0"
+ EDG_personality_Andreas_die_desc:0 ""
+
+ EDG_personality_Ignatios:0 "O<h³uîO¯e01W’V0"
+ EDG_personality_Ignatios_desc:0 "O<h³uîO¯e=fNMOÁTLˆO%n0&ŒQSO^y„vYeëXÿuŽN‰ÑySúW¯ewÿÎNN*NúWBS^yLwºNXTZPwÿ=tGSó<hÉbyrîOSb–b–•ÿdkT ReQ?eiWÿíQPêñT„v)YKZwâb†NNyb×VTSTKNºNÿ:NTw¦N1WYeOŒr¢‹TwTOSšRËzNÍ‘'YŸR³R0(WTw¦„v?e»lÎ˜´f-Nÿ›Q?eœ^ëŽN‹S›Rÿ¨cúQ†NÎN*g	gÇ›QÅeu¯m„vO<h³uîO¯ejO:Ngb?e˜R0O<h³uîO¯e„vÁTLˆúV6qàeYcXdÿFOÖN±úQ»y„vT†Ú‹ŒTzéZ„vŒcCgÏuŒš02SvQ=fùR›Q–„v|^z²‹åwÿNåwSOSbìN„výV¶R&^TUO¹e......"
+ EDG_personality_Ignatios_die_desc:0 ""
+ 
+ EDG_personality_Sotirios:0 "0t‚„Ì‘eY¯e0s|yrÉb¾¯h0"
+ EDG_personality_Sotirios_desc:0 "0t‚„Ì‘eY¯e·ÑyFzRncô‹=fÑyFzR‹sg+gÔˆÿúQu(W,gýw„vN*N›Q˜R¶RÏeÿÖN„vVyHQàV:N(WyrÉbÔkŒgKNb-NËzNwIN:YÎWKNŸRw:NÖN„v¶RÏeb—V†N0s|yrÉb¾¯h0„vðy÷S00t‚„Ì‘eY¯e(Wbt^T1S ReQ†NTw¦ýV2–›QÿHQT(WšNÆušNLˆw0?–OnfY¯eyr+R:S0ôTKQyrÌ‘šN¹†u:S0pS¦^MR¿uûNLwÿuó(WÃW‹V‰f†˜0Wý…VÇNµköeô•ÿeS†S*XðyŒRŽ0Tw¦—aƒKNöeÿ0t‚„Ì‘eY¯eck‹Y«ˆŒÞVÙSÉbäSÎWÿÅbûN²býVlQkS–øSäN˜RÿÖNÅµc6R†N÷mqNNS¿RÿÖS—V†N›Q–ŒT˜RÚP„váOûNÿ(WKNT«ˆ¨c>N:N²býVlQÿ†˜uQúQVÿÅs^šRqNNS0ÖN„vTWRôv¥cegnŽNúWcw„vðy÷S0QeNIN0ÿ=fN*NÓRa^—8^:VÈp„vT†Ú‹TWRÿwÖNmNnxžR‚YÖN„vTWRN,‚ÿïbQe†NÎ˜è–Ø˜Gd„vÙSÉbäSèT‚0"
+ EDG_personality_Sotirios_die_desc:0 ""
+
+ EDG_personality_Constantinus:0 "·^¯efWN0ËzÕlw0"
+ EDG_personality_Constantinus_desc:0 "·^¯efWN·Å–xQ<SeY¯eúQuŽN?–ÐcaS„vN*Ns^l¶R­^ÿþf(WTw¦ýV2–›Q•gûNLwÿ(WYXTKNTb:N†NNTLˆ?eºNXTÿ(W0t‚„Ì‘eY¯e?eœ^öegÿÖNòTGSÁó…Q––™-^0(W·^¯efWNgb?eKNMRÿ^JTw¦„vLˆ?e:g„g1SòTëR—‰ØSi—ÿ°eöeãN„v<hNSòTNÄreYYÒRŒT^XÌ‘eY¯eöegåVÿàVdkÖNIN¨RÍT”^öeãN„v‰BlÿùRTw¦„vLˆ?e:g„gŒT˜RÚPSO6RÛLˆ†NŒRte0hQb—„v9ei—0‚Yœgô‹0t‚„Ì‘eY¯e„vfkŸR*XÔk0NLuIQYw0eYÒRo‚ÿ±HN·^¯efWN„v‡e»lR…Š†NågëXN<S'Y^0ÖNÍ‘QX†N^J„vlÏe¾|^yÿKˆN†N^JýV¶RIm„vupB›0"
+ EDG_personality_Constantinus_die_desc:0 ""
+
+#S†˜yr(
+ edg_sic_grand_lordprotector_personality:0 "§T'Y²býVlQ§!"
+ desc_edg_sic_grand_lordprotector_personality:0 "ÙMOS†˜=f²býV®‹OŒThQSOÙSÉbäSºNlqQT¨c>N„v†˜–ˆÿ(WÖN„v†˜üRNÿbìNÎNN:WÜw)RpTæSN:WÜw)R0"
+ edg_sic_grand_lordprotector_personality_die_desc:1 "ÖNÂS›QMRÿ^JNLuØ‰l¦lŽNVÏe„v·g•KNNÿÖN»SNöeÿhQ^JNLuòTÏuAucƒßuN(WÙSÉbäS„vpž×eKNN0"
+
+ edg_gre_sword_of_alexandar_personality:0 "§TšN†SqS'YKNQR§!"
+ desc_edg_gre_sword_of_alexandar_personality:0 "ÙMOS†˜«ˆ²‹:N=fšN†SqS'Y'Y^„vçuNwÿåNÅwc‚YÎ˜„vVOŒTàeÅ`<Okp„vÛIewû•TŽNN0"
+ edg_gre_sword_of_alexandar_personality_die_desc:1 "ÖN:N^JlÏeVÓb„vNÌ‘†ußWNO«ˆûNUONMOlQlØV°‹0"
+
+#×e0‚
+ EDG_GRE_mass_load_greek_fire:0 "§T@GRE'YÏ‘M‘n^Jkp§!"
+ EDG_GRE_mass_load_greek_fire_desc:0 "Ü(WLeºNýwèla0RbìNKNMRÿbýV0‚–:V`„v0‚®p1SòTÏuv^ÇgT„v¹eÕlSkp›R>Pûl(WLeºN±N*XNûQ„v0‚–KNN0"
+
+#wm›QfRô‹
+ EDG_GRE_greek_fire_fleet:0 "§T^Jkp0‚–§!"
+ EDG_GRE_greek_fire_fleet_desc:0 "^Jkp=fNÍyNÍy²m`ÃqçpBRÿIN‰(uŽNwmbÿvQúWNxbR:Nów¹lÿ÷mTkxúxIrir(ÿïS(W4lb—cíuÃqçpN¾–åNQbmpÿ=fbýV0‚–„vyr	g„vwmbz‚=g0"
+
+#GYÂ‰
+ EDG_GREs_FRA_culture_trigger_tt:0 "=f§T^J§!S„v§YÕlpQ‰§!‡eS"
+ EDG_GREs_PER_culture_trigger_tt:0 "=f§T^J§!S„v§YOg§!‡eS"
+ EDG_GREs_IBR_culture_trigger_tt:0 "=f§T^J§!S„v§YOÔk)RšN§!‡eS"
+ EDG_GREs_ITA_culture_trigger_tt:0 "=f§T^J§!S„v§YÉbN§!‡eS"
+ EDG_GREs_EGY_culture_trigger_tt:0 "=f§T^J§!S„v§YÎžáQyr§!‡eS"
+ EDG_Orthodox_Restore_the_Pentarchy_tt:0 "òTÍ‘ú^§T”N'Ygr–™:S§!"
+ EDG_GRE_unlock_Landsia_GreatProjects_tt:0 "òTã‰•èR§TOgGYÂ‰§!"
+
+#ºNir
+ EDG_GRE_Glasorvsky_effect_tt:0 "NMOW¯e'YOSeg0RbìN„v«R÷^0"
+ EDG_Konstantinos_name:0 "·^¯efWNú‹¯e"
+
+#6–BS
+ EDG_Syracusae_estate_burghers_name:0 "lQl"
+ EDG_Syracusae_estate_burghers_desc:0 "0lQl0ÙN‚iõVnŽN0ÙSÉbäSìrËzb‰N0ÿ–Nw^JlÏeININ„vbVb«ˆ²býV®‹OnxËz:NqQŒTýVÕl‹VINSO«ŽýNÿÇqQ«N„vlÏe²‹TNå‹ýV¶R'tÆRøvÞÿv^àVdk«N	gs^IrCg0?e»lCg)R0ºN«Žê1uÊS>yOÏuNm‡eSCg)RIryršRCg)R0bÅbuˆRÕlÄ‰0guQyVŒT³uzIryršRIN¡RÿTöeùRTw¦ÝOcgØš„v?e»làVÚ‹0"
+ estate_EDG_GRE_Hellenic_Nationalism:0 "§T^JlÏeININ§!"
+ estate_EDG_GRE_Hellenic_Nationalism_desc:0 "lÏeININ=fNÍyaÆ‹bV`ŒT>yOÐ¨Rÿ:VŒlÏejO:N?e»luIm„v8hÃVUSCQÿIN.VlÏe²‹T0àVÚ‹ŒTâVÓuÿv^8^ýBllÏe„vê»l0ßuNbìrËz0^JlÏeININånÞ‰ŽNÙSÉbäSìrËzb‰NÿåNäS^J‡efÿlIN0òTfR0z‚=g	ÿŒTNckYe.Oßu:NÌSÍ‘WµNÿÍ‘°e„gú^úQNÍy0Þíu'`0lÏeÙS‹N0"
+ estate_EDG_GRE_Hellenic_Nationalism_tt:0 "bìN»lNNb	g§T‡eSÄu§!:N§T^J§!„vwýNýS·ƒ—Vÿ"
+ EDG_GRE_Hellenic_Nationalism_modifier:0 "^JlÏeININ"
+ EDG_GRE_Hellenic_Nationalism_modifier_desc:"§T©‹be‰vÏ‚<S?–„v¬`Tÿ\n\nïSåN,TÁ‰|VdkØ˜Nw„`„`Ý‹ÿ\n\n©‹bÏP)YEžN7hLkKSw¡Nÿ\n\n bN‰tY¶–„výV¦^^SŽNbÿ\n\nr^Šb±(„id¯eR‘ogSb4xÿ§!"
+ estate_EDG_GRE_Elysium_Dream:0 "§TÃW‹V‰fKN¦h§!"
+ estate_EDG_GRE_Elysium_Dream_desc:0 "`OèlšRNO‰k(Wgrlš„v?–Sb¯eÿ\nNO(W±?Q¥c×S‹TÐ„vÈuNS0\nO^ySŠb`OŽVÃW‹V‰fs^ŸSÿ\nŽV'Y0W„vKS4YÿŽVÑ‘ÑS„vÉb¾üfÐc¯e«Ž¹\n±Ì‘uImg‰R8ÿáQºNN—›³Rÿ\n¡l	gÎ˜ê–ÿ¡l	g¬Qè–ÿ¡l	g+o•„vÒR¬Qÿ\nêS	g'YmKN^yÄOIR?–ú‹¯eN­e9TÂb„v\n)nfq„v‰Î˜ÿšbpaNwNb	gÈuw„vñ‚Ä–0"
+
+ EDG_SIC_estate_interracial_name:0 "^JºN"
+ EDG_SIC_estate_interracial_desc:0 "^JºN=f‰‰Ì‘W0WNgäSw„v‡ef°‹ÆVKNNÿÖNìNée(W	NCSt^MR¿Oèwmwegÿ	hÎ˜lè–ú^ËzÎW¦ÿSDj„igNòTfR`¨i9hŽN›SS„vƒlW0wTûNíQWlš0(„ÉbîhNú‹üf¥c5Žwegÿ^JºNO6q(WyrÌ‘³uKQÌ‘šN>N³‰Í‘0ÎN0‰‰Ì‘Zfwy00R0ôTÒR«ƒ‹NØS0ÿ^JºN(W‰‰Ì‘ßu»lÑ200t^ÿN,g0WºNn‡TÿbVb†Nìryr„v^J-‰‰Ì‘‡eS0^Jûyl&^eg†Ní‹Š0ú^QrŒTÕl6RÿÖNìNjO:NISu0faŒ¶R0z¡R˜RNY²NûÑ‹ÿ:N«R÷^èleQÜb`S­^V„v»ltzfgaÿvQwm‹NÏuŒšôfb:N‹sýVŒcµc0W-NwmFUï„vsQ.•0sS¿O(W—¨NËev–¬‚‹s²RÞVRV„vSVNÿÖNìNmN=fýV¶RNïSb:„vNèR0"
+ estate_EDG_SIC_interracial_Girko_Community:0 "§O<hÌ‘Ñy>y:S§!"
+ estate_EDG_SIC_interracial_Girko_Community_desc:0 "0<hÌ‘Ñy>y:S0gR=fcuIm(WWSa'Y)R„v^JÔˆí‹Š‡eS²SO0ée(WlQCQMR8Nªuwÿ^JºN1S(WSVöe«ˆðy:N0'Y^J0„vÊNWSa'Y)Rú^Ëz†N¸‹Y–klÎW^ÿ‚YÙSÉbäS0TXpQXb0KQWXb…QIr0w(WÜb`S­^öegÿ1uŽNTëXfWN!X„vßu»lÿ^J‡eSn(WWS¹eYtQ0KS¡rwTú‹üfºNN¦^ßu»l†N2N‰‰Ì‘ÿFOmN¡l	g9eØSSV0WgAuöSƒ„v^J>y:S0öeóÊNåeÿbìNb`Y†N)YINYe(W‰‰Ì‘„vßu»lÿwv^*gN^JºNˆ”•øvùRÿw=f	éb†NTjOS¹R0(WbìN‹sg„v»lNÿzzlN3–IQs^Ir0W^SŽNNb	gºN0"
+ estate_EDG_SIC_interracial_Girko_Community_tt:0 "bìN»lNNb	gMOŽN§OWSa'Y)R§!b§O‡eSÄu§!:N§OÜb`S­^§!„vwýNýS·ƒ—Vÿ"
+ EDG_SIC_interracial_Girko_Community_modifier:0 "<hÌ‘Ñy>y:S"
+ EDG_SIC_interracial_Girko_Community_modifier_desc:"§ObÙuˆN^JºN”^—V„vcƒ‰Šÿ\n\nmNNeR:YÉbNºN„v0ÌRÿ\n\nKbcþvLrÿ\n\nÝO²bÌS¹eÿ\n\nN©‹ûNUON¹eNlQck0WÖSÜw0§!" 
+
+ EDG_Syracusae_estate_interracial_name:0 "^WÑyO"
+ EDG_Syracusae_estate_interracial_desc:0 "^WÑyOÿPerioikoi	ÿÿsS0¹:SlQl0ÿ=fÙSÉbäSqQŒTýV(Wib.VÇz-N³ueQ„v^—^JÔˆê1ul6–BS„vßuðyÖNìNegê°eVg0W:SbTw¦¹ÿ‚YNVËY„va'Y)RšNŒT‰R³uXb)RšNÿTeg„vâl¯eŒTOÔk)RšN	ÿÿÝOYuNšRz¦^„v,g0Wê»lÿÎN‹NåTFUNN…©R'`›Q‹Ng¡RÿFOÏu8^«ˆ’cd–(W8hÃV?e»lCg›RKNY0¹l„vºN«Žê1u×S^ýVÕl‹VÝO²bÿ0µNCgN^JÔˆlQlIrTÿÖNìN(W,g0W‹N¡R-NžRLˆØš¦^ê»l0FOÙNRåN2Ny˜IN¡R:NãN÷Nÿ4³uØšŽNlQl„vW0WzN8fzÿv^(Wböe	cÔk‹OÐc›O…©Rè–06qwÿÙag¹Luv^^—NbNØS0–NwýV¶R„vN­eib.VÿïSåN„˜Á‰„v=fÿŠegŠY„v^WÑyOÈuS¥c³u0^JlQl0„v«ŽýN0"
+ estate_EDG_SIC_interracial_Mercenary:0 "§Tú^Ëzte›QâV§!"
+ estate_EDG_SIC_interracial_Mercenary_desc:0 "^JNLuRRÎN)Tƒn„v¹b`YÿbìN„vlOŸN…VO‰Quo`ÿàeÕl=ecqQŒTýV'YÄ‰!j„vb‹N0ŽN=fÿ²býVlQÄreYYÒR²‹:NÿbìNïSåNPt’†SòSNT7h:SºNãS„vO^JSýV¶R„v›Q–ú^¾‹ÿåN^J›QëX:N8hÃVÿ^ÛlfR`NSV0W„v›Q‹N.OßuÿåNVÏeëXuQú^ËzNû|Rte›QâV0"
+ estate_EDG_SIC_interracial_Mercenary_tt:0 "bìNSýw(WŒRbyršRVgûN¡RTã‰•Nû|R§Tte›QâV§!0"
+ estate_EDG_SIC_interracial_Generals:0 "§TÔbâdYM|S†˜§!"
+ estate_EDG_SIC_interracial_Generals_desc:0 "ÎNýV6rÄreYYÒRöeãNåNegÿSfk„v.Oßu1S(W^JlÏenYtQ0^JHQºNSÍ‘:VwÿÍ‘Æ‰Mbr^z¦^Ü…M|=NNˆßu0bìN”^SVö^íuÙÍyIQcƒ.OßuÿÇ‘ÖSMbýwOHQÿ^³u	gýwKNˆ0"
+ estate_EDG_SIC_interracial_Generals_tt:0 "§YÛbßRS†˜§!°s(WSÐcØš§Y5¹p§!§TVÏeºN6–µuàVÚ‹¦^§!0"
+ estate_EDG_SIC_interracial_Marshal:0 "§TÔYûN'YCQ^§!"
+ estate_EDG_SIC_interracial_Marshal_desc:0 "gb?e˜R|QûNTw¦?eœ^0²býV®‹OŒTýV2–›Q„v†˜–ˆÿ‹N¡RAuÙVÿb¸‹bìNïSåNÎN›Q–-NÔbâdNMO	gýwKNºNÿ:Ngb?e˜RRÅb‹S›R0"
+ estate_EDG_GRE_Illyrian_Hussars:0 "§TO)RÌ‘šN™Ÿ‘šuQâV§!"
+ estate_EDG_GRE_Illyrian_Hussars_desc:0 "KS¡r‰‘šuQ–„v‚iõVgéenêŽNäSWlšÿFOºNìNnfM²‹:NôTSr^ š‘šuQ,rN!kúQ°sÿ=fjO:NN^ýV„v…©Rè–°s«ŽŽN†SòS‚ðSÿvQbXTIN‰ÎN^ýVŽN10ŒT11Nªuµc6R„v^XSôušN0W:SßRÆ–weg0sSO(WWlš¡lK„KNTÿÙ*N.OßumNÍN6q(WcíuNwÿv^(WdkT„vàQ*NNªu-NÛNekÆuSŒR„Uÿv^gÈubVb†NÊN)Y„vO)RÌ‘šN™Ÿ‘šuQâV0"
+
+ EDG_Syracusae_estate_cossacks_name:0 "W¯eºN"
+ EDG_Syracusae_estate_cossacks_desc:0 "N¯eÉb+YºNwnŽN,rBw=O³l¿l¸Sÿ(WN'ks^ŸSAuMˆuo`ÿwTNæto‚<hºN‡TbVb†NÊN)Y„vW¯elÏe0êW¯e×Sm:NËYÿÖNìNnn‡eQ†N^J†˜üRN„vckYeNLuÿNbìNÓuN†NNã‰KNÿW¯eÆ‰^J:NDQ•ÿ‰Ì‘SWRÍk1u^J.OYeëXRjOÿ¯eÉb+Y<yêNôv¥cÑ‹ê^J‡eÿ1W‹N	gHe'`ŒRhQTNÿ^JºNÆ‰W¯eºN:NÆRËSÿÌS¹eqQ«NVÏeßu»lN0×S¾–w0«ŽýN°‹ÆVÿÇæt^KNïÆRRŽVeg0ÙÍy(WqQTáOðNËu&^NbVb0DQVlÏe0sQû|ÿ…ŠUS¯u„v‡eS²NAmÿck=fckYe‡ef…Q(W.V›RŒTu‹T›R„v8hÃVSO°s0"
+ estate_EDG_GRE_restore_Varangian_Route:0 "§Tb`Yæt^KNï§!"
+ estate_EDG_GRE_restore_Varangian_Route_desc:0 "æt^KNïÿsS0ÎNæto‚<h0R^JKNï0ÿ=fÞ¥cS'k0N'kN^JNLu„vèýV4lï8fQÜuÿƒR`YšR†NúW…W¯eýV¶R„vÏuNmúWNxÿÃOb†NW¯e‡ef„vckYeSÿñmIRQX.†NN'k„v†SòShù013NªuTÿÉbNqQŒTýV„vTw0úW…W¯e„vRÂˆ0Wlš^ýV„v)Tƒn0™„äSºN„veQµOIrYÍ‘àV.tüRô†Næt^KNï„vpˆ%ÿ^JºNNW¯eºN„vÞ¥cN¦^­eÝu0‚YÊNÿbìN2N*NlÏeýòTbaYÏ‚Çegÿ=föePÍ‘Væt^KNï†N0"
+ estate_EDG_GRE_establish_embassy_in_Russia:0 "§Tú^Ëz‰šW¯e'YO†™§!"
+ estate_EDG_GRE_establish_embassy_in_Russia_desc:0 "æt^KNï„vÍ‘‰'`NåeñOžXÿ^J-W¯elÏeKNô•„v²NAmŠegŠ‘˜AuŒTÆRR0N›NY²N˜R2kMRŽVW¯eÿåNbìN„vTINú^Ëz'YO†™ÿåNdkéTúV2NýVKNô•„vsQû|0bìN„vgËSmN1k6q¥c×SÙ*NÐc®‹ÿv^T7h>meg†NÖNìN„vY²N˜R0"
+ estate_EDG_GRE_study_Siberian_Frontiers:0 "§T8T³uW¯eÓbRƒâV§!"
+ estate_EDG_GRE_study_Siberian_Frontiers_desc:0 "‰=O)RšNÓbRƒâV=fNyb(WW¯eßuNTbVb„v0åNåT(„KQ¢ci–¶R:NHQ•01uW¯eýV¶R=ecqš¨R„vfkÅˆ–kl²SOÿÇfk›RVg0‰^Xú^¾‹ŒTÛk®v8fÿS‰=O)RšN³ueQW¯eHrþVÿv^QX.†Nå‹0W:S„v¯eÉb+YSÛzNÏuNmÓu„g0^JºNŒTW¯eºNN7h1r‹Y¢c0tÿée(WlQCQMR1SVËY†NêñT„vO'YÅezÿêS=f–NwöeIQAmÿ±µk°‹ÆVŠegŠ!jÊ|0FO=f¡lsQû|ÿbìN„vgËSO.^bìNÍ‘)n±µkVÓbSg0"
+ estate_EDG_GRE_joint_military_drill:0 "§T^J-W¯e›Q‹NTwT§!"
+ estate_EDG_GRE_joint_military_drill_desc:0 "SûQ›Q=f15Nªu-Ng1u…Qb-N„vW¯eTINRú^v^ÑSUS„v8^YekuQè–ÿåNO(ukpªgSûQb=gŒT|QwQ›Q‹NNåTFUNLwýw„vSí•'`>y:SuIm:NyrVÿO`—åb²bßuNŒT-N.YÆ–Cg„v-NS5Ïeú^Ëz0R:N–™ý›QŒT^l›Q2N'YèRÿ–™ý›Q1KQÌ‘ÆY—g«R2–¡R0f‹bÊSˆm2–ÿ^l›QR‰š2–T0WÎWG•ÿgbLˆ¹ƒXˆRkSN0W¹eûN¡R0vQb=gåN2–¡V5–‹W:NINÿÇ‘(uPŸSNnbcÅˆkXŽb=gÿ«ˆðy:N0ïSûy¨R„v!X’W00ÙSÉbäS=fSfkKNýVÿPNŽNTNb	gýV¶RfR`NvQ›Q‹N.Oßuv^ RåN9e.ÿ(uŽNê«Ž›Q6R01S©‹bìNŒTW¯eDQVmNÛLˆN!k›Q‹N²NAmÿfR`NNNÖNìN„vŽbz‚0"
+ estate_EDG_GRE_Vodka:0 "§TVeQW¯eR‘n™§!"
+ estate_EDG_GRE_Vodka_desc:0 "Oyr R=fNÍyÑt^egwnŽNW¯e„vf¸„™ÈpR‘ÿgRjO:Noƒirb0u‹TKN4l0(WîOSb–ŒT5Ïeô•SƒôVAmÿnnfÊSTÿlô•úQ°s'YÏ‘Áy‘ÿb:NœQl¬QcR¡VÒRŒT‚‚åen™ÁT0–NwW¯eßuN‹NN„v¨cÛŒT‹sCg¿R›R„v R:VÿOáQ÷–^ú^Ëz,rNyb0‡v¶RR‘†™0ÿKNT„v™l‡vSOyr RuµN•.UjO:NýV¶R0?e=eñgÿžRLˆ%N<h„W­e0bìN„výVlmNùRÙNW¯eºNœU1r„vR‘n™US°súQSmšS„vtQ±ÿN¡r=f:N†N0?ewÏ‘Ø=f:N†NÖS¦`lOÿ²býVlQýïSåNwQ†VeQÙNyrŠkåTz‚0"
+ estate_EDG_GRE_Vodka_tt:0 "\n§TbìN»lNuµN7Œir„vwýNSVeQOyr RåTz‚0§!\n"
+ estate_EDG_GRE_Vodka_INCOME_DESC:0 "ÎN§YR‘‰|§!ŒT§Y7Œir§!„vuµN-N·ƒ—V"
+ estate_EDG_GRE_Russian_absolutism:0 "§TfR`NW¯eN6RININ§!"
+ estate_EDG_GRE_Russian_absolutism_desc:0 "W¯eN6RININwnŽN™„äSºN„vßu»ltõVÿ(WúW…W¯e)TƒnT„v+o+o•Y-N„Ë‚ÿÏuW¯eßuNb‰N2•¼pÿ:Ns|ÈTOS	NNNOáQ÷–^Nb:VSÿåN™l‡våb	gÝuùRN^y1WNïSµO¯r„vCg›R:N8hÃVÿýV¶RhQb—Œcµc>yO0ÏuNmNaÆ‹bV`ÿv^&^	g:VÈpib.V>PTNQeNO‹Ta„vìryrÆ–Cg?e»l.Oßu0(WÙ*NSV-N.Y?eœ^ÎNvQÖN¿R›RKb-N:YÖSýV¶RÝuùRCg›R„vöeãNÿ:N†N²býVlQïSåNÃVàeÁe›š0Wú^¾‹ýV¶RÿbìNN¨YfR`NNW¯eºN„v`ó`0"
+ 
+ EDG_Syracusae_estate_nobles_name:0 "jŒÏe"
+ EDG_Syracusae_estate_nobles_desc:0 "(WçeNWlš^ýV0W¹eÿ2SvQ=fLˆw	ÿ-NÿjŒÏe=fcíQPW0W0ÌR0›Q‹NDn0¶RÏeQÜub˜RÚP«ŽýNwbVbžRE–=eM‘›R„v0W¹e>f56–BS0ÖNìNËNŽN-N.Y‡vCgNnfs^lKNô•ÿâe=f^ýVßu»l„v=eñgÿmNïSýwb:N»yÃV›RÏ‘„vegn0jO:NN*NÞ‹u(WNWlšçuNwWSON„v›Q‹NSýV¶RÿbìNÅV‰˜8TÖSÏuŒšYe­‹ÿNýwýVÆ‰Ù›NŒcác›Q‹NDn„v^JjŒÏe0"
+ estate_EDG_GRE_balance_between_the_Porphyra:0 "§Ts^aˆø‹§!§P+t²R§!"
+ estate_EDG_GRE_balance_between_the_Porphyra_desc:0 "NbŒ0+t²R0¶RÏe=fT^JjŒÏe-Ng:NyrŠk„vNybÿÖNìNÇNWlš‡v²Rÿ2SvQ=f0uŽN+t²R0„vbXT	ÿ•g0Y!kTwûYÿñm¦^‡eQ‡vÏeNˆ	QÜuÿv^Pdk„W­eØšµu˜RLw0Œcµc'YÏ‘W0WNÁyºNfkÅˆÿÎNwùR^ýV?e»lµNu=eM‘'`qVÍT›R0ÖNìNv^^—US¯u„v›Q‹Nb0WIN5Ïeÿw=fåN0+t²RNˆßu0:NTÕl'`nÉlŒT?e»lD,g„vyrCgÆ–âVÿ=fWlš^ýVNˆ?e»lN˜RÚP›Q‹NSO6RÓuT„vÈugµNir0T'YjŒÏe(WqQŒTýV…Qåb	gNwØv9h•‚‚„v)RÊvsQû|ÿ:N†NnxÝO›Q?eœ^„vâVÓuÿbìN”^SV©‹!nèR)RÊvÿâVÓuT'Y+t²RjŒÏe0"
+ estate_EDG_GRE_control_Doukas:0 "§Tµc6R§!§P+t²R§!§TÿjgaS¯e§!"
+ estate_EDG_GRE_control_Doukas_desc:0 "jgaS¯e‹sgÿ1059-1078t^	ÿÿ-NgNWlšíw‹T‹sgÿ˜RÚP5ÏeúQ«Žÿßu»lgô•mGüfPŸKQyrè`%ÿFO(WTíuÇ=ecÑyFzR‹sgv^NvQ•gTwûYTjOÿjgaS¯e¶RÏeÍNåb	gNwøvSV'Y„vqVÍT›R01443t^ÿWlš‡v^‰R·VW<SaS”NNçuMOÿdköejgaS¯e¶RÏe„v<SúWVœ¯eŒcác†N^ýV…QèøvSV'Y„vNèRCg›RÿÖNêåw	gïSýw«ˆ‡v^IeûQÿNêñTïSýwàeÕl(W›Q‹NNbÜw‡v^ÿàVwS^ýV…QàVŽNêñT„v›Q–ÁyêŒpÿeQµOíp±šNqQŒTýV„vÑžwm†˜0Wÿú^Ëz†NšNN6RlQýV0‚YÊNjgaS¯e¶RÏeòTÏuTTw¦•bÚ‹ÿÖNìN„vCg›RQÜuŒT?e»lDnÊNTmNS:N^JlÏe„v‹NNg¡Rÿw^—:N†NN*NgNÝOY„v?eCg0"
+ estate_EDG_GRE_control_Komnenos:0 "§Tµc6R§!§P+t²R§!§TÿÑyFzR§!"
+ estate_EDG_GRE_control_Komnenos_desc:0 "ÑyFzR‹sgÿ1081-1185t^	ÿÿWlšgT„v-NtQ‹sgÿÇ›Q‹N5ÏeTwßvÍ‘ú^-N.YCg›RÿvQR°e'`„v›Q:S6R9ei—ŒT¶RÏeQÜußu»lN¦^Í‘=c^ýVÿFOÇ¦^OV5ÏeŒTN‰¹e„vi`(`mNËWN†N•g–±`01204t^²`gRTÿÑyFzR¶RÏeú^Ëz†NyrÉb^—R^ýVÿ(WÑžwm¿l¸Sß‚NwPu014NªuöeÿN`ÛÖS„v'YÑyFzRìNåeåeŠbR‘Š0kÿôv0R?–+Y™lSz¥SºNSôV†NÖNìN„vÑ‘ÎWdl`l0ÖNìN‚Y¦h¹e’‘ÿwSpÑ‘ö”ÆuoXNNb0‚›bVÎW^ŒTÖNìN„v^Slw»SÿFONS9‚êSÿSìb±MOw±MOgÎ˜wÑyFzR‡v^ŒTÖNán‹†SJS‡v^Nbd.R„vÑ‘ö”0R„vb0‚ý«ˆwSeQ†NÑžwm„vÚnÚnjm›mKN-N0‚YÊNÑyFzRgT„vK„äwòTÏu«ˆTw¦ûR—VÿÖNìNfåe„vCg›RQÜuŒT?e»lDnÊNTmNS:N^JlÏe„v‹NNg¡Rÿw^—:N†NN*NRƒUïSr„vÞVÆV0"
+ estate_EDG_GRE_control_Palaiologos:0 "§Tµc6R§!§P+t²R§!§TÿôTReYeu§!"
+ estate_EDG_GRE_control_Palaiologos_desc:0 "ôTReYeu‹sgÿWlš„v+gãN‹sgÿvQßu»löeg=f^ýV„vN:W+o•l„<y0‹†(W1261t^bŸRYýVÿFOWlšòT¦l:NSýVÿ‹sgÈSY!kw–eQÁkmp'`…QbŒT—RYe·u‰Nÿàe›R‹S6R¯eÉb+YºNŒTz¥SºN„vuQ•ÿgÈuêSýwHSgŽNVÏeÁ”DŽ0‚YÊNôTReYeu¶RÏeòTÏuTTw¦ïO–™ÿÖNìN„vCg›RQÜuŒT?e»lDnÊNTmNS:N^JlÏe„v‹NNg¡Rÿw^—:N†NN*N1VN*X„vtó`0"
+ estate_EDG_GRE_control_Angelos:0 "§Tµc6R§!§P+t²R§!§Tÿ‰Rpgm¯e§!"
+ estate_EDG_GRE_control_Angelos_desc:0 "‰Rpgm¯e‹sgÿ1185-1204t^	ÿÿÑyFzR‹sgpˆK„TíQPNˆßusQû|NMO„víw‹T‹sgÿ(WvQßu»lgô•Wlš^ýVýVý1Yw–ÿ^ýVRÂˆ:NY*N^JºNýV¶RŒTÉbN?eCg01411t^ÿåNs|wmS·‰Rpgm¯e¶RÏe:N–™„v›Q‹N5ÏeÑS¨R†NN:WÍSÛSÿKS¡rÛS›Q«ˆüfªRÃWSŒNNûQ%ÿFOs|wmS&^†˜êñT„vè–T‰!nwmÿ—V0R†NZ<S¯eqQŒTýV„v=ecÿSØNhhŽN…Qb-N„v‰‰Ì‘›SIeNÿú^Ëzw†NN*NNckYe^JÔˆ‹sýV01443t^ÿO'Y„v²býVlQÄreYYÒR±R^Ÿ^Üž‰Rpgm¯e‹sgÿú^Ëzw†N²býV®‹O†˜üR„výV¶RÿÙ1S=fbìNÙSÉbäS„vMR«Ž0‰Rpgm¯e¶RÏeòTÏu«ˆTw¦brbrŒcµcÿÖNìN„vCg›RQÜuŒT?e»lDnÊNTmNS:N^JlÏe„v‹NNg¡Rÿw^—:N†NN*NeNïSÊS„v¦hó`0"
+ estate_EDG_GRE_control_Laskaris:0 "§Tµc6R§!§P+t²R§!§TÿÉb¯eaSÌ‘¯e§!"
+ estate_EDG_GRE_control_Laskaris_desc:0 "Éb¯eaSÌ‘¯e‹sgÿ1204-1261t^	ÿÿ(W1204è`gRTú^Ëz<S‰šN^ýVÙNNWlšçuNw„v‹sgÿÇ(WÝuƒX-NˆR²bckßu^J‡eSÿÄuÇuµb—bÉbNßu»lÿ:N6eY–™ý`YšRúWNx0KS¡rgÈu«ˆôTReYeu¶RÏe„vs|wmSárCgÿFOÉb¯eaSÌ‘¯e¶RÏeÍN6q(W^ýV…Q:NôT‰	t¯eHe›R01444t^Rÿ‰R·VW<SaS”NNûN‹TÉb¯eaSÌ‘¯e¶RÏe„vÄreYYS:NidÌ‘šNN6RlQÿFOTwgÈu(WZ<S¯eŒT‰‰Ì‘„v=ecÿåbuQêËzÿv^êðyôT‰	t¯eÿN‰R·VW<SaSR­^—b<y0‚YÊNÉb¯eaSÌ‘¯e¶RÏeòTÏuTaŒTqQŒTýVÛLˆgñmBS„vTjOÿÖNìN„vCg›RQÜuŒT?e»lDnÊNTmNS:N^JlÏe„v‹NNg¡Rÿw^—:N†NN*NZ†àe%„vÎ‘g0"
+ estate_EDG_GRE_control_Vatatzes:0 "§Tµc6R§!§P+t²R§!§TÿætTXýl¯e§!"
+ estate_EDG_GRE_control_Vatatzes_desc:0 "ætTXýl¯e‹sgÿ1222-1261t^	ÿÿžRE–ßu»l<S‰šN^ýV„v¶RÏeÿÇTwûYçubÉb¯eaSÌ‘¯e?eCgÿ¨cLˆ3zePÏuNm?eVrÿÑSUSœQNŒT8fÿïy=tYýVžR›Rÿ(W¦uð	NN»lNO^ýVýV›R¾0Rv˜ðSÿžRE–`YúWNWlšYýV‹NN01443t^ÿúQ«ŽætTXýl¯e¶RÏe„v²býVlQÄreYYÒRV=T†N^JlÏe†SòS„v°eªuCQÿžRE–Œcµc†NætTXýl¯e¶RÏeÿvQCg›RQÜuŒT?e»lDnÊNTmNS:N^JlÏe„v‹NNg¡Rÿw^—:N†NN*NPKgN*X„v^ýV0"
+ estate_EDG_GRE_control_Sassanid:0 "§Tµc6R§!§P+t²R§!§Tÿ(„Ês§!"
+ estate_EDG_GRE_control_Sassanid_desc:0 "(„Ês‹sgÿ224-651t^	ÿÿNWlš•gv^XR0‰N8—400t^„vOg^ýVÿvQLˆ?eSOû|Øš¦^-N.YÆ–Cgÿz‚=g0ú^QrŒTfR=gb1S>fW„ÿYtQâl¯e.Oßu‡eSÿôf=f^J‡efäSxQ¿RLe„vö^íu0FOgÈu«ˆ(„ÉbîhºNVg0CSt^öeIQ³åNˆm-VˆVYN‰ÿŽVåe„vi`(`òT=fÇ<w‘Nßpÿ‚YÊN„v(„Ês+gÔˆòTÏu't'tOD–ŽNTw¦ÿvQCg›RQÜuŒT?e»lDnÊNTmNS:N^JlÏe„v‹NNg¡Rÿw^—:N†NN*NaNïSŠ„vîvh0"
+ estate_EDG_GRE_control_Ryurik:0 "§Tµc6R§!§P+t²R§!§TÿYuÌ‘KQôuGY§!"
+ estate_EDG_GRE_control_Ryurik_desc:0 "YuÌ‘KQ‹sgÿW¯e„vwn‹sgÿ600t^„vßu»l†SòSOvQòTÏub:N†NN*NlÏe&r÷S0ÎNeYR<h0R1WVÉbúWs|SÿÎNÅ–W¯eÉb+Y0Rs|ÈTOS	NNÿYuÌ‘KQôuGYŠegŠ‡eQ^JNNckYeNLu04O–Nw‡efNáOðN(Wim«RKNT„vYÏ‚ÿ^JŒTW¯eŠegŠÆRNïSR0‚YÊNNèR	gCg¿R„vYuÌ‘KQôuGYmNÛeQTw¦šRESÿú^ËzwN*N‡˜wQ?e»l›RÏ‘„v°ejŒÏeÿvQCg›RQÜuŒT?e»lDnÊNTmNS:N^JlÏe„v‹NNg¡Rÿw^—:N†NN*NRŽÚfRek„v‡ef0"
+
+ EDG_Syracusae_estate_qizilbash_name:0 "‹s4O"
+ EDG_Syracusae_estate_qizilbash_desc:0 ""
+
+ EDG_Syracusae_estate_ghulams_name:0 "¹r–l"
+ EDG_Syracusae_estate_ghulams_desc:0 ""
+
+ EDG_Syracusae_estate_nomadic_tribes_name:0 "8ngrl"
+ EDG_Syracusae_estate_nomadic_tribes_desc:0 ""
+
+#îOO
+ EDG_SIC_Girko_guild:0 "§TÑy—g¯eFUO§!"
+ EDG_SIC_Girko_guild_desc:0 "Ñy—g¯eFUO=fN*N1ua'Y)R-^JÔˆÿsSNbŒ„v0<hÌ‘Ñy0ºN	ÿVRÿŽN15NªuNJSöSbËzŽNôu…mÄršN„vFUºNlQOÿFUºNìNåNSVt^ÙSÉbäS„vÍk¦ípwˆ8fŒT*‚wm„vÑy—g¯e:NFUOwT0—VÊvŽNTw¦ßu»lw„v1rx^ÿåNÊSÎNÉbNqQŒTýVfR—V„vÏuŒšÿFUOb•ASRÅ00R16NªuRöeÿvQ8fQÜuòTÏuM^hQ0W-NwmÿuóïSåNS°e'YF–0"
+ EDG_SIC_Girko_guild_localization:0 "¾‹Ëz§TÑy—g¯eFUO§!"
+ EDG_SIC_Girko_guild_localization_short:0 "Ñy—g¯eFUO"
+ EDG_SIC_Girko_guild_localization_full:0 "Ñy—g¯eFUO"
+ EDG_SIC_Girko_guild_enable_flag_tt:0 "ã‰•0W¹eÄuÇu0§TÑy—g¯eFUO§!00\n"
+
+ EDG_SIC_Macedonia_Academy:0 "§TlšvQ˜fRb–§!"
+ EDG_SIC_Macedonia_Academy_desc:0 "lšvQ˜fRb–ŽN1453t^ú^ËzŽN^X(„m<SúWÿƒR„v,rNûNb–•ŒTRËYºN=fÙSÉbäSýV6rÄreYYÒR·ætTXýl¯eÿ=fNè•(uŽNYe²ws^lR—t^7uPR„v:g„gÿNèlŽNYeˆc›Q‹NŽbýw0‡eSùW‰QŒT—RYeYe²wÿèe(WùW‰QNybN×SjŒÏeqVÍT0àVŽN²býVlQ„vTw¦ñgów0"
+ EDG_SIC_Macedonia_Academy_localization:0 "¾‹Ëz§TlšvQ˜fRb–§!"
+ EDG_SIC_Macedonia_Academy_localization_short:0 "lšvQ˜fRb–"
+ EDG_SIC_Macedonia_Academy_localization_full:0 "lšvQ˜fRb–"
+ EDG_SIC_Macedonia_Academy_enable_flag_tt:0 "ã‰•0W¹eÄuÇu0§TlšvQ˜fRb–§!00\n"
+
+ EDG_SIC_Academeia:0 "§TÙSÉbäSfRíV§!"
+ EDG_SIC_Academeia_desc:0 "ÙSÉbäSfRíV1uW„TfRw<h%V¯eXbëX·jSRNRú^ÿ=f^J‡eS0ckYe.OßuŒTÏgÉbþVòTfR„vZWšRåb²bw0Å–xQòTºNÏgÉbþVþfÏu	N¦^lb^ÙSÉbäSÿåNgú^Ëztó`ýV0‚YÊN^JNLu„v-NÃVòTÏuÎNÅ–xQlûy0R†NÙSÉb“^^XÿÖN„vY?aS1uÙSÉbäS„vfRwžR°s0"
+ EDG_SIC_Academeia_localization:0 "¾‹Ëz§TÙSÉbäSfRíV§!"
+ EDG_SIC_Academeia_localization_short:0 "ÙSÉbäSfRíV"
+ EDG_SIC_Academeia_localization_full:0 "ÙSÉbäSfRíV"
+ EDG_SIC_Academeia_enable_flag_tt:0 "ã‰•0W¹eÄuÇu0§TÙSÉbäSfRíV§!00\n"
+
+#³Q®‹
+ EDG_SIC_decision_view_tips_title:0 "@SIC§Tågw8n©sÐc:y§!"
+ EDG_SIC_decision_view_tips_desc:0 "bìNïSåNNôvÇÙ*N³Q®‹ågw@SIC§G‰‰Ì‘§!8n©sÐc:y0"
+ EDG_SIC_decision_stir_up_ashes_of_kings_title:0 "@SIC§Tø‹‹sìpqN§!"
+ EDG_SIC_decision_stir_up_ashes_of_kings_desc:0 "ÇÙ*N³Q®‹ÿVËY@SIC§G‰‰Ì‘§!„v@GRE§T^J§!ï¿u8n©sAmz0"
+
+ EDG_SIC_decision_disaster_bonus_sicily_title:0 "²býVlQ„vböe±R²‹"
+ EDG_SIC_decision_disaster_bonus_sicily_desc:0 "bìN„v‹NN=fckIN„vÿSï=fIQf„v0"
+
+ EDG_SIC_decision_disaster_bonus_fatimid_title:0 "O›sîv„vböe±R²‹"
+ EDG_SIC_decision_disaster_bonus_fatimid_desc:0 "bìN„v‹NN=fckIN„vÿSï=fIQf„v0"
+ 
+ EDG_SIC_decision_ambush_capua_title:0 "GY­ˆ@PUAaSnf?–"
+ EDG_SIC_decision_ambush_capua_desc:0 "@PUAaSnf?–lQ5r'`Å`´fP†ÿÖN„vãlòTÏuæ‚N*XŠÿbìN”^å‹:g‰ÖSaSnf?–ÎWÿó`ÅV–T±âl)R1SOgÎ˜wM–0"
+ unlock_EDG_SIC_decision_ambush_capua_tt:0 "ã‰•³Q®‹ÿ§TGY­ˆ@PUAaSnf?–§!"
+ EDG_SIC_ambush_capua_decision_tt:0 "bìNSåN2N–uQ›RmcwÿwP!n§Y¨X‰ÿbwmáS§!0\n\n§R÷‹èla§!ÿO(uÇ–cOuQgbLˆå‹³Q®‹OüRôvQØSbnf›Q–0"
+
+ EDG_SIC_decision_ambush_calabria_title:0 "GY­ˆ@CBIaSÉb^Ì‘šN"
+ EDG_SIC_decision_ambush_calabria_desc:0 "@CBIaSÉb^Ì‘šNlQ5rñ‚•RÅkÿ=fbìN„v:VLeÿÅV‰˜Sb­eÖN„veˆÙu¿uÿôvccÖN„vwâT0"
+ unlcok_EDG_SIC_decision_ambush_calabria_tt:0 "ã‰•³Q®‹ÿ§TGY­ˆ@CBIaSÉb^Ì‘šN§!"
+
+ EDG_SIC_decision_ambush_genoa_title:0 "GY­ˆ@GENíp±šN"
+ EDG_SIC_decision_ambush_genoa_desc:0 "@GENíp±šNlQ5r„v«ˆØOŒT›Q–„v×TØSòTÏu©‹Ù*NýV¶R1Y»S†NNb	g„vµb—býw›RÿbìN”^å‹dko‚:gôvÖS)RäSÌ‘šN0"
+ EDG_SIC_decision_ambush_aegean_title:0 "@CRT1r4twmKN`"
+ EDG_SIC_decision_ambush_aegean_desc:0 "(W,rÛV!kASWR›QNVKNTÿÉbNºN„vNINßu»lòTÏu(W1r4twmø‹Sö^íu†N200Yt^ÿFO=f^JºNNôv*g«ˆÖNìNošgÿêS‰bìNýwËbzzËe RôcKbÿSV0W„v^JºN1SOêINÑS¨RwINÿqšZ<S¯e†˜IN0"
+ EDG_SIC_decision_ambush_corfu_title:0 "@CEPÑyZR›S‹NØS"
+ EDG_SIC_decision_ambush_corfu_desc:0 "@CEPÑyZR›S=fZ<S¯eqQŒTýVÛeQ^JNLu„veh4Y!XÿmN=fbìNÛeQšN—VÌ‘šNwm„væbïN†0x^Ð„v=fÿÙÌ‘„vŒvÓYý=fNánŽNÉbNßu»l„v^JTÞwÿbìNêS—ŽrUS0Wc¨RÿÖNìN1SO:NbìNSbVŽVZ<S¯eyÃV„v'Yè•0"
+ EDG_GRE_decision_Player_Form_Syracusae_title:0 "@GREú^ËzÙSÉbäSqQŒTýV0"
+ EDG_GRE_decision_Player_Form_Syracusae_desc:0 "0ÊN)YNegÿf)Y1SNšR0Rÿ0\n\nUSÅØšÞ˜'TÿY)RšN„vÄ–pžÿ" 
+
+ EDG_GRE_decision_see_province_group_title:0 "@GREågw§T^J§!wýNÄu"
+ EDG_GRE_decision_see_province_group_desc:0 "Ù=fN*N…©R'`³Q®‹ÿÅN›Oågw0"
+ EDG_GRE_for_viewing_only_tt:0 "§Tå‹³Q®‹ÅN›Oågw0§!"
+
+ EDG_GRE_decision_rename_to_Hellas_title:0 "@GREØSôfýV÷S:N§T^J§!"
+ EDG_GRE_decision_rename_to_Hellas_desc:0 "2NCSt^MRÑy—g¯e„v8nPRÿÞV0R†NÖNìN„vEeaN0"
+
+ EDG_GRE_decision_restore_Varangian_Route_title:0 "@GREÍ‘ú^æt^KNï"
+ EDG_GRE_decision_restore_Varangian_Route_desc:0 "æt^KNïÿsS0ÎNæto‚<h0R^JKNï0ÿ=f^JºNŒTW¯eºNFU8ŽVeg„vÍ‘‰ï¿uÿFOàVÑàQŒvt^ÌS¹e„vpˆ%ŒT·uÞ˜„vbkpwN¦^­eÝuÿ‚YÊN=föePb`YÙNäSw„v8fï¿u†N0"
+ EDG_GRE_Varangian_Route_Nodes_Controlled_tt:0 "býVåb	g§Tæt^KNïTÍ‘‰‚‚¹p§!„vLˆCg§gÿ³Q®‹NbUS:yØš®NwýN	ÿ§!"
+ unlock_estate_EDG_GRE_restore_Varangian_Route_tt:0 "ã‰•§TW¯eºN§!yrCgÿ§Tb`Yæt^KNï§!"
+ EDG_GRE_Varangian_Routes_Trade:0 "@GRE§Tæt^KNïÍ‘ú^w§!"
+
+ EDG_GRE_decision_Russian_Embassy_title:0 "@GREúQOW¯e"
+ EDG_GRE_decision_Russian_Embassy_desc:0 "–NwÙSÉbäSNW¯e„vTjOaÑS²NÆRÿN›N˜RXTÐc®‹ÿbìN2NýVïS(W–™ý’Nøv:NùR¹eú^Ëz8lEN'`O†™ÿjO:NÌS¹eËSŒ„vÁ‰Á‹0"
+ unlock_estate_EDG_GRE_establish_embassy_in_Russia_tt:0 "ã‰•§TW¯eºN§!yrCgÿ§Tú^Ëz‰šW¯e'YO†™§!"
+ EDG_GRE_Russian_Alliance_add_trust_tt:0 "bìN„v§TW¯eßvËS§!SONbìN§T’Nøv§!žX R§T10§!¹p§YºNÅ`§!ŒT§YáOûN§!0"
+
+ EDG_GRE_decision_study_Siberian_Frontiers_title:0 "@GRE²NAmÓbRƒÏuŒš"
+ EDG_GRE_decision_study_Siberian_Frontiers_desc:0 "SVbìN„vÜV–'t1•ÆRŸ0WV=TÃW‹V‰f¢ci–Ð¨RöeÿbìN„vW¯eËS¦mN(W°Q)Yê–0W„v‰=O)RšNVUSÓbRƒÐ¨Rÿb¸‹bìNïSåNøv’N²NAmN›N¢ci–ÏuŒšÿåN¿OôfëV„vVUS–klIm¨R0"
+ unlock_estate_EDG_GRE_study_Siberian_Frontiers_tt:0 "ã‰•§TW¯eºN§!yrCgÿ§T8T³uW¯eÓbRƒâV§!"
+
+ EDG_GRE_decision_study_Vodka_title:0 "@GREVÛ°eVR‘z‚"
+ EDG_GRE_decision_study_Vodka_desc:0 "W¯e„vßu»lwSNÍyT:NOyr R„vÈpR‘ÛLˆ†N„W­eµc6RÿÇ.UVS¨c^ÙNn™ÁT·ƒ—V†N'YÏ‘„v)RÊv0R‘=fwñ‚Ä–ÿŠUŠKYÇRÿbìNmN=fNO¢Rl„v0" 
+ unlock_estate_EDG_GRE_Vodka_tt:0 "ã‰•§TW¯eºN§!yrCgÿ§TVeQW¯eR‘n™§!"
+
+ EDG_GRE_decision_study_streltsy_title:0 "@GRESb.SûQ›Q6R¦^"
+ EDG_GRE_decision_study_streltsy_desc:0 "SûQ›Q=fW¯eyr	g„vuQÍyÿvQ›Q6RŒTb=gùRbìNmN	gNšRPt’aINÿN›N›Q‹NŒ˜î•ŒTS›Qú^®‹²býVlQŒTW¯eßvýVÛLˆN!k›Q‹NÏuŒš²NAmÿfR`NSûQ›Q›Q6R0"
+ unlock_estate_EDG_GRE_joint_military_drill_tt:0 "ã‰•§TW¯eºN§!yrCgÿ§T^J-W¯e›Q‹NTwT§!"
+ EDG_GRE_decision_streltsy_commanders_capital_tt:0 "15–§TSûQ›QekuQ§!SŽNbìN–™ýÛbßR0"
+
+ EDG_GRE_decision_study_Russian_absolutism_title:0 "@GREHeÿNW¯eN6RININ"
+ EDG_GRE_decision_study_Russian_absolutism_desc:0 "W¯eºNòTÏuÑSUSúQ†NÝuùRININ„v`ó`ÿwÙ*NöeãNck=f^SŽNßu»lw„vÝuùRCgZ„vöeãNÿ:N†N²býVlQ„vcäNýwYôf‹Y0W=‰VÿbìN”^å‹NIwNî•ÿTÖNìNfR`N0"
+ unlock_estate_EDG_GRE_Russian_absolutism_tt:0 "ã‰•§TW¯eºN§!yrCgÿ§TfR`NW¯eN6RININ§!"
+
+ EDG_GRE_decision_befriend_Morea_title:0 "@MOE²N‹Y§TidÌ‘šN§!"
+ EDG_GRE_decision_befriend_Morea_desc:0 "1443t^ÿ‰R·VW<SaS”NNS‰šˆRidÌ‘šN„vûN¡R²NÙuÉb¯eaSÌ‘¯e¶RÏe„vÄreYYSÿv^ûN‹TvQ:NidÌ‘šNN6RlQÿ6qwÄreYYStS—f-N‰NÖS†NZ<S¯eŒT‰‰Ì‘„v=ecÿÌwÛS†N‰R·VW<SaS”NNÿv^åbuQêËzÿv^êðyôT‰	t¯eÿ=f:NÄreYYS	NNÿNTëXfWN!XlQVùRËz0‰‰Ì‘NidÌ‘šNN6RýVåb	gøvT„vËz:WùR—bTëXfWN!X?eCgŒTÉbNºNÿôfÍ‘‰„vöeÿÄreYYSúQ«Ž„vÉb¯eaSÌ‘¯e¶RÏeN²býVlQÌwT„vætTXýl¯e¶RÏeTúQŽN<S‰šN‡v²RÿNˆ	øvÞÿå‚º‹wsQû|ÿ²býVlQ,gºNØ=fÖN„vXÔS0bìN2NýV=f)Y6q„vßvËSÿt”^ÛLˆTwT0"
+ 
+ EDG_GRE_decision_Contact_Smyrna_title:0 "@SUG²N‹Y§TëX¦ž±§!"
+ EDG_GRE_decision_Contact_Smyrna_desc:0 "(W«ˆz¥Sür²lV¬T«R c„v‰R³uXb)RšNEe0WÿS	gN*N^JºNýV¶RëX¦ž±qQŒTýV‹kXRŽNN0ÖNìN(W«ˆTëXfWN!X›bVTÿŒTbìNN7hNgÎNr‚÷–¯e*O^„v÷SäNÿìr›RNVÏe—b‰N0(WÇ»SÿSîvIQZw&qŽNWlš^MO„v‰‰Ì‘ýVÆ‰†NÙN¨š‰wøvÞ„vTÞwÿ‚YÊNÿôfsQèl^Jcƒw„vbìNÿt”^NyYTwT0"
+ 
+ EDG_GRE_decision_Form_Syracusae_title:0 "@GREbËzÙSÉbäS"
+ EDG_GRE_decision_Form_Syracusae_desc:0 "0ÊN)YNegÿf)Y1SNšR0Rÿ0\n\nUSÅØšÞ˜'TÿY)RšN„vÄ–pžÿ"
+
+ EDG_GRE_decision_support_NOM_title:0 "@NOM=ec§Tú‹ÆYºN§!"
+ EDG_GRE_decision_support_NOM_desc:0 "(„ÈT¾‹sgp6qPLXTÿlšFzœKQ›Q–Q!kINüR†NÑN„véy^ÿÃWÊS„vlš)RKQ³QšR8TÖSMRgYe­‹ÿ‰BlJR1VlšFzœKQ¿R›Rÿv^àVdkhQýV…Qú^ËzY*NT:N0ú‹ÆY0„v›Q:Sÿ›Q:S›Q‹N•˜R=f1uTINôv¥cûN‹T„v^JÔˆ›Q˜R0(W?–Éb=O'YeQµOTÿ^JÔˆ(WÃWÊS„vqVÍT›RÎN¡l	g‚YdkKNØšÿbìN—‰Šbáco‚:gÿ=ecÃWÊS„v^JDQVŒÖSôfY„v)RÊv0"
+
+ EDG_GRE_decision_vassalize_Morea_title:0 "@MOEY)RšNKNNˆ"
+ EDG_GRE_decision_vassalize_Morea_desc:0 "äS^JºNv^^—USNlÏeÿw=fR:NÛV*NIN‰èK„ÿbðy¹eŠÆ–âV	ÿ0ÙÍyRRIN‰úWŽNÖNìNNbO(u„väS^Jí‹¹eŠåNÊS^yÝ‹-N„v^&OÛVPRÏe1Œ0vQ-NÿYm¯e„vTÔˆY)RšNºNåNÇRfk0%NÛ‚ªu‹VŒT›Q‹NS>yOW„ðyÿwÙSÉbäS„vÍk¦Ñy—g¯eŒT¯eôT¾ý^SŽNY)RšNèÏe0†SòS•³lN¦^l„†NäS^JNLuÿFOöeô•eg0R†N°s(WÿyrÌ‘³uKQÌ‘šNŒTÉbhãN¦hýòT1»y†NWlš^ýV„vßu»lÿuóý(WT(WÉb¯eaSÌ‘¯e—RÏe„v»lN0àVdkÿbìN2NýV„vºNlNô²‹:NÿÙSÉbäSŒTidÌ‘šN—‰âVÓuNôÿ”^ùRûNUOïSýw„vZÁw0"
+
+ EDG_GRE_decision_vassalize_Smyrna_title:0 "@SUGåNVNb„vˆRg"
+ EDG_GRE_decision_vassalize_Smyrna_desc:0 "åNVNbMOŽNSšNÆušN‰wm¸Sÿ=fOeY<SšNASŒNÎW¦KNNÿøv.O:NÅ–xQ‹sPR‰R·VWKQm¯eNbú^0T•^šNýV‹sKQWO0t¯eþfPcDîOú^?–SÒV%V¯e^y™^ÿOvQb:NäSãNNLuN'YGYùKNN0šN†SqS'Y'Y^NVTÿåNVNbøvçu«ˆçuNwßu»l0lQCQMR133t^å‹ÎWv^eQWlšÿb:NšNÆušNLˆw–™œ^ÿºNãS>ŒNASNÿú^	g^XSÏ‚¯eþVfN†™IrROú^Qr0O’VÝOW(Wdk.OYe	Nt^ÿO’V¦uðZft^ESdkÿ1WÍk›s)RšN¦Nøv.O‰RwŽNdk0lQCQ431t^,r	N!knfN'YlQO®‹(WdkìSV06qwÿäSåNVNb(W+o•„vSg-NéeòTpˆK„Ÿ^Vÿw(WäSåNVNbWNWÁeÿN²«ˆWlš^ýV›bV„v^JºNú^Ëzw†NN*N0°eåNVNb0ÿsSëX¦ž±qQŒTýV0‚YÊNÿz¥SºN„vÛIeck©‹yYŒSŒSïSqSÿbìNÅV‰˜‡^²bëX¦ž±ºNÿnxÝO^JTÞw„v‰RqS0"
+
+ EDG_GRE_descion_Suez_Cannal_title:0 "@GREîOú^§TXbÒRÆRÐ³l§!"
+ EDG_GRE_descion_Suez_Cannal_desc:0 "Þ¥c0W-NwmN¢uwm„vÐ³lgéeïSý¯n0RäSÃWÊS,rASŒN‹sgÿ›ªR^XSyrŒNNN	NNÿ<P—VNÐc„v=fÿÖNìN„vTWRck=f0Ï‚OëX0NÍ‹„vegn	ÿ–™VcÏ‚OëXŒnó<SW³l„vÐ³lÿÕ‹þVŸl¢uwmN0W-NwmÿFO*gbŸR0MR600t^Õlw<SÑyŒNNÍ‘=TåTzÿàVb‰Nˆmw‚fjP0(W«ˆ^JºNßu»lTÿMR270t^ÿÕlwXbÒRÆRŒNNÍ‘°eV†NÐ³lÿv^žX¾‹9‚ø•ÿFO†SÏuCSt^ÿXbÒRÆRÐ³lØ=fàVål™lämïywŸ^V†N0ÑàQASt^ÿZ<S¯eºNÕ‹þVNµc6RÃWÊSŒTÙS)RšN„v(„ÈT¾‹sgŒ2RîOú^Ð³lÿFOgTN0kwce0–NwÙSÉbäSvbcú‹ÆY›Q?eœ^ŒcµcÃWÊSÿÍ‘°eVŸXbÒRÆRÐ³lÈuŽN«ˆÐcN†N²býV®‹O„v†Sz0ÏuÇÔNÆu„v¨‹º‹ŒTØRßRÿgÈu²býVlQrešRÿS(WKQ)R¯elšN^ôT¯eÐc¯eKNô•ÿYtQXbÒRÆRÐ³lÿN>NÞ¥c0W-NwmŒT¢uwm0"
+
+ EDG_GRE_descion_Cimmerian_agriculture_title:0 "@AZOÑžwmœQNYtQ"
+ EDG_GRE_descion_Cimmerian_agriculture_desc:0 "(WäSxQöegÿÅ–xQIr^JÎW¦„v,g0W®|ß˜òTàeÕl‰QImhQèºNãS0›…hÌ‘‰RºNþf—|>ewjO„vÑžwmS¸Sÿ‚Y,rBw=O³lAmßWŒTv–Ì‘¯eJS›S	ÿÿ(W^JºN&^eg¾|wÆujOŽb=gTÿØSb†NäS^JNLu„v0S'YÓN00ÙÌ‘úQãS„v7ŒirÿIN‰=fS¦ž	ÿÿ‰QIm†NÅ–xQIrÎW¦„vlQlÿ=e‘d†N^JNLu„vAucƒ0œQN„vAucƒN&TùRŽNN*NýV¶Regô‹ósQÍ‘‰ÿ‚YÊNÿÑžwm¿l¸S(WÏuÇCSt^„v8ngrlÏe­ˆpb c:YTœQ0uŸ^VÿºNßpzSÿbìN—‰ÊSöeÍ‘=cÑžwmœQNÿåNnxÝOqQŒTýV„v®|ß˜‰RhQ0"
+
+ EDG_GRE_decision_vassalize_Azov_title:0 "@AZOv–Ì‘¯eW¦h"
+ EDG_GRE_decision_vassalize_Azov_desc:0 "1443t^ÿ(WWlš‡v^‰R·VW<SaS”NNçuMOöeÿjgaS¯e¶RÏe„v<SúWVœ¯eŒcác†N^ýV…QèøvSV'Y„vNèRCg›RÿFOÖNêåw	gïSýw«ˆôT‰	t¯eIeûQÿNñmåwêñTïSýwàeÕl(W›Q‹NNbÜwt^S	gb„v‰R·VW<SaSÿàVwSàVŽNêñT„v›Q–ÁyêŒpÿv^&^†˜†NN=eÇ–cO›QÿNÄreYYW„våTyrßu»lwÓußvÿ:YÖS†Níp±šNqQŒTýVMOŽNÑžwm¿l¸S„v†˜0WÿŽN=f^JºN(Wv–Ì‘¯e0W:SYtQ†NZS¯enfœ¯e‹sýV0–NwN^ýV„vmp¡NŒT^JlÏeaÆ‹„v¬b4YÿjgaS¯e¶RÏegÈu>eN†NùR^MO„výBlÿbìN”^å‹:gSÖNìNÑSúQŽ¦uÿ÷‹BlTwT0"
+
+ EDG_GRE_descion_Landsia_Silk_title:0 "@GREÑSUSÌ‘wmµNN"
+ EDG_GRE_descion_Landsia_Silk_desc:0 "jO:N=fäSNøuKNï„vsQ.•‚‚¹pÿÌ‘wm¿l¸S0W:S8fŽVeg‘˜Auÿôf=fTÍyz‚=gÎ˜<hŒTÇu.Žbz‚„v²N‡KN0WÿvQ-NÿTXôTÌ‘¯efW«ˆ‰Š:NOg0WïkµNN„v-NÃV01uŽN8^t^„vRÂˆNbqNÿ0WïkµNN„)ÿ'YN‚YMR0:N†NbìNâl¯e†˜0W„vAucƒÿ²býVlQ³QšR.^©ROgºNYtQÙN.OßuµNN0"
+
+ EDG_GRE_descion_Pannonian_Methorian_title:0 "ú^Ëz@RMNXoú‹<SšN¹†u:S"
+ EDG_GRE_descion_Pannonian_Methorian_desc:0 "YYt³l=f^J‡ef„vgÁXÿSV0W„vlšNbSºNŒT¾QYšNºNýŒSv`·Va×Vßu»lwÿ©‹bìN)R(uÙN¹pÿvbiÖNìNú^ËzN*N@RMNXoú‹<SšN¹†u:SÿñbkSýVW0"
+
+ EDG_GRE_descion_Rhipaion_Methorian_title:0 "ú^Ëz@GK6^tôˆf¹†u:S"
+ EDG_GRE_descion_Rhipaion_Methorian_desc:0 "?–SQS¯eqS	=f^J‡ef„vgÁXÿSV0W„v^tëXºNŒSv`·Va×Vßu»lwÿ©‹bìN)R(uÙN¹pÿvbiÖNìNú^ËzN*N@GK6¹†u:SÿñbkSýVW0"
+
+ EDG_GRE_descion_recontrol_Nicaea_title:0 "@GK2Í‘Ô<S‰šN"
+ EDG_GRE_descion_recontrol_Nicaea_desc:0 "cƒw„v<S‰šNÿO'Y„v<S‰šNÿŽKN„v<S‰šNÿ^JºNÉ‰’‘„vw¹pÿÉb¯eaSÌ‘¯eHQ^„vúWNÿ(W«ˆeY¯eüfz¥Sî†µOTÑ200t^TÿÈuŽNÍ‘RV¦u‰R<S¯e	NN„vTºNKNKb0"
+
+ EDG_GRE_descion_vassalize_Egypt_title:0 "@NOMTwTú‹ÆY›Q?eœ^"
+ EDG_GRE_descion_vassalize_Egypt_desc:0 "(WbýV„vŸ›Røv©RNÿ^JºNòTÏuQ!k(WÃWäSnfXb¯eÙz3z†NßÿbËz†NN*NSO6RNbìNøvÑ„v›Q?eœ^0²býV®‹ONô²‹:NÿbìN„vØNúQ=föeP—V0RQQ°s†Nÿ²býVlQSTWS¹e„vDQVìNÄRúQNýNTwT÷‹Bl0"
+
+#4YTˆ
+ EDG_GRE_LORDPROTECTOR:0 "²býVlQ"
+ EDG_GRE_GRAND_LORDPROTECTOR:0 "'Y²býVlQ"
+ EDG_GRE_GREAT_LORDPROTECTOR:0 "O'Y²býVlQ"
+
+#wýNÄu
+ Hellas_province_group:"§T@GRE^JNLu§!"
+
+#îOck
+ EDG_SIC_Fatimid_integrate_sicily_modifier:0 "teT‰‰Ì‘"
+ desc_EDG_SIC_Fatimid_integrate_sicily_modifier:0 "NŠb“bOO‰‰Ì‘ÿw˜IR¼pS0"
+ EDG_SIC_loyal_Sicily_modifier:0 "aSSÔkê»l:S"
+ desc_EDG_SIC_loyal_Sicily_modifier:0 "§TýwZPÕl‚„›sÈTÌ‘ÑSi–N„v×rÿ1S=f®Vãg'Y„vcƒx^JUÿ§!"
+ EDG_SIC_Reforms_of_Issac:0 "O(„KQÛVN„v9ei—"
+ desc_EDG_SIC_Reforms_of_Issac:0 "O(„KQÛVN‡v^ÿ^yfkÄ–euÿCNNãNKNñ‚IN......wM–t^N8lÿŽ×VN1Sÿ²`+Yÿ"
+ EDG_SIC_Inner_Troubles:0 "§Rßu»lqS:g§!"
+ desc_EDG_SIC_Inner_Troubles:0 "0SVßu»lwKNô•ÑSu‰N5T0µNu>mû|öeÿÖNìN1SNQ=fÎW¦„v²bkSwÿw=fÎW¦g'Y„vxy³R0àV:NÖNìNKb-Nác	gCgÄgÿÖNìN„vNŒTOÔks^l„vNŒT&^egôf'Y„vŒp¾–00"
+ EDG_SIC_intervene_sicily_civil_war_modifier:0 "r^‰m2N‰‰Ì‘…Qb"
+ desc_EDG_SIC_intervene_sicily_civil_war_modifier:0 "bìN‰nxÝOêñT(W2N‰‰Ì‘…Qb-N+eÖSg'Y„v)RÊv0"
+ EDG_SIC_Fatimid_Support_modifier:0 "Õl‚„›s„vb‰Nôc©R"
+ desc_EDG_SIC_Fatimid_Support_modifier:0 "ÆwSÇƒ„vi`Å`ØNŒR0"
+ EDG_SIC_PUA_lose_capital_modifier:0 "ýVý1Yw–"
+ desc_EDG_SIC_PUA_lose_capital_modifier:0 "'Y¿RòT»S......"
+ EDG_SIC_rebuild_country_modifier:0 "Í‘ú^ýV¶R"
+ desc_EDG_SIC_rebuild_country_modifier:0 "TODO"
+ EDG_SIC_end_disasters_modifier:0 "YtQÙfIQ"
+ desc_EDG_SIC_end_disasters_modifier:0 "TODO"
+ EDG_GRE_back_home:0 "RVaNÃVR"
+ desc_EDG_GRE_back_home:0 "§T0sS¿ObêS=f,Tô‹b„vEeaNOTXaSÿ±qSæSwO0h(gq„ƒ„v0W¹eÿbmN?aËzIR‰k»S00§!"
+ EDG_GRE_Byzantium_province_modifier:0 "^JNLu„v,rŒNÃV"
+ desc_EDG_GRE_Byzantium_province_modifier:0 "§T0Üb`S‚„ÁJUÿ`OPW(Wâl^X¬Q„vgr:W-N.Yÿ\n\nÑ‘r‚„v|œ²=f`O8lR`„v Q•Q0\n\n`OˆR²bNwÑžwm„vËT‰Uÿ\n\n©‹ÏkNX‚s^‰RRV*‚„v9‚êS:N`O„vTWR`YR‘0§!0"
+ EDG_GRE_Athen_province_modifier:0 "§TäSxQKNÎW§!"
+ desc_EDG_GRE_Athen_province_modifier:0 "§T?adkÎW¦8lÜfÛvÿ\n\n?aƒR(Wb‰N-NqQ«N™R¯e„vlQckÿ\n\n?a^yf7wŒ˜ÙGrW0Wÿ\n\n©‹ƒRb:N^JºN„vcƒw0§!"
+ EDG_GRE_Kill_Arta_modifier:0 "§RYÇN`kp§!"
+ desc_EDG_GRE_Kill_Arta_modifier:0 "0§RN=fàV:N*þVÖNìN„vW0WÿmNN=fàV:N4nBlÖNìN„v0ÌRÿw=fàV:NÉbNºN„v·sal†NN^KNÎWÿbìNÅV‰˜(uÈpkpmÀQÏkNWWÓgNˆ„vówg0§!0"
+ EDG_GRE_reconquer_North_Epirus_modifier:0 "§T^JNOØV°‹§!"
+ desc_EDG_GRE_reconquer_North_Epirus_modifier:0 "§TbìNNOØV°‹ƒRÿ§!\n\n§T^J„vSO‡^œ¯eÿ§!\n\n§TbìN.^yYÍ‘·ƒê1u0§!"
+ EDG_GRE_Thessaly_Stud_Farm_modifier:0 "r‚(„)Rlš:W"
+ desc_EDG_GRE_Thessaly_Stud_Farm_modifier:0 "§G(WÕlS(„m¯e„vs^ŸSNÿ§!\n\n§Gšlš‚YÎ˜pšÇÿ§!\n\n§GƒRìN„v›Ûk(W3–IQNê•wÿ§!\n\n§G‚YT9S<SeY¯e³l„vâlIQ0§!"
+ EDG_GRE_raise_Thessaly_warhorse:0 "^’d)RšNblš"
+ desc_EDG_GRE_raise_Thessaly_warhorse:0 "0Ù›NlšgŽKN0gÄ–šÿÔkê–Ø‹vÿÑwegëV‚YËeÎ˜ÿ=fhfæfŒT3–IQNg‹Y„vš³00"
+ EDG_GRE_Elysium_fund:0 "ÃW‹V‰f¢ci–úWÑ‘"
+ desc_EDG_GRE_Elysium_fund:0 "b»SÿÙ*Ný	gºNwÏcðTÿ"
+ EDG_GRE_Rejuvenate_Magna_Graecia:0 "'Y^JÍ‘u"
+ desc_EDG_GRE_Rejuvenate_Magna_Graecia:0 "§TUOY	g|œ²‚Yö”^ê•Ápÿ\n\nUOY	g=nŒn‚Y°eg=V=Vÿ\n\n±Ì‘¿O=f“^ÈºN„v™Lhÿ\n\n±Ì‘¿O=f?–âlWPˆN„vgr:W0§!"
+ EDG_GRE_Banish_Latin_Republics:0 "ÖSÉbNqQŒTýV"
+ EDG_GRE_expel_crusaders:0 "ÁkmpASWR›Q"
+ desc_EDG_GRE_expel_crusaders:0 "§RÖNìN„vªuõVÿ?aƒR(WN¹e„vYeO-N8lÜˆm¡Nÿ\n\nôvóÖNìNRVØNb×vÖS„v0ÏV”`Nb·sal„v\n\nFOŒýwRVØNµ^«ˆqÁk„vÎWÿ§!"
+ EDG_GRE_Hellenic_Revenge_on_Latin_modifier:0 "§R@GRE^JºN„vYÇN§!"
+ desc_EDG_GRE_Hellenic_Revenge_on_Latin_modifier:0 "bìN^JºN„v¨š4Y=fçqówÿÏkN!kûQSbÿýædúQ°e„v§Rkp0q§!0Ir0R§Rkp0qÎqŸS§!KNåeÿ±›Nþf(u)ŽbìN„vºNÿS(uêñT„vTYÑÿàV:NbìN„v§Rkp0q§!OýNÖNìN0"
+ EDG_GRE_Destroy_Nova_Rome:0 "^ýVh–K„"
+ desc_EDG_GRE_Destroy_Nova_Rome:0 "ÖNìNåNWlšKNTßu»l†NCSt^ÿbìNåN^JKNTÈuÓu†NÙCSt^0"
+ EDG_GRE_Save_Hellas:0 "§TïbQe^J§!"
+ desc_EDG_GRE_Save_Hellas:0 "öeIQAmlÿSgnÞVÿ^JÈuŽNÍ‘RVbìN0"
+ EDG_GRE_Bulgarian_Butcher:0 "eY·V‹V‰šN`S+Y"
+ desc_EDG_GRE_Bulgarian_Butcher:0 "§R`Oî•±qSô•:NUO‚YdkÂRY—ÿ\n\nêSàVNNÛVCS9h‚9hòTàeÕlÞV”^0\n\n`Oî•±³l4l:NUO‚Ydkœœ¢uÿ\n\nêSàVÝO RSºN„v<wzÌ‘AmúQ„vNˆÓg¢u†NÃW›s³l„vn4Y0§!"
+ EDG_GRE_Stick_to_True_Faith: "¯uckáOðN"
+ desc_EDG_GRE_Stick_to_True_Faith: "......FOÙmN¸‹v^^—gOã‰0"
+ EDG_GRE_gift_of_Mithras:0 "ÆRyrÉb„v`<y"
+ desc_EDG_GRE_gift_of_Mithras:0 ".sÙuNïSŠô‹„vÆRyrÉbÿ\n*Y3–„vIN°RÿQY¦u„vˆR²bw0\n\nø‹^y„vTWRïSåNûÑ‹ÿ\nFO`O„vTWRÿ\nbìNêS(Wmtz-N‰ðXõVúQ0"
+ EDG_GRE_Ducate_of_pontus_modifier: ",gý›Q:S"
+ desc_EDG_GRE_Ducate_of_pontus_modifier:0 ",gý=fNLu„v-N\n\nN=fN¹eÿN=f‰¹eÿ\n\n=fNb	g¹eT„vÎ˜ýýw9T0R„v0W¹eÿ\n\nmN=fNb	g¹eT„vÎ˜ýÒa—VjPYu„v0W¹e0"
+ EDG_GRE_NOM_Ducate:0 "ÃWäSnfXb¯e›Q:S"
+ desc_EDG_GRE_NOM_Ducate:0 "ú‹ÆYºNÿ`OTw'Tÿ"
+ EDG_GRE_MOE_Ducate:0 "=OWTY<S’d›Q:S"
+ desc_EDG_GRE_MOE_Ducate:0 "¯eôT¾ºNÿ`OTw'Tÿ"
+ EDG_GRE_AZO_Ducate:0 "Ñžwm›Q:S"
+ desc_EDG_GRE_AZO_Ducate:0 "v–Ì‘¯eºNÿ`OTw'Tÿ"
+ EDG_GRE_BAC_Ducate:0 "ôTKQyrÌ‘šN›Q:S"
+ desc_EDG_GRE_BAC_Ducate:0 "'YYºNÿ`OTw'Tÿ"
+ EDG_GRE_TAB_Ducate:0 "^SaS<SšN›Q:S"
+ desc_EDG_GRE_TAB_Ducate:0 "lš^·VpQºNÿ`OTw'Tÿ"
+ EDG_GRE_Supprot_Noms:0 "=ecú‹ÆYºN"
+ desc_EDG_GRE_Supprot_Noms:0 "0lš)RKQ„vkS–-N	g¸‹Yegê^J„vºN0ÖNìN«ˆðy:N1gœ	TÿJuruji	ÿÿ=fSKbÿ=fQRëXÿmN=fÂa—V6R.^Jkp„våT.S0ÖNìNNô‹?–Éb=Oí‹ÿNNSV0WºNZZÿOO(WVWÎWYN*NëSSÜb`S‚„Á„vWˆ:SÌ‘0Wˆ:S„vYeX‹†SÿtSÝOcNw^J„v<yêN00"
+ EDG_GRE_Alexandar_Diadoch:0 "çuNw"
+ desc_EDG_GRE_Alexandar_Diadoch:0 "0íQb»yVöe2NKbzzzzÿÞVegöeÍN6q2NKbzzzzd–†NÙGrW0WN„vºNl?aaÙub„vN‰00"
+ EDG_GRE_Philhellenism:0 "1r^Jw"
+ desc_EDG_GRE_Philhellenism:0 "0^JºN0Ù*NTWRNQ^SŽNN*NÍyÏeÿw^SŽNNÍyzfÆ‹0±›N¥c×SbìNYe²w„vºNÿÔk±›NÅNÅNNbìNR«NNˆ„vºNÿôfM‘—VN«ˆðy:N0^JºN00\n\n‚Yœg	gºNî•ÿŒ=fwck„v^JºNÿb„vTrHh=fÿ±›N1r^J„vºN0\n\nàeº‹ÖNìNúQu(WêTÌ‘ÿàeº‹ÖNìN„v6rˆô‹ÀNHNí‹ŠÿêS‰ÖNìN?aafR`NbìN„v‡eS0HeÿNbìN„v6R¦^0ý–bìN„v^yGyÿÖNìN1S=fbìN„vTÞw0\n\nw‚YœgÖNìN-N„vÐg›NºNØýwÿbwfkhVÿNbìNqQTùR—bî†Ïe±›NºNÿ”^SV«ˆIR(WgIQcƒ„vów‘xN0"

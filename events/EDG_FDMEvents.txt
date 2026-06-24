@@ -1,0 +1,4213 @@
+namespace = EDG_FDMEvents
+country_event = {
+	id = EDG_FDMEvents.1
+	title = EDG_FDMEvents.1.title
+	desc = EDG_FDMEvents.1.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.1.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		tunisia_area = {
+			change_religion = ROOT
+			add_local_autonomy = -100
+			add_devastation = 10
+		}
+		djerba_area = {
+			change_religion = ROOT
+			add_local_autonomy = -100
+			add_devastation = 10
+		}
+		tripolitania_area = {
+			change_religion = ROOT
+			add_local_autonomy = -100
+			add_devastation = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.2
+	title = EDG_FDMEvents.2.title
+	desc = EDG_FDMEvents.2.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.2.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		every_owned_province = {
+			limit = {
+				OR = {
+					province_id = 4562
+					province_id = 2465
+					province_id = 335
+					province_id = 4561
+					province_id = 334
+					province_id = 4563
+					province_id = 343
+					province_id = 2467
+				}
+			}
+			change_religion = ROOT
+			add_local_autonomy = -100
+			add_devastation = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.3
+	title = EDG_FDMEvents.3.title
+	desc = EDG_FDMEvents.3.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.3.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		every_owned_province = {
+			limit = {
+				OR = {
+					province_id = 344
+					province_id = 342
+					province_id = 4564
+					province_id = 2468
+					province_id = 4568
+					province_id = 2469
+					province_id = 345
+					province_id = 2470
+					province_id = 2464
+					province_id = 348
+					province_id = 1110
+					province_id = 347
+				}
+			}
+			change_religion = ROOT
+			add_local_autonomy = -100
+			add_devastation = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.4
+	title = EDG_FDMEvents.4.title
+	desc = EDG_FDMEvents.4.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.4.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		every_owned_province = {
+			limit = {
+				OR = {
+					province_id = 336
+					province_id = 2463
+					province_id = 349
+					province_id = 346
+					province_id = 2460
+					province_id = 2466
+				}
+			}
+			change_religion = ROOT
+			add_local_autonomy = -100
+			add_devastation = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.5
+	title = EDG_FDMEvents.5.title
+	desc = EDG_FDMEvents.5.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.5.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		every_owned_province = {
+			limit = {
+				OR = {
+					province_id = 350
+					province_id = 2457
+					province_id = 351
+					province_id = 2456
+					province_id = 2472
+					province_id = 352
+					province_id = 2450
+					province_id = 4567
+					province_id = 2449
+					province_id = 2448
+				}
+			}
+			change_religion = ROOT
+			add_local_autonomy = -100
+			add_devastation = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.6
+	title = EDG_FDMEvents.6.title
+	desc = EDG_FDMEvents.6.desc
+	picture = BIG_BOOK_eventPicture
+	major = yes
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.6.a
+		add_stability = -2
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.7
+	title = EDG_FDMEvents.7.title
+	desc = EDG_FDMEvents.7.desc
+	picture = BIG_BOOK_eventPicture
+	major = yes
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.7.a
+		add_stability = -2
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.8
+	title = EDG_FDMEvents.8.title
+	desc = EDG_FDMEvents.8.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.8.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		set_capital = 361
+		361 = {
+			add_core = ROOT
+			change_religion = ROOT
+			add_base_tax = 4
+			add_base_production = 4
+			add_base_manpower = 4
+			add_permanent_province_modifier = {
+				name = EDG_FDM_mission_3_6_modifier_2
+				duration = -1
+			}
+		}
+		339 = {
+			add_base_tax = 2
+			add_base_production = 2
+			add_base_manpower = 2
+			add_permanent_province_modifier = {
+				name = EDG_FDM_mission_3_6_modifier_1
+				duration = -1
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.9
+	title = EDG_FDMEvents.9.title
+	desc = EDG_FDMEvents.9.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		set_global_flag = EDG_sunni_Caliph_moving_global_flag
+	}
+	option = {
+		name = EDG_FDMEvents.9.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = 100
+		}
+		add_prestige_or_monarch_power = {
+			amount = 100
+		}
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		custom_tooltip = EDG_sunni_Caliph_interaction_button_3_effect_tt
+		custom_tooltip = EDG_FDMEvents.9.a_tt
+		hidden_effect = {
+			every_known_country = {
+				limit = {
+					religion = sunni
+				}
+				add_opinion = {
+					who = ROOT
+					modifier = EDG_flavor_caliphate_kill_opinion_modifier
+				}
+			}
+		}
+		set_country_flag = EDG_has_deposed_sunni_caliph_flag
+		every_province = {
+			limit = {
+				has_province_modifier = EDG_Abbasid_Caliphate_province_modifier
+			}
+			remove_province_modifier = EDG_Abbasid_Caliphate_province_modifier
+		}
+		clear_global_event_target = EDG_sunni_Caliph_target
+		clr_global_flag = EDG_sunni_Caliph_moving_global_flag
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.10
+	title = EDG_FDMEvents.10.title
+	desc = EDG_FDMEvents.10.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.10.a
+		custom_tooltip = EDG_FDMEvents.10.a_tt
+		hidden_effect = {
+			every_owned_province = {
+				ROOT = {
+					add_treasury = 10
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.10.b
+		custom_tooltip = EDG_FDMEvents.10.b_tt
+		hidden_effect = {
+			every_owned_province = {
+				add_base_tax = -1
+				ROOT = {
+					add_treasury = 25
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.11
+	title = EDG_FDMEvents.11.title
+	desc = EDG_FDMEvents.11.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.11.a
+		custom_tooltip = EDG_FDMEvents.11.a_tt
+		hidden_effect = {
+			every_owned_province = {
+				ROOT = {
+					add_manpower = 1
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.11.b
+		custom_tooltip = EDG_FDMEvents.11.b_tt
+		hidden_effect = {
+			every_owned_province = {
+				add_base_manpower = -1
+				ROOT = {
+					add_manpower = 2.5
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.12
+	title = EDG_FDMEvents.12.title
+	desc = EDG_FDMEvents.12.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.12.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.13
+	title = EDG_FDMEvents.13.title
+	desc = EDG_FDMEvents.13.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.13.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.14
+	title = EDG_FDMEvents.14.title
+	desc = EDG_FDMEvents.14.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		hidden_effect = {
+			add_government_power = {
+				mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+				power_type = EDG_FDM_path_of_rebirth_countdown
+				value = 100
+			}
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.14.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		custom_tooltip = EDG_FDMEvents.14.a_tt
+		custom_tooltip = EDG_SPACE_TT
+		tooltip = {
+			add_government_power = {
+				mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+				power_type = EDG_FDM_path_of_rebirth_countdown
+				value = 100
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.15
+	title = EDG_FDMEvents.15.title
+	desc = {
+		desc = EDG_FDMEvents.15.desc.a
+		trigger = {
+			mission_completed = EDG_FDM_mission_3_8
+		}
+	}
+	desc = {
+		desc = EDG_FDMEvents.15.desc.b
+		trigger = {
+			has_country_flag = EDG_FDM_path_of_rebirth_disaster_can_end_flag
+		}
+	}
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		if = {
+			limit = {
+				mission_completed = EDG_FDM_mission_3_8
+			}
+			set_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_1
+		}
+		else = {
+			set_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_2
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.15.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_country_modifier = {
+			name = EDG_FDMEvents_15_modifier
+			duration = -1
+		}
+		trigger = {
+			mission_completed = EDG_FDM_mission_3_8
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.15.b
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_stability = -2
+		trigger = {
+			has_country_flag = EDG_FDM_path_of_rebirth_disaster_can_end_flag
+		}
+	}
+	after = {
+		hidden_effect = {
+			add_government_power = {
+				mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+				power_type = EDG_FDM_path_of_rebirth_countdown
+				value = -100
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.16
+	title = EDG_FDMEvents.16.title
+	desc = EDG_FDMEvents.16.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_heir_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	option = {
+		name = EDG_FDMEvents.16.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		change_heir_mil = 1
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.17
+	title = EDG_FDMEvents.17.title
+	desc = EDG_FDMEvents.17.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_heir_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	option = {
+		name = EDG_FDMEvents.17.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		change_heir_adm = 1
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.18
+	title = EDG_FDMEvents.18.title
+	desc = EDG_FDMEvents.18.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_heir_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	option = {
+		name = EDG_FDMEvents.18.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		change_heir_mil = 1
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.19
+	title = EDG_FDMEvents.19.title
+	desc = EDG_FDMEvents.19.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_heir_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	option = {
+		name = EDG_FDMEvents.19.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		change_heir_adm = 1
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.20
+	title = EDG_FDMEvents.20.title
+	desc = EDG_FDMEvents.20.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_heir_flag = EDG_FDM_Fatima_initial_heir_flag
+		NOT = {
+			heir_age = 15
+		}
+	}
+	mean_time_to_happen = {
+		years = 4
+		modifier = {
+			factor = 0.1
+			heir_age = 13
+		}
+		modifier = {
+			factor = 0.01
+			heir_age = 14
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.20.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_heir_personality = EDG_FDM_yahya_personality
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.21
+	title = EDG_FDMEvents.21.title
+	desc = EDG_FDMEvents.21.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_ruler_flag
+		has_heir_flag = EDG_FDM_Fatima_initial_heir_flag
+		heir_age = 15
+		heir_has_personality = EDG_FDM_yahya_personality
+		heir_adm = 5
+		heir_mil = 6
+	}
+	option = {
+		name = EDG_FDMEvents.21.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		kill_ruler = yes
+		country_event = {
+			id = EDG_FDMEvents.22
+			days = 1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.22
+	title = EDG_FDMEvents.22.title
+	desc = EDG_FDMEvents.22.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.22.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		custom_tooltip = EDG_FDMEvents.98.tt
+		define_ruler_to_general = {
+			fire = 4
+			shock = 5
+			manuever = 3
+			siege = 4
+			trait = born_to_the_saddle_personality
+		}
+		if = {
+			limit = {
+				has_disaster = EDG_FDM_path_of_rebirth_disaster
+			}
+			add_government_power = {
+				mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+				power_type = EDG_FDM_path_of_rebirth_countdown
+				value = 25
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.23
+	title = EDG_FDMEvents.23.title
+	desc = EDG_FDMEvents.23.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.23.a
+		change_religion = shiite
+	}
+	option = {
+		name = EDG_FDMEvents.23.b
+		trigger = {
+			ai = no
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.24
+	title = EDG_FDMEvents.24.title
+	desc = EDG_FDMEvents.24.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		OR = {
+			EDG_sunni_Caliph_ability_trigger = yes
+			EDG_shiite_Caliph_ability_trigger = yes
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.24.a
+		custom_tooltip = EDG_FDMEvents.24.a_tt
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.25
+	title = EDG_FDMEvents.25.title
+	desc = EDG_FDMEvents.25.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		tag = FDM
+		NOT = {
+			religion = shiite
+		}
+	}
+	fire_only_once = yes
+	option = {
+		trigger = {
+			exists = TUN
+		}
+		name = EDG_FDMEvents.25.a
+		release_all_possible_countries = yes
+		release_all_subjects = yes
+		TUN = {
+			inherit = ROOT
+		}
+	}
+	option = {
+		trigger = {
+			NOT = {
+				exists = TUN
+			}
+		}
+		name = EDG_FDMEvents.25.a
+		if = {
+			limit = {
+				owns = 341
+			}
+			set_capital = 341
+		}
+		change_tag = TUN
+		change_primary_culture = tunisian
+		add_government_reform = EDG_Improve_Babari_Iqta
+		swap_non_generic_missions = yes
+		release_all_possible_countries = yes
+		release_all_subjects = yes
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.26
+	title = EDG_FDMEvents.26.title
+	desc = EDG_FDMEvents.26.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		every_owned_province = {
+			set_province_flag = EDG_FDMEvents_26_province_flag
+		}
+		release_all_subjects = yes
+		release_all_possible_countries = yes
+		every_province = {
+			limit = {
+				has_province_flag = EDG_FDMEvents_26_province_flag
+				NOT = {
+					owned_by = ROOT
+				}
+			}
+			owner = {
+				set_country_flag = EDG_FDMEvents_26_country_flag
+				every_owned_province = {
+					clr_province_flag = EDG_FDMEvents_26_province_flag
+				}
+			}
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.26.a
+		custom_tooltip = EDG_FDMEvents.26.a_tt
+		hidden_effect = {
+			every_country = {
+				limit = {
+					has_country_flag = EDG_FDMEvents_26_country_flag
+				}
+				declare_war_with_cb = {
+					casus_belli = EDG_BAV_independence_cb
+					who = ROOT
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.27
+	title = EDG_FDMEvents.27.title
+	desc = EDG_FDMEvents.27.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		set_country_flag = EDG_FDM_sword_of_despair_disaster_ended_flag
+	}
+	option = {
+		name = EDG_FDMEvents.27.a
+		custom_tooltip = EDG_FDMEvents.27.a_tt
+		hidden_effect = {
+			every_country = {
+				limit = {
+					has_country_flag = EDG_FDMEvents_26_country_flag
+				}
+				clr_country_flag = EDG_FDMEvents_26_country_flag
+				ROOT = {
+					inherit = PREV
+				}
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.28
+	title = EDG_FDMEvents.28.title
+	desc = EDG_FDMEvents.28.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.28.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		custom_tooltip = EDG_FDMEvents.28.a_tt
+		add_stability = -2
+		EDG_FDM_scale_of_imam_disaster_release_ABS_effect = yes
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.29
+	title = EDG_FDMEvents.29.title
+	desc = EDG_FDMEvents.29.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		set_country_flag = EDG_FDM_scale_of_imam_disaster_ended_flag
+	}
+	option = {
+		name = EDG_FDMEvents.29.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		custom_tooltip = EDG_FDMEvents.29.a_tt
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_29_modifier_1
+		}
+		add_country_modifier = {
+			name = EDG_FDMEvents_29_modifier_2
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.30
+	title = EDG_FDMEvents.30.title
+	desc = EDG_FDMEvents.30.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		EDG_FDM_scale_of_imam_disaster_annex_country_trigger = {
+			tag = ABS
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.30.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		inherit = ABS
+		add_country_modifier = {
+			name = EDG_FDMEvents_30_modifier
+			duration = 9125
+		}
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = 100
+		}
+		add_prestige_or_monarch_power = {
+			amount = 100
+		}
+		add_adm_power = 100
+		add_dip_power = 100
+		add_mil_power = 100
+		custom_tooltip = EDG_sunni_Caliph_interaction_button_3_effect_tt
+		custom_tooltip = EDG_FDMEvents.9.a_tt
+		hidden_effect = {
+			every_known_country = {
+				limit = {
+					religion = sunni
+				}
+				add_opinion = {
+					who = ROOT
+					modifier = EDG_flavor_caliphate_kill_opinion_modifier
+				}
+			}
+		}
+		set_country_flag = EDG_has_deposed_sunni_caliph_flag
+		every_province = {
+			limit = {
+				has_province_modifier = EDG_Abbasid_Caliphate_province_modifier
+			}
+			remove_province_modifier = EDG_Abbasid_Caliphate_province_modifier
+		}
+		clear_global_event_target = EDG_sunni_Caliph_target
+		clr_global_flag = EDG_sunni_Caliph_moving_global_flag
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.31
+	title = EDG_FDMEvents.31.title
+	desc = EDG_FDMEvents.31.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.31.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		EDG_FDM_scale_of_imam_disaster_release_country_effect = {
+			tag = ARB
+			region = arabia_region
+		}
+		ARB = {
+			change_religion = ibadi
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.32
+	title = EDG_FDMEvents.32.title
+	desc = EDG_FDMEvents.32.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.32.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		EDG_FDM_scale_of_imam_disaster_release_country_effect = {
+			tag = ETH
+			region = horn_of_africa_region
+		}
+		ETH = {
+			change_religion = coptic
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.33
+	title = EDG_FDMEvents.33.title
+	desc = EDG_FDMEvents.33.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.33.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		EDG_FDM_scale_of_imam_disaster_release_country_effect = {
+			tag = CDC
+			region = maghreb_region
+		}
+		CDC = {
+			change_religion = catholic
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.34
+	title = EDG_FDMEvents.34.title
+	desc = EDG_FDMEvents.34.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.34.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		EDG_FDM_scale_of_imam_disaster_release_country_effect = {
+			tag = MIB
+			region = iberia_region
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.35
+	title = EDG_FDMEvents.35.title
+	desc = EDG_FDMEvents.35.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		exists = ABS
+		is_in_war = {
+			attacker_leader = ABS
+			defender_leader = FDM
+			casus_belli = EDG_BAV_independence_cb
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.35.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		anatolia_region = {
+			limit = {
+				owned_by = ROOT
+			}
+			cede_province = ABS
+			add_core = ABS
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.36
+	title = EDG_FDMEvents.36.title
+	desc = EDG_FDMEvents.36.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		exists = ABS
+		is_in_war = {
+			attacker_leader = ABS
+			defender_leader = FDM
+			casus_belli = EDG_BAV_independence_cb
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.36.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		persia_region = {
+			limit = {
+				owned_by = ROOT
+			}
+			cede_province = ABS
+			add_core = ABS
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.37
+	title = EDG_FDMEvents.37.title
+	desc = EDG_FDMEvents.37.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		exists = ABS
+		is_in_war = {
+			attacker_leader = ABS
+			defender_leader = FDM
+			casus_belli = EDG_BAV_independence_cb
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.37.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		caucasia_region = {
+			limit = {
+				owned_by = ROOT
+			}
+			cede_province = ABS
+			add_core = ABS
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.38
+	title = EDG_FDMEvents.38.title
+	desc = EDG_FDMEvents.38.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		exists = ABS
+		is_in_war = {
+			attacker_leader = ABS
+			defender_leader = FDM
+			casus_belli = EDG_BAV_independence_cb
+		}
+		any_country = {
+			capital_scope = {
+				OR = {
+					region = anatolia_region
+					region = persia_region
+					region = caucasia_region
+				}
+			}
+		}
+	}
+	hidden = yes
+	immediate = {
+		random_country = {
+			limit = {
+				capital_scope = {
+					OR = {
+						region = anatolia_region
+						region = persia_region
+						region = caucasia_region
+					}
+				}
+			}
+		}
+	}
+	option = {
+		custom_tooltip = EDG_FDMEvents.106.tt
+		name = EDG_FDMEvents.38.a
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.39
+	title = EDG_FDMEvents.39.title
+	desc = EDG_FDMEvents.39.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	major = yes
+	option = {
+		name = EDG_FDMEvents.39.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		ABS = {
+			inherit = ROOT
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.39.b
+		custom_tooltip = EDG_FDMEvents.106.tt
+		trigger = {
+			ai = no
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.40
+	title = EDG_FDMEvents.40.title
+	desc = EDG_FDMEvents.40.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		tag = ABS
+		ai = yes
+		is_in_war = {
+			attacker_leader = ABS
+			defender_leader = FDM
+			casus_belli = EDG_BAV_independence_cb
+		}
+		has_country_modifier = EDG_FDMEvents_28_modifier
+		NOT = {
+			manpower_percentage = 0.1
+		}
+	}
+	mean_time_to_happen = {
+		months = 6
+	}
+	major = yes
+	option = {
+		name = EDG_FDMEvents.40.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		add_yearly_manpower = 2
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.41
+	title = EDG_FDMEvents.41.title
+	desc = EDG_FDMEvents.41.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		EDG_FDM_scale_of_imam_disaster_annex_country_trigger = {
+			tag = ETH
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.41.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		inherit = ETH
+		add_country_modifier = {
+			name = EDG_FDMEvents_41_modifier
+			duration = 9125
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.42
+	title = EDG_FDMEvents.42.title
+	desc = EDG_FDMEvents.42.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		EDG_FDM_scale_of_imam_disaster_annex_country_trigger = {
+			tag = ARB
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.42.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		inherit = ARB
+		add_country_modifier = {
+			name = EDG_FDMEvents_42_modifier
+			duration = 9125
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.43
+	title = EDG_FDMEvents.43.title
+	desc = EDG_FDMEvents.43.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		EDG_FDM_scale_of_imam_disaster_annex_country_trigger = {
+			tag = CDC
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.43.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		inherit = CDC
+		add_country_modifier = {
+			name = EDG_FDMEvents_43_modifier
+			duration = 9125
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.44
+	title = EDG_FDMEvents.44.title
+	desc = EDG_FDMEvents.44.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		EDG_FDM_scale_of_imam_disaster_annex_country_trigger = {
+			tag = MIB
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.44.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		inherit = MIB
+		add_country_modifier = {
+			name = EDG_FDMEvents_44_modifier
+			duration = 9125
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.45
+	title = EDG_FDMEvents.45.title
+	desc = EDG_FDMEvents.45.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		any_country = {
+			NOT = {
+				tag = FDM
+			}
+			religion = shiite
+		}
+	}
+	immediate = {
+		if = {
+			limit = {
+				exists = TAB
+			}
+			TAB = {
+				save_event_target_as = EDG_FDMEvents_45_country_target
+			}
+		}
+		else = {
+			random_country = {
+				limit = {
+					NOT = {
+						tag = FDM
+					}
+					religion = shiite
+				}
+				save_event_target_as = EDG_FDMEvents_45_country_target
+			}
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.45.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		if = {
+			limit = {
+				event_target:EDG_FDMEvents_45_country_target = {
+					tag = TAB
+				}
+			}
+			custom_tooltip = EDG_FDMEvents.45.a_tt
+		}
+		add_years_of_income = 1
+		create_unit_forcelimit_percentage = {
+			type = cavalry
+			force_limit_percentage = 0.2
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.46
+	title = EDG_FDMEvents.46.title
+	desc = EDG_FDMEvents.46.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+		any_owned_province = {
+			religion = sunni
+		}
+		NOT = {
+			has_disaster = EDG_FDM_scale_of_imam_disaster
+		}
+		NOT = {
+			has_country_flag = EDG_FDM_scale_of_imam_disaster_ended_flag
+		}
+		check_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 1
+		}
+		OR = {
+			has_disaster = EDG_FDM_path_of_rebirth_disaster
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.46.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		random_owned_province = {
+			limit = {
+				religion = sunni
+			}
+			sunni_rebels = 1
+		}
+		random_owned_province = {
+			limit = {
+				religion = sunni
+			}
+			sunni_rebels = 1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.47
+	title = EDG_FDMEvents.47.title
+	desc = EDG_FDMEvents.47.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		tag = FDM
+		any_owned_province = {
+			religion = ibadi
+		}
+		NOT = {
+			has_disaster = EDG_FDM_scale_of_imam_disaster
+		}
+		NOT = {
+			has_country_flag = EDG_FDM_scale_of_imam_disaster_ended_flag
+		}
+		check_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 1
+		}
+		OR = {
+			has_disaster = EDG_FDM_path_of_rebirth_disaster
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.47.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		random_owned_province = {
+			limit = {
+				religion = ibadi
+			}
+			ibadi_rebels = 1
+		}
+		random_owned_province = {
+			limit = {
+				religion = ibadi
+			}
+			ibadi_rebels = 1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.48
+	title = EDG_FDMEvents.48.title
+	desc = EDG_FDMEvents.48.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		tag = FDM
+		any_owned_province = {
+			religion = catholic
+		}
+		NOT = {
+			has_disaster = EDG_FDM_scale_of_imam_disaster
+		}
+		NOT = {
+			has_country_flag = EDG_FDM_scale_of_imam_disaster_ended_flag
+		}
+		check_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 1
+		}
+		OR = {
+			has_disaster = EDG_FDM_path_of_rebirth_disaster
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.48.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		random_owned_province = {
+			limit = {
+				religion = catholic
+			}
+			catholic_rebels = 1
+		}
+		random_owned_province = {
+			limit = {
+				religion = catholic
+			}
+			catholic_rebels = 1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.49
+	title = EDG_FDMEvents.49.title
+	desc = EDG_FDMEvents.49.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		tag = FDM
+		any_owned_province = {
+			religion = coptic
+		}
+		NOT = {
+			has_disaster = EDG_FDM_scale_of_imam_disaster
+		}
+		NOT = {
+			has_country_flag = EDG_FDM_scale_of_imam_disaster_ended_flag
+		}
+		check_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 1
+		}
+		OR = {
+			has_disaster = EDG_FDM_path_of_rebirth_disaster
+			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.49.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		change_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = -1
+		}
+		random_owned_province = {
+			limit = {
+				religion = coptic
+			}
+			coptic_rebels = 1
+		}
+		random_owned_province = {
+			limit = {
+				religion = coptic
+			}
+			coptic_rebels = 1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.50
+	title = EDG_FDMEvents.50.title
+	desc = EDG_FDMEvents.50.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+	}
+	option = {
+		name = EDG_FDMEvents.50.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		custom_tooltip = EDG_FDMEvents.50.a_tt
+		custom_tooltip = EDG_SPACE_TT
+		set_variable = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 10
+		}
+		set_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.51
+	title = EDG_FDMEvents.51.title
+	desc = EDG_FDMEvents.51.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.51.a
+		custom_tooltip = EDG_FDMEvents.51.tt
+		custom_tooltip = EDG_FDMEvents.51.a_tt
+		custom_tooltip = EDG_SPACE_TT
+		set_variable = {
+			which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+			value = 0
+		}
+		set_variable = {
+			which = EDG_FDM_egyptian_in_name_only_disaster_variable_1
+			value = 0
+		}
+		set_variable = {
+			which = EDG_FDM_egyptian_in_name_only_disaster_variable_2
+			value = 0
+		}
+		set_variable = {
+			which = EDG_FDM_egyptian_in_name_only_disaster_variable_3
+			value = 0
+		}
+		set_variable = {
+			which = EDG_FDM_egyptian_in_name_only_disaster_variable_4
+			value = 0
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.52
+	title = EDG_FDMEvents.52.title
+	desc = EDG_FDMEvents.52.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	immediate = {
+		set_country_flag = EDG_FDM_egyptian_in_name_only_disaster_ended_flag
+	}
+	option = {
+		name = EDG_FDMEvents.52.a
+		custom_tooltip = EDG_FDMEvents.51.tt
+		custom_tooltip = EDG_FDMEvents.52.a_tt
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.53
+	title = EDG_FDMEvents.53.title
+	desc = EDG_FDMEvents.53.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.53.a
+		custom_tooltip = EDG_FDMEvents.51.tt
+		change_variable = {
+			which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+			value = 10
+		}
+		add_estate_loyalty = {
+			estate = estate_church
+			loyalty = -10
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.53.b
+		custom_tooltip = EDG_FDMEvents.51.tt
+		change_variable = {
+			which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+			value = -10
+		}
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.15
+		}
+		else = {
+			add_piety = -0.15
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.54
+	title = EDG_FDMEvents.54.title
+	desc = EDG_FDMEvents.54.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.54.a
+		custom_tooltip = EDG_FDMEvents.51.tt
+		change_variable = {
+			which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+			value = 10
+		}
+		add_years_of_income = -0.15
+	}
+	option = {
+		name = EDG_FDMEvents.54.b
+		custom_tooltip = EDG_FDMEvents.51.tt
+		change_variable = {
+			which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+			value = -10
+		}
+		add_stability = 1
+	}
+}
+
+province_event = {
+	id = EDG_FDMEvents.55
+	is_triggered_only = yes
+	hidden = yes
+	immediate = {
+		upgrade_dock_building = yes
+	}
+	option = {
+	}
+}
+
+province_event = {
+	id = EDG_FDMEvents.56
+	is_triggered_only = yes
+	hidden = yes
+	immediate = {
+		upgrade_shipyard_building = yes
+	}
+	option = {
+	}
+}
+
+province_event = {
+	id = EDG_FDMEvents.57
+	is_triggered_only = yes
+	hidden = yes
+	immediate = {
+		upgrade_courthouse_building = yes
+	}
+	option = {
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.58
+	title = EDG_FDMEvents.58.title
+	desc = EDG_FDMEvents.58.desc
+	picture = BIG_BOOK_eventPicture
+	trigger = {
+		tag = FDM
+		primary_culture = al_misr_arabic
+		any_owned_province = {
+			culture = EDG_FDM_maghrebi_culture
+		}
+		NOT = {
+			technology_group = EDG_Maghreb_groups
+		}
+	}
+	fire_only_once = yes
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.58.a
+		custom_tooltip = EDG_FDMEvents.51.tt
+		change_technology_group = EDG_Maghreb_groups
+		change_unit_type = EDG_Maghreb_groups
+	}
+	option = {
+		name = EDG_FDMEvents.58.b
+		custom_tooltip = EDG_FDMEvents.51.tt
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.59
+	title = EDG_FDMEvents.0.title
+	desc = EDG_FDMEvents.0.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+	}
+	immediate = {
+		hidden_effect = {
+			set_estate_privilege = estate_EDG_FDM_dynasty_of_minority
+			set_estate_privilege = estate_EDG_FDM_questioned_sacred_lineage
+			set_estate_privilege = estate_EDG_FDM_army_mired_in_factional_strife
+			set_estate_privilege = estate_EDG_FDM_egyptian_caliphate_without_cairo
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.0.a
+		tooltip = {
+			set_estate_privilege = estate_EDG_FDM_dynasty_of_minority
+			set_estate_privilege = estate_EDG_FDM_questioned_sacred_lineage
+			set_estate_privilege = estate_EDG_FDM_army_mired_in_factional_strife
+			set_estate_privilege = estate_EDG_FDM_egyptian_caliphate_without_cairo
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.60
+	title = EDG_FDMEvents.60.title
+	desc = EDG_FDMEvents.60.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_FDMEvents.60.a
+		add_war_exhaustion = -4
+		add_country_modifier = {
+			name = EDG_Caliph_mediation_action_accepted_modifier
+			duration = 3650
+		}
+		every_country = {
+			limit = {
+				war_with = ROOT
+				religion = ROOT
+			}
+			add_war_exhaustion = -2
+			white_peace = ROOT
+			add_opinion = {
+				who = FROM
+				modifier = opinion_grateful
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.61
+	title = EDG_FDMEvents.61.title
+	desc = EDG_FDMEvents.61.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_FDMEvents.61.a
+		add_legitimacy_or_mil_power = {
+			amount = 10
+		}
+		add_prestige_or_monarch_power = {
+			amount = 20
+		}
+		add_stability_or_adm_power_per_stab = {
+			amount = 1
+		}
+		add_country_modifier = {
+			name = EDG_Caliph_legitimacy_action_target_modifier
+			duration = 3650
+		}
+		add_opinion = {
+			who = FROM
+			modifier = opinion_grateful
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.62
+	title = EDG_FDMEvents.62.title
+	desc = EDG_FDMEvents.62.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_FDMEvents.62.a
+		add_liberty_desire = -25
+		add_opinion = {
+			who = FROM
+			modifier = opinion_grateful
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.63
+	title = EDG_FDMEvents.63.title
+	desc = EDG_FDMEvents.63.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_FDMEvents.63.a
+		add_country_modifier = {
+			name = EDG_Caliph_organize_hajj_action_target_modifier
+			duration = 3650
+		}
+		FROM = {
+			add_country_modifier = {
+				name = EDG_Caliph_organize_hajj_action_caliph_modifier
+				duration = 3650
+			}
+		}
+		add_opinion = {
+			who = FROM
+			modifier = opinion_grateful
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.64
+	title = EDG_FDMEvents.64.title
+	desc = EDG_FDMEvents.64.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	major = yes
+	option = {
+		name = EDG_FDMEvents.64.a
+		add_opinion = {
+			who = FROM
+			modifier = opinion_grateful
+		}
+		every_neighbor_country = {
+			limit = {
+				NOT = {
+					religion_group = ROOT
+				}
+			}
+			reverse_add_casus_belli = {
+				type = cb_crusade
+				target = ROOT
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.65
+	title = EDG_FDMEvents.65.title
+	desc = EDG_FDMEvents.65.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_FDMEvents.110.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		set_country_flag = EDG_FDM_scale_of_imam_disaster_can_start_flag
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.66
+	title = EDG_FDMEvents.66.title
+	desc = EDG_FDMEvents.66.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			add_country_modifier = {
+				name = EDG_FDMEvents_66_modifier
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.66.a
+		hidden_effect = {
+			remove_country_modifier = EDG_FDMEvents_66_modifier
+		}
+	}
+	option = {
+		name = grain
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = grain
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = wine
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = wine
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = wool
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = wool
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = cloth
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = cloth
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = fish
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = fish
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = fur
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = fur
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = salt
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = salt
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = naval_supplies
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = naval_supplies
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = copper
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = copper
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = gold
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = gold
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = iron
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = iron
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = slaves
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = slaves
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = ivory
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = ivory
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = tea
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = tea
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = chinaware
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = chinaware
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = spices
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = spices
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = coffee
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = coffee
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = cotton
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = cotton
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = sugar
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = sugar
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = tobacco
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = tobacco
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = cocoa
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = cocoa
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = silk
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = silk
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = dyes
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = dyes
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = tropical_wood
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = tropical_wood
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = livestock
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = livestock
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = incense
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = incense
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = glass
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = glass
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = paper
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = paper
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = gems
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = gems
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = coal
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = coal
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+	option = {
+		name = cloves
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -50
+		}
+		change_price = {
+			trade_goods = cloves
+			key = EDG_FDM_control_prices_decision_title
+			value = 0.25
+			duration = 3650
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.67
+	title = EDG_FDMEvents.67.title
+	desc = EDG_FDMEvents.67.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	# ADM ideas
+	option = {
+		name = innovativeness_ideas
+		add_idea_group = innovativeness_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = innovativeness_ideas
+			}
+		}
+	}
+	option = {
+		name = religious_ideas
+		add_idea_group = religious_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = religious_ideas
+			}
+		}
+	}
+	option = {
+		name = economic_ideas
+		add_idea_group = economic_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = economic_ideas
+			}
+		}
+	}
+	option = {
+		name = expansion_ideas
+		add_idea_group = expansion_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = expansion_ideas
+			}
+		}
+	}
+	option = {
+		name = administrative_ideas
+		add_idea_group = administrative_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = administrative_ideas
+			}
+		}
+	}
+	option = {
+		name = humanist_ideas
+		add_idea_group = humanist_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = humanist_ideas
+			}
+		}
+	}
+	option = {
+		name = infrastructure_ideas
+		add_idea_group = infrastructure_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = infrastructure_ideas
+			}
+		}
+	}
+	# DIP ideas
+	option = {
+		name = spy_ideas
+		add_idea_group = spy_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = spy_ideas
+			}
+		}
+	}
+	option = {
+		name = diplomatic_ideas
+		add_idea_group = diplomatic_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = diplomatic_ideas
+			}
+		}
+	}
+	option = {
+		name = trade_ideas
+		add_idea_group = trade_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = trade_ideas
+			}
+		}
+	}
+	option = {
+		name = exploration_ideas
+		add_idea_group = exploration_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = exploration_ideas
+			}
+		}
+	}
+	option = {
+		name = maritime_ideas
+		add_idea_group = maritime_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = maritime_ideas
+			}
+		}
+	}
+	option = {
+		name = influence_ideas
+		add_idea_group = influence_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = influence_ideas
+			}
+		}
+	}
+	option = {
+		name = court_ideas
+		add_idea_group = court_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = court_ideas
+			}
+		}
+	}
+	# MIL ideas
+	option = {
+		name = aristocracy_ideas
+		add_idea_group = aristocracy_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = aristocracy_ideas
+			}
+		}
+	}
+	option = {
+		name = theocracy_gov_ideas
+		add_idea_group = theocracy_gov_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = theocracy_gov_ideas
+			}
+		}
+	}
+	option = {
+		name = offensive_ideas
+		add_idea_group = offensive_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = offensive_ideas
+			}
+		}
+	}
+	option = {
+		name = defensive_ideas
+		add_idea_group = defensive_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = defensive_ideas
+			}
+		}
+	}
+	option = {
+		name = quality_ideas
+		add_idea_group = quality_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = quality_ideas
+			}
+		}
+	}
+	option = {
+		name = quantity_ideas
+		add_idea_group = quantity_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = quantity_ideas
+			}
+		}
+	}
+	option = {
+		name = naval_ideas
+		add_idea_group = naval_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = naval_ideas
+			}
+		}
+	}
+	option = {
+		name = mercenary_ideas
+		add_idea_group = mercenary_ideas
+		trigger = {
+			NOT = {
+				has_idea_group = mercenary_ideas
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.68
+	title = EDG_FDMEvents.68.title
+	desc = EDG_FDMEvents.68.desc
+	picture = DIPLOMACY_eventPicture
+	trigger = {
+		tag = FDM
+		has_disaster = EDG_FDM_path_of_rebirth_disaster
+		NOT = {
+			exists = FEZ
+		}
+		MRK = {
+			owns_all_provinces = {
+				OR = {
+					province_id = 4562
+					province_id = 2465
+					province_id = 335
+					province_id = 4561
+					province_id = 334
+					province_id = 4563
+					province_id = 343
+					province_id = 2467
+				}
+			}
+		}
+	}
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.68.a
+		every_province = {
+			limit = {
+				OR = {
+					province_id = 4562
+					province_id = 2465
+					province_id = 335
+					province_id = 4561
+					province_id = 334
+					province_id = 4563
+					province_id = 343
+					province_id = 2467
+				}
+			}
+			add_province_modifier = {
+				name = EDG_FDMEvents_68_modifier
+				duration = 9125
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.69
+	title = EDG_FDMEvents.69.title
+	desc = EDG_FDMEvents.69.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_BAV_8_3_40_1
+		custom_tooltip = EDG_FDMEvents.69.a_tt
+		custom_tooltip = EDG_SPACE_TT
+		add_country_modifier = {
+			name = EDG_FDMEvents_69_modifier
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.70
+	title = EDG_FDMEvents.70.title
+	desc = EDG_FDMEvents.70.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	option = {
+		name = EDG_FDMEvents.70.a
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_1
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.b
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_2
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.c
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_3
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.d
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_4
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.e
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_5
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.f
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_6
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.g
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_7
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.h
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_8
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.i
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_9
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.j
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_10
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.k
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_11
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.70.l
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_70_modifier_12
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.71
+	title = EDG_FDMEvents.71.title
+	desc = EDG_FDMEvents.71.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+		egypt_region = {
+			type = all
+			owned_by = ROOT
+		}
+		adm_tech = 6
+		has_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_1
+		is_at_war = no
+	}
+	option = {
+		name = EDG_FDMEvents.71.a
+		custom_tooltip = EDG_FDMEvents.111.tt
+		add_stability = -1
+		custom_tooltip = EDG_FDMEvents.71.a_tt
+		hidden_effect = {
+			every_owned_province = {
+				while = {
+					limit = {
+						base_production = 2
+					}
+					change_variable = {
+						which = EDG_FDM_tear_of_iset_disaster_variable
+						value = 1
+					}
+					add_base_production = -1
+				}
+			}
+		}
+		set_country_flag = EDG_FDM_egyptian_in_name_only_disaster_can_start_flag
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.72
+	title = EDG_FDMEvents.72.title
+	desc = EDG_FDMEvents.72.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	immediate = {
+		hidden_effect = {
+			every_owned_province = {
+				add_devastation = 25
+			}
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.72.a
+		custom_tooltip = EDG_FDMEvents.111.tt
+		custom_tooltip = EDG_FDMEvents.72.a_tt
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.73
+	title = EDG_FDMEvents.73.title
+	desc = EDG_FDMEvents.73.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	immediate = {
+		set_country_flag = EDG_FDM_tear_of_iset_disaster_ended_flag
+	}
+	option = {
+		name = EDG_FDMEvents.73.a
+		custom_tooltip = EDG_FDMEvents.111.tt
+		custom_tooltip = EDG_FDMEvents.73.a_tt
+		hidden_effect = {
+			every_owned_province = {
+				add_base_production = 1
+				while = {
+					limit = {
+						check_variable = {
+							which = EDG_FDM_tear_of_iset_disaster_variable
+							value = 1
+						}
+					}
+					change_variable = {
+						which = EDG_FDM_tear_of_iset_disaster_variable
+						value = -1
+					}
+					add_base_production = 1
+				}
+			}
+		}
+		add_country_modifier = {
+			name = EDG_FDMEvents_73_modifier
+			duration = -1
+		}
+		if = {
+			limit = {
+				has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			}
+			change_variable = {
+				which = EDG_FDM_egyptian_in_name_only_disaster_variable_0
+				value = 50
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.74
+	title = EDG_FDMEvents.74.title
+	desc = EDG_FDMEvents.74.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	option = {
+		name = EDG_FDMEvents.74.a
+		custom_tooltip = EDG_FDMEvents.74.a_tt
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.75
+	title = EDG_FDMEvents.75.title
+	desc = EDG_FDMEvents.75.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	is_triggered_only = yes
+	immediate = {
+		set_country_flag = EDG_FDM_plight_of_the_red_sea_disaster_ended_flag
+	}
+	option = {
+		name = EDG_FDMEvents.75.a
+		custom_tooltip = EDG_FDMEvents.75.a_tt
+		add_country_modifier = {
+			name = EDG_FDMEvents_75_modifier
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.76
+	title = EDG_FDMEvents.76.title
+	desc = EDG_FDMEvents.76.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_1
+		has_global_flag = EDG_FDM_enable_achievement_flag
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.76.a
+		custom_tooltip = EDG_FDMEvents.76.a_tt
+		set_global_flag = EDG_FDMEvents_76_flag
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.77
+	title = EDG_FDMEvents.77.title
+	desc = EDG_FDMEvents.77.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = EDG_FDM_egyptian_in_name_only_disaster_ended_flag
+		owns_all_provinces = {
+			culture_group = iberian
+		}
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.77.a
+		custom_tooltip = EDG_FDMEvents.77.a_tt
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					culture_group = iberian
+				}
+				change_culture = EDG_semitic_iberian
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.78
+	title = EDG_FDMEvents.78.title
+	desc = EDG_FDMEvents.78.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = EDG_FDM_egyptian_in_name_only_disaster_ended_flag
+		owns_all_provinces = {
+			culture_group = latin
+		}
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.78.a
+		custom_tooltip = EDG_FDMEvents.78.a_tt
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					culture_group = latin
+				}
+				change_culture = EDG_FDM_italian_culture
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.79
+	title = EDG_FDMEvents.79.title
+	desc = EDG_FDMEvents.79.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = EDG_FDM_egyptian_in_name_only_disaster_ended_flag
+		owns_all_provinces = {
+			region = horn_of_africa_region
+		}
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.79.a
+		custom_tooltip = EDG_FDMEvents.79.a_tt
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					region = horn_of_africa_region
+				}
+				change_culture = EDG_FDM_ethiopian_culture
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.80
+	title = EDG_FDMEvents.80.title
+	desc = EDG_FDMEvents.80.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = EDG_FDM_egyptian_in_name_only_disaster_ended_flag
+		owns_all_provinces = {
+			culture_group = iranian
+		}
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.80.a
+		custom_tooltip = EDG_FDMEvents.80.a_tt
+		hidden_effect = {
+			every_owned_province = {
+				limit = {
+					culture_group = iranian
+				}
+				change_culture = EDG_semitic_persian
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.81
+	title = EDG_FDMEvents.81.title
+	desc = EDG_FDMEvents.81.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	mean_time_to_happen = {
+		years = 8
+	}
+	option = {
+		name = EDG_FDMEvents.81.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_prestige = 10
+		add_legitimacy = 5
+	}
+	option = {
+		name = EDG_FDMEvents.81.b
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_adm_power = 50
+		add_estate_loyalty = {
+			estate = estate_nobles
+			loyalty = -10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.82
+	title = EDG_FDMEvents.82.title
+	desc = EDG_FDMEvents.82.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	mean_time_to_happen = {
+		years = 8
+	}
+	option = {
+		name = EDG_FDMEvents.82.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_adm_power = 100
+	}
+	option = {
+		name = EDG_FDMEvents.82.b
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_mil_power = 100
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.83
+	title = EDG_FDMEvents.83.title
+	desc = EDG_FDMEvents.83.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	mean_time_to_happen = {
+		years = 8
+	}
+	option = {
+		name = EDG_FDMEvents.83.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		custom_tooltip = EDG_FDMEvents.83.a_tt
+		add_dip_power = 100
+	}
+	option = {
+		name = EDG_FDMEvents.83.b
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_mil_power = 75
+		add_army_tradition = 5
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.84
+	title = EDG_FDMEvents.84.title
+	desc = EDG_FDMEvents.84.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.84.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_stability = 1
+	}
+	option = {
+		name = EDG_FDMEvents.84.b
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_84_modifier
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.85
+	title = EDG_FDMEvents.85.title
+	desc = EDG_FDMEvents.85.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.85.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_legitimacy = 15
+		add_prestige = 10
+	}
+	option = {
+		name = EDG_FDMEvents.85.b
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_85_modifier
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.86
+	title = EDG_FDMEvents.86.title
+	desc = EDG_FDMEvents.86.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+		is_at_war = yes
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.86.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_piety = 0.25
+	}
+	option = {
+		name = EDG_FDMEvents.86.b
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_ruler_modifier = {
+			name = EDG_FDMEvents_86_modifier
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.87
+	title = EDG_FDMEvents.87.title
+	desc = EDG_FDMEvents.87.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.87.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		define_heir = {
+			adm = 3
+			dip = 3
+			mil = 4
+			claim = 0
+			age = 13
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.87.b
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_legitimacy_or_mil_power = {
+			amount = 20
+		}
+		add_prestige_or_monarch_power = {
+			amount = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.88
+	title = EDG_FDMEvents.88.title
+	desc = EDG_FDMEvents.88.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	mean_time_to_happen = {
+		years = 10
+	}
+	option = {
+		name = EDG_FDMEvents.88.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.25
+		}
+		else = {
+			add_piety = -0.25
+		}
+		add_stability = 1
+	}
+	option = {
+		name = EDG_FDMEvents.88.b
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_legitimacy_or_mil_power = {
+			amount = 15
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.89
+	title = EDG_FDMEvents.89.title
+	desc = EDG_FDMEvents.89.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+	}
+	option = {
+		name = EDG_FDMEvents.89.a
+		custom_tooltip = EDG_FDMEvents.81.tt
+		add_prestige_or_monarch_power = {
+			amount = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.90
+	title = EDG_FDMEvents.90.title
+	desc = EDG_FDMEvents.90.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		owns = 361
+		adm_tech = 10
+	}
+	mean_time_to_happen = {
+		years = 15
+	}
+	option = {
+		name = EDG_FDMEvents.90.a
+		add_country_modifier = {
+			name = EDG_FDMEvents_90_modifier
+			duration = 7300
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.90.b
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.25
+		}
+		else = {
+			add_piety = -0.25
+		}
+		add_estate_loyalty = {
+			estate = estate_church
+			loyalty = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.91
+	title = EDG_FDMEvents.91.title
+	desc = EDG_FDMEvents.91.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		owns = 361
+		is_at_war = yes
+	}
+	mean_time_to_happen = {
+		years = 15
+	}
+	option = {
+		name = EDG_FDMEvents.91.a
+		add_country_modifier = {
+			name = EDG_FDMEvents_91_modifier
+			duration = 3650
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.91.b
+		add_mil_power = 100
+		add_prestige_or_monarch_power = {
+			amount = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.92
+	title = EDG_FDMEvents.92.title
+	desc = EDG_FDMEvents.92.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		owns = 361
+		is_year = 1500
+	}
+	mean_time_to_happen = {
+		years = 15
+	}
+	option = {
+		name = EDG_FDMEvents.92.a
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.25
+		}
+		else = {
+			add_piety = -0.25
+		}
+		add_country_modifier = {
+			name = EDG_FDMEvents_92_modifier
+			duration = 3650
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.92.b
+		add_stability = 1
+		add_legitimacy_or_mil_power = {
+			amount = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.93
+	title = EDG_FDMEvents.93.title
+	desc = EDG_FDMEvents.93.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		any_owned_province = {
+			region = egypt_region
+		}
+	}
+	mean_time_to_happen = {
+		years = 15
+	}
+	option = {
+		name = EDG_FDMEvents.93.a
+		add_legitimacy_or_mil_power = {
+			amount = 10
+		}
+		add_prestige_or_monarch_power = {
+			amount = 10
+		}
+		add_years_of_income = -0.25
+	}
+	option = {
+		name = EDG_FDMEvents.93.b
+		add_years_of_income = 0.5
+		add_legitimacy = -10
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.94
+	title = EDG_FDMEvents.94.title
+	desc = EDG_FDMEvents.94.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		religion = shiite
+		any_country = {
+			religion = sunni
+			has_spy_network_from = {
+				who = ROOT
+				value = 30
+			}
+		}
+	}
+	mean_time_to_happen = {
+		years = 15
+	}
+	option = {
+		name = EDG_FDMEvents.94.a
+		add_years_of_income = -0.25
+		add_dip_power = 50
+		add_country_modifier = {
+			name = EDG_FDMEvents_94_modifier
+			duration = 3650
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.94.b
+		add_dip_power = 25
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.95
+	title = EDG_FDMEvents.95.title
+	desc = EDG_FDMEvents.95.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		owns = 361
+		religion = shiite
+	}
+	mean_time_to_happen = {
+		years = 15
+	}
+	option = {
+		name = EDG_FDMEvents.95.a
+		add_legitimacy_or_mil_power = {
+			amount = 15
+		}
+		add_prestige_or_monarch_power = {
+			amount = 15
+		}
+		add_years_of_income = -0.25
+	}
+	option = {
+		name = EDG_FDMEvents.95.b
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.25
+		}
+		else = {
+			add_piety = -0.25
+		}
+		add_legitimacy = -10
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.96
+	title = EDG_FDMEvents.96.title
+	desc = EDG_FDMEvents.96.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		owns = 361
+		trade_income_percentage = 0.2
+	}
+	mean_time_to_happen = {
+		years = 15
+	}
+	option = {
+		name = EDG_FDMEvents.96.a
+		add_years_of_income = -0.5
+		add_country_modifier = {
+			name = EDG_FDMEvents_96_modifier_1
+			duration = 7300
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.96.b
+		add_years_of_income = -1
+		add_country_modifier = {
+			name = EDG_FDMEvents_96_modifier_2
+			duration = -1
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.97
+	title = EDG_FDMEvents.97.title
+	desc = EDG_FDMEvents.97.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		owns = 361
+		is_at_war = no
+	}
+	mean_time_to_happen = {
+		years = 15
+	}
+	option = {
+		name = EDG_FDMEvents.97.a
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.25
+		}
+		else = {
+			add_piety = -0.25
+		}
+		add_country_modifier = {
+			name = EDG_FDMEvents_97_modifier
+			duration = 3650
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.97.b
+		add_stability = 1
+		add_legitimacy_or_mil_power = {
+			amount = 10
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.98
+	title = EDG_FDMEvents.98.title
+	desc = EDG_FDMEvents.98.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_disaster = EDG_FDM_path_of_rebirth_disaster
+	}
+	option = {
+		name = EDG_FDMEvents.98.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 15
+		}
+		add_legitimacy_or_mil_power = {
+			amount = 10
+		}
+		add_war_exhaustion = -2
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.99
+	title = EDG_FDMEvents.99.title
+	desc = EDG_FDMEvents.99.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_disaster = EDG_FDM_path_of_rebirth_disaster
+	}
+	option = {
+		name = EDG_FDMEvents.99.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 15
+		}
+		add_legitimacy_or_mil_power = {
+			amount = 10
+		}
+		add_country_modifier = {
+			name = EDG_FDMEvents_99_modifier
+			duration = 3650
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.100
+	title = EDG_FDMEvents.100.title
+	desc = EDG_FDMEvents.100.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_disaster = EDG_FDM_path_of_rebirth_disaster
+	}
+	option = {
+		name = EDG_FDMEvents.100.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 10
+		}
+		add_legitimacy_or_mil_power = {
+			amount = 10
+		}
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.15
+		}
+		else = {
+			add_piety = -0.15
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.101
+	title = EDG_FDMEvents.101.title
+	desc = EDG_FDMEvents.101.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_disaster = EDG_FDM_path_of_rebirth_disaster
+	}
+	option = {
+		name = EDG_FDMEvents.101.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+		add_legitimacy_or_mil_power = {
+			amount = 15
+		}
+		add_country_modifier = {
+			name = EDG_FDMEvents_101_modifier
+			duration = 3650
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.102
+	title = EDG_FDMEvents.102.title
+	desc = EDG_FDMEvents.102.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_disaster = EDG_FDM_path_of_rebirth_disaster
+	}
+	option = {
+		name = EDG_FDMEvents.102.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 15
+		}
+		add_legitimacy_or_mil_power = {
+			amount = 10
+		}
+		add_years_of_income = 0.5
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.103
+	title = EDG_FDMEvents.103.title
+	desc = EDG_FDMEvents.103.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_disaster = EDG_FDM_path_of_rebirth_disaster
+	}
+	option = {
+		name = EDG_FDMEvents.103.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 20
+		}
+		add_legitimacy_or_mil_power = {
+			amount = 15
+		}
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.2
+		}
+		else = {
+			add_piety = -0.2
+		}
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = 25
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.104
+	title = EDG_FDMEvents.104.title
+	desc = EDG_FDMEvents.104.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_disaster = EDG_FDM_path_of_rebirth_disaster
+	}
+	option = {
+		name = EDG_FDMEvents.104.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 20
+		}
+		add_legitimacy_or_mil_power = {
+			amount = 15
+		}
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.2
+		}
+		else = {
+			add_piety = -0.2
+		}
+		add_country_modifier = {
+			name = EDG_FDMEvents_104_modifier
+			duration = 3650
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.105
+	title = EDG_FDMEvents.105.title
+	desc = EDG_FDMEvents.105.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	trigger = {
+		has_disaster = EDG_FDM_path_of_rebirth_disaster
+	}
+	option = {
+		name = EDG_FDMEvents.105.a
+		custom_tooltip = EDG_FDMEvents.98.tt
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+		add_legitimacy_or_mil_power = {
+			amount = 20
+		}
+		if = {
+			limit = {
+				piety = 0
+			}
+			add_piety = 0.25
+		}
+		else = {
+			add_piety = -0.25
+		}
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = 50
+		}
+		add_country_modifier = {
+			name = EDG_FDMEvents_105_modifier
+			duration = 3650
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.106
+	title = EDG_FDMEvents.106.title
+	desc = EDG_FDMEvents.106.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+		is_at_war = no
+		NOT = {
+			ruler_has_personality = EDG_FDM_yahya_personality
+		}
+		NOT = {
+			overextension_percentage = 0.01
+		}
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 0
+		}
+		custom_trigger_tooltip = {
+			tooltip = EDG_FDM_path_of_rebirth_disaster_ended_tt_1
+			has_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_1
+		}
+		num_of_owned_provinces_with = {
+			value = 20
+			region = mashriq_region
+		}
+		num_of_owned_provinces_with = {
+			value = 20
+			region = arabia_region
+		}
+		num_of_owned_provinces_with = {
+			value = 20
+			region = persia_region
+		}
+		num_of_owned_provinces_with = {
+			value = 20
+			region = anatolia_region
+		}
+		num_of_owned_provinces_with = {
+			value = 20
+			region = horn_of_africa_region
+		}
+		num_of_owned_provinces_with = {
+			value = 20
+			region = iberia_region
+		}
+	}
+	mean_time_to_happen = {
+		months = 6
+	}
+	option = {
+		name = EDG_FDMEvents.106.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		custom_tooltip = EDG_FDMEvents.106.a_tt
+		country_event = {
+			id = EDG_FDMEvents.107
+			days = 30
+		}
+		clr_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.107
+	title = EDG_FDMEvents.107.title
+	desc = EDG_FDMEvents.107.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.107.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		country_event = {
+			id = EDG_FDMEvents.108
+			days = 30
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.107.b
+		custom_tooltip = EDG_FDMEvents.106.tt
+		country_event = {
+			id = EDG_FDMEvents.108
+			days = 30
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.108
+	title = EDG_FDMEvents.108.title
+	desc = EDG_FDMEvents.108.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.108.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		country_event = {
+			id = EDG_FDMEvents.109
+			days = 30
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.108.b
+		custom_tooltip = EDG_FDMEvents.106.tt
+		country_event = {
+			id = EDG_FDMEvents.109
+			days = 30
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.109
+	title = EDG_FDMEvents.109.title
+	desc = EDG_FDMEvents.109.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.109.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		country_event = {
+			id = EDG_FDMEvents.110
+			days = 30
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.109.b
+		custom_tooltip = EDG_FDMEvents.106.tt
+		country_event = {
+			id = EDG_FDMEvents.110
+			days = 30
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.110
+	title = EDG_FDMEvents.110.title
+	desc = EDG_FDMEvents.110.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.110.a
+		custom_tooltip = EDG_FDMEvents.106.tt
+		custom_tooltip = EDG_FDMEvents.110.a_tt
+		set_country_flag = EDG_FDM_scale_of_imam_disaster_can_start_flag
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.111
+	title = EDG_FDMEvents.111.title
+	desc = EDG_FDMEvents.111.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_disaster = EDG_FDM_tear_of_iset_disaster
+	}
+	mean_time_to_happen = {
+		months = 3
+	}
+	option = {
+		name = EDG_FDMEvents.111.a
+		custom_tooltip = EDG_FDMEvents.111.tt
+		country_event = {
+			id = EDG_FDMEvents.112
+			days = 60
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.112
+	title = EDG_FDMEvents.112.title
+	desc = EDG_FDMEvents.112.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.112.a
+		custom_tooltip = EDG_FDMEvents.111.tt
+		country_event = {
+			id = EDG_FDMEvents.113
+			days = 60
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.113
+	title = EDG_FDMEvents.113.title
+	desc = EDG_FDMEvents.113.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.113.a
+		custom_tooltip = EDG_FDMEvents.111.tt
+		country_event = {
+			id = EDG_FDMEvents.114
+			days = 60
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.114
+	title = EDG_FDMEvents.114.title
+	desc = EDG_FDMEvents.114.desc
+	picture = BIG_BOOK_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.114.a
+		custom_tooltip = EDG_FDMEvents.111.tt
+		set_country_flag = EDG_FDM_tear_of_iset_hassan_chain_flag
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.115
+	title = EDG_FDMEvents.115.title
+	desc = EDG_FDMEvents.115.desc
+	picture = BIG_BOOK_eventPicture
+	fire_only_once = yes
+	trigger = {
+		has_country_flag = EDG_FDM_tear_of_iset_disaster_ended_flag
+		has_country_flag = EDG_FDM_tear_of_iset_hassan_chain_flag
+	}
+	mean_time_to_happen = {
+		months = 3
+	}
+	option = {
+		name = EDG_FDMEvents.115.a
+		custom_tooltip = EDG_FDMEvents.111.tt
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.116
+	title = EDG_FDMEvents.116.title
+	desc = EDG_FDMEvents.116.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+		has_disaster = EDG_FDM_plight_of_the_red_sea_disaster
+	}
+	mean_time_to_happen = {
+		months = 6
+	}
+	option = {
+		name = EDG_FDMEvents.116.a
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_stability = -1
+	}
+	option = {
+		name = EDG_FDMEvents.116.b
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_years_of_income = -0.5
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.117
+	title = EDG_FDMEvents.117.title
+	desc = EDG_FDMEvents.117.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+		has_disaster = EDG_FDM_plight_of_the_red_sea_disaster
+	}
+	mean_time_to_happen = {
+		months = 12
+	}
+	option = {
+		name = EDG_FDMEvents.117.a
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_treasury = -50
+		add_country_modifier = {
+			name = EDG_FDMEvents_117_modifier_1
+			duration = 1825
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.117.b
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_country_modifier = {
+			name = EDG_FDMEvents_117_modifier_2
+			duration = 1825
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.117.c
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_years_of_income = 0.5
+		add_country_modifier = {
+			name = EDG_FDMEvents_117_modifier_3
+			duration = 3650
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.118
+	title = EDG_FDMEvents.118.title
+	desc = EDG_FDMEvents.118.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+		has_disaster = EDG_FDM_plight_of_the_red_sea_disaster
+	}
+	mean_time_to_happen = {
+		months = 24
+	}
+	option = {
+		name = EDG_FDMEvents.118.a
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_sailors = -500
+		add_country_modifier = {
+			name = EDG_FDMEvents_118_modifier_1
+			duration = 1825
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.118.b
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_dip_power = -50
+		define_admiral = {
+			shock = 3
+			fire = 2
+			manuever = 4
+			siege = 1
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.118.c
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_country_modifier = {
+			name = EDG_FDMEvents_118_modifier_2
+			duration = 3650
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.119
+	title = EDG_FDMEvents.119.title
+	desc = EDG_FDMEvents.119.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+		has_disaster = EDG_FDM_plight_of_the_red_sea_disaster
+		any_owned_province = {
+			region = persia_region
+			has_port = yes
+		}
+	}
+	mean_time_to_happen = {
+		months = 18
+	}
+	option = {
+		name = EDG_FDMEvents.119.a
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_years_of_income = -1
+		set_country_flag = EDG_FDM_red_sea_persian_gulf_invested
+		add_country_modifier = {
+			name = EDG_FDMEvents_119_modifier
+			duration = 3650
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.119.b
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_prestige = -5
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.120
+	title = EDG_FDMEvents.120.title
+	desc = EDG_FDMEvents.120.desc
+	picture = DIPLOMACY_eventPicture
+	fire_only_once = yes
+	trigger = {
+		tag = FDM
+		has_disaster = EDG_FDM_plight_of_the_red_sea_disaster
+		owns = 361
+	}
+	mean_time_to_happen = {
+		months = 60
+	}
+	option = {
+		name = EDG_FDMEvents.120.a
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_adm_power = -100
+		set_country_flag = EDG_FDM_red_sea_cairo_scholars
+		country_event = {
+			id = EDG_FDMEvents.121
+			days = 90
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.120.b
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_prestige = -5
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.121
+	title = EDG_FDMEvents.121.title
+	desc = EDG_FDMEvents.121.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.121.a
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_country_modifier = {
+			name = EDG_FDMEvents_121_modifier
+			duration = -1
+		}
+	}
+	option = {
+		name = EDG_FDMEvents.121.b
+		custom_tooltip = EDG_FDMEvents.116.tt
+		add_years_of_income = 1
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.122
+	title = EDG_FDMEvents.122.title
+	desc = EDG_FDMEvents.122.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.122.a
+		dismantle_hre = yes
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.123
+	title = EDG_FDMEvents.123.title
+	desc = EDG_FDMEvents.123.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.123.a
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.124
+	title = EDG_FDMEvents.124.title
+	desc = EDG_FDMEvents.124.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.124.a
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.125
+	title = EDG_FDMEvents.125.title
+	desc = EDG_FDMEvents.125.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.125.a
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.126
+	title = EDG_FDMEvents.126.title
+	desc = EDG_FDMEvents.126.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.126.a
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.127
+	title = EDG_FDMEvents.127.title
+	desc = EDG_FDMEvents.127.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.127.a
+		dismantle_empire_of_china = yes
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+	}
+}
+
+country_event = {
+	id = EDG_FDMEvents.128
+	title = EDG_FDMEvents.128.title
+	desc = EDG_FDMEvents.128.desc
+	picture = DIPLOMACY_eventPicture
+	is_triggered_only = yes
+	fire_only_once = yes
+	option = {
+		name = EDG_FDMEvents.128.a
+		set_religion_papacy_active = {
+			religion = catholic
+			active = no
+		}
+		add_prestige_or_monarch_power = {
+			amount = 25
+		}
+	}
+}

@@ -1,0 +1,9 @@
+estate_nobles = {
+	privileges = {
+		estate_EDG_FDM_army_mired_in_factional_strife
+		estate_EDG_FDM_egyptian_caliphate_without_cairo
+		estate_EDG_FDM_gold_mining_rights
+		estate_EDG_FDM_foreign_expeditions
+		estate_EDG_FDM_heathen_wazir
+	}
+}

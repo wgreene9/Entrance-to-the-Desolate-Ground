@@ -1,0 +1,197 @@
+on_startup = { #开局事件
+	if = {
+		limit = {
+			tag = SIC
+		}
+		country_event = {
+			id = EDG_SICDisasterEvents.61
+			days = 1
+		}
+		country_event = {
+			id = EDG_SICDisasterEvents.99
+			days = 2
+		}
+		country_event = {
+			id = EDG_SICDisasterEvents.9
+			days = 30
+		}
+	}
+}
+
+on_siege_won_province = { #偷袭卡普阿
+	if = {
+		limit = {
+			province_id = 8001
+			FROM = {
+				has_country_flag = unlcok_EDG_SIC_decision_ambush_capua_flag
+			}
+		}
+		ROOT = {
+			country_event = {
+				id = EDG_SICDisasterEvents.54
+			}
+		}
+	}
+	if = {
+		limit = {
+			OR = {
+				province_gruop = Hellas_province_group
+				culture_group = byzantine
+			}
+			controller = {
+				OR = {
+					is_in_war = {
+						attacker_leader = this
+						casus_belli = cb_EDG_WG_GRE_unification
+					}
+					is_in_war = {
+						defender_leader = this
+						casus_belli = cb_EDG_WG_GRE_unification
+					}
+				}
+				NOT = { is_core = ROOT }
+			}
+		}
+		controller = {
+			add_territorial_core = ROOT
+		}
+	}
+}
+
+on_battle_won_unit = { #阵斩欧特维尔
+	if = {
+		limit = {
+			unit_owner = {
+				OR = {
+					has_disaster = EDG_SIC_civil_war_1
+					any_ally = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+			}
+			enemy_unit = {
+				unit_owner = {
+					OR = {
+						tag = APU
+						was_tag = APU
+					}
+				}
+			}
+		}
+		SIC = {
+			country_event = {
+				id = EDG_SICDisasterEvents.16
+			}
+		}
+	}
+}
+
+on_battle_lost_unit = { #xxl之死
+	if = {
+		limit = {
+			SIC = { ai = no }
+			unit_owner = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+			enemy_unit = {
+				unit_owner = {
+					OR = {
+						tag = APU
+						was_tag = APU
+					}
+				}
+			}
+		}
+		APU = {
+			country_event = {
+					id = EDG_SICDisasterEvents.18
+			}
+		}
+	}
+}
+
+on_general_recruited = { #招将领加异乡人好感
+	if = {
+		limit = {
+			has_country_flag = estate_EDG_SIC_Interracial_Generals_flag
+		}
+		add_estate_loyalty = {
+			estate = estate_edg_Interracial
+			loyalty = 2
+		}
+	}
+}
+
+on_province_culture_converted = {#希腊民族主义
+	if = {
+		limit = {
+			culture_group = EDG_Hellenic_group
+			owner = {
+				has_government_attribute = EDG_Hellenic_Nationalism_ability
+			}
+		}
+		add_province_modifier = {
+			name = EDG_GRE_Hellenic_Nationalism_modifier
+			duration = -1
+			desc = EDG_GRE_Hellenic_Nationalism_modifier_desc
+		}
+	}
+ }
+
+ on_province_culture_changed = {
+	if = {
+		limit = {
+			culture_group = EDG_Hellenic_group
+			owner = {
+				has_government_attribute = EDG_Hellenic_Nationalism_ability
+			}
+		}
+		add_province_modifier = {
+			name = EDG_GRE_Hellenic_Nationalism_modifier
+			duration = -1
+			desc = EDG_GRE_Hellenic_Nationalism_modifier_desc
+		}
+	}
+ }
+
+ on_province_owner_change = {
+	if = {
+		limit = {
+			trade_goods = grain
+			owner = {
+				has_estate_privilege = estate_EDG_GRE_Vodka
+			}
+		}
+		add_province_modifier = {
+			name = grain_vodka_bonus_prod
+			duration = -1
+		}
+	}
+	if = {
+		limit = {
+			culture_group = EDG_Hellenic_group
+			owner = {
+				has_government_attribute = EDG_Hellenic_Nationalism_ability
+			}
+		}
+		add_province_modifier = {
+			name = EDG_GRE_Hellenic_Nationalism_modifier
+			duration = -1
+			desc = EDG_GRE_Hellenic_Nationalism_modifier_desc
+		}
+	}
+	if = {
+		limit = {
+			culture_group = EDG_Hellenic_group
+			NOT = {
+				owner = {
+					has_government_attribute = EDG_Hellenic_Nationalism_ability
+				}
+			}
+			has_province_modifier = EDG_GRE_Hellenic_Nationalism_modifier
+		}
+		remove_province_modifier = {
+			name = EDG_GRE_Hellenic_Nationalism_modifier
+		}
+	}
+ }

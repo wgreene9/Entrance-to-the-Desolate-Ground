@@ -1,0 +1,824 @@
+EDG_FDMEvents_15_modifier = {
+	core_creation = -0.1
+}
+
+EDG_FDMEvents_28_modifier = {
+	land_morale = 0.25
+	discipline = 0.1
+	fire_damage_received = -0.25
+	shock_damage_received = -0.25
+	global_regiment_cost = -0.75
+	global_regiment_recruit_speed = -1
+	land_forcelimit = 100
+	defensiveness = 1
+}
+
+EDG_FDMEvents_29_modifier_1 = {
+	global_unrest = -2
+	global_autonomy = -0.2
+	yearly_corruption = -0.1
+	land_morale = 0.1
+	discipline = 0.05
+	manpower_recovery_speed = 0.25
+}
+
+EDG_FDMEvents_29_modifier_2 = {
+	core_creation = -0.1
+	years_of_nationalism = -10
+}
+
+EDG_FDMEvents_30_modifier = {
+	siege_ability = 0.05
+}
+
+EDG_FDMEvents_41_modifier = {
+	siege_ability = 0.05
+}
+
+EDG_FDMEvents_42_modifier = {
+	siege_ability = 0.05
+}
+
+EDG_FDMEvents_43_modifier = {
+	siege_ability = 0.05
+}
+
+EDG_FDMEvents_44_modifier = {
+	siege_ability = 0.05
+}
+
+EDG_FDMEvents_66_modifier = {
+}
+
+EDG_FDMEvents_68_modifier = {
+	local_warscore_cost_modifier = -0.75
+}
+
+EDG_FDMEvents_69_modifier = {
+	global_unrest = -100
+	administrative_efficiency = 1
+	all_power_cost = -0.5
+}
+
+EDG_FDMEvents_70_modifier_1 = {
+	ae_impact = -0.1
+}
+
+EDG_FDMEvents_70_modifier_2 = {
+	diplomatic_reputation = 2
+}
+
+EDG_FDMEvents_70_modifier_3 = {
+	fire_damage_received = -0.1
+}
+
+EDG_FDMEvents_70_modifier_4 = {
+	stability_cost_modifier = -0.25
+}
+
+EDG_FDMEvents_70_modifier_5 = {
+	global_unrest = -2
+}
+
+EDG_FDMEvents_70_modifier_6 = {
+	tolerance_own = 3
+}
+
+EDG_FDMEvents_70_modifier_7 = {
+	all_estate_loyalty_equilibrium = 0.1
+}
+
+EDG_FDMEvents_70_modifier_8 = {
+	monthly_splendor = 2
+}
+
+EDG_FDMEvents_70_modifier_9 = {
+	global_tax_modifier = 0.2
+}
+
+EDG_FDMEvents_70_modifier_10 = {
+	global_trade_goods_size_modifier = 0.1
+}
+
+EDG_FDMEvents_70_modifier_11 = {
+	trade_efficiency = 0.2
+}
+
+EDG_FDMEvents_70_modifier_12 = {
+	development_cost = -0.1
+}
+
+EDG_FDMEvents_73_modifier = {
+	global_trade_goods_size_modifier = 0.2
+}
+
+EDG_FDMEvents_75_modifier = {
+	trade_efficiency = 0.2
+	trade_steering = 0.2
+	global_prov_trade_power_modifier = 0.2
+}
+
+EDG_FDMEvents_84_modifier = {
+	global_unrest = -2
+}
+
+EDG_FDMEvents_85_modifier = {
+	global_missionary_strength = 0.02
+}
+
+EDG_FDMEvents_86_modifier = {
+	land_morale = 0.1
+}
+
+EDG_FDMEvents_90_modifier = {
+	technology_cost = -0.1
+}
+
+EDG_FDMEvents_91_modifier = {
+	siege_ability = 0.1
+}
+
+EDG_FDMEvents_92_modifier = {
+	global_missionary_strength = 0.02
+	tolerance_own = 1
+}
+
+EDG_FDMEvents_94_modifier = {
+	spy_offence = 0.25
+}
+
+EDG_FDMEvents_96_modifier_1 = {
+	trade_efficiency = 0.15
+}
+
+EDG_FDMEvents_96_modifier_2 = {
+	trade_efficiency = 0.1
+}
+
+EDG_FDMEvents_97_modifier = {
+	tolerance_own = 1
+}
+
+EDG_FDMEvents_99_modifier = {
+	land_morale = 0.1
+	manpower_recovery_speed = 0.1
+}
+
+EDG_FDMEvents_101_modifier = {
+	discipline = 0.05
+	land_morale = 0.1
+}
+
+EDG_FDMEvents_104_modifier = {
+	global_missionary_strength = 0.02
+	tolerance_own = 1
+}
+
+EDG_FDMEvents_105_modifier = {
+	global_missionary_strength = 0.03
+	tolerance_own = 2
+	prestige = 1
+}
+
+EDG_FDMEvents_117_modifier_1 = {
+	trade_efficiency = 0.1
+}
+
+EDG_FDMEvents_117_modifier_2 = {
+	trade_efficiency = -0.15
+}
+
+EDG_FDMEvents_117_modifier_3 = {
+	trade_efficiency = -0.25
+	burghers_loyalty_modifier = -0.25
+}
+
+EDG_FDMEvents_118_modifier_1 = {
+	trade_efficiency = 0.1
+}
+
+EDG_FDMEvents_118_modifier_2 = {
+	global_trade_power = -0.15
+}
+
+EDG_FDMEvents_119_modifier = {
+	trade_efficiency = 0.15
+}
+
+EDG_FDMEvents_121_modifier = {
+	global_prov_trade_power_modifier = 0.25
+}
+
+EDG_FDM_mission_1_4_modifier = {
+	global_manpower_modifier = 0.1
+	nobles_loyalty_modifier = 0.1
+}
+
+EDG_FDM_mission_1_9_modifier = {
+	land_attrition = -0.1
+	max_attrition = -1
+}
+
+EDG_FDM_mission_1_10_modifier = {
+	global_missionary_strength = 0.01
+	tolerance_own = 1
+	monthly_piety_accelerator = 0.001
+}
+
+EDG_FDM_mission_1_18_modifier_1 = {
+	cavalry_power = 0.15
+	cavalry_cost = -0.2
+}
+
+EDG_FDM_mission_1_18_modifier_2 = {
+	cavalry_flanking = 0.25
+	nomadic_tribes_loyalty_modifier = 0.1
+}
+
+EDG_FDM_mission_1_20_modifier = {
+	drill_decay_modifier = -0.25
+	drill_gain_modifier = 0.25
+	yearly_army_professionalism = 0.01
+}
+
+EDG_FDM_mission_1_23_modifier = {
+	loyalty_change_on_revoked = 0.1
+	all_estate_possible_privileges = 2
+}
+
+EDG_FDM_mission_1_24_modifier = {
+	centralize_state_cost = -0.75
+}
+
+EDG_FDM_mission_1_26_modifier = {
+	max_absolutism = 25
+	yearly_absolutism = 2
+	estate_interaction_cooldown_modifier = -0.5
+	global_unrest = -2
+}
+
+EDG_FDM_mission_1_28_modifier = {
+	global_autonomy = -0.1
+	global_manpower_modifier = 0.1
+}
+
+EDG_FDM_mission_2_4_modifier = {
+	army_tradition = 1
+	global_autonomy = -0.1
+}
+
+EDG_FDM_mission_2_9_modifier_1 = {
+	global_prov_trade_power_modifier = 0.1
+	merchants = 1
+}
+
+EDG_FDM_mission_2_9_modifier_2 = {
+	merchants = 1
+}
+
+EDG_FDM_mission_2_10_modifier = {
+	trade_steering = 0.1
+	mercantilism_cost = -0.25
+}
+
+EDG_FDM_mission_2_11_modifier = {
+	army_tradition = 1
+	recover_army_morale_speed = 0.25
+}
+
+EDG_FDM_mission_2_12_modifier = {
+	fire_damage_received = -0.1
+	recover_army_morale_speed = 0.25
+}
+
+EDG_FDM_mission_2_15_modifier = {
+	tolerance_own = 2
+	monthly_piety_accelerator = 0.001
+}
+
+EDG_FDM_mission_2_19_modifier = {
+	assault_fort_ability = 0.25
+	assault_fort_cost_modifier = -0.25
+}
+
+EDG_FDM_mission_2_28_modifier = {
+	global_heathen_missionary_strength = 0.02
+	tolerance_own = 1
+}
+
+EDG_FDM_mission_2_30_modifier = {
+	naval_forcelimit_modifier = 0.1
+	global_sailors_modifier = 0.1
+}
+
+EDG_FDM_mission_2_32_modifier = {
+	global_unrest = -2
+	governing_cost = -0.1
+}
+
+EDG_FDM_mission_3_2_modifier_1 = {
+	land_forcelimit = 10
+	land_forcelimit_modifier = 0.2
+}
+
+EDG_FDM_mission_3_2_modifier_2 = {
+	defensiveness = -0.33
+}
+
+EDG_FDM_mission_3_4_modifier = {
+	core_creation = -0.1
+}
+
+EDG_FDM_mission_3_6_modifier_1 = {
+	local_development_cost = -0.25
+	allowed_num_of_buildings = 1
+	local_tax_modifier = 0.5
+	local_production_efficiency = 0.5
+	local_manpower_modifier = 0.5
+}
+
+EDG_FDM_mission_3_6_modifier_2 = {
+	local_development_cost = -0.5
+	allowed_num_of_buildings = 2
+	local_tax_modifier = 1
+	local_production_efficiency = 1
+	local_manpower_modifier = 1
+}
+
+EDG_FDM_mission_3_6_modifier_3 = {
+	legitimacy = 1
+	core_creation = -0.1
+}
+
+EDG_FDM_mission_3_6_modifier_4 = {
+	core_creation = -0.1
+}
+
+EDG_FDM_mission_3_6_modifier_5 = {
+	global_trade_goods_size_modifier = 0.1
+}
+
+EDG_FDM_mission_3_6_modifier_6 = {
+	land_morale = 0.1
+}
+
+EDG_FDM_mission_3_7_modifier = {
+	land_morale = 0.1
+	manpower_in_true_faith_provinces = 0.25
+}
+
+EDG_FDM_mission_3_8_modifier = {
+	prestige = 1
+	governing_capacity_modifier = 0.2
+}
+
+EDG_FDM_mission_3_9_modifier = {
+	monthly_splendor = 1
+	prestige_decay = -0.01
+	all_estate_loyalty_equilibrium = 0.1
+}
+
+EDG_FDM_mission_3_10_modifier = {
+	years_of_nationalism = -5
+	autonomy_change_time = -0.25
+	global_rebel_suppression_efficiency = 0.25
+}
+
+EDG_FDM_mission_3_11_modifier = {
+	monthly_piety_accelerator = 0.001
+	tolerance_own = 1
+	global_missionary_strength = 0.01
+}
+
+EDG_FDM_mission_3_12_modifier = {
+	land_attrition = -0.1
+	max_attrition = -1
+}
+
+EDG_FDM_mission_3_18_modifier = {
+	missionaries = 1
+	global_missionary_strength = 0.02
+	missionary_maintenance_cost = -0.25
+	prestige_per_development_from_conversion = 1
+	tolerance_own = 2
+	church_loyalty_modifier = 0.1
+	dhimmi_loyalty_modifier = 0.1
+	legitimacy = 1
+}
+
+EDG_FDM_mission_3_19_modifier = {
+	general_cost = -0.25
+	free_leader_pool = 2
+}
+
+EDG_FDM_mission_3_20_modifier = {
+	leader_land_shock = 2
+	max_general_shock = 2
+}
+
+EDG_FDM_mission_3_21_modifier_1 = {
+	land_maintenance_modifier = 0.1
+	nobles_loyalty_modifier = 0.1
+	cossacks_loyalty_modifier = 0.1
+	nomadic_tribes_loyalty_modifier = 0.1
+	loyalty_change_on_revoked = 0.1
+}
+
+EDG_FDM_mission_3_21_modifier_2 = {
+	discipline = 0.05
+	max_absolutism = 10
+}
+
+EDG_FDM_mission_3_23_modifier_1 = {
+	war_exhaustion = -0.1
+	country_military_power = 1
+	province_warscore_cost = -0.1
+	global_unrest = -1.5
+	land_attrition = -0.1
+	movement_speed = 0.05
+	siege_ability = 0.1
+}
+
+EDG_FDM_mission_3_23_modifier_2 = {
+	war_exhaustion = -0.1
+	ship_trade_power_modifier = 0.2
+	global_naval_engagement_modifier = 0.1
+	global_sailors_modifier = 1
+	blockade_efficiency = 1
+	reduced_liberty_desire = 10
+	backrow_artillery_damage = 0.1
+}
+
+EDG_FDM_mission_3_24_modifier_1 = {
+	global_tax_modifier = 0.2
+	church_loyalty_modifier = 0.1
+}
+
+EDG_FDM_mission_3_24_modifier_2 = {
+	local_tax_modifier = 0.75
+}
+
+EDG_FDM_mission_3_24_modifier_3 = {
+	global_tax_modifier = 0.2
+}
+
+EDG_FDM_mission_3_26_modifier = {
+	warscore_cost_vs_other_religion = -0.2
+	ae_impact = 0.5
+	all_estate_loyalty_equilibrium = 0.2
+	unjustified_demands = -0.5
+	war_exhaustion = -0.2
+	stability_cost_to_declare_war = -3
+}
+
+EDG_FDM_mission_3_28_modifier = {
+	technology_cost = -0.1
+	idea_cost = -0.1
+}
+
+EDG_FDM_mission_4_4_modifier = {
+	local_development_cost = -0.3
+	gold_depletion_chance_modifier = -0.75
+	trade_goods_size = 1
+}
+
+EDG_FDM_mission_4_7_modifier = {
+	tolerance_own = 1
+	church_loyalty_modifier = 0.1
+}
+
+EDG_FDM_mission_4_9_modifier = {
+	legitimacy = 1
+	global_autonomy = -0.1
+}
+
+EDG_FDM_mission_4_10_modifier = {
+	yearly_corruption = -0.1
+	stability_cost_modifier = -0.1
+}
+
+EDG_FDM_mission_4_12_modifier = {
+	movement_speed = 0.1
+	cavalry_flanking = 0.25
+}
+
+EDG_FDM_mission_4_19_modifier = {
+	global_sailors_modifier = 0.25
+	naval_forcelimit_modifier = 0.15
+}
+
+EDG_FDM_mission_4_20_modifier_1 = {
+	navy_tradition = 0.25
+	local_ship_cost = -0.25
+	ship_recruit_speed = -0.25
+	local_ship_repair = 0.25
+}
+
+EDG_FDM_mission_4_20_modifier_2 = {
+	naval_morale = 0.1
+	ship_durability = 0.1
+}
+
+EDG_FDM_mission_4_21_modifier = {
+	ship_trade_power_modifier = 0.2
+	trade_steering = 0.2
+	navy_tradition_decay = -0.01
+}
+
+EDG_FDM_mission_4_25_modifier = {
+	global_trade_goods_size_modifier = 0.2
+}
+
+EDG_FDM_mission_4_32_modifier = {
+	global_trade_goods_size_modifier = 0.1
+	administrative_efficiency = 0.05
+}
+
+EDG_FDM_mission_5_2_modifier = {
+	may_establish_frontier = yes
+	may_explore = yes
+	auto_explore_adjacent_to_colony = yes
+}
+
+EDG_FDM_mission_5_4_modifier = {
+	movement_speed = 0.1
+	land_attrition = -0.25
+}
+
+EDG_FDM_mission_5_19_modifier = {
+	heavy_ship_power = 0.25
+	galley_power = 0.25
+	max_flagships = 1
+}
+
+EDG_FDM_mission_5_20_modifier = {
+	capture_ship_chance = 0.33
+	own_coast_naval_combat_bonus = 1
+	sea_repair = yes
+}
+
+EDG_FDM_mission_5_21_modifier = {
+	number_of_cannons_modifier = 0.25
+	hull_size_modifier = 0.25
+}
+
+EDG_FDM_mission_5_25_modifier = {
+	global_prov_trade_power_modifier = 0.25
+	trade_efficiency = 0.25
+}
+
+EDG_FDM_mission_5_26_modifier_1 = {
+	war_exhaustion = -0.1
+	mercenary_manpower = 1
+	development_cost_modifier = -0.05
+	global_trade_goods_size_modifier = 0.125
+	mercenary_discipline = 0.05
+	min_autonomy_in_territories = -0.1
+	governing_capacity_modifier = 0.1
+}
+
+estate_EDG_FDM_gold_mining_rights_modifier = {
+	trade_goods_size = 2
+	local_tax_modifier = -2
+}
+
+#=========================================================
+# 哈里发外交行动修正
+#=========================================================
+# 调停战争 - 冷却
+EDG_did_Caliph_mediation_action_in_10_years_modifier = {
+}
+
+# 调停战争 - 接受调停的国家
+EDG_Caliph_mediation_action_accepted_modifier = {
+	war_exhaustion = -0.05
+	land_morale = -0.05
+	diplomatic_reputation = 1
+}
+
+# 调停战争 - 拒绝调停的国家
+EDG_Caliph_mediation_action_target_modifier = {
+	legitimacy = -1
+	global_unrest = 1
+}
+
+# 授予合法性 - 目标国
+EDG_Caliph_legitimacy_action_target_modifier = {
+	legitimacy = 1
+	devotion = 1
+	monthly_splendor = 1
+	prestige = 0.5
+}
+
+# 宣誓效忠令 - 冷却
+EDG_did_Caliph_loyalty_oath_action_in_10_years_modifier = {
+}
+
+# 宣誓效忠令 - 目标国
+EDG_Caliph_loyalty_oath_action_target_modifier = {
+	reduced_liberty_desire = 20
+}
+
+# 保护穆斯林少数族群 - 冷却
+EDG_did_Caliph_protect_minorities_action_in_10_years_modifier = {
+}
+
+# 保护穆斯林少数族群 - 目标国省份修正
+EDG_Caliph_protect_minorities_action_province_modifier = {
+	local_unrest = -3
+	local_missionary_strength = -0.05
+	local_tolerance_of_heathens = 2
+}
+
+# 发布教令 - 冷却
+EDG_did_Caliph_fatwa_action_in_15_years_modifier = {
+}
+
+# 发布教令 - 目标国
+EDG_Caliph_fatwa_action_target_modifier = {
+	global_unrest = 2
+	legitimacy = -1
+	diplomatic_reputation = -2
+}
+
+# 召集朝觐 - 冷却
+EDG_did_Caliph_organize_hajj_action_in_20_years_modifier = {
+}
+
+# 召集朝觐 - 哈里发国修正
+EDG_Caliph_organize_hajj_action_caliph_modifier = {
+	legitimacy = 1
+	monthly_piety_accelerator = 0.002
+	tolerance_own = 1
+	diplomatic_reputation = 2
+}
+
+# 召集朝觐 - 目标国修正
+EDG_Caliph_organize_hajj_action_target_modifier = {
+	legitimacy = 1
+	monthly_piety_accelerator = 0.001
+	tolerance_own = 1
+}
+
+# 圣战总动员 - 冷却
+EDG_did_Caliph_general_jihad_action_in_25_years_modifier = {
+	land_morale = 0.05
+}
+
+# 圣战总动员 - 目标国（被讨伐国）
+EDG_Caliph_general_jihad_action_target_modifier = {
+	global_unrest = 3
+	diplomatic_reputation = -3
+}
+
+# 圣战总动员 - 穆斯林国家buff（类似十字军修正）
+EDG_Caliph_general_jihad_action_muslim_modifier = {
+	land_morale = 0.1
+	manpower_recovery_speed = 0.3
+	war_exhaustion = -0.05
+}
+
+#=========================================================
+# 引入骑兵修正
+#=========================================================
+EDG_FDM_cavalry_qizilbash_decision_modifier = {
+	cavalry_shock = 0.25
+}
+
+EDG_FDM_cavalry_janissary_decision_modifier = {
+	discipline = 0.05
+	cavalry_power = 0.1
+}
+
+EDG_FDM_cavalry_cossack_decision_modifier = {
+	cavalry_flanking = 0.5
+	movement_speed = 0.1
+}
+
+EDG_FDM_cavalry_winged_hussar_decision_modifier = {
+	fire_damage = 0.1
+	shock_damage = 0.1
+}
+
+EDG_FDM_cavalry_war_elephant_decision_modifier = {
+	land_morale = 0.1
+	morale_damage_received = -0.1
+}
+
+EDG_FDM_cavalry_kheshig_decision_modifier = {
+	drill_decay_modifier = -0.25
+	drill_gain_modifier = 0.25
+}
+
+EDG_FDM_cavalry_keshik_decision_modifier = {
+	recover_army_morale_speed = 0.25
+	manpower_recovery_speed = 0.25
+}
+
+EDG_FDM_cavalry_paladin_decision_modifier = {
+	cavalry_fire = 0.25
+}
+
+#=========================================================
+# 教派交流修正
+#=========================================================
+EDG_FDM_sect_shia_fire_decision_modifier = {
+	global_missionary_strength = 0.02
+	tolerance_own = 2
+	monthly_piety_accelerator = 0.002
+}
+
+EDG_FDM_sect_seven_twelve_imam_decision_modifier = {
+	diplomatic_reputation = 2
+	tolerance_own = 1
+	legitimacy = 1
+}
+
+EDG_FDM_sect_sufi_order_decision_modifier = {
+	global_missionary_strength = 0.01
+	tolerance_heretic = 2
+	religious_unity = 0.25
+}
+
+EDG_FDM_sect_dai_murid_decision_modifier = {
+	global_heathen_missionary_strength = 0.03
+	missionary_maintenance_cost = -0.5
+	church_loyalty_modifier = 0.15
+}
+
+EDG_FDM_sect_sayyid_decision_modifier = {
+	legitimacy = 1
+	prestige = 1
+	diplomatic_reputation = 1
+}
+
+#=========================================================
+# 军事改革修正
+#=========================================================
+EDG_FDM_reform_fight_for_imam_decision_modifier = {
+	war_exhaustion = -0.2
+	manpower_recovery_speed = 0.25
+}
+
+EDG_FDM_reform_desert_army_decision_modifier = {
+	land_attrition = -0.25
+	max_attrition = -2
+	movement_speed = 0.25
+}
+
+EDG_FDM_reform_palace_army_decision_modifier = {
+	discipline = 0.05
+	yearly_army_professionalism = 0.01
+	drill_decay_modifier = -0.25
+}
+
+EDG_FDM_reform_frontier_fortress_decision_modifier = {
+	defensiveness = 0.25
+	garrison_size = 0.25
+	hostile_attrition = 1
+}
+
+EDG_FDM_reform_naval_empire_decision_modifier = {
+	naval_forcelimit_modifier = 0.25
+	global_sailors_modifier = 0.25
+}
+
+# 伊西斯的眼泪 灾难决议 modifiers
+EDG_FDM_tear_of_iset_emergency_relief_decision_modifier = {
+	global_unrest = -3
+	global_monthly_devastation = -0.25
+}
+
+EDG_FDM_tear_of_iset_open_granaries_decision_modifier = {
+	production_efficiency = 0.25
+	global_unrest = -1
+}
+
+EDG_FDM_tear_of_iset_suppress_grain_price_decision_modifier = {
+	inflation_reduction = 0.5
+	global_tax_modifier = -0.1
+}
+
+EDG_FDM_tear_of_iset_hoarding_decision_modifier = {
+	global_unrest = 3
+	global_tax_modifier = 0.15
+}
+
+EDG_FDM_tear_of_iset_increase_tax_decision_modifier = {
+	global_unrest = 2
+	global_tax_modifier = 0.25
+}
+
+EDG_FDM_tear_of_iset_conscript_fields_decision_modifier = {
+	global_trade_goods_size_modifier = 0.15
+	manpower_recovery_speed = -0.25
+}
+
+EDG_FDM_tear_of_iset_expand_loans_decision_modifier = {
+	interest = 1
+	development_cost = 0.15
+}
+
+#=========================================================
+# 红海困境灾难事件修正
+#=========================================================

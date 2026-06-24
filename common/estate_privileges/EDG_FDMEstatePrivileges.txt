@@ -1,0 +1,712 @@
+estate_EDG_FDM_dynasty_of_minority = {
+	icon = estate_church_fund_dar_al_hadith
+	max_absolutism = -10
+	influence = 0.1
+	loyalty = -0.05
+	penalties = {
+		tolerance_own = -1
+		all_estate_loyalty_equilibrium = -0.05
+		war_taxes_cost_modifier = 1
+	}
+	is_valid = {
+		has_estate_privilege = estate_EDG_FDM_dynasty_of_minority
+		NOT = {
+			development_in_provinces = {
+				value = 250
+				religion = shiite
+			}
+		}
+	}
+	can_revoke = no
+	on_granted = {
+		custom_tooltip = estate_EDG_FDM_dynasty_of_minority_tt
+	}
+	on_invalid = {
+		custom_tooltip = estate_EDG_FDM_dynasty_of_minority_tt
+	}
+	on_revoked = {
+		custom_tooltip = estate_EDG_FDM_dynasty_of_minority_tt
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_questioned_sacred_lineage = {
+	icon = privilege_legitimacy
+	max_absolutism = -10
+	influence = 0.1
+	loyalty = -0.05
+	penalties = {
+		legitimacy = -1
+		religious_unity = -0.25
+		monthly_piety_accelerator = -0.001
+	}
+	is_valid = {
+		has_estate_privilege = estate_EDG_FDM_questioned_sacred_lineage
+		NOT = {
+			AND = {
+				legitimacy = 95
+				prestige = 95
+				stability = 2
+				is_great_power = yes
+			}
+		}
+	}
+	can_revoke = no
+	on_granted = {
+		custom_tooltip = estate_EDG_FDM_questioned_sacred_lineage_tt
+	}
+	on_invalid = {
+		custom_tooltip = estate_EDG_FDM_questioned_sacred_lineage_tt
+	}
+	on_revoked = {
+		custom_tooltip = estate_EDG_FDM_questioned_sacred_lineage_tt
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_army_mired_in_factional_strife = {
+	icon = privilege_royal_authority
+	max_absolutism = -10
+	influence = 0.1
+	loyalty = -0.05
+	penalties = {
+		land_maintenance_modifier = 0.2
+		reinforce_speed = -0.2
+		global_regiment_recruit_speed = 0.2
+	}
+	is_valid = {
+		has_estate_privilege = estate_EDG_FDM_army_mired_in_factional_strife
+		NOT = {
+			AND = {
+				army_size = 50
+				army_tradition = 25
+				has_mil_advisor_3 = yes
+			}
+		}
+	}
+	can_revoke = no
+	on_granted = {
+		custom_tooltip = estate_EDG_FDM_army_mired_in_factional_strife_tt
+	}
+	on_invalid = {
+		custom_tooltip = estate_EDG_FDM_army_mired_in_factional_strife_tt
+	}
+	on_revoked = {
+		custom_tooltip = estate_EDG_FDM_army_mired_in_factional_strife_tt
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_egyptian_caliphate_without_cairo = {
+	icon = estate_church_sponsor_waqf_payments
+	max_absolutism = -10
+	influence = 0.1
+	loyalty = -0.05
+	penalties = {
+		global_unrest = 1
+		min_autonomy = 25
+		development_cost_in_primary_culture = 0.1
+	}
+	is_valid = {
+		has_estate_privilege = estate_EDG_FDM_egyptian_caliphate_without_cairo
+		NOT = {
+			owns_core_province = 361
+		}
+	}
+	can_revoke = no
+	on_granted = {
+		custom_tooltip = estate_EDG_FDM_egyptian_caliphate_without_cairo_tt
+	}
+	on_invalid = {
+		custom_tooltip = estate_EDG_FDM_egyptian_caliphate_without_cairo_tt
+	}
+	on_revoked = {
+		custom_tooltip = estate_EDG_FDM_egyptian_caliphate_without_cairo_tt
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_berber_mamluks_cavalry_1 = {
+	icon = privilege_cavalry_maintenance
+	max_absolutism = -10
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_1_19
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 60
+			}
+		}
+		modifier = {
+			cavalry_power = 0.25
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 30
+			}
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 60
+				}
+			}
+		}
+		modifier = {
+			cavalry_power = 0.1
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 30
+				}
+			}
+		}
+		modifier = {
+			cavalry_power = -0.25
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_berber_mamluks_cavalry_2 = {
+	icon = privilege_cavalry_maintenance
+	max_absolutism = -10
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_1_20
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 60
+			}
+		}
+		modifier = {
+			cavalry_fire = 0.25
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 30
+			}
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 60
+				}
+			}
+		}
+		modifier = {
+			cavalry_fire = 0.1
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 30
+				}
+			}
+		}
+		modifier = {
+			cavalry_fire = -0.25
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_berber_mamluks_cavalry_3 = {
+	icon = privilege_cavalry_maintenance
+	max_absolutism = -10
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_2_20
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 60
+			}
+		}
+		modifier = {
+			cavalry_shock = 0.25
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 30
+			}
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 60
+				}
+			}
+		}
+		modifier = {
+			cavalry_shock = 0.1
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 30
+				}
+			}
+		}
+		modifier = {
+			cavalry_shock = -0.25
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_berber_mamluks_cavalry_4 = {
+	icon = privilege_cavalry_maintenance
+	max_absolutism = -10
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_1_21
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 60
+			}
+		}
+		modifier = {
+			movement_speed = 0.25
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 30
+			}
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 60
+				}
+			}
+		}
+		modifier = {
+			movement_speed = 0.1
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 30
+				}
+			}
+		}
+		modifier = {
+			movement_speed = -0.25
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_berber_turkish_artillery = {
+	icon = privilege_artillery
+	max_absolutism = -10
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_2_19
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 60
+			}
+		}
+		modifier = {
+			siege_ability = 0.1
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 30
+			}
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 60
+				}
+			}
+		}
+		modifier = {
+			siege_ability = 0.05
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			NOT = {
+				estate_loyalty = {
+					estate = estate_nomadic_tribes
+					loyalty = 30
+				}
+			}
+		}
+		modifier = {
+			siege_ability = -0.1
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_fatimids_military_academy = {
+	icon = privilege_infantry
+	max_absolutism = -10
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_3_20
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_cossacks
+				loyalty = 60
+			}
+		}
+		modifier = {
+			leader_cost = -0.1
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_cossacks
+				loyalty = 30
+			}
+			NOT = {
+				estate_loyalty = {
+					estate = estate_cossacks
+					loyalty = 60
+				}
+			}
+		}
+		modifier = {
+			leader_cost = -0.05
+		}
+	}
+	influence_scaled_conditional_modifier = {
+		trigger = {
+			NOT = {
+				estate_loyalty = {
+					estate = estate_cossacks
+					loyalty = 30
+				}
+			}
+		}
+		modifier = {
+			leader_cost = 0.1
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_battlefield_experience = {
+	icon = privilege_infantry
+	max_absolutism = -10
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_2_20
+	}
+	conditional_modifier = {
+		trigger = {
+			num_of_battles = {
+				amount = 100
+			}
+		}
+		modifier = {
+			army_tradition_decay = -0.01
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			num_of_battles = {
+				amount = 150
+			}
+		}
+		modifier = {
+			yearly_army_professionalism = 0.02
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			num_of_battles = {
+				amount = 200
+			}
+		}
+		modifier = {
+			land_morale = 0.1
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			num_of_battles = {
+				amount = 250
+			}
+		}
+		modifier = {
+			discipline = 0.05
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			num_of_battles = {
+				amount = 300
+			}
+		}
+		modifier = {
+			shock_damage = 0.2
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			num_of_battles = {
+				amount = 350
+			}
+		}
+		modifier = {
+			fire_damage_received = -0.1
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			num_of_battles = {
+				amount = 400
+			}
+		}
+		modifier = {
+			military_tactics = 0.25
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_fund_dar_al_hadith = {
+	icon = estate_church_fund_dar_al_hadith
+	max_absolutism = -5
+	land_share = 5
+	loyalty = 0.05
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_4_16
+	}
+	can_select = {
+		capital = 361
+	}
+	influence_scaled_conditional_modifier = {
+		modifier = {
+			same_religion_advisor_cost = -0.1
+			technology_cost = -0.1
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_fund_madrasas = {
+	icon = estate_church_fund_madrasas
+	max_absolutism = -5
+	land_share = 5
+	loyalty = 0.05
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_5_15
+	}
+	can_select = {
+		capital = 361
+	}
+	influence_scaled_conditional_modifier = {
+		modifier = {
+			yearly_innovativeness = 0.1
+			missionaries = 1
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_sponsor_waqf_payments = {
+	icon = estate_church_sponsor_waqf_payments
+	max_absolutism = -5
+	land_share = 5
+	loyalty = 0.05
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_5_16
+	}
+	can_select = {
+		capital = 361
+	}
+	influence_scaled_conditional_modifier = {
+		modifier = {
+			tolerance_own = 1
+			stability_cost_modifier = -0.1
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_gold_mining_rights = {
+	icon = privilege_ducats
+	max_absolutism = -5
+	loyalty = 0.1
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_2_3
+	}
+	on_granted = {
+		custom_tooltip = estate_EDG_FDM_gold_mining_rights_tt
+		tooltip = {
+			add_province_modifier = {
+				name = estate_EDG_FDM_gold_mining_rights_modifier
+				duration = -1
+			}
+		}
+	}
+	on_granted_province = {
+		if = {
+			limit = {
+				trade_goods = gold
+			}
+			add_province_modifier = {
+				name = estate_EDG_FDM_gold_mining_rights_modifier
+				duration = -1
+			}
+		}
+	}
+	on_revoked_province = {
+		remove_province_modifier = estate_EDG_FDM_gold_mining_rights_modifier
+	}
+	on_invalid_province = {
+		remove_province_modifier = estate_EDG_FDM_gold_mining_rights_modifier
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}
+
+estate_EDG_FDM_foreign_expeditions = {
+	icon = estate_burghers_foreign_expeditions
+	max_absolutism = -5
+	loyalty = 0.05
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_4_3
+	}
+	influence_scaled_conditional_modifier = {
+		modifier = {
+			colonists = 0.5
+			colonist_placement_chance = 0.05
+			global_colonial_growth = 10
+		}
+	}
+	ai_will_do = {
+		factor = 5
+	}
+}
+
+estate_EDG_FDM_heathen_wazir = {
+	icon = privilege_promoto_dhimmi_nobles
+	max_absolutism = -5
+	loyalty = -0.1
+	influence = 0.1
+	is_valid = {
+		mission_completed = EDG_FDM_mission_4_15
+	}
+	conditional_modifier = {
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nobles
+				loyalty = 60
+			}
+			estate_loyalty = {
+				estate = estate_dhimmi
+				loyalty = 60
+			}
+		}
+		modifier = {
+			country_admin_power = 1
+		}
+	}
+	conditional_modifier = {
+		trigger = {
+			OR = {
+				NOT = {
+					estate_loyalty = {
+						estate = estate_nobles
+						loyalty = 60
+					}
+				}
+				NOT = {
+					estate_loyalty = {
+						estate = estate_dhimmi
+						loyalty = 60
+					}
+				}
+			}
+		}
+		modifier = {
+			country_admin_power = -1
+		}
+	}
+	ai_will_do = {
+		factor = 0
+	}
+}

@@ -1,0 +1,260 @@
+EDG_FDM_holy_order_1 = {
+	icon = GFX_holy_order_shadhili
+	color = {
+		173
+		216
+		230
+	}
+	cost = 100
+	cost_type = adm_power
+	trigger = {
+		mission_completed = EDG_FDM_mission_3_8
+	}
+	per_province_effect = {
+		add_base_tax = 1
+		if = {
+			limit = {
+				owner = {
+					mission_completed = EDG_FDM_mission_2_9
+				}
+			}
+			if = {
+				limit = {
+					region_for_scope_province = {
+						type = all
+						NOT = {
+							has_province_flag = EDG_FDM_holy_order_province_flag_1_adm
+						}
+					}
+				}
+				set_province_flag = EDG_FDM_holy_order_province_flag_1_adm
+				owner = {
+					every_owned_province = {
+						add_nationalism = -10
+					}
+				}
+			}
+		}
+		if = {
+			limit = {
+				owner = {
+					mission_completed = EDG_FDM_mission_3_10
+				}
+			}
+			if = {
+				limit = {
+					area_for_scope_province = {
+						type = all
+						NOT = {
+							has_province_flag = EDG_FDM_holy_order_province_flag_2
+						}
+					}
+				}
+				owner = {
+					add_prestige_or_monarch_power = {
+						amount = 5
+					}
+				}
+			}
+			set_province_flag = EDG_FDM_holy_order_province_flag_2
+			if = {
+				limit = {
+					area_for_scope_province = {
+						type = all
+						has_province_flag = EDG_FDM_holy_order_province_flag_2
+					}
+				}
+				area = {
+					clr_province_flag = EDG_FDM_holy_order_province_flag_2
+				}
+			}
+		}
+	}
+	per_province_abandon_effect = {
+		add_base_tax = -1
+	}
+	modifier = {
+		local_governing_cost = -0.1
+		local_tax_modifier = 0.2
+	}
+	ai_priority = {
+		factor = 1
+	}
+	localization = EDG_FDM_holy_order_1
+}
+
+EDG_FDM_holy_order_2 = {
+	icon = GFX_holy_order_benedictines
+	color = {
+		173
+		216
+		230
+	}
+	cost = 100
+	cost_type = dip_power
+	trigger = {
+		mission_completed = EDG_FDM_mission_3_8
+	}
+	per_province_effect = {
+		add_base_production = 1
+		if = {
+			limit = {
+				region_for_scope_province = {
+					type = all
+					is_owned_by_trade_company = no
+				}
+				owner = {
+					mission_completed = EDG_FDM_mission_2_9
+				}
+			}
+			if = {
+				limit = {
+					region_for_scope_province = {
+						type = all
+						NOT = {
+							has_province_flag = EDG_FDM_holy_order_province_flag_1_dip
+						}
+					}
+				}
+				set_province_flag = EDG_FDM_holy_order_province_flag_1_dip
+				add_permanent_province_modifier = {
+					name = EDG_FDM_mission_2_9_modifier_2
+					duration = -1
+				}
+			}
+		}
+		if = {
+			limit = {
+				owner = {
+					mission_completed = EDG_FDM_mission_3_10
+				}
+			}
+			if = {
+				limit = {
+					area_for_scope_province = {
+						type = all
+						NOT = {
+							has_province_flag = EDG_FDM_holy_order_province_flag_2
+						}
+					}
+				}
+				owner = {
+					add_prestige_or_monarch_power = {
+						amount = 5
+					}
+				}
+			}
+			set_province_flag = EDG_FDM_holy_order_province_flag_2
+			if = {
+				limit = {
+					area_for_scope_province = {
+						type = all
+						has_province_flag = EDG_FDM_holy_order_province_flag_2
+					}
+				}
+				area = {
+					clr_province_flag = EDG_FDM_holy_order_province_flag_2
+				}
+			}
+		}
+	}
+	per_province_abandon_effect = {
+		add_base_production = -1
+	}
+	modifier = {
+		trade_goods_size_modifier = 0.1
+		local_production_efficiency = 0.1
+	}
+	ai_priority = {
+		factor = 1
+	}
+	localization = EDG_FDM_holy_order_2
+}
+
+EDG_FDM_holy_order_3 = {
+	icon = GFX_holy_order_zahediyeh_order
+	color = {
+		173
+		216
+		230
+	}
+	cost = 100
+	cost_type = mil_power
+	trigger = {
+		mission_completed = EDG_FDM_mission_3_8
+	}
+	per_province_effect = {
+		add_base_manpower = 1
+		if = {
+			limit = {
+				owner = {
+					mission_completed = EDG_FDM_mission_2_9
+				}
+			}
+			if = {
+				limit = {
+					region_for_scope_province = {
+						type = all
+						NOT = {
+							has_province_flag = EDG_FDM_holy_order_province_flag_1_mil
+						}
+					}
+				}
+				set_province_flag = EDG_FDM_holy_order_province_flag_1_mil
+				owner = {
+					define_general = {
+						fire = 4
+						shock = 6
+						manuever = 4
+						siege = 6
+					}
+				}
+			}
+		}
+		if = {
+			limit = {
+				owner = {
+					mission_completed = EDG_FDM_mission_3_10
+				}
+			}
+			if = {
+				limit = {
+					area_for_scope_province = {
+						type = all
+						NOT = {
+							has_province_flag = EDG_FDM_holy_order_province_flag_2
+						}
+					}
+				}
+				owner = {
+					add_prestige_or_monarch_power = {
+						amount = 5
+					}
+				}
+			}
+			set_province_flag = EDG_FDM_holy_order_province_flag_2
+			if = {
+				limit = {
+					area_for_scope_province = {
+						type = all
+						has_province_flag = EDG_FDM_holy_order_province_flag_2
+					}
+				}
+				area = {
+					clr_province_flag = EDG_FDM_holy_order_province_flag_2
+				}
+			}
+		}
+	}
+	per_province_abandon_effect = {
+		add_base_manpower = -1
+	}
+	modifier = {
+		local_manpower_modifier = 0.25
+		supply_limit_modifier = 0.25
+	}
+	ai_priority = {
+		factor = 1
+	}
+	localization = EDG_FDM_holy_order_3
+}

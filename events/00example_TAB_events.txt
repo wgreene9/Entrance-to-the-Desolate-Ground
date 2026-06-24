@@ -2947,7 +2947,6 @@ country_event = {#举行穆哈兰姆月
     title = mission_EDGTABmission.30.ct
     desc = mission_EDGTABmission.30.txt
     picture = CONQUEST_eventPicture
-    is_triggered_only = yes
     trigger = {
         tag = TAB
         all_country = {
@@ -3012,7 +3011,6 @@ country_event = {#前往卡尔巴拉朝觐
     title = mission_EDGTABmission.31.ct
     desc = mission_EDGTABmission.31.txt
     picture = CONQUEST_eventPicture
-    is_triggered_only = yes
     trigger = {
         tag = TAB
         409 = {
@@ -3327,6 +3325,10 @@ country_event = {#我们是萨珊的真正继承者
             remove_country_modifier = new_TAB_buff_33
             remove_country_modifier = new_TAB_buff_35
             remove_country_modifier = new_TAB_buff_37
+            remove_country_modifier = new_TAB_buff_32
+            remove_country_modifier = new_TAB_buff_34
+            remove_country_modifier = new_TAB_buff_36
+            remove_country_modifier = new_TAB_buff_38
         }
     }
 }
@@ -3361,7 +3363,12 @@ country_event = {#萨珊已经是过去式了...
             name = new_TAB_ERS_buff_2
             duration = -1
         }
+        set_country_flag = not_change_ERS_flag
         hidden_effect = {
+            remove_country_modifier = new_TAB_buff_31
+            remove_country_modifier = new_TAB_buff_33
+            remove_country_modifier = new_TAB_buff_35
+            remove_country_modifier = new_TAB_buff_37
             remove_country_modifier = new_TAB_buff_32
             remove_country_modifier = new_TAB_buff_34
             remove_country_modifier = new_TAB_buff_36
@@ -3792,7 +3799,7 @@ country_event = {#栗特商路的复兴
     }
 }
 country_event = {#吉兰的回应
-    id = mission_TABEDGmission.48
+    id = mission_EDGTABmission.48
     title = mission_TABEDGmission.48.ct
     desc = mission_TABEDGmission.48.txt
     picture = DIPLOMACY_eventPicture
@@ -3838,7 +3845,7 @@ country_event = {#吉兰的回应
     }
 }
 country_event = {#比阿普斯的回应
-    id = mission_TABEDGmission.49
+    id = mission_EDGTABmission.49
     title = mission_TABEDGmission.49.ct
     desc = mission_TABEDGmission.49.txt
     picture = DIPLOMACY_eventPicture
@@ -4166,7 +4173,19 @@ country_event = {#统一的伊朗，我们的身份
             }
         }
         change_tag = PER
-        swap_free_idea_group = yes
+        PER = { set_government_rank = 3 }
+        if = {
+            limit = {
+                has_custom_ideas = no
+            }
+            country_event = { id = ideagroups.1 }
+        }
+        add_country_modifier = {
+            name = "centralization_modifier"
+            duration = 7300
+        }
+        swap_non_generic_missions = yes
+        on_change_tag_effect = yes
         country_event = {
             id = EDG_flavor_PER.9
         }
@@ -4174,6 +4193,7 @@ country_event = {#统一的伊朗，我们的身份
             clr_country_flag = The_Controversy_of_Persia_flag_yes
             clr_country_flag = The_protection_of_the_seven_heavenly_gods
             clr_country_flag = Ulema_influence_flag
+            clr_country_flag = Activate_tribal_assistance
             remove_country_modifier = EDG_PER_war_decision_jion_modifier
             remove_country_modifier = EDG_flavor_PER_war_3_a_modifier
             remove_country_modifier = buff_Yasna
@@ -4183,6 +4203,14 @@ country_event = {#统一的伊朗，我们的身份
             remove_country_modifier = buff_Dahema
             remove_country_modifier = new_TAB_ERS_buff_1
             remove_country_modifier = new_TAB_ERS_buff_2
+            remove_country_modifier = new_TAB_buff_31
+            remove_country_modifier = new_TAB_buff_33
+            remove_country_modifier = new_TAB_buff_35
+            remove_country_modifier = new_TAB_buff_37
+            remove_country_modifier = new_TAB_buff_32
+            remove_country_modifier = new_TAB_buff_34
+            remove_country_modifier = new_TAB_buff_36
+            remove_country_modifier = new_TAB_buff_38
         }
     }
     option = {
@@ -4238,6 +4266,14 @@ country_event = {#统一的伊朗，我们的身份
             remove_country_modifier = buff_Dahema
             remove_country_modifier = new_TAB_ERS_buff_1
             remove_country_modifier = new_TAB_ERS_buff_2
+            remove_country_modifier = new_TAB_buff_31
+            remove_country_modifier = new_TAB_buff_33
+            remove_country_modifier = new_TAB_buff_35
+            remove_country_modifier = new_TAB_buff_37
+            remove_country_modifier = new_TAB_buff_32
+            remove_country_modifier = new_TAB_buff_34
+            remove_country_modifier = new_TAB_buff_36
+            remove_country_modifier = new_TAB_buff_38
         }
     }
 }

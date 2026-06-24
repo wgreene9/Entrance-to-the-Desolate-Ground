@@ -1,0 +1,734 @@
+EDG_SIC_0_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = SIC
+	}
+	EDG_SIC_0_1_1 = {
+		#取悦市民
+		icon = adjust_the_general_means
+		position = 1
+		provinces_to_highlight = {
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				estate_influence = {
+					estate = estate_burghers
+					influence = 75
+				}
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+			add_treasury = 200
+			add_estate_loyalty = {
+				estate = estate_burghers
+				loyalty = 20
+			}
+			add_dip_power = 100
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_SIC_Hellenic_path_tt
+				first_limit = "
+					has_country_flag = EDG_SIC_Hellas_path_flag
+				"
+				first_effect = "
+					change_estate_land_share = {
+						estate = estate_burghers
+						share = -5
+					}
+				"
+				second_custom_tooltip = EDG_SIC_Latin_path_tt
+				second_limit = "
+					has_country_flag = EDG_SIC_Latin_path_flag
+				"
+				second_effect = "
+					add_estate_loyalty_modifier = {
+						estate = estate_burghers
+						desc = EDG_SIC_0_1_1_title
+						loyalty = 10
+						duration = -1
+					}
+				"
+			}
+		}
+	}
+	EDG_SIC_0_1_5 = {
+		#折断长剑
+		icon = form_the_swiss_guard
+		position = 5
+		required_missions = {
+			EDG_SIC_0_3_4
+		}
+		provinces_to_highlight = {
+			owned_by = GEN
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				always = no
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+		}
+	}
+}
+
+EDG_SIC_0_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = SIC
+	}
+	EDG_SIC_0_2_1 = {
+		#正教牧首
+		icon = promote_the_patriarchate
+		position = 1
+		provinces_to_highlight = {
+			owned_by = root
+			religion = orthodox
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				num_of_estate_privileges = {
+					estate = estate_church
+					value = 3
+				}
+				estate_influence = {
+					estate = estate_church
+					influence = 50
+				}
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+			add_patriarch_authority = 0.2
+			add_estate_loyalty = {
+				estate = estate_church
+				loyalty = 20
+			}
+			add_adm_power = 100
+			custom_tooltip = hsn_clerical_council_tt
+			hidden_effect = {
+				set_country_flag = hsn_appease_ulema_reward_flag
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_SIC_Hellenic_path_tt
+				first_limit = "
+					has_country_flag = EDG_SIC_Hellas_path_flag
+				"
+				first_effect = "
+					change_estate_land_share = {
+						estate = estate_church
+						share = -5
+					}
+				"
+				second_custom_tooltip = EDG_SIC_Latin_path_tt
+				second_limit = "
+					has_country_flag = EDG_SIC_Latin_path_flag
+				"
+				second_effect = "
+					add_estate_loyalty_modifier = {
+						estate = estate_church
+						desc = EDG_SIC_0_2_1_title
+						loyalty = 10
+						duration = -1
+					}
+				"
+			}
+		}
+	}
+	EDG_SIC_0_2_2 = {
+		#金狮振翅
+		icon = byz_aegean_islands
+		position = 2
+		provinces_to_highlight = {
+			owned_by = VEN
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				OR = {
+					custom_trigger_tooltip = {
+						tooltip = EDG_SIC_mission_0_2_2.trigger.tt
+						has_country_flag = EDG_SIC_Latin_path_flag
+						exists = VEN
+						VEN = {
+							is_subject = no
+							has_opinion_modifier = {
+								who = root
+								modifier = improved_relation
+								value = 50
+							}
+						}
+					}
+					alliance_with = VEN
+					VEN = {
+						custom_trigger_tooltip = {
+							tooltip = has_been_insulted_by_root
+							OR = {
+								has_opinion_modifier = {
+									who = ROOT
+									modifier = insulted
+								}
+								has_opinion_modifier = {
+									who = ROOT
+									modifier = scornfully_insulted
+								}
+							}
+						}
+					}
+				}
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_SIC_Hellenic_path_tt
+				first_limit = "
+					has_country_flag = EDG_SIC_Hellas_path_flag
+				"
+				first_effect = "
+					add_manpower = 10
+					add_treasury = 500
+					home_trade_node_effect_scope = {
+						add_trade_modifier = {
+							who = ROOT
+							duration = -1
+							power = 50
+							key = EDG_SIC_0_2_2_1_title
+						}
+					}
+				"
+				second_custom_tooltip = EDG_SIC_Latin_path_tt
+				second_limit = "
+					has_country_flag = EDG_SIC_Latin_path_flag
+				"
+				second_effect = "
+					home_trade_node_effect_scope = {
+						add_trade_modifier = {
+							who = VEN
+							duration = -1
+							power = -1000
+							key = EDG_SIC_0_2_2_2_title
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_SIC_0_2_5 = {
+		#傲慢之陨
+		icon = king_of_poland
+		position = 5
+		required_missions = {
+			EDG_SIC_0_3_4
+		}
+		provinces_to_highlight = {
+			owned_by = PUA
+		}
+		trigger = {
+			PUA = {
+				NOT = {
+					war_score_against = {
+						who = ROOT
+						value = -80
+					}
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_SICDisasterEvents.58
+			}
+		}
+	}
+}
+
+EDG_SIC_0_3 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = SIC
+	}
+	EDG_SIC_0_3_1 = {
+		#确保军队
+		icon = mission_hessian_jaeger_corps
+		position = 1
+		provinces_to_highlight = {
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				army_size_percentage = 1
+				has_mil_advisor = yes
+				num_of_generals = 1
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+			add_manpower = 10
+			add_army_tradition = 20
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_SIC_Hellenic_path_tt
+				first_limit = "
+					has_country_flag = EDG_SIC_Hellas_path_flag
+				"
+				first_effect = "
+					add_prestige_or_monarch_power = {
+						amount = 25
+					}
+				"
+				second_custom_tooltip = EDG_SIC_Latin_path_tt
+				second_limit = "
+					has_country_flag = EDG_SIC_Latin_path_flag
+				"
+				second_effect = "
+					add_legitimacy_or_mil_power = {
+						amount = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_SIC_0_3_2 = {
+		#静谧之岛
+		icon = arb_sicily
+		position = 2
+		required_missions = {
+			EDG_SIC_0_3_1
+			EDG_SIC_0_1_1
+			EDG_SIC_0_2_1
+			EDG_SIC_0_4_1
+			EDG_SIC_0_5_1
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = sicily_area
+				area = western_sicily_area
+			}
+			not = {
+				num_of_times_improved = 1
+			}
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				sicily_area = {
+					type = all
+					owned_by = ROOT
+					num_of_times_improved = 1
+				}
+				western_sicily_area = {
+					type = all
+					owned_by = ROOT
+					num_of_times_improved = 1
+				}
+				124 = {
+					has_fort_building_trigger = yes
+				}
+				manpower = 7
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+			add_manpower = -1
+			124 = {
+				upgrade_fort_building = yes
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_SIC_Hellenic_path_tt
+				first_limit = "
+					has_country_flag = EDG_SIC_Hellas_path_flag
+				"
+				first_effect = "
+					add_mil_power = 100
+				"
+				second_custom_tooltip = EDG_SIC_Latin_path_tt
+				second_limit = "
+					has_country_flag = EDG_SIC_Latin_path_flag
+				"
+				second_effect = "
+					add_army_professionalism = 0.025
+				"
+			}
+		}
+	}
+	EDG_SIC_0_3_3 = {
+		#高天密翳
+		icon = join_the_reformation
+		position = 3
+		required_missions = {
+			EDG_SIC_0_2_2
+			EDG_SIC_0_4_2
+			EDG_SIC_0_3_2
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				is_year = 1447
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+		}
+	}
+	EDG_SIC_0_3_4 = {
+		#射杀旭阳
+		icon = protect_against_austria
+		position = 4
+		required_missions = {
+			EDG_SIC_0_3_3
+		}
+		provinces_to_highlight = {
+			province_id = 125
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				NOT = {
+					num_of_rebel_armies = 1
+				}
+				num_of_generals = 2
+				has_mil_advisor_2 = yes
+				125 = {
+					has_ruler_leader_from = ROOT
+				}
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+			add_stability_or_adm_power = yes
+			change_adm = 1
+		}
+	}
+	EDG_SIC_0_3_5 = {
+		#高贵之死
+		icon = spa_reform_tercios
+		position = 5
+		required_missions = {
+			EDG_SIC_0_3_4
+		}
+		provinces_to_highlight = {
+			owned_by = APU
+		}
+		trigger = {
+			OR = {
+				APU = {
+					NOT = {
+						war_score_against = {
+							who = ROOT
+							value = -80
+						}
+					}
+				}
+				NOT = {
+					exists = APU
+				}
+			}
+		}
+		effect = {
+			inherit = APU
+			inherit = BEV
+		}
+	}
+	EDG_SIC_0_3_6 = {
+		#尘埃已定 白露未晞
+		icon = king_of_sicily
+		position = 6
+		required_missions = {
+			EDG_SIC_0_1_5
+			EDG_SIC_0_2_5
+			EDG_SIC_0_3_5
+			EDG_SIC_0_4_5
+			EDG_SIC_0_5_5
+		}
+		provinces_to_highlight = {
+			owned_by = SIC
+		}
+		trigger = {
+			is_at_war = no
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_SIC_end_disasters_modifier
+				duration = -1
+			}
+			set_country_flag = EDG_SIC_civil_war_1_end_flag
+			custom_tooltip = EDG_SIC_mission_end_civil_war_1_tt
+		}
+	}
+	EDG_SIC_0_3_7 = {
+		#黑夜过后 朝阳新生
+		icon = encroach_on_the_germans
+		position = 7
+		required_missions = {
+			EDG_SIC_0_3_6
+		}
+		provinces_to_highlight = {
+			province_id = 2982
+		}
+		trigger = {
+			always = no
+		}
+		effect = {
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_SIC_Hellenic_path_tt
+				first_limit = "
+					has_country_flag = EDG_SIC_Hellas_path_flag
+				"
+				first_effect = "
+					country_event = {
+						id = EDG_SICDisasterEvents.100
+					}	
+				"
+			}
+		}
+	}
+}
+
+EDG_SIC_0_4 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = SIC
+	}
+	EDG_SIC_0_4_1 = {
+		#公教氏族
+		icon = immaculate_government
+		position = 1
+		provinces_to_highlight = {
+			owned_by = root
+			religion = catholic
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				OR = {
+					has_estate_privilege = estate_burghers_enforced_interfaith_dialogue
+					religious_unity = 1
+				}
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+			126 = {
+				change_culture = sicilian
+				add_base_tax = 1
+				add_base_manpower = 1
+			}
+		}
+	}
+	EDG_SIC_0_4_2 = {
+		#黑鹰低吟
+		icon = humiliate_austria
+		position = 2
+		provinces_to_highlight = {
+			province_id = 126
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				always = no
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+		}
+	}
+	EDG_SIC_0_4_5 = {
+		#僭越之终
+		icon = league_of_the_public_weal
+		position = 5
+		required_missions = {
+			EDG_SIC_0_3_4
+		}
+		provinces_to_highlight = {
+			owned_by = CBI
+		}
+		trigger = {
+			CBI = {
+				NOT = {
+					war_score_against = {
+						who = ROOT
+						value = -80
+					}
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_SICDisasterEvents.59
+			}
+		}
+	}
+}
+
+EDG_SIC_0_5 = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = SIC
+	}
+	EDG_SIC_0_5_1 = {
+		icon = contracts_of_correspondence
+		position = 1
+		provinces_to_highlight = {
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				crown_land_share = 35
+				administrative_experts = 2
+				estate_loyalty = {
+					estate = estate_nobles
+					loyalty = 50
+				}
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_SIC_Hellenic_path_tt
+				first_limit = "
+					has_country_flag = EDG_SIC_Hellas_path_flag
+				"
+				first_effect = "
+					change_estate_land_share = {
+						estate = estate_nobles
+						share = -5
+					}
+				"
+				second_custom_tooltip = EDG_SIC_Latin_path_tt
+				second_limit = "
+					has_country_flag = EDG_SIC_Latin_path_flag
+				"
+				second_effect = "
+					add_estate_loyalty_modifier = {
+						estate = estate_nobles
+						desc = EDG_SIC_0_5_1_title
+						loyalty = 10
+						duration = -1
+					}
+				"
+			}
+		}
+	}
+	EDG_SIC_0_5_5 = {
+		icon = holy_state
+		position = 5
+		required_missions = {
+			EDG_SIC_0_3_4
+		}
+		provinces_to_highlight = {
+			owned_by = PAP
+		}
+		trigger = {
+			if = {
+				limit = {
+					ai = no
+					NOT = {
+						has_disaster = EDG_SIC_civil_war_1
+					}
+				}
+				always = no
+			}
+			else = {
+				has_disaster = EDG_SIC_civil_war_1
+			}
+		}
+		effect = {
+		}
+	}
+}

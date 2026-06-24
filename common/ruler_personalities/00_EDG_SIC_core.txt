@@ -1,0 +1,358 @@
+EDG_personality_Grand_LordProtector = {#大护国公
+	ruler_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	heir_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	consort_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	allow = {
+		always = yes
+	}
+	chance = {
+		modifier = {
+			factor = -1
+			ai = no
+		}
+	}
+
+	monarch_lifespan = 0.5
+	global_attacker_dice_roll_bonus = 1
+	monthly_EDG_Syracusae_military_government_ability_power = 0.2
+	nation_designer_cost = 400
+
+	# War AI shit
+	enemy_strength_multiplier = 0.9 # Will slightly underestimate enemy force, more chance to declare war
+	easy_war_chance_multiplier = 10 # Will declare easy war more often
+	other_ai_help_us_multiplier = 2 # Other AI are most susceptible to help them (ally want to stay in good term with this great ruler)
+	war_chance_multiplier = 3 # More chance to declare war
+	wants_land = yes # Wants land, duh
+	# Diplomacy AI shit
+	other_ai_war_chance_multiplier = 0.5 # Other AI will think more before declaring war on this country
+
+
+}
+
+EDG_personality_LordProtector = {#护国公
+	ruler_allow = {
+		allow = {
+			has_country_flag = EDG_GRE_enable_personality_LordProtector_flag
+			ADM = 4
+			DIP = 4
+			MIL = 4
+		}
+		chance = {
+			modifier = {
+				factor = 1
+				ADM = 5
+			}
+			modifier = {
+				factor = 1
+				ADM = 6
+			}
+			modifier = {
+				factor = 1
+				DIP = 5
+			}
+			modifier = {
+				factor = 1
+				DIP = 6
+			}
+			modifier = {
+				factor = 1
+				MIL = 5
+			}
+			modifier = {
+				factor = 1
+				MIL = 6
+			}
+		}
+
+	}
+
+	heir_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	consort_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	allow = {
+		has_country_flag = EDG_GRE_enable_personality_LordProtector_flag
+	}
+	chance = {
+		modifier = {
+			factor = 1
+			republican_tradition = 80
+		}
+		modifier = {
+			republican_tradition = 1
+			innovativeness = 90
+		}
+		modifier = {
+			factor = 1
+			republican_tradition = 100
+		}
+	}
+
+
+	global_attacker_dice_roll_bonus = 1
+	monthly_EDG_Syracusae_military_government_ability_power = 0.1
+	nation_designer_cost = 400
+
+	# War AI shit
+	enemy_strength_multiplier = 0.9 # Will slightly underestimate enemy force, more chance to declare war
+	easy_war_chance_multiplier = 10 # Will declare easy war more often
+	other_ai_help_us_multiplier = 2 # Other AI are most susceptible to help them (ally want to stay in good term with this great ruler)
+	war_chance_multiplier = 3 # More chance to declare war
+	wants_land = yes # Wants land, duh
+	# Diplomacy AI shit
+	other_ai_war_chance_multiplier = 0.5 # Other AI will think more before declaring war on this country
+
+
+}
+
+EDG_personality_Therios = {#塞里奥斯「伯利克里」
+	ruler_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	heir_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	consort_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	allow = {
+		always = yes
+	}
+	chance = {
+		modifier = {
+			factor = -1
+			ai = no
+		}
+	}
+
+	development_cost = -0.1
+	reform_progress_growth = 0.2
+	monthly_EDG_Syracusae_military_government_ability_power = 0.1
+	nation_designer_cost = 400
+
+	# War AI shit
+	enemy_strength_multiplier = 0.9 # Will slightly underestimate enemy force, more chance to declare war
+	easy_war_chance_multiplier = 10 # Will declare easy war more often
+	other_ai_help_us_multiplier = 2 # Other AI are most susceptible to help them (ally want to stay in good term with this great ruler)
+	war_chance_multiplier = 3 # More chance to declare war
+	wants_land = yes # Wants land, duh
+	# Diplomacy AI shit
+	other_ai_war_chance_multiplier = 0.5 # Other AI will think more before declaring war on this country
+
+
+}
+
+EDG_personality_Andreas = {#安德烈亚斯「安提柯」
+	ruler_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	heir_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	consort_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	allow = {
+		always = yes
+	}
+	chance = {
+		modifier = {
+			factor = -1
+			ai = no
+		}
+	}
+	land_morale = 0.1
+	province_warscore_cost = -0.1
+	monthly_EDG_Syracusae_military_government_ability_power = 0.1
+	nation_designer_cost = 400
+
+	# War AI shit
+	enemy_strength_multiplier = 0.9 # Will slightly underestimate enemy force, more chance to declare war
+	easy_war_chance_multiplier = 10 # Will declare easy war more often
+	other_ai_help_us_multiplier = 2 # Other AI are most susceptible to help them (ally want to stay in good term with this great ruler)
+	war_chance_multiplier = 3 # More chance to declare war
+	wants_land = yes # Wants land, duh
+	# Diplomacy AI shit
+	other_ai_war_chance_multiplier = 0.5 # Other AI will think more before declaring war on this country
+
+
+}
+
+EDG_personality_Ignatios = {#伊格纳修斯「圣徒」
+	ruler_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	heir_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	consort_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	allow = {
+		always = yes
+	}
+	chance = {
+		modifier = {
+			factor = -1
+			ai = no
+		}
+	}
+
+	tolerance_own = 3
+	warscore_cost_vs_other_religion = -0.10
+	monthly_EDG_Syracusae_military_government_ability_power = -0.3
+	nation_designer_cost = 400
+
+	# War AI shit
+	enemy_strength_multiplier = 0.9 # Will slightly underestimate enemy force, more chance to declare war
+	easy_war_chance_multiplier = 10 # Will declare easy war more often
+	other_ai_help_us_multiplier = 2 # Other AI are most susceptible to help them (ally want to stay in good term with this great ruler)
+	war_chance_multiplier = 3 # More chance to declare war
+	wants_land = yes # Wants land, duh
+	# Diplomacy AI shit
+	other_ai_war_chance_multiplier = 0.5 # Other AI will think more before declaring war on this country
+
+
+}
+
+EDG_personality_Sotirios = {#索蒂里奥斯「米特拉达梯」
+	ruler_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	heir_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	consort_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	allow = {
+		always = yes
+	}
+	chance = {
+		modifier = {
+			factor = -1
+			ai = no
+		}
+	}
+
+	siege_ability = 0.1
+	movement_speed = 0.1
+	monthly_EDG_Syracusae_military_government_ability_power = 0.2
+	nation_designer_cost = 400
+
+	# War AI shit
+	enemy_strength_multiplier = 0.9 # Will slightly underestimate enemy force, more chance to declare war
+	easy_war_chance_multiplier = 10 # Will declare easy war more often
+	other_ai_help_us_multiplier = 2 # Other AI are most susceptible to help them (ally want to stay in good term with this great ruler)
+	war_chance_multiplier = 3 # More chance to declare war
+	wants_land = yes # Wants land, duh
+	# Diplomacy AI shit
+	other_ai_war_chance_multiplier = 0.5 # Other AI will think more before declaring war on this country
+
+
+}
+
+EDG_personality_Constantinus = {#康斯坦丁「立法者」
+	ruler_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	heir_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	consort_allow = {
+		allow = {
+			always = no
+		}
+	}
+
+	allow = {
+		always = yes
+	}
+	chance = {
+		modifier = {
+			factor = -1
+			ai = no
+		}
+	}
+
+	monarch_lifespan = 0.5
+	administrative_efficiency = 0.05
+	monthly_EDG_Syracusae_military_government_ability_power = 0.3
+	nation_designer_cost = 400
+
+	# War AI shit
+	enemy_strength_multiplier = 0.9 # Will slightly underestimate enemy force, more chance to declare war
+	easy_war_chance_multiplier = 10 # Will declare easy war more often
+	other_ai_help_us_multiplier = 2 # Other AI are most susceptible to help them (ally want to stay in good term with this great ruler)
+	war_chance_multiplier = 3 # More chance to declare war
+	wants_land = yes # Wants land, duh
+	# Diplomacy AI shit
+	other_ai_war_chance_multiplier = 0.5 # Other AI will think more before declaring war on this country
+
+
+}

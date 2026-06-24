@@ -1,11 +1,30 @@
-
-EDG_shiite_Caliph_decree_cost_effect = {#逊尼派诏书通用效果
-	custom_tooltip = EDG_shiite_Caliph_decree_cost_effect_tt
+EDG_shiite_Caliph_decree_cost_effect = {
+	#什叶派诏书通用效果
+	if = {
+		limit = {
+			has_idea = EDG_caliph_ideas_1
+		}
+		custom_tooltip = EDG_shiite_Caliph_decree_cost_effect_tt_discounted
+	}
+	else = {
+		custom_tooltip = EDG_shiite_Caliph_decree_cost_effect_tt
+	}
 	hidden_effect = {
 		event_target:EDG_shiite_Caliph_target = {
-			change_variable = {
-				which = EDG_shiite_Caliph_authority_var
-				value = -20
+			if = {
+				limit = {
+					has_idea = EDG_caliph_ideas_1
+				}
+				change_variable = {
+					which = EDG_shiite_Caliph_authority_var
+					value = -10
+				}
+			}
+			else = {
+				change_variable = {
+					which = EDG_shiite_Caliph_authority_var
+					value = -20
+				}
 			}
 		}
 		change_variable = {
@@ -21,18 +40,40 @@ EDG_shiite_Caliph_decree_cost_effect = {#逊尼派诏书通用效果
 			add_next_institution_embracement = 10
 		}
 	}
-
+	if = {
+		limit = {
+			mission_completed = EDG_FDM_mission_4_11
+		}
+		add_prestige_or_monarch_power = {
+			amount = 5
+		}
+	}
 	custom_tooltip = EDG_SPACE_TT
 }
 
-EDG_shiite_Caliph_decree_button_1_scriped_effect = {#逊尼派 允许塔基亚
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
+EDG_shiite_Caliph_decree_button_1_scriped_effect = {
+	#逊尼派 允许塔基亚
+	if = {
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
 				name = EDG_Caliph_shiite_decree_button_1_modifier_a
-				duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
 				name = EDG_Caliph_shiite_decree_button_1_modifier_b
-				duration = 3650 hidden = yes } } }
-
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
 	if = {
 		limit = {
 			religion = shiite
@@ -57,13 +98,18 @@ EDG_shiite_Caliph_decree_button_1_scriped_effect = {#逊尼派 允许塔基亚
 			}
 			every_country = {
 				limit = {
-					NOT = { tag = ROOT }
-					any_owned_province = { religion = shiite }
+					NOT = {
+						tag = ROOT
+					}
+					any_owned_province = {
+						religion = shiite
+					}
 				}
-				country_event = { id = EDG_flavor_caliphate.3 }
+				country_event = {
+					id = EDG_flavor_caliphate.3
+				}
 			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -83,7 +129,6 @@ EDG_shiite_Caliph_decree_button_1_scriped_effect = {#逊尼派 允许塔基亚
 				duration = 3650
 			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -104,17 +149,29 @@ EDG_shiite_Caliph_decree_button_1_scriped_effect = {#逊尼派 允许塔基亚
 	}
 }
 
-
-
-EDG_shiite_Caliph_decree_button_2_scriped_effect = {#逊尼派 宣扬吉哈德
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
+EDG_shiite_Caliph_decree_button_2_scriped_effect = {
+	#逊尼派 宣扬吉哈德
+	if = {
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
 				name = EDG_Caliph_shiite_decree_button_2_modifier_a
-				duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
 				name = EDG_Caliph_shiite_decree_button_2_modifier_b
-				duration = 3650 hidden = yes } } }
-
-
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
 	if = {
 		limit = {
 			religion = shiite
@@ -127,12 +184,15 @@ EDG_shiite_Caliph_decree_button_2_scriped_effect = {#逊尼派 宣扬吉哈德
 		}
 		every_country = {
 			limit = {
-				NOT = { tag = ROOT }
+				NOT = {
+					tag = ROOT
+				}
 				religion = shiite
 			}
-			country_event = { id = EDG_flavor_caliphate.4 }
+			country_event = {
+				id = EDG_flavor_caliphate.4
+			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -150,13 +210,16 @@ EDG_shiite_Caliph_decree_button_2_scriped_effect = {#逊尼派 宣扬吉哈德
 			}
 			every_country = {
 				limit = {
-					NOT = { tag = ROOT }
+					NOT = {
+						tag = ROOT
+					}
 					religion = shiite
 				}
-				country_event = { id = EDG_flavor_caliphate.4 }
+				country_event = {
+					id = EDG_flavor_caliphate.4
+				}
 			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -170,16 +233,34 @@ EDG_shiite_Caliph_decree_button_2_scriped_effect = {#逊尼派 宣扬吉哈德
 		}
 	}
 }
-EDG_shiite_Caliph_decree_button_3_scriped_effect = {#逊尼派 钦定教法学派
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-				name = EDG_Caliph_shiite_decree_button_3_modifier_a
-				duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-				name = EDG_Caliph_shiite_decree_button_3_modifier_b
-				duration = 3650 hidden = yes } } }
 
+EDG_shiite_Caliph_decree_button_3_scriped_effect = {
+	#逊尼派 钦定教法学派
 	if = {
-		limit = { religion = shiite }
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_3_modifier_a
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_3_modifier_b
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	if = {
+		limit = {
+			religion = shiite
+		}
 		custom_tooltip = EDG_shiite_Caliph_decree_button_yes
 		custom_tooltip = EDG_shiite_Caliph_decree_3_every_shiite_country_a_tt
 		custom_tooltip = EDG_shiite_Caliph_decree_button_3_tt
@@ -195,26 +276,41 @@ EDG_shiite_Caliph_decree_button_3_scriped_effect = {#逊尼派 钦定教法学�
 						who = ROOT
 						modifier = same_religious_school_relation
 					}
-					our_scholar_matches_their_school_trigger = { school=hanafi }
-					our_scholar_matches_their_school_trigger = { school=hanbali }
-					our_scholar_matches_their_school_trigger = { school=shafii }
-					our_scholar_matches_their_school_trigger = { school=maliki }
-					our_scholar_matches_their_school_trigger = { school=zaidi }
-					our_scholar_matches_their_school_trigger = { school=ismaili }
-					our_scholar_matches_their_school_trigger = { school=jafari }
+					our_scholar_matches_their_school_trigger = {
+						school = hanafi
+					}
+					our_scholar_matches_their_school_trigger = {
+						school = hanbali
+					}
+					our_scholar_matches_their_school_trigger = {
+						school = shafii
+					}
+					our_scholar_matches_their_school_trigger = {
+						school = maliki
+					}
+					our_scholar_matches_their_school_trigger = {
+						school = zaidi
+					}
+					our_scholar_matches_their_school_trigger = {
+						school = ismaili
+					}
+					our_scholar_matches_their_school_trigger = {
+						school = jafari
+					}
 				}
 			}
-			country_event = { id = EDG_flavor_caliphate.5 }
+			country_event = {
+				id = EDG_flavor_caliphate.5
+			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
 		tooltip = {
-			define_advisor = { 
-				type = theologian 
+			define_advisor = {
+				type = theologian
 				religion = shiite
 				cost_multiplier = 0.5
-				skill = 3 
+				skill = 3
 			}
 		}
 	}
@@ -222,49 +318,72 @@ EDG_shiite_Caliph_decree_button_3_scriped_effect = {#逊尼派 钦定教法学�
 		custom_tooltip = EDG_shiite_Caliph_decree_button_no
 		custom_tooltip = EDG_shiite_Caliph_decree_3_every_shiite_country_a_tt
 		custom_tooltip = EDG_shiite_Caliph_decree_button_3_tt
-		
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
 		tooltip = {
-			define_advisor = { 
+			define_advisor = {
 				type = theologian
 				religion = shiite
 				cost_multiplier = 0.5
-				skill = 3 
+				skill = 3
 			}
 		}
 	}
 }
-EDG_shiite_Caliph_decree_button_4_scriped_effect = {#逊尼派 提倡教派交流
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-				name = EDG_Caliph_shiite_decree_button_4_modifier_a
-				duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-				name = EDG_Caliph_shiite_decree_button_4_modifier_b
-				duration = 3650 hidden = yes } } }
 
-
-
+EDG_shiite_Caliph_decree_button_4_scriped_effect = {
+	#逊尼派 提倡教派交流
 	if = {
-		limit = { religion = shiite }
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_4_modifier_a
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_4_modifier_b
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	if = {
+		limit = {
+			religion = shiite
+		}
 		custom_tooltip = EDG_shiite_Caliph_decree_button_yes
 		custom_tooltip = EDG_shiite_Caliph_decree_4_every_shiite_country_a_tt
 		custom_tooltip = EDG_shiite_Caliph_decree_button_4_tt
 		every_country = {
 			limit = {
 				religion = shiite
-				NOT = { tag = ROOT }
+				NOT = {
+					tag = ROOT
+				}
 				NOT = {
 					OR = {
-						has_opinion_modifier = { who = ROOT modifier = religious_school_relation }
-						has_opinion_modifier = { who = ROOT modifier = same_religious_school_relation }
+						has_opinion_modifier = {
+							who = ROOT
+							modifier = religious_school_relation
+						}
+						has_opinion_modifier = {
+							who = ROOT
+							modifier = same_religious_school_relation
+						}
 					}
 				}
 			}
-			country_event = { id = EDG_flavor_caliphate.5 }
+			country_event = {
+				id = EDG_flavor_caliphate.5
+			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -279,8 +398,6 @@ EDG_shiite_Caliph_decree_button_4_scriped_effect = {#逊尼派 提倡教派交�
 		custom_tooltip = EDG_shiite_Caliph_decree_button_no
 		custom_tooltip = EDG_shiite_Caliph_decree_4_every_shiite_country_a_tt
 		custom_tooltip = EDG_shiite_Caliph_decree_button_4_tt
-		
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -294,7 +411,9 @@ EDG_shiite_Caliph_decree_button_4_scriped_effect = {#逊尼派 提倡教派交�
 			every_owned_province = {
 				limit = {
 					religion = shiite
-					NOT = { tag = ROOT }
+					NOT = {
+						tag = ROOT
+					}
 				}
 				add_province_modifier = {
 					name = EDG_Caliph_decree_button_4_province_modifier
@@ -304,16 +423,30 @@ EDG_shiite_Caliph_decree_button_4_scriped_effect = {#逊尼派 提倡教派交�
 		}
 	}
 }
-EDG_shiite_Caliph_decree_button_5_scriped_effect = {#逊尼派 修缮沙利亚法
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-		name = EDG_Caliph_shiite_decree_button_5_modifier_a
-		duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-		name = EDG_Caliph_shiite_decree_button_5_modifier_b
-		duration = 3650 hidden = yes } } }
-	
 
-	
+EDG_shiite_Caliph_decree_button_5_scriped_effect = {
+	#逊尼派 修缮沙利亚法
+	if = {
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_5_modifier_a
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_5_modifier_b
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
 	if = {
 		limit = {
 			religion = shiite
@@ -326,13 +459,16 @@ EDG_shiite_Caliph_decree_button_5_scriped_effect = {#逊尼派 修缮沙利亚�
 		}
 		every_country = {
 			limit = {
-				NOT = { tag = ROOT }
+				NOT = {
+					tag = ROOT
+				}
 				religion = shiite
 				#any_owned_province = { religion = shiite }
 			}
-			country_event = { id = EDG_flavor_caliphate.6 }
+			country_event = {
+				id = EDG_flavor_caliphate.6
+			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -353,14 +489,17 @@ EDG_shiite_Caliph_decree_button_5_scriped_effect = {#逊尼派 修缮沙利亚�
 			}
 			every_country = {
 				limit = {
-					NOT = { tag = ROOT }
+					NOT = {
+						tag = ROOT
+					}
 					religion = shiite
 					#any_owned_province = { religion = shiite }
 				}
-				country_event = { id = EDG_flavor_caliphate.6 }
+				country_event = {
+					id = EDG_flavor_caliphate.6
+				}
 			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -372,7 +511,9 @@ EDG_shiite_Caliph_decree_button_5_scriped_effect = {#逊尼派 修缮沙利亚�
 		}
 		hidden_effect = {
 			every_owned_province = {
-				limit = { religion = shiite }
+				limit = {
+					religion = shiite
+				}
 				add_province_modifier = {
 					name = EDG_Caliph_decree_button_5_b_province_modiffier
 					duration = 3650
@@ -381,21 +522,67 @@ EDG_shiite_Caliph_decree_button_5_scriped_effect = {#逊尼派 修缮沙利亚�
 		}
 	}
 }
-EDG_shiite_Caliph_decree_button_6_scriped_effect = {#逊尼派 鼓励宗教文学
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-		name = EDG_Caliph_shiite_decree_button_6_modifier_a
-		duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-		name = EDG_Caliph_shiite_decree_button_6_modifier_b
-		duration = 3650 hidden = yes } } }
 
-	
-		if = {
+EDG_shiite_Caliph_decree_button_6_scriped_effect = {
+	#逊尼派 鼓励宗教文学
+	if = {
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_6_modifier_a
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_6_modifier_b
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	if = {
+		limit = {
+			religion = shiite
+		}
+		custom_tooltip = EDG_shiite_Caliph_decree_button_yes
+		custom_tooltip = EDG_shiite_Caliph_decree_every_shiite_country_a_tt
+		add_country_modifier = {
+			name = EDG_flavor_caliphate_7_a_modifier
+			duration = 3650
+		}
+		every_country = {
 			limit = {
 				religion = shiite
+				NOT = {
+					tag = ROOT
+				}
 			}
-			custom_tooltip = EDG_shiite_Caliph_decree_button_yes
-			custom_tooltip = EDG_shiite_Caliph_decree_every_shiite_country_a_tt
+			country_event = {
+				id = EDG_flavor_caliphate.7
+			}
+		}
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
+		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
+		tooltip = {
+			define_advisor = {
+				type = artist
+				religion = shiite
+				cost_multiplier = 0.5
+				skill = 3
+			}
+		}
+	}
+	else = {
+		custom_tooltip = EDG_shiite_Caliph_decree_button_no
+		custom_tooltip = EDG_shiite_Caliph_decree_every_shiite_country_a_tt
+		tooltip = {
 			add_country_modifier = {
 				name = EDG_flavor_caliphate_7_a_modifier
 				duration = 3650
@@ -403,59 +590,50 @@ EDG_shiite_Caliph_decree_button_6_scriped_effect = {#逊尼派 鼓励宗教文�
 			every_country = {
 				limit = {
 					religion = shiite
-					NOT = { tag = ROOT }
-				}
-				country_event = { id = EDG_flavor_caliphate.7 }
-			}
-	
-			custom_tooltip = EDG_SPACE_TT
-			custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
-			custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
-			tooltip = {
-				define_advisor = { 
-					type = artist
-					religion = shiite
-					cost_multiplier = 0.5
-					skill = 3 
-				}
-			}
-		}
-		else = {
-			custom_tooltip = EDG_shiite_Caliph_decree_button_no
-			custom_tooltip = EDG_shiite_Caliph_decree_every_shiite_country_a_tt
-			tooltip = {
-				add_country_modifier = {
-					name = EDG_flavor_caliphate_7_a_modifier
-					duration = 3650
-				}
-				every_country = {
-					limit = {
-					religion = shiite
-						NOT = { tag = ROOT }
+					NOT = {
+						tag = ROOT
 					}
-					country_event = { id = EDG_flavor_caliphate.7 }
+				}
+				country_event = {
+					id = EDG_flavor_caliphate.7
 				}
 			}
-	
-			custom_tooltip = EDG_SPACE_TT
-			custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
-			custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
-			define_advisor = { 
-				type = artist
-				religion = shiite
-				cost_multiplier = 0.5
-				skill = 3 
+		}
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
+		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
+		define_advisor = {
+			type = artist
+			religion = shiite
+			cost_multiplier = 0.5
+			skill = 3
+		}
+	}
+}
+
+EDG_shiite_Caliph_decree_button_7_scriped_effect = {
+	#逊尼派 笼络苏菲教团
+	if = {
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_7_modifier_a
+				duration = 3650
+				hidden = yes
 			}
 		}
-}
-EDG_shiite_Caliph_decree_button_7_scriped_effect = {#逊尼派 笼络苏菲教团
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-		name = EDG_Caliph_shiite_decree_button_7_modifier_a
-		duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-		name = EDG_Caliph_shiite_decree_button_7_modifier_b
-		duration = 3650 hidden = yes } } }
-		
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_7_modifier_b
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
 	if = {
 		limit = {
 			religion = shiite
@@ -468,13 +646,16 @@ EDG_shiite_Caliph_decree_button_7_scriped_effect = {#逊尼派 笼络苏菲教�
 		}
 		every_country = {
 			limit = {
-				NOT = { tag = ROOT }
+				NOT = {
+					tag = ROOT
+				}
 				religion = shiite
 				#any_owned_province = { religion = shiite }
 			}
-			country_event = { id = EDG_flavor_caliphate.8 }
+			country_event = {
+				id = EDG_flavor_caliphate.8
+			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -492,14 +673,17 @@ EDG_shiite_Caliph_decree_button_7_scriped_effect = {#逊尼派 笼络苏菲教�
 			}
 			every_country = {
 				limit = {
-					NOT = { tag = ROOT }
+					NOT = {
+						tag = ROOT
+					}
 					religion = shiite
 					#any_owned_province = { religion = shiite }
 				}
-				country_event = { id = EDG_flavor_caliphate.8 }
+				country_event = {
+					id = EDG_flavor_caliphate.8
+				}
 			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -513,15 +697,30 @@ EDG_shiite_Caliph_decree_button_7_scriped_effect = {#逊尼派 笼络苏菲教�
 		}
 	}
 }
-EDG_shiite_Caliph_decree_button_8_scriped_effect = {#逊尼派 	呼吁保护齐米
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-				name = EDG_Caliph_shiite_decree_button_8_modifier_a
-				duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-				name = EDG_Caliph_shiite_decree_button_8_modifier_b
-				duration = 3650 hidden = yes } } }
-	
 
+EDG_shiite_Caliph_decree_button_8_scriped_effect = {
+	#逊尼派 	呼吁保护齐米
+	if = {
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_8_modifier_a
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_8_modifier_b
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
 	if = {
 		limit = {
 			religion = shiite
@@ -534,13 +733,16 @@ EDG_shiite_Caliph_decree_button_8_scriped_effect = {#逊尼派 	呼吁保护齐�
 		}
 		every_country = {
 			limit = {
-				NOT = { tag = ROOT }
+				NOT = {
+					tag = ROOT
+				}
 				religion = shiite
 				#any_owned_province = { religion = shiite }
 			}
-			country_event = { id = EDG_flavor_caliphate.9 }
+			country_event = {
+				id = EDG_flavor_caliphate.9
+			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -565,14 +767,17 @@ EDG_shiite_Caliph_decree_button_8_scriped_effect = {#逊尼派 	呼吁保护齐�
 			}
 			every_country = {
 				limit = {
-					NOT = { tag = ROOT }
+					NOT = {
+						tag = ROOT
+					}
 					religion = shiite
 					#any_owned_province = { religion = shiite }
 				}
-				country_event = { id = EDG_flavor_caliphate.8 }
+				country_event = {
+					id = EDG_flavor_caliphate.8
+				}
 			}
 		}
-
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
 		custom_tooltip = EDG_shiite_Caliph_decree_button_1_b_tt
@@ -584,18 +789,32 @@ EDG_shiite_Caliph_decree_button_8_scriped_effect = {#逊尼派 	呼吁保护齐�
 			estate = estate_edg_copt
 			loyalty = 10
 		}
-		
 	}
 }
-EDG_shiite_Caliph_decree_button_9_scriped_effect = {#逊尼派 举办游行盛典
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
+
+EDG_shiite_Caliph_decree_button_9_scriped_effect = {
+	#逊尼派 举办游行盛典
+	if = {
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
 				name = EDG_Caliph_shiite_decree_button_9_modifier_a
-				duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
 				name = EDG_Caliph_shiite_decree_button_9_modifier_b
-				duration = 3650 hidden = yes } } }
-	
-	
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
 	if = {
 		limit = {
 			religion = shiite
@@ -605,7 +824,6 @@ EDG_shiite_Caliph_decree_button_9_scriped_effect = {#逊尼派 举办游行盛�
 			name = EDG_shiite_Caliph_decree_button_9_scriped_effect_a_modifier
 			duration = 3650
 		}
-		
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
 		custom_tooltip = EDG_shiite_Caliph_decree_button_9_b_tt
@@ -622,7 +840,6 @@ EDG_shiite_Caliph_decree_button_9_scriped_effect = {#逊尼派 举办游行盛�
 				duration = 3650
 			}
 		}
-		
 		custom_tooltip = EDG_SPACE_TT
 		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
 		custom_tooltip = EDG_shiite_Caliph_decree_button_9_b_tt
@@ -631,82 +848,104 @@ EDG_shiite_Caliph_decree_button_9_scriped_effect = {#逊尼派 举办游行盛�
 			add_stability = 1
 		}
 	}
-}	
-EDG_shiite_Caliph_decree_button_10_scriped_effect = {#逊尼派 	授予神圣使命
-	if = { limit = { religion = shiite } event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-		name = EDG_Caliph_shiite_decree_button_10_modifier_a
-		duration = 3650 hidden = yes } } }
-	else = { event_target:EDG_shiite_Caliph_target = { add_country_modifier = {
-		name = EDG_Caliph_shiite_decree_button_10_modifier_b
-		duration = 3650 hidden = yes } } }
-	
-		if = {
-			limit = {
-				religion = shiite
+}
+
+EDG_shiite_Caliph_decree_button_10_scriped_effect = {
+	#逊尼派 	授予神圣使命
+	if = {
+		limit = {
+			religion = shiite
+		}
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_10_modifier_a
+				duration = 3650
+				hidden = yes
 			}
-			custom_tooltip = EDG_shiite_Caliph_decree_button_yes
+		}
+	}
+	else = {
+		event_target:EDG_shiite_Caliph_target = {
+			add_country_modifier = {
+				name = EDG_Caliph_shiite_decree_button_10_modifier_b
+				duration = 3650
+				hidden = yes
+			}
+		}
+	}
+	if = {
+		limit = {
+			religion = shiite
+		}
+		custom_tooltip = EDG_shiite_Caliph_decree_button_yes
+		add_country_modifier = {
+			name = EDG_shiite_Caliph_decree_button_10_scriped_effect_a_modifier
+			duration = 3650
+		}
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
+		custom_tooltip = EDG_shiite_Caliph_decree_button_9_b_tt
+		tooltip = {
 			add_country_modifier = {
 				name = EDG_shiite_Caliph_decree_button_10_scriped_effect_a_modifier
 				duration = 3650
 			}
-			
-			custom_tooltip = EDG_SPACE_TT
-			custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_no
-			custom_tooltip = EDG_shiite_Caliph_decree_button_9_b_tt
-			tooltip = {
-				add_country_modifier = {
-					name = EDG_shiite_Caliph_decree_button_10_scriped_effect_a_modifier
-					duration = 3650
-				}
+		}
+	}
+	else = {
+		custom_tooltip = EDG_shiite_Caliph_decree_button_no
+		tooltip = {
+			add_country_modifier = {
+				name = EDG_shiite_Caliph_decree_button_10_scriped_effect_a_modifier
+				duration = 3650
 			}
 		}
-		else = {
-			custom_tooltip = EDG_shiite_Caliph_decree_button_no
-			tooltip = {
-				add_country_modifier = {
-					name = EDG_shiite_Caliph_decree_button_10_scriped_effect_a_modifier
-					duration = 3650
-				}
+		custom_tooltip = EDG_SPACE_TT
+		custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
+		custom_tooltip = EDG_shiite_Caliph_decree_button_9_b_tt
+		every_country = {
+			limit = {
+				is_subject_of = root
+				religion = shiite
 			}
-			
-			custom_tooltip = EDG_SPACE_TT
-			custom_tooltip = EDG_NOT_shiite_Caliph_decree_button_yes
-			custom_tooltip = EDG_shiite_Caliph_decree_button_9_b_tt
-			every_country = {
-				limit = { is_subject_of = root religion = shiite }
-				add_country_modifier = {
-					name = EDG_sunni_Caliph_decree_button_10_scriped_effect_a_modifier
-					duration = 3650
-				}
+			add_country_modifier = {
+				name = EDG_sunni_Caliph_decree_button_10_scriped_effect_a_modifier
+				duration = 3650
 			}
 		}
+	}
 }
 
-
-
 #互动
-EDG_shiite_Caliph_interaction_button_1_effect = {#保护哈里发
+EDG_shiite_Caliph_interaction_button_1_effect = {
+	#保护哈里发
 	custom_tooltip = EDG_shiite_Caliph_interaction_button_1_effect_tt
 	hidden_effect = {
 		every_province = {
-			limit = { has_province_modifier = EDG_Fatima_Caliphate_province_modifier }
+			limit = {
+				has_province_modifier = EDG_Fatima_Caliphate_province_modifier
+			}
 			remove_province_modifier = EDG_Fatima_Caliphate_province_modifier
 		}
 		capital_scope = {
 			add_permanent_province_modifier = {
-			  name = EDG_Fatima_Caliphate_province_modifier
-			  duration = -1
+				name = EDG_Fatima_Caliphate_province_modifier
+				duration = -1
 			}
 		}
 	}
-    clr_global_flag = EDG_shiite_Caliph_moving_global_flag
+	clr_global_flag = EDG_shiite_Caliph_moving_global_flag
 }
-EDG_shiite_Caliph_interaction_button_2_effect = {#放逐哈里发
+
+EDG_shiite_Caliph_interaction_button_2_effect = {
+	#放逐哈里发
 	custom_tooltip = EDG_shiite_Caliph_interaction_button_2_effect_tt
 	set_global_flag = EDG_shiite_Caliph_moving_global_flag
 	hidden_effect = {
 		every_province = {
-			limit = { has_province_modifier = EDG_Fatima_Caliphate_province_modifier }
+			limit = {
+				has_province_modifier = EDG_Fatima_Caliphate_province_modifier
+			}
 			remove_province_modifier = EDG_Fatima_Caliphate_province_modifier
 		}
 	}
@@ -721,7 +960,9 @@ EDG_shiite_Caliph_interaction_button_2_effect = {#放逐哈里发
 				is_neighbor_of = ROOT
 				religion = shiite
 			}
-			country_event = { id = EDG_flavor_caliphate_shiite.101 }
+			country_event = {
+				id = EDG_flavor_caliphate_shiite.101
+			}
 		}
 	}
 	else_if = {
@@ -735,7 +976,9 @@ EDG_shiite_Caliph_interaction_button_2_effect = {#放逐哈里发
 				is_neighbor_of = ROOT
 				religion_group = muslim
 			}
-			country_event = { id = EDG_flavor_caliphate_shiite.101 }
+			country_event = {
+				id = EDG_flavor_caliphate_shiite.101
+			}
 		}
 	}
 	else_if = {
@@ -750,7 +993,9 @@ EDG_shiite_Caliph_interaction_button_2_effect = {#放逐哈里发
 				religion = shiite
 				culture_group = ROOT
 			}
-			country_event = { id = EDG_flavor_caliphate_shiite.101 }
+			country_event = {
+				id = EDG_flavor_caliphate_shiite.101
+			}
 		}
 	}
 	else_if = {
@@ -765,7 +1010,9 @@ EDG_shiite_Caliph_interaction_button_2_effect = {#放逐哈里发
 				religion_group = muslim
 				culture_group = ROOT
 			}
-			country_event = { id = EDG_flavor_caliphate_shiite.101 }
+			country_event = {
+				id = EDG_flavor_caliphate_shiite.101
+			}
 		}
 	}
 	else_if = {
@@ -778,7 +1025,9 @@ EDG_shiite_Caliph_interaction_button_2_effect = {#放逐哈里发
 			limit = {
 				religion = shiite
 			}
-			country_event = { id = EDG_flavor_caliphate_shiite.101 }
+			country_event = {
+				id = EDG_flavor_caliphate_shiite.101
+			}
 		}
 	}
 	else_if = {
@@ -791,36 +1040,45 @@ EDG_shiite_Caliph_interaction_button_2_effect = {#放逐哈里发
 			limit = {
 				religion_group = muslim
 			}
-			country_event = { id = EDG_flavor_caliphate_shiite.101 }
+			country_event = {
+				id = EDG_flavor_caliphate_shiite.101
+			}
 		}
 	}
 	else = {
 		custom_tooltip = EDG_shiite_Caliph_interaction_button_2_effect_tt_no_possible
 		custom_tooltip = EDG_shiite_Caliph_interaction_button_3_effect_tt
 	}
-	
 }
-EDG_shiite_Caliph_interaction_button_3_effect = {#废黜哈里发
+
+EDG_shiite_Caliph_interaction_button_3_effect = {
+	#废黜哈里发
 	custom_tooltip = EDG_shiite_Caliph_interaction_button_3_effect_tt
 	add_prestige_or_monarch_power = {
 		amount = 25
 	}
 	every_neighbor_country = {
-	  limit = { religion = shiite }
-	  add_opinion = {
-		who = ROOT
-		modifier = EDG_shiite_Caliph_interaction_button_3_effect_opinion_modifier
-	  }
+		limit = {
+			religion = shiite
+		}
+		add_opinion = {
+			who = ROOT
+			modifier = EDG_shiite_Caliph_interaction_button_3_effect_opinion_modifier
+		}
 	}
 	hidden_effect = {
 		every_province = {
-			limit = { has_province_modifier = EDG_Fatima_Caliphate_province_modifier }
+			limit = {
+				has_province_modifier = EDG_Fatima_Caliphate_province_modifier
+			}
 			remove_province_modifier = EDG_Fatima_Caliphate_province_modifier
 		}
 	}
-    clr_global_flag = EDG_shiite_Caliph_moving_global_flag
+	clr_global_flag = EDG_shiite_Caliph_moving_global_flag
 }
-EDG_shiite_Caliph_interaction_button_4_effect = {#篡夺哈里发
+
+EDG_shiite_Caliph_interaction_button_4_effect = {
+	#篡夺哈里发
 	custom_tooltip = EDG_shiite_Caliph_interaction_button_4_effect_tt
 	add_prestige_or_monarch_power = {
 		amount = 25
@@ -830,32 +1088,40 @@ EDG_shiite_Caliph_interaction_button_4_effect = {#篡夺哈里发
 		duration = -1
 	}
 	every_neighbor_country = {
-	  limit = { religion = shiite }
-	  add_opinion = {
-		who = ROOT
-		modifier = EDG_shiite_Caliph_interaction_button_4_effect_opinion_modifier
-	  }
+		limit = {
+			religion = shiite
+		}
+		add_opinion = {
+			who = ROOT
+			modifier = EDG_shiite_Caliph_interaction_button_4_effect_opinion_modifier
+		}
 	}
 	hidden_effect = {
 		every_province = {
-			limit = { has_province_modifier = EDG_Fatima_Caliphate_province_modifier }
+			limit = {
+				has_province_modifier = EDG_Fatima_Caliphate_province_modifier
+			}
 			remove_province_modifier = EDG_Fatima_Caliphate_province_modifier
 		}
 	}
-    clr_global_flag = EDG_shiite_Caliph_moving_global_flag
+	clr_global_flag = EDG_shiite_Caliph_moving_global_flag
 }
-EDG_shiite_Caliph_interaction_button_5_effect = {#软禁哈里发
+
+EDG_shiite_Caliph_interaction_button_5_effect = {
+	#软禁哈里发
 	custom_tooltip = EDG_shiite_Caliph_interaction_button_5_effect_tt
 	every_neighbor_country = {
-	  limit = { religion = shiite }
-	  add_opinion = {
-		who = ROOT
-		modifier = EDG_shiite_Caliph_interaction_button_5_effect_opinion_modifier
-	  }
+		limit = {
+			religion = shiite
+		}
+		add_opinion = {
+			who = ROOT
+			modifier = EDG_shiite_Caliph_interaction_button_5_effect_opinion_modifier
+		}
 	}
 	add_country_modifier = {
 		name = EDG_shiite_Caliph_interaction_button_5_effect_modifier
 		duration = 3650
 	}
-    clr_global_flag = EDG_shiite_Caliph_moving_global_flag
+	clr_global_flag = EDG_shiite_Caliph_moving_global_flag
 }

@@ -808,11 +808,8 @@ rig_main_1_mission_5 = {
 			}
 		}
 		effect = {
-			capital_scope = {
-				add_base_tax = 3
-				add_base_production = 3
-				add_base_manpower = 5
-			}
+			add_manpower = 2
+			add_yearly_manpower = 1
 		}
 	}
 }
@@ -1187,14 +1184,8 @@ rig_main_2_mission_1_expand = {
 			}
 		}
 		effect = {
-			37 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.2
 			}
 		}
 	}
@@ -5931,12 +5922,8 @@ rig_main_7_mission_3 = {
 			}
 		}
 		effect = {
-			294 = {
-				add_province_modifier = {
-					name = rig_world_city_fulcrum
-					duration = -1
-				}
-				change_trade_goods = paper
+			country_event = {
+				id = RigaExpandFlavour.13
 			}
 		}
 	}
@@ -5987,14 +5974,8 @@ rig_main_7_mission_1 = {
 			}
 		}
 		effect = {
-			1 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.5
 			}
 		}
 	}
@@ -6015,15 +5996,8 @@ rig_main_7_mission_1 = {
 			}
 		}
 		effect = {
-			6 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
-				center_of_trade = 1
+			country_event = {
+				id = RigaExpandFlavour.6
 			}
 		}
 	}
@@ -6054,14 +6028,8 @@ rig_main_7_mission_2 = {
 			}
 		}
 		effect = {
-			295 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.10
 			}
 		}
 	}
@@ -6082,14 +6050,8 @@ rig_main_7_mission_2 = {
 			}
 		}
 		effect = {
-			293 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.9
 			}
 		}
 	}
@@ -6242,14 +6204,8 @@ rig_main_7_mission_4 = {
 			}
 		}
 		effect = {
-			279 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.11
 			}
 		}
 	}
@@ -6270,15 +6226,8 @@ rig_main_7_mission_4 = {
 			}
 		}
 		effect = {
-			281 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
-				center_of_trade = 1
+			country_event = {
+				id = RigaExpandFlavour.12
 			}
 		}
 	}
@@ -6390,12 +6339,8 @@ rig_main_7_mission_4 = {
 			}
 		}
 		effect = {
-			262 = {
-				add_province_modifier = {
-					name = rig_world_city_fulcrum
-					duration = -1
-				}
-				change_trade_goods = paper
+			country_event = {
+				id = RigaExpandFlavour.14
 			}
 		}
 	}
@@ -6425,14 +6370,8 @@ rig_main_7_mission_5 = {
 			}
 		}
 		effect = {
-			257 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.8
 			}
 		}
 	}
@@ -6453,15 +6392,8 @@ rig_main_7_mission_5 = {
 			}
 		}
 		effect = {
-			254 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
-				center_of_trade = 1
+			country_event = {
+				id = RigaExpandFlavour.7
 			}
 		}
 	}
@@ -9516,13 +9448,8 @@ rig_main_14_mission_3 = {
 			}
 		}
 		effect = {
-			379 = {
-				add_province_modifier = {
-					name = rig_world_city_fulcrum
-					duration = -1
-				}
-				change_trade_goods = paper
-				center_of_trade = 1
+			country_event = {
+				id = RigaExpandFlavour.25
 			}
 		}
 	}
@@ -9618,12 +9545,8 @@ rig_main_14_mission_2 = {
 			}
 		}
 		effect = {
-			151 = {
-				add_province_modifier = {
-					name = rig_world_city_fulcrum
-					duration = -1
-				}
-				change_trade_goods = paper
+			country_event = {
+				id = RigaExpandFlavour.24
 			}
 		}
 	}
@@ -9709,14 +9632,8 @@ rig_main_14_mission_2 = {
 			}
 		}
 		effect = {
-			326 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.17
 			}
 		}
 	}
@@ -9737,14 +9654,8 @@ rig_main_14_mission_2 = {
 			}
 		}
 		effect = {
-			327 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.18
 			}
 		}
 	}
@@ -9779,12 +9690,8 @@ rig_main_14_mission_4 = {
 			}
 		}
 		effect = {
-			416 = {
-				add_province_modifier = {
-					name = rig_world_city_fulcrum
-					duration = -1
-				}
-				center_of_trade = 1
+			country_event = {
+				id = RigaExpandFlavour.23
 			}
 		}
 	}
@@ -9895,14 +9802,8 @@ rig_main_14_mission_4 = {
 			}
 		}
 		effect = {
-			361 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.19
 			}
 		}
 	}
@@ -9923,14 +9824,8 @@ rig_main_14_mission_4 = {
 			}
 		}
 		effect = {
-			382 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.20
 			}
 		}
 	}
@@ -10031,7 +9926,7 @@ rig_main_15_mission_3 = {
 	}
 	has_country_shield = yes
 	rig_make_the_world_a_city_and_the_city_a_world = { #铸世界为一城铸一城为世界
-		icon = EDG_ICON_
+		icon = EDG_ICON_one_city_on_world
 		position = 25
 		required_missions = {
 			"rig_everything_is_ready"
@@ -10105,14 +10000,8 @@ rig_main_14_mission_1 = {
 			}
 		}
 		effect = {
-			148 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.15
 			}
 		}
 	}
@@ -10133,14 +10022,8 @@ rig_main_14_mission_1 = {
 			}
 		}
 		effect = {
-			146 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.16
 			}
 		}
 	}
@@ -10154,7 +10037,7 @@ rig_main_14_mission_5 = {
 		has_country_flag = rig_look_far_into_the_distance_flag
 	}
 	has_country_shield = yes
-	rig_expand_delanje = { #发展德兰黑
+	rig_expand_delanje = { #发展德黑兰
 		icon = mission_develop_alhambra
 		position = 24
 		provinces_to_highlight = {
@@ -10171,14 +10054,8 @@ rig_main_14_mission_5 = {
 			}
 		}
 		effect = {
-			428 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.21
 			}
 		}
 	}
@@ -10199,14 +10076,8 @@ rig_main_14_mission_5 = {
 			}
 		}
 		effect = {
-			429 = {
-				add_base_tax = 2
-				add_base_production = 2
-				add_base_manpower = 2
-				add_province_modifier = {
-					name = rig_city_expand_project
-					duration = -1
-				}
+			country_event = {
+				id = RigaExpandFlavour.22
 			}
 		}
 	}

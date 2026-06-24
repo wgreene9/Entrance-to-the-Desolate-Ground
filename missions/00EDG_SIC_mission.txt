@@ -3,7 +3,10 @@ EDG_MISSION_SIC_slot_1 = {
 	generic = no
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SIC } 
+	potential = { 
+		tag = SIC
+		always = no
+		 } 
 
 	EDG_MISSION_SIC_1_1 = {
 		icon = mission_alliances
@@ -125,7 +128,11 @@ EDG_MISSION_SIC_slot_2 = {
 	generic = no
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SIC } 
+	potential = { 
+		tag = SIC
+		always = no
+		 } 
+ 
 
 	EDG_MISSION_SIC_2_2 = {
 		icon = mission_autocephalous_archbishopric
@@ -219,7 +226,11 @@ EDG_MISSION_SIC_slot_3 = {
 	generic = no
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SIC } 
+	potential = { 
+		tag = SIC
+		always = no
+		 } 
+
 
 	EDG_MISSION_SIC_3_1 = {
 		icon = byz_aegean_islands
@@ -454,7 +465,11 @@ EDG_MISSION_SIC_slot_4 = {
 	generic = no
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SIC } 
+	potential = { 
+		tag = SIC
+		always = no
+		 } 
+
 
 	EDG_MISSION_SIC_4_2 = {
 		icon = mission_establish_high_seas_navy
@@ -548,7 +563,10 @@ EDG_MISSION_SIC_slot_5 = {
 	generic = no
 	ai = yes
 	has_country_shield = yes
-	potential = { tag = SIC } 
+	potential = { 
+		tag = SIC
+		always = no
+		 } 
 
 	EDG_MISSION_SIC_5_1 = {
 		icon = mission_son_invade_mali

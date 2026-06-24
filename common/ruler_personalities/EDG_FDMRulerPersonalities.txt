@@ -1,0 +1,30 @@
+EDG_FDM_yahya_personality = {
+	ruler_allow = {
+		allow = {
+			always = no
+		}
+	}
+	heir_allow = {
+		allow = {
+			always = no
+		}
+	}
+	consort_allow = {
+		allow = {
+			always = no
+		}
+	}
+	allow = {
+		always = yes
+	}
+	chance = {
+		modifier = {
+			factor = -1
+			ai = no
+		}
+	}
+	nation_designer_cost = 50000
+	shock_damage = 0.25
+	monarch_lifespan = 0.5
+	monthly_EDG_FDM_path_of_rebirth_countdown = 0.5
+}

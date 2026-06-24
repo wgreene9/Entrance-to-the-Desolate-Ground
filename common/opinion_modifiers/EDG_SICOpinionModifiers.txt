@@ -1,0 +1,64 @@
+EDG_SIC_Hellenic_alliance_opinion = {
+	opinion = 75
+}
+EDG_SIC_GRE_Overseas_Territory_opinion = {
+	opinion = 100
+}
+EDG_SIC_GRE_ourhome_opinion = {
+	opinion = 100
+}
+EDG_Hellenic_Methorion_subject_opinion = {
+	opinion = 75
+}
+EDG_Hellenic_Methorion_overlord_opinion = {
+	opinion = 75
+}
+EDG_SIC_supported_MOE_opinion = {
+	opinion = 50
+	yearly_decay = 2
+}
+
+EDG_SIC_rebel_against_BYZ_opinion = {
+	opinion = 25
+	yearly_decay = 2
+}
+
+EDG_SIC_betrayed_Fatimid_opinion = {
+	opinion = -50
+	yearly_decay = 2
+}
+
+EDG_SIC_supported_sicily_opinion = {
+	opinion = 30
+	yearly_decay = 2
+}
+
+EDG_SIC_Fatimid_made_a_deal_opinion = {
+	opinion = 30
+	yearly_decay = 2
+}
+
+EDG_SIC_Sicily_betrayal_opinion = {
+	opinion = -50
+	yearly_decay = 2
+}
+
+EDG_SIC_Trinacria_Coveter_opinion = {
+	opinion = -50
+	yearly_decay = 2
+}
+
+ EDG_SIC_Andreas_Legacy_opinion = {
+	opinion = -50
+	yearly_decay = 2
+}
+
+ EDG_SIC_Angelos_Betrayal_opinion = {
+	opinion = -50
+	yearly_decay = 2
+}
+
+EDG_GRE_support_Noms_opinion = {
+	opinion = 25
+	yearly_decay = -2
+}

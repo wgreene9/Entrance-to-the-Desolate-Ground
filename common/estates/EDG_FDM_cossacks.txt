@@ -1,0 +1,12 @@
+estate_cossacks = {
+	custom_name = {
+		desc = estate_EDG_FDM_cossacks_custom_name
+		trigger = { 
+			tag = FDM
+		}
+	}
+	privileges = {
+		estate_EDG_FDM_fatimids_military_academy
+		estate_EDG_FDM_battlefield_experience
+	}
+}

@@ -1,0 +1,271 @@
+EDG_FDM_penetrate_defense_action = {
+	category = covert
+	require_acceptance = no
+	is_visible = {
+		tag = FDM
+		mission_completed = EDG_FDM_mission_3_2
+	}
+	is_allowed = {
+		FROM = {
+			war_with = ROOT
+		}
+		FROM = {
+			has_spy_network_from = {
+				who = ROOT
+				value = 25
+			}
+		}
+	}
+	on_accept = {
+		add_spy_network_in = {
+			who = FROM
+			value = -25
+		}
+		FROM = {
+			add_country_modifier = {
+				name = EDG_FDM_mission_3_2_modifier_2
+				duration = 3650
+			}
+		}
+	}
+	ai_will_do = {
+		always = no
+	}
+}
+
+EDG_FDM_reduce_hostility_action = {
+	category = covert
+	require_acceptance = no
+	is_visible = {
+		tag = FDM
+		mission_completed = EDG_FDM_mission_3_5
+	}
+	is_allowed = {
+		FROM = {
+			has_opinion_modifier = {
+				who = ROOT
+				modifier = aggressive_expansion
+			}
+		}
+		FROM = {
+			has_spy_network_from = {
+				who = ROOT
+				value = 50
+			}
+		}
+	}
+	on_accept = {
+		add_spy_network_in = {
+			who = FROM
+			value = -50
+		}
+		if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -199
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -100
+				apply_calc = no
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -179
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -90
+				apply_calc = no
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -159
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -80
+				apply_calc = no
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -139
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -70
+				apply_calc = no
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -119
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -60
+				apply_calc = no
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -99
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -50
+				apply_calc = no
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -79
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -40
+				apply_calc = no
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -59
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -30
+				apply_calc = no
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -39
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -20
+				apply_calc = no
+			}
+		}
+		else_if = {
+			limit = {
+				NOT = {
+					reverse_has_opinion_modifier = {
+						who = FROM
+						modifier = aggressive_expansion
+						value = -19
+					}
+				}
+			}
+			reverse_add_aggressive_expansion = {
+				who = FROM
+				value = -10
+				apply_calc = no
+			}
+		}
+	}
+	ai_will_do = {
+		always = no
+	}
+}
+
+EDG_FDM_convert_religion_action = {
+	category = CALIPH
+	require_acceptance = no
+	is_visible = {
+		tag = FDM
+		mission_completed = EDG_FDM_mission_2_15
+		FROM = {
+			religion_group = ROOT
+		}
+		FROM = {
+			NOT = {
+				religion = ROOT
+			}
+		}
+	}
+	is_allowed = {
+		check_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = 25
+		}
+		military_strength = {
+			who = FROM
+			value = 5
+		}
+		FROM = {
+			has_opinion = {
+				who = ROOT
+				value = 100
+			}
+		}
+	}
+	on_accept = {
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = -25
+		}
+		FROM = {
+			change_religion = ROOT
+		}
+	}
+	ai_will_do = {
+		always = no
+	}
+}

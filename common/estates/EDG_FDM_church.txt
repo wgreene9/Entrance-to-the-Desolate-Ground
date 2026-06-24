@@ -1,0 +1,9 @@
+estate_church = {
+	privileges = {
+		estate_EDG_FDM_dynasty_of_minority
+		estate_EDG_FDM_questioned_sacred_lineage
+		estate_EDG_FDM_fund_dar_al_hadith
+		estate_EDG_FDM_fund_madrasas
+		estate_EDG_FDM_sponsor_waqf_payments
+	}
+}

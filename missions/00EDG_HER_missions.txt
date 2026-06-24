@@ -217,6 +217,34 @@ EDG_HER_A1 = {
 				custom_tooltip = EDG_HER_mission_1_1_d_no
 				custom_tooltip = EDG_HER_mission_2_2_tt				#获得一点城市治理经验，当前为§Y[Root.EDG_HER_CITY_EX_var.GetValue]§!。			
 			}
+			if = {
+				limit = {
+					BRI = {
+						alliance_with = root
+					}
+				}
+				custom_tooltip = EDG_HER_mission_1_3_e_yes
+				add_dip_power = 100
+				add_country_modifier = {
+					name = itm_influential_government
+					duration = 7300
+				}
+			}
+			else = {
+				custom_tooltip = EDG_HER_mission_1_3_e_no
+				brittany_area = {
+					limit = {
+						NOT = {
+							is_core = ROOT
+						}
+						NOT = {
+							is_permanent_claim = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+				custom_tooltip = EDG_HER_mission_1_3_e_or 
+			}
 		}
 	}
 	EDG_HER_1_6 = {

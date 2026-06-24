@@ -20,12 +20,19 @@ song = {
 		modifier = {
 			factor = 0
 			NOT = {
-				culture_group = byzantine
+				OR = {
+					culture_group = byzantine
+					culture_group = EDG_Hellenic_group
+				}
 			}
 		}
 		modifier = {
 			factor = 5
-			tag = SUG
+			OR = {
+				tag = SUG
+				tag = GRE
+				tag = SIC
+			}
 		}
 		modifier = {
 			factor = 0
@@ -40,12 +47,19 @@ song = {
 		modifier = {
 			factor = 0
 			NOT = {
-				culture_group = byzantine
+				OR = {
+					culture_group = byzantine
+					culture_group = EDG_Hellenic_group
+				}
 			}
 		}
 		modifier = {
 			factor = 6
-			tag = SUG
+			OR = {
+				tag = SUG
+				tag = GRE
+				tag = SIC
+			}
 		}
 		modifier = {
 			factor = 0
@@ -60,12 +74,19 @@ song = {
 		modifier = {
 			factor = 0
 			NOT = {
-				culture_group = byzantine
+				OR = {
+					culture_group = byzantine
+					culture_group = EDG_Hellenic_group
+				}
 			}
 		}
 		modifier = {
 			factor = 4
-			tag = SUG
+			OR = {
+				tag = SUG
+				tag = GRE
+				tag = SIC
+			}
 		}
 		modifier = {
 			factor = 0
@@ -80,12 +101,19 @@ song = {
 		modifier = {
 			factor = 0
 			NOT = {
-				culture_group = byzantine
+				OR = {
+					culture_group = byzantine
+					culture_group = EDG_Hellenic_group
+				}
 			}
 		}
 		modifier = {
 			factor = 4
-			tag = SUG
+			OR = {
+				tag = SUG
+				tag = GRE
+				tag = SIC
+			}
 		}
 		modifier = {
 			factor = 0
@@ -100,7 +128,10 @@ song = {
 		modifier = {
 			factor = 0
 			NOT = {
-				culture_group = byzantine
+				OR = {
+					culture_group = byzantine
+					culture_group = EDG_Hellenic_group
+				}
 			}
 		}
 		modifier = {
@@ -163,17 +194,26 @@ song = {
 		}
 	}
 }
+
 song = {
 	name = "EDGFYMmusic4"
 	chance = {
 		modifier = {
 			factor = 0
 			OR = {
-				not = { tag = TUR }
-				not = { tag = FYM }
-				not = { tag = PER }
+				not = {
+					tag = TUR
+				}
+				not = {
+					tag = FYM
+				}
+				not = {
+					tag = PER
+				}
 			}
-			not = { has_any_disaster = yes }
+			not = {
+				has_any_disaster = yes
+			}
 		}
 		modifier = {
 			factor = 0
@@ -199,8 +239,8 @@ song = {
 			factor = 0
 			NOT = {
 				AND = {
-				religion_group = christian
-				has_country_modifier = EDG_MEN_music_modifier
+					religion_group = christian
+					has_country_modifier = EDG_MEN_music_modifier
 				}
 			}
 		}
@@ -243,12 +283,16 @@ song = {
 	chance = {
 		modifier = {
 			factor = 0
-			not = { primary_culture = turkish }
+			not = {
+				primary_culture = turkish
+			}
 		}
 		modifier = {
 			factor = 2
 			is_at_war = yes
-			not = { is_year = 1500 }
+			not = {
+				is_year = 1500
+			}
 		}
 		modifier = {
 			factor = 2
@@ -276,6 +320,162 @@ song = {
 
 song = {
 	name = "Powerwolf_2"
+	chance = {
+		modifier = {
+			factor = 1.5
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 1.5
+			has_any_disaster = yes
+		}
+	}
+}
+
+song = {
+	name = "Gate_Of_Arabia"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = turko_semitic
+					culture_group = maghrebi
+					culture_group = iranian
+				}
+			}
+		}
+	}
+	chance = {
+		modifier = {
+			factor = 1.5
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 1.5
+			has_any_disaster = yes
+		}
+	}
+}
+
+song = {
+	name = "Istanbul"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = turko_semitic
+					culture_group = maghrebi
+					culture_group = iranian
+				}
+			}
+		}
+	}
+	chance = {
+		modifier = {
+			factor = 1.5
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 1.5
+			has_any_disaster = yes
+		}
+	}
+}
+
+song = {
+	name = "Palm_Tree_Oasis"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = turko_semitic
+					culture_group = maghrebi
+					culture_group = iranian
+				}
+			}
+		}
+	}
+	chance = {
+		modifier = {
+			factor = 1.5
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 1.5
+			has_any_disaster = yes
+		}
+	}
+}
+
+song = {
+	name = "Queen_Zenobia"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = turko_semitic
+					culture_group = maghrebi
+					culture_group = iranian
+				}
+			}
+		}
+	}
+	chance = {
+		modifier = {
+			factor = 1.5
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 1.5
+			has_any_disaster = yes
+		}
+	}
+}
+
+song = {
+	name = "Saladin"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = turko_semitic
+					culture_group = maghrebi
+					culture_group = iranian
+				}
+			}
+		}
+	}
+	chance = {
+		modifier = {
+			factor = 1.5
+			is_at_war = yes
+		}
+		modifier = {
+			factor = 1.5
+			has_any_disaster = yes
+		}
+	}
+}
+
+song = {
+	name = "The_Sultans_Throne"
+	chance = {
+		modifier = {
+			factor = 0
+			NOT = {
+				OR = {
+					culture_group = turko_semitic
+					culture_group = maghrebi
+					culture_group = iranian
+				}
+			}
+		}
+	}
 	chance = {
 		modifier = {
 			factor = 1.5

@@ -1,0 +1,288 @@
+########################################
+# EDG - 法蒂玛王朝改革
+########################################
+EDG_FDM_Fatima_caliph_reform = {
+	#法蒂玛哈里发国
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	lock_level_when_selected = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		governing_capacity = 200
+		manpower_in_true_faith_provinces = 0.1
+		manpower_in_own_culture_provinces = 0.1
+		warscore_cost_vs_other_religion = -0.1
+	}
+	queen = no
+	custom_attributes = {
+		EDG_caliph_yes_ability = yes		#是哈里发国
+		enables_divine_idea_group = yes
+		enables_aristocratic_idea_group = yes
+		upgrade_feudal_theocracy = yes
+	}
+	conditional = {
+		allow = {
+			has_dlc = "Cradle of Civilization"
+		}
+		government_abilities = {
+			EDG_FDM_path_of_rebirth_mechanic
+			# EDG_FDM_scale_of_imam_mechanic
+			feudal_theocracy_mechanic
+		}
+	}
+	maintain_dynasty = yes
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_provincial_supervision_reform = {
+	#行省监察制
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		nobles_influence_modifier = -0.1
+		state_governing_cost = -0.1
+		army_tradition = 0.5
+	}
+	custom_attributes = {
+		seizing_land_no_rebels = yes
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_wazir_centered_bureaucracy_reform = {
+	#维齐尔专政
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		governing_capacity_modifier = 0.1
+		advisor_cost = -0.25
+		country_admin_power = 1
+	}
+	custom_attributes = {
+		centralize_state_half_refund = yes
+		centralize_state_development = yes
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_multicultural_guard_reform = {
+	#职业军体系
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		army_tradition = 1
+		army_tradition_decay = -0.01
+		fire_damage_received = -0.2
+		land_maintenance_modifier = 0.25
+		reinforce_cost_modifier = 0.25
+	}
+	custom_attributes = {
+		recruiting_general_gives_army_tradition = yes
+		mercs_do_not_cost_army_professionalism = yes
+		winning_battles_increases_legitimacy = yes
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_diwan_centralization_reform = {
+	#迪万中央集权
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		governing_capacity = 100
+		yearly_corruption = -0.25
+		all_estate_loyalty_equilibrium = 0.1
+		global_autonomy = -0.1
+	}
+	custom_attributes = {
+		
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_dawah_intellectualism_reform = {
+	#伊斯兰学术传统
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		technology_cost = -0.1
+		idea_cost = -0.1
+		global_institution_spread = 0.25
+	}
+	custom_attributes = {
+		improved_defender_of_faith = yes
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_majlis_al_shura_reform = {
+	#舒拉会议
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		governing_capacity = 100
+		church_loyalty_modifier = 0.1
+		burghers_loyalty_modifier = 0.1
+		development_cost_in_primary_culture = -0.1
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_mediterranean_hub_reform = {
+	#地中海枢纽
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		trade_efficiency = 0.1
+		trade_range_modifier = 0.25
+		merchants = 1
+		global_prov_trade_power_modifier = 0.1
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_ismaili_rationalism_reform = {
+	#伊斯玛仪理性论
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		yearly_absolutism = 2
+		max_absolutism = 25
+		global_unrest = -2
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_constitutional_caliphate_reform = {
+	#宪政哈里发
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		administrative_efficiency = 0.05
+		possible_policy = 1
+		free_policy = 1
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}
+
+EDG_FDM_dualist_judicial_executive_reform = {
+	#司法行政二元制
+	icon = "FDM_1"
+	allow_normal_conversion = yes
+	potential = {
+		tag = FDM
+		religion = shiite
+	}
+	trigger = {
+		tag = FDM
+		religion = shiite
+	}
+	modifiers = {
+		stability_cost_modifier = -0.25
+		overextension_impact_modifier = -0.25
+		all_estate_loyalty_equilibrium = 0.1
+		monarch_admin_power = 1
+	}
+	ai = {
+		factor = 400		#generic
+	}
+}

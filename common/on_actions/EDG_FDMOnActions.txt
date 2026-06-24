@@ -1,0 +1,551 @@
+on_startup = {
+	events = {
+		EDG_FDMEvents.59
+	}
+}
+
+on_yearly_pulse = {
+	if = {
+		limit = {
+			NOT = {
+				has_global_flag = EDG_FDM_enable_achievement_flag
+			}
+			any_country = {
+				has_country_modifier = difficulty_very_hard_ai
+			}
+		}
+		set_global_flag = EDG_FDM_enable_achievement_flag
+	}
+}
+
+on_province_owner_change = {
+	if = {
+		limit = {
+			province_id = 361
+			owned_by = FDM
+		}
+		owner = {
+			country_event = {
+				id = EDG_FDMEvents.8
+			}
+		}
+	}
+	owner = {
+		if = {
+			limit = {
+				ROOT = {
+					is_city = yes
+				}
+				tag = FDM
+				OR = {
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+					has_country_flag = EDG_FDM_path_of_rebirth_disaster_ended_flag_1
+				}
+			}
+			if = {
+				limit = {
+					mission_completed = EDG_FDM_mission_1_4
+				}
+				add_treasury = 25
+			}
+			if = {
+				limit = {
+					mission_completed = EDG_FDM_mission_2_4
+				}
+				add_manpower = 0.5
+			}
+			if = {
+				limit = {
+					mission_completed = EDG_FDM_mission_3_4
+				}
+				add_adm_power = 5
+			}
+			if = {
+				limit = {
+					mission_completed = EDG_FDM_mission_4_4
+				}
+				add_dip_power = 5
+			}
+			if = {
+				limit = {
+					mission_completed = EDG_FDM_mission_5_4
+				}
+				add_mil_power = 5
+			}
+			if = {
+				limit = {
+					mission_completed = EDG_FDM_mission_2_5
+				}
+				add_prestige = 1
+			}
+			if = {
+				limit = {
+					mission_completed = EDG_FDM_mission_3_5
+				}
+				add_legitimacy = 1
+			}
+			if = {
+				limit = {
+					mission_completed = EDG_FDM_mission_4_5
+				}
+				add_splendor = 5
+			}
+			if = {
+				limit = {
+					mission_completed = EDG_FDM_mission_3_6
+				}
+				change_government_reform_progress = 2
+			}
+		}
+	}
+}
+
+on_siege_lost_province = {
+	if = {
+		limit = {
+			has_province_modifier = EDG_Abbasid_Caliphate_province_modifier
+			FROM = {
+				tag = FDM
+			}
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.9
+			}
+		}
+	}
+	if = {
+		limit = {
+			province_id = 341
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.98
+			}
+		}
+	}
+	if = {
+		limit = {
+			province_id = 344
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.99
+			}
+		}
+	}
+	if = {
+		limit = {
+			province_id = 343
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.100
+			}
+		}
+	}
+	if = {
+		limit = {
+			province_id = 225
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.101
+			}
+		}
+	}
+	if = {
+		limit = {
+			province_id = 358
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.102
+			}
+		}
+	}
+	if = {
+		limit = {
+			province_id = 379
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.103
+			}
+		}
+	}
+	if = {
+		limit = {
+			province_id = 384
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.104
+			}
+		}
+	}
+	if = {
+		limit = {
+			province_id = 385
+		}
+		FROM = {
+			country_event = {
+				id = EDG_FDMEvents.105
+			}
+		}
+	}
+	if = {
+		limit = {
+			owner = {
+				is_in_war = {
+					attacker_leader = FROM
+					defenders = THIS
+					casus_belli = EDG_FDM_imam_jihad_cb
+				}
+			}
+			area_for_scope_province = {
+				type = all
+				OR = {
+					owner = {
+						NOT = {
+							war_with = FROM
+						}
+					}
+					NOT = {
+						fort_level = 1
+					}
+					controller = {
+						OR = {
+							tag = REB
+							tag = FROM
+							is_subject_of = FROM
+							alliance_with = FROM
+						}
+					}
+				}
+			}
+		}
+		area = {
+			change_controller = FROM
+		}
+	}
+}
+
+on_battle_won_country = {
+	if = {
+		limit = {
+			mission_completed = EDG_FDM_mission_2_21
+			NOT = {
+				religion = FROM
+			}
+		}
+		change_variable = {
+			which = EDG_shiite_Caliph_authority_var
+			value = 1
+		}
+	}
+}
+
+on_war_won = {
+	if = {
+		limit = {
+			tag = FDM
+			NOT = {
+				religion = FROM
+			}
+		}
+		change_variable = {
+			which = EDG_FDM_war_won_heretic_and_heathen_var
+			value = 1
+		}
+		if = {
+			limit = {
+				mission_completed = EDG_FDM_mission_2_21
+			}
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 5
+			}
+		}
+	}
+}
+
+on_naval_barrage = {
+	if = {
+		limit = {
+			mission_completed = EDG_FDM_mission_5_18
+		}
+		add_mil_power = 5
+		add_navy_tradition = 0.5
+	}
+}
+
+on_core = {
+	FROM = {
+		if = {
+			limit = {
+				mission_completed = EDG_FDM_mission_3_9
+			}
+			change_variable = {
+				which = EDG_shiite_Caliph_authority_var
+				value = 1
+			}
+		}
+		if = {
+			limit = {
+				mission_completed = EDG_FDM_mission_2_10
+			}
+			ROOT = {
+				add_local_autonomy = -25
+			}
+		}
+		if = {
+			limit = {
+				mission_completed = EDG_FDM_mission_3_10
+			}
+			ROOT = {
+				add_nationalism = -10
+			}
+		}
+		if = {
+			limit = {
+				mission_completed = EDG_FDM_mission_4_10
+			}
+			ROOT = {
+				add_devastation = -10
+			}
+		}
+	}
+}
+
+on_province_religion_converted = {
+	if = {
+		limit = {
+			owner = {
+				mission_completed = EDG_FDM_mission_2_11
+			}
+		}
+		add_random_development = 1
+	}
+}
+
+on_adm_exploited = {
+	if = {
+		limit = {
+			owner = {
+				mission_completed = EDG_FDM_mission_5_24
+			}
+		}
+		add_base_tax = -1
+		add_base_production = 1
+		add_base_manpower = 1
+	}
+}
+
+on_dip_exploited = {
+	if = {
+		limit = {
+			owner = {
+				mission_completed = EDG_FDM_mission_5_24
+			}
+		}
+		add_base_tax = 1
+		add_base_production = -1
+		add_base_manpower = 1
+	}
+}
+
+on_mil_exploited = {
+	if = {
+		limit = {
+			owner = {
+				mission_completed = EDG_FDM_mission_5_24
+			}
+		}
+		add_base_tax = 1
+		add_base_production = 1
+		add_base_manpower = -1
+	}
+}
+
+on_adm_development = {
+	if = {
+		limit = {
+			owner = {
+				tag = FDM
+				has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			}
+		}
+		if = {
+			limit = {
+				culture = algerian
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_1
+					value = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				culture = tunisian
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_2
+					value = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				culture = moroccan
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_3
+					value = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				culture = berber
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_4
+					value = 1
+				}
+			}
+		}
+	}
+}
+
+on_dip_development = {
+	if = {
+		limit = {
+			owner = {
+				tag = FDM
+				has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			}
+		}
+		if = {
+			limit = {
+				culture = algerian
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_1
+					value = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				culture = tunisian
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_2
+					value = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				culture = moroccan
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_3
+					value = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				culture = berber
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_4
+					value = 1
+				}
+			}
+		}
+	}
+}
+
+on_mil_development = {
+	if = {
+		limit = {
+			owner = {
+				tag = FDM
+				has_disaster = EDG_FDM_egyptian_in_name_only_disaster
+			}
+		}
+		if = {
+			limit = {
+				culture = algerian
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_1
+					value = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				culture = tunisian
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_2
+					value = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				culture = moroccan
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_3
+					value = 1
+				}
+			}
+		}
+		if = {
+			limit = {
+				culture = berber
+			}
+			owner = {
+				change_variable = {
+					which = EDG_FDM_egyptian_in_name_only_disaster_variable_4
+					value = 1
+				}
+			}
+		}
+	}
+}
+
+on_new_monarch = {
+	if = {
+		limit = {
+			mission_completed = EDG_FDM_mission_2_14
+		}
+		country_event = {
+			id = EDG_FDMEvents.70
+		}
+	}
+}
+
+on_monarch_death = {
+	events = {
+		EDG_FDMEvents.89
+	}
+}

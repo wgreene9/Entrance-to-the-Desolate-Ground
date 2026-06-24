@@ -1,0 +1,15 @@
+estate_nomadic_tribes = {
+	custom_name = {
+		desc = estate_EDG_Berber_tribes_name
+		trigger = {
+			tag = FDM
+		}
+	}
+	privileges = {
+		estate_EDG_FDM_berber_mamluks_cavalry_1
+		estate_EDG_FDM_berber_mamluks_cavalry_2
+		estate_EDG_FDM_berber_mamluks_cavalry_3
+		estate_EDG_FDM_berber_mamluks_cavalry_4
+		estate_EDG_FDM_berber_turkish_artillery
+	}
+}

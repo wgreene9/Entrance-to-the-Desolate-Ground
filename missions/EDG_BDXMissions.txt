@@ -1245,16 +1245,21 @@ EDG_BDX_mission_2 = {
 				custom_tooltip = EDG_BDX_mission_egypt_tt2
 			}
 			hidden_effect = {
-				358 = {
-					change_religion = EDG_Nestorianism
-					add_reform_center = EDG_Nestorianism
-				}
-				egypt_region = {
+				if = {
 					limit = {
-						country_or_non_sovereign_subject_holds = ROOT
-						religion = coptic
+						religion = EDG_Nestorianism
 					}
-					change_religion = EDG_Nestorianism
+					358 = {
+						change_religion = EDG_Nestorianism
+						add_reform_center = EDG_Nestorianism
+					}
+					egypt_region = {
+						limit = {
+							country_or_non_sovereign_subject_holds = ROOT
+							religion = coptic
+						}
+						change_religion = EDG_Nestorianism
+					}
 				}
 			}
 		}

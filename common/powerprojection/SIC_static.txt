@@ -1,0 +1,19 @@
+EDG_GRE_Reunify_Hellas = {#统一家园
+	max = 10
+	min = 0
+	power = 1
+	decay = no
+}
+EDG_GRE_Alexandar = {#亚历山大真嗣
+	max = 25
+	min = 0
+	power = 1
+	decay = no
+}
+
+EDG_SIC_Unify_Sicily = {#统一两西西里
+	max = 10
+	min = 0
+	power = 1
+	decay = no
+}

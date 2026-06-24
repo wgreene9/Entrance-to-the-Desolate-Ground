@@ -21,13 +21,13 @@ guiTypes = {
 			position = { x = 16 y = 5 }
 			alwaystransparent = yes
 		}	
-		### interaction button
 	}
 }
+
 guiTypes = {
 	windowType = { # Copied and adjusted from government_interaction_type, visible as the interaction specifies this, has cost_type specified to the power, and the power doesn't have a UI
 		name = "EDG_Syracusae_Greek_Fire_mechanic_gui"
-		size = { x = 400 y = 120 }
+		size = { x = 400 y = 160 }
 		backGround = ""
 		moveable = 1
 		dontRender = ""
@@ -47,9 +47,17 @@ guiTypes = {
 			position = { x = 16 y = 5 }
 			alwaystransparent = yes
 		}	
+		### interaction button
+		guiButtonType = {
+			name = "government_interaction_button"
+			quadTextureSprite = "GFX_prussian_militarization_upgrade"
+			position = { x = -100 y = -50 }
+			buttonFont = "vic_18"
+			clicksound = back_click
+		}
 	}
 	windowType = {
-		name = "habsburg_glory_interaction"
+		name = "EDG_SIC_Syracusae_military_government_Interaction_gui"
 		size = { x = 100 y = 100 }
 		moveable = 1
 

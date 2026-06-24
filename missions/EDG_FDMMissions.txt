@@ -1,0 +1,4989 @@
+EDG_FDM_mission_1 = {
+	slot = 1
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = FDM
+	}
+	EDG_FDM_mission_1_2 = {
+		icon = mission_explore_the_world
+		position = 2
+		required_missions = {
+			EDG_FDM_mission_2_1
+		}
+		provinces_to_highlight = {
+			area = macaronesia_area
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_explorers = 1
+			has_naval_doctrine = any
+			macaronesia_area = {
+				type = all
+				has_discovered = ROOT
+				OR = {
+					is_city = no
+					owned_by = ROOT
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					any_owned_province = {
+						culture = EDG_FDM_maghrebi_culture
+					}
+				}
+				macaronesia_area = {
+					change_culture = EDG_FDM_maghrebi_culture
+					change_religion = ROOT
+					cede_province = ROOT
+					add_core = ROOT
+				}
+			}
+			else = {
+				macaronesia_area = {
+					change_culture = berber
+					change_religion = ROOT
+					cede_province = ROOT
+					add_core = ROOT
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_1_4 = {
+		icon = mission_the_sultan_of_morocco
+		position = 4
+		required_missions = {
+			EDG_FDM_mission_3_3
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 4562
+				province_id = 2465
+				province_id = 335
+				province_id = 4561
+				province_id = 334
+				province_id = 4563
+				province_id = 343
+				province_id = 2467
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			NOT = {
+				exists = FEZ
+			}
+			owns_core_province = 4562
+			owns_core_province = 2465
+			owns_core_province = 335
+			owns_core_province = 4561
+			owns_core_province = 334
+			owns_core_province = 4563
+			owns_core_province = 343
+			owns_core_province = 2467
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_1_4_modifier"
+				duration = 9125
+			}
+			country_event = {
+				id = EDG_FDMEvents.2
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_path_of_rebirth_disaster_bonus_tt_1
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_1_6 = {
+		icon = mission_consolidate_the_state
+		position = 6
+		required_missions = {
+			EDG_FDM_mission_2_5
+		}
+		provinces_to_highlight = {
+			region = iberia_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 30
+				region = iberia_region
+			}
+			owns_core_province = 225
+			NOT = {
+				exists = CIE
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_6_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = EDG_FDMEvents.12
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_1_9 = {
+		icon = mam_ethiopia
+		position = 9
+		required_missions = {
+			EDG_FDM_mission_1_6
+			EDG_FDM_mission_3_8
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = red_sea_coast_area
+				area = lower_nubia_area
+				area = dongola_area
+				area = upper_nubia_area
+				area = sennar_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 10
+				OR = {
+					area = red_sea_coast_area
+					area = lower_nubia_area
+					area = dongola_area
+					area = upper_nubia_area
+					area = sennar_area
+				}
+			}
+		}
+		effect = {
+			change_estate_land_share = {
+				estate = all
+				share = -5
+			}
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = flavor_mam.105
+			}
+			custom_tooltip = flavor_mam.105_tt
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = EDG_FDM_mission_1_9_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_1_10 = {
+		icon = mission_restore_trade_superiority
+		position = 10
+		required_missions = {
+			EDG_FDM_mission_1_9
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = tigray_area
+				area = central_ethiopia_area
+				area = aussa_area
+				area = damot_area
+				area = southern_ethiopia_area
+				area = shewa_area
+				area = hadiya_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 15
+				OR = {
+					area = tigray_area
+					area = central_ethiopia_area
+					area = aussa_area
+					area = damot_area
+					area = southern_ethiopia_area
+					area = shewa_area
+					area = hadiya_area
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_10_tt_1
+			hidden_effect = {
+				for = {
+					amount = 10
+					effect = "
+						random_owned_province = {
+							limit = {
+								religion = coptic
+							}
+							change_religion = shiite
+						}
+					"
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			unlock_estate_privilege = {
+				estate_privilege = estate_burghers_control_over_the_mint
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_1_10_tt_2
+				first_limit = "
+					all_country = {
+						NOT = {
+							religion = coptic
+						}
+					}
+				"
+				first_effect = "
+					add_country_modifier = {
+						name = EDG_FDM_mission_1_10_modifier
+						duration = -1
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_1_11 = {
+		icon = mission_unite_west_india
+		position = 11
+		required_missions = {
+			EDG_FDM_mission_1_10
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = ifat_area
+				area = ogaden_area
+				area = somaliland_area
+				area = majarteen_area
+				area = ajuuran_area
+				area = mogadishu_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 14
+				OR = {
+					area = ifat_area
+					area = ogaden_area
+					area = somaliland_area
+					area = majarteen_area
+					area = ajuuran_area
+					area = mogadishu_area
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_11_tt_1
+			hidden_effect = {
+				africa = {
+					limit = {
+						has_discovered = ROOT
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_1_13 = {
+		icon = per_muslim_integration
+		position = 13
+		trigger = {
+			NOT = {
+				has_estate_privilege = estate_EDG_FDM_dynasty_of_minority
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_13_tt_1
+			set_country_flag = improved_expansionist_zealotry
+		}
+	}
+	EDG_FDM_mission_1_15 = {
+		icon = mission_secure_hajj_ports
+		position = 15
+		required_missions = {
+			EDG_FDM_mission_2_14
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 384
+				province_id = 385
+			}
+		}
+		trigger = {
+			384 = {
+				owned_by = ROOT
+				is_core = ROOT
+				controlled_by = ROOT
+				development = 25
+				has_tax_building_trigger = yes
+			}
+			385 = {
+				owned_by = ROOT
+				is_core = ROOT
+				controlled_by = ROOT
+				development = 25
+				has_tax_building_trigger = yes
+			}
+		}
+		effect = {
+			384 = {
+				upgrade_tax_building = yes
+				add_permanent_province_modifier = {
+					name = geo_restore_holy_city
+					duration = -1
+				}
+				add_permanent_province_modifier = {
+					name = geo_restore_holy_city2
+					duration = -1
+				}
+			}
+			385 = {
+				upgrade_tax_building = yes
+				add_permanent_province_modifier = {
+					name = geo_restore_holy_city
+					duration = -1
+				}
+				add_permanent_province_modifier = {
+					name = geo_restore_holy_city2
+					duration = -1
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_1_15_tt_1
+		}
+	}
+	EDG_FDM_mission_1_16 = {
+		icon = per_unify_the_shia_realms
+		position = 16
+		required_missions = {
+			EDG_FDM_mission_1_15
+		}
+		trigger = {
+			OR = {
+				piety = 0.9
+				NOT = {
+					piety = -0.89
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_16_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			simple_dynamic_effect = {
+				first_custom_tooltip = ARB_if_legalism
+				first_limit = "
+					piety = 0.9
+				"
+				first_effect = "
+					set_country_flag = ARB_buff_enforce_religious_unity_flag
+					custom_tooltip = ARB_buff_enforce_religious_unity
+					hidden_effect = {
+						if = {
+							limit = { has_ruler_modifier = muslim_enforced_religion }
+							remove_country_modifier = muslim_enforced_religion
+							add_ruler_modifier = { name = muslim_enforced_religion duration = -1 }
+						}
+					}
+				"
+				second_custom_tooltip = ARB_if_mysticism
+				second_limit = "
+					NOT = { piety = -0.89 }
+				"
+				second_effect = "
+					custom_tooltip = ARB_grant_access_to_muslim_holy_orders
+					set_country_flag = ARB_grant_access_to_muslim_holy_orders_flag
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_1_18 = {
+		icon = professional_army
+		position = 18
+		provinces_to_highlight = {
+			OR = {
+				culture = berber
+				culture = EDG_FDM_maghrebi_culture
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			OR = {
+				development_in_provinces = {
+					value = 100
+					culture = berber
+				}
+				development_in_provinces = {
+					value = 250
+					culture = EDG_FDM_maghrebi_culture
+				}
+			}
+			OR = {
+				AND = {
+					num_of_cavalry = 25
+					cavalry_fraction = 0.75
+				}
+				AND = {
+					num_of_cavalry = 50
+					cavalry_fraction = 0.5
+				}
+				num_of_cavalry = 75
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_18_tt_1
+			hidden_effect = {
+				enable_estate_effect = {
+					estate = estate_nomadic_tribes
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_1_18_modifier_1"
+				duration = -1
+			}
+			add_country_modifier = {
+				name = "EDG_FDM_mission_1_18_modifier_2"
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_1_18_tt_2
+				first_limit = "
+					has_age_ability = ab_cavalry_armies
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_1_18_tt_3
+					set_country_flag = EDG_FDM_mission_1_18_flag
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_1_19 = {
+		icon = mission_non-western_cavalry_raid
+		position = 19
+		required_missions = {
+			EDG_FDM_mission_1_18
+		}
+		provinces_to_highlight = {
+			OR = {
+				is_core = CIO
+				is_core = ALX
+				is_core = MAM
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			primary_culture = al_misr_arabic
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_mission_1_19_tt_1
+				owns_all_provinces = {
+					OR = {
+						is_core = CIO
+						is_core = ALX
+						is_core = MAM
+					}
+				}
+			}
+			num_of_cavalry = 50
+			cavalry_fraction = 0.75
+		}
+		effect = {
+			add_army_tradition_or_mil_power = {
+				amount = 15
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_1_19_tt_2
+			hidden_effect = {
+				every_owned_province = {
+					remove_core = CIO
+					remove_core = ALX
+					remove_core = MAM
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_1_19_tt_3
+		}
+	}
+	EDG_FDM_mission_1_20 = {
+		icon = mission_cossack_cavalry
+		position = 20
+		required_missions = {
+			EDG_FDM_mission_1_19
+		}
+		trigger = {
+			land_forcelimit = 200
+			num_of_cavalry = 150
+			NOT = {
+				num_of_infantry = 1
+			}
+			num_of_regiments_at_full_drill = 75
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_1_20_modifier"
+				duration = -1
+			}
+			custom_tooltip = EDG_FDM_mission_1_20_tt_1
+			set_country_flag = EDG_ERS_mission_18_2_2_flag
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_1_20_tt_2
+		}
+	}
+	EDG_FDM_mission_1_21 = {
+		icon = mam_recruit_the_mamluks
+		position = 21
+		required_missions = {
+			EDG_FDM_mission_1_20
+			EDG_FDM_mission_2_20
+		}
+		provinces_to_highlight = {
+			trade_goods = livestock
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 30
+				trade_goods = livestock
+			}
+			num_of_cavalry = 250
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_21_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_1_21_tt_2
+		}
+	}
+	EDG_FDM_mission_1_23 = {
+		icon = balance_the_estates
+		position = 23
+		trigger = {
+			has_estate_privilege = estate_church_religious_state
+			has_estate_privilege = estate_nobles_nobility_primacy
+			has_estate_privilege = estate_burghers_land_of_commerce
+		}
+		effect = {
+			add_estate_loyalty = {
+				estate = all
+				loyalty = 20
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_1_23_tt_1
+				first_limit = "
+					has_estate_privilege = estate_nobles_statutory_rights
+				"
+				first_effect = "
+					remove_estate_privilege = estate_nobles_statutory_rights
+				"
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_1_23_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_1_24 = {
+		icon = mission_renovate_kannauj
+		position = 24
+		required_missions = {
+			EDG_FDM_mission_1_23
+		}
+		trigger = {
+			adm_tech = 7
+			has_reform = EDG_FDM_diwan_centralization_reform
+			OR = {
+				full_idea_group = administrative_ideas
+				full_idea_group = EDG_caliph_ideas
+			}
+		}
+		effect = {
+			change_government_reform_progress = 200
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_1_24_tt_1
+				first_limit = "
+					has_estate_privilege = estate_nobles_supremacy_over_crown
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_1_24_tt_2
+				"
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_1_24_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_1_25 = {
+		icon = a_strong_government
+		position = 25
+		required_missions = {
+			EDG_FDM_mission_1_24
+			EDG_FDM_mission_2_24
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 50
+				has_courthouse_building_trigger = yes
+			}
+		}
+		effect = {
+			change_estate_land_share = {
+				estate = all
+				share = -10
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_1_25_tt_1
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						has_building = courthouse
+					}
+					upgrade_courthouse_building = yes
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_1_26 = {
+		icon = immaculate_government
+		position = 26
+		required_missions = {
+			EDG_FDM_mission_1_25
+			EDG_FDM_mission_2_25
+		}
+		trigger = {
+			OR = {
+				has_completed_all_reforms_trigger = yes
+				reform_level = 11
+				has_reform = EDG_FDM_dualist_judicial_executive_reform
+			}
+			num_of_owned_provinces_with = {
+				value = 200
+				has_courthouse_building_trigger = yes
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_1_26_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_1_28 = {
+		icon = mission_non-western_cavalry_raid
+		position = 28
+		required_missions = {
+			EDG_FDM_mission_2_27
+		}
+		provinces_to_highlight = {
+			OR = {
+				culture_group = slavic
+				culture_group = east_slavic
+				culture_group = west_slavic
+				culture_group = south_slavic
+				culture_group = carpathian
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 75
+				OR = {
+					culture_group = slavic
+					culture_group = east_slavic
+					culture_group = west_slavic
+					culture_group = south_slavic
+					culture_group = carpathian
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_28_tt_1
+			tooltip = {
+				add_treasury = 25
+				add_manpower = 1
+				add_prestige_or_monarch_power = {
+					amount = 2
+				}
+			}
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						OR = {
+							culture_group = slavic
+							culture_group = east_slavic
+							culture_group = west_slavic
+							culture_group = south_slavic
+							culture_group = carpathian
+						}
+					}
+					ROOT = {
+						add_treasury = 25
+						add_manpower = 1
+						add_prestige_or_monarch_power = {
+							amount = 2
+						}
+					}
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_1_28_tt_2
+			pick_best_provinces = {
+				global_trigger = "
+					OR = {
+						culture_group = slavic
+						culture_group = east_slavic
+						culture_group = west_slavic
+						culture_group = south_slavic
+						culture_group = carpathian
+					}
+				"
+				5 = yes
+				scale = higher_development_than
+				scope = every_owned_province
+				event_target_name = EDG_FDM_mission_1_28_province_target
+			}
+			hidden_effect = {
+				event_target:EDG_FDM_mission_1_28_province_target_1 = {
+					add_base_tax = -1
+					add_base_production = -1
+					add_base_manpower = -1
+				}
+				event_target:EDG_FDM_mission_1_28_province_target_2 = {
+					add_base_tax = -1
+					add_base_production = -1
+					add_base_manpower = -1
+				}
+				event_target:EDG_FDM_mission_1_28_province_target_3 = {
+					add_base_tax = -1
+					add_base_production = -1
+					add_base_manpower = -1
+				}
+				event_target:EDG_FDM_mission_1_28_province_target_4 = {
+					add_base_tax = -1
+					add_base_production = -1
+					add_base_manpower = -1
+				}
+				event_target:EDG_FDM_mission_1_28_province_target_5 = {
+					add_base_tax = -1
+					add_base_production = -1
+					add_base_manpower = -1
+				}
+				capital_scope = {
+					add_base_tax = 5
+					add_base_production = 5
+					add_base_manpower = 5
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = EDG_FDM_mission_1_28_modifier
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_1_29 = {
+		icon = mission_devastate_christianity
+		position = 29
+		required_missions = {
+			EDG_FDM_mission_1_28
+			EDG_FDM_mission_2_28
+			EDG_FDM_mission_3_28
+		}
+		provinces_to_highlight = {
+			OR = {
+				culture_group = baltic
+				culture_group = scandinavian
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 10
+				OR = {
+					culture_group = baltic
+					culture_group = scandinavian
+				}
+			}
+			num_of_owned_provinces_with = {
+				value = 150
+				continent = europe
+			}
+			any_country = {
+				religion_group = christian
+				has_country_modifier = EDG_Caliph_Jihad_action_in_10_years_modifier
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_29_tt_1
+			pick_best_tags = {
+				global_trigger = "
+					religion_group = christian
+				"
+				scale = total_development
+				5 = yes
+				event_target_name = EDG_FDM_mission_1_29_country_target
+			}
+			hidden_effect = {
+				event_target:EDG_FDM_mission_1_29_country_target_1 = {
+					add_stability = -2
+				}
+				event_target:EDG_FDM_mission_1_29_country_target_2 = {
+					add_stability = -2
+				}
+				event_target:EDG_FDM_mission_1_29_country_target_3 = {
+					add_stability = -2
+				}
+				event_target:EDG_FDM_mission_1_29_country_target_4 = {
+					add_stability = -2
+				}
+				event_target:EDG_FDM_mission_1_29_country_target_5 = {
+					add_stability = -2
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_1_29_tt_2
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						continent = europe
+					}
+					ROOT = {
+						change_variable = {
+							which = EDG_shiite_Caliph_authority_var
+							value = 1
+						}
+					}
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_1_30 = {
+		icon = weaken_france
+		position = 30
+		required_missions = {
+			EDG_FDM_mission_1_29
+		}
+		provinces_to_highlight = {
+			culture_group = french
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns = 183
+			owns = 201
+			num_of_owned_provinces_with = {
+				value = 50
+				culture_group = french
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_FDMEvents.123
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_1_31 = {
+		icon = join_the_empire
+		position = 31
+		required_missions = {
+			EDG_FDM_mission_1_30
+			EDG_FDM_mission_2_30
+			EDG_FDM_mission_3_30
+		}
+		provinces_to_highlight = {
+			culture_group = germanic
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 100
+				culture_group = germanic
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_1_31_tt_1
+			hidden_effect = {
+				every_owned_province = {
+					clear_rebels = yes
+				}
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+}
+
+EDG_FDM_mission_2 = {
+	slot = 2
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = FDM
+	}
+	EDG_FDM_mission_2_1 = {
+		icon = mission_arabian_ports
+		position = 1
+		provinces_to_highlight = {
+			owned_by = ROOT
+		}
+		trigger = {
+			num_of_admirals = 1
+			num_of_light_ship = 5
+			OR = {
+				navy_size_percentage = 1
+				navy_size = 20
+			}
+		}
+		effect = {
+			random_owned_province = {
+				limit = {
+					region = maghreb_region
+					has_port = yes
+				}
+				light_ship = ROOT
+				light_ship = ROOT
+				light_ship = ROOT
+				light_ship = ROOT
+				light_ship = ROOT
+			}
+			add_yearly_sailors = 1
+			define_explorer = {
+				shock = 3
+				fire = 4
+				manuever = 5
+				siege = 2
+			}
+		}
+	}
+	EDG_FDM_mission_2_3 = {
+		icon = mission_exploration
+		position = 3
+		required_missions = {
+			EDG_FDM_mission_1_2
+		}
+		provinces_to_highlight = {
+			province_id = 1111
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			1111 = {
+				has_discovered = ROOT
+				OR = {
+					is_city = no
+					owned_by = ROOT
+				}
+			}
+		}
+		effect = {
+			if = {
+				limit = {
+					any_owned_province = {
+						culture = EDG_FDM_maghrebi_culture
+					}
+				}
+				1111 = {
+					change_culture = berber
+					change_religion = ROOT
+					cede_province = ROOT
+					add_core = ROOT
+				}
+			}
+			else = {
+				1111 = {
+					change_culture = berber
+					change_religion = ROOT
+					cede_province = ROOT
+					add_core = ROOT
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_3_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_3_tt_2
+			hidden_effect = {
+				africa_superregion = {
+					discover_country = ROOT
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_2_4 = {
+		icon = mission_reclaim_morocco
+		position = 4
+		required_missions = {
+			EDG_FDM_mission_3_3
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 344
+				province_id = 342
+				province_id = 4564
+				province_id = 2468
+				province_id = 4568
+				province_id = 2469
+				province_id = 345
+				province_id = 2470
+				province_id = 2464
+				province_id = 348
+				province_id = 1110
+				province_id = 347
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			NOT = {
+				exists = MRK
+			}
+			owns_core_province = 344
+			owns_core_province = 342
+			owns_core_province = 4564
+			owns_core_province = 2468
+			owns_core_province = 4568
+			owns_core_province = 2469
+			owns_core_province = 345
+			owns_core_province = 2470
+			owns_core_province = 2464
+			owns_core_province = 348
+			owns_core_province = 1110
+			owns_core_province = 347
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_2_4_modifier"
+				duration = 9125
+			}
+			country_event = {
+				id = EDG_FDMEvents.3
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_path_of_rebirth_disaster_bonus_tt_2
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_2_5 = {
+		icon = mission_subjugate_saurashtra
+		position = 5
+		required_missions = {
+			EDG_FDM_mission_1_4
+		}
+		provinces_to_highlight = {
+			province_id = 1751
+		}
+		trigger = {
+			1751 = {
+				OR = {
+					owned_by = ROOT
+					owner = {
+						is_neighbor_of = ROOT
+						OR = {
+							has_opinion_modifier = {
+								who = ROOT
+								modifier = insulted
+							}
+							has_opinion_modifier = {
+								who = ROOT
+								modifier = scornfully_insulted
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			pick_best_tags = {
+				global_trigger = "
+					capital_scope = {
+						region = iberia_region
+					}
+				"
+				scale = total_development
+				1 = yes
+				event_target_name = "EDG_FDM_mission_2_5_country_target"
+			}
+			event_target:EDG_FDM_mission_2_5_country_target_1 = {
+				country_event = {
+					id = EDG_FDMEvents.6
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_5_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_path_of_rebirth_disaster_bonus_tt_6
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_2_7 = {
+		icon = arb_sicily
+		position = 7
+		required_missions = {
+			EDG_FDM_mission_3_6
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = sicily_area
+				area = western_sicily_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			sicily_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+			western_sicily_area = {
+				type = all
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		effect = {
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_2_7_tt_1
+				first_limit = "
+					overlord_of = SIC
+				"
+				first_effect = "
+					SIC = {
+						add_liberty_desire = -100
+						capital_scope = {
+							add_base_tax = 2
+							add_base_production = 2
+							add_base_manpower = 2
+						}
+					}
+				"
+			}
+			custom_tooltip = EDG_SPACE_TT
+			sicily_area = {
+				add_local_autonomy = -100
+				add_devastation = -100
+			}
+			western_sicily_area = {
+				add_local_autonomy = -100
+				add_devastation = -100
+			}
+			custom_tooltip = EDG_SPACE_TT
+			126 = {
+				add_great_project_tier = {
+					type = malta_forts
+					tier = 2
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_2_9 = {
+		icon = defend_the_city
+		position = 9
+		required_missions = {
+			EDG_FDM_mission_3_8
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = aleppo_area
+				area = syrian_desert_area
+				area = al_jazira_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns_core_province = 377
+			num_of_owned_provinces_with = {
+				value = 8
+				OR = {
+					area = aleppo_area
+					area = syrian_desert_area
+					area = al_jazira_area
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_9_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_2_9_modifier_1"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_2_10 = {
+		icon = mission_zim_strong_rulership
+		position = 10
+		required_missions = {
+			EDG_FDM_mission_2_9
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = aydin_area
+				area = cukurova_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 5
+				OR = {
+					area = aydin_area
+					area = cukurova_area
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_10_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_10_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_2_10_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_2_11 = {
+		icon = mission_thirty_years_war
+		position = 11
+		required_missions = {
+			EDG_FDM_mission_2_10
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = rum_area
+				area = karaman_area
+				area = dulkadir_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 8
+				OR = {
+					area = rum_area
+					area = karaman_area
+					area = dulkadir_area
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_11_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_11_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_2_11_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_2_12 = {
+		icon = mission_turkish_merchants
+		position = 12
+		required_missions = {
+			EDG_FDM_mission_1_11
+			EDG_FDM_mission_2_11
+		}
+		provinces_to_highlight = {
+			region = anatolia_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 25
+				region = anatolia_region
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_2_12_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_2_14 = {
+		icon = mission_saint_basils_cathedral
+		position = 14
+		required_missions = {
+			EDG_FDM_mission_1_13
+		}
+		trigger = {
+			check_variable = {
+				which = EDG_shiite_Caliph_decree_use_times
+				value = 20
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_14_tt_1
+			country_event = {
+				id = EDG_FDMEvents.70
+			}
+		}
+	}
+	EDG_FDM_mission_2_15 = {
+		icon = mission_muslim_administrators
+		position = 15
+		required_missions = {
+			EDG_FDM_mission_2_14
+		}
+		trigger = {
+			check_variable = {
+				which = EDG_shiite_Caliph_decree_use_times
+				value = 40
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_15_tt_1
+			hidden_effect = {
+				every_province = {
+					limit = {
+						religion_group = muslim
+						NOT = {
+							owned_by = ROOT
+						}
+						NOT = {
+							is_core = ROOT
+						}
+						NOT = {
+							is_permanent_claim = ROOT
+						}
+					}
+					add_permanent_claim = ROOT
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_15_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_2_15_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_2_16 = {
+		icon = geo_break_the_crescent_2
+		position = 16
+		required_missions = {
+			EDG_FDM_mission_1_15
+			EDG_FDM_mission_2_15
+		}
+		provinces_to_highlight = {
+			owner = {
+				is_great_power = yes
+				religion_group = muslim
+				NOT = {
+					religion = shiite
+				}
+			}
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_mission_2_16_tt_1
+				all_country = {
+					OR = {
+						is_great_power = no
+						religion = shiite
+						NOT = {
+							religion_group = muslim
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			every_country = {
+				limit = {
+					religion_group = muslim
+					NOT = {
+						religion = shiite
+					}
+				}
+				country_event = {
+					id = EDG_FDMEvents.23
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_2_17 = {
+		icon = per_unify_islam
+		position = 17
+		required_missions = {
+			EDG_FDM_mission_1_16
+			EDG_FDM_mission_2_16
+		}
+		provinces_to_highlight = {
+			religion_group = muslim
+			NOT = {
+				religion = shiite
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 500
+				religion = shiite
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_17_tt_2
+			hidden_effect = {
+				every_province = {
+					limit = {
+						is_city = yes
+						religion_group = muslim
+						NOT = {
+							religion = shiite
+						}
+					}
+					change_religion = shiite
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_2_19 = {
+		icon = military_self_reliance
+		position = 19
+		required_missions = {
+			EDG_FDM_mission_1_18
+		}
+		provinces_to_highlight = {
+			culture = turkish
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_artillery = 10
+			num_of_owned_provinces_with = {
+				value = 15
+				culture = turkish
+			}
+			OR = {
+				AND = {
+					NOT = {
+						exists = MHM
+					}
+					NOT = {
+						exists = TUR
+					}
+				}
+				has_won_war_against = {
+					who = MHM
+					max_years_since = 25
+				}
+				has_won_war_against = {
+					who = TUR
+					max_years_since = 25
+				}
+			}
+		}
+		effect = {
+			define_advisor = {
+				type = fortification_expert
+				skill = 3
+				cost_multiplier = 0.25
+				culture = turkish
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_2_19_modifier"
+				duration = -1
+			}
+			custom_tooltip = EDG_FDM_mission_2_19_tt_1
+		}
+	}
+	EDG_FDM_mission_2_20 = {
+		icon = mission_son_military_expertise
+		position = 20
+		required_missions = {
+			EDG_FDM_mission_1_19
+			EDG_FDM_mission_2_19
+			EDG_FDM_mission_3_19
+		}
+		trigger = {
+			num_of_battles = {
+				amount = 100
+			}
+			check_variable = {
+				which = total_land_units_killed
+				value = 250
+			}
+			army_professionalism = 0.5
+			army_tradition = 75
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_20_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_20_tt_2
+		}
+	}
+	EDG_FDM_mission_2_21 = {
+		icon = fra_military_reform
+		position = 21
+		required_missions = {
+			EDG_FDM_mission_2_20
+		}
+		trigger = {
+			num_of_wars = {
+				amount = 100
+			}
+			check_variable = {
+				which = EDG_FDM_war_won_heretic_and_heathen_var
+				value = 25
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_21_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_21_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_21_tt_3
+		}
+	}
+	EDG_FDM_mission_2_22 = {
+		icon = mission_swedish_military_advise
+		position = 22
+		required_missions = {
+			EDG_FDM_mission_1_21
+			EDG_FDM_mission_2_21
+			EDG_FDM_mission_3_21
+		}
+		trigger = {
+			army_size = 500
+			all_country = {
+				NOT = {
+					army_size = ROOT
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_22_tt_1
+			set_country_flag = fra_enable_mil_hegemony_flag
+		}
+	}
+	EDG_FDM_mission_2_24 = {
+		icon = appease_the_estates
+		position = 24
+		required_missions = {
+			EDG_FDM_mission_1_23
+		}
+		trigger = {
+			estate_loyalty = {
+				estate = all
+				loyalty = 60
+			}
+			estate_influence = {
+				estate = all
+				influence = 60
+			}
+			NOT = {
+				has_estate_privilege = estate_EDG_FDM_dynasty_of_minority
+			}
+			NOT = {
+				has_estate_privilege = estate_EDG_FDM_questioned_sacred_lineage
+			}
+			NOT = {
+				has_estate_privilege = estate_EDG_FDM_army_mired_in_factional_strife
+			}
+			NOT = {
+				has_estate_privilege = estate_EDG_FDM_egyptian_caliphate_without_cairo
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_24_tt_1
+		}
+	}
+	EDG_FDM_mission_2_25 = {
+		icon = dalmatian_conquest
+		position = 25
+		required_missions = {
+			EDG_FDM_mission_2_24
+		}
+		trigger = {
+			estate_loyalty = {
+				estate = all
+				loyalty = 100
+			}
+			estate_influence = {
+				estate = all
+				influence = 100
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_2_25_tt_1
+			set_country_flag = enable_full_ducat_gain_from_selling_crownland_flag
+			set_country_flag = EDG_extra_income_for_estate_land
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_25_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_2_25_tt_3
+		}
+	}
+	EDG_FDM_mission_2_27 = {
+		icon = mission_conquer_5_states
+		position = 27
+		required_missions = {
+			EDG_FDM_mission_3_26
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			NOT = {
+				has_country_modifier = EDG_FDM_mission_3_26_modifier
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_FDM_mission_3_26_modifier
+				duration = 9125
+			}
+		}
+	}
+	EDG_FDM_mission_2_28 = {
+		icon = mission_restore_kiev
+		position = 28
+		required_missions = {
+			EDG_FDM_mission_2_27
+		}
+		provinces_to_highlight = {
+			culture_group = latin
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns = 118
+			owns = 116
+			PAP = {
+				OR = {
+					exists = no
+					capital_scope = {
+						NOT = {
+							region = italy_region
+						}
+					}
+				}
+			}
+			num_of_owned_provinces_with = {
+				value = 40
+				culture_group = latin
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_FDMEvents.128
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = EDG_FDM_mission_2_28_modifier
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_2_30 = {
+		icon = fra_great_britain
+		position = 30
+		required_missions = {
+			EDG_FDM_mission_1_29
+		}
+		provinces_to_highlight = {
+			OR = {
+				culture_group = british
+				culture_group = gaelic
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns = 236
+			owns = 248
+			num_of_owned_provinces_with = {
+				value = 40
+				OR = {
+					culture_group = british
+					culture_group = gaelic
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_FDMEvents.124
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = EDG_FDM_mission_2_30_modifier
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_2_32 = {
+		icon = peace_in_europe
+		position = 32
+		required_missions = {
+			EDG_FDM_mission_1_31
+		}
+		provinces_to_highlight = {
+			continent = europe
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 600
+				continent = europe
+			}
+		}
+		effect = {
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					remove_country_modifier = EDG_FDM_mission_3_26_modifier
+					add_country_modifier = {
+						name = EDG_FDM_mission_2_32_modifier
+						duration = -1
+					}
+				"
+			}
+		}
+	}
+}
+
+EDG_FDM_mission_3 = {
+	slot = 3
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = FDM
+	}
+	EDG_FDM_mission_3_1 = {
+		icon = dom_ara_remensa_war
+		position = 1
+		provinces_to_highlight = {
+			owned_by = ROOT
+		}
+		trigger = {
+			num_of_generals = 1
+			OR = {
+				army_size_percentage = 1
+				army_size = 12
+			}
+		}
+		effect = {
+			define_advisor = {
+				type = army_reformer
+				skill = 3
+				cost_multiplier = 0.25
+			}
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = EDG_FDMEvents.10
+			}
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = EDG_FDMEvents.11
+			}
+		}
+	}
+	EDG_FDM_mission_3_2 = {
+		icon = assert_our_sovereignty
+		position = 2
+		required_missions = {
+			EDG_FDM_mission_3_1
+		}
+		provinces_to_highlight = {
+			OR = {
+				owned_by = CDC
+				owned_by = KTP
+			}
+		}
+		trigger = {
+			CDC = {
+				OR = {
+					exists = no
+					is_in_war = {
+						attacker_leader = FDM
+						casus_belli = cb_core
+					}
+				}
+			}
+			KTP = {
+				OR = {
+					exists = no
+					is_in_war = {
+						attacker_leader = FDM
+						casus_belli = cb_core
+					}
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_2_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_2_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_2_modifier_1"
+				duration = 3650
+			}
+			custom_tooltip = EDG_FDM_mission_3_2_tt_3
+		}
+	}
+	EDG_FDM_mission_3_3 = {
+		icon = shift_the_balance
+		position = 3
+		required_missions = {
+			EDG_FDM_mission_3_2
+		}
+		provinces_to_highlight = {
+			OR = {
+				is_capital_of = CDC
+				is_capital_of = KTP
+			}
+		}
+		trigger = {
+			CDC = {
+				OR = {
+					exists = no
+					capital_scope = {
+						controlled_by = ROOT
+					}
+				}
+			}
+			KTP = {
+				OR = {
+					exists = no
+					capital_scope = {
+						controlled_by = ROOT
+					}
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_3_tt_1
+			hidden_effect = {
+				every_country = {
+					limit = {
+						war_with = ROOT
+						NOT = {
+							tag = CDC
+						}
+						NOT = {
+							tag = KTP
+						}
+						NOT = {
+							tag = TRP
+						}
+					}
+					white_peace = ROOT
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_3_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_3_tt_3
+			custom_tooltip = EDG_SPACE_TT
+			maghreb_region = {
+				add_permanent_claim = ROOT
+			}
+			egypt_region = {
+				add_permanent_claim = ROOT
+			}
+			mashriq_region = {
+				add_permanent_claim = ROOT
+			}
+			arabia_region = {
+				add_permanent_claim = ROOT
+			}
+			iberia_region = {
+				add_permanent_claim = ROOT
+			}
+			western_sicily_area = {
+				add_permanent_claim = ROOT
+			}
+			sicily_area = {
+				add_permanent_claim = ROOT
+			}
+		}
+	}
+	EDG_FDM_mission_3_4 = {
+		icon = mission_conquer_tunisia
+		position = 4
+		required_missions = {
+			EDG_FDM_mission_3_3
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = tunisia_area
+				area = djerba_area
+				area = tripolitania_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			tunisia_area = {
+				type = all
+				owned_by = ROOT
+			}
+			djerba_area = {
+				type = all
+				owned_by = ROOT
+			}
+			tripolitania_area = {
+				type = all
+				owned_by = ROOT
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_4_tt_1
+			hidden_effect = {
+				every_owned_province = {
+					remove_core = KTP
+					remove_core = CDC
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = EDG_FDMEvents.1
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_4_modifier"
+				duration = 9125
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_path_of_rebirth_disaster_bonus_tt_3
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_5 = {
+		icon = nagyszombat_university
+		position = 5
+		required_missions = {
+			EDG_FDM_mission_2_4
+			EDG_FDM_mission_3_4
+			EDG_FDM_mission_4_4
+		}
+		provinces_to_highlight = {
+			region = maghreb_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 30
+				region = maghreb_region
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_5_tt_1
+			hidden_effect = {
+				every_known_country = {
+					add_aggressive_expansion = {
+						who = ROOT
+						value = -10
+						apply_calc = no
+					}
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_5_tt_2
+			set_country_flag = EDG_form_coalition_Need_75_ae_flag
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_5_tt_3
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_path_of_rebirth_disaster_bonus_tt_7
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_6 = {
+		icon = mission_city_of_victory_bah
+		position = 6
+		required_missions = {
+			EDG_FDM_mission_2_5
+			EDG_FDM_mission_3_5
+			EDG_FDM_mission_4_5
+		}
+		provinces_to_highlight = {
+			province_id = 361
+		}
+		trigger = {
+			capital = 361
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_6_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_6_modifier_3"
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_path_of_rebirth_disaster_bonus_tt_9
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_7 = {
+		icon = jerusalem
+		position = 7
+		required_missions = {
+			EDG_FDM_mission_3_6
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = syria_area
+				area = palestine_area
+				area = trans_jordan_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns_core_province = 379
+			owns_core_province = 382
+			num_of_owned_provinces_with = {
+				value = 7
+				OR = {
+					area = syria_area
+					area = palestine_area
+					area = trans_jordan_area
+				}
+			}
+		}
+		effect = {
+			syria_area = {
+				add_nationalism = -10
+			}
+			palestine_area = {
+				add_nationalism = -10
+			}
+			trans_jordan_area = {
+				add_nationalism = -10
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_7_modifier"
+				duration = 9125
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_8 = {
+		icon = mission_fatimid_caliphate
+		position = 8
+		required_missions = {
+			EDG_FDM_mission_2_7
+			EDG_FDM_mission_3_7
+			EDG_FDM_mission_4_7
+		}
+		provinces_to_highlight = {
+			OR = {
+				region = egypt_region
+				region = maghreb_region
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			is_great_power = yes
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_path_of_rebirth_disaster_will_end_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_8_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_8_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			set_government_rank = 3
+			anatolia_region = {
+				add_permanent_claim = ROOT
+			}
+			persia_region = {
+				add_permanent_claim = ROOT
+			}
+			horn_of_africa_region = {
+				add_permanent_claim = ROOT
+			}
+			caucasia_region = {
+				add_permanent_claim = ROOT
+			}
+			khorasan_region = {
+				add_permanent_claim = ROOT
+			}
+			country_event = {
+				id = ideagroups.0
+			}
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_8_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_3_9 = {
+		icon = mission_fire_of_london
+		position = 9
+		required_missions = {
+			EDG_FDM_mission_3_8
+		}
+		provinces_to_highlight = {
+			is_core = HSN
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			NOT = {
+				exists = HSN
+			}
+			num_of_owned_provinces_with = {
+				value = 5
+				is_core = HSN
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_9_tt_1
+			hidden_effect = {
+				every_owned_province = {
+					remove_core = HSN
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_9_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_9_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_3_10 = {
+		icon = per_protect_the_west_iranian
+		position = 10
+		required_missions = {
+			EDG_FDM_mission_3_9
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = erzurum_area
+				area = north_kurdistan_area
+				area = tabriz_area
+				area = shahrizor_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 12
+				OR = {
+					area = erzurum_area
+					area = north_kurdistan_area
+					area = tabriz_area
+					area = shahrizor_area
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_10_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_10_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = flavor_turkoman.3
+			}
+			custom_tooltip = turkoman_maragheh_event_insight_tt
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_10_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_3_11 = {
+		icon = mission_plc_golden_liberty
+		position = 11
+		required_missions = {
+			EDG_FDM_mission_3_10
+		}
+		provinces_to_highlight = {
+			is_core = ARL
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			NOT = {
+				exists = ARL
+			}
+			num_of_owned_provinces_with = {
+				value = 6
+				is_core = ARL
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_11_tt_1
+			set_global_flag = EDG_EDG_flavorARL_1_flag
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_11_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_11_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_3_12 = {
+		icon = mission_the_caucasus_rus
+		position = 12
+		required_missions = {
+			EDG_FDM_mission_3_11
+		}
+		provinces_to_highlight = {
+			region = caucasia_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 15
+				region = caucasia_region
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_12_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_3_13 = {
+		icon = mission_conquer_malwa_bng
+		position = 13
+		required_missions = {
+			EDG_FDM_mission_2_12
+			EDG_FDM_mission_3_12
+			EDG_FDM_mission_4_12
+		}
+		provinces_to_highlight = {
+		}
+		trigger = {
+			has_country_modifier = unified_islam
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_13_tt_1
+		}
+	}
+	EDG_FDM_mission_3_14 = {
+		icon = mission_the_roman_sultan
+		position = 14
+		required_missions = {
+			EDG_FDM_mission_1_13
+			EDG_FDM_mission_5_13
+		}
+		provinces_to_highlight = {
+			religion = shiite
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			is_defender_of_faith = yes
+			OR = {
+				is_defender_of_faith_of_tier = 3
+				is_defender_of_faith_of_tier = 4
+				is_defender_of_faith_of_tier = 5
+				num_of_owned_provinces_with = {
+					value = 200
+					religion = shiite
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_14_tt_1
+		}
+	}
+	EDG_FDM_mission_3_15 = {
+		icon = per_restore_the_avesta
+		position = 15
+		required_missions = {
+			EDG_FDM_mission_3_14
+		}
+		trigger = {
+			full_idea_group = EDG_caliph_ideas
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_15_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_15_tt_2
+				first_limit = "
+					adm_tech = 7
+				"
+				first_effect = "
+					country_event = {
+						id = EDG_FDMEvents.67
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_16 = {
+		icon = interest_of_holland
+		position = 16
+		required_missions = {
+			EDG_FDM_mission_3_15
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 384
+				province_id = 385
+				province_id = 4566
+				province_id = 379
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 2
+				OR = {
+					has_great_project = {
+						type = EDG_Temple_of_the_Prophets
+						tier = 3
+					}
+					has_great_project = {
+						type = kaaba
+						tier = 3
+					}
+					has_great_project = {
+						type = holy_city_kairouan
+						tier = 3
+					}
+					has_great_project = {
+						type = holy_city_jerusalem
+						tier = 3
+					}
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_16_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = flavor_mam.23
+			}
+			custom_tooltip = flavor_mam.23_tt
+		}
+	}
+	EDG_FDM_mission_3_18 = {
+		icon = mission_rule_of_the_sun
+		position = 18
+		required_missions = {
+			EDG_FDM_mission_2_17
+			EDG_FDM_mission_3_16
+			EDG_FDM_mission_4_17
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 1000
+				religion = shiite
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_FDM_mission_3_18_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_3_19 = {
+		icon = army_reforms
+		position = 19
+		required_missions = {
+			EDG_FDM_mission_1_18
+		}
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 75
+			}
+			estate_influence = {
+				estate = estate_nomadic_tribes
+				influence = 75
+			}
+			has_global_modifier_value = {
+				which = cavalry_power
+				value = 0.5
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_19_tt_1
+			hidden_effect = {
+				enable_estate_effect = {
+					estate = estate_cossacks
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_19_modifier"
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_19_tt_2
+				first_limit = "
+					has_idea_group = EDG_caliph_ideas
+				"
+				first_effect = "
+					country_event = {
+						id = EDG_FDMEvents.67
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_20 = {
+		icon = ven_army_republic
+		position = 20
+		required_missions = {
+			EDG_FDM_mission_3_19
+		}
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nobles
+				loyalty = 90
+			}
+			estate_influence = {
+				estate = estate_nobles
+				influence = 90
+			}
+			estate_loyalty = {
+				estate = estate_cossacks
+				loyalty = 90
+			}
+			estate_influence = {
+				estate = estate_cossacks
+				influence = 90
+			}
+			estate_loyalty = {
+				estate = estate_nomadic_tribes
+				loyalty = 90
+			}
+			estate_influence = {
+				estate = estate_nomadic_tribes
+				influence = 90
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_20_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = EDG_FDM_mission_3_20_modifier
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_3_21 = {
+		icon = mission_mansure_army
+		position = 21
+		required_missions = {
+			EDG_FDM_mission_2_20
+			EDG_FDM_mission_3_20
+		}
+		trigger = {
+			num_of_battles = {
+				amount = 200
+			}
+			check_variable = {
+				which = EDG_FDM_war_won_heretic_and_heathen_var
+				value = 50
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_21_modifier_1"
+				duration = -1
+			}
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_21_modifier_2"
+				duration = -1
+			}
+			custom_tooltip = EDG_FDM_mission_3_21_tt_1
+		}
+	}
+	EDG_FDM_mission_3_23 = {
+		icon = mission_ottoman_early_army
+		position = 23
+		required_missions = {
+			EDG_FDM_mission_2_22
+			EDG_FDM_mission_4_22
+		}
+		trigger = {
+			OR = {
+				is_hegemon_of_type = military_hegemon
+				is_hegemon_of_type = naval_hegemon
+			}
+		}
+		effect = {
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_23_tt_1
+				first_limit = "
+					is_hegemon_of_type = naval_hegemon
+				"
+				first_effect = "
+					add_country_modifier = {
+						name = EDG_FDM_mission_3_23_modifier_1
+						duration = -1
+					}
+				"
+				second_custom_tooltip = EDG_FDM_mission_3_23_tt_2
+				second_limit = "
+					is_hegemon_of_type = military_hegemon
+				"
+				second_effect = "
+					add_country_modifier = {
+						name = EDG_FDM_mission_3_23_modifier_2
+						duration = -1
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_24 = {
+		icon = mission_tribute_tax
+		position = 24
+		required_missions = {
+			EDG_FDM_mission_5_23
+		}
+		trigger = {
+			has_global_modifier_value = {
+				which = global_tax_modifier
+				value = 0.5
+			}
+			num_of_owned_provinces_with = {
+				value = 75
+				has_state_edict = feudal_taxes_state_edict
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_24_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_24_tt_2
+			set_country_flag = EDG_upgrade_religion_state_global_unrest_flag
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_3_24_modifier_1"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_3_26 = {
+		icon = mission_establish_the_black_guard
+		position = 26
+		provinces_to_highlight = {
+		}
+		trigger = {
+			mission_completed = EDG_FDM_mission_3_13
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_26_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			hidden_effect = {
+				asia = {
+					discover_country = ROOT
+					add_permanent_claim = ROOT
+				}
+				europe = {
+					discover_country = ROOT
+					add_permanent_claim = ROOT
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_3_28 = {
+		icon = mission_plc_purple_phoenix
+		position = 28
+		required_missions = {
+			EDG_FDM_mission_2_27
+		}
+		provinces_to_highlight = {
+			culture_group = byzantine
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns = 151
+			owns = 146
+			NOT = {
+				exists = BYZ
+			}
+			all_province = {
+				OR = {
+					NOT = {
+						culture_group = byzantine
+					}
+					owned_by = ROOT
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_28_tt_1
+			hidden_effect = {
+				every_owned_province = {
+					remove_core = BYZ
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = EDG_FDMEvents.125
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = EDG_FDM_mission_3_28_modifier
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_29 = {
+		icon = mission_humiliate_lubeck
+		position = 29
+		required_missions = {
+			EDG_FDM_mission_5_28
+		}
+		provinces_to_highlight = {
+			if = {
+				limit = {
+					any_country = {
+						is_or_was_tag = {
+							tag = SHY
+						}
+					}
+				}
+				owner = {
+					is_or_was_tag = {
+						tag = SHY
+					}
+				}
+			}
+			else = {
+				region = central_asia_region
+				NOT = {
+					owned_by = ROOT
+				}
+			}
+		}
+		trigger = {
+			owns = 454
+			owns = 476
+			all_country = {
+				NOT = {
+					tag = SHY
+				}
+				NOT = {
+					was_tag = SHY
+				}
+			}
+			NOT = {
+				exists = TIM
+			}
+			num_of_owned_provinces_with = {
+				value = 45
+				region = central_asia_region
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_29_tt_1
+			hidden_effect = {
+				every_owned_province = {
+					every_country_including_inactive = {
+						limit = {
+							is_or_was_tag = {
+								tag = SHY
+							}
+						}
+						remove_core = PREV
+					}
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_3_29_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_30 = {
+		icon = ger_kaiserreich
+		position = 30
+		required_missions = {
+			EDG_FDM_mission_1_29
+		}
+		provinces_to_highlight = {
+			owned_by = emperor
+		}
+		trigger = {
+			OR = {
+				NOT = {
+					hre_size = 1
+				}
+				AND = {
+					war_score_against = {
+						who = emperor
+						value = 90
+					}
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_FDMEvents.122
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_31 = {
+		icon = mission_mongol_peace
+		position = 31
+		required_missions = {
+			EDG_FDM_mission_5_30
+		}
+		provinces_to_highlight = {
+			region = mongolia_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 45
+				region = mongolia_region
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_3_31_tt_1
+			hidden_effect = {
+				every_owned_province = {
+					add_nationalism = -100
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_3_33 = {
+		icon = mission_the_roman_sultan
+		position = 33
+		required_missions = {
+			EDG_FDM_mission_2_32
+			EDG_FDM_mission_4_32
+		}
+		provinces_to_highlight = {
+			OR = {
+				continent = asia
+				continent = europe
+				continent = africa
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_mission_3_33_tt_1
+				all_province = {
+					OR = {
+						is_city = no
+						owned_by = ROOT
+						AND = {
+							NOT = {
+								continent = asia
+							}
+							NOT = {
+								continent = europe
+							}
+							NOT = {
+								continent = africa
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			country_event_with_insight = {
+				id = EDG_FDMEvents.69
+				insight_tooltip = EDG_BAV_8_3_40_1
+			}
+		}
+	}
+}
+
+EDG_FDM_mission_4 = {
+	slot = 4
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = FDM
+	}
+	EDG_FDM_mission_4_1 = {
+		icon = mission_traverse_the_sahara
+		position = 1
+		provinces_to_highlight = {
+			province_id = 2448
+		}
+		trigger = {
+			army_tradition = 25
+			OR = {
+				mil_tech = 5
+				AND = {
+					mil_tech = 4
+					all_country = {
+						NOT = {
+							mil_tech = 5
+						}
+					}
+				}
+			}
+			owns_core_province = 2448
+		}
+		effect = {
+			if = {
+				limit = {
+					any_owned_province = {
+						culture = EDG_FDM_maghrebi_culture
+					}
+				}
+				2474 = {
+					change_culture = EDG_FDM_maghrebi_culture
+					change_religion = ROOT
+					cede_province = ROOT
+					add_core = ROOT
+				}
+			}
+			else = {
+				2474 = {
+					change_culture = berber
+					change_religion = ROOT
+					cede_province = ROOT
+					add_core = ROOT
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_4_3 = {
+		icon = mission_son_expand_djenne_mosque
+		position = 3
+		required_missions = {
+			EDG_FDM_mission_5_2
+		}
+		provinces_to_highlight = {
+			OR = {
+				region = sahel_region
+				region = niger_region
+				region = guinea_region
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 10
+				OR = {
+					region = sahel_region
+					region = niger_region
+					region = guinea_region
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_3_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_4_3_tt_2
+			hidden_effect = {
+				southern_africa_superregion = {
+					discover_country = ROOT
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_4_4 = {
+		icon = mission_raid_the_berbers
+		position = 4
+		required_missions = {
+			EDG_FDM_mission_3_3
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 336
+				province_id = 2463
+				province_id = 349
+				province_id = 346
+				province_id = 2460
+				province_id = 2466
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			OR = {
+				AND = {
+					exists = TLC
+					TLC = {
+						all_owned_province = {
+							controlled_by = ROOT
+						}
+					}
+				}
+				AND = {
+					NOT = {
+						exists = TLC
+					}
+					owns_core_province = 336
+					owns_core_province = 2463
+					owns_core_province = 349
+				}
+			}
+			OR = {
+				AND = {
+					exists = TFL
+					TFL = {
+						all_owned_province = {
+							controlled_by = ROOT
+						}
+					}
+				}
+				AND = {
+					NOT = {
+						exists = TFL
+					}
+					owns_core_province = 346
+					owns_core_province = 2460
+					owns_core_province = 2466
+				}
+			}
+		}
+		effect = {
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_4_4_tt_1
+				first_limit = "
+					exists = TLC
+					TLC = {
+						all_owned_province = {
+							controlled_by = ROOT
+						}
+					}
+				"
+				first_effect = "
+					inherit = TLC
+				"
+				second_effect = "
+					add_adm_power = 100
+				"
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_4_4_tt_2
+				first_limit = "
+					exists = TFL
+					TFL = {
+						all_owned_province = {
+							controlled_by = ROOT
+						}
+					}
+				"
+				first_effect = "
+					inherit = TFL
+				"
+				second_effect = "
+					add_adm_power = 100
+				"
+			}
+			# 346 = {
+			# 	add_base_production = 4
+			# 	add_permanent_province_modifier = {
+			# 		name = "EDG_FDM_mission_4_4_modifier"
+			# 		duration = 9125
+			# 	}
+			# }
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = EDG_FDMEvents.4
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_path_of_rebirth_disaster_bonus_tt_4
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_4_5 = {
+		icon = mission_levantine_restoration
+		position = 5
+		required_missions = {
+			EDG_FDM_mission_5_4
+		}
+		provinces_to_highlight = {
+			region = egypt_region
+		}
+		trigger = {
+			OR = {
+				custom_trigger_tooltip = {
+					tooltip = EDG_ETH_mission_3_9.condition.tt
+					has_global_flag = EDG_FYM_disaster_EGY_claim_flag
+				}
+				exists = CIO
+				exists = ALX
+				exists = MAM
+			}
+		}
+		effect = {
+			FYM = {
+				country_event = {
+					id = EDG_FDMEvents.7
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_4_5_tt_1
+				first_limit = "
+					exists = CIO
+				"
+				first_effect = "
+					add_casus_belli = {
+						type = cb_annex
+						target = CIO
+						months = 240
+					}
+				"
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_4_5_tt_2
+				first_limit = "
+					exists = ALX
+				"
+				first_effect = "
+					add_casus_belli = {
+						type = cb_annex
+						target = ALX
+						months = 240
+					}
+				"
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_4_5_tt_3
+				first_limit = "
+					exists = MAM
+				"
+				first_effect = "
+					add_casus_belli = {
+						type = cb_annex
+						target = MAM
+						months = 240
+					}
+				"
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_path_of_rebirth_disaster_bonus_tt_8
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_4_7 = {
+		icon = mission_heart_of_the_hansa
+		position = 7
+		required_missions = {
+			EDG_FDM_mission_3_6
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = medina_area
+				area = mecca_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns_core_province = 384
+			owns_core_province = 385
+			num_of_owned_provinces_with = {
+				value = 8
+				OR = {
+					area = medina_area
+					area = mecca_area
+				}
+			}
+		}
+		effect = {
+			medina_area = {
+				add_nationalism = -10
+			}
+			mecca_area = {
+				add_nationalism = -10
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_4_7_modifier"
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_4_9 = {
+		icon = mam_baghdad
+		position = 9
+		required_missions = {
+			EDG_FDM_mission_3_8
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = iraq_arabi_area
+				area = basra_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns_core_province = 410
+			num_of_owned_provinces_with = {
+				value = 6
+				OR = {
+					area = iraq_arabi_area
+					area = basra_area
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_9_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_4_9_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_4_10 = {
+		icon = mam_persia
+		position = 10
+		required_missions = {
+			EDG_FDM_mission_4_9
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = tabarestan_area
+				area = iraq_e_ajam_area
+				area = azerbaijan_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 9
+				OR = {
+					area = tabarestan_area
+					area = iraq_e_ajam_area
+					area = azerbaijan_area
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_10_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_4_10_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_4_10_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_4_11 = {
+		icon = mission_into_persia_1
+		position = 11
+		required_missions = {
+			EDG_FDM_mission_4_10
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = luristan_area
+				area = khuzestan_area
+				area = farsistan_area
+				area = persian_gulf_coast
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 9
+				OR = {
+					area = luristan_area
+					area = khuzestan_area
+					area = farsistan_area
+					area = persian_gulf_coast
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_11_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_4_11_tt_2
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = flavor_mam.114
+			}
+			custom_tooltip = flavor_mam.114_tt
+		}
+	}
+	EDG_FDM_mission_4_12 = {
+		icon = per_convert_persia
+		position = 12
+		required_missions = {
+			EDG_FDM_mission_4_11
+			EDG_FDM_mission_5_11
+		}
+		provinces_to_highlight = {
+			region = persia_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 25
+				region = persia_region
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_4_12_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_4_14 = {
+		icon = mission_dhimmi
+		position = 14
+		required_missions = {
+			EDG_FDM_mission_5_13
+		}
+		trigger = {
+			has_estate_privilege = estate_dhimmi_protected_communities
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_14_tt_1
+		}
+	}
+	EDG_FDM_mission_4_15 = {
+		icon = hand-picked_bureaucrats
+		position = 15
+		required_missions = {
+			EDG_FDM_mission_4_14
+		}
+		trigger = {
+			estate_loyalty = {
+				estate = estate_nobles
+				loyalty = 80
+			}
+			estate_influence = {
+				estate = estate_nobles
+				influence = 80
+			}
+			estate_loyalty = {
+				estate = estate_dhimmi
+				loyalty = 80
+			}
+			estate_influence = {
+				estate = estate_dhimmi
+				influence = 80
+			}
+			OR = {
+				monthly_adm = 14
+				national_focus = ADM
+				has_adm_advisor_3 = yes
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_15_tt_1
+		}
+	}
+	EDG_FDM_mission_4_16 = {
+		icon = mission_educated_people
+		position = 16
+		required_missions = {
+			EDG_FDM_mission_4_15
+			EDG_FDM_mission_5_15
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_mission_4_16_tt_1
+				OR = {
+					all_country = {
+						NOT = {
+							adm_tech = ROOT
+						}
+					}
+					all_country = {
+						NOT = {
+							dip_tech = ROOT
+						}
+					}
+					all_country = {
+						NOT = {
+							mil_tech = ROOT
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_16_tt_2
+		}
+	}
+	EDG_FDM_mission_4_17 = {
+		icon = mission_islamic_golden_age
+		position = 17
+		required_missions = {
+			EDG_FDM_mission_4_16
+			EDG_FDM_mission_5_16
+		}
+		trigger = {
+			OR = {
+				in_golden_age = yes
+				has_had_golden_age = yes
+			}
+			EDG_great_power_rank_1 = yes
+		}
+		effect = {
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_4_17_tt_1
+				first_limit = "
+					in_golden_age = yes
+				"
+				first_effect = "
+					extend_golden_age = 600
+				"
+				second_custom_tooltip = EDG_FDM_mission_4_17_tt_2
+				second_limit = "
+					has_had_golden_age = yes
+				"
+				second_effect = "
+					reset_golden_age = yes
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_4_19 = {
+		icon = ven_navy_mission_2
+		position = 19
+		required_missions = {
+			EDG_FDM_mission_5_18
+		}
+		provinces_to_highlight = {
+			province_id = 358
+		}
+		trigger = {
+			navy_size = 75
+			358 = {
+				has_building = drydock
+				has_building = grand_shipyard
+				num_of_buildings_in_province = 4
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_4_19_modifier"
+				duration = -1
+			}
+			custom_tooltip = EDG_FDM_mission_4_19_tt_1
+		}
+	}
+	EDG_FDM_mission_4_20 = {
+		icon = mission_naval_dominance
+		position = 20
+		required_missions = {
+			EDG_FDM_mission_4_19
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 1751
+				province_id = 339
+				province_id = 341
+				province_id = 355
+				province_id = 358
+				province_id = 4316
+				province_id = 2313
+			}
+		}
+		trigger = {
+			navy_size = 150
+			calc_true_if = {
+				amount = 6
+				all_owned_province = {
+					OR = {
+						province_id = 1751
+						province_id = 339
+						province_id = 341
+						province_id = 355
+						province_id = 358
+						province_id = 4316
+						province_id = 2313
+					}
+					has_building = drydock
+					has_building = grand_shipyard
+					num_of_buildings_in_province = 4
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_20_tt_1
+			tooltip = {
+				add_permanent_province_modifier = {
+					name = "EDG_FDM_mission_4_20_modifier_1"
+					duration = -1
+				}
+			}
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						OR = {
+							province_id = 1751
+							province_id = 339
+							province_id = 341
+							province_id = 355
+							province_id = 358
+							province_id = 4316
+							province_id = 2313
+						}
+						has_building = drydock
+						has_building = grand_shipyard
+						num_of_buildings_in_province = 4
+					}
+					add_permanent_province_modifier = {
+						name = "EDG_FDM_mission_4_20_modifier_1"
+						duration = -1
+					}
+				}
+			}
+			add_country_modifier = {
+				name = "EDG_FDM_mission_4_20_modifier_2"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_4_21 = {
+		icon = mission_naval_kingdom
+		position = 21
+		provinces_to_highlight = {
+			OR = {
+				province_id = 4316
+				province_id = 2315
+			}
+		}
+		trigger = {
+			4316 = {
+				owned_by = ROOT
+				is_core = ROOT
+				num_of_buildings_in_province = 5
+			}
+			2315 = {
+				owned_by = ROOT
+				is_core = ROOT
+				num_of_buildings_in_province = 5
+			}
+		}
+		effect = {
+			set_country_flag = EDG_unlock_suez_canal_flag
+			country_event = {
+				id = flavor_mam.115
+				days = 90
+			}
+			custom_tooltip = flavor_mam.115_tt
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_4_21_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = "EDG_FDM_mission_4_21_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_4_22 = {
+		icon = fra_napoleonic_navy
+		position = 22
+		required_missions = {
+			EDG_FDM_mission_4_21
+			EDG_FDM_mission_5_21
+		}
+		trigger = {
+			navy_size = 250
+			all_country = {
+				NOT = {
+					num_of_heavy_ship = ROOT
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_22_tt_1
+			set_country_flag = jap_halve_naval_hegemony_requirements
+		}
+	}
+	EDG_FDM_mission_4_24 = {
+		icon = mission_modernize_production
+		position = 24
+		required_missions = {
+			EDG_FDM_mission_5_23
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 25
+				has_production_building_trigger = yes
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_4_24_tt_1
+			tooltip = {
+				upgrade_production_building = yes
+			}
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						has_production_building_trigger = yes
+					}
+					upgrade_production_building = yes
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_years_of_owned_provinces_production_income = {
+				years = 4
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_ruler_personality = industrious_personality
+		}
+	}
+	EDG_FDM_mission_4_25 = {
+		icon = mission_blood_for_the_gods
+		position = 25
+		required_missions = {
+			EDG_FDM_mission_3_24
+			EDG_FDM_mission_4_24
+			EDG_FDM_mission_5_24
+		}
+		trigger = {
+			monthly_income = 200
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_4_25_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_4_27 = {
+		icon = per_establish_the_qurchi
+		position = 27
+		required_missions = {
+			EDG_FDM_mission_3_26
+		}
+		trigger = {
+			NOT = {
+				has_country_modifier = EDG_FDM_mission_3_26_modifier
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = EDG_FDM_mission_3_26_modifier
+				duration = 9125
+			}
+		}
+	}
+	EDG_FDM_mission_4_29 = {
+		icon = mission_fall_of_third_rome
+		position = 29
+		required_missions = {
+			EDG_FDM_mission_5_28
+		}
+		provinces_to_highlight = {
+			OR = {
+				culture_group = hindusthani
+				culture_group = western_aryan
+			}
+		}
+		trigger = {
+			owns = 522
+			NOT = {
+				exists = DLH
+			}
+			num_of_owned_provinces_with = {
+				value = 75
+				OR = {
+					culture_group = hindusthani
+					culture_group = western_aryan
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = hordes_fall_of_hindustan
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_4_31 = {
+		icon = jap_conquer_north_china
+		position = 31
+		required_missions = {
+			EDG_FDM_mission_5_30
+		}
+		provinces_to_highlight = {
+			owned_by = event_target:EmperorOfChina
+		}
+		trigger = {
+			OR = {
+				has_global_flag = empire_of_china_dismantled
+				war_score_against = {
+					who = event_target:EmperorOfChina
+					value = 90
+				}
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_FDMEvents.127
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_ruler_personality = legendary_conqueror_personality
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = EDG_BAV_8_4_38_modifier
+				duration = -1
+			}
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_4_32 = {
+		icon = mission_market_place_with_asian_traders
+		position = 32
+		required_missions = {
+			EDG_FDM_mission_3_31
+			EDG_FDM_mission_4_31
+			EDG_FDM_mission_5_31
+		}
+		provinces_to_highlight = {
+			continent = asia
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 600
+				continent = asia
+			}
+		}
+		effect = {
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					remove_country_modifier = EDG_FDM_mission_3_26_modifier
+					add_country_modifier = {
+						name = EDG_FDM_mission_4_32_modifier
+						duration = -1
+					}
+				"
+			}
+		}
+	}
+}
+
+EDG_FDM_mission_5 = {
+	slot = 5
+	generic = no
+	ai = yes
+	has_country_shield = yes
+	potential = {
+		tag = FDM
+	}
+	EDG_FDM_mission_5_2 = {
+		icon = mission_african_trade_post
+		position = 2
+		required_missions = {
+			EDG_FDM_mission_4_1
+		}
+		provinces_to_highlight = {
+			OR = {
+				culture_group = maghrebi
+				culture = EDG_FDM_maghrebi_culture
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_mission_5_2_tt_1
+				all_province = {
+					OR = {
+						AND = {
+							NOT = {
+								culture_group = maghrebi
+							}
+							NOT = {
+								culture = EDG_FDM_maghrebi_culture
+							}
+						}
+						owned_by = ROOT
+					}
+				}
+			}
+		}
+		effect = {
+			every_neighbor_province = {
+				limit = {
+					is_city = no
+					continent = africa
+				}
+				cede_province = ROOT
+				add_core = ROOT
+				change_religion = ROOT
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = EDG_FDM_mission_5_2_modifier
+				duration = 18250
+			}
+		}
+	}
+	EDG_FDM_mission_5_4 = {
+		icon = mission_saharan_route
+		position = 4
+		required_missions = {
+			EDG_FDM_mission_3_3
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 350
+				province_id = 2457
+				province_id = 351
+				province_id = 2456
+				province_id = 2472
+				province_id = 352
+				province_id = 2450
+				province_id = 4567
+				province_id = 2449
+				province_id = 2448
+			}
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		trigger = {
+			owns_or_non_sovereign_subject_of = 350
+			owns_or_non_sovereign_subject_of = 2457
+			owns_or_non_sovereign_subject_of = 351
+			owns_or_non_sovereign_subject_of = 2456
+			owns_or_non_sovereign_subject_of = 2472
+			owns_or_non_sovereign_subject_of = 352
+			owns_or_non_sovereign_subject_of = 2450
+			owns_or_non_sovereign_subject_of = 4567
+			owns_or_non_sovereign_subject_of = 2449
+			owns_or_non_sovereign_subject_of = 2448
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_5_4_modifier"
+				duration = 9125
+			}
+			country_event = {
+				id = EDG_FDMEvents.5
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_path_of_rebirth_disaster_bonus_tt_5
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_5_6 = {
+		icon = per_recruit_the_qizilbash
+		position = 6
+		required_missions = {
+			EDG_FDM_mission_4_5
+		}
+		provinces_to_highlight = {
+			is_core = FYM
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 10
+				is_core = FYM
+			}
+			owns_core_province = 4282
+			NOT = {
+				exists = FYM
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_6_tt_1
+			hidden_effect = {
+				every_province = {
+					limit = {
+						is_core = FYM
+					}
+					remove_core = FYM
+					add_core = ROOT
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = EDG_FDMEvents.13
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_if_we_are_still_under_the_disaster_tt
+				first_limit = "
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				"
+				first_effect = "
+					add_government_power = {
+						mechanic_type = EDG_FDM_path_of_rebirth_mechanic
+						power_type = EDG_FDM_path_of_rebirth_countdown
+						value = 10
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_5_9 = {
+		icon = mission_arabian_thalassocracy
+		position = 9
+		required_missions = {
+			EDG_FDM_mission_3_8
+			EDG_FDM_mission_5_6
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = nafud_area
+				area = qasim_area
+				area = yamamah_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 7
+				OR = {
+					area = nafud_area
+					area = qasim_area
+					area = yamamah_area
+				}
+			}
+		}
+		effect = {
+			add_estate_loyalty_modifier = {
+				estate = all
+				desc = EDG_FDM_mission_5_9_title
+				loyalty = 10
+				duration = 9125
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_mercantilism_or_monarch_power = {
+				amount = 2
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = ORM_UNLOCK_ARABIC_MERCHANTS_BURGHERS_PRIVILEGE
+			set_country_flag = orm_arabic_merchants_flag
+			custom_tooltip = EDG_SPACE_TT
+			country_event_with_option_insight = {
+				id = flavor_ormoma.2
+				option_1 = "
+					custom_tooltip = ORM_BUFF_ARABIC_MERCHANTS_PRIVILEGE_MERCHANT_BUFF
+				"
+				option_2 = "
+					custom_tooltip = ORM_BUFF_ARABIC_MERCHANTS_PRIVILEGE_LIGHT_SHIPS_BUFF
+				"
+				option_3 = "
+					custom_tooltip = ORM_BUFF_ARABIC_MERCHANTS_PRIVILEGE_DIPLOMATIC_BUFF
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_5_10 = {
+		icon = mission_arabian_fort
+		position = 10
+		required_missions = {
+			EDG_FDM_mission_5_9
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = asir_area
+				area = yemen_area
+				area = upper_yemen_area
+				area = tihama_al_yemen_area
+				area = hadramut_area
+				area = mahra_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 12
+				OR = {
+					area = asir_area
+					area = yemen_area
+					area = upper_yemen_area
+					area = tihama_al_yemen_area
+					area = hadramut_area
+					area = mahra_area
+				}
+			}
+		}
+		effect = {
+			unlock_estate_privilege = {
+				estate_privilege = estate_burghers_hydraulic_rights
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = YEM_upgrade_city_of_sanaa_non_ras
+			set_country_flag = YEM_upgrade_city_of_sanaa_non_ras_flag
+			custom_tooltip = EDG_SPACE_TT
+			country_event_with_effect_insight = {
+				id = flavor_YEM.3
+				effect = "
+					change_price = {
+						trade_goods = coffee
+						key = YEM_coffee_price_boost
+						value = 0.25
+						duration = -1
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_5_11 = {
+		icon = mission_develop_nevas_port
+		position = 11
+		required_missions = {
+			EDG_FDM_mission_5_10
+		}
+		provinces_to_highlight = {
+			OR = {
+				area = dhofar_area
+				area = mascat_area
+				area = oman_area
+				area = pirate_coast_area
+				area = bahrain_area
+			}
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 10
+				OR = {
+					area = dhofar_area
+					area = mascat_area
+					area = oman_area
+					area = pirate_coast_area
+					area = bahrain_area
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = ARB_unlock_oasis_development
+			hidden_effect = {
+				set_country_flag = ARB_unlock_oasis_development_flag
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_5_11_tt_1
+			tooltip = {
+				add_nationalism = -25
+				add_local_autonomy = -25
+				upgrade_trade_building = yes
+			}
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						culture_group = ROOT
+					}
+					add_nationalism = -25
+					add_local_autonomy = -25
+					upgrade_trade_building = yes
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			add_country_modifier = {
+				name = thalassocracy
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_5_13 = {
+		icon = mission_the_caliph
+		position = 13
+		trigger = {
+			NOT = {
+				has_estate_privilege = estate_EDG_FDM_questioned_sacred_lineage
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_13_tt_1
+		}
+	}
+	EDG_FDM_mission_5_15 = {
+		icon = mission_mal_more_tolerance_to_heathens
+		position = 15
+		required_missions = {
+			EDG_FDM_mission_4_14
+		}
+		trigger = {
+			innovativeness = 50
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_15_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_5_15_tt_2
+			set_country_flag = EDG_BAV_5_1_11_flag
+		}
+	}
+	EDG_FDM_mission_5_16 = {
+		icon = per_an_asha_empire
+		position = 16
+		required_missions = {
+			EDG_FDM_mission_5_15
+		}
+		trigger = {
+			innovativeness = 100
+			is_lacking_institutions = no
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_16_tt_1
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = flavor_mam.104
+			}
+			custom_tooltip = flavor_mam.104_tt
+		}
+	}
+	EDG_FDM_mission_5_18 = {
+		icon = build_a_roman_navy
+		position = 18
+		provinces_to_highlight = {
+			owned_by = ROOT
+			has_port = yes
+			has_dock_building_trigger = no
+			has_shipyard_building_trigger = no
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 20
+				OR = {
+					has_dock_building_trigger = yes
+					has_shipyard_building_trigger = yes
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_18_tt_1
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						has_dock_building_trigger = yes
+					}
+					upgrade_dock_building = yes
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_5_18_tt_2
+			hidden_effect = {
+				every_owned_province = {
+					limit = {
+						has_shipyard_building_trigger = yes
+					}
+					upgrade_shipyard_building = yes
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_5_18_tt_3
+		}
+	}
+	EDG_FDM_mission_5_19 = {
+		icon = imperial_navy
+		position = 19
+		required_missions = {
+			EDG_FDM_mission_5_18
+		}
+		provinces_to_highlight = {
+			province_id = 365
+		}
+		trigger = {
+			navy_size = 75
+			365 = {
+				has_building = drydock
+				has_building = grand_shipyard
+				num_of_buildings_in_province = 4
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_5_19_modifier"
+				duration = -1
+			}
+			358 = {
+				add_trade_modifier = {
+					who = ROOT
+					duration = -1
+					power = 50
+					key = EDG_FDM_mission_5_19_title
+				}
+			}
+			388 = {
+				add_trade_modifier = {
+					who = ROOT
+					duration = -1
+					power = 50
+					key = EDG_FDM_mission_5_19_title
+				}
+			}
+			377 = {
+				add_trade_modifier = {
+					who = ROOT
+					duration = -1
+					power = 50
+					key = EDG_FDM_mission_5_19_title
+				}
+			}
+			410 = {
+				add_trade_modifier = {
+					who = ROOT
+					duration = -1
+					power = 50
+					key = EDG_FDM_mission_5_19_title
+				}
+			}
+			2999 = {
+				add_trade_modifier = {
+					who = ROOT
+					duration = -1
+					power = 50
+					key = EDG_FDM_mission_5_19_title
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_5_20 = {
+		icon = mission_aragonese_navy
+		position = 20
+		required_missions = {
+			EDG_FDM_mission_5_19
+		}
+		provinces_to_highlight = {
+			OR = {
+				province_id = 1328
+				province_id = 1329
+				province_id = 4333
+			}
+		}
+		trigger = {
+			calc_true_if = {
+				amount = 4
+				all_trade_node = {
+					is_strongest_trade_power = ROOT
+				}
+			}
+			1328 = {
+				num_of_units_in_province = {
+					amount = 10
+					who = ROOT
+					type = light_ship
+				}
+			}
+			1329 = {
+				num_of_units_in_province = {
+					amount = 10
+					who = ROOT
+					type = light_ship
+				}
+			}
+			4333 = {
+				num_of_units_in_province = {
+					amount = 10
+					who = ROOT
+					type = light_ship
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_5_20_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_5_21 = {
+		icon = mission_russian_navy
+		position = 21
+		required_missions = {
+			EDG_FDM_mission_4_20
+			EDG_FDM_mission_5_20
+		}
+		provinces_to_highlight = {
+			province_id = 4316
+		}
+		trigger = {
+			navy_size = 200
+			4316 = {
+				has_great_project = {
+					type = suez_canal
+					tier = 3
+				}
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_5_21_modifier"
+				duration = -1
+			}
+		}
+	}
+	EDG_FDM_mission_5_23 = {
+		icon = mission_african_gold
+		position = 23
+		trigger = {
+			monthly_income = 75
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_23_tt_2
+			set_country_flag = EDG_MAM_unlock_special_state_edicts
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_5_23_tt_4
+			custom_tooltip = EDG_SPACE_TT
+			custom_tooltip = EDG_FDM_mission_5_23_tt_6
+		}
+	}
+	EDG_FDM_mission_5_24 = {
+		icon = mal_trade_with_europeans
+		position = 24
+		required_missions = {
+			EDG_FDM_mission_5_23
+		}
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_mission_5_24_tt_1
+				home_trade_node = {
+					any_trade_node_member_province = {
+						OR = {
+							province_id = 235
+							province_id = 101
+							province_id = 426
+						}
+					}
+					trade_share = {
+						country = ROOT
+						share = 50
+					}
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_24_tt_2
+			set_country_flag = enable_export_grain_dip_action_flag
+			custom_tooltip = EDG_SPACE_TT
+			enable_trading_policy = {
+				policy = maximize_profit_upgraded
+			}
+			enable_trading_policy = {
+				policy = hostile_trading_upgraded
+			}
+			enable_trading_policy = {
+				policy = improve_inland_routes_upgraded
+			}
+			enable_trading_policy = {
+				policy = establish_communities_upgraded
+			}
+			custom_tooltip = EDG_SPACE_TT
+			home_trade_node_effect_scope = {
+				add_trade_modifier = {
+					who = ROOT
+					duration = -1
+					power = 100
+					key = EDG_FDM_mission_5_24_title
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			country_event = {
+				id = flavor_mam.102
+			}
+			custom_tooltip = flavor_mam.102_tt
+		}
+	}
+	EDG_FDM_mission_5_25 = {
+		icon = mission_the_golden_city
+		position = 25
+		required_missions = {
+			EDG_FDM_mission_5_24
+		}
+		trigger = {
+			trade_goods_produced_amount = {
+				trade_goods = grain
+				amount = 100
+			}
+		}
+		effect = {
+			add_country_modifier = {
+				name = "EDG_FDM_mission_5_25_modifier"
+				duration = -1
+			}
+			# country_event = {
+			# 	id = flavor_mam.2
+			# }
+			# custom_tooltip = flavor_mam.2_tt
+			# custom_tooltip = EDG_SPACE_TT
+			# complex_dynamic_effect = {
+			# 	first_custom_tooltip = EDG_FDM_mission_5_25_tt_1
+			# 	first_limit = "
+			# 		any_ally = {
+			# 			primary_culture = bavarian
+			# 		}
+			# 	"
+			# 	first_effect = "
+			# 		custom_tooltip = EDG_FDM_mission_5_25_tt_2
+			# 		set_country_flag = EDG_BAV_4_4_12_flag
+			# 	"
+			# }
+		}
+	}
+	EDG_FDM_mission_5_26 = {
+		icon = mission_golden_century
+		position = 26
+		required_missions = {
+			EDG_FDM_mission_4_25
+			EDG_FDM_mission_5_25
+		}
+		trigger = {
+			monthly_income = 500
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_26_tt_1
+			tooltip = {
+				add_country_modifier = {
+					name = "EDG_FDM_mission_5_26_modifier_1"
+					duration = -1
+				}
+			}
+		}
+	}
+	EDG_FDM_mission_5_28 = {
+		icon = mission_iroquois_the_three_sisters
+		position = 28
+		required_missions = {
+			EDG_FDM_mission_4_27
+		}
+		provinces_to_highlight = {
+			region = khorasan_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			num_of_owned_provinces_with = {
+				value = 25
+				region = khorasan_region
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_28_tt_1
+			set_country_flag = EDG_TAB_player_can_used_project_TIM_yes
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_5_29 = {
+		icon = Burn_Wooden_Wall
+		position = 29
+		required_missions = {
+			EDG_FDM_mission_5_28
+		}
+		provinces_to_highlight = {
+			OR = {
+				culture_group = eastern_aryan
+				culture_group = central_indic
+				culture_group = dravidian
+			}
+		}
+		trigger = {
+			owns = 1948
+			owns = 541
+			num_of_owned_provinces_with = {
+				value = 75
+				OR = {
+					culture_group = eastern_aryan
+					culture_group = central_indic
+					culture_group = dravidian
+				}
+			}
+		}
+		effect = {
+			custom_tooltip = EDG_FDM_mission_5_29_tt_1
+			tooltip = {
+				add_base_tax = -1
+				add_base_production = -1
+				add_base_manpower = -1
+				change_religion = shiite
+			}
+			hidden_effect = {
+				for = {
+					amount = 20
+					effect = "
+						random_owned_province = {
+							limit = {
+								religion = hinduism
+							}
+							add_base_tax = -1
+							add_base_production = -1
+							add_base_manpower = -1
+							change_religion = shiite
+						}
+					"
+				}
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_5_30 = {
+		icon = mission_buddhist_monk_praying
+		position = 30
+		required_missions = {
+			EDG_FDM_mission_3_29
+			EDG_FDM_mission_4_29
+			EDG_FDM_mission_5_29
+		}
+		provinces_to_highlight = {
+			region = tibet_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns = 677
+			NOT = {
+				exists = TIB
+			}
+			num_of_owned_provinces_with = {
+				value = 15
+				region = tibet_region
+			}
+		}
+		effect = {
+			country_event = {
+				id = EDG_FDMEvents.126
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+	EDG_FDM_mission_5_31 = {
+		icon = qng_conquer_south_china
+		position = 31
+		required_missions = {
+			EDG_FDM_mission_5_30
+		}
+		provinces_to_highlight = {
+			superregion = china_superregion
+			NOT = {
+				owned_by = ROOT
+			}
+		}
+		trigger = {
+			owns = 1816
+			owns = 1821
+			owns = 667
+			NOT = {
+				exists = YUA
+			}
+			NOT = {
+				exists = MNG
+			}
+			NOT = {
+				exists = QNG
+			}
+			num_of_owned_provinces_with = {
+				value = 80
+				superregion = china_superregion
+			}
+		}
+		effect = {
+			change_price = {
+				trade_goods = silk
+				key = EDG_FDM_mission_5_31_title
+				value = 0.25
+				duration = -1
+			}
+			custom_tooltip = EDG_SPACE_TT
+			complex_dynamic_effect = {
+				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
+				first_limit = "
+					has_country_modifier = EDG_FDM_mission_3_26_modifier
+				"
+				first_effect = "
+					custom_tooltip = EDG_FDM_mission_3_26_tt_3
+					hidden_effect = {
+						remove_country_modifier = EDG_FDM_mission_3_26_modifier
+						add_country_modifier = {
+							name = EDG_FDM_mission_3_26_modifier
+							duration = 9125
+						}
+					}
+				"
+			}
+		}
+	}
+}

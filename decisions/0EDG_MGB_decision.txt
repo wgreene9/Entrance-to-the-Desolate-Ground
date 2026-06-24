@@ -16,6 +16,7 @@ country_decisions = {
 				ai = no
 			}
 			NOT = { tag = CDC }
+			NOT = { tag = FDM }
 			NOT = { tag = ADU }
 			NOT = { tag = MGB }
 			NOT = { tag = MOR }

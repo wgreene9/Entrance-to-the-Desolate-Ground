@@ -1,0 +1,53 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_diplomacy_action_"
+		texturefile = "gfx/interface/icon_diplomacy_caliph.dds"
+		alwaystransparent = yes
+	}
+	spriteType = {
+		name = "GFX_idea_EDG_caliph_ideas"
+		texturefile = "gfx/interface/ideas/EDG_caliph_ideas.dds"
+		noOfFrames = 1
+		effectFile = "gfx/FX/buttonstate.lua"
+	}
+	spriteType = {
+		name = "GFX_disaster_EDG_FDM_path_of_rebirth_disaster"
+		texturefile = "gfx/interface/disasters/EDG_FDM_path_of_rebirth_disaster.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_disaster_EDG_FDM_sword_of_despair_disaster"
+		texturefile = "gfx/interface/disasters/siamese_revolution.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_disaster_EDG_FDM_scale_of_imam_disaster"
+		texturefile = "gfx/interface/disasters/dlc/domination/tur_disaster_eyalet_rebellion.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_disaster_EDG_FDM_egyptian_in_name_only_disaster"
+		texturefile = "gfx/interface/disasters/revolution.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_disaster_EDG_FDM_tear_of_iset_disaster"
+		texturefile = "gfx/interface/disasters/dark_age_of_cambodia.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "GFX_disaster_EDG_FDM_plight_of_the_red_sea_disaster"
+		texturefile = "gfx/interface/disasters/bonfire_of_the_vanities_disaster.dds"
+		noOfFrames = 3
+		loadType = "INGAME"
+	}
+	spriteType = {
+		name = "EDG_FDM_GUI_military_control_button"
+		texturefile = "gfx/interface/EDG_FDM_GUI_military_control_button.dds"
+	}
+}

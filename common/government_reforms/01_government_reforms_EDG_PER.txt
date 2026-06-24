@@ -929,7 +929,7 @@ EDG_Persian_provinces_reform = {#波斯行省制度
 	}
 	custom_attributes = {
 		EDG_Persian_provinces_reform_ability = yes
-		EDG_same_culture_subject_get_land_moral_ability = yes
+		# EDG_same_culture_subject_get_land_moral_ability = yes
 	}
 	ai = {
 		factor = 300

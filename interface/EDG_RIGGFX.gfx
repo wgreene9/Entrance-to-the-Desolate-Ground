@@ -188,8 +188,8 @@ spriteTypes = {
 		texturefile = "gfx/interface/privileges/privileges_estate_rig_knightage_TEU_quartered.dds"
 	}
 	spriteType = {
-		name = "EDG_ICON_"
-		texturefile = "gfx//interface//missions//EDG_ICON_.dds"
+		name = "EDG_ICON_one_city_on_world"
+		texturefile = "gfx//interface//missions//EDG_ICON_one_city_on_world.dds"
 	}
 	spriteType = {
 		name = "EDG_picture"

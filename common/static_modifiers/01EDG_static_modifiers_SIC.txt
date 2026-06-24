@@ -1,60 +1,363 @@
-EDG_MISSION_SIC_1_1_modifier = {#外交支点
-	diplomatic_reputation = 1
-	diplomats = 1
-}
-EDG_MISSION_SIC_2_2_modifier = {#建立西西里正教会
-	yearly_patriarch_authority = 0.01
-	tolerance_own = 1
-}
-EDG_MISSION_SIC_2_4_modifier = {#西西里军区系统
-	manpower_recovery_speed = 0.1
-	land_forcelimit_modifier = 0.1
-}
-EDG_MISSION_SIC_3_1_modifier = {#护国议会的稳定
-	manpower_recovery_speed = 0.1
-	land_morale = 0.05
-}
-EDG_MISSION_SIC_3_2_modifier = {#西西里-那不勒斯战争
-	ae_impact = -0.1
-	land_morale = 0.05
-}
-EDG_MISSION_SIC_3_3_modifier = {#西西里-意大利战争
-	core_creation = -0.1
-	land_morale = 0.05
-}
-EDG_MISSION_SIC_4_4_modifier = {#建立司法系统
-	core_creation = -0.1
-	global_autonomy = -0.05
-}
-EDG_MISSION_SIC_5_3_modifier = {#恢复帝国疆土
-	core_creation = -0.1
+#西西里
+ #修正
+ EDG_SIC_Fatimid_integrate_sicily_modifier = {
+	diplomatic_annexation_cost = -0.25
+ }
+ EDG_SIC_loyal_Sicily_modifier = {
+	liberty_desire = -100
+	global_tax_modifier = 0.25
+	land_forcelimit_modifier = 0.20
+ }
+ EDG_SIC_Inner_Troubles = {
+	can_not_declare_war = yes
+	national_focus_years = 10
+	republican_tradition = -0.5
+ }
+ EDG_SIC_intervene_sicily_civil_war_modifier = {
 	land_morale = 0.1
-}
-EDG_MISSION_SIC_5_1_modifier = {#光复意大利「I」
+	siege_ability = 0.25
+	war_exhaustion = -0.1
+ }
+ EDG_SIC_Reforms_of_Issac = {
+	land_forcelimit = 10
+	global_tax_income = 24
+	trade_efficiency = 0.1
+ }
+ EDG_SIC_PUA_lose_capital_modifier = {
+	defensiveness = -0.5
+	shock_damage_received = 0.5
+ }
+ EDG_SIC_Fatimid_Support_modifier = {
+	movement_speed = 0.1
+	reinforce_speed = 0.33
+ }
+ EDG_SIC_rebuild_country_modifier = {
+	development_cost = -0.1
+	build_time = -0.25
+	build_cost = -0.25
+ }
+ EDG_SIC_end_disasters_modifier = {
+	global_monthly_devastation = -0.25
+	global_prosperity_growth = 0.25
+ }
+#叙拉古
+ #任务树
+  EDG_GRE_back_home = {
+	 siege_ability = 0.10
+	 landing_penalty = -3
+	 transport_attrition = -1
+  }
+  EDG_GRE_Rejuvenate_Magna_Graecia = {
+	manpower_in_own_culture_provinces = 0.50
+	development_cost_in_primary_culture = -0.1
+ }
+  EDG_GRE_expel_crusaders = {
+	military_tactics = 0.25
+	global_heretic_missionary_strength = 0.03
+	reverse_relation_with_heretic_religion = -25
+ }
+  EDG_GRE_Hellenic_Revenge_on_Latin_modifier = {
+	local_missionary_strength = 0.05
+	local_religious_unity_contribution = -1
+	local_missionary_maintenance_cost = -1
+	local_tax_modifier = 0.25
+ }
+  EDG_GRE_Destroy_Nova_Rome = {
 	core_creation = -0.05
-	land_morale = 0.05
+	nobles_influence_modifier = -0.1
+	monthly_EDG_Syracusae_military_government_ability_power = 0.05
+ }
+  EDG_GRE_Save_Hellas = {
+	advisor_cost = -0.25
+	all_estate_loyalty_equilibrium = 0.1
+	monthly_EDG_Syracusae_military_government_ability_power = 0.05
+ }
+  EDG_GRE_Ducate_of_pontus_modifier = {
+	local_tolerance_of_heathens = 5
+	local_religious_unity_contribution = -1
+	local_manpower = 2.5
+	trade_goods_size_modifier = 0.25
+	local_governing_cost = -0.25
+  }
+  EDG_GRE_NOM_Ducate = {
+	global_trade_goods_size_modifier = 0.25
+	global_manpower = 25
+	leader_siege = 2
+	siege_ability = 0.25
+  }
+  EDG_GRE_MOE_Ducate = {
+	discipline = 0.05
+	global_manpower = 25
+	land_forcelimit = 10
+	infantry_shock = 0.5
+  }
+  EDG_GRE_AZO_Ducate = {
+	global_manpower = 25
+	cav_to_inf_ratio = 0.5
+	cavalry_fire = 0.5
+	cavalry_cost = -0.33
+  }
+  EDG_GRE_TAB_Ducate = {
+	global_manpower = 25
+	land_forcelimit = 10
+	land_morale = 0.20
+	global_regiment_cost = -0.33
+  }
+  EDG_GRE_BAC_Ducate = {
+	global_manpower = 25
+	fire_damage = 0.1
+	shock_damage = 0.1
+	land_maintenance_modifier = -0.25
+  }
+  EDG_GRE_Alexandar_Diadoch = {
+	shock_damage = 0.1
+	years_of_nationalism = -5
+  }
+  EDG_GRE_Philhellenism = {
+	shock_damage_received = -0.1
+	cavalry_flanking = 1.0
+  }
+ #同盟者
+  EDG_Hellenic_alliance_subject_Basic = {
+	 global_manpower_modifier = 0.25
+	 land_forcelimit_modifier = 0.30
+	 naval_forcelimit_modifier = 0.30
+	 defensiveness = 0.2
+	 fort_maintenance_modifier = -0.20
+	 manpower_recovery_speed = 0.20
+	 land_maintenance_modifier = -0.20
+	 naval_maintenance_modifier = -0.20
+	 global_tax_income = 60
+ }
+
+  EDG_Hellenic_alliance_overlord_Basic = {
+	 land_forcelimit_modifier = 0.05
+	 military_tactics = 0.05
+ }
+
+  EDG_GRE_subject_Sparta_modifier = {
+	 army_tradition_decay = -0.01
+ }
+
+  EDG_GRE_subject_Aegyptus_modifier = {
+	 global_trade_goods_size_modifier = 0.1
+ }
+
+  EDG_GRE_subject_Bosprus_modifier = {
+	 merchants = 1
+ }
+
+  EDG_GRE_subject_Bactria_modifier = {
+	 great_project_upgrade_time = -0.25
+ }
+  
+  EDG_GRE_subject_Landsia_modifier = {
+	fire_damage_received = -0.1
+  }
+
+  EDG_GRE_subject_Pannonia_modifier = {
+	 shock_damage_received = -0.1
+ }
+
+  EDG_GRE_subject_Carthage_modifier = {
+	 colonists = 1
+ } 
+
+  EDG_GRE_subject_Meroes_modifier = {
+	 development_cost_modifier = -0.10
+ }
+
+  EDG_GRE_subject_Auomatia_modifier = {
+	 missionaries = 1
+ }
+
+  EDG_GRE_subjectprof_modifier = {
+	 yearly_army_professionalism = 0.005
+ }
+
+  EDG_GRE_subjectmove_modifier = {
+ 	 movement_speed = 0.03
+ }
+
+  EDG_GRE_subjectflagship_modifier = {
+	 max_flagships = 1
+ }
+
+  EDG_GRE_subjectadm_modifier = {
+	 administrative_efficiency = 0.02
+ }
+
+  EDG_GRE_subjectmis_modifier = {
+	 global_missionary_strength = 0.02
+ }
+
+  EDG_GRE_subjectdevelop_modifier = {
+	 development_cost = -0.05
+ }
+   
+  EDG_GRE_subjectrt_modifier = {
+	 republican_tradition = 0.3
+ }
+
+  EDG_GRE_subjectloy_modifier = {
+	 all_estate_loyalty_equilibrium = 0.05
+ }
+
+  EDG_GRE_subjectabsolutism_modifier = {
+	 max_absolutism = 10
+ }
+
+  EDG_GRE_subjectfleet_modifier = {
+	 heavy_ship_power = 0.05
+ }
+
+  EDG_GRE_subjectinfan_modifier = {
+	 infantry_power = 0.1
+ }
+
+ #海外领地
+  EDG_GRE_Overseas_Territory_subject_Basic = {
+	 build_cost = -0.1
+	 colonists = 1                             
+     global_trade_goods_size_modifier = 0.10    
+     state_maintenance_modifier = -0.33          
+     development_cost_modifier = -0.20  
+	 monthly_EDG_pan_hellas = 3         
+ }
+  EDG_GRE_Elysium_subject_1 = {
+	 colonist_placement_chance = 0.1
+	 colony_development_boost = 1
+ }
+  EDG_GRE_Elysium_subject_2 = {
+	 global_trade_goods_size_modifier = 0.1
+	 production_efficiency = 0.25
+ }
+  EDG_GRE_Elysium_subject_3 = {
+	 land_forcelimit_modifier = 0.33
+	 manpower_recovery_speed = 0.1
+ }
+
+  EDG_GRE_Overseas_Territory_overlord_Basic = {
+	 merchants = 1      
+     global_trade_goods_size_modifier = 0.10
+ }  
+  EDG_GRE_Elysium_overlord_1 = {
+	 global_unrest = -2
+ }
+  EDG_GRE_Elysium_overlord_2 = {
+	 min_autonomy_in_territories = -0.1
+ }
+  EDG_GRE_Elysium_overlord_3 = {
+	 drill_decay_modifier = -0.5
+	 yearly_army_professionalism = 1.0
+ }
+
+ #边疆区
+  EDG_Hellenic_Methorion_subject_Basic = {
+	 infantry_power = 0.2
+	 army_tradition = 1.0
+	 land_forcelimit = 10
+	 land_morale = 0.05
+	 global_tax_income = 60
+ }
+  EDG_Hellenic_Methorion_overlord_Basic = {
+	 general_cost = -0.06
+	 morale_damage_received = -0.05
+	 global_tax_income = -60
 }
-EDG_MISSION_SIC_5_2_modifier = {#光复意大利「II」
-	core_creation = -0.1
-	land_morale = 0.1
-}
-EDG_MISSION_SIC_5_3_modifier = {#光复意大利「III」
-	core_creation = -0.15
-	land_morale = 0.1
+
+ #政府改革
+  EDG_GRE_Hellenic_Nationalism_modifier = {
+	  local_unrest = -3
+	  local_development_cost = -0.1
+	  trade_goods_size_modifier = 0.25
+	  local_manpower_modifier = 0.25
+	  allowed_num_of_buildings = 1
+  }
+
+ #特权
+  EDG_GRE_Illyrian_Hussars_modifier = {
+	cavalry_fire = 0.25
+	cavalry_power = 0.25
+	shock_damage = 0.25
+	is_hussars_modifier = yes
+  }
+
+ #事件
+  EDG_GRE_Byzantium_province_modifier = {
+	local_governing_cost = -1.0
+	statewide_governing_cost = -0.5
+	local_great_project_upgrade_cost = -0.25
+	local_development_cost_modifier = -0.1
+	local_development_cost = -0.2
+	local_build_time = -0.25
+	local_prosperity_growth = 0.1
+	allowed_num_of_manufactories = 1
+	allowed_num_of_buildings = 1
+	local_great_project_upgrade_time = -0.25
+ }
+  EDG_GRE_Athen_province_modifier = {
+	institution_growth = 2.0
+	local_institution_spread = 1
+	local_build_cost = -0.10
+	local_development_cost = -0.1
+	local_development_cost_modifier = -0.1
+ }
+  EDG_GRE_Kill_Arta_modifier = {
+	diplomatic_reputation = -1
+	morale_damage = 0.1
 	army_tradition = 0.5
-}
-EDG_MISSION_SIC_5_4_modifier = {#光复意大利「IV」
-	core_creation = -0.2
-	land_morale = 0.1
-	army_tradition = 1
-}
-EDG_MISSION_SIC_5_5_modifier = {#光复意大利「V」
-	core_creation = -0.2
-	land_morale = 0.1
-	army_tradition = 1
-	global_manpower_modifier = 0.1
-}
-EDG_flavor_SIC_0_modifier = {#罗马再征服
-	core_creation = -0.1
-	land_morale = 0.1
-}
+ }
+  EDG_GRE_Thessaly_Stud_Farm_modifier = {
+	local_development_cost = -0.1
+	local_development_cost_modifier = -0.05
+	local_manpower = 2
+	trade_goods_size = 0.5
+	local_production_efficiency = 0.25
+ }
+  EDG_GRE_reconquer_North_Epirus_modifier = {
+	prestige_decay = -0.01
+	republican_tradition = 0.3
+	local_development_cost = -0.1
+	trade_goods_size_modifier = 0.1
+	allowed_num_of_buildings = 1
+ }
+  EDG_GRE_Elysium_fund = {
+	global_tax_income = 36
+	colony_cost_modifier = -0.25
+	colony_development_boost = 1
+	liberty_desire = -33
+ }
+  EDG_GRE_raise_Thessaly_warhorse = {
+	cavalry_shock = 0.25
+	cavalry_cost = -0.25
+	cavalry_flanking = 0.5
+ }
+  EDG_GRE_Bulgarian_Butcher = {
+	global_unrest = -2
+	shock_damage = 0.1
+ }
+  EDG_GRE_gift_of_Mithras = {
+	tolerance_own = -1
+	tolerance_heathen = 3
+	tolerance_of_heathens_capacity = 3
+  }
+  EDG_GRE_Stick_to_True_Faith = {
+	tolerance_own = 1
+	religion = yes
+  }
+ #决议
+  EDG_GRE_Supprot_Noms = {
+	envoy_travel_time = -0.10
+	ae_impact = -0.1
+  }
+
+#霍亨斯陶芬西西里
+ #特权
+  EDG_SIC_interracial_Girko_Community_modifier = {
+	  local_tolerance_of_heretics = 3
+	  local_development_cost = -0.1
+	  trade_goods_size_modifier = 0.10
+	  local_manpower_modifier = 0.10
+	  allowed_num_of_buildings = 1
+  }

@@ -63,6 +63,7 @@ country_event = {
 		ai = no
 		NOT = {
 			OR = {
+				tag = FDM
 				tag = LBV  
 				tag = LST  
 				tag = DBY

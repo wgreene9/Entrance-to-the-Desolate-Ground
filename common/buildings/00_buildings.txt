@@ -690,6 +690,18 @@ shipyard = {
 			type = production
 			value = 1
 		}
+		if = {
+			limit = {
+				FROM = {
+					mission_completed = EDG_FDM_mission_5_18
+				}
+			}
+			hidden_effect = {
+				province_event = {
+					id = EDG_FDMEvents.56
+				}
+			}
+		}
 	}
 	on_destroyed = {
 		remove_development_from_building = {
@@ -975,6 +987,16 @@ courthouse = {
 				duration = -1
 			}
 		}
+		if = {
+			limit = {
+				FROM = {
+					mission_completed = EDG_FDM_mission_1_25
+				}
+			}
+			province_event = {
+				id = EDG_FDMEvents.57
+			}
+		}
 	}
 	on_destroyed = {
 		remove_development_from_building = {
@@ -1095,6 +1117,16 @@ dock = {
 			building = dock
 			type = production
 			value = 1
+		}
+		if = {
+			limit = {
+				FROM = {
+					mission_completed = EDG_FDM_mission_5_18
+				}
+			}
+			province_event = {
+				id = EDG_FDMEvents.55
+			}
 		}
 	}
 	on_destroyed = {

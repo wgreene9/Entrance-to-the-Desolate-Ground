@@ -313,7 +313,7 @@ EDG_BUL_Rebuilding_Imperial_Diocese = {#重建帝国教省
 	}
 	custom_attributes = {
 		EDG_reduce_local_autonomy_from_conversions = yes
-		EDG_same_religion_subject_provide_tolerance_ability = yes		#同宗教的属国提供0.25正统容忍
+		# EDG_same_religion_subject_provide_tolerance_ability = yes		#同宗教的属国提供0.25正统容忍
 	}
 
 	modifiers = {
@@ -377,7 +377,7 @@ EDG_Military_Service_Law_Economy = {#军役法与战争署
 		}
 	}
 	custom_attributes = {
-		EDG_same_culture_subject_get_land_moral_ability = yes
+		# EDG_same_culture_subject_get_land_moral_ability = yes
 		EDG_estate_nobles_officer_corp_P_provide_warscore_from_battles_ability = yes
 	}
 

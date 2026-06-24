@@ -1,0 +1,39 @@
+EDG_FDM_enhanced_ideas = {
+	free = yes
+	trigger = {
+		tag = FDM
+		mission_completed = EDG_FDM_mission_3_8
+	}
+	start = {
+		years_of_nationalism = -10
+		governing_cost = -0.1
+	}
+	bonus = {
+		governing_capacity_modifier = 0.25
+	}
+	EDG_FDM_enhanced_ideas_1 = {
+		core_creation = -0.1
+	}
+	EDG_FDM_enhanced_ideas_2 = {
+		cav_to_inf_ratio = 0.1
+		cavalry_power = 0.2
+	}
+	EDG_FDM_enhanced_ideas_3 = {
+		monthly_piety_accelerator = 0.002
+	}
+	EDG_FDM_enhanced_ideas_4 = {
+		all_estate_loyalty_equilibrium = 0.1
+		allow_free_estate_privilege_revocation = yes
+	}
+	EDG_FDM_enhanced_ideas_5 = {
+		global_unrest = -2
+		global_trade_goods_size_modifier = 0.1
+	}
+	EDG_FDM_enhanced_ideas_6 = {
+		shock_damage = 0.25
+	}
+	EDG_FDM_enhanced_ideas_7 = {
+		extra_manpower_at_religious_war = yes
+		warscore_cost_vs_other_religion = -0.1
+	}
+}

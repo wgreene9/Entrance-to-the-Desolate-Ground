@@ -1,0 +1,30 @@
+merc_EDG_FDM_caliphal_guard = {
+	min_size = 15
+	max_size = 15
+	no_additional_manpower_from_max_size = yes
+	home_province = 339
+	cavalry_weight = 1
+	cost_modifier = 0.25
+	sprites = {
+		dlc048_tim_sprite_pack
+		muslimgfx_sprite_pack
+		dlc080_alh_sprite_pack
+		dlc058_mam_sprite_pack
+		dlc002_mam_sprite_pack
+		dlc002_tur_sprite_pack
+		dlc042_tur_sprite_pack
+		tur_base_sprite_pack
+	}
+	trigger = {
+		tag = FDM
+		mission_completed = EDG_FDM_mission_3_2
+		is_allowed_to_recruit_mercenaries = yes
+	}
+	modifier = {
+		cav_to_inf_ratio = 1
+		fire_damage = 0.1
+		shock_damage = 0.1
+		land_morale = 0.1
+		recover_army_morale_speed = 0.25
+	}
+}

@@ -10696,6 +10696,18 @@ kaaba = {
 				build_time = -0.10
 			}
 		}
+		conditional_modifier = {
+			trigger = {
+				owner = {
+					mission_completed = EDG_FDM_mission_3_15
+				}
+			}
+			modifier = {
+				missionaries = 1
+				global_missionary_strength = 0.02
+				monthly_piety_accelerator = 0.001
+			}
+		}
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
@@ -10947,6 +10959,19 @@ holy_city_jerusalem = {
 			monthly_fervor_increase = 1
 			church_power_modifier = 0.15
 			papal_influence = 1
+		}
+
+		conditional_modifier = {
+			trigger = {
+				owner = {
+					mission_completed = EDG_FDM_mission_3_15
+				}
+			}
+			modifier = {
+				missionaries = 1
+				global_missionary_strength = 0.02
+				monthly_piety_accelerator = 0.001
+			}
 		}
 
 		#what effects happen when this tier is achieved
@@ -14333,6 +14358,19 @@ holy_city_kairouan = {
 			}
 			modifier = {
 				overextension_impact_modifier = -0.1
+			}
+		}
+
+		conditional_modifier = {
+			trigger = {
+				owner = {
+					mission_completed = EDG_FDM_mission_3_15
+				}
+			}
+			modifier = {
+				missionaries = 1
+				global_missionary_strength = 0.02
+				monthly_piety_accelerator = 0.001
 			}
 		}
 	}

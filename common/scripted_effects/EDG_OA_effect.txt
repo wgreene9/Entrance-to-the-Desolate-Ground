@@ -260,50 +260,81 @@ EDG_on_emperor_elected_OA_effect = {
 	}
 }
 EDG_OA_on_war_won_effect = {
-	ROOT = {
-		add_government_power = {
-			mechanic_type = EDG_Militaristic_fervor_ability
-			power_type = EDG_Militaristic_fervor_power
-			value = 2.5
-		}
-		add_government_power = {
-			mechanic_type = ability_EDG_KAZ_Monarchy_ability
-			power_type = EDG_KAZ_Monarchy_power
-			value = 2.5
-		}
-	}
+    ROOT = {
+        if = {
+            limit = {
+                has_government_mechanic = EDG_Militaristic_fervor_ability
+            }
+            add_government_power = {
+                mechanic_type = EDG_Militaristic_fervor_ability
+                power_type = EDG_Militaristic_fervor_power
+                value = 2.5
+            }
+        }
+        if = {
+            limit = {
+                has_government_mechanic = EDG_KAZ_Monarchy_ability
+            }
+            add_government_power = {
+                mechanic_type = EDG_KAZ_Monarchy_ability
+                power_type = EDG_KAZ_Monarchy_power
+                value = 2.5
+            }
+        }
+    }
 
 }
 EDG_OA_on_battle_won_country_effect = {
-	ROOT = {
-		add_government_power = {
-			mechanic_type = EDG_Militaristic_fervor_ability
-			power_type = EDG_Militaristic_fervor_power
-			value = 0.5
-		}
-		add_government_power = {
-			mechanic_type = ability_EDG_KAZ_Monarchy_ability
-			power_type = EDG_KAZ_Monarchy_power
-			value = 0.5
-		}
-	}
+    ROOT = {
+        if = {
+            limit = {
+                has_government_mechanic = EDG_Militaristic_fervor_ability
+            }
+            add_government_power = {
+                mechanic_type = EDG_Militaristic_fervor_ability
+                power_type = EDG_Militaristic_fervor_power
+                value = 0.5
+            }
+        }
+        if = {
+            limit = {
+                has_government_mechanic = EDG_KAZ_Monarchy_ability
+            }
+            add_government_power = {
+                mechanic_type = EDG_KAZ_Monarchy_ability
+                power_type = EDG_KAZ_Monarchy_power
+                value = 0.5
+            }
+        }
+        
+    }
 }
 EDG_OA_on_siege_won_country_effect = {
-	root = {
-		add_government_power = {
-			mechanic_type = EDG_Militaristic_fervor_ability
-			power_type = EDG_Militaristic_fervor_power
-			value = 0.5
-		}
-		add_government_power = {
-			mechanic_type = ability_EDG_KAZ_Monarchy_ability
-			power_type = EDG_KAZ_Monarchy_power
-			value = 0.5
-		}
-	}
-	FYM = {
-		country_event = { id = EDG_FYM_Caliph_war.8 }
-	}
+    root = {
+        if = {
+            limit = {
+                has_government_mechanic = EDG_Militaristic_fervor_ability
+            }
+            add_government_power = {
+                mechanic_type = EDG_Militaristic_fervor_ability
+                power_type = EDG_Militaristic_fervor_power
+                value = 0.5
+            }
+        }
+        if = {
+            limit = {
+                has_government_mechanic = EDG_KAZ_Monarchy_ability
+            }
+            add_government_power = {
+                mechanic_type = EDG_KAZ_Monarchy_ability
+                power_type = EDG_KAZ_Monarchy_power
+                value = 0.5
+            }
+        }
+    }
+    FYM = {
+        country_event = { id = EDG_FYM_Caliph_war.8 }
+    }
 }
 EDG_on_province_culture_changed_effect = {
 	

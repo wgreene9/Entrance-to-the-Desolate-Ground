@@ -1,34 +1,39 @@
 government = republic
 add_government_reform = protectorate_parliament_reform
-government_rank = 1
-technology_group = western
-religion =orthodox
+government_rank = 2
+technology_group = eastern
+religion  = orthodox
 primary_culture = greek
 add_accepted_culture = sicilian
-capital = 125
+capital = 2982
+national_focus = MIL
+mercantilism = 25
+add_army_professionalism = 0.10
 
-1412.1.28 = {
+1411.1.1 = {
   monarch = {
-    name = "O(„KQ IV"  # Claudio
-    dynasty = "‰Rpgm¯e"  # Palaiologos
-    dip = 3
-    mil = 2
-    adm = 6
+    name = "O(„KQ IV"  
+    dynasty = "‰Rpgm¯e"  
+    dip = 6
+    mil = 4
+    adm = 3
   }
- leader = {
-      name = "O(„KQ IV"  # Vittorio Amedeo
-      type = general
-      fire = 5
-      shock = 6
-      manuever = 4
-      siege = 0
-    }
+}
+
+1432.1.28 = {
+  monarch = {
+    name = "O(„KQ IV"  
+    dynasty = "‰Rpgm¯e"  
+    dip = 6
+    mil = 6
+    adm = 5
+  }
 }
 
 1443.1.28 = {
   monarch = {
-    name = "O(„KQ V"  # Claudio
-    dynasty = "‰Rpgm¯e"  # Palaiologos
+    name = "O(„KQ V"  
+    dynasty = "‰Rpgm¯e"  
     dip = 1
     mil = 0
     adm = 0
@@ -37,10 +42,14 @@ capital = 125
 
 1443.11.28 = {
   monarch = {
-    name = "ÄreYYÒR"  # Claudio
-    dynasty = "ætTXýl¯e"  # Palaiologos
-    dip = 2
-    mil = 3
-    adm = 6
+    name = "ÄreYYÒR 0²býVlQ0"  
+    dynasty = "ætTXýl¯e"  
+    dip = 4
+    mil = 6
+    adm = 2
+    birth_date = 1402.1.18
   }
+  clear_scripted_personalities = yes
+  add_ruler_personality = strict_personality
+  add_ruler_personality = edg_siege_engineer_personality
 }

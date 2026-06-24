@@ -7,7 +7,6 @@ feudal_theocracy_mechanic = {
 			has_dlc = "King of Kings"
 		}
 	}
-	
 	interactions = {
 		seize_clerical_holdings = {
 			icon = GFX_seize_clerical_holdings_button
@@ -20,7 +19,6 @@ feudal_theocracy_mechanic = {
 					name = seize_clerical_holdings_modifier
 					duration = 1825
 				}
-				
 				if = {
 					limit = {
 						OR = {
@@ -35,7 +33,10 @@ feudal_theocracy_mechanic = {
 				}
 				if = {
 					limit = {
-						has_country_flag = YEM_seize_clerical_holdings_every_temple_provinces_flag
+						OR = {
+							has_country_flag = YEM_seize_clerical_holdings_every_temple_provinces_flag
+							has_government_attribute = upgrade_feudal_theocracy
+						}
 					}
 					add_country_modifier = {
 						name = YEM_global_tax_modifier_upgrade
@@ -60,6 +61,39 @@ feudal_theocracy_mechanic = {
 						}
 					}
 				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_3_2
+					}
+					add_estate_loyalty = {
+						estate = all
+						loyalty = 10
+					}
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_3_6
+					}
+					add_country_modifier = {
+						name = EDG_FDM_mission_3_6_modifier_4
+						duration = 1825
+					}
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_2_10
+					}
+					add_adm_power = 25
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_2_11
+					}
+					change_variable = {
+						which = EDG_shiite_Caliph_authority_var
+						value = 5
+					}
+				}
 			}
 			cooldown_years = 5
 			ai_chance = {
@@ -82,8 +116,12 @@ feudal_theocracy_mechanic = {
 				}
 				modifier = {
 					factor = 0
-					NOT = { adm_power_cost = 650 }
-					NOT = { monthly_adm = 10 }
+					NOT = {
+						adm_power_cost = 650
+					}
+					NOT = {
+						monthly_adm = 10
+					}
 				}
 				modifier = {
 					factor = 2
@@ -106,7 +144,7 @@ feudal_theocracy_mechanic = {
 		}
 		invite_minorities = {
 			icon = GFX_invite_minorities_button
-			trigger = { 
+			trigger = {
 				dip_power_cost = 50
 				capital_scope = {
 					area_for_scope_province = {
@@ -119,16 +157,22 @@ feudal_theocracy_mechanic = {
 					}
 				}
 				any_province = {
-					not = { religion = ROOT }
+					not = {
+						religion = ROOT
+					}
 					has_discovered = ROOT
 					owner = {
 						exists = yes
-						not = { tag = ROOT }
-						not = { religion = ROOT }
+						not = {
+							tag = ROOT
+						}
+						not = {
+							religion = ROOT
+						}
 					}
 				}
 			}
-			effect = { 
+			effect = {
 				dip_power_cost = 50
 				capital_scope = {
 					area = {
@@ -151,7 +195,6 @@ feudal_theocracy_mechanic = {
 						add_random_development = 1
 					}
 				}
-				
 				if = {
 					limit = {
 						OR = {
@@ -172,12 +215,13 @@ feudal_theocracy_mechanic = {
 						}
 					}
 				}
-				
 				custom_tooltip = " "
-				
 				if = {
 					limit = {
-						has_country_flag = YEM_invite_minorities_theologian_flag
+						OR = {
+							has_country_flag = YEM_invite_minorities_theologian_flag
+							has_government_attribute = upgrade_feudal_theocracy
+						}
 					}
 					random_province = {
 						limit = {
@@ -194,6 +238,38 @@ feudal_theocracy_mechanic = {
 						}
 					}
 				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_3_2
+					}
+					add_mercantilism_or_monarch_power = {
+						amount = 2
+					}
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_3_6
+					}
+					add_country_modifier = {
+						name = EDG_FDM_mission_3_6_modifier_5
+						duration = 1825
+					}
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_2_10
+					}
+					add_dip_power = 25
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_2_11
+					}
+					change_variable = {
+						which = EDG_shiite_Caliph_authority_var
+						value = 5
+					}
+				}
 			}
 			cooldown_years = 5
 			ai_chance = {
@@ -201,12 +277,14 @@ feudal_theocracy_mechanic = {
 				modifier = {
 					factor = 20
 					capital_scope = {
-						NOT = { current_institution = 90 }
+						NOT = {
+							current_institution = 90
+						}
 					}
 				}
 				modifier = {
 					factor = 20
-					is_lacking_institutions = yes 
+					is_lacking_institutions = yes
 				}
 			}
 		}
@@ -214,27 +292,23 @@ feudal_theocracy_mechanic = {
 			icon = GFX_sanction_holy_war_button
 			trigger = {
 				mil_power_cost = 50
-				if = {
-					limit = { NOT = { has_government_attribute = upgrade_feudal_theocracy } }
-					any_neighbor_province = {
-						owner = {
-							exists = yes
-							not = { defensive_pact_with = ROOT }
-							not = { religion = ROOT }
-						}
-						not = { is_permanent_claim = ROOT }
-						not = { is_core = ROOT }
-						has_discovered = ROOT
-					}
-				}
 			}
-			effect = { 
+			effect = {
 				mil_power_cost = 50
 				if = {
 					limit = {
 						has_government_attribute = upgrade_feudal_theocracy
 					}
-					hidden_effect = { capital_scope = { area = { limit = { owned_by = root } set_province_flag = manpower_source_flag } } }
+					hidden_effect = {
+						capital_scope = {
+							area = {
+								limit = {
+									owned_by = root
+								}
+								set_province_flag = manpower_source_flag
+							}
+						}
+					}
 					custom_tooltip = sanction_holy_war_tt
 					hidden_effect = {
 						add_years_of_owned_provinces_manpower = {
@@ -245,54 +319,60 @@ feudal_theocracy_mechanic = {
 							}
 						}
 					}
-					hidden_effect = { every_owned_province = { limit = { has_province_flag = manpower_source_flag } clr_province_flag = manpower_source_flag } }
+					hidden_effect = {
+						every_owned_province = {
+							limit = {
+								has_province_flag = manpower_source_flag
+							}
+							clr_province_flag = manpower_source_flag
+						}
+					}
 				}
 				if = {
 					limit = {
-						has_country_flag = YEM_sanction_holy_war_claims_permanent_flag
-					}
-					every_neighbor_province = {
-						limit = {
-							owner = {
-								exists = yes
-								not = { defensive_pact_with = ROOT }
-								not = { religion = ROOT }
-							}
-							not = { is_claim = ROOT }
-							not = { is_core = ROOT }
-							has_discovered = ROOT
+						OR = {
+							has_country_flag = YEM_sanction_holy_war_claims_permanent_flag
+							has_country_flag = YEM_sanction_holy_war_claims_areas_flag
+							has_government_attribute = upgrade_feudal_theocracy
 						}
-						add_permanent_claim = ROOT
 					}
-				}
-				else_if = {
-					limit = {
-						has_country_flag = YEM_sanction_holy_war_claims_areas_flag
-					}
+					custom_tooltip = sanction_holy_war_claims_tt
 					every_neighbor_province = {
 						limit = {
-							owner = {
-								exists = yes
-								not = { defensive_pact_with = ROOT }
-								not = { religion = ROOT }
+							area_for_scope_province = {
+								type = all
+								NOT = {
+									has_province_flag = holy_war_claim_flag
+								}
 							}
-							not = { is_claim = ROOT }
-							not = { is_core = ROOT }
-							has_discovered = ROOT
+						}
+						set_province_flag = holy_war_claim_flag
+					}
+					every_province = {
+						limit = {
+							has_province_flag = holy_war_claim_flag
 						}
 						area = {
-							limit = {
-								owner = {
-									exists = yes
-									not = { defensive_pact_with = ROOT }
-									not = { religion = ROOT }
-								}
-								not = { is_claim = ROOT }
-								not = { is_core = ROOT }
-								has_discovered = ROOT
+							tooltip = {
+								add_permanent_claim = ROOT
 							}
-							add_claim = ROOT
+							hidden_effect = {
+								if = {
+									limit = {
+										is_claim = ROOT
+									}
+									ROOT = {
+										add_army_tradition = 1
+									}
+								}
+								else = {
+									add_permanent_claim = ROOT
+								}
+							}
 						}
+					}
+					every_province = {
+						clr_province_flag = holy_war_claim_flag
 					}
 				}
 				else = {
@@ -300,14 +380,52 @@ feudal_theocracy_mechanic = {
 						limit = {
 							owner = {
 								exists = yes
-								not = { defensive_pact_with = ROOT }
-								not = { religion = ROOT }
+								not = {
+									defensive_pact_with = ROOT
+								}
+								not = {
+									religion = ROOT
+								}
 							}
-							not = { is_claim = ROOT }
-							not = { is_core = ROOT }
+							not = {
+								is_claim = ROOT
+							}
+							not = {
+								is_core = ROOT
+							}
 							has_discovered = ROOT
 						}
 						add_claim = ROOT
+					}
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_3_2
+					}
+					add_army_professionalism = 0.025
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_3_6
+					}
+					add_country_modifier = {
+						name = EDG_FDM_mission_3_6_modifier_6
+						duration = 1825
+					}
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_2_10
+					}
+					add_mil_power = 25
+				}
+				if = {
+					limit = {
+						mission_completed = EDG_FDM_mission_2_11
+					}
+					change_variable = {
+						which = EDG_shiite_Caliph_authority_var
+						value = 5
 					}
 				}
 			}
@@ -316,8 +434,12 @@ feudal_theocracy_mechanic = {
 				factor = 10
 				modifier = {
 					factor = 0
-					NOT = { mil_power_cost = 650 }
-					NOT = { monthly_mil = 10 }
+					NOT = {
+						mil_power_cost = 650
+					}
+					NOT = {
+						monthly_mil = 10
+					}
 				}
 				modifier = {
 					factor = 0.1

@@ -1,0 +1,12 @@
+turko_semitic = {
+	EDG_FDM_maghrebi_culture = {
+	}
+	# EDG_FDM_iberian_culture = {
+	# }
+	EDG_FDM_italian_culture = {
+	}
+	EDG_FDM_ethiopian_culture = {
+	}
+	# EDG_FDM_persian_culture = {
+	# }
+}

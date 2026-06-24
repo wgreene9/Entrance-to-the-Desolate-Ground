@@ -1,0 +1,394 @@
+EDG_FDMEvents_76_modifier = {
+	potential = {
+		ai = yes
+		has_global_flag = EDG_FDMEvents_76_flag
+		has_country_modifier = difficulty_very_hard_ai
+	}
+	trigger = {
+		OR = {
+			tag = MHM
+			tag = TUR
+			tag = BUL
+			tag = BU1
+			tag = ARL
+			tag = PER
+			tag = FRA
+			tag = WUR
+			tag = HAB
+			tag = TVE
+			tag = ENG
+			tag = SCO
+			tag = BTA
+			tag = BDH
+			tag = ADU
+			tag = MIB
+			tag = CDC
+			tag = ABS
+			tag = ARB
+			tag = ETH
+		}
+	}
+	global_manpower_modifier = 0.25
+	global_regiment_cost = -0.25
+	land_forcelimit_modifier = 0.25
+	manpower_recovery_speed = 0.25
+	land_forcelimit = 25
+	core_creation = -0.25
+	global_tax_modifier = 0.25
+	global_autonomy = -0.25
+	governing_cost = -0.25
+	province_warscore_cost = -0.25
+	ae_impact = -0.25
+	diplomatic_annexation_cost = -1
+}
+
+EDG_FDM_mission_1_15_modifier = {
+	potential = {
+		mission_completed = EDG_FDM_mission_1_15
+	}
+	trigger = {
+		owns = 385
+		owns = 384
+	}
+	missionaries = 1
+	legitimacy = 0.5
+	tolerance_own = 1
+	all_power_cost = -0.05
+}
+
+EDG_FDM_mission_1_18_modifier_3 = {
+	potential = {
+		has_country_flag = EDG_FDM_mission_1_18_flag
+	}
+	trigger = {
+		mission_completed = EDG_FDM_mission_1_18
+		NOT = {
+			has_age_ability = ab_cavalry_armies
+		}
+	}
+	cav_to_inf_ratio = 0.2
+}
+
+EDG_FDM_mission_2_21_modifier = {
+	potential = {
+		religion_group = muslim
+		FDM = {
+			mission_completed = EDG_FDM_mission_2_21
+		}
+	}
+	trigger = {
+		any_country = {
+			war_with = ROOT
+			has_country_flag = EDG_Caliph_Jihad_action_in_10_years_modifier
+			NOT = {
+				religion_group = muslim
+			}
+		}
+	}
+	global_tax_modifier = 0.1
+	land_morale = 0.1
+	global_manpower_modifier = 0.3
+	prestige = 1
+	monthly_piety_accelerator = 0.001
+	devotion = 0.25
+}
+
+EDG_FDM_mission_3_14_modifier = {
+	potential = {
+		mission_completed = EDG_FDM_mission_3_14
+	}
+	trigger = {
+		is_defender_of_faith = yes
+	}
+	missionaries = 1
+	global_missionary_strength = 0.02
+	governing_capacity_modifier = 0.1
+	stability_cost_modifier = -0.25
+}
+
+EDG_FDM_mission_3_15_modifier_1 = {
+	potential = {
+		mission_completed = EDG_FDM_mission_3_15
+	}
+	trigger = {
+		has_idea = EDG_caliph_ideas_1
+	}
+	governing_capacity_modifier = 0.1
+}
+
+EDG_FDM_mission_3_15_modifier_2 = {
+	potential = {
+		mission_completed = EDG_FDM_mission_3_15
+	}
+	trigger = {
+		has_idea = EDG_caliph_ideas_2
+	}
+	tolerance_own = 1
+}
+
+EDG_FDM_mission_3_15_modifier_3 = {
+	potential = {
+		mission_completed = EDG_FDM_mission_3_15
+	}
+	trigger = {
+		has_idea = EDG_caliph_ideas_3
+	}
+	global_prov_trade_power_modifier = 0.1
+}
+
+EDG_FDM_mission_3_15_modifier_4 = {
+	potential = {
+		mission_completed = EDG_FDM_mission_3_15
+	}
+	trigger = {
+		has_idea = EDG_caliph_ideas_4
+	}
+	embracement_cost = -0.25
+}
+
+EDG_FDM_mission_3_15_modifier_5 = {
+	potential = {
+		mission_completed = EDG_FDM_mission_3_15
+	}
+	trigger = {
+		has_idea = EDG_caliph_ideas_5
+	}
+	production_efficiency = 0.1
+}
+
+EDG_FDM_mission_3_15_modifier_6 = {
+	potential = {
+		mission_completed = EDG_FDM_mission_3_15
+	}
+	trigger = {
+		has_idea = EDG_caliph_ideas_6
+	}
+	missionary_maintenance_cost = -0.5
+}
+
+EDG_FDM_mission_3_15_modifier_7 = {
+	potential = {
+		mission_completed = EDG_FDM_mission_3_15
+	}
+	trigger = {
+		has_idea = EDG_caliph_ideas_7
+	}
+	all_estate_possible_privileges = 2
+}
+
+EDG_FDM_mission_3_15_modifier_8 = {
+	potential = {
+		mission_completed = EDG_FDM_mission_3_15
+	}
+	trigger = {
+		full_idea_group = EDG_caliph_ideas
+	}
+	administrative_efficiency = 0.05
+}
+
+EDG_FDM_mission_5_26_modifier_2 = {
+	potential = {
+		mission_completed = EDG_FDM_mission_5_26
+	}
+	trigger = {
+		NOT = {
+			is_hegemon_of_type = economic_hegemon
+		}
+		monthly_income = 500
+		NOT = {
+			any_other_great_power = {
+				monthly_income = root
+			}
+		}
+	}
+	war_exhaustion = -0.1
+	mercenary_manpower = 1
+	development_cost_modifier = -0.05
+	global_trade_goods_size_modifier = 0.125
+	mercenary_discipline = 0.05
+	min_autonomy_in_territories = -0.1
+	governing_capacity_modifier = 0.1
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_0 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 0
+		}
+	}
+	global_missionary_strength = 0.05
+	tolerance_own = 5
+	tolerance_heretic = -5
+	tolerance_heathen = -5
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_1 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 1
+		}
+	}
+	global_missionary_strength = 0.04
+	tolerance_own = 4
+	tolerance_heretic = -4
+	tolerance_heathen = -4
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_2 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 2
+		}
+	}
+	global_missionary_strength = 0.03
+	tolerance_own = 3
+	tolerance_heretic = -3
+	tolerance_heathen = -3
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_3 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 3
+		}
+	}
+	global_missionary_strength = 0.02
+	tolerance_own = 2
+	tolerance_heretic = -2
+	tolerance_heathen = -2
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_4 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 4
+		}
+	}
+	global_missionary_strength = 0.01
+	tolerance_own = 1
+	tolerance_heretic = -1
+	tolerance_heathen = -1
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_5 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 5
+		}
+	}
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_6 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 6
+		}
+	}
+	global_missionary_strength = -0.01
+	tolerance_own = -1
+	tolerance_heretic = 1
+	tolerance_heathen = 1
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_7 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 7
+		}
+	}
+	global_missionary_strength = -0.02
+	tolerance_own = -2
+	tolerance_heretic = 2
+	tolerance_heathen = 2
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_8 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 8
+		}
+	}
+	global_missionary_strength = -0.03
+	tolerance_own = -3
+	tolerance_heretic = 3
+	tolerance_heathen = 3
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_9 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 9
+		}
+	}
+	global_missionary_strength = -0.04
+	tolerance_own = -4
+	tolerance_heretic = 4
+	tolerance_heathen = 4
+}
+
+EDG_FDM_scale_of_imam_disaster_modifier_10 = {
+	potential = {
+		tag = FDM
+		has_country_flag = EDG_FDM_scale_of_imam_disaster_variable_flag
+	}
+	trigger = {
+		is_variable_equal = {
+			which = EDG_FDM_scale_of_imam_disaster_variable
+			value = 10
+		}
+	}
+	global_missionary_strength = -0.05
+	tolerance_own = -5
+	tolerance_heretic = 5
+	tolerance_heathen = 5
+}

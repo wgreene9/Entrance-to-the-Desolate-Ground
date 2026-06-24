@@ -354,7 +354,7 @@ TAB_mission_2 = {
 				}
 				KRY = {
 					country_event = {
-						id = mission_TABEDGmission.48
+						id = mission_EDGTABmission.48
 					}
 				}
 			}
@@ -364,7 +364,7 @@ TAB_mission_2 = {
 				}
 				BPI = {
 					country_event = {
-						id = mission_TABEDGmission.49
+						id = mission_EDGTABmission.49
 					}
 				}
 			}

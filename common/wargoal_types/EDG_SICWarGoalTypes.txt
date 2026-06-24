@@ -1,0 +1,177 @@
+EDG_WG_GRE_unification = {#希腊战争
+	type = superiority
+	
+	attacker = {
+		badboy_factor = 0.25
+		prestige_factor = 1.5
+		peace_cost_factor = 0.5		
+		allowed_provinces = {
+			OR = {
+				province_gruop = Hellas_province_group
+				culture_group = byzantine
+				is_core = ROOT
+                is_claim = ROOT
+			}
+		}			
+		peace_options = {
+			po_demand_provinces
+			po_return_cores			
+		}
+		prov_desc = EDG_WG_GRE_unification_prov_desc
+		
+	}	
+	defender = {
+		badboy_factor = 0.25
+		prestige_factor = 1.5
+		peace_cost_factor = 0.5	
+		
+		allowed_provinces = {
+			OR = {
+				province_gruop = Hellas_province_group
+				culture_group = byzantine
+				is_core = ROOT
+                is_claim = ROOT
+			}
+		}
+		
+		peace_options = {
+			po_demand_provinces
+		}
+		prov_desc = EDG_WG_GRE_unification_prov_desc		
+	}	
+	war_name = PRIMITIVE_WAR_NAME
+}
+
+EDG_WG_APU_Crusade_against_SIC = {
+	type = superiority
+	
+	attacker = {
+		badboy_factor = 0.25
+		prestige_factor = 1.5
+		peace_cost_factor = 0.5		
+		allowed_provinces = {
+			always = yes
+		}			
+		peace_options = {
+			po_demand_provinces
+			po_return_cores			
+		}
+		country_desc = ALL_INFIDELS
+		prov_desc = ALL_PROVS
+	}	
+	defender = {
+		badboy_factor = 0.25
+		prestige_factor = 1.5
+		peace_cost_factor = 0.5	
+		
+		allowed_provinces = {
+			always = yes
+		}
+		peace_options = {
+			po_demand_provinces
+		}
+		country_desc = ALL_INFIDELS
+		prov_desc = ALL_PROVS	
+	}	
+	war_name = EDG_APULIA_SICILY_CRUSADE_WAR_NAME
+}
+
+EDG_WG_Orthodox_Divine_War = { #神圣战争 
+	type = superiority
+	
+	attacker = {
+		badboy_factor = 0.50
+		prestige_factor = 1.25
+		peace_cost_factor = 0.75
+		
+		allowed_provinces = {
+			always = yes
+		}
+		
+		peace_options = {
+			po_demand_provinces
+			po_change_religion
+			po_return_cores	
+			po_become_vassal
+			po_release_vassals
+			po_release_annexed
+		}
+		
+		country_desc = ALL_INFIDELS
+		prov_desc = ALL_PROVS
+	}
+	
+	defender = {
+		badboy_factor = 0.50
+		prestige_factor = 1.25
+		peace_cost_factor = 0.75
+		
+		allowed_provinces = {
+			always = yes
+		}
+		
+		peace_options = {
+			po_demand_provinces
+		}
+		
+		country_desc = ALL_INFIDELS
+		prov_desc = ALL_PROVS
+	}	
+	
+	war_name = PRIMITIVE_WAR_NAME	
+}
+
+EDG_WG_GRE_East_Conquest = {#征服东方
+	type = superiority
+	
+	attacker = {
+		badboy_factor = 0.75
+		prestige_factor = 1.5
+		peace_cost_factor = 0.5	
+
+		allowed_provinces = {
+			OR = {
+				superregion = india_superregion
+				superregion = east_indies_superregion
+				superregion = china_superregion
+				superregion = tartary_superregion
+				superregion = far_east_superregion
+				is_core = ROOT
+                is_claim = ROOT
+			}
+		}			
+
+		peace_options = {
+			po_demand_provinces
+			po_return_cores			
+		}
+
+		prov_desc = EDG_WG_GRE_East_Conquest_prov_desc
+		
+	}	
+	defender = {
+		badboy_factor = 1.0
+		prestige_factor = 0.5
+		peace_cost_factor = 2.0	
+		
+		allowed_provinces = {
+			OR = {
+				superregion = india_superregion
+				superregion = east_indies_superregion
+				superregion = china_superregion
+				superregion = tartary_superregion
+				superregion = far_east_superregion
+				is_core = ROOT
+                is_claim = ROOT
+			}
+		}
+		
+		peace_options = {
+			po_demand_provinces
+		}
+		
+		prov_desc = EDG_WG_GRE_East_Conquest_prov_desc		
+	}	
+
+	war_name = PRIMITIVE_WAR_NAME
+}
