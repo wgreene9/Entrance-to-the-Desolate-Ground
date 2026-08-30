@@ -1,0 +1,203 @@
+country_decisions = {
+	EDGMP_parliament_seats_decision = {
+		major = yes
+		color = { 255 255 255 }
+		potential = {
+			ai = no
+			NOT = {
+				has_country_flag = EDGMP_hidden_flag
+			}
+		}
+		allow = {
+			has_parliament = yes
+			any_owned_province = {
+				has_seat_in_parliament = no
+			}
+		}
+		effect = {
+			every_owned_province = {
+				limit = {
+					has_seat_in_parliament = no
+				}
+				set_seat_in_parliament = yes
+			}
+		}
+	}
+	EDGMP_state_edict_decision = {
+		major = yes
+		color = { 255 255 255 }
+		potential = {
+			ai = no
+			NOT = {
+				has_country_flag = EDGMP_hidden_flag
+			}
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			country_event = {
+				id = EDGMP_events.1
+			}
+		}
+	}
+	EDGMP_remove_buildings_decision = {
+		major = yes
+		color = { 255 255 255 }
+		potential = {
+			ai = no
+			NOT = {
+				has_country_flag = EDGMP_hidden_flag
+			}
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			country_event = {
+				id = EDGMP_events.2
+			}
+		}
+	}
+	EDGMP_build_buildings_decision = {
+		major = yes
+		color = { 255 255 255 }
+		potential = {
+			ai = no
+			NOT = {
+				has_country_flag = EDGMP_hidden_flag
+			}
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			country_event = {
+				id = EDGMP_events.9
+			}
+		}
+	}
+	EDGMP_find_advisors_decision = {
+		major = yes
+		color = { 255 255 255 }
+		potential = {
+			ai = no
+			NOT = {
+				has_country_flag = EDGMP_hidden_flag
+			}
+		}
+		allow = {
+			always = yes
+		}
+		effect = {
+			country_event = {
+				id = EDGMP_events.3
+			}
+		}
+	}
+	# EDGMP_choose_hex_decision = {
+	# 	color = {
+	# 		255
+	# 		0
+	# 		0
+	# 	}
+	# 	potential = {
+	# 		ai = no
+	# 		NOT = {
+	# 			has_country_flag = EDGMP_hidden_flag
+	# 		}
+	# 		NOT = {
+	# 			has_country_flag = EDGMP_chosen_hex_flag
+	# 		}
+	# 	}
+	# 	allow = {
+	# 		always = yes
+	# 	}
+	# 	effect = {
+	# 		country_event = {
+	# 			id = EDGMP_events.7
+	# 		}
+	# 	}
+	# }
+	# EDGMP_daily_general_decision = {
+	# 	color = {
+	# 		255
+	# 		0
+	# 		0
+	# 	}
+	# 	potential = {
+	# 		ai = no
+	# 		NOT = {
+	# 			has_country_flag = EDGMP_hidden_flag
+	# 		}
+	# 		has_country_flag = EDGMP_allow_daily_general_flag
+	# 		NOT = {
+	# 			has_country_flag = EDGMP_already_used_daily_general_flag
+	# 		}
+	# 	}
+	# 	allow = {
+	# 		always = yes
+	# 	}
+	# 	effect = {
+	# 		define_general = {
+	# 			shock = 8
+	# 			fire = 8
+	# 			manuever = 8
+	# 			siege = 8
+	# 		}
+	# 		define_general = {
+	# 			shock = 8
+	# 			fire = 8
+	# 			manuever = 8
+	# 			siege = 8
+	# 		}
+	# 		set_country_flag = EDGMP_already_used_daily_general_flag
+	# 	}
+	# }
+	# EDGMP_buff_store_decision = {
+	# 	color = {
+	# 		255
+	# 		0
+	# 		0
+	# 	}
+	# 	potential = {
+	# 		ai = no
+	# 		NOT = {
+	# 			has_country_flag = EDGMP_hidden_flag
+	# 		}
+	# 	}
+	# 	allow = {
+	# 		treasury = 5000
+	# 	}
+	# 	effect = {
+	# 		add_treasury = -5000
+	# 		country_event = {
+	# 			id = EDGMP_events.8
+	# 		}
+	# 	}
+	# }
+	# EDGMP_hidden_feature_decision = {
+	# 	color = {
+	# 		255
+	# 		0
+	# 		0
+	# 	}
+	# 	potential = {
+	# 		ai = no
+	# 	}
+	# 	allow = {
+	# 		always = yes
+	# 	}
+	# 	effect = {
+	# 		if = {
+	# 			limit = {
+	# 				has_country_flag = EDGMP_hidden_flag
+	# 			}
+	# 			clr_country_flag = EDGMP_hidden_flag
+	# 		}
+	# 		else = {
+	# 			set_country_flag = EDGMP_hidden_flag
+	# 		}
+	# 	}
+	# }
+}

@@ -1,7 +1,11 @@
 country_decisions = {
 	EDG_GRE_decision_rename_to_Hellas = {#变更国号为§T希腊§!
 		major = yes
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			OR = {
 				province_id = 151
@@ -27,15 +31,18 @@ country_decisions = {
 		}
 		effect = {
 			override_country_name = EDG_SIC_Hellas_name
-			set_country_flag =  EDG_SIC_Hellas_name_renamed
+			set_country_flag = EDG_SIC_Hellas_name_renamed
 		}
 		ai_will_do = {
 			factor = 100
 		}
 	}
-
 	EDG_GRE_decision_study_streltsy = {#学习射击军
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owner = {
 				culture_group = east_slavic
@@ -100,30 +107,63 @@ country_decisions = {
 			custom_tooltip = EDG_SPACE_TT
 			custom_tooltip = EDG_GRE_decision_streltsy_commanders_capital_tt
 			hidden_effect = {
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
-				capital_scope = { streltsy_infantry = ROOT }
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
+				capital_scope = {
+					streltsy_infantry = ROOT
+				}
 			}
 		}
 		ai_will_do = {
 			factor = 100
 		}
 	}
-
 	EDG_GRE_decision_study_Vodka = {#引入伏特加
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owner = {
 				culture_group = east_slavic
@@ -196,9 +236,12 @@ country_decisions = {
 			factor = 100
 		}
 	}
-
 	EDG_GRE_decision_study_Russian_absolutism = {#学习罗斯专制主义
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owner = {
 				culture_group = east_slavic
@@ -262,10 +305,13 @@ country_decisions = {
 			factor = 100
 		}
 	}
-
 	EDG_GRE_decision_see_province_group = {#查看省份组
 		major = yes
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			OR = {
 				area = thrace_area
@@ -308,9 +354,12 @@ country_decisions = {
 			factor = 0
 		}
 	}
-
 	EDG_GRE_decision_restore_Varangian_Route = {#重建瓦希之路
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			OR = {
 				province_id = 40
@@ -397,48 +446,51 @@ country_decisions = {
 			set_country_flag = EDG_GRE_RUS_1_flag
 			custom_tooltip = EDG_SPACE_TT
 			1322 = {
-					add_trade_modifier = {
-						who = ROOT
-						duration = -1
-						power = 50
-						key = EDG_GRE_Varangian_Routes_Trade #恢复瓦希之路
-					}
+				add_trade_modifier = {
+					who = ROOT
+					duration = -1
+					power = 50
+					key = EDG_GRE_Varangian_Routes_Trade					#恢复瓦希之路
 				}
+			}
 			custom_tooltip = EDG_SPACE_TT
 			1926 = {
 				add_trade_modifier = {
-						who = ROOT
-						duration = -1
-						power = 50
-						key = EDG_GRE_Varangian_Routes_Trade #恢复瓦希之路
-					}
+					who = ROOT
+					duration = -1
+					power = 50
+					key = EDG_GRE_Varangian_Routes_Trade					#恢复瓦希之路
+				}
 			}
 			custom_tooltip = EDG_SPACE_TT
 			151 = {
 				add_trade_modifier = {
-						who = ROOT
-						duration = -1
-						power = 50
-						key = EDG_GRE_Varangian_Routes_Trade #恢复瓦希之路
-					}
+					who = ROOT
+					duration = -1
+					power = 50
+					key = EDG_GRE_Varangian_Routes_Trade					#恢复瓦希之路
+				}
 			}
 			custom_tooltip = EDG_SPACE_TT
 			280 = {
 				add_trade_modifier = {
-						who = ROOT
-						duration = -1
-						power = 50
-						key = EDG_GRE_Varangian_Routes_Trade #恢复瓦希之路
-					}
+					who = ROOT
+					duration = -1
+					power = 50
+					key = EDG_GRE_Varangian_Routes_Trade					#恢复瓦希之路
+				}
 			}
 		}
 		ai_will_do = {
 			factor = 0
 		}
 	}
-
 	EDG_GRE_decision_Russian_Embassy = {#出使罗斯
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owner = {
 				culture_group = east_slavic
@@ -500,9 +552,12 @@ country_decisions = {
 			factor = 100
 		}
 	}
-
 	EDG_GRE_decision_study_Siberian_Frontiers = {#学习拓荒区
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owner = {
 				culture_group = east_slavic
@@ -561,16 +616,19 @@ country_decisions = {
 				}
 			}
 			create_conquistador = {
-      			tradition = 100
-    		}
+				tradition = 100
+			}
 		}
 		ai_will_do = {
 			factor = 100
 		}
 	}
-
 	EDG_GRE_decision_befriend_Morea = {#交好摩里亚
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owned_by = MOE
 		}
@@ -599,9 +657,12 @@ country_decisions = {
 			factor = 0
 		}
 	}
-
 	EDG_GRE_decision_Contact_Smyrna = {#联络士麦那
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owned_by = SUG
 		}
@@ -630,10 +691,13 @@ country_decisions = {
 			factor = 0
 		}
 	}
-
 	EDG_GRE_decision_Form_Syracusae = {#成立叙拉古
 		major = yes
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			province_id = 2982
 		}
@@ -679,7 +743,9 @@ country_decisions = {
 			custom_tooltip = EDG_SPACE_TT
 			swap_non_generic_missions = yes
 			custom_tooltip = EDG_SPACE_TT
-			country_event = { id = ideagroups.1 }
+			country_event = {
+				id = ideagroups.1
+			}
 			set_country_flag = formed_greece_flag
 			set_country_flag = restored_rome_flag
 			set_country_flag = is_EDG_Syracusae_flag
@@ -688,9 +754,10 @@ country_decisions = {
 			factor = 100
 		}
 	}
-
 	EDG_GRE_decision_support_NOM = {#支持诺姆人
 		potential = {
+			tag = GRE
+			was_tag = SIC
 			exists = MAM
 			NOT = {
 				exists = NOM
@@ -703,12 +770,15 @@ country_decisions = {
 				}
 			}
 		}
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		major = yes
 		provinces_to_highlight = {
 			owned_by = MAM
 		}
-
 		allow = {
 			NOT = {
 				has_country_modifier = EDG_GRE_Supprot_Noms
@@ -732,9 +802,12 @@ country_decisions = {
 			}
 		}
 	}
-
 	EDG_GRE_decision_vassalize_Morea = {#附庸摩里亚
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owned_by = MOE
 		}
@@ -776,9 +849,12 @@ country_decisions = {
 			factor = 0
 		}
 	}
-
 	EDG_GRE_decision_vassalize_Smyrna = {#附庸士麦那
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owned_by = SUG
 		}
@@ -818,9 +894,12 @@ country_decisions = {
 			factor = 0
 		}
 	}
-
 	EDG_GRE_decision_vassalize_Azov = {#附庸亚速
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
 			owned_by = AZO
 		}
@@ -866,8 +945,6 @@ country_decisions = {
 			factor = 0
 		}
 	}
-
-
 	EDG_SIC_decision_ambush_capua = {#奇袭卡普阿
 		color = {
 			73
@@ -904,15 +981,15 @@ country_decisions = {
 					341 = {
 						OR = {
 							num_of_units_in_province = {
-							type = infantry
-							amount = 3
-							who = root
-						}
+								type = infantry
+								amount = 3
+								who = root
+							}
 							num_of_units_in_province = {
-							type = cavalry
-							amount = 3
-							who = root
-						}
+								type = cavalry
+								amount = 3
+								who = root
+							}
 						}
 					}
 				}
@@ -920,15 +997,15 @@ country_decisions = {
 					2982 = {
 						OR = {
 							num_of_units_in_province = {
-							type = infantry
-							amount = 3
-							who = root
-						}
+								type = infantry
+								amount = 3
+								who = root
+							}
 							num_of_units_in_province = {
-							type = cavalry
-							amount = 3
-							who = root
-						}
+								type = cavalry
+								amount = 3
+								who = root
+							}
 						}
 					}
 				}
@@ -1386,7 +1463,6 @@ country_decisions = {
 							amount = 22
 							who = root
 						}
-					}
 					}
 					kill_units = {
 						who = ROOT
@@ -2707,7 +2783,6 @@ country_decisions = {
 			}
 		}
 	}
-
 	EDG_SIC_decision_ambush_calabria = {#奇袭卡拉布里亚
 		color = {
 			73
@@ -2744,15 +2819,15 @@ country_decisions = {
 					341 = {
 						OR = {
 							num_of_units_in_province = {
-							type = infantry
-							amount = 3
-							who = root
-						}
+								type = infantry
+								amount = 3
+								who = root
+							}
 							num_of_units_in_province = {
-							type = cavalry
-							amount = 3
-							who = root
-						}
+								type = cavalry
+								amount = 3
+								who = root
+							}
 						}
 					}
 				}
@@ -2760,15 +2835,15 @@ country_decisions = {
 					2982 = {
 						OR = {
 							num_of_units_in_province = {
-							type = infantry
-							amount = 3
-							who = root
-						}
+								type = infantry
+								amount = 3
+								who = root
+							}
 							num_of_units_in_province = {
-							type = cavalry
-							amount = 3
-							who = root
-						}
+								type = cavalry
+								amount = 3
+								who = root
+							}
 						}
 					}
 				}
@@ -2784,7 +2859,6 @@ country_decisions = {
 							amount = 22
 							who = root
 						}
-					}
 					}
 					kill_units = {
 						who = ROOT
@@ -3227,7 +3301,6 @@ country_decisions = {
 							amount = 22
 							who = root
 						}
-					}
 					}
 					kill_units = {
 						who = ROOT
@@ -4548,11 +4621,13 @@ country_decisions = {
 			}
 		}
 	}
-
 	EDG_SIC_decision_disaster_bonus_sicily = {#牧首鼓动
-		color = { 9 9 103 }
+		color = {
+			9
+			9
+			103
+		}
 		provinces_to_highlight = {
-
 		}
 		potential = {
 			SIC = {
@@ -4577,11 +4652,13 @@ country_decisions = {
 			factor = 0
 		}
 	}
-
 	EDG_SIC_decision_disaster_bonus_fatimid = {#伊玛目鼓舞
-		color = { 73 152 76 }
+		color = {
+			73
+			152
+			76
+		}
 		provinces_to_highlight = {
-
 		}
 		potential = {
 			SIC = {

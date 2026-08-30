@@ -1,16 +1,16 @@
 ﻿l_english:
     mechanic_EDG_enable_create_slave_ability:0 "AQ¸‹lSyršRwýN„vµNir:N§YtY¶–§!"
     mechanic_EDG_enable_create_slave_ability_yes:0 "AQ¸‹lSyršRwýN„vµNir:N§YtY¶–§!"
-EDG_create_slave_button_value:0 "òT§Y¾‹ËztY¶–µN0W§!„v/kpe"
+EDG_create_slave_button_value:0 "òT§Y¾‹ËztY¶–µN0W§!„v!kpe"
 
     mechanic_weimar_ban_elections:0 "y(u§Y	>N§!"
     mechanic_weimar_ban_elections_yes:0 "y(u§Y	>N§!"
 
-    mechanic_foreign_slave_rulers:0 "/T(u§YyrŠk„vçub:g6R§!0"
-    mechanic_foreign_slave_rulers_yes:0 "/T(u§YyrŠk„vçub:g6R§!0"
+    mechanic_foreign_slave_rulers:0 "=T(u§YyrŠk„vçub:g6R§!0"
+    mechanic_foreign_slave_rulers_yes:0 "=T(u§YyrŠk„vçub:g6R§!0"
 
-    mechanic_EDG_Norman_Monarchy_ability:0 "/T(u§Yú‹üfTINýV§!³Q®‹"
-    mechanic_EDG_Norman_Monarchy_ability_yes:0 "/T(u§Yú‹üfTINýV§!³Q®‹"
+    mechanic_EDG_Norman_Monarchy_ability:0 "=T(u§Yú‹üfTINýV§!³Q®‹"
+    mechanic_EDG_Norman_Monarchy_ability_yes:0 "=T(u§Yú‹üfTINýV§!³Q®‹"
     
     EDG_Norman_Monarchy_ability_adm_1_title:0 "0ú‹üf0c>m–™ýgb¾˜R"
     EDG_Norman_Monarchy_ability_adm_1_desc:0 "ú‹üfºN(WšNs^RWSèËz³T(WSV0Wú^Ëz†NrRnc?eCgÿ(WTÍyZSVåNÊS—RYe²Qz„vrRÂˆNÿÖNìN¾–åNßuNÿv^SNèRLˆ?e›RÏ‘•beQ†NùRšNs^RWSè†˜0W„vú^¾‹-N0"
@@ -41,11 +41,11 @@ EDG_create_slave_button_value:0 "òT§Y¾‹ËztY¶–µN0W§!„v/kpe
     mechanic_EDG_Allow_militarized_government_reform_ability:0 "AQ¸‹§Y›Q‹NS§!?eœ^9ei—"
     mechanic_EDG_Allow_militarized_government_reform_ability_yes:0 "AQ¸‹§Y›Q‹NS§!?eœ^9ei—"
     
-    mechanic_EDG_Persia_empire_capital_reform_ability:0 "/T(u§Yâl¯e^ýVÁý:g6R§!"
-    mechanic_EDG_Persia_empire_capital_reform_ability_yes:0 "/T(u§Yâl¯e^ýVÁý:g6R§!"
+    mechanic_EDG_Persia_empire_capital_reform_ability:0 "=T(u§Yâl¯e^ýVÁý:g6R§!"
+    mechanic_EDG_Persia_empire_capital_reform_ability_yes:0 "=T(u§Yâl¯e^ýVÁý:g6R§!"
     
     EDG_flavor_PER.101.t:0 "^ýV–™ý"
-    EDG_flavor_PER.101.dd:0 "âl¯e^ýV„vN*NäSw.Oßuÿ¿O/fS–™ýnAm¾‹n(WNT„v0W:S0ÙN>NªcýwY©‹NT0W:S„vºNlŒT5Ïea×S0RêñT«ˆÍ‘Æ‰w^—«ˆ‹SëÿÎNw&^egÐgN²SOàVÚ‹¦^„vžX Rÿv^:NbìN&^egôfY„v‹YY0ÙN)Yÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]„v'Yã±R^ÿ[Root.Monarch.GetTitle]	éb°e–™ý„v0W¹p†N0"
+    EDG_flavor_PER.101.dd:0 "âl¯e^ýV„vN*NäSw.Oßuÿ¿O=fS–™ýnAm¾‹n(WNT„v0W:S0ÙN>NªcýwY©‹NT0W:S„vºNlŒT5Ïea×S0RêñT«ˆÍ‘Æ‰w^—«ˆ‹SëÿÎNw&^egÐgN²SOàVÚ‹¦^„vžX Rÿv^:NbìN&^egôfY„v‹YY0ÙN)Yÿ[Root.Monarch.GetTitle][Root.Monarch.GetName]„v'Yã±R^ÿ[Root.Monarch.GetTitle]	éb°e–™ý„v0W¹p†N0"
     EDG_flavor_PER.101.z:0 "bìNØ¡lÆQY‹Y0"
     EDG_flavor_PER.101.a:0 "bìNSPWG•'YNÌ‘ëX0"
     EDG_flavor_PER.101.b:0 ")YNKNJSÿO¯eÕlU0"
@@ -64,8 +64,8 @@ EDG_create_slave_button_value:0 "òT§Y¾‹ËztY¶–µN0W§!„v/kpe
     EDG_Persia_empire_capital_modifier_4_desc:0 "âl¯e^ýVS–™ý¾‹Ëz(WNT„v0W:SöeÿSýwY·ƒ—VNT„vžXÊv0"
     EDG_Persia_empire_capital_modifier_5_desc:0 "âl¯e^ýVS–™ý¾‹Ëz(WNT„v0W:SöeÿSýwY·ƒ—VNT„vžXÊv0"
     
-    mechanic_EDG_Persian_provinces_reform_ability:0 "/T(u§Yâl¯eLˆw§!³Q®‹"
-    mechanic_EDG_Persian_provinces_reform_ability_yes:0 "/T(u§Yâl¯eLˆw§!³Q®‹"
+    mechanic_EDG_Persian_provinces_reform_ability:0 "=T(u§Yâl¯eLˆw§!³Q®‹"
+    mechanic_EDG_Persian_provinces_reform_ability_yes:0 "=T(u§Yâl¯eLˆw§!³Q®‹"
     
     EDG_Persian_provinces_reform_ability_decision_title:0 "0âl¯eLˆw0ib'YLˆwVz"
     EDG_Persian_provinces_reform_ability_decision_desc:0 "bìNSib'YùRLˆwV6e„vz>kÿÙSVwN›NNánÿFOýwYžX RbìN„v0?e6eeQ0"
@@ -77,23 +77,23 @@ EDG_create_slave_button_value:0 "òT§Y¾‹ËztY¶–µN0W§!„v/kpe
     EDG_Persian_provinces_reform_ability_modifier_2:0 "0âl¯eLˆw0ib'YLˆwVuQ"
     EDG_Persian_provinces_reform_ability_modifier_2_desc:0 "bìNib'Y†NùRLˆwV6e„vVuQÿÙVw†NN›NNánÿFOžX R†NbìN„v›Q–ŒTºN›R0"
 
-    mechanic_EDG_Andalusia_Denomination_ability:0 "/T(u§Y0YeâV0§!³Q®‹"
-    mechanic_EDG_Andalusia_Denomination_ability_yes:0 "/T(u§Y0YeâV0§!³Q®‹"
+    mechanic_EDG_Andalusia_Denomination_ability:0 "=T(u§Y0YeâV0§!³Q®‹"
+    mechanic_EDG_Andalusia_Denomination_ability_yes:0 "=T(u§Y0YeâV0§!³Q®‹"
     
-    mechanic_EDG_STRONG_Caledonia_ability:0 "/T(u§Y0aSÒRYôTÉb‘šëXâV0§!6–BSyrCg§Y0 R:VaSÒRYôTÉb‘šëXâVyrCg0§!0"
-    mechanic_EDG_STRONG_Caledonia_ability_yes:0 "/T(u§Y0aSÒRYôTÉb‘šëXâV0§!6–BSyrCg§Y0 R:VaSÒRYôTÉb‘šëXâVyrCg0§!0"
+    mechanic_EDG_STRONG_Caledonia_ability:0 "=T(u§Y0aSÒRYôTÉb‘šëXâV0§!6–BSyrCg§Y0 R:VaSÒRYôTÉb‘šëXâVyrCg0§!0"
+    mechanic_EDG_STRONG_Caledonia_ability_yes:0 "=T(u§Y0aSÒRYôTÉb‘šëXâV0§!6–BSyrCg§Y0 R:VaSÒRYôTÉb‘šëXâVyrCg0§!0"
 
 
-    mechanic_EDG_Grand_Vizier_ability:0 "AQ¸‹/T(u§Y0'YôuPŸS0§!Œ˜î•"
-    mechanic_EDG_Grand_Vizier_ability_yes:0 "AQ¸‹/T(u§Y0'YôuPŸS0§!Œ˜î•"
+    mechanic_EDG_Grand_Vizier_ability:0 "AQ¸‹=T(u§Y0'YôuPŸS0§!Œ˜î•"
+    mechanic_EDG_Grand_Vizier_ability_yes:0 "AQ¸‹=T(u§Y0'YôuPŸS0§!Œ˜î•"
 
-    mechanic_EDG_Secretary_General_ability:0 "AQ¸‹/T(u§Y0‡erØyfN•0§!Œ˜î•"
-    mechanic_EDG_Secretary_General_ability_yes:0 "AQ¸‹/T(u§Y0‡erØyfN•0§!Œ˜î•"
+    mechanic_EDG_Secretary_General_ability:0 "AQ¸‹=T(u§Y0‡erØyfN•0§!Œ˜î•"
+    mechanic_EDG_Secretary_General_ability_yes:0 "AQ¸‹=T(u§Y0‡erØyfN•0§!Œ˜î•"
     
     mechanic_EDG_barracks_tax_ability:0 "°eú^„vuQ%„ŒT­‹Ãu%„wýNÙuˆN§Y+20%§!,g0Wz6eîOckŒT§Y-2%§!,g0WÛSqN"
     mechanic_EDG_barracks_tax_ability_yes:0 "°eú^„vuQ%„ŒT­‹Ãu%„wýNÙuˆN§Y+20%§!,g0Wz6eîOckŒT§Y-2%§!,g0WÛSqN"
 EDG_Harmonious_conscription_system_modifier:0 "ŒTŒ„vVuQ6R¦^"
-EDG_Harmonious_conscription_system_modifier_desc:0 "bìN„vuQyV6R¦^ýwYMQW0W|Qv^ŒTÇ¦^eRJRÿw(WVuQ:g„gN­eŒR„UKNTÿôf/fýwYÑS%cVuQ6R¦^„vOŠ'`ÿÝOÁ‹?e»l†˜INùRSV0W„veRJRNO…úQ0W:S„vÏuNmagöN0"
+EDG_Harmonious_conscription_system_modifier_desc:0 "bìN„vuQyV6R¦^ýwYMQW0W|Qv^ŒTÇ¦^eRJRÿw(WVuQ:g„gN­eŒR„UKNTÿôf=fýwYÑS%cVuQ6R¦^„vOŠ'`ÿÝOÁ‹?e»l†˜INùRSV0W„veRJRNO…úQ0W:S„vÏuNmagöN0"
 
     mechanic_EDG_millet_ability:0 "°eú^„vÕlb–ŒT^?e…SVïzVYewýNÙuˆN§Y+50%§!,g0WuµNHe‡sŒT§Y-2§!,g0WÛSqN"
     mechanic_EDG_millet_ability_yes:0 "°eú^„vÕlb–ŒT^?e…SVïzVYewýNÙuˆN§Y+50%§!,g0WuµNHe‡sŒT§Y-2§!,g0WÛSqN"
@@ -104,46 +104,46 @@ EDG_millet_ability_modifier_desc:0 "s|)Ryr6R¦^ÝOœ–†NSV0WSpe
     mechanic_EDG_sanjaks_reform_ability:0 "SVåb	g§Y0VuQ˜R0§!Œ˜î•öeÿÏQS§Y10%§!„vVßRF–›QS†˜±‚9"
     mechanic_EDG_sanjaks_reform_ability_yes:0 "SVåb	g§Y0VuQ˜R0§!Œ˜î•öeÿÏQS§Y10%§!„vVßRF–›QS†˜±‚9"
 EDG_sanjaks_reform_ability_modifier:0 "ýV¶R›Q‹N¨RXT"
-EDG_sanjaks_reform_ability_modifier_desc:0 "bìN„výV¶R/fNðSž^'Y„vb‰N:ghVÿÑeg„v›Q‹N¨RXTôf/f©‹ÙðS:ghVØšHeÐlÿTï›Q‹NºNMbýUS°súQèT'Y„vïyg'`0"
+EDG_sanjaks_reform_ability_modifier_desc:0 "bìN„výV¶R=fNðSž^'Y„vb‰N:ghVÿÑeg„v›Q‹N¨RXTôf=f©‹ÙðS:ghVØšHeÐlÿTï›Q‹NºNMbýUS°súQèT'Y„vïyg'`0"
     
-    mechanic_EDG_ghulam_chief_ability:0 "AQ¸‹/T(u§Y0äSÉbÆY•˜R0§!Œ˜î•"
-    mechanic_EDG_ghulam_chief_ability_yes:0 "AQ¸‹/T(u§Y0äSÉbÆY•˜R0§!Œ˜î•"
+    mechanic_EDG_ghulam_chief_ability:0 "AQ¸‹=T(u§Y0äSÉbÆY•˜R0§!Œ˜î•"
+    mechanic_EDG_ghulam_chief_ability_yes:0 "AQ¸‹=T(u§Y0äSÉbÆY•˜R0§!Œ˜î•"
     
-    mechanic_EDG_enable_estate_edg_caledonia_ability:0 "AQ¸‹/T(u§Y0‘šëXâV0§!6–BS"
-    mechanic_EDG_enable_estate_edg_caledonia_ability_yes:0 "AQ¸‹/T(u§Y0‘šëXâV0§!6–BS"
+    mechanic_EDG_enable_estate_edg_caledonia_ability:0 "AQ¸‹=T(u§Y0‘šëXâV0§!6–BS"
+    mechanic_EDG_enable_estate_edg_caledonia_ability_yes:0 "AQ¸‹=T(u§Y0‘šëXâV0§!6–BS"
     
-    mechanic_EDG_Peasant_regime:0 "/f§YœQl?eCg§!"
-    mechanic_EDG_Peasant_regime_yes:0 "/f§YœQl?eCg§!"
+    mechanic_EDG_Peasant_regime:0 "=f§YœQl?eCg§!"
+    mechanic_EDG_Peasant_regime_yes:0 "=f§YœQl?eCg§!"
     
-    mechanic_EDG_estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege_ability:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y0ÝOœ–?–SÔk-ÌRæt>m)RÊv0§!0"
-    mechanic_EDG_estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege_ability_yes:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y0ÝOœ–?–SÔk-ÌRæt>m)RÊv0§!0"
+    mechanic_EDG_estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege_ability:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y0ÝOœ–?–SÔk-ÌRæt>m)RÊv0§!0"
+    mechanic_EDG_estate_EDG_Safeguarding_the_interests_of_the_Albi_Fuwa_faction_privilege_ability_yes:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y0ÝOœ–?–SÔk-ÌRæt>m)RÊv0§!0"
 
-    mechanic_EDG_estate_EDG_Minister_of_General_Affairs_privilege_ability:0 "/T(u§Y0^l0§!6–BSyrCg§Y0¦”šRI`¡R'Yã0§!0"
-    mechanic_EDG_estate_EDG_Minister_of_General_Affairs_privilege_ability_yes:0 "/T(u§Y0^l0§!6–BSyrCg§Y0¦”šRI`¡R'Yã0§!0"
+    mechanic_EDG_estate_EDG_Minister_of_General_Affairs_privilege_ability:0 "=T(u§Y0^l0§!6–BSyrCg§Y0¦”šRI`¡R'Yã0§!0"
+    mechanic_EDG_estate_EDG_Minister_of_General_Affairs_privilege_ability_yes:0 "=T(u§Y0^l0§!6–BSyrCg§Y0¦”šRI`¡R'Yã0§!0"
 
-    mechanic_EDG_Lothian_Crown_privilege_ability:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y0šN†SqS'YÕläN0§!0"
-    mechanic_EDG_Lothian_Crown_privilege_ability_yes:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y0šN†SqS'YÕläN0§!0"
+    mechanic_EDG_Lothian_Crown_privilege_ability:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y0šN†SqS'YÕläN0§!0"
+    mechanic_EDG_Lothian_Crown_privilege_ability_yes:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y0šN†SqS'YÕläN0§!0"
 
-    mechanic_EDG_estate_EDG_Strengthening_the_serfdom_systems_privilege_ability:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y0 R:VœQtY6R¦^0§!0"
-    mechanic_EDG_estate_EDG_Strengthening_the_serfdom_systems_privilege_ability_yes:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y0 R:VœQtY6R¦^0§!0"
+    mechanic_EDG_estate_EDG_Strengthening_the_serfdom_systems_privilege_ability:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y0 R:VœQtY6R¦^0§!0"
+    mechanic_EDG_estate_EDG_Strengthening_the_serfdom_systems_privilege_ability_yes:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y0 R:VœQtY6R¦^0§!0"
 
-    mechanic_EDG_estate_EDG_Aberdeen_decree_privilege_ability:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y0?–/ONÕläN0§!0"
-    mechanic_EDG_estate_EDG_Aberdeen_decree_privilege_ability_yes:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y0?–/ONÕläN0§!0"
+    mechanic_EDG_estate_EDG_Aberdeen_decree_privilege_ability:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y0?–=ONÕläN0§!0"
+    mechanic_EDG_estate_EDG_Aberdeen_decree_privilege_ability_yes:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y0?–=ONÕläN0§!0"
 
-    mechanic_EDG_estate_EDG_Latin_National_Army_privilege_ability_yes:0 "/T(u§Y0^l0§!6–BSyrCg§Y0ib'YýVl›Q0§!0"
-    mechanic_EDG_estate_EDG_Latin_National_Army_privilege_ability:0 "/T(u§Y0^l0§!6–BSyrCg§Y0ib'YýVl›Q0§!0"
+    mechanic_EDG_estate_EDG_Latin_National_Army_privilege_ability_yes:0 "=T(u§Y0^l0§!6–BSyrCg§Y0ib'YýVl›Q0§!0"
+    mechanic_EDG_estate_EDG_Latin_National_Army_privilege_ability:0 "=T(u§Y0^l0§!6–BSyrCg§Y0ib'YýVl›Q0§!0"
 
-    mechanic_EDG_estate_EDG_Theatines_privilege_ability_yes:0 "/T(u§Y0^l0§!6–BSyrCg§Y04b‚„<SO0§!0"
-    mechanic_EDG_estate_EDG_Theatines_privilege_ability:0 "/T(u§Y0^l0§!6–BSyrCg§Y04b‚„<SO0§!0"
+    mechanic_EDG_estate_EDG_Theatines_privilege_ability_yes:0 "=T(u§Y0^l0§!6–BSyrCg§Y04b‚„<SO0§!0"
+    mechanic_EDG_estate_EDG_Theatines_privilege_ability:0 "=T(u§Y0^l0§!6–BSyrCg§Y04b‚„<SO0§!0"
 
-    mechanic_EDG_estate_EDG_Norman_Sicilian_Parliament_privilege_ability_yes:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y05Ïe.Oßu®‹OyrCg0§!0"
-    mechanic_EDG_estate_EDG_Norman_Sicilian_Parliament_privilege_ability:0 "/T(u§Y05Ïe0§!6–BSyrCg§Y05Ïe.Oßu®‹OyrCg0§!0"
+    mechanic_EDG_estate_EDG_Norman_Sicilian_Parliament_privilege_ability_yes:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y05Ïe.Oßu®‹OyrCg0§!0"
+    mechanic_EDG_estate_EDG_Norman_Sicilian_Parliament_privilege_ability:0 "=T(u§Y05Ïe0§!6–BSyrCg§Y05Ïe.Oßu®‹OyrCg0§!0"
 
-    mechanic_EDG_SCO_Crown_ability:0 "/T(u§Y‹sg	>N§!:g6R"
-    mechanic_EDG_SCO_Crown_ability_yes:0 "/T(u§Y‹sg	>N§!:g6R"
+    mechanic_EDG_SCO_Crown_ability:0 "=T(u§Y‹sg	>N§!:g6R"
+    mechanic_EDG_SCO_Crown_ability_yes:0 "=T(u§Y‹sg	>N§!:g6R"
 
-    mechanic_EDG_legitimacy_xungui_ability_yes:0 "§Y0ËR5/ec0§!ÿ§YËR5§!Œ˜î•ÏkµuSOÐc›Ot^¦^§Y0.25§!¹pckßu'`0IY.s¦^bqQŒT.Oßu"
-    mechanic_EDG_legitimacy_xungui_ability:0 "åb	g§Y0ËR5/ec0§!?eœ^:g6R"
+    mechanic_EDG_legitimacy_xungui_ability_yes:0 "§Y0ËR5=ec0§!ÿ§YËR5§!Œ˜î•ÏkµuSOÐc›Ot^¦^§Y0.25§!¹pckßu'`0IY.s¦^bqQŒT.Oßu"
+    mechanic_EDG_legitimacy_xungui_ability:0 "åb	g§Y0ËR5=ec0§!?eœ^:g6R"
 
     mechanic_EDG_tax_bailiff_ability_yes:0 "§Y0gb¾˜RSOû|0§!ÿ§Ygb¾˜R§!Œ˜î•ÏkµuSOÐc›O§Y5%§!ýV¶Rz6eîOck"
     mechanic_EDG_tax_bailiff_ability:0  "åb	g§Y0gb¾˜RSOû|0§!?eœ^:g6R"
@@ -157,8 +157,8 @@ EDG_sanjaks_reform_ability_modifier_desc:0 "bìN„výV¶R/fNðSž^'
     mechanic_EDG_HRE_statesman_provide_imperial_authority_ability_yes:0 "§Y0^ýV?e»l¶R0§!ÿ§Y?e»l¶R§!Œ˜î•ÏkµuSOÐc›O§Y2.5%§!^ýVZgžX•"
     mechanic_EDG_HRE_statesman_provide_imperial_authority_ability:0  "åb	g§Y0^ýV?e»l¶R0§!?eœ^:g6R"
 
-mechanic_EDG_army_reformer_provide_shock_damage_ability_yes:0 "§Y0°eV²Q•b/g0§!ÿ§YF–›Q9ei—¶R§!Œ˜î•ÏkµuSOÐc›O§Y5%§!F–›Q²QûQ2O³R0"
-mechanic_EDG_army_reformer_provide_shock_damage_ability:0  "åb	g§Y0°eV²Q•b/g0§!?eœ^:g6R"
+mechanic_EDG_army_reformer_provide_shock_damage_ability_yes:0 "§Y0°eV²Q•b=g0§!ÿ§YF–›Q9ei—¶R§!Œ˜î•ÏkµuSOÐc›O§Y5%§!F–›Q²QûQ2O³R0"
+mechanic_EDG_army_reformer_provide_shock_damage_ability:0  "åb	g§Y0°eV²Q•b=g0§!?eœ^:g6R"
 
 mechanic_EDG_Sword_of_religion_ability_yes:0 "§Y0wáOKNQR0§!ÿ§Y¡R¯‹˜R§!Œ˜î•ÏkµuSOÐc›O§Y5%§!F–›QëXl0"
 mechanic_EDG_Sword_of_religion_ability:0  "åb	g§Y0wáOKNQR0§!?eœ^:g6R"
@@ -166,8 +166,8 @@ mechanic_EDG_Sword_of_religion_ability:0  "åb	g§Y0wáOKNQR0§!?e�
 mechanic_EDG_reformer_provide_unrest_host_ability_yes:0 "§Y0òf¿u9ei—0§!ÿ§Y9ei—¶R§!Œ˜î•ÏkµuSOÐc›O§Y-0.5§!hQýVÛSqN0"
 mechanic_EDG_reformer_provide_unrest_host_ability:0  "åb	g§Y0òf¿u9ei—0§!?eœ^:g6R"
 
-    mechanic_EDG_Apprentice_Act_ability:0 "AQ¸‹/T(u§Y0’VåTÕläN0§!ôv^SÞTÕläN"
-    mechanic_EDG_Apprentice_Act_ability_yes:0 "AQ¸‹/T(u§Y0’VåTÕläN0§!ôv^SÞTÕläNÿžX Rôv^SÞT§Y0.5§!¹pFUÁTµNúQ"
+    mechanic_EDG_Apprentice_Act_ability:0 "AQ¸‹=T(u§Y0’VåTÕläN0§!ôv^SÞTÕläN"
+    mechanic_EDG_Apprentice_Act_ability_yes:0 "AQ¸‹=T(u§Y0’VåTÕläN0§!ôv^SÞTÕläNÿžX Rôv^SÞT§Y0.5§!¹pFUÁTµNúQ"
 
     mechanic_EDG_MORE_issues_1_ability:0 "ã‰•§Yê1uININÕlHh§!ŒT§YÍ‘FUININÕlHh§!®‹OÕlHh"
     mechanic_EDG_MORE_issues_1_ability_yes:0 "ã‰•§Yê1uININÕlHh§!ŒT§YÍ‘FUININÕlHh§!®‹OÕlHh"
@@ -199,13 +199,13 @@ mechanic_EDG_reformer_provide_unrest_host_ability:0  "åb	g§Y0òf¿u9ei
     mechanic_EDG_HRE_Imperial_Knights_ability_yes:0 "bìNSýwYÇ–cO§Y^ýV‘šëX§!cOuQâVÿå‹cOuQâVåb	g§Y75%§!„v˜bcbÿNåb	gåNNîOckÿ§Y‘šuQjObýw›R+20%§!"
     merc__EDG_HRE_Imperial_Knights:0 "^ýV‘šëX0yrŠk0"
 
-mechanic_EDG_HRE_vassal_ability:0 "/T(u§Y^y#WWlšj–ãýV§!:g6R"
-mechanic_EDG_HRE_vassal_ability_yes:0 "/T(u§Y^y#WWlšj–ãýV§!:g6R"
+mechanic_EDG_HRE_vassal_ability:0 "=T(u§Y^y1WWlšj–ãýV§!:g6R"
+mechanic_EDG_HRE_vassal_ability_yes:0 "=T(u§Y^y1WWlšj–ãýV§!:g6R"
 
 mechanic_EDG_GER_more_mercenary_ability:0 "ã‰•ôfY§Y·Va×V§!cOuQ"
 mechanic_EDG_GER_more_mercenary_ability_yes:0 "ã‰•ôfY§Y·Va×V§!cOuQ"
 
-mechanic_EDG_Hussites_Shirachita_ability_yes:0 "§Y0áw¯e>mËeÉbdTXINüR0§!ÿ100%„v§Y^y#WÂríp§!SO˜YÐc›O§Y25%§!ckßuáOðNwýNºN›R0"
+mechanic_EDG_Hussites_Shirachita_ability_yes:0 "§Y0áw¯e>mËeÉbdTXINüR0§!ÿ100%„v§Y^y1WÂríp§!SO˜YÐc›O§Y25%§!ckßuáOðNwýNºN›R0"
 mechanic_EDG_Hussites_Shirachita_ability:0  "åb	g§Y0áw¯e>mËeÉbdTXINüR0§!?eœ^:g6R"
 
 mechanic_EDG_HRE_Imperial_Inquisition_ability_yes:0 "ã‰•³Q®‹ §YT‡v^Bl©Rã‰³QVïzî•˜˜§!"
@@ -229,17 +229,17 @@ mechanic_EDG_Coronation_Rome_provide_prestige_ability:0 " R•Q§YWlšºN
 mechanic_EDG_Reappointed_emperor_provides_power_ability_yes:0 "ÞûN§Y‡v^§!S˜YÐc›O§M50§!¹p£adm£0£dip£ŒT£mil£0"
 mechanic_EDG_Reappointed_emperor_provides_power_ability:0 "ÞûN§Y‡v^§!S˜YÐc›O§M50§!¹p£adm£0£dip£ŒT£mil£0"
 
-mechanic_EDG_MORE_HAB_ability_yes:0 "ã‰•ôfY§YÈT^¯e/X‹sgýw›R§!0"
-mechanic_EDG_MORE_HAB_ability:0 "ã‰•ôfY§YÈT^¯e/X‹sgýw›R§!0"
+mechanic_EDG_MORE_HAB_ability_yes:0 "ã‰•ôfY§YÈT^¯e!X‹sgýw›R§!0"
+mechanic_EDG_MORE_HAB_ability:0 "ã‰•ôfY§YÈT^¯e!X‹sgýw›R§!0"
 
 mechanic_EDG_HRE_manpower_duty_free_princes_ability_yes:0 "(W^ýV…QwQ	g§YMQuQyVyrCg§!"
 mechanic_EDG_HRE_manpower_duty_free_princes_ability:0 "(W^ýV…QwQ	g§YMQuQyVyrCg§!"
 
-mechanic_EDG_caliph_yes_ability_yes:0 "/fÈTÌ‘ÑSýV"
-mechanic_EDG_caliph_yes_ability:0 "/fÈTÌ‘ÑSýV"
+mechanic_EDG_caliph_yes_ability_yes:0 "=fÈTÌ‘ÑSýV"
+mechanic_EDG_caliph_yes_ability:0 "=fÈTÌ‘ÑSýV"
 
-mechanic_EDG_enable_Berber_estate_ability_yes:0 "/T(u§YÏgÏgSèK„§!6–BS"
-mechanic_EDG_enable_Berber_estate_ability:0 "/T(u§YÏgÏgSèK„§!6–BS"
+mechanic_EDG_enable_Berber_estate_ability_yes:0 "=T(u§YÏgÏgSèK„§!6–BS"
+mechanic_EDG_enable_Berber_estate_ability:0 "=T(u§YÏgÏgSèK„§!6–BS"
 
 mechanic_EDG_Martial_Politics_ability_yes:0 "ßu»lwçuMOTSæ‰ÑS§Y^ýV„vçubw§!‹NöN"
 mechanic_EDG_Martial_Politics_ability:0 "ßu»lwçuMOTSæ‰ÑS§Y^ýV„vçubw§!‹NöN"
@@ -268,8 +268,8 @@ mechanic_EDG_reduce_nationalism_from_conversions:0 "Ç.OYelØSw�
 mechanic_EDG_reduce_local_autonomy_from_conversions_yes:0 "Ç.OYelØSwýN„v—RYeÿSO1Y»S§M25§!¹p§Yê»l¦^§!0"
 mechanic_EDG_reduce_local_autonomy_from_conversions:0 "Ç.OYelØSwýN„v—RYeÿSO1Y»S§M25§!¹p§Yê»l¦^§!0"
 
-mechanic_EDG_CN_Frontier_Command_ability_yes:0 "/fý²bœ^"
-mechanic_EDG_CN_Frontier_Command_ability:0 "/fý²bœ^"
+mechanic_EDG_CN_Frontier_Command_ability_yes:0 "=fý²bœ^"
+mechanic_EDG_CN_Frontier_Command_ability:0 "=fý²bœ^"
 
 mechanic_EDG_same_religion_subject_provide_tolerance_ability_yes:0 "§Y0Ye:S¡rt0§!ÿÏk*NNbìNáOðN§MøvT—RYe§!„v^SýVSO:NbìNÐc›O§Y0.25§!¹pckßu¹RÍV¦^0"
 mechanic_EDG_same_religion_subject_provide_tolerance_ability:0 "§Y0Ye:S¡rt0§!"
@@ -289,14 +289,14 @@ mechanic_EDG_BUL_MIL_reform_ability_estate_burghers_yes:0 "^l6–BS§Y›
 mechanic_EDG_BUL_MIL_reform_ability_estate_nobles_yes:0 "5Ïe6–BS§Y›QyVS§!"
 mechanic_EDG_BUL_MIL_reform_ability_estate_church_yes:0 "YeëX6–BS§Y›QyVS§!"
 
-    mechanic_EDG_enable_estate_The_Gray_army_ability:0 "AQ¸‹/T(u§Y0pp›Q0§!6–BS"
-    mechanic_EDG_enable_estate_The_Gray_army_ability_yes:0 "AQ¸‹/T(u§Y0pp›Q0§!6–BS"
+    mechanic_EDG_enable_estate_The_Gray_army_ability:0 "AQ¸‹=T(u§Y0pp›Q0§!6–BS"
+    mechanic_EDG_enable_estate_The_Gray_army_ability_yes:0 "AQ¸‹=T(u§Y0pp›Q0§!6–BS"
 
-    mechanic_EDG_enable_estate_Mamluk_army_ability:0 "AQ¸‹/T(u§Y0lšFzœKQ0§!6–BS"
-    mechanic_EDG_enable_estate_Mamluk_army_ability_yes:0 "AQ¸‹/T(u§Y0lšFzœKQ0§!6–BS"
+    mechanic_EDG_enable_estate_Mamluk_army_ability:0 "AQ¸‹=T(u§Y0lšFzœKQ0§!6–BS"
+    mechanic_EDG_enable_estate_Mamluk_army_ability_yes:0 "AQ¸‹=T(u§Y0lšFzœKQ0§!6–BS"
 
-    mechanic_EDG_enable_estate_Beduin_ability:0 "AQ¸‹/T(u§Y0ýàVèK„0§!6–BS"
-    mechanic_EDG_enable_estate_Beduin_ability_yes:0 "AQ¸‹/T(u§Y0ýàVèK„0§!6–BS"
+    mechanic_EDG_enable_estate_Beduin_ability:0 "AQ¸‹=T(u§Y0ýàVèK„0§!6–BS"
+    mechanic_EDG_enable_estate_Beduin_ability_yes:0 "AQ¸‹=T(u§Y0ýàVèK„0§!6–BS"
 
 mechanic_EDG_allow_Abolish_weak_heirs_ability:0 "AQ¸‹Ÿ^d–›Q‹Nýw›RƒNO„vçubºN"
 mechanic_EDG_allow_Abolish_weak_heirs_ability_yes:0 "AQ¸‹Ÿ^d–›Q‹Nýw›RƒNO„vçubºN"
@@ -308,8 +308,8 @@ EDG_subject_provide_global_manpower_modifier_ability_modifier:0 "0›Q‹N�
 mechanic_EDG_can_get_EDG_MLO_government_power_from_advisor_ability_yes:0 "Œ˜î•ýwYÐc›O§YòTºN‰Lq¦^§!0"
 mechanic_EDG_can_get_EDG_MLO_government_power_from_advisor_ability:0 "Œ˜î•ýwYÐc›O§YòTºN‰Lq¦^§!0"
 
-mechanic_EDG_Philosopher_reform_ability:0 "/f§YòTºN?eSO§!"
-mechanic_EDG_Philosopher_reform_ability_yes:0 "/f§YòTºN?eSO§!"
+mechanic_EDG_Philosopher_reform_ability:0 "=f§YòTºN?eSO§!"
+mechanic_EDG_Philosopher_reform_ability_yes:0 "=f§YòTºN?eSO§!"
 
 mechanic_EDG_estate_burghers_enforced_interfaith_dialogue_P_provide_25_religious_unity_ability:0 "6–BSyrCg§Y:Vë—RYeô•ŒÝ‹§!S˜YÙuˆN§M25%§!—RYeßuN0"
 mechanic_EDG_estate_burghers_enforced_interfaith_dialogue_P_provide_25_religious_unity_ability_yes:0 "6–BSyrCg§Y:Vë—RYeô•ŒÝ‹§!S˜YÙuˆN§M25%§!—RYeßuN0"
@@ -326,11 +326,11 @@ mechanic_EDG_estate_church_religious_diplomats_P_provide_diplomatic_1_reputation
 mechanic_EDG_FRA_Public_Welfare_Alliance_Reform_ability:0 "M–NO§YyrCgÇ‘‘§!‰|‹W„v^SýV§M20%§!ìrËz>PT0"
 mechanic_EDG_FRA_Public_Welfare_Alliance_Reform_ability_yes:0 "M–NO§YyrCgÇ‘‘§!‰|‹W„v^SýV§M20%§!ìrËz>PT0"
 
-mechanic_EDG_enable_peasants_estate_ability:0 "/T(u§YœQl§!6–BS"
-mechanic_EDG_enable_peasants_estate_ability_yes:0 "/T(u§YœQl§!6–BS"
+mechanic_EDG_enable_peasants_estate_ability:0 "=T(u§YœQl§!6–BS"
+mechanic_EDG_enable_peasants_estate_ability_yes:0 "=T(u§YœQl§!6–BS"
 
-mechanic_EDG_enable_peasants_officials_ability:0 "/T(u§Y˜RÚP§!6–BS"
-mechanic_EDG_enable_peasants_officials_ability_yes:0 "/T(u§Y˜RÚP§!6–BS"
+mechanic_EDG_enable_peasants_officials_ability:0 "=T(u§Y˜RÚP§!6–BS"
+mechanic_EDG_enable_peasants_officials_ability_yes:0 "=T(u§Y˜RÚP§!6–BS"
 
 mechanic_EDG_PER_more_frequent_heir_ability:0 "O§Y^ýVçubºN§!‹NöN8^`S"
 mechanic_EDG_PER_more_frequent_heir_ability_yes:0 "O§Y^ýVçubºN§!‹NöN8^`S"
@@ -360,8 +360,8 @@ mechanic_EDG_catharism_vassal_Clare_unable_ability_yes:0 "ybk§Mnm>mTw
 mechanic_EDG_HRE_Annexate_imperial_territories_ability:0 "ã‰•³Q®‹§YÇ:VlxKbµkTv^^ýVê1uQg„^§!"
 mechanic_EDG_HRE_Annexate_imperial_territories_ability_yes:0 "ã‰•³Q®‹§YÇ:VlxKbµkTv^^ýVê1uQg„^§!"
 
-mechanic_EDG_Lithuanian_Cabinet_reform_ability:0 "/T(u§Y8^¡R…Q–§!"
-mechanic_EDG_Lithuanian_Cabinet_reform_ability_yes:0 "/T(u§Y8^¡R…Q–§!"
+mechanic_EDG_Lithuanian_Cabinet_reform_ability:0 "=T(u§Y8^¡R…Q–§!"
+mechanic_EDG_Lithuanian_Cabinet_reform_ability_yes:0 "=T(u§Y8^¡R…Q–§!"
 
 mechanic_EDG_FTM_empire_ability_yes:0 "AQ¸‹¾‹Ëz§YoRÏ‚9N§!Lˆw"
 mechanic_EDG_FTM_empire_ability:0 "AQ¸‹¾‹Ëz§YoRÏ‚9N§!Lˆw"
@@ -382,8 +382,8 @@ mechanic_EDG_FYM_kushshaf_reform_ability_yes:0 "(W(„ÈT¾?eœ^ýw›
 
 
 
-mechanic_EDG_enables_estate_edg_copt:0 "/T(u§YÑynfyrºN§!6–BS"
-mechanic_EDG_enables_estate_edg_copt_yes:0 "/T(u§YÑynfyrºN§!6–BS"
+mechanic_EDG_enables_estate_edg_copt:0 "=T(u§YÑynfyrºN§!6–BS"
+mechanic_EDG_enables_estate_edg_copt_yes:0 "=T(u§YÑynfyrºN§!6–BS"
 
 mechanic_EDG_Request_General_action_ability:0 "ã‰•ˆ”ùR^SýV„vY²NLˆ¨R§YT^SýV0tÖSS›Q§!"
 mechanic_EDG_Request_General_action_ability_yes:0 "ã‰•ˆ”ùR^SýV„vY²NLˆ¨R§YT^SýV0tÖSS›Q§!"
@@ -392,14 +392,14 @@ mechanic_EDG_Request_General_action_ability_yes:0 "ã‰•ˆ”ùR^SýV
 mechanic_EDG_GSR_mil_vassal_ability:0 "AQ¸‹SD–¸^lØS:N§Y‚„›sS†˜0W§!"
 mechanic_EDG_GSR_mil_vassal_ability_yes:0 "AQ¸‹SD–¸^lØS:N§Y‚„›sS†˜0W§!"
 
-mechanic_EDG_HZB_estate_ability:0 "/T(u§YOSWlýV§!6–BS:g6R"
-mechanic_EDG_HZB_estate_ability_yes:0 "/T(u§YOSWlýV§!6–BS:g6R"
+mechanic_EDG_HZB_estate_ability:0 "=T(u§YOSWlýV§!6–BS:g6R"
+mechanic_EDG_HZB_estate_ability_yes:0 "=T(u§YOSWlýV§!6–BS:g6R"
 
-mechanic_EDG_TUR_gaomen_ability:0 "/T(ueY¯eüf^ýV§YØšè•§!:g6Rÿå‹:g6RMOŽN?eœ^Lub—ÿå‚*g>f:yÿ÷‹xSN¨`„vvQÖNMOD	ÿ"
-mechanic_EDG_TUR_gaomen_ability_yes:0 "/T(ueY¯eüf^ýV§YØšè•§!:g6Rÿå‹:g6RMOŽN?eœ^Lub—ÿå‚*g>f:yÿ÷‹xSN¨`„vvQÖNMOD	ÿ"
+mechanic_EDG_TUR_gaomen_ability:0 "=T(ueY¯eüf^ýV§YØšè•§!:g6Rÿå‹:g6RMOŽN?eœ^Lub—ÿå‚*g>f:yÿ÷‹xSN¨`„vvQÖNMOD	ÿ"
+mechanic_EDG_TUR_gaomen_ability_yes:0 "=T(ueY¯eüf^ýV§YØšè•§!:g6Rÿå‹:g6RMOŽN?eœ^Lub—ÿå‚*g>f:yÿ÷‹xSN¨`„vvQÖNMOD	ÿ"
 
-mechanic_EDG_enable_estate_edg_paladin_ability:0 "/T(u§Y0#W‘šëX0§!6–BS"
-mechanic_EDG_enable_estate_edg_paladin_ability_yes:0 "/T(u§Y0#W‘šëX0§!6–BS"
+mechanic_EDG_enable_estate_edg_paladin_ability:0 "=T(u§Y01W‘šëX0§!6–BS"
+mechanic_EDG_enable_estate_edg_paladin_ability_yes:0 "=T(u§Y01W‘šëX0§!6–BS"
 
     celestial_empire_altaic_assimilated:0 ""
     celestial_empire_baltic_assimilated:0 ""
@@ -450,11 +450,11 @@ mechanic_EDG_enable_estate_edg_paladin_ability_yes:0 "/T(u§Y0#W‘šëX
 
 
 
-#海军职业度
-ability_EDG_naval_professionalism_mechanic:0 "/T(u?eœ^ýw›R§Ywm›QLwN¦^§!"
-ability_EDG_naval_professionalism_mechanic_yes:0 "/T(u?eœ^ýw›R§Ywm›QLwN¦^§!"
-EDG_naval_professionalism_mechanic:0 "/T(u?eœ^ýw›R§Ywm›QLwN¦^§!"
-EDG_naval_professionalism_mechanic_yes:0 "/T(u?eœ^ýw›R§Ywm›QLwN¦^§!"
+#wm›QLwN¦^
+ability_EDG_naval_professionalism_mechanic:0 "=T(u?eœ^ýw›R§Ywm›QLwN¦^§!"
+ability_EDG_naval_professionalism_mechanic_yes:0 "=T(u?eœ^ýw›R§Ywm›QLwN¦^§!"
+EDG_naval_professionalism_mechanic:0 "=T(u?eœ^ýw›R§Ywm›QLwN¦^§!"
+EDG_naval_professionalism_mechanic_yes:0 "=T(u?eœ^ýw›R§Ywm›QLwN¦^§!"
 EDG_naval_professionalism_grow_effect_tt:0 "·ƒ—V§G2.5§!wm›QLwN¦^0"
 EDG_naval_professionalism:0 "wm›QLwN¦^"
 EDG_naval_professionalism_power:0 "wm›QLwN¦^"
@@ -470,22 +470,26 @@ EDG_naval_professionalism_power_1:0 "0¡RÛ¦^"
 EDG_naval_professionalism_power_2:0 "Áy cÛ¦^"
 EDG_naval_professionalism_power_3:0 "­‹ÃuÛ¦^"
 
-#不列颠尼亚议会
-ability_EDG_BTA_parliament_vs_monarchy_mechanic:0 "/T(u?eœ^:g6R§Y?eœ^CgZ§!"
-ability_EDG_BTA_parliament_vs_monarchy_mechanic_yes:0 "/T(u?eœ^:g6R§Y?eœ^CgZ§!"
+#NR ˜<SšN®‹O
+ability_EDG_BTA_parliament_vs_monarchy_mechanic:0 "=T(u?eœ^:g6R§Y?eœ^CgZ§!"
+ability_EDG_BTA_parliament_vs_monarchy_mechanic_yes:0 "=T(u?eœ^:g6R§Y?eœ^CgZ§!"
 EDG_BTA_governmental_power:0 "?eœ^CgZ"
 monthly_EDG_BTA_governmental_power:0 "g¦^§Y?eœ^CgZ§!"
 
-#现代职业军改革
-ability_EDG_BTA_qinghe_militarization:0 "/T(u?eœ^:g6R§Y°sãNLwN›Q9ei—§!"
-ability_EDG_BTA_qinghe_militarization_yes:0 "/T(u?eœ^:g6R§Y°sãNLwN›Q9ei—§!"
+#°sãNLwN›Q9ei—
+ability_EDG_BTA_qinghe_militarization:0 "=T(u?eœ^:g6R§Y°sãNLwN›Q9ei—§!"
+ability_EDG_BTA_qinghe_militarization_yes:0 "=T(u?eœ^:g6R§Y°sãNLwN›Q9ei—§!"
 EDG_BTA_qinghe_militarization:0 "°sãNLwN›Q9ei—"
 EDG_BTA_qinghe_militarization_power:0 "°sãNLwN›Q9ei—Û¦^"
 monthly_EDG_BTA_qinghe_militarization_power:0 "g¦^°sãNLwN›Q9ei—Û¦^"
+#ýV¶R–klè
+EDG_SCO_National_Immigration_Department:0 "ýV¶R–klè"
+EDG_SCO_National_Immigration_Department_desc:0 "	g†NN=e:V'Y„výV¶Rwm›QTÿnxÝOwmN‰RhQàe^†„vbìNïSåNUSV'YÄ‰!j„vûylÿåNdkSb.^SŽNbìN„våeNK„^ýV0"
+mechanic_EDG_SCO_colonial_policy_yes:0 "§Y0–kl?eVr0§!ÿ(W*g–kl0WWW=T(u§Y0`S.bŸSOOl0§!ýw›RÿïSw9NšR§YãN÷N§!ÿ(Wå‹wýN:V6R§Yú^§!N*N§G^—8hÃV–kl0W§!"
 
 #
-ability_EDG_Norman_Monarchy_government:0 "/T(u?eœ^ýw›R§Yú‹üfTINýVýw›R§!"
-ability_EDG_Norman_Monarchy_government_yes:0 "/T(u?eœ^ýw›R§Yú‹üfTINýVýw›R§!"
+ability_EDG_Norman_Monarchy_government:0 "=T(u?eœ^ýw›R§Yú‹üfTINýVýw›R§!"
+ability_EDG_Norman_Monarchy_government_yes:0 "=T(u?eœ^ýw›R§Yú‹üfTINýVýw›R§!"
 mechanic_EDG_Norman_Monarchy_government:0 "?eœ^ýw›R§Yú‹üfTINýVýw›R§!"
 mechanic_EDG_Norman_Monarchy_government_yes:0 "?eœ^ýw›R§Yú‹üfTINýVýw›R§!"
 EDG_Norman_Monarchy_government:0 "ú‹üfTINýVýw›R"
@@ -494,7 +498,7 @@ EDG_Norman_Monarchy_government_power_2:0 "¡VMRO®‹Û¦^"
 EDG_Norman_Monarchy_government_power_3:0 "ib'Yy›QÛ¦^"
 EDG_Norman_Monarchy_government_interactions_1:0 "îO.ýV¶RÕlxQ"
 EDG_Norman_Monarchy_government_interactions_2:0 "ìSV¡VMRO®‹"
-EDG_Norman_Monarchy_government_interactions_3:0 "ib'Yy›QÄ‰/j"
+EDG_Norman_Monarchy_government_interactions_3:0 "ib'Yy›QÄ‰!j"
 EDG_Norman_Monarchy_government_interactions_1_desc:0 ""
 EDG_Norman_Monarchy_government_interactions_2_desc:0 ""
 EDG_Norman_Monarchy_government_interactions_3_desc:0 ""
@@ -503,33 +507,33 @@ monthly_EDG_Norman_Monarchy_government_power_2:0 "g¦^¡VMRO®‹Û�
 monthly_EDG_Norman_Monarchy_government_power_3:0 "g¦^ib'Yy›QÛ¦^"
 EDG_Norman_Monarchy_government_modifier_1:0 "îO.ýV¶RÕlxQ"
 EDG_Norman_Monarchy_government_modifier_2:0 "ìSV¡VMRO®‹"
-EDG_Norman_Monarchy_government_modifier_3:0 "ib'Yy›QÄ‰/j"
+EDG_Norman_Monarchy_government_modifier_3:0 "ib'Yy›QÄ‰!j"
 
 
-#哈布斯堡
-mechanic_EDG_HAB_monarchy_ability:0 "/f§YÈT^¯e/X‹sg§!"
-mechanic_EDG_HAB_monarchy_ability_yes:0 "/f§YÈT^¯e/X‹sg§!"
-ability_EDG_HAB_Monarchy_government_ability:0 "§YÈT^¯e/X‹sgýw›R§!:g6R"
-ability_EDG_HAB_Monarchy_government_ability_yes:0 "§YÈT^¯e/X‹sgýw›R§!:g6R"
-EDG_HAB_Monarchy_government_interactions_5_opinion:0 "ÈT^¯e/X—RYeY²N"
+#ÈT^¯e!X
+mechanic_EDG_HAB_monarchy_ability:0 "=f§YÈT^¯e!X‹sg§!"
+mechanic_EDG_HAB_monarchy_ability_yes:0 "=f§YÈT^¯e!X‹sg§!"
+ability_EDG_HAB_Monarchy_government_ability:0 "§YÈT^¯e!X‹sgýw›R§!:g6R"
+ability_EDG_HAB_Monarchy_government_ability_yes:0 "§YÈT^¯e!X‹sgýw›R§!:g6R"
+EDG_HAB_Monarchy_government_interactions_5_opinion:0 "ÈT^¯e!X—RYeY²N"
 EDG_HAB_Monarchy_government_interactions_6_tt:0 "bìNS9hncbìN·ƒ—V„v§Yg¦^Lˆ?e¹p§!·ƒÖSNšR„v§GZg§!0"
-EDG_HAB_Monarchy_government_power:0 "ÈT^¯e/X‹sg¹ppe"
-EDG_HAB_Monarchy_government_power_1:0 "ÈT^¯e/XTwûY¹ppe"
-EDG_HAB_Monarchy_government_power_2:0 "ÈT^¯e/X^ýV¹ppe"
-EDG_HAB_Monarchy_government_power_3:0 "ÈT^¯e/X†˜0W¹ppe"
-EDG_HAB_Monarchy_government_power_4:0 "ÈT^¯e/XlÏe¹ppe"
-EDG_HAB_Monarchy_government_power_5:0 "ÈT^¯e/X—RYe¹ppe"
-EDG_HAB_Monarchy_government_power_6:0 "ÈT^¯e/X‡ez‚¹ppe"
+EDG_HAB_Monarchy_government_power:0 "ÈT^¯e!X‹sg¹ppe"
+EDG_HAB_Monarchy_government_power_1:0 "ÈT^¯e!XTwûY¹ppe"
+EDG_HAB_Monarchy_government_power_2:0 "ÈT^¯e!X^ýV¹ppe"
+EDG_HAB_Monarchy_government_power_3:0 "ÈT^¯e!X†˜0W¹ppe"
+EDG_HAB_Monarchy_government_power_4:0 "ÈT^¯e!XlÏe¹ppe"
+EDG_HAB_Monarchy_government_power_5:0 "ÈT^¯e!X—RYe¹ppe"
+EDG_HAB_Monarchy_government_power_6:0 "ÈT^¯e!X‡ez‚¹ppe"
 
-EDG_HAB_Monarchy_government_interactions_0:0 "ÈT^¯e/X‹sgýw›R"
-EDG_HAB_Monarchy_government_interactions_1:0 "ÈT^¯e/XTwûYýw›R"
-EDG_HAB_Monarchy_government_interactions_2:0 "ÈT^¯e/X^ýVýw›R"
-EDG_HAB_Monarchy_government_interactions_3:0 "ÈT^¯e/X†˜0Wýw›R"
-EDG_HAB_Monarchy_government_interactions_4:0 "ÈT^¯e/XlÏeýw›R"
-EDG_HAB_Monarchy_government_interactions_5:0 "ÈT^¯e/X—RYeýw›R"
-EDG_HAB_Monarchy_government_interactions_6:0 "ÈT^¯e/X‡ez‚ýw›R"
+EDG_HAB_Monarchy_government_interactions_0:0 "ÈT^¯e!X‹sgýw›R"
+EDG_HAB_Monarchy_government_interactions_1:0 "ÈT^¯e!XTwûYýw›R"
+EDG_HAB_Monarchy_government_interactions_2:0 "ÈT^¯e!X^ýVýw›R"
+EDG_HAB_Monarchy_government_interactions_3:0 "ÈT^¯e!X†˜0Wýw›R"
+EDG_HAB_Monarchy_government_interactions_4:0 "ÈT^¯e!XlÏeýw›R"
+EDG_HAB_Monarchy_government_interactions_5:0 "ÈT^¯e!X—RYeýw›R"
+EDG_HAB_Monarchy_government_interactions_6:0 "ÈT^¯e!X‡ez‚ýw›R"
 
-monthly_EDG_HAB_Monarchy_government_power:0 "g¦^ÈT^¯e/X‹sg¹ppe"
+monthly_EDG_HAB_Monarchy_government_power:0 "g¦^ÈT^¯e!X‹sg¹ppe"
 monthly_EDG_HAB_Monarchy_government_power_1_desc:0 ""
 monthly_EDG_HAB_Monarchy_government_power_2_desc:0 ""
 monthly_EDG_HAB_Monarchy_government_power_3_desc:0 ""
@@ -545,16 +549,16 @@ EDG_HAB_Monarchy_government_interactions_5_desc:0 ""
 EDG_HAB_Monarchy_government_interactions_6_desc:0 ""
 
 EDG_HAB_Monarchy_government_interactions_4_tt:0 "bìN„vNb	g¹RÍV‡eS„vwýN·ƒ—V‚YNîOckÿ"
-EDG_HAB_Monarchy_government_modifier_2:0 "ÈT^¯e/X^ýV?eVr"
+EDG_HAB_Monarchy_government_modifier_2:0 "ÈT^¯e!X^ýV?eVr"
 
 EDG_HAB_Monarchy_government_interactions_1_tt:0 "bìN„vÏk*N§YTwûYýV§!SO:NbìNÐc›O§M20§!¹p£DIP£§GY²N¹p§!ÿv^NÐcGSNb	g§YTwûYýV§!ùRbìN„v‹Ya¦^0"
-EDG_HAB_Monarchy_government_interactions_1_opinion:0 "ÈT^¯e/XËu&^"
+EDG_HAB_Monarchy_government_interactions_1_opinion:0 "ÈT^¯e!XËu&^"
 
-#哈布斯堡联统国
-mechanic_EDG_HAB_monarchy_ability_2:0 "/T(u§YÈT^¯e/XTwßuýV§!:g6R"
-mechanic_EDG_HAB_monarchy_ability_2_yes:0 "/T(u§YÈT^¯e/XTwßuýV§!:g6R"
+#ÈT^¯e!XTwßuýV
+mechanic_EDG_HAB_monarchy_ability_2:0 "=T(u§YÈT^¯e!XTwßuýV§!:g6R"
+mechanic_EDG_HAB_monarchy_ability_2_yes:0 "=T(u§YÈT^¯e!XTwßuýV§!:g6R"
 
-#穆瓦希德
+#Fzæt^·V
 ability_EDG_Muwahhidun_government_ability:0 "Fzæt^·VCgZ"
 ability_EDG_Muwahhidun_government_ability_yes:0 "Fzæt^·VCgZ"
 EDG_Muwahhidun_government_ability:0 "Fzæt^·VCgZ"
@@ -579,7 +583,7 @@ EDG_Muwahhidun_government_interactions_3_desc:0 ""
 
 EDG_Muwahhidun_government_interactions_2_tt:0 "ûyúQbìN»lNNb	g^—ýVYewýN„v§Y—RYeípÅ`§!îOck0"
 
-#军役化
+#›QyVS
 
 ability_EDG_Military_Service_government_ability:0 "ýV¶R›QyVS"
 ability_EDG_Military_Service_government_ability_yes:0 "ýV¶R›QyVS"
@@ -603,7 +607,7 @@ EDG_Military_Service_government_interactions_1_desc:0 ""
 EDG_Military_Service_government_interactions_2_desc:0 ""
 EDG_Military_Service_government_interactions_3_desc:0 ""
 
-#军国主义狂热
+#›QýVININÂríp
 ability_EDG_Militaristic_fervor_ability:0 "›QýVININÂríp"
 ability_EDG_Militaristic_fervor_ability_yes:0 "›QýVININÂríp"
 EDG_Militaristic_fervor_ability:0 "›QýVININÂríp"
@@ -615,41 +619,41 @@ EDG_Militaristic_fervor_interactions_desc:0 ""
 monthly_EDG_Militaristic_fervor_power:0 "g¦^§Y›QýVININÂríp§!"
 
 
-#哲人辉煌度
+#òTºN‰Lq¦^
 ability_EDG_MLO_government_ability:0 "§YòTºN‰Lq¦^§!"
 ability_EDG_MLO_government_ability_yes:0 "§YòTºN‰Lq¦^§!"
 EDG_MLO_government_ability:0 "òTºN‰Lq¦^"
 EDG_MLO_government_ability_yes:0 "òTºN‰Lq¦^"
 EDG_MLO_government_power:0 "§YòTºN‰Lq¦^¹ppe§!"
-EDG_MLO_government_power_desc:0 "\n§YòTºN‰Lq¦^§!×S0RåNNàV.t„vqVÍTÿ\n-O(u§GòTºN‰Lq¦^§!ýw›R\n-(W§GòTºN‹s	>N§!-N	ébùR”^	y˜\n-ùRƒRýVVUS§G-pNz‚/gÁT§!„v§YY²NLˆ¨R§!\n-¥c³u°e`no\n\ng¦^§YòTºN‰Lq¦^§!×S0RåNNàV.t„vqVÍTÿ\n-100¹pZg:§M+0.2§!\n-100¹pqQŒT.Oßu:§M+0.1§!\n-100¹pYeO›RÏ‘:§M+0.1§!\n-100¹pÂríp:§M+0.1§!\n-YŽNŒTs^:§M+0.1§!\n-Ïk1¹p3zšR¦^:§M+0.05§!\n-Ïk1¹pY²NðX‰Š:§M+0.05§!\n-Ïk1µuŒ˜î•:§M+0.025§!\n-Ïk1¹pŒSb¦^:§R-0.05§!\n-Ïk1¹p'¨Àw:§R-0.01§!\n-Ïk1¹pP%¦^:§R-0.1§!\n-100¹pF–›Q.Oßu:§R-0.1§!\n-100¹pÇ¦^ib.V:§R-0.5§!"
+EDG_MLO_government_power_desc:0 "\n§YòTºN‰Lq¦^§!×S0RåNNàV.t„vqVÍTÿ\n-O(u§GòTºN‰Lq¦^§!ýw›R\n-(W§GòTºN‹s	>N§!-N	ébùR”^	y˜\n-ùRƒRýVVUS§G-pNz‚=gÁT§!„v§YY²NLˆ¨R§!\n-¥c³u°e`no\n\ng¦^§YòTºN‰Lq¦^§!×S0RåNNàV.t„vqVÍTÿ\n-100¹pZg:§M+0.2§!\n-100¹pqQŒT.Oßu:§M+0.1§!\n-100¹pYeO›RÏ‘:§M+0.1§!\n-100¹pÂríp:§M+0.1§!\n-YŽNŒTs^:§M+0.1§!\n-Ïk1¹p3zšR¦^:§M+0.05§!\n-Ïk1¹pY²NðX‰Š:§M+0.05§!\n-Ïk1µuŒ˜î•:§M+0.025§!\n-Ïk1¹pŒSb¦^:§R-0.05§!\n-Ïk1¹p'¨Àw:§R-0.01§!\n-Ïk1¹pP%¦^:§R-0.1§!\n-100¹pF–›Q.Oßu:§R-0.1§!\n-100¹pÇ¦^ib.V:§R-0.5§!"
 EDG_MLO_government_power_1:0 "§Y‡eSAucƒ¦^§!"
-EDG_MLO_government_power_2:0 "§Yz‚/gAucƒ¦^§!"
+EDG_MLO_government_power_2:0 "§Yz‚=gAucƒ¦^§!"
 EDG_MLO_government_power_3:0 "§YÑyŽbAucƒ¦^§!"
 monthly_EDG_MLO_government_power:0 "g¦^§YòTºN‰Lq¦^§!"
 monthly_EDG_MLO_government_power_1:0 "g¦^§Y‡eSAucƒ¦^§!"
-monthly_EDG_MLO_government_power_2:0 "g¦^§Yz‚/gAucƒ¦^§!"
+monthly_EDG_MLO_government_power_2:0 "g¦^§Yz‚=gAucƒ¦^§!"
 monthly_EDG_MLO_government_power_3:0 "g¦^§YÑyŽbAucƒ¦^§!"
 monthly_EDG_MLO_government_power_1_desc:0 "g¦^§Y‡eSAucƒ¦^§!"
-monthly_EDG_MLO_government_power_2_desc:0 "g¦^§Yz‚/gAucƒ¦^§!"
+monthly_EDG_MLO_government_power_2_desc:0 "g¦^§Yz‚=gAucƒ¦^§!"
 monthly_EDG_MLO_government_power_3_desc:0 "g¦^§YÑyŽbAucƒ„v§!"
 EDG_MLO_government_interactions_1:0 "tQžR‡eSYe²w"
-EDG_MLO_government_interactions_2:0 "VžRz‚/gUSÈ‰"
+EDG_MLO_government_interactions_2:0 "VžRz‚=gUSÈ‰"
 EDG_MLO_government_interactions_3:0 "•bDÑyŽbR°e"
 EDG_MLO_government_interactions_1_desc:0 ""
 EDG_MLO_government_interactions_2_desc:0 ""
 EDG_MLO_government_interactions_3_desc:0 ""
 
-#尹
+#9S
 EDG_YIN_government_power_desc:0 "§YRVÃV<P§!×S0RåNNàV.t„vqVÍTÿ\n-lØSN*NwýN„v‡eS:§M+2§!\n-lØSN*NwýN„v—RYe:§M+2§!\n\ng¦^§YRVÃV<P§!×S0RåNNàV.t„vqVÍTÿ\n-Ïk5WWINAm‡eSwýN:§M+0.05§!"\n-Ïk1¹pTINýw›R:§M+0.025§!\n-Ïk1¹pçubºNýw›R:§M+0.01§!\n-Ïk1¹pŒSb¦^:§R-0.05§!\n-Ïk1¹p'¨Àw:§R-0.05§!\n-Ïk1¹pP%¦^:§R-0.1§!\n-4xµN:§R-2.5§!"
 
 
-#法兰西
+#ÕlpQ‰
 ability_EDG_FRA_government_ability:0 "§YÝuùRININ§!"
 ability_EDG_FRA_government_ability_yes:0 "§YÝuùRININ§!"
 EDG_FRA_government_ability:0 "§YÝuùRININ§!"
 EDG_FRA_government_ability_yes:0 "§YÝuùRININ§!"
 EDG_FRA_government_power:0 "§YÝuùRININ§!"
-EDG_FRA_government_power_desc:0 "g¦^§YÝuùRININ§!×S0RåNNàV.t„vqVÍTÿ\n-100¹pN6R¦^:§M+0.1§!\n-100¹p›RÏ‘•bS:§M+0.1§!\n-100¹pZg:§M+0.1§!\n-100¹pckßu'`:§M+0.1§!\n-100¹pi—‹TípÅ`:§M+0.1§!\n-100¹pF–›Q.Oßu:§M+0.1§!\n-100%„v—RYeßuN:§M+0.05§!\n-Ïk1¹p3zšR¦^:§M+0.05§!\n-YŽNŒTs^-N:§M+0.05§!\n-/fáOðNˆR²bw:§M+0.05§!\n-/fR:V:§M+0.05§!\n-Ïk1%„v'¨Àw:§R-0.01§!\n-Ïk1¹pŒSb¦^:§R-0.05§!\n-Ïk1¹pP%¦^:§R-0.1§!\n-YŽNb‰N-N:§R-0.5§!\n-100¹pÇ¦^ib.V:§R-0.5§!\n-4xµN:§R-0.5§!"
+EDG_FRA_government_power_desc:0 "g¦^§YÝuùRININ§!×S0RåNNàV.t„vqVÍTÿ\n-100¹pN6R¦^:§M+0.1§!\n-100¹p›RÏ‘•bS:§M+0.1§!\n-100¹pZg:§M+0.1§!\n-100¹pckßu'`:§M+0.1§!\n-100¹pi—‹TípÅ`:§M+0.1§!\n-100¹pF–›Q.Oßu:§M+0.1§!\n-100%„v—RYeßuN:§M+0.05§!\n-Ïk1¹p3zšR¦^:§M+0.05§!\n-YŽNŒTs^-N:§M+0.05§!\n-=fáOðNˆR²bw:§M+0.05§!\n-=fR:V:§M+0.05§!\n-Ïk1%„v'¨Àw:§R-0.01§!\n-Ïk1¹pŒSb¦^:§R-0.05§!\n-Ïk1¹pP%¦^:§R-0.1§!\n-YŽNb‰N-N:§R-0.5§!\n-100¹pÇ¦^ib.V:§R-0.5§!\n-4xµN:§R-0.5§!"
 EDG_FRA_government_power_1:0 "§YLˆ?eÝuùRININ§!"
 EDG_FRA_government_power_2:0 "§YÏuNmÝuùRININ§!"
 EDG_FRA_government_power_3:0 "§Y›Q‹NÝuùRININ§!"
@@ -683,13 +687,13 @@ EDG_flavorFRA_mission.27.d:0 "1uŽNYw>m(W[Root.GetAdjective]`Snc†N
 EDG_flavorFRA_mission.27.a:0 "ÖNìN`beÿ"
 
 
-#帝国军事领导力
+#^ýV›Q‹N†˜üR›R
 ability_EDG_SAX_Monarchy_ability:0 "§Y^ýV›Q‹N†˜–ˆýw›R§!"
 ability_EDG_SAX_Monarchy_ability_yes:0 "§Y^ýV›Q‹N†˜–ˆýw›R§!"
 EDG_SAX_Monarchy_ability:0 "^ýV›Q‹N†˜–ˆ"
 EDG_SAX_Monarchy_ability_yes:0 "^ýV›Q‹N†˜–ˆ"
 EDG_SAX_Monarchy_power:0 "§Y^ýV›Q‹N†˜–ˆýw›R¹ppe§!"
-EDG_SAX_Monarchy_power_desc:0 "\n§Y^ýV›Q‹N†˜–ˆýw›R§!¹ppe×S0RåNNàV.t„vqVÍTÿ\n-O(u§G^ýV›Q‹N†˜–ˆ§!ýw›R\n-O(u§G^ýV'YCQ^§!³Q®‹\ng¦^§Y^ýV›Q‹N†˜–ˆ§!¹ppe×S0RåNNàV.t„vqVÍTÿ\n-/f^ýV'YCQ^:§G+0.1§!\n-100¹pZg:§G+0.1§!\n-100¹pF–›Q.Oßu:§G+0.1§!\n-Ïk1¹pY²NðX‰Š:§G+0.025§!\n-Ïk100%Ç¦^ib.V:§R-0.5§!\n-Ïk1¹pŒSb¦^:§R-0.05§!\n-Ïk1¹pP%¦^:§R-0.1§!\n-òT4xµN:§R-0.3§!"
+EDG_SAX_Monarchy_power_desc:0 "\n§Y^ýV›Q‹N†˜–ˆýw›R§!¹ppe×S0RåNNàV.t„vqVÍTÿ\n-O(u§G^ýV›Q‹N†˜–ˆ§!ýw›R\n-O(u§G^ýV'YCQ^§!³Q®‹\ng¦^§Y^ýV›Q‹N†˜–ˆ§!¹ppe×S0RåNNàV.t„vqVÍTÿ\n-=f^ýV'YCQ^:§G+0.1§!\n-100¹pZg:§G+0.1§!\n-100¹pF–›Q.Oßu:§G+0.1§!\n-Ïk1¹pY²NðX‰Š:§G+0.025§!\n-Ïk100%Ç¦^ib.V:§R-0.5§!\n-Ïk1¹pŒSb¦^:§R-0.05§!\n-Ïk1¹pP%¦^:§R-0.1§!\n-òT4xµN:§R-0.3§!"
 monthly_EDG_SAX_Monarchy_power_desc:0 "g¦^§Y^ýV›Q‹N†˜–ˆ§!¹ppe"
 monthly_EDG_SAX_Monarchy_power:0 "g¦^§Y^ýV›Q‹N†˜–ˆ§!¹ppe"
 EDG_SAX_Monarchy_interactions_1:0 "Äuú^CQ^j–ã›Q"
@@ -704,7 +708,7 @@ EDG_SAX_Monarchy_interactions_2_modifier:0 "ib'Y^SýVVuQSOû|"
 EDG_SAX_Monarchy_interactions_3_modifier:0 "EQžRSú^5Ïe›Q˜RâV"
 
 
-#联邦团结度
+#Tw¦âVÓu¦^
 ability_EDG_LIT_Monarchy_ability:0 "§YTw¦âVÓu¦^§!"
 ability_EDG_LIT_Monarchy_ability_yes:0 "§YTw¦âVÓu¦^§!"
 EDG_LIT_Monarchy_ability:0 "Tw¦âVÓu¦^"
@@ -720,7 +724,7 @@ EDG_LIT_Monarchy_interactions_1_desc:0 ""
 EDG_LIT_Monarchy_interactions_2_desc:0 ""
 EDG_LIT_Monarchy_interactions_3_desc:0 ""
 
-#萨哈达
+#(„ÈT¾
 ability_EDG_FYM_Monarchy_ability:0 "§Y´f>bCgÄg<P§!"
 ability_EDG_FYM_Monarchy_ability_yes:0 "§Y´f>bCgÄg<P§!"
 ability_EDG_FYM_Monarchy_ability_2:0 "^ýVPS<P"
@@ -736,10 +740,10 @@ EDG_FYM_Monarchy_ability_3_yes:0 "tY¶–Lˆ?e6R"
 
 EDG_FYM_Monarchy_power:0 "§Y´f>bCgÄg<P§!"
 EDG_FYM_Monarchy_power_2:0 "§Y^ýVPS<P§!"
-EDG_FYM_Monarchy_power_desc:0 "§Y´f>bCgÄg<P§!ãNhˆ†NTIN(W-N.Y„vCg¿RŒTùRhQSO˜RXTKNuNg'YCg„v†waz¦^ÿsSTINN6Rz¦^ŒTN­e´f?ez¦^0\ng¦^§Y´f>bCgÄg<P§!¹ppe×S0RåNNàV.t„vqVÍTÿ\n-100¹p›RÏ‘•bS:§G+0.1§!\n-100¹pZg<P:§G+0.1§!\n-100¹pN6R¦^:§G+0.1§!\n-100¹pckßu¦^:§G+0.1§!\n-/fR:V:§G+0.05§!\n-Ïk*NŒ˜î•„vIrµu:§G+0.025§!\n-100¹pP%¦^:§R-0.1§!\n-òT4xµN:§R-0.3§!"
+EDG_FYM_Monarchy_power_desc:0 "§Y´f>bCgÄg<P§!ãNhˆ†NTIN(W-N.Y„vCg¿RŒTùRhQSO˜RXTKNuNg'YCg„v†waz¦^ÿsSTINN6Rz¦^ŒTN­e´f?ez¦^0\ng¦^§Y´f>bCgÄg<P§!¹ppe×S0RåNNàV.t„vqVÍTÿ\n-100¹p›RÏ‘•bS:§G+0.1§!\n-100¹pZg<P:§G+0.1§!\n-100¹pN6R¦^:§G+0.1§!\n-100¹pckßu¦^:§G+0.1§!\n-=fR:V:§G+0.05§!\n-Ïk*NŒ˜î•„vIrµu:§G+0.025§!\n-100¹pP%¦^:§R-0.1§!\n-òT4xµN:§R-0.3§!"
 EDG_FYM_Monarchy_power_2_desc:0 "§Y^ýVPS<P§!ãNhˆ†N0W¹eùR-N.Y„vÌw»yz¦^0^ýV„v3zšRŒT?eœ^„vP%0\ng¦^§Y^ýVPS<P§!¹ppe×S0RåNNàV.t„vqVÍTÿ\n-100¹p´f>bCgÄg<P:§G-0.2§!\n-Ïkµuck3zšR:§G-0.05§!\n-YŽNŒTs^:§R+0.1§!\n-100%s^GW^SýVìrËz>PT:§R+0.125§!\n-Ïkµu3zšR:§R+0.15§!\n-100%s^GWwýNê»l¦^:§R+0.25§!\n-òT4xµN:§R+0.3§!\n-…úQ100%Lˆ?e¹RÏ‘:§R+2§!\n-100¹pP%¦^:§R+10§!"
 EDG_FYM_Monarchy_power_3:0 "§YïS(u„vtY¶–peÏ‘§!"
-EDG_FYM_Monarchy_power_3_desc:0 "§YïS(u„vtY¶–§!ãNhˆ†NbìNïSåN(WýV¶RLˆ?eŒT›Q‹N:g„g-N•beQ„vtY¶–ÿÙ›NtY¶–/fbýVýV¶R:g„gÐLˆ„vÃq™e0\n\nbìNÏkt^ýOÎN,gWŒTÄ„tYw„vwýN-N·ƒÖS§RïS(u„vtY¶–§!0\nbìN„v¸‹Y§R?eœ^ýw›R§!ŒT§R³Q®‹§!ý‰BlbìNˆmw§RïS(u„vtY¶–§!„vpeÏ‘0\nbìNïSåNÇ‚YN¹eÕl·ƒÖS§RïS(u„vtY¶–§!ÿ\n\n-bìN»lN„vÏk*NµNir:N§RtY¶–§!„vwýNSOÐc›O§R1§!USMO„vtY¶–0\n-bìN„vÄ„tYw»lN„vÏk*NµNir:N§RtY¶–§!„vwýNSOÐc›O§R2§!USMO„vtY¶–0\n-Ïk*NÄ„tYwÿvQ,g«ŽSO:NbìNÐc›O§R2§!USMO„vtY¶–0\n-bìNÏkt^Sê¨R·ƒÖS§R1§!USMO„vtY¶–0\n-bìNïSåNÇY²NLˆ¨R·ƒÖStY¶–0"
+EDG_FYM_Monarchy_power_3_desc:0 "§YïS(u„vtY¶–§!ãNhˆ†NbìNïSåN(WýV¶RLˆ?eŒT›Q‹N:g„g-N•beQ„vtY¶–ÿÙ›NtY¶–=fbýVýV¶R:g„gÐLˆ„vÃq™e0\n\nbìNÏkt^ýOÎN,gWŒTÄ„tYw„vwýN-N·ƒÖS§RïS(u„vtY¶–§!0\nbìN„v¸‹Y§R?eœ^ýw›R§!ŒT§R³Q®‹§!ý‰BlbìNˆmw§RïS(u„vtY¶–§!„vpeÏ‘0\nbìNïSåNÇ‚YN¹eÕl·ƒÖS§RïS(u„vtY¶–§!ÿ\n\n-bìN»lN„vÏk*NµNir:N§RtY¶–§!„vwýNSOÐc›O§R1§!USMO„vtY¶–0\n-bìN„vÄ„tYw»lN„vÏk*NµNir:N§RtY¶–§!„vwýNSOÐc›O§R2§!USMO„vtY¶–0\n-Ïk*NÄ„tYwÿvQ,g«ŽSO:NbìNÐc›O§R2§!USMO„vtY¶–0\n-bìNÏkt^Sê¨R·ƒÖS§R1§!USMO„vtY¶–0\n-bìNïSåNÇY²NLˆ¨R·ƒÖStY¶–0"
 
 monthly_EDG_FYM_Monarchy_power_desc:0 "g¦^§Y´f>bCgÄg<P§!¹ppe"
 monthly_EDG_FYM_Monarchy_power:0 "g¦^§Y´f>bCgÄg<P§!¹ppe"
@@ -764,11 +768,11 @@ EDG_FYM_Monarchy_interactions_2_a_tt_no:0 "£no£å‚bìNµc6RNw§Y?–
 EDG_FYM_Monarchy_interactions_2_b_tt_yes:0 "£yes£å‚bìNµc6RNw§YÕl‚„›sÈTÌ‘ÑS§!"
 EDG_FYM_Monarchy_interactions_2_b_tt_no:0 "£no£å‚bìNµc6RNw§YÕl‚„›sÈTÌ‘ÑS§!"
 
-EDG_FYM_Monarchy_interactions_2_c_tt_yes:0 "£yes£å‚bìN„výVYe/f§Y?–Ébôu>m§!"
-EDG_FYM_Monarchy_interactions_2_c_tt_no:0 "£no£å‚bìN„výVYe/f§Y?–Ébôu>m§!"
+EDG_FYM_Monarchy_interactions_2_c_tt_yes:0 "£yes£å‚bìN„výVYe=f§Y?–Ébôu>m§!"
+EDG_FYM_Monarchy_interactions_2_c_tt_no:0 "£no£å‚bìN„výVYe=f§Y?–Ébôu>m§!"
 
 
-#兀鲁思封建主义
+#NQœ`Sú^ININ
 ability_EDG_KAZ_Monarchy_ability:0 "§YNQœ`Sú^ININ§!"
 ability_EDG_KAZ_Monarchy_ability_yes:0 "§YNQœ`Sú^ININ§!"
 EDG_KAZ_Monarchy_ability:0 "NQœ`Sú^ININ"
@@ -785,7 +789,7 @@ EDG_KAZ_Monarchy_interactions_2_desc:0 ""
 EDG_KAZ_Monarchy_interactions_3_desc:0 ""
 
 
-#帝国行政化
+#^ýVLˆ?eS
 ability_EDG_GSR_Monarchy_ability:0 "§Y^ýVLˆ?eS§!"
 ability_EDG_GSR_Monarchy_ability_yes:0 "§Y^ýVLˆ?eS§!"
 EDG_GSR_Monarchy_ability:0 "^ýVLˆ?eS"
@@ -803,7 +807,7 @@ EDG_GSR_Monarchy_interactions_3_desc:0 ""
 
 EDG_GSR_Monarchy_interactions_1_tt:0 "bìN§Yåb	g§!„vNb	gwýNÿS·ƒ—V‚YNHeœgÿ"
 
-#奥斯曼
+#eY¯eüf
 ability_devshirme_mechanic:0 "§YW3wvQ^ýVýw›R§!"
 ability_devshirme_mechanic_yes:0 "§YW3wvQ^ýVýw›R§!"
 
@@ -836,7 +840,7 @@ ability_EDG_LOT_government_ability_yes:0 "§Y‹s QCgZ§!"
 EDG_LOT_government_ability:0 "§Y‹s QCgZ§!"
 EDG_LOT_government_ability_yes:0 "§Y‹s QCgZ§!"
 EDG_LOT_government_power:0 "§Y‹s QCgZ§!"
-EDG_LOT_government_power_desc:0 "g¦^§Y‹s QCgZ§!×S0RåNNàV.t„vqVÍTÿ\n-100¹pN6R¦^:§M+0.1§!\n-100¹p›RÏ‘•bS:§M+0.1§!\n-100¹pZg:§M+0.1§!\n-100¹pckßu'`:§M+0.1§!\n-100¹pi—‹TípÅ`:§M+0.1§!\n-100¹pF–›Q.Oßu:§M+0.1§!\n-100%„v—RYeßuN:§M+0.05§!\n-Ïk1¹p3zšR¦^:§M+0.05§!\n-YŽNŒTs^-N:§M+0.05§!\n-/fáOðNˆR²bw:§M+0.05§!\n-/fR:V:§M+0.05§!\n-Ïk1%„v'¨Àw:§R-0.01§!\n-Ïk1¹pŒSb¦^:§R-0.05§!\n-Ïk1¹pP%¦^:§R-0.1§!\n-YŽNb‰N-N:§R-0.5§!\n-100¹pÇ¦^ib.V:§R-0.5§!\n-4xµN:§R-0.5§!"
+EDG_LOT_government_power_desc:0 "g¦^§Y‹s QCgZ§!×S0RåNNàV.t„vqVÍTÿ\n-100¹pN6R¦^:§M+0.1§!\n-100¹p›RÏ‘•bS:§M+0.1§!\n-100¹pZg:§M+0.1§!\n-100¹pckßu'`:§M+0.1§!\n-100¹pi—‹TípÅ`:§M+0.1§!\n-100¹pF–›Q.Oßu:§M+0.1§!\n-100%„v—RYeßuN:§M+0.05§!\n-Ïk1¹p3zšR¦^:§M+0.05§!\n-YŽNŒTs^-N:§M+0.05§!\n-=fáOðNˆR²bw:§M+0.05§!\n-=fR:V:§M+0.05§!\n-Ïk1%„v'¨Àw:§R-0.01§!\n-Ïk1¹pŒSb¦^:§R-0.05§!\n-Ïk1¹pP%¦^:§R-0.1§!\n-YŽNb‰N-N:§R-0.5§!\n-100¹pÇ¦^ib.V:§R-0.5§!\n-4xµN:§R-0.5§!"
 EDG_LOT_government_power_1:0 "§YLˆ?eCgZ<P§!"
 EDG_LOT_government_power_2:0 "§YÄuÇuCgZ<P§!"
 EDG_LOT_government_power_3:0 "§Y›Q‹NCgZ<P§!"
@@ -849,7 +853,7 @@ monthly_EDG_LOT_government_power_2_desc:0 "g¦^§YÄuÇuCgZ<P§!"
 monthly_EDG_LOT_government_power_3_desc:0 "g¦^§Y›Q‹NCgZ<P§!"
 EDG_LOT_government_interactions_1:0 "9ei—Lˆ?eÕlb–"
 EDG_LOT_government_interactions_2:0 "ìSV¢gÆRb–O®‹"
-EDG_LOT_government_interactions_3:0 "ÐcÔb#W‘šëX"
+EDG_LOT_government_interactions_3:0 "ÐcÔb1W‘šëX"
 EDG_LOT_government_interactions_1_desc:0 ""
 EDG_LOT_government_interactions_2_desc:0 ""
 EDG_LOT_government_interactions_3_desc:0 ""

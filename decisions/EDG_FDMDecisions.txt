@@ -7,9 +7,7 @@ country_decisions = {
 		}
 		potential = {
 			tag = FDM
-			NOT = {
-				is_year = 1445
-			}
+			ai = no
 		}
 		allow = {
 			always = yes
@@ -1145,6 +1143,12 @@ country_decisions = {
 			100
 			0
 		}
+		provinces_to_highlight = {
+			culture_group = maghrebi
+			NOT = {
+				owned_by = ROOT
+			}
+		}
 		potential = {
 			tag = FDM
 			has_disaster = EDG_FDM_egyptian_in_name_only_disaster
@@ -1228,8 +1232,11 @@ country_decisions = {
 			}
 		}
 		allow = {
-			any_owned_province = {
-				culture = EDG_FDM_maghrebi_culture
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_become_egyptian_decision_tt
+				any_owned_province = {
+					culture = EDG_FDM_maghrebi_culture
+				}
 			}
 			NOT = {
 				num_of_rebel_armies = 1
@@ -2438,6 +2445,7 @@ country_decisions = {
 			0
 		}
 		potential = {
+			ai = no
 			OR = {
 				tag = FDM
 				AND = {
@@ -2452,7 +2460,7 @@ country_decisions = {
 			}
 		}
 		allow = {
-			stability = 1
+			stability = 2
 			OR = {
 				piety = 0.75
 				NOT = {
@@ -2461,7 +2469,7 @@ country_decisions = {
 			}
 		}
 		effect = {
-			add_stability = -1
+			add_stability = -2
 			custom_tooltip = EDG_FDM_reverse_piety_decision_tt
 			if = {
 				limit = {
@@ -2644,7 +2652,7 @@ country_decisions = {
 			}
 			add_country_modifier = {
 				name = EDG_FDM_tear_of_iset_emergency_relief_decision_modifier
-				duration = 1825
+				duration = 365
 			}
 		}
 		ai_will_do = {
@@ -2683,7 +2691,7 @@ country_decisions = {
 			}
 			add_country_modifier = {
 				name = EDG_FDM_tear_of_iset_open_granaries_decision_modifier
-				duration = 1825
+				duration = 365
 			}
 		}
 		ai_will_do = {
@@ -2723,11 +2731,11 @@ country_decisions = {
 				trade_goods = grain
 				key = EDG_FDM_tear_of_iset_suppress_grain_price_decision_modifier
 				value = -0.25
-				duration = 1825
+				duration = 365
 			}
 			add_country_modifier = {
 				name = EDG_FDM_tear_of_iset_suppress_grain_price_decision_modifier
-				duration = 1825
+				duration = 365
 			}
 		}
 		ai_will_do = {
@@ -2765,11 +2773,11 @@ country_decisions = {
 				trade_goods = grain
 				key = EDG_FDM_tear_of_iset_hoarding_decision_modifier
 				value = 0.25
-				duration = 1825
+				duration = 365
 			}
 			add_country_modifier = {
 				name = EDG_FDM_tear_of_iset_hoarding_decision_modifier
-				duration = 1825
+				duration = 365
 			}
 		}
 		ai_will_do = {
@@ -2788,14 +2796,14 @@ country_decisions = {
 		}
 		allow = {
 			NOT = {
-				has_country_flag = EDG_FDM_tear_of_iset_increase_tax_decision_modifier
+				has_country_modifier = EDG_FDM_tear_of_iset_increase_tax_decision_modifier
 			}
 		}
 		effect = {
 			add_years_of_income = 2
 			add_country_modifier = {
 				name = EDG_FDM_tear_of_iset_increase_tax_decision_modifier
-				duration = 1825
+				duration = 365
 			}
 		}
 		ai_will_do = {
@@ -2820,12 +2828,12 @@ country_decisions = {
 		effect = {
 			egypt_region = {
 				add_base_manpower = -1
-				add_base_production = 1
+				add_base_production = 2
 			}
 			add_years_of_income = 1
 			add_country_modifier = {
 				name = EDG_FDM_tear_of_iset_conscript_fields_decision_modifier
-				duration = 1825
+				duration = 365
 			}
 		}
 		ai_will_do = {
@@ -2871,7 +2879,7 @@ country_decisions = {
 			}
 			add_country_modifier = {
 				name = EDG_FDM_tear_of_iset_expand_loans_decision_modifier
-				duration = 1825
+				duration = 365
 			}
 		}
 		ai_will_do = {
@@ -2886,12 +2894,11 @@ country_decisions = {
 		}
 		potential = {
 			tag = FDM
+			NOT = {
+				has_country_flag = EDG_FDM_achievement_Fatima_reborn_decision_flag
+			}
 		}
 		allow = {
-			custom_trigger_tooltip = {
-				tooltip = EDG_FDM_enable_achievement_tt
-				has_country_flag = EDG_FDM_enable_achievement_flag
-			}
 			NOT = {
 				is_date = 1454.11.12
 			}
@@ -2901,6 +2908,7 @@ country_decisions = {
 			}
 		}
 		effect = {
+			set_country_flag = EDG_FDM_achievement_Fatima_reborn_decision_flag
 			add_splendor = 5
 		}
 	}
@@ -2910,14 +2918,21 @@ country_decisions = {
 			100
 			0
 		}
+		provinces_to_highlight = {
+			owner = {
+				religion_group = muslim
+				NOT = {
+					religion = shiite
+				}
+			}
+		}
 		potential = {
 			tag = FDM
+			NOT = {
+				has_country_flag = EDG_FDM_achievement_all_under_anlah_decision_flag
+			}
 		}
 		allow = {
-			custom_trigger_tooltip = {
-				tooltip = EDG_FDM_enable_achievement_tt
-				has_country_flag = EDG_FDM_enable_achievement_flag
-			}
 			current_age = age_of_discovery
 			all_country = {
 				OR = {
@@ -2929,6 +2944,7 @@ country_decisions = {
 			}
 		}
 		effect = {
+			set_country_flag = EDG_FDM_achievement_all_under_anlah_decision_flag
 			add_splendor = 5
 		}
 	}
@@ -2938,20 +2954,26 @@ country_decisions = {
 			100
 			0
 		}
+		provinces_to_highlight = {
+			OR = {
+				owned_by = LBV
+				owned_by = BAV
+			}
+		}
 		potential = {
 			tag = FDM
+			NOT = {
+				has_country_flag = EDG_FDM_achievement_overlord_bavaria_decision_flag
+			}
 		}
 		allow = {
-			custom_trigger_tooltip = {
-				tooltip = EDG_FDM_enable_achievement_tt
-				has_country_flag = EDG_FDM_enable_achievement_flag
-			}
 			OR = {
 				overlord_of = LBV
 				overlord_of = BAV
 			}
 		}
 		effect = {
+			set_country_flag = EDG_FDM_achievement_overlord_bavaria_decision_flag
 			add_splendor = 5
 			custom_tooltip = EDG_FDM_achievement_overlord_bavaria_decision_tt
 		}
@@ -2964,12 +2986,11 @@ country_decisions = {
 		}
 		potential = {
 			tag = FDM
+			NOT = {
+				has_country_flag = EDG_FDM_achievement_anti_fatimid_alliance_decision_flag
+			}
 		}
 		allow = {
-			custom_trigger_tooltip = {
-				tooltip = EDG_FDM_enable_achievement_tt
-				has_country_flag = EDG_FDM_enable_achievement_flag
-			}
 			is_in_war = {
 				defender_leader = FDM
 				casus_belli = cb_super_badboy
@@ -2977,6 +2998,7 @@ country_decisions = {
 			}
 		}
 		effect = {
+			set_country_flag = EDG_FDM_achievement_anti_fatimid_alliance_decision_flag
 			add_splendor = 5
 		}
 	}
@@ -2986,17 +3008,20 @@ country_decisions = {
 			100
 			0
 		}
+		provinces_to_highlight = {
+			owned_by = TAB
+		}
 		potential = {
 			tag = FDM
+			NOT = {
+				has_country_flag = EDG_FDM_achievement_overlord_mazandaran_decision_flag
+			}
 		}
 		allow = {
-			custom_trigger_tooltip = {
-				tooltip = EDG_FDM_enable_achievement_tt
-				has_country_flag = EDG_FDM_enable_achievement_flag
-			}
 			overlord_of = TAB
 		}
 		effect = {
+			set_country_flag = EDG_FDM_achievement_overlord_mazandaran_decision_flag
 			add_splendor = 5
 		}
 	}
@@ -3006,17 +3031,20 @@ country_decisions = {
 			100
 			0
 		}
+		provinces_to_highlight = {
+			owned_by = BYZ
+		}
 		potential = {
 			tag = FDM
+			NOT = {
+				has_country_flag = EDG_FDM_achievement_overlord_byzantine_decision_flag
+			}
 		}
 		allow = {
-			custom_trigger_tooltip = {
-				tooltip = EDG_FDM_enable_achievement_tt
-				has_country_flag = EDG_FDM_enable_achievement_flag
-			}
 			overlord_of = BYZ
 		}
 		effect = {
+			set_country_flag = EDG_FDM_achievement_overlord_byzantine_decision_flag
 			add_splendor = 5
 		}
 	}
@@ -3026,20 +3054,641 @@ country_decisions = {
 			100
 			0
 		}
+		provinces_to_highlight = {
+			region = iberia_region
+			NOT = {
+				owned_by = ROOT
+			}
+		}
 		potential = {
 			tag = FDM
+			NOT = {
+				has_country_flag = EDG_FDM_achievement_iberian_unifier_decision_flag
+			}
 		}
 		allow = {
-			custom_trigger_tooltip = {
-				tooltip = EDG_FDM_enable_achievement_tt
-				has_country_flag = EDG_FDM_enable_achievement_flag
-			}
 			custom_trigger_tooltip = {
 				tooltip = FOI_FOI_unify_iberia_country
 				has_country_flag = FOI_unify_iberia_country_flag
 			}
 		}
 		effect = {
+			set_country_flag = EDG_FDM_achievement_iberian_unifier_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_BAV_achievement_louis_iv_ambition_decision = {
+		color = {
+			35
+			220
+			240
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = LBV
+			}
+			NOT = {
+				has_country_flag = EDG_BAV_achievement_louis_iv_ambition_decision_flag
+			}
+		}
+		allow = {
+			calc_true_if = {
+				amount = 30
+				dynasty = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = EDG_BAV_achievement_louis_iv_ambition_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_BAV_achievement_1000k_income_decision = {
+		color = {
+			35
+			220
+			240
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = LBV
+			}
+			NOT = {
+				has_country_flag = EDG_BAV_achievement_1000k_income_decision_flag
+			}
+		}
+		allow = {
+			treasury = 1000000
+		}
+		effect = {
+			set_country_flag = EDG_BAV_achievement_1000k_income_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_BAV_achievement_all_grain_decision = {
+		color = {
+			35
+			220
+			240
+		}
+		provinces_to_highlight = {
+			trade_goods = grain
+			NOT = {
+				country_or_non_sovereign_subject_holds = ROOT
+			}
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = LBV
+			}
+			NOT = {
+				has_country_flag = EDG_BAV_achievement_all_grain_decision_flag
+			}
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_BAV_achievement_all_grain_decision_tt
+				all_province = {
+					OR = {
+						NOT = {
+							trade_goods = grain
+						}
+						country_or_non_sovereign_subject_holds = ROOT
+					}
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_BAV_achievement_all_grain_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_BAV_achievement_ba_vs_ba_decision = {
+		color = {
+			35
+			220
+			240
+		}
+		provinces_to_highlight = {
+			owned_by = BDX
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = LBV
+			}
+			NOT = {
+				has_country_flag = EDG_BAV_achievement_ba_vs_ba_decision_flag
+			}
+		}
+		allow = {
+			overlord_of = BDX
+		}
+		effect = {
+			set_country_flag = EDG_BAV_achievement_ba_vs_ba_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_BAV_achievement_milan_treaty_decision = {
+		color = {
+			35
+			220
+			240
+		}
+		provinces_to_highlight = {
+			owned_by = MLO
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = LBV
+			}
+			NOT = {
+				has_country_flag = EDG_BAV_achievement_milan_treaty_decision_flag
+			}
+		}
+		allow = {
+			consort_culture = lombard
+			senior_union_with = MLO
+		}
+		effect = {
+			set_country_flag = EDG_BAV_achievement_milan_treaty_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_BAV_achievement_i_admire_your_bravery_decision = {
+		color = {
+			35
+			220
+			240
+		}
+		provinces_to_highlight = {
+			owned_by = FKN
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = LBV
+			}
+			NOT = {
+				has_country_flag = EDG_BAV_achievement_i_admire_your_bravery_decision_flag
+			}
+		}
+		allow = {
+			NOT = {
+				tag = BAV
+			}
+			exists = FKN
+			has_won_war_against = {
+				who = FKN
+			}
+		}
+		effect = {
+			set_country_flag = EDG_BAV_achievement_i_admire_your_bravery_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_BAV_achievement_westphalian_treaty_decision = {
+		color = {
+			35
+			220
+			240
+		}
+		provinces_to_highlight = {
+			is_part_of_hre = yes
+			OR = {
+				NOT = {
+					religion_group = christian
+				}
+				religion = catholic
+			}
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = LBV
+			}
+			NOT = {
+				has_country_flag = EDG_BAV_achievement_westphalian_treaty_decision_flag
+			}
+		}
+		allow = {
+			is_emperor = yes
+			hre_religion_treaty = yes
+			custom_trigger_tooltip = {
+				tooltip = EDG_BAV_achievement_westphalian_treaty_decision_tt
+				all_province = {
+					OR = {
+						is_part_of_hre = no
+						AND = {
+							religion_group = christian
+							NOT = {
+								religion = catholic
+							}
+						}
+					}
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_BAV_achievement_westphalian_treaty_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_BAV_achievement_who_the_hell_are_you_decision = {
+		color = {
+			35
+			220
+			240
+		}
+		provinces_to_highlight = {
+			owned_by = FDM
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = LBV
+			}
+			NOT = {
+				has_country_flag = EDG_BAV_achievement_who_the_hell_are_you_decision_flag
+			}
+		}
+		allow = {
+			custom_trigger_tooltip = {
+				tooltip = EDG_BAV_achievement_who_the_hell_are_you_decision_tt
+				NOT = {
+					exists = FDM
+				}
+				has_global_flag = EDG_FDM_died_global_flag
+				any_country = {
+					has_opinion_modifier = {
+						who = PAP
+						modifier = EDG_flavor_caliphate_kill_opinion_modifier
+					}
+				}
+				has_won_war_against = {
+					who = FDM
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_BAV_achievement_who_the_hell_are_you_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_sacred_fire_rekindled_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_sacred_fire_rekindled_decision_flag
+			}
+		}
+		allow = {
+			tag = ERS
+			has_global_flag = mission_EDGERSmission_237_1_1_global_flag
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_sacred_fire_rekindled_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_my_tag_is_better_than_danxiaoguqaqs_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		provinces_to_highlight = {
+			OR = {
+				owned_by = LBV
+				owned_by = BAV
+			}
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_my_tag_is_better_than_danxiaoguqaqs_decision_flag
+			}
+		}
+		allow = {
+			OR = {
+				overlord_of = LBV
+				overlord_of = BAV
+			}
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_my_tag_is_better_than_danxiaoguqaqs_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_si_lan_ma_ly_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		provinces_to_highlight = {
+			owned_by = SIC
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_si_lan_ma_ly_decision_flag
+			}
+		}
+		allow = {
+			overlord_of = SIC
+			SIC = {
+				owns_all_provinces = {
+					culture = greek
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_si_lan_ma_ly_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_vlashokriti_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_vlashokriti_decision_flag
+			}
+		}
+		allow = {
+			mission_completed = EDG_ERS_mission_2_11_1
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_vlashokriti_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_ultimate_insult_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		provinces_to_highlight = {
+			province_id = 118
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_ultimate_insult_decision_flag
+			}
+		}
+		allow = {
+			capital = 118
+			capital_scope = {
+				culture = mazandarani
+			}
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_ultimate_insult_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_are_you_kidding_me_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		provinces_to_highlight = {
+			superregion = china_superregion
+			NOT = {
+				owned_by = TNG
+			}
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_are_you_kidding_me_decision_flag
+			}
+		}
+		allow = {
+			china_superregion = {
+				type = all
+				owned_by = TNG
+			}
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_are_you_kidding_me_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_hi_this_is_me_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		provinces_to_highlight = {
+			province_id = 186
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_hi_this_is_me_decision_flag
+			}
+		}
+		allow = {
+			owns_core_province = 186
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_hi_this_is_me_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_top_and_last_defense_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_top_and_last_defense_decision_flag
+			}
+		}
+		allow = {
+			check_variable = {
+				which = total_land_units_killed
+				value = 1000000
+			}
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_top_and_last_defense_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_as_i_have_always_been_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_as_i_have_always_been_decision_flag
+			}
+		}
+		allow = {
+			tag = ERS
+			estate_influence = {
+				estate = estate_nobles
+				influence = 100
+			}
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_as_i_have_always_been_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_the_long_road_home_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		provinces_to_highlight = {
+			province_id = 1829
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_the_long_road_home_decision_flag
+			}
+		}
+		allow = {
+			owns_core_province = 1829
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_the_long_road_home_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_now_i_become_the_emperor_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		provinces_to_highlight = {
+			region = british_isles_region
+			NOT = {
+				owned_by = ROOT
+			}
+			NOT = {
+				is_core = ROOT
+			}
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_now_i_become_the_emperor_decision_flag
+			}
+		}
+		allow = {
+			government_rank = 3
+			british_isles_region = {
+				type = all
+				owned_by = ROOT
+				is_core = ROOT
+			}
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_now_i_become_the_emperor_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_xibei_sanma_decision = {
+		color = {
+			255
+			0
+			255
+		}
+		provinces_to_highlight = {
+			OR = {
+				owned_by = FDM
+				owned_by = MJO
+				owned_by = MAM
+			}
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_xibei_sanma_decision_flag
+			}
+		}
+		allow = {
+			overlord_of = FDM
+			overlord_of = MJO
+			overlord_of = MAM
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_xibei_sanma_decision_flag
+			add_splendor = 5
+		}
+	}
+	EDG_TAB_achievement_zan_de_dynasty_decision = {
+		# zan = praise ; de = Germany
+		color = {
+			255
+			0
+			255
+		}
+		potential = {
+			is_or_was_tag = {
+				tag = TAB
+			}
+			NOT = {
+				has_country_flag = EDG_TAB_achievement_zan_de_dynasty_decision_flag
+			}
+		}
+		allow = {
+			any_country = {
+				culture_group = germanic
+				has_opinion = {
+					who = ROOT
+					value = 200
+				}
+			}
+		}
+		effect = {
+			set_country_flag = EDG_TAB_achievement_zan_de_dynasty_decision_flag
 			add_splendor = 5
 		}
 	}

@@ -79,7 +79,7 @@ EDG_FDM_mission_2_21_modifier = {
 	trigger = {
 		any_country = {
 			war_with = ROOT
-			has_country_flag = EDG_Caliph_Jihad_action_in_10_years_modifier
+			has_country_modifier = EDG_Caliph_Jihad_action_in_10_years_modifier
 			NOT = {
 				religion_group = muslim
 			}

@@ -1,0 +1,214 @@
+﻿l_english:
+  EDGMP_default_edict: "àeÕläN"
+
+  EDGMP_parliament_seats_decision_title: "N.•ˆcˆN®‹O-^MO"
+  EDGMP_parliament_seats_decision_desc: ""
+  EDGMP_state_edict_decision_title: "N.•¾‹nôv^SÞTÕläN"
+  EDGMP_state_edict_decision_desc: ""
+  EDGMP_remove_buildings_decision_title: "N.•Æbd–wýNú^Qr"
+  EDGMP_remove_buildings_decision_desc: ""
+  EDGMP_find_advisors_decision_title: "N.•·ƒ—VcšRŒ˜î•"
+  EDGMP_find_advisors_decision_desc: ""
+  EDGMP_choose_hex_decision_title: "@[Root.GetTag]ê	wmKQ¯eÿP–N!k	ÿ"
+  EDGMP_choose_hex_decision_desc: ""
+  EDGMP_daily_general_decision_title: "@[Root.GetTag]Ïkåe^yS"
+  EDGMP_daily_general_decision_desc: ""
+  EDGMP_buff_store_decision_title: "@[Root.GetTag]ÆwSÇƒ„vGY™YSFU—^"
+  EDGMP_buff_store_decision_desc: ""
+  EDGMP_hidden_feature_decision_title: "@[Root.GetTag]>f:y/–Ï…Tw:g³Q®‹"
+  EDGMP_hidden_feature_decision_desc: "¹pûQdk³Q®‹ïSåN–Ï…vQÖN„vEDG-MPTw:gN^S³Q®‹ÿÝOc³Q®‹b—gtem0Q!k¹pûQsSïSÍ‘°e>f:yÙ›N³Q®‹0"
+
+  EDGMP_events.1.t: "¾‹nôv^SÞTÕläN"
+  EDGMP_events.1.d: ""
+  EDGMP_events.1.0: "sQí•"
+  EDGMP_events.1.00: "b`Y:NàeÕläN"
+  EDGMP_events.1.sp_01: "0Sú^z6eÕläN0,g0Wz6eîOckÿ+50%"
+  EDGMP_events.1.sp_02: "0—RYeËR¹RÕläN0,g0WùR—RYeßuN!.sÿ-100%"
+  EDGMP_events.1.sp_03: "0teTÕläN0SV0WR»yININt^peÿ-10"
+  EDGMP_events.1.sp_04: "0ÎW^SÕläN0,g0WFUÁTµNúQîOckÿ+33%"
+  EDGMP_events.1.sp_05: "0-NNSåTNSÕläN0"
+  EDGMP_events.1.sp_06: "0»lýVÕläN0"
+  EDGMP_events.1.sp_07: "0N6RININÕläN0,g0WÏkgRƒŸ^¦^ÿ-0.05"
+  EDGMP_events.1.sp_08: "0ÕlpQ‰úWNx¾‹ËeQÜu0"
+  EDGMP_events.1.sp_09: "0:VSÝO²b8f0"
+  EDGMP_events.1.sp_10: "0Sú^ÕltÕl0wýNÛSqN¦^ÿ-5"
+  EDGMP_events.1.sp_11: "0—RYe:V6R0ùR—RYe9ei—„vµb—bÿ+100%"
+  EDGMP_events.1.sp_12: "0·Va×VúWNx¾‹Ëeú^¾‹0,g0WÑSUSb,gîOckÿ-10%0,g0W»ltb,gÿ-10%"
+  EDGMP_events.1.sp_13: "0nfÊSYe²wÕläN0"
+  EDGMP_events.1.sp_14: "0‡eSÕläN0"
+  EDGMP_events.1.sp_15: "08nûQbÕläN0"
+  EDGMP_events.1.sp_16: "0g'YSuµNÕläN0"
+  EDGMP_events.1.sp_17: "0fR’VÕlHh0"
+  EDGMP_events.1.sp_18: "0ôv^SÞTyrŠkÕläNN0"
+  EDGMP_events.1.sp_19: "0ôv^SÞTyrŠkÕläNŒN0"
+  EDGMP_events.1.sp_20: "0ôv^SÞTyrŠkÕläN	N0"
+  EDGMP_events.1.sp_21: "0ôv^SÞTyrŠkÕläNÛV0"
+  EDGMP_events.1.sp_22: "0ôv^SÞTyrŠkÕläN”N0"
+  EDGMP_events.1.sp_23: "0ôv^SÞTyrŠkÕläNmQ0"
+  EDGMP_events.1.sp_24: "0ôv^SÞTyrŠkÕläNN0"
+  EDGMP_events.1.sp_25: "0ûN¡RÕläNN0"
+  EDGMP_events.1.sp_26: "0ûN¡RÕläNŒN0"
+  EDGMP_events.1.sp_27: "0ûN¡RÕläN	N0"
+  EDGMP_events.1.sp_28: "0ûN¡RÕläNÛV0"
+  EDGMP_events.1.sp_29: "0ûN¡RÕläN”N0"
+  EDGMP_events.1.sp_30: "0ûN¡RÕläNmQ0"
+  EDGMP_events.1.sp_31: "0ûN¡RÕläNN0"
+  EDGMP_events.1.01: "0ÃOÛÛek0,g0W`no.O­dÿ+33%"
+  EDGMP_events.1.02: "0-N.YÆ–Cg¡rt0,g0WÏkgê»l¦^ØSSÿ-0.03"
+  EDGMP_events.1.03: "02–¡VÕläN0,g0W‰^X2–¡Vÿ+33%"
+  EDGMP_events.1.04: "0Ÿ±RVÑS0,g0WÑSUSb,gÿ-10%"
+  EDGMP_events.1.05: "0ÃOÛVßR0,g0WºN›RîOckÿ+25%"
+  EDGMP_events.1.06: "0ÝO²b8f0,g0W8fÞz‰N›Rÿ+50%"
+  EDGMP_events.1.07: "0:Vë—RYeßuN0,g0W.OYe›RÏ‘ÿ+1%"
+
+  EDGMP_events.2.t: "Æbd–wýNú^Qr"
+  EDGMP_events.2.d: ""
+  EDGMP_events.2.00: "sQí•"
+  EDGMP_events.2.01: "Æbd–z6eú^QrÿYeX0'YYeX	ÿ"
+  EDGMP_events.2.02: "Æbd–uµNú^QrÿåTJW0O¡‹²R	ÿ"
+  EDGMP_events.2.03: "Æbd–ºN›Rú^QrÿuQ%„0­‹Ãu%„	ÿ"
+  EDGMP_events.2.04: "Æbd–F–›Qú^Qrÿ›Q%„0VìS-NÃV	ÿ"
+  EDGMP_events.2.05: "Æbd–4lKbú^Qrÿx4Y0r^9‚^W	ÿ"
+  EDGMP_events.2.06: "Æbd–wm›Qú^Qrÿ.9‚‚S0'Y9‚	ÿ"
+  EDGMP_events.2.07: "Æbd–8fú^QrÿÆ–^08fÓN“^0Á‹8R²NfNb	ÿ"
+  EDGMP_events.2.08: "Æbd–Lˆ?eú^QrÿÕlb–0^?e…S	ÿ"
+  EDGMP_events.2.09: "Æbd–Lˆ?eú^Qrÿ'YfR	ÿ"
+  EDGMP_events.2.10: "Æbd–‰^Xú^QrÿÎW!X0ñh!X0f!X0‰^X	ÿ"
+  EDGMP_events.2.11: "Æbd–¿lwmú^Qrÿwm¸S2–¿u0wm›Q®puQÞ	ÿ"
+  EDGMP_events.2.12: "Æbd–åT:Wú^Qrÿwm›QÅˆYåT‚S0fkhVåT‚S0ºuÇu‚S0ÍyiíV08flQøS0œQ:W06R.‚S	ÿ"
+  EDGMP_events.2.13: "Æbd–åT:Wú^QrÿÁX’W	ÿ"
+  EDGMP_events.2.14: "Æbd–åT:Wú^Qrÿ:V6RVuQžRlQ²R	ÿ"
+  EDGMP_events.2.15: "Æbd–åT:Wú^QrÿÞT®‹O	ÿ"
+  EDGMP_events.2.16: "Æbd–åT:Wú^QrÿëXuQKN¶R	ÿ"
+  EDGMP_events.2.17: "Æbd–åT:Wú^Qrÿ”q‰p	ÿ"
+
+  EDGMP_build_buildings_decision_title: "N.•ú”.wýNú^Qr"
+  EDGMP_build_buildings_decision_desc: ""
+  EDGMP_events.9.t: "ú”.wýNú^Qr"
+  EDGMP_events.9.d: ""
+  EDGMP_events.9.00: "sQí•"
+  EDGMP_events.9.01: "ú”.z6eú^QrÿYeX0'YYeX	ÿ"
+  EDGMP_events.9.02: "ú”.uµNú^QrÿåTJW0O¡‹²R	ÿ"
+  EDGMP_events.9.03: "ú”.ºN›Rú^QrÿuQ%„0­‹Ãu%„	ÿ"
+  EDGMP_events.9.04: "ú”.F–›Qú^Qrÿ›Q%„0VìS-NÃV	ÿ"
+  EDGMP_events.9.05: "ú”.4lKbú^Qrÿx4Y0r^9‚^W	ÿ"
+  EDGMP_events.9.06: "ú”.wm›Qú^Qrÿ.9‚‚S0'Y9‚	ÿ"
+  EDGMP_events.9.07: "ú”.8fú^QrÿÆ–^08fÓN“^0Á‹8R²NfNb	ÿ"
+  EDGMP_events.9.08: "ú”.Lˆ?eú^QrÿÕlb–0^?e…S	ÿ"
+  EDGMP_events.9.09: "ú”.Lˆ?eú^Qrÿ'YfR	ÿ"
+  EDGMP_events.9.10: "ú”.‰^Xú^QrÿÎW!X0ñh!X0f!X0‰^X	ÿ"
+  EDGMP_events.9.11: "ú”.¿lwmú^Qrÿwm¸S2–¿u0wm›Q®puQÞ	ÿ"
+  EDGMP_events.9.12: "ú”.åT:Wú^Qrÿwm›QÅˆYåT‚S0fkhVåT‚S0ºuÇu‚S0ÍyiíV08flQøS0œQ:W06R.‚S	ÿ"
+  EDGMP_events.9.13: "ú”.åT:Wú^QrÿÁX’W	ÿ"
+  EDGMP_events.9.14: "ú”.åT:Wú^Qrÿ:V6RVuQžRlQ²R	ÿ"
+  EDGMP_events.9.15: "ú”.åT:Wú^QrÿÞT®‹O	ÿ"
+  EDGMP_events.9.16: "ú”.åT:Wú^QrÿëXuQKN¶R	ÿ"
+  EDGMP_events.9.17: "ú”.åT:Wú^Qrÿ”q‰p	ÿ"
+
+  EDGMP_events.3.t: "	ébŒ˜î•‰|‹W"
+  EDGMP_events.3.d: ""
+  EDGMP_events.3.00: "sQí•"
+  EDGMP_events.3.01: "Lˆ?eŒ˜î•"
+  EDGMP_events.3.02: "Y²NŒ˜î•"
+  EDGMP_events.3.03: "›Q‹NŒ˜î•"
+
+  EDGMP_events.4.t: "ûRŒbLˆ?eŒ˜î•"
+  EDGMP_events.4.d: ""
+  EDGMP_events.4.00: "ÔÞVNNµu"
+  EDGMP_events.4.01: "òTfR¶RÿZg+1	ÿ"
+  EDGMP_events.4.02: "ê6qÑyfR¶RÿuµNHe‡s+10%	ÿ"
+  EDGMP_events.4.03: "z‚=g¶Rÿ3zšR¦^±‚9-10%	ÿ"
+  EDGMP_events.4.04: "0¡R˜RÿhQýVz6eîOck+10%	ÿ"
+  EDGMP_events.4.05: "^yfR¶RÿhQýVÛSqN¦^-2	ÿ"
+  EDGMP_events.4.06: "ø”^‚S•ÿ'¨ÀwÏkt^M–0.10	ÿ"
+  EDGMP_events.4.07: "Vïz¡R2R•ÿ.OYe›RÏ‘+2%	ÿ"
+  EDGMP_events.4.08: "ÏuNmfR¶RÿÑSUSb,g-10%	ÿ"
+  EDGMP_events.4.09: "R°ewÿtõV±‚9-10%	ÿ"
+  EDGMP_events.4.10: "Lˆ?eN¶Rÿ.8h±‚9-10%	ÿ"
+  EDGMP_events.4.11: "…Q¡RI`¡rÿŒ˜î•±‚9-10%	ÿ"
+  EDGMP_events.4.12: "Õlf‹ÿÏkgê»l¦^ØSS-0.05	ÿ"
+  EDGMP_events.4.13: "ú^Qr^ÿú^Qr±‚9-10%	ÿ"
+  EDGMP_events.4.14: "9ei—¶Rÿ9ei—Û¦^žX•+10%	ÿ"
+  EDGMP_events.4.15: "ãNt˜RÿÏkt^P%¦^-0.05	ÿ"
+
+  EDGMP_events.5.t: "ûRŒbY²NŒ˜î•"
+  EDGMP_events.5.d: ""
+  EDGMP_events.5.00: "ÔÞVNNµu"
+  EDGMP_events.5.01: "ô•ŒI`¡rÿú^Ëzô•ŒQ+25%	ÿ"
+  EDGMP_events.5.02: "–klI`cwÿhQNSsQz+10%	ÿ"
+  EDGMP_events.5.03: "Y²N˜RÿsQû|ÐcGS+20%	ÿ"
+  EDGMP_events.5.04: "†˜*‚XTÿ–klÝ»y+20%	ÿ"
+  EDGMP_events.5.05: "ýV¶RãNhˆÿY²NTv^±‚9-10%	ÿ"
+  EDGMP_events.5.06: "†SòSfR¶RÿµOeuib.VqVÍT-10%	ÿ"
+  EDGMP_events.5.07: "wm›QNSÿÏkt^wm›Q.Oßu+1	ÿ"
+  EDGMP_events.5.08: "ûylN¶Rÿ‡eSlØS±‚9-25%	ÿ"
+  EDGMP_events.5.09: "Ye²w¶Rÿ:g„g.O­d+33%	ÿ"
+  EDGMP_events.5.10: "¢g:gINYeÿÏkt^Ye÷^qVÍT›R+1	ÿ"
+  EDGMP_events.5.11: "Œ2RN¶RÿNckSV„v‰Bl-25%	ÿ"
+  EDGMP_events.5.12: "Sú^zÕl˜RÿegêD–¸^„v6eeQ+20%	ÿ"
+
+  EDGMP_events.6.t: "ûRŒb›Q‹NŒ˜î•"
+  EDGMP_events.6.d: ""
+  EDGMP_events.6.00: "ÔÞVNNµu"
+  EDGMP_events.6.01: "F–›Q9ei—¶RÿF–›QëXl+10%	ÿ"
+  EDGMP_events.6.02: "F–›QÄuÇu¶RÿF–›QNP–îOck+10%	ÿ"
+  EDGMP_events.6.03: "øSäNÿ­‹Ãu¦^+5%	ÿ"
+  EDGMP_events.6.04: "›Q—˜RÿF–›QžXôc¦^+33%	ÿ"
+  EDGMP_events.6.05: "VßR˜RÿýV¶RºN›RîOck+10%	ÿ"
+  EDGMP_events.6.06: "‰^XN¶Rÿ‰^X2–¡V+20%	ÿ"
+  EDGMP_events.6.07: "I`øSäNÿF–›Qôu²b9-10%	ÿ"
+  EDGMP_events.6.08: "ekuQc%c˜RÿekuQb—e›R+10%	ÿ"
+  EDGMP_events.6.09: "‘šuQc%c˜Rÿ‘šuQb—e›R+10%	ÿ"
+  EDGMP_events.6.10: "®puQc%c˜Rÿ®puQb—e›R+10%	ÿ"
+  EDGMP_events.6.11: "ôVÎWåTz^ÿôVÎWýw›R+10%	ÿ"
+  EDGMP_events.6.12: "Ç–cOuQ4YîvÿÇ–cOuQôu²b9-25%	ÿ"
+  EDGMP_events.6.13: "ËR5ÿS†˜±‚9-10%	ÿ"
+  EDGMP_events.6.14: "QrÎW'Y^ÿ‰^Xôu²b9-20%	ÿ"
+  EDGMP_events.6.15: "TäRN¶RÿF–›Qmcw-25%	ÿ"
+
+
+  EDGMP_events.7.t: "ê	wmKQ¯e"
+  EDGMP_events.7.d: ""
+  EDGMP_events.7.00: "sQí•"
+  EDGMP_events.7.01: "wsYºN"
+  EDGMP_events.7.02: "Ïkåe^yS"
+  EDGMP_events.7.02_tt: "Ïk!kû‹chöeAQ¸‹·ƒ—V2N*N8888^yS0"
+  EDGMP_events.7.03: "'YfýVºs"
+  EDGMP_events.7.04: "yrŠktõVÄu"
+  EDGMP_events.7.04_tt: "AQ¸‹O(uEDGŒTŸSHr„vNb	gyrŠktõVÄu0"
+
+  EDGMP_events.8.t: "ÆwSÇƒ„vGY™YSFU—^"
+  EDGMP_events.8.d: ""
+  EDGMP_events.8.00: "sQí•"
+  EDGMP_events.8.01: "08hÃVS±‚90"
+  EDGMP_events_8_01_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.02: "0wýNb‰NRpe±‚90"
+  EDGMP_events_8_02_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.03: "0µOeuib.VîOck0"
+  EDGMP_events_8_03_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.04: "0F–›QëXl0"
+  EDGMP_events_8_04_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.05: "0­‹Ãu¦^0"
+  EDGMP_events_8_05_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.06: "0‘šuQÔk‹O0"
+  EDGMP_events_8_06_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.07: "0FUÁTµNúQîOck0"
+  EDGMP_events_8_07_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.08: "0ÑSUSb,g0"
+  EDGMP_events_8_08_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.09: "0Lˆ?e¹RÏ‘îOck0"
+  EDGMP_events_8_09_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.10: "0—RYe.O­d0"
+  EDGMP_events_8_10_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.11: "0Vïz¹RÍV0"
+  EDGMP_events_8_11_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.12: "0VYe¹RÍV0"
+  EDGMP_events_8_12_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.13: "0ckáO¹RÍV0"
+  EDGMP_events_8_13_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.14: "0R»yININ0"
+  EDGMP_events_8_14_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.15: "0úWú^ÂrT›0"
+  EDGMP_events_8_15_modifier: "Çƒ1W„vkyy"
+  EDGMP_events.8.16: "0Y²NTv^±‚90"
+  EDGMP_events_8_16_modifier: "Çƒ1W„vkyy"

@@ -407,6 +407,14 @@ country_event = {
 	}
 	option = {
 		name = "EDG_SHY_overextension.10"
+		highlight = yes
+		trigger = {
+			OR = {
+				has_country_modifier = EDG_SHY_great_expedition
+				mission_completed = EDG_FDM_mission_3_29
+				has_disaster = EDG_FDM_path_of_rebirth_disaster
+			}
+		}
 		if = {
 			limit = {
 				advisor = philosopher

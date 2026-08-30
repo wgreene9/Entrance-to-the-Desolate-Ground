@@ -55,6 +55,7 @@ country_decisions = {
     }
     EDG_ERS_decesion_restore_country_name = {#恢复埃兰沙赫尔国名
         major = yes
+        color = { 255 0 255 }
         potential = {
             ai = no
             OR = {

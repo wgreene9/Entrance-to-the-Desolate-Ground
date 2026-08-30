@@ -1,0 +1,281 @@
+EDG_LKSENG_Centralized_monarchy_of_England = { #英格兰集权君主制
+    icon = EDG_LKSENG_Centralized_monarchy_of_England
+    allow_normal_conversion = yes
+	valid_for_nation_designer = yes
+	fixed_rank = 2
+	nation_designer_cost = 0
+    potential = {
+        OR = {
+            AND = {
+                was_tag = LKS
+                tag = EN2
+            }
+            has_reform = EDG_LKSENG_Centralized_monarchy_of_England
+	        have_had_reform = EDG_LKSENG_Centralized_monarchy_of_England
+        }
+	}
+    trigger = {
+        OR = {
+            AND = {
+                was_tag = LKS
+                tag = EN2
+            }
+            has_reform = EDG_LKSENG_Centralized_monarchy_of_England
+	        have_had_reform = EDG_LKSENG_Centralized_monarchy_of_England
+        }
+	}
+    modifiers = {
+		legitimacy = 1
+        parliament_backing_chance = 0.10
+        can_revoke_parliament_seats = yes
+        num_of_parliament_issues = -1
+        parliament_effect_duration = -3
+	}
+    conditional = {
+		allow = { has_dlc = "Domination" }
+		government_abilities = {
+			EDG_LKS_centralized_authority_government_ability
+		}
+        has_parliament = yes
+		custom_attributes = {
+			english_parliament = yes
+		}
+	}
+    custom_attributes = {
+		EDG_LKSENG_consolidate_centralization = yes #巩固集权
+        EDG_LKSENG_suppress_rebellion = yes #残酷镇压
+	}
+    lock_level_when_selected = yes
+    maintain_dynasty = yes
+}
+EDG_LKSENG_Emergency_famine_response = { #紧急饥荒对策
+	icon = EDG_LKSENG_Centralized_monarchy_of_England
+    allow_normal_conversion = yes
+	valid_for_nation_designer = yes
+	fixed_rank = 2
+	nation_designer_cost = 0
+    potential = {
+        OR = {
+            AND = {
+                was_tag = LKS
+                tag = EN2
+            }
+            has_reform = EDG_LKSENG_Emergency_famine_response
+	        have_had_reform = EDG_LKSENG_Emergency_famine_response
+        }
+	}
+    trigger = {
+        OR = {
+            AND = {
+                was_tag = LKS
+                tag = EN2
+            }
+            has_reform = EDG_LKSENG_Emergency_famine_response
+	        have_had_reform = EDG_LKSENG_Emergency_famine_response
+        }
+	}
+    modifiers = {
+		
+	}
+    conditional = {
+		allow = { has_dlc = "Domination" }
+		government_abilities = {
+			EDG_LKSENG_British_food_reserves_ability
+		}
+	}
+    lock_level_when_selected = yes
+    maintain_dynasty = yes
+}
+EDG_LKSENG_Constrain_the_privileges_of_the_aristocracy = { #约束贵族特权
+    icon = government_for_people_reform
+	allow_normal_conversion = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    potential = {
+		OR = {
+            AND = {
+			    tag = EN2
+			    was_tag = LKS
+		    }
+            AND = {
+			    tag = GBR
+			    was_tag = EN2
+		    }
+        }
+	}
+    trigger = {
+		OR = {
+            AND = {
+			    tag = GBR
+			    was_tag = EN2
+		    }
+            AND = {
+			    tag = EN2
+			    was_tag = LKS
+		    }
+        }
+	}
+    modifiers = {
+        nobles_influence_modifier = -0.25
+		reform_progress_growth = 0.25
+		num_of_parliament_issues = 3
+		parliament_effect_duration = -1
+		max_absolutism = 25
+        monthly_EDG_LKSENG_authoritarian_centralism_power = 0.10
+	}
+    custom_attributes = {
+        EDG_LKSENG_oppressive_taxation = yes #高压税策
+        EDG_LKSENG_levy_a_noble_tax = yes #加强贵族履行军事义务
+    }
+}
+EDG_LKS_Royal_Inspection_Bureau = { #皇家督察局
+    icon = black_market_consortium
+	allow_normal_conversion = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    potential = {
+		OR = {
+            AND = {
+			    tag = EN2
+			    was_tag = LKS
+		    }
+            AND = {
+			    tag = GBR
+			    was_tag = EN2
+		    }
+        }
+	}
+    trigger = {
+		OR = {
+            AND = {
+			    tag = GBR
+			    was_tag = EN2
+		    }
+            AND = {
+			    tag = EN2
+			    was_tag = LKS
+		    }
+        }
+	}
+    modifiers = {
+        global_tax_modifier = 0.25
+		global_autonomy = -0.20
+		parliament_effect_duration = -1
+        monthly_EDG_LKSENG_authoritarian_centralism_power = 0.10
+	}
+    custom_attributes = {
+        EDG_LKSENG_formulate_tax_policies = yes #定制税策
+        EDG_LKSENG_Establish_an_inspection_bureau = yes #建立监管局
+    }
+}
+EDG_LKSENG_Establish_the_Household_Troops = { #组建皇家卫队
+    icon = black_market_consortium
+	allow_normal_conversion = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    potential = {
+		OR = {
+            AND = {
+			    tag = EN2
+			    was_tag = LKS
+		    }
+            AND = {
+			    tag = GBR
+			    was_tag = EN2
+		    }
+        }
+	}
+    trigger = {
+		OR = {
+            AND = {
+			    tag = GBR
+			    was_tag = EN2
+		    }
+            AND = {
+			    tag = EN2
+			    was_tag = LKS
+		    }
+        }
+	}
+    custom_attributes = {
+		EDG_legitimacy_xungui_ability = yes
+	}
+    modifiers = {
+        global_tax_modifier = 0.25
+		global_autonomy = -0.20
+		parliament_effect_duration = -1
+        monthly_EDG_LKSENG_authoritarian_centralism_power = 0.10
+	}
+    custom_attributes = {
+        EDG_LKSENG_formulate_tax_policies = yes #定制税策
+        EDG_LKSENG_Establish_an_inspection_bureau = yes #建立监管局
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EDG_SCO_National_Immigration_Department = { #国家殖民部
+    icon = merchant_ship
+	allow_normal_conversion = yes
+	valid_for_nation_designer = yes
+	nation_designer_cost = 0
+    potential = {
+        OR = {
+            culture = scottish
+		    primary_culture = EDG_gaelic_scottish
+        }
+		OR = {
+			has_reform = EDG_Ireland_admiralty
+			have_had_reform = EDG_Ireland_admiralty
+		}
+	}
+	trigger = {
+        OR = {
+            culture = scottish
+			primary_culture = EDG_gaelic_scottish
+        }
+		OR = {
+			has_reform = EDG_Ireland_admiralty
+			have_had_reform = EDG_Ireland_admiralty
+		}
+	}
+    modifiers = {
+        colonists = 1
+        global_colonial_growth = 25
+        global_tariffs = 0.25
+        native_uprising_chance = 0.25
+	}
+    conditional = {
+		allow = { has_dlc = "Domination" }
+		government_abilities = {
+			EDG_naval_professionalism_mechanic
+		}
+	}
+    custom_attributes = {
+        EDG_SCO_colonial_policy = yes #殖民政策
+        marine_buff = yes
+    }
+}

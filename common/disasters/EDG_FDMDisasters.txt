@@ -143,10 +143,7 @@ EDG_FDM_scale_of_imam_disaster = {
 		}
 	}
 	can_stop = {
-		custom_trigger_tooltip = {
-			tooltip = EDG_FDM_scale_of_imam_disaster_tt
-			always = no
-		}
+		always = no
 	}
 	can_end = {
 		is_at_war = no
@@ -210,10 +207,7 @@ EDG_FDM_egyptian_in_name_only_disaster = {
 		}
 	}
 	can_stop = {
-		custom_trigger_tooltip = {
-			tooltip = EDG_FDM_egyptian_in_name_only_disaster_tt
-			always = no
-		}
+		always = no
 	}
 	can_end = {
 		primary_culture = al_misr_arabic
@@ -261,34 +255,30 @@ EDG_FDM_tear_of_iset_disaster = {
 		}
 	}
 	can_stop = {
-		custom_trigger_tooltip = {
-			tooltip = EDG_FDM_tear_of_iset_disaster_tt
-			always = no
-		}
+		always = no
 	}
 	can_end = {
 		egypt_region = {
 			type = all
 			owned_by = ROOT
+		}
+		egypt_region = {
+			type = all
 			NOT = {
 				devastation = 0.1
 			}
+		}
+		egypt_region = {
+			type = all
 			has_tax_building_trigger = yes
+		}
+		egypt_region = {
+			type = all
 			has_production_building_trigger = yes
 		}
 	}
 	modifier = {
-		global_unrest = 2
-		global_tax_modifier = -0.25
-		production_efficiency = -0.75
-		global_trade_goods_size_modifier = -0.25
-		global_monthly_devastation = 2
-		inflation_reduction = -2
-		build_cost = -0.5
-		build_time = -0.5
-		interest = -4
-		min_autonomy = -10
-		development_cost_modifier = -0.25
+		global_trade_goods_size_modifier = -0.1
 	}
 	progress = {
 		modifier = {
@@ -311,6 +301,14 @@ EDG_FDM_plight_of_the_red_sea_disaster = {
 		NOT = {
 			has_country_flag = EDG_FDM_plight_of_the_red_sea_disaster_ended_flag
 		}
+		4316 = {
+			NOT = {
+				has_great_project = {
+					type = suez_canal
+					tier = 3
+				}
+			}
+		}
 	}
 	can_start = {
 		is_year = 1500
@@ -320,12 +318,17 @@ EDG_FDM_plight_of_the_red_sea_disaster = {
 			}
 			has_institution = new_world_i
 		}
+		4316 = {
+			NOT = {
+				has_great_project = {
+					type = suez_canal
+					tier = 3
+				}
+			}
+		}
 	}
 	can_stop = {
-		custom_trigger_tooltip = {
-			tooltip = EDG_FDM_plight_of_the_red_sea_disaster_tt
-			always = no
-		}
+		always = no
 	}
 	can_end = {
 		4316 = {

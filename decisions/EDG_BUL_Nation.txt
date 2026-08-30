@@ -1,5 +1,32 @@
 country_decisions = {
 
+	EDG_BUL_no_debuff_decision = {#消除军国主义狂热的经济负面修正
+		major = yes
+		color = { 116 107 140 }
+		potential = {
+			ai = no
+			NOT = { has_country_flag = EDG_BUL_no_debuff_decision_flag }
+			or = {
+				has_reform = EDG_Bulgaria_tsardom_government
+				has_reform = EDG_GREAT_Bulgaria_tsardom_government
+			}
+		}
+		provinces_to_highlight = { 
+		} 
+		allow = {
+			or = {
+				has_reform = EDG_Bulgaria_tsardom_government
+				has_reform = EDG_GREAT_Bulgaria_tsardom_government
+			}
+		}
+		effect = {
+			set_country_flag = EDG_BUL_no_debuff_decision_flag
+			custom_tooltip = EDG_BUL_no_debuff_decision_flag_tt
+		}
+		ai_will_do = {
+		  factor = 1
+		}
+	}
 	EDG_BUL_mil_staff_decision = {#建立总参谋部
 		major = yes
 		color = { 116 107 140 }

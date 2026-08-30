@@ -249,6 +249,9 @@ monarchy = {
 				EDG_ABN_albion_united_kingdom		
 				EDG_negusa_nagast
 				EDG_solomonic_empire
+				EDG_LKS_The_Duchy_of_Lancaster         #兰开斯特伯爵领
+				EDG_LKSENG_Centralized_monarchy_of_England #英格兰集权君主制
+				EDG_LKSENG_Emergency_famine_response #紧急饥荒对策
 				#梁赞
 				EDG_BRA_Territory								#霍亨索伦家族领地
 
@@ -418,6 +421,8 @@ monarchy = {
 				EDG_SCO_formal_meeting		#御前会议
 				EDG_All_Noble_Assembly		#全体贵族会议
 				EDG_BTA_Parliament			#不列颠尼亚议会
+				#兰开斯特英格兰
+				EDG_LKSENG_Constrain_the_privileges_of_the_aristocracy #约束贵族特权
 				#意大利
 				EDG_ITA_mercenary_reform_1			#长剑贵族
 				EDG_Italian_Mercenary				#意大利佣兵
@@ -552,6 +557,7 @@ monarchy = {
 				EDG_SCO_High_Court_of_Justiciary	#苏格兰高等法院
 				EDG_Dumfries_Act					#邓弗里斯法令
 				EDG_Ireland_admiralty				#国家海军部
+				EDG_SCO_National_Immigration_Department #国家殖民部
 				#意大利
 				EDG_circuit_court					#巡回审判法庭
 				EDG_City_State_Governor_System		#城邦督政官
@@ -616,6 +622,9 @@ monarchy = {
 				EDG_BAV_bavarian_local_council
 				#法蒂玛
 				EDG_FDM_wazir_centered_bureaucracy_reform	#法蒂玛维齐尔专政
+
+				#兰开斯特
+				EDG_LKS_Royal_Inspection_Bureau #皇家监管局
 			}
 		}
 		military_doctrines = {#军事学说和组织

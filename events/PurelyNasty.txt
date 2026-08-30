@@ -106,9 +106,11 @@ province_event = {
 		highlight = yes
 		trigger = {
 			owner = {
-				has_country_modifier = EDG_SHY_great_expedition
-				mission_completed = EDG_FDM_mission_3_29
-				has_disaster = EDG_FDM_path_of_rebirth_disaster
+				OR = {
+					has_country_modifier = EDG_SHY_great_expedition
+					mission_completed = EDG_FDM_mission_3_29
+					has_disaster = EDG_FDM_path_of_rebirth_disaster
+				}
 			}
 		}
 		add_unrest = -15

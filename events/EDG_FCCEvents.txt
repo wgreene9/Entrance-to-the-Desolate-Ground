@@ -294,7 +294,7 @@ country_event = {
 				set_province_flag = EDG_refuse_waldenses_flag
 			}
 		}
-		custom_tooltip = EDG_SAPCE_TT
+		custom_tooltip = EDG_SPACE_TT
 		add_papal_influence = 3
 		add_church_power = 5
 		ai_chance = {

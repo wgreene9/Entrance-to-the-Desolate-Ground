@@ -22,7 +22,7 @@ EDG_FDM_Fatima_caliph_reform = {
 	}
 	queen = no
 	custom_attributes = {
-		EDG_caliph_yes_ability = yes		#是哈里发国
+		EDG_caliph_yes_ability = yes
 		enables_divine_idea_group = yes
 		enables_aristocratic_idea_group = yes
 		upgrade_feudal_theocracy = yes
@@ -33,7 +33,6 @@ EDG_FDM_Fatima_caliph_reform = {
 		}
 		government_abilities = {
 			EDG_FDM_path_of_rebirth_mechanic
-			# EDG_FDM_scale_of_imam_mechanic
 			feudal_theocracy_mechanic
 		}
 	}
@@ -113,11 +112,6 @@ EDG_FDM_multicultural_guard_reform = {
 		land_maintenance_modifier = 0.25
 		reinforce_cost_modifier = 0.25
 	}
-	custom_attributes = {
-		recruiting_general_gives_army_tradition = yes
-		mercs_do_not_cost_army_professionalism = yes
-		winning_battles_increases_legitimacy = yes
-	}
 	ai = {
 		factor = 400		#generic
 	}
@@ -141,9 +135,6 @@ EDG_FDM_diwan_centralization_reform = {
 		all_estate_loyalty_equilibrium = 0.1
 		global_autonomy = -0.1
 	}
-	custom_attributes = {
-		
-	}
 	ai = {
 		factor = 400		#generic
 	}
@@ -165,9 +156,6 @@ EDG_FDM_dawah_intellectualism_reform = {
 		technology_cost = -0.1
 		idea_cost = -0.1
 		global_institution_spread = 0.25
-	}
-	custom_attributes = {
-		improved_defender_of_faith = yes
 	}
 	ai = {
 		factor = 400		#generic

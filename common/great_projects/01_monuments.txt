@@ -1,27 +1,27 @@
 hagia_sophia = {
 	# province it starts in
 	start = 151
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 537.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 10
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 2
-	
+
 	#project type
 	type = monument
 
@@ -65,8 +65,8 @@ hagia_sophia = {
 	#what to do when it's built
 	on_built = {
 		if = {
-			limit = { 
-				has_global_flag = hagia_sophia_now_mosque 
+			limit = {
+				has_global_flag = hagia_sophia_now_mosque
 			}
 			show_ambient_object = hagia_sophia_minarets
 		}
@@ -74,7 +74,7 @@ hagia_sophia = {
 			show_ambient_object = hagia_sophia
 		}
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = hagia_sophia_minarets
@@ -303,27 +303,27 @@ hagia_sophia = {
 stonehenge = {
 	# province it starts in
 	start = 234
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = -2500.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = yes
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 2
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -351,7 +351,7 @@ stonehenge = {
 	on_built = {
 		show_ambient_object = stonehenge
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = stonehenge
@@ -374,7 +374,7 @@ stonehenge = {
 				}
 				province_is_or_accepts_culture = yes
 			}
-		}	
+		}
 	}
 
 	#can our country upgrade it?
@@ -452,7 +452,7 @@ stonehenge = {
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
 			tolerance_heretic = 0.5
-			tolerance_heathen = 0.5	
+			tolerance_heathen = 0.5
 		}
 
 		#what effects happen when this tier is achieved
@@ -482,7 +482,7 @@ stonehenge = {
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
 			tolerance_heretic = 0.5
-			tolerance_heathen = 0.5	
+			tolerance_heathen = 0.5
 			stability_cost_modifier = -0.1
 		}
 
@@ -513,11 +513,11 @@ stonehenge = {
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
 			tolerance_heretic = 1
-			tolerance_heathen = 1						
+			tolerance_heathen = 1
 			stability_cost_modifier = -0.25
 			global_missionary_strength = 0.01
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
 				custom_trigger_tooltip = {
@@ -542,27 +542,27 @@ stonehenge = {
 tower_of_london = {
 	# province it starts in
 	start = 236
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1078.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 7
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -595,7 +595,7 @@ tower_of_london = {
 	on_built = {
 		show_ambient_object = tower_of_london
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = tower_of_london
@@ -712,17 +712,17 @@ tower_of_london = {
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
-				owner = { 
-					OR = { 
-						tag = FRA 
-						was_tag = FRA 
+				owner = {
+					OR = {
+						tag = FRA
+						was_tag = FRA
 						overlord = {
-							OR = { 
-								tag = FRA 
-								was_tag = FRA 
+							OR = {
+								tag = FRA
+								was_tag = FRA
 							}
 						}
 					}
@@ -732,12 +732,12 @@ tower_of_london = {
 			modifier = {
 				max_absolutism = 5
 			}
-		}	
+		}
 		conditional_modifier = {
 			owner = {
 				custom_trigger_tooltip = {
 					tooltip = mission_EDGERSmission_218_1_1_1_flag_txt
-					has_country_flag = mission_EDGERSmission_218_1_1_flag 
+					has_country_flag = mission_EDGERSmission_218_1_1_flag
 				}
 			}
 			modifier = {
@@ -775,17 +775,17 @@ tower_of_london = {
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
-				owner = { 
-					OR = { 
-						tag = FRA 
-						was_tag = FRA 
+				owner = {
+					OR = {
+						tag = FRA
+						was_tag = FRA
 						overlord = {
-							OR = { 
-								tag = FRA 
-								was_tag = FRA 
+							OR = {
+								tag = FRA
+								was_tag = FRA
 							}
 						}
 					}
@@ -796,7 +796,7 @@ tower_of_london = {
 				max_absolutism = 10
 				max_revolutionary_zeal = 5
 			}
-		}	
+		}
 		conditional_modifier = {
 			custom_trigger_tooltip = {
 				tooltip = mission_EDGERSmission_218_1_1_1_flag_txt
@@ -838,17 +838,17 @@ tower_of_london = {
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
-				owner = { 
-					OR = { 
-						tag = FRA 
-						was_tag = FRA 
+				owner = {
+					OR = {
+						tag = FRA
+						was_tag = FRA
 						overlord = {
-							OR = { 
-								tag = FRA 
-								was_tag = FRA 
+							OR = {
+								tag = FRA
+								was_tag = FRA
 							}
 						}
 					}
@@ -859,7 +859,7 @@ tower_of_london = {
 				max_absolutism = 10
 				max_revolutionary_zeal = 10
 			}
-		}	
+		}
 		conditional_modifier = {
 			custom_trigger_tooltip = {
 				tooltip = mission_EDGERSmission_218_1_1_1_flag_txt
@@ -875,27 +875,27 @@ tower_of_london = {
 buddha_statues = {
 	# province it starts in
 	start = 2225
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 570.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no #搬55米的大佛有点幽默了
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 3
-	
+
 	#project type
 	type = monument
 
@@ -909,7 +909,7 @@ buddha_statues = {
 		show_ambient_object = buddha_small
 		show_ambient_object = buddha_big
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = buddha_small
@@ -1056,27 +1056,27 @@ buddha_statues = {
 parthenon = {
 	# province it starts in
 	start = 146
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = -432.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 6
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -1102,14 +1102,14 @@ parthenon = {
 				culture = EDG_ERS_ionian
 				province_is_or_accepts_culture = yes
 			}
-		}	
+		}
 	}
 
 	#what to do when it's built
 	on_built = {
 		if = {
-			limit = { 
-				has_global_flag = parthenon_now_mosque 
+			limit = {
+				has_global_flag = parthenon_now_mosque
 			}
 			show_ambient_object = parthenon_minaret
 		}
@@ -1117,7 +1117,7 @@ parthenon = {
 			show_ambient_object = parthenon
 		}
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = parthenon_minaret
@@ -1304,27 +1304,27 @@ parthenon = {
 forbidden_city = {
 	# province it starts in
 	start = 1816
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1406.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 10
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -1339,7 +1339,7 @@ forbidden_city = {
 	on_built = {
 		show_ambient_object = forbidden_city
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = forbidden_city
@@ -1488,27 +1488,27 @@ forbidden_city = {
 angkor_wat = {
 	# province it starts in
 	start = 609
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1120.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 10
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -1534,7 +1534,7 @@ angkor_wat = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -1542,7 +1542,7 @@ angkor_wat = {
 	on_built = {
 		show_ambient_object = angkor_wat
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = angkor_wat
@@ -1570,7 +1570,7 @@ angkor_wat = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -1596,7 +1596,7 @@ angkor_wat = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -1739,27 +1739,27 @@ angkor_wat = {
 petra = {
 	# province it starts in
 	start = 2327
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = -2500.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 10
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -1789,7 +1789,7 @@ petra = {
 	on_built = {
 		show_ambient_object = petra
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = petra
@@ -1969,27 +1969,27 @@ petra = {
 cologne_cathedral = {
 	# province it starts in
 	start = 85
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1248.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 10
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -2004,7 +2004,7 @@ cologne_cathedral = {
 	on_built = {
 		show_ambient_object = cologne_cathedral
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = cologne_cathedral
@@ -2155,13 +2155,13 @@ cologne_cathedral = {
 		}
 
 		conditional_modifier = {
-			trigger = { 
+			trigger = {
 				custom_trigger_tooltip = {
 					tooltip = EDG_FRN_upgrade_gp_tt
 					has_global_flag = EDG_FRN_upgrade_cologne_cathedral_flag
 				}
 			}
-			modifier = { 
+			modifier = {
 				max_free_cities = 1
 				warscore_cost_vs_other_religion = -0.1
 			}
@@ -2182,27 +2182,27 @@ cologne_cathedral = {
 kremlin = {
 	# province it starts in
 	start = 295
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1339.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -2220,7 +2220,7 @@ kremlin = {
 	on_built = {
 		show_ambient_object = kremlin
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = kremlin
@@ -2375,27 +2375,27 @@ kremlin = {
 machu_picchu = {
 	# province it starts in
 	start = 807
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1339.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -2409,7 +2409,7 @@ machu_picchu = {
 	on_built = {
 		show_ambient_object = machu_picchu
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = machu_picchu
@@ -2517,7 +2517,7 @@ machu_picchu = {
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
 			idea_cost = -0.1
-			reform_progress_growth = 0.1			
+			reform_progress_growth = 0.1
 		}
 
 		#what effects happen when this tier is achieved
@@ -2566,27 +2566,27 @@ machu_picchu = {
 chichen_itza = {
 	# province it starts in
 	start = 846
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 600.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -2600,7 +2600,7 @@ chichen_itza = {
 	on_built = {
 		show_ambient_object = chichen_itza
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = chichen_itza
@@ -2764,39 +2764,39 @@ chichen_itza = {
 himeji_castle = {
 	# province it starts in
 	start = 1019
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1346.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
 	#can we build it?
-	build_trigger = {		
+	build_trigger = {
 	}
 
 	#what to do when it's built
 	on_built = {
 		show_ambient_object = himeji_castle
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = himeji_castle
@@ -2856,7 +2856,7 @@ himeji_castle = {
 
 		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
-			local_defensiveness = 0.15			
+			local_defensiveness = 0.15
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
@@ -2886,7 +2886,7 @@ himeji_castle = {
 
 		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
-			local_defensiveness = 0.25				
+			local_defensiveness = 0.25
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
@@ -2895,7 +2895,7 @@ himeji_castle = {
 
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
-			prestige = 0.5		
+			prestige = 0.5
 			spy_offence = 0.1
 			global_spy_defence = 0.2
 		}
@@ -2918,23 +2918,23 @@ himeji_castle = {
 
 		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
-			local_defensiveness = 0.25					
+			local_defensiveness = 0.25
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
-			local_defensiveness = 0.5			
+			local_defensiveness = 0.5
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
-			prestige = 0.5	
+			prestige = 0.5
 			spy_offence = 0.15
 			global_spy_defence = 0.25
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {			
+		on_upgraded = {
 		}
 	}
 }
@@ -2942,27 +2942,27 @@ himeji_castle = {
 moai = {
 	# province it starts in
 	start = 1988
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1400.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = yes
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -2976,7 +2976,7 @@ moai = {
 	on_built = {
 		show_ambient_object = moai
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = moai
@@ -3131,27 +3131,27 @@ moai = {
 stpeters_cathedral = {
 	# province it starts in
 	start = 118
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 325.01.01 #1447
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -3166,7 +3166,7 @@ stpeters_cathedral = {
 	on_built = {
 		show_ambient_object = stpeters_cathedral
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = stpeters_cathedral
@@ -3241,7 +3241,7 @@ stpeters_cathedral = {
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
 			appoint_cardinal_cost = -0.05
-			curia_powers_cost = -0.05			
+			curia_powers_cost = -0.05
 		}
 
 		#what effects happen when this tier is achieved
@@ -3328,27 +3328,27 @@ stpeters_cathedral = {
 mount_fuji = {
 	# province it starts in
 	start = 1029
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 806.01.01 #when the Fujisan Hongū Sengen Taisha shrine was built
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -3356,7 +3356,7 @@ mount_fuji = {
 	build_trigger = {
 		custom_trigger_tooltip = {
 			tooltip = mount_fuji_tt
-			OR = {		
+			OR = {
 				AND = {
 					religion = shinto
 					has_owner_religion = yes
@@ -3407,7 +3407,7 @@ mount_fuji = {
 	on_built = {
 		show_ambient_object = mount_fuji
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = mount_fuji
@@ -3417,7 +3417,7 @@ mount_fuji = {
 	can_use_modifiers_trigger = {
 		custom_trigger_tooltip = {
 			tooltip = mount_fuji_tt
-			OR = {		
+			OR = {
 				AND = {
 					religion = shinto
 					has_owner_religion = yes
@@ -3468,7 +3468,7 @@ mount_fuji = {
 	can_upgrade_trigger = {
 		custom_trigger_tooltip = {
 			tooltip = mount_fuji_tt
-			OR = {		
+			OR = {
 				AND = {
 					religion = shinto
 					has_owner_religion = yes
@@ -3602,7 +3602,7 @@ mount_fuji = {
 
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
-			
+
 		}
 
 		#what effects happen when this tier is achieved
@@ -3649,27 +3649,27 @@ mount_fuji = {
 tenochtitlan = {
 	# province it starts in
 	start = 852
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1325.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 2
-	
+
 	#project type
 	type = monument
 
@@ -3683,7 +3683,7 @@ tenochtitlan = {
 	on_built = {
 		show_ambient_object = tenochtitlan
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = tenochtitlan
@@ -3824,7 +3824,7 @@ tenochtitlan = {
 		country_modifiers = {
 			yearly_doom_reduction = 2
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
 				custom_trigger_tooltip = {
@@ -3849,27 +3849,27 @@ tenochtitlan = {
 notre_dame_cathedral = {
 	# province it starts in
 	start = 183
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1163.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 2
-	
+
 	#project type
 	type = monument
 
@@ -3894,7 +3894,7 @@ notre_dame_cathedral = {
 	on_built = {
 		show_ambient_object = notre_dame_cathedral
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = notre_dame_cathedral
@@ -4068,27 +4068,27 @@ notre_dame_cathedral = {
 shwedagon_pagoda = {
 	# province it starts in
 	start = 4399
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1362.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -4101,7 +4101,7 @@ shwedagon_pagoda = {
 	on_built = {
 		show_ambient_object = shwedagon_pagoda
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = shwedagon_pagoda
@@ -4198,7 +4198,7 @@ shwedagon_pagoda = {
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
-		area_modifier = {			
+		area_modifier = {
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
@@ -4254,33 +4254,33 @@ shwedagon_pagoda = {
 the_great_wall_of_china = {
 	# province it starts in
 	start = 698
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1368.01.01 #Ming dynasty
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
 	#can we build it?
 	build_trigger = {
-		OR = { 
+		OR = {
 			AND = {
 				culture_group = east_asian
 				province_is_or_accepts_culture = yes
@@ -4297,7 +4297,7 @@ the_great_wall_of_china = {
 	on_built = {
 		show_ambient_object = the_great_wall_of_china
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = the_great_wall_of_china
@@ -4305,7 +4305,7 @@ the_great_wall_of_china = {
 
 	#can our country use it?
 	can_use_modifiers_trigger = {
-		OR = { 
+		OR = {
 			AND = {
 				culture_group = east_asian
 				province_is_or_accepts_culture = yes
@@ -4320,7 +4320,7 @@ the_great_wall_of_china = {
 
 	#can our country upgrade it?
 	can_upgrade_trigger = {
-		OR = { 
+		OR = {
 			AND = {
 				culture_group = east_asian
 				province_is_or_accepts_culture = yes
@@ -4464,27 +4464,27 @@ the_great_wall_of_china = {
 ambras_castle = {
 	# province it starts in
 	start = 73
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1564.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -4497,7 +4497,7 @@ ambras_castle = {
 	on_built = {
 		show_ambient_object = ambras_castle
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = ambras_castle
@@ -4649,7 +4649,7 @@ ambras_castle = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 			owner = {
 				add_estate_loyalty = {
 					estate = estate_nobles
@@ -4663,27 +4663,27 @@ ambras_castle = {
 mesa_verde = {
 	# province it starts in
 	start = 875
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1190.01.01 #Cliff Palace
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -4698,7 +4698,7 @@ mesa_verde = {
 	on_built = {
 		show_ambient_object = mesa_verde
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = mesa_verde
@@ -4802,7 +4802,7 @@ mesa_verde = {
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
-		country_modifiers = {	
+		country_modifiers = {
 			idea_cost = -0.05
 			technology_cost = -0.05
 		}
@@ -4839,7 +4839,7 @@ mesa_verde = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -4847,27 +4847,27 @@ mesa_verde = {
 taj_mahal = {
 	# province it starts in
 	start = 524
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
-	date = 1444.01.01 #1632 
-	
+	date = 1444.01.01 #1632
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -4880,12 +4880,12 @@ taj_mahal = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = taj_mahal 
+		show_ambient_object = taj_mahal
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = taj_mahal 
+		hide_ambient_object = taj_mahal
 	}
 
 	#can our country use it?
@@ -4987,7 +4987,7 @@ taj_mahal = {
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
-		country_modifiers = {	
+		country_modifiers = {
 			monthly_piety_accelerator = 0.002
 			prestige_decay = -0.005
 			monthly_splendor = 1
@@ -5010,7 +5010,7 @@ taj_mahal = {
 		}
 
 		#what modifiers are added to the province when we have this project here on this tier
-		province_modifiers = {			
+		province_modifiers = {
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
@@ -5026,7 +5026,7 @@ taj_mahal = {
 			power_projection_from_insults = 1
 		}
 		conditional_modifier = {
-			trigger = { 
+			trigger = {
 				owner = { mission_completed = MUG_taj_mahal }
 			}
 			modifier = {
@@ -5035,7 +5035,7 @@ taj_mahal = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -5043,27 +5043,27 @@ taj_mahal = {
 alhambra = {
 	# province it starts in
 	start = 223
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1333.01.01 #Yusuf I
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -5079,12 +5079,12 @@ alhambra = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = alhambra 
+		show_ambient_object = alhambra
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = alhambra 
+		hide_ambient_object = alhambra
 	}
 
 	 can_use_modifiers_trigger = {
@@ -5224,7 +5224,7 @@ alhambra = {
 			reduced_liberty_desire = 10
 			diplomatic_reputation = 1
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
 				owner = {
@@ -5237,7 +5237,7 @@ alhambra = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -5245,27 +5245,27 @@ alhambra = {
 the_grand_palace = {
 	# province it starts in
 	start = 4831
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1782
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -5276,12 +5276,12 @@ the_grand_palace = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = the_grand_palace 
+		show_ambient_object = the_grand_palace
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = the_grand_palace 
+		hide_ambient_object = the_grand_palace
 	}
 
 	#can our country use it?
@@ -5416,7 +5416,7 @@ the_grand_palace = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -5424,27 +5424,27 @@ the_grand_palace = {
 bagan_temples = {
 	# province it starts in
 	start = 2399
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1105.01.01 #Ananda Temple
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 2
-	
+
 	#project type
 	type = monument
 
@@ -5470,18 +5470,18 @@ bagan_temples = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = bagan_temples 
+		show_ambient_object = bagan_temples
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = bagan_temples 
+		hide_ambient_object = bagan_temples
 	}
 
 	#can our country use it?
@@ -5506,7 +5506,7 @@ bagan_temples = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -5532,7 +5532,7 @@ bagan_temples = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -5660,7 +5660,7 @@ bagan_temples = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -5668,27 +5668,27 @@ bagan_temples = {
 ait_benhaddou = {
 	# province it starts in
 	start = 4568
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1050.01.01 #Almoravid Period
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 2
-	
+
 	#project type
 	type = monument
 
@@ -5699,12 +5699,12 @@ ait_benhaddou = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = ait_benhaddou 
+		show_ambient_object = ait_benhaddou
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = ait_benhaddou 
+		hide_ambient_object = ait_benhaddou
 	}
 
 	#can our country use it?
@@ -5839,7 +5839,7 @@ ait_benhaddou = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -5847,27 +5847,27 @@ ait_benhaddou = {
 registan_square = {
 	# province it starts in
 	start = 454
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1417.01.01 #Ulugh Beg Madrasah
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -5880,12 +5880,12 @@ registan_square = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = registan_square 
+		show_ambient_object = registan_square
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = registan_square 
+		hide_ambient_object = registan_square
 	}
 
 	#can our country use it?
@@ -6035,27 +6035,27 @@ registan_square = {
 golden_temple = {
 	# province it starts in
 	start = 2075
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1574
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -6071,18 +6071,18 @@ golden_temple = {
 				has_country_flag = EDG_BAH_C3_4_decisions_1
 			}
 		}
-		
+
 		}
 	}
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = golden_temple 
+		show_ambient_object = golden_temple
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = golden_temple 
+		hide_ambient_object = golden_temple
 	}
 
 	#can our country use it?
@@ -6097,7 +6097,7 @@ golden_temple = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 		}
 	}
 
@@ -6113,7 +6113,7 @@ golden_temple = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-		
+
 		}
 	}
 
@@ -6192,7 +6192,7 @@ golden_temple = {
 		}
 
 		#what modifiers are added to the province when we have this project here on this tier
-		province_modifiers = {			
+		province_modifiers = {
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
@@ -6223,7 +6223,7 @@ golden_temple = {
 		}
 
 		#what modifiers are added to the province when we have this project here on this tier
-		province_modifiers = {			
+		province_modifiers = {
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
@@ -6235,11 +6235,11 @@ golden_temple = {
 		country_modifiers = {
 			global_autonomy = -0.1
 			min_autonomy_in_territories = -0.15
-			
+
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -6247,27 +6247,27 @@ golden_temple = {
 jokhang_temple = {
 	# province it starts in
 	start = 677
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 647.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -6293,18 +6293,18 @@ jokhang_temple = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = jokhang_temple 
+		show_ambient_object = jokhang_temple
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = jokhang_temple 
+		hide_ambient_object = jokhang_temple
 	}
 
 	#can our country use it?
@@ -6329,7 +6329,7 @@ jokhang_temple = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -6355,7 +6355,7 @@ jokhang_temple = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -6483,7 +6483,7 @@ jokhang_temple = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -6491,27 +6491,27 @@ jokhang_temple = {
 borobudur_temple = {
 	# province it starts in
 	start = 2690
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 750.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -6523,17 +6523,17 @@ borobudur_temple = {
 				province_is_or_accepts_culture = yes
 			}
 			province_is_buddhist_or_accepts_buddhism = yes
-		}	
+		}
 	}
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = borobudur_temple 
+		show_ambient_object = borobudur_temple
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = borobudur_temple 
+		hide_ambient_object = borobudur_temple
 	}
 
 	#can our country use it?
@@ -6668,7 +6668,7 @@ borobudur_temple = {
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
-		area_modifier = {			
+		area_modifier = {
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
@@ -6680,7 +6680,7 @@ borobudur_temple = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -6688,66 +6688,66 @@ borobudur_temple = {
 temple_of_confucius = {
 	# province it starts in
 	start = 2140
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1302.01.01 #Yuan Dynasty restoration
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
 	#can we build it?
 	build_trigger = {
-		OR = { 
+		OR = {
 			province_is_or_accepts_religion = {
 				religion = confucianism
-			}	
+			}
 			has_owner_harmonized_religion = yes
 		}
 	}
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = temple_of_confucius 
+		show_ambient_object = temple_of_confucius
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = temple_of_confucius 
+		hide_ambient_object = temple_of_confucius
 	}
 
 	#can our country use it?
 	can_use_modifiers_trigger = {
-		OR = { 
+		OR = {
 			province_is_or_accepts_religion = {
 				religion = confucianism
-			}	
+			}
 			has_owner_harmonized_religion = yes
 		}
 	}
 
 	#can our country upgrade it?
 	can_upgrade_trigger = {
-		OR = { 
+		OR = {
 			province_is_or_accepts_religion = {
 				religion = confucianism
-			}	
+			}
 			has_owner_harmonized_religion = yes
 		}
 	}
@@ -6885,7 +6885,7 @@ temple_of_confucius = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 			owner = {
 				add_estate_loyalty = {
 					estate = estate_church
@@ -6899,27 +6899,27 @@ temple_of_confucius = {
 murud_janjira = {
 	# province it starts in
 	start = 2089
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1676
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -6930,12 +6930,12 @@ murud_janjira = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = murud_janjira 
+		show_ambient_object = murud_janjira
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = murud_janjira 
+		hide_ambient_object = murud_janjira
 	}
 
 	#can our country use it?
@@ -7070,7 +7070,7 @@ murud_janjira = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -7078,27 +7078,27 @@ murud_janjira = {
 pura_besakih = {
 	# province it starts in
 	start = 631
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1284.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 2
-	
+
 	#project type
 	type = monument
 
@@ -7114,18 +7114,18 @@ pura_besakih = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-		
+
 		}
 	}
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = pura_besakih 
+		show_ambient_object = pura_besakih
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = pura_besakih 
+		hide_ambient_object = pura_besakih
 	}
 
 	#can our country use it?
@@ -7140,7 +7140,7 @@ pura_besakih = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-		
+
 		}
 	}
 
@@ -7156,7 +7156,7 @@ pura_besakih = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 		}
 	}
 
@@ -7282,7 +7282,7 @@ pura_besakih = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -7290,27 +7290,27 @@ pura_besakih = {
 kanbawzathadi_palace = {
 	# province it starts in
 	start = 586
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1556
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -7321,12 +7321,12 @@ kanbawzathadi_palace = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = kanbawzathadi_palace 
+		show_ambient_object = kanbawzathadi_palace
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = kanbawzathadi_palace 
+		hide_ambient_object = kanbawzathadi_palace
 	}
 
 	#can our country use it?
@@ -7460,7 +7460,7 @@ kanbawzathadi_palace = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -7468,27 +7468,27 @@ kanbawzathadi_palace = {
 pyramid_of_cheops = {
 	# province it starts in
 	start = 361
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = -2570.01.01 #1556
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -7515,12 +7515,12 @@ pyramid_of_cheops = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = pyramid_of_cheops 
+		show_ambient_object = pyramid_of_cheops
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = pyramid_of_cheops 
+		hide_ambient_object = pyramid_of_cheops
 	}
 
 	#can our country use it?
@@ -7649,10 +7649,10 @@ pyramid_of_cheops = {
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
-		country_modifiers = {	
+		country_modifiers = {
 			prestige_decay = -0.01
 			##yearly_government_power = 0.5
-			all_estate_loyalty_equilibrium = 0.05	
+			all_estate_loyalty_equilibrium = 0.05
 		}
 
 		#what effects happen when this tier is achieved
@@ -7688,7 +7688,7 @@ pyramid_of_cheops = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -7696,27 +7696,27 @@ pyramid_of_cheops = {
 khami_ruins = {
 	# province it starts in
 	start = 1184
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
-	date = 1250.01.01 
-	
+	date = 1250.01.01
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -7726,12 +7726,12 @@ khami_ruins = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = khami_ruins 
+		show_ambient_object = khami_ruins
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = khami_ruins 
+		hide_ambient_object = khami_ruins
 	}
 
 	#can our country use it?
@@ -7863,7 +7863,7 @@ khami_ruins = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -7871,27 +7871,27 @@ khami_ruins = {
 prambanan_temple = {
 	# province it starts in
 	start = 2690
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
-	date = 850.01.01 
-	
+	date = 850.01.01
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -7907,18 +7907,18 @@ prambanan_temple = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 		}
 	}
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = prambanan_temple 
+		show_ambient_object = prambanan_temple
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = prambanan_temple 
+		hide_ambient_object = prambanan_temple
 	}
 
 	#can our country use it?
@@ -7933,7 +7933,7 @@ prambanan_temple = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-		
+
 		}
 	}
 
@@ -7949,7 +7949,7 @@ prambanan_temple = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 		}
 	}
 
@@ -8073,7 +8073,7 @@ prambanan_temple = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -8081,50 +8081,50 @@ prambanan_temple = {
 inukshuk = {
 	# province it starts in
 	start = 1006
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
-	date = -2000.01.01 
-	
+	date = -2000.01.01
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = yes
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
 	#can we build it?
-	build_trigger = {		
+	build_trigger = {
 	}
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = inukshuk 
+		show_ambient_object = inukshuk
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = inukshuk 
+		hide_ambient_object = inukshuk
 	}
 
 	#can our country use it?
-	can_use_modifiers_trigger = {		
+	can_use_modifiers_trigger = {
 	}
 
 	#can our country upgrade it?
-	can_upgrade_trigger = {		
+	can_upgrade_trigger = {
 	}
 
 	#can our country keep it or is it destroyed when we get hold of it?
@@ -8246,7 +8246,7 @@ inukshuk = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -8254,27 +8254,27 @@ inukshuk = {
 fire_temple_of_ateshgah = {
 	# province it starts in
 	start = 421
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
-	date = 730.01.01 
-	
+	date = 730.01.01
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -8287,12 +8287,12 @@ fire_temple_of_ateshgah = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = fire_temple_of_ateshgah 
+		show_ambient_object = fire_temple_of_ateshgah
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = fire_temple_of_ateshgah 
+		hide_ambient_object = fire_temple_of_ateshgah
 	}
 
 	#can our country use it?
@@ -8446,12 +8446,12 @@ fire_temple_of_ateshgah = {
 		country_modifiers = {
 			discipline = 0.05
 			fire_damage_received = -0.1
-			fire_damage = 0.05			
+			fire_damage = 0.05
 			culture_conversion_cost = -0.1
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 		conditional_modifier = {
 			trigger = {
@@ -8469,27 +8469,27 @@ fire_temple_of_ateshgah = {
 kiev_pechersk_lavra = {
 	# province it starts in
 	start = 280
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1051.01.01 #cave monastery
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -8510,12 +8510,12 @@ kiev_pechersk_lavra = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = kiev_pechersk_lavra 
+		show_ambient_object = kiev_pechersk_lavra
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = kiev_pechersk_lavra 
+		hide_ambient_object = kiev_pechersk_lavra
 	}
 
 	#can our country use it?
@@ -8667,7 +8667,7 @@ kiev_pechersk_lavra = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 			owner = {
 				add_estate_loyalty = {
 					estate = estate_church
@@ -8696,27 +8696,27 @@ kiev_pechersk_lavra = {
 #pena_palace = { #Replaced by Bel�m Tower, as requested by community
 	# province it starts in
 	# start = 227
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	# date = 1444.01.01 #1493 monastery
-	
+
 	#time to build
 	# time = {
 	# 	months = 0
 	# }
-	
+
 	#how much to build one
 	# build_cost = 0
-	
+
 	#can we move it?
 	# can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	# move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	# starting_tier = 0
-	
+
 	#project type
 	# type = monument
 
@@ -8727,12 +8727,12 @@ kiev_pechersk_lavra = {
 
 	#what to do when it's built
 	# on_built = {
-	# 	show_ambient_object = pena_palace 
+	# 	show_ambient_object = pena_palace
 	# }
-	
+
 	#what to do when it's destroyed
 	# on_destroyed = {
-	# 	hide_ambient_object = pena_palace 
+	# 	hide_ambient_object = pena_palace
 	# }
 
 	#can our country use it?
@@ -8775,7 +8775,7 @@ kiev_pechersk_lavra = {
 
 		#what effects happen when this tier is achieved
 		# on_upgraded = {
-			
+
 		# }
 	# }
 
@@ -8876,7 +8876,7 @@ kiev_pechersk_lavra = {
 		# }
 
 		#what effects happen when this tier is achieved
-		# on_upgraded = {	
+		# on_upgraded = {
 		# 	owner = {
 		# 		add_estate_loyalty = {
 		# 			estate = estate_nobles
@@ -8890,27 +8890,27 @@ kiev_pechersk_lavra = {
 belem_tower = {
 	# province it starts in
 	start = 227
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1519.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -8921,12 +8921,12 @@ belem_tower = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = belem_tower 
+		show_ambient_object = belem_tower
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = belem_tower 
+		hide_ambient_object = belem_tower
 	}
 
 	#can our country use it?
@@ -8969,7 +8969,7 @@ belem_tower = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -8988,7 +8988,7 @@ belem_tower = {
 		province_modifiers = {
 			province_trade_power_value = 5
 		}
-		
+
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
 			local_manpower_modifier = 0.15
@@ -9072,27 +9072,27 @@ belem_tower = {
 sankin_kotai_palaces = {
 	# province it starts in
 	start = 1028
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1582 Osaka Castle
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -9104,12 +9104,12 @@ sankin_kotai_palaces = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = sankin_kotai_palaces 
+		show_ambient_object = sankin_kotai_palaces
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = sankin_kotai_palaces 
+		hide_ambient_object = sankin_kotai_palaces
 	}
 
 	#can our country use it?
@@ -9154,7 +9154,7 @@ sankin_kotai_palaces = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -9247,7 +9247,7 @@ sankin_kotai_palaces = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -9255,27 +9255,27 @@ sankin_kotai_palaces = {
 mausoleum_at_halicarnassus = {
 	# province it starts in
 	start = 319
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = -350.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -9286,12 +9286,12 @@ mausoleum_at_halicarnassus = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = mausoleum_at_halicarnassus 
+		show_ambient_object = mausoleum_at_halicarnassus
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = mausoleum_at_halicarnassus 
+		hide_ambient_object = mausoleum_at_halicarnassus
 	}
 
 	#can our country use it?
@@ -9334,7 +9334,7 @@ mausoleum_at_halicarnassus = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -9360,7 +9360,7 @@ mausoleum_at_halicarnassus = {
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
 			prestige = 0.25
-			monthly_splendor = 0.5			
+			monthly_splendor = 0.5
 		}
 
 		#what effects happen when this tier is achieved
@@ -9426,7 +9426,7 @@ mausoleum_at_halicarnassus = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -9434,27 +9434,27 @@ mausoleum_at_halicarnassus = {
 heddal_stave_church = {
 	# province it starts in
 	start = 4144
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1225.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -9467,12 +9467,12 @@ heddal_stave_church = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = heddal_stave_church 
+		show_ambient_object = heddal_stave_church
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = heddal_stave_church 
+		hide_ambient_object = heddal_stave_church
 	}
 
 	#can our country use it?
@@ -9519,7 +9519,7 @@ heddal_stave_church = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -9613,7 +9613,7 @@ heddal_stave_church = {
 		}
 
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -9621,27 +9621,27 @@ heddal_stave_church = {
 versailles = {
 	# province it starts in
 	start = 183
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1623 hunting lodge
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -9669,12 +9669,12 @@ versailles = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = versailles 
+		show_ambient_object = versailles
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = versailles 
+		hide_ambient_object = versailles
 	}
 
 	#can our country use it?
@@ -9751,7 +9751,7 @@ versailles = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -9771,7 +9771,7 @@ versailles = {
 		}
 
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
-		area_modifier = {			
+		area_modifier = {
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
@@ -9849,18 +9849,18 @@ versailles = {
 		}
 		conditional_modifier = {
 			trigger = {
-				owner = { 
-					mission_completed = fra_means_expansion 
-					is_emperor = yes 
+				owner = {
+					mission_completed = fra_means_expansion
+					is_emperor = yes
 				}
 			}
 			modifier = {
-				leader_land_fire = 1 
+				leader_land_fire = 1
 				reinforce_speed = 0.2
 			}
 		}
 		#what effects happen when this tier is achieved
-		on_upgraded = {	
+		on_upgraded = {
 		}
 	}
 }
@@ -9868,27 +9868,27 @@ versailles = {
 el_escorial = {
 	# province it starts in
 	start = 217
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1584.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -9910,10 +9910,10 @@ el_escorial = {
 	on_built = {
 		show_ambient_object = el_escorial
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = el_escorial 
+		hide_ambient_object = el_escorial
 	}
 
 	#can our country use it?
@@ -9974,7 +9974,7 @@ el_escorial = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -9990,18 +9990,18 @@ el_escorial = {
 		}
 
 		#what modifiers are added to the province when we have this project here on this tier
-		province_modifiers = {			
+		province_modifiers = {
 		}
-		
+
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
-		area_modifier = {			
+		area_modifier = {
 		}
 
 		#what modifiers are added to the country when we have this project here on this tier
 		country_modifiers = {
-			global_autonomy = -0.01	
+			global_autonomy = -0.01
 			global_tariffs = 0.05
-			treasure_fleet_income = 0.05			
+			treasure_fleet_income = 0.05
 		}
 
 		#what effects happen when this tier is achieved
@@ -10077,27 +10077,27 @@ el_escorial = {
 potosi = {
 	# province it starts in
 	start = 795
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1545.01.01 #Date the silver mine started to be exploited
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -10108,12 +10108,12 @@ potosi = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = potosi 
+		show_ambient_object = potosi
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = potosi 
+		hide_ambient_object = potosi
 	}
 
 	#can our country use it?
@@ -10156,7 +10156,7 @@ potosi = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -10175,7 +10175,7 @@ potosi = {
 		province_modifiers = {
 			trade_goods_size = 1.0
 		}
-		
+
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
 			trade_goods_size_modifier = 0.05
@@ -10188,27 +10188,27 @@ potosi = {
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
 				owner = {
-					OR = { 
-						alliance_with = MNG 
+					OR = {
+						alliance_with = MNG
 						overlord = { alliance_with = MNG }
 						any_ally = { is_emperor_of_china = yes }
 						is_subject_of = MNG
 					}
 				}
-				MNG = { 
+				MNG = {
 					mission_completed = mng_single_whip_law
-					has_estate_privilege = estate_eunuchs_single_whip_law_privilege 
+					has_estate_privilege = estate_eunuchs_single_whip_law_privilege
 				}
 			}
 			modifier = {
 				trade_goods_size = 1
 				inflation_reduction = 0.02
 			}
-		}				
+		}
 	}
 
 	tier_2 = {
@@ -10240,27 +10240,27 @@ potosi = {
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
 				owner = {
-					OR = { 
-						alliance_with = MNG 
+					OR = {
+						alliance_with = MNG
 						overlord = { alliance_with = MNG }
 						any_ally = { is_emperor_of_china = yes }
 						is_subject_of = MNG
 					}
 				}
-				MNG = { 
+				MNG = {
 					mission_completed = mng_single_whip_law
-					has_estate_privilege = estate_eunuchs_single_whip_law_privilege 
+					has_estate_privilege = estate_eunuchs_single_whip_law_privilege
 				}
 			}
 			modifier = {
 				trade_goods_size = 2
 				inflation_reduction = 0.03
 			}
-		}	
+		}
 	}
 
 	tier_3 = {
@@ -10292,20 +10292,20 @@ potosi = {
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
 				owner = {
-					OR = { 
-						alliance_with = MNG 
+					OR = {
+						alliance_with = MNG
 						overlord = { alliance_with = MNG }
 						any_ally = { is_emperor_of_china = yes }
 						is_subject_of = MNG
 					}
 				}
-				MNG = { 
+				MNG = {
 					mission_completed = mng_single_whip_law
-					has_estate_privilege = estate_eunuchs_single_whip_law_privilege 
+					has_estate_privilege = estate_eunuchs_single_whip_law_privilege
 				}
 			}
 			modifier = {
@@ -10330,27 +10330,27 @@ potosi = {
 kaaba = {
 	# province it starts in
 	start = 385
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #630.01.01 #Muhammad securing Mecca and removing statues and images from Kaaba
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 2
-	
+
 	#project type
 	type = monument
 
@@ -10368,12 +10368,12 @@ kaaba = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = kaaba 
+		show_ambient_object = kaaba
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = kaaba 
+		hide_ambient_object = kaaba
 	}
 
 	#can our country use it?
@@ -10384,7 +10384,7 @@ kaaba = {
 			}
 			owner = {
 				custom_trigger_tooltip = {
-					tooltip = BYZ_may_use_kaaba 
+					tooltip = BYZ_may_use_kaaba
 					has_country_flag = BYZ_may_use_kaaba
 				}
 			}
@@ -10402,13 +10402,13 @@ kaaba = {
 			}
 			owner = {
 				custom_trigger_tooltip = {
-					tooltip = BYZ_may_use_kaaba 
+					tooltip = BYZ_may_use_kaaba
 					has_country_flag = BYZ_may_use_kaaba
 				}
 			}
 			owner = {
 				custom_trigger_tooltip = {
-					tooltip = EDG_DMR_can_use_kaaba 
+					tooltip = EDG_DMR_can_use_kaaba
 					has_country_flag = EDG_DMR_can_use_kaaba
 				}
 			}
@@ -10448,7 +10448,7 @@ kaaba = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -10464,9 +10464,9 @@ kaaba = {
 		}
 
 		#what modifiers are added to the province when we have this project here on this tier
-		province_modifiers = {			
+		province_modifiers = {
 		}
-		
+
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
 		}
@@ -10483,7 +10483,7 @@ kaaba = {
 			trigger = {
 				owner = {
 					custom_trigger_tooltip = {
-						tooltip = BYZ_may_use_kaaba 
+						tooltip = BYZ_may_use_kaaba
 						has_country_flag = BYZ_may_use_kaaba
 					}
 				}
@@ -10527,7 +10527,7 @@ kaaba = {
 				land_morale = 0.05
 			}
 		}
-		
+
 		#what effects happen when this tier is achieved
 		on_upgraded = {
 		}
@@ -10566,7 +10566,7 @@ kaaba = {
 			trigger = {
 				owner = {
 					custom_trigger_tooltip = {
-						tooltip = BYZ_may_use_kaaba 
+						tooltip = BYZ_may_use_kaaba
 						has_country_flag = BYZ_may_use_kaaba
 					}
 				}
@@ -10650,7 +10650,7 @@ kaaba = {
 			trigger = {
 				owner = {
 					custom_trigger_tooltip = {
-						tooltip = BYZ_may_use_kaaba 
+						tooltip = BYZ_may_use_kaaba
 						has_country_flag = BYZ_may_use_kaaba
 					}
 				}
@@ -10699,7 +10699,7 @@ kaaba = {
 		conditional_modifier = {
 			trigger = {
 				owner = {
-					mission_completed = EDG_FDM_mission_3_15
+					mission_completed = EDG_FDM_mission_3_16
 				}
 			}
 			modifier = {
@@ -10717,27 +10717,27 @@ kaaba = {
 holy_city_jerusalem = {
 	# province it starts in
 	start = 379
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
-	date = 1444.01.01 #957.01.01 BC #Supposed construction date of the Temple of Salomon 
-	
+	date = 1444.01.01 #957.01.01 BC #Supposed construction date of the Temple of Salomon
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 2
-	
+
 	#project type
 	type = monument
 
@@ -10769,9 +10769,9 @@ holy_city_jerusalem = {
 
 	#what to do when it's built
 	on_built = {
-		show_ambient_object = holy_city_jerusalem 
+		show_ambient_object = holy_city_jerusalem
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = holy_city_jerusalem
@@ -10859,7 +10859,7 @@ holy_city_jerusalem = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -10877,7 +10877,7 @@ holy_city_jerusalem = {
 		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
 		}
-		
+
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
 			local_missionary_strength = 0.01
@@ -10964,7 +10964,7 @@ holy_city_jerusalem = {
 		conditional_modifier = {
 			trigger = {
 				owner = {
-					mission_completed = EDG_FDM_mission_3_15
+					mission_completed = EDG_FDM_mission_3_16
 				}
 			}
 			modifier = {
@@ -10983,27 +10983,27 @@ holy_city_jerusalem = {
 great_mosque_djenne = {
 	# province it starts in
 	start = 1134
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1300.01.01 #Unknown, c. 1200-1330
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 1
-	
+
 	#project type
 	type = monument
 
@@ -11018,10 +11018,10 @@ great_mosque_djenne = {
 	on_built = {
 		show_ambient_object = great_mosque_djenne
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
-		hide_ambient_object = great_mosque_djenne 
+		hide_ambient_object = great_mosque_djenne
 	}
 
 	#can our country use it?
@@ -11068,7 +11068,7 @@ great_mosque_djenne = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -11086,7 +11086,7 @@ great_mosque_djenne = {
 		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
 		}
-		
+
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
 		}
@@ -11168,27 +11168,27 @@ great_mosque_djenne = {
 imperial_city_hue = {
 	# province it starts in
 	start = 2373
-	
+
 	# date built in real life (so anything built during game time will be there if you start a game after that date)
 	date = 1444.01.01 #1804.01.01
-	
+
 	#time to build
 	time = {
 		months = 0
 	}
-	
+
 	#how much to build one
 	build_cost = 0
-	
+
 	#can we move it?
 	can_be_moved = no
-	
+
 	#time to move the project one unit of distance, in days
 	move_days_per_unit_distance = 1
-	
+
 	#tier that the project starts at when first placed in the game (be that at game start or when built by a country as the game progresses)
 	starting_tier = 0
-	
+
 	#project type
 	type = monument
 
@@ -11214,7 +11214,7 @@ imperial_city_hue = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -11222,7 +11222,7 @@ imperial_city_hue = {
 	on_built = {
 		show_ambient_object = imperial_city_hue
 	}
-	
+
 	#what to do when it's destroyed
 	on_destroyed = {
 		hide_ambient_object = imperial_city_hue
@@ -11250,7 +11250,7 @@ imperial_city_hue = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -11276,7 +11276,7 @@ imperial_city_hue = {
 			else = {
 					province_is_buddhist_or_accepts_buddhism_or_is_dharmic = yes
 				}
-			
+
 		}
 	}
 
@@ -11310,7 +11310,7 @@ imperial_city_hue = {
 
 		#what effects happen when this tier is achieved
 		on_upgraded = {
-			
+
 		}
 	}
 
@@ -11328,7 +11328,7 @@ imperial_city_hue = {
 		#what modifiers are added to the province when we have this project here on this tier
 		province_modifiers = {
 		}
-		
+
 		#what modifiers are added to the provinces in the map area when we have this project here on this tier
 		area_modifier = {
 		}
@@ -11588,7 +11588,7 @@ bam_citadel = {
 		area_modifier = {
 		}
 		country_modifiers = {
-			caravan_power = 0.1			
+			caravan_power = 0.1
 		}
 		on_upgraded = {
 		}
@@ -11996,7 +11996,7 @@ brandenburg_gate = {
 			monthly_prussian_militarized_society_1 = 0.01
 			monthly_prussian_militarized_society_2 = 0.01
 			monthly_prussian_militarized_society_3 = 0.01
-			prestige_from_land = 0.5			
+			prestige_from_land = 0.5
 		}
 		on_upgraded = {
 		}
@@ -12014,7 +12014,7 @@ brandenburg_gate = {
 		area_modifier = {
 		}
 		country_modifiers = {
-			monthly_militarized_society = 0.02	
+			monthly_militarized_society = 0.02
 			prestige_from_land = 1
 			army_tradition_from_battle = 0.25
 			monthly_prussian_militarized_society_1 = 0.02
@@ -12225,7 +12225,7 @@ cahokia = {
 		area_modifier = {
 		}
 		country_modifiers = {
-			tribal_development_growth = 0.01			
+			tribal_development_growth = 0.01
 		}
 		on_upgraded = {
 		}
@@ -12352,7 +12352,7 @@ cartagena_de_indias = {
 		area_modifier = {
 			local_defensiveness = 0.15
 		}
-		country_modifiers = {		
+		country_modifiers = {
 			global_ship_trade_power = 0.2
 			prestige_from_naval = 0.5
 		}
@@ -12562,7 +12562,7 @@ doges_palace = {
 		}
 		country_modifiers = {
 			reform_progress_growth = 0.1
-			republican_tradition = 0.1 
+			republican_tradition = 0.1
 		}
 		on_upgraded = {
 		}
@@ -12581,7 +12581,7 @@ doges_palace = {
 		}
 		country_modifiers = {
 			reform_progress_growth = 0.2
-			republican_tradition = 0.25 
+			republican_tradition = 0.25
 			monthly_authority_power = -0.03
 		}
 		on_upgraded = {
@@ -12601,7 +12601,7 @@ doges_palace = {
 		}
 		country_modifiers = {
 			reform_progress_growth = 0.3
-			republican_tradition = 0.5 
+			republican_tradition = 0.5
 			monthly_authority_power = -0.05
 		}
 		on_upgraded = {
@@ -12707,7 +12707,7 @@ duomo_milano = {
 			global_religious_conversion_resistance = 0.30
 			church_loyalty_modifier = 0.1
 		}
-		on_upgraded = {			
+		on_upgraded = {
 		}
 	}
 
@@ -12731,7 +12731,7 @@ duomo_milano = {
 			global_religious_conversion_resistance = 0.5
 			church_loyalty_modifier = 0.15
 		}
-		on_upgraded = {			
+		on_upgraded = {
 		}
 	}
 }
@@ -12866,7 +12866,7 @@ dutch_polders = {
 		}
 		on_upgraded = {
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
 				custom_trigger_tooltip = {
@@ -12902,14 +12902,14 @@ ellora_caves = {
 			}
 			province_is_buddhist_or_accepts_buddhism = yes
 			or = {
-				
+
 			owner ={
 				custom_trigger_tooltip = {
 					tooltip =EDG_BAH_C3_4_decisions_1_great
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -12928,14 +12928,14 @@ ellora_caves = {
 			}
 			province_is_buddhist_or_accepts_buddhism = yes
 			or = {
-				
+
 			owner ={
 				custom_trigger_tooltip = {
 					tooltip =EDG_BAH_C3_4_decisions_1_great
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -12948,14 +12948,14 @@ ellora_caves = {
 			}
 			province_is_buddhist_or_accepts_buddhism = yes
 			or = {
-				
+
 			owner ={
 				custom_trigger_tooltip = {
 					tooltip =EDG_BAH_C3_4_decisions_1_great
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -13387,7 +13387,7 @@ fuerte_del_morro = {
 		area_modifier = {
 			local_defensiveness = 0.15
 		}
-		country_modifiers = {			
+		country_modifiers = {
 			naval_forcelimit_modifier = 0.2
 			overlord_naval_forcelimit_modifier = 0.2
 		}
@@ -13408,7 +13408,7 @@ fuerte_del_morro = {
 		area_modifier = {
 			local_defensiveness = 0.25
 		}
-		country_modifiers = {			
+		country_modifiers = {
 			naval_forcelimit_modifier = 0.3
 			overlord_naval_forcelimit_modifier = 0.3
 		}
@@ -13454,7 +13454,7 @@ gomateshwara_statue = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -13492,7 +13492,7 @@ gomateshwara_statue = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -13524,7 +13524,7 @@ gomateshwara_statue = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -13643,7 +13643,7 @@ chola_temples = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-		
+
 		}
 	}
 
@@ -13664,7 +13664,7 @@ chola_temples = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-		
+
 		}
 	}
 
@@ -13679,7 +13679,7 @@ chola_temples = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-		
+
 		}
 	}
 
@@ -13781,12 +13781,12 @@ gyeongbok_palace = {
 					culture = korean
 				}
 				province_is_or_accepts_culture = yes
-				OR = { 
+				OR = {
 					province_is_or_accepts_religion = {
 						religion = confucianism
-					}	
+					}
 					has_owner_harmonized_religion = yes
-				}	
+				}
 			}
 			owner = {
 				custom_trigger_tooltip = {
@@ -13811,12 +13811,12 @@ gyeongbok_palace = {
 					culture = korean
 				}
 				province_is_or_accepts_culture = yes
-				OR = { 
+				OR = {
 					province_is_or_accepts_religion = {
 						religion = confucianism
-					}	
+					}
 					has_owner_harmonized_religion = yes
-				}	
+				}
 			}
 			owner = {
 				custom_trigger_tooltip = {
@@ -13824,7 +13824,7 @@ gyeongbok_palace = {
 					has_country_flag = enable_korean_palace_flag
 				}
 			}
-		}	
+		}
 	}
 
 	can_upgrade_trigger = {
@@ -13835,12 +13835,12 @@ gyeongbok_palace = {
 					culture = korean
 				}
 				province_is_or_accepts_culture = yes
-				OR = { 
+				OR = {
 					province_is_or_accepts_religion = {
 						religion = confucianism
-					}	
+					}
 					has_owner_harmonized_religion = yes
-				}	
+				}
 			}
 			owner = {
 				custom_trigger_tooltip = {
@@ -13848,7 +13848,7 @@ gyeongbok_palace = {
 					has_country_flag = enable_korean_palace_flag
 				}
 			}
-		}	
+		}
 	}
 
 	keep_trigger = {
@@ -13929,7 +13929,7 @@ gyeongbok_palace = {
 		country_modifiers = {
 			advisor_cost = -0.2
 			monarch_admin_power = 2
-			global_autonomy = -0.1	
+			global_autonomy = -0.1
 		}
 		on_upgraded = {
 		}
@@ -13954,14 +13954,14 @@ hampi = {
 			}
 			province_is_buddhist_or_accepts_buddhism = yes
 			or = {
-				
+
 			owner ={
 				custom_trigger_tooltip = {
 					tooltip =EDG_BAH_C3_4_decisions_1_great
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -13980,14 +13980,14 @@ hampi = {
 			}
 			province_is_buddhist_or_accepts_buddhism = yes
 			or = {
-				
+
 			owner ={
 				custom_trigger_tooltip = {
 					tooltip =EDG_BAH_C3_4_decisions_1_great
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -14000,14 +14000,14 @@ hampi = {
 			}
 			province_is_buddhist_or_accepts_buddhism = yes
 			or = {
-				
+
 			owner ={
 				custom_trigger_tooltip = {
 					tooltip =EDG_BAH_C3_4_decisions_1_great
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -14151,7 +14151,7 @@ prague = {
         }
 	}
 
-	keep_trigger = {		
+	keep_trigger = {
 	}
 
 	tier_0 = {
@@ -14349,7 +14349,7 @@ holy_city_kairouan = {
 		}
 		on_upgraded = {
 		}
-		
+
 		conditional_modifier = {
 			trigger = {
 				owner = {
@@ -14364,7 +14364,7 @@ holy_city_kairouan = {
 		conditional_modifier = {
 			trigger = {
 				owner = {
-					mission_completed = EDG_FDM_mission_3_15
+					mission_completed = EDG_FDM_mission_3_16
 				}
 			}
 			modifier = {
@@ -14512,7 +14512,7 @@ kashi_vishwanath = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 		}
 	}
 
@@ -14534,12 +14534,12 @@ kashi_vishwanath = {
 			hidden_trigger = {
 				has_country_flag = EDG_BAH_C3_4_decisions_1
 			}
-			
+
 		}
 		}
-		
+
 		owner = {
-			NOT = { 
+			NOT = {
 				is_or_was_tag = { tag = MUG }
 			}
 		}
@@ -14557,13 +14557,13 @@ kashi_vishwanath = {
 			hidden_trigger = {
 				has_country_flag = EDG_BAH_C3_4_decisions_1
 			}
-			
+
 		}
 		}
-		
+
 		owner = {
-			NOT = { 
-				is_or_was_tag = { tag = MUG } 
+			NOT = {
+				is_or_was_tag = { tag = MUG }
 			}
 		}
 	}
@@ -14623,7 +14623,7 @@ kashi_vishwanath = {
 			ae_impact = -0.05
 			brahmins_hindu_loyalty_modifier = 0.1
 		}
-		on_upgraded = {			
+		on_upgraded = {
 		}
 	}
 
@@ -14643,7 +14643,7 @@ kashi_vishwanath = {
 			ae_impact = -0.1
 			brahmins_hindu_loyalty_modifier = 0.15
 		}
-		on_upgraded = {			
+		on_upgraded = {
 		}
 	}
 }
@@ -16707,7 +16707,7 @@ sultan_ahmed_mosque = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			local_tax_modifier = 0.15			
+			local_tax_modifier = 0.15
 		}
 		country_modifiers = {
 			prestige_per_development_from_conversion = 0.3
@@ -16744,7 +16744,7 @@ sun_temple_konarak = {
 				}
 			}
 		}
-		
+
 		else = {
 			or = {
 				province_is_or_accepts_religion_group = {
@@ -16756,7 +16756,7 @@ sun_temple_konarak = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -16794,7 +16794,7 @@ sun_temple_konarak = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
 	}
@@ -16826,10 +16826,10 @@ sun_temple_konarak = {
 					has_country_flag = EDG_BAH_C3_4_decisions_1
 				}
 			}
-			
+
 			}
 		}
-		
+
 	}
 
 	keep_trigger = {
@@ -16865,7 +16865,7 @@ sun_temple_konarak = {
 			local_production_efficiency = 0.05
 		}
 		country_modifiers = {
-			religious_unity = 0.1			
+			religious_unity = 0.1
 		}
 		on_upgraded = {
 		}
@@ -17050,7 +17050,7 @@ white_house = {
 						}
 					}
 				}
-			}			
+			}
 		}
 	}
 
@@ -17074,7 +17074,7 @@ white_house = {
 						}
 					}
 				}
-			}			
+			}
 		}
 	}
 
@@ -17092,7 +17092,7 @@ white_house = {
 						}
 					}
 				}
-			}			
+			}
 		}
 	}
 
@@ -17642,13 +17642,13 @@ ulm_minster_great_project = {
 			church_loyalty_modifier = 0.15
 		}
 		conditional_modifier = {
-			trigger = { 
+			trigger = {
 				custom_trigger_tooltip = {
 					tooltip = EDG_FRN_upgrade_gp_tt
 					has_global_flag = EDG_FRN_upgrade_ulm_minster_great_project_flag
 				}
 			}
-			modifier = { 
+			modifier = {
 				max_free_cities = 1
 				all_estate_loyalty_equilibrium = 0.05
 			}
@@ -17959,14 +17959,14 @@ zacatecas_mine_city = {
 		area_modifier = {
 			trade_goods_size_modifier = 0.05
 		}
-		country_modifiers = {			
+		country_modifiers = {
 		}
 		on_upgraded = {
 			if = {
-				limit = {	
+				limit = {
 					NOT = { trade_goods = gold }
 				}
-				change_trade_goods = gold 
+				change_trade_goods = gold
 			}
 			else = { add_base_production = 1 }
 		}
@@ -17990,10 +17990,10 @@ zacatecas_mine_city = {
 		}
 		on_upgraded = {
 			if = {
-				limit = {	
+				limit = {
 					NOT = { trade_goods = gold }
 				}
-				change_trade_goods = gold 
+				change_trade_goods = gold
 			}
 			else = { add_base_production = 1 }
 		}
@@ -18017,10 +18017,10 @@ zacatecas_mine_city = {
 		}
 		on_upgraded = {
 			if = {
-				limit = {	
+				limit = {
 					NOT = { trade_goods = gold }
 				}
-				change_trade_goods = gold 
+				change_trade_goods = gold
 			}
 			else = { add_base_production = 1 }
 		}
@@ -18086,7 +18086,7 @@ falun_copper_mine = {
 			local_build_cost = -0.05
 			local_build_time = -0.05
 		}
-		country_modifiers = {			
+		country_modifiers = {
 		}
 		on_upgraded = {
 		}
@@ -18307,8 +18307,8 @@ visby_city = {
 		}
 		area_modifier = {
 		}
-		country_modifiers = {		
-			privateer_efficiency = 0.2	
+		country_modifiers = {
+			privateer_efficiency = 0.2
 		}
 		on_upgraded = {
 		}
@@ -18327,7 +18327,7 @@ visby_city = {
 		}
 		area_modifier = {
 		}
-		country_modifiers = {		
+		country_modifiers = {
 			privateer_efficiency = 0.33
 			global_own_trade_power = 0.15
 		}
@@ -18348,7 +18348,7 @@ visby_city = {
 		}
 		area_modifier = {
 		}
-		country_modifiers = {		
+		country_modifiers = {
 			privateer_efficiency = 0.5
 			global_own_trade_power = 0.25
 		}
@@ -18752,7 +18752,7 @@ harar_jugol = {
 		}
 		area_modifier = {
 		}
-		country_modifiers = {			
+		country_modifiers = {
 			prestige_per_development_from_conversion = 0.1
 		}
 		on_upgraded = {
@@ -18878,7 +18878,7 @@ dujiangyan = {
 		area_modifier = {
 			local_governing_cost = -0.2
 		}
-		region_modifier = { 
+		region_modifier = {
 			local_monthly_devastation = -0.05
 		}
 		on_upgraded = {
@@ -18991,13 +18991,13 @@ palace_of_the_popes = {
 			factor = 1000
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
 			local_governing_cost = -0.15
 		}
 		country_modifiers = {
-			church_privilege_slots = 1 
+			church_privilege_slots = 1
 		}
 		on_upgraded = {
 			if = {
@@ -19005,14 +19005,14 @@ palace_of_the_popes = {
 				owner = { add_splendor = 100 }
 			}
 			if = {
-				limit = { 
-					202 = { has_cardinal = no } 
+				limit = {
+					202 = { has_cardinal = no }
 					owner = { religion = catholic }
 				}
 				202 = { add_cardinal = yes }
 			}
 		}
-		
+
 	}
 
 	tier_2 = {
@@ -19023,13 +19023,13 @@ palace_of_the_popes = {
 			factor = 2500
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
 			local_governing_cost = -0.25
 		}
 		country_modifiers = {
-			church_privilege_slots = 1 
+			church_privilege_slots = 1
 			church_loyalty_modifier = 0.1
 			papal_influence = 1
 			church_power_modifier = 0.25
@@ -19038,7 +19038,7 @@ palace_of_the_popes = {
 		on_upgraded = {
 			if = {
 				limit = { has_dlc = "Mandate of Heaven" }
-				owner = { 
+				owner = {
 					add_power_projection = {
 						type = mission_rewards_power_projection
 						amount = 25
@@ -19046,8 +19046,8 @@ palace_of_the_popes = {
 				}
 			}
 			if = {
-				limit = { 
-					202 = { has_cardinal = no } 
+				limit = {
+					202 = { has_cardinal = no }
 					owner = { religion = catholic }
 				}
 				202 = { add_cardinal = yes }
@@ -19068,7 +19068,7 @@ palace_of_the_popes = {
 			local_governing_cost = -0.33
 		}
 		country_modifiers = {
-			church_privilege_slots = 1 
+			church_privilege_slots = 1
 			church_loyalty_modifier = 0.15
 			papal_influence = 2
 			church_power_modifier = 0.33
@@ -19077,7 +19077,7 @@ palace_of_the_popes = {
 		on_upgraded = {
 			if = {
 				limit = { has_dlc = "Mandate of Heaven" }
-				owner = { 
+				owner = {
 					add_power_projection = {
 						type = mission_rewards_power_projection
 						amount = 50
@@ -19085,8 +19085,8 @@ palace_of_the_popes = {
 				}
 			}
 			if = {
-				limit = { 
-					202 = { has_cardinal = no } 
+				limit = {
+					202 = { has_cardinal = no }
 					owner = { religion = catholic }
 				}
 				202 = { add_cardinal = yes }
@@ -19223,10 +19223,10 @@ edinburgh_castle = {
 			factor = 1000
 		}
 		province_modifiers = {
-			local_defender_dice_roll_bonus = 1 
+			local_defender_dice_roll_bonus = 1
 		}
 		area_modifier = {
-			
+
 		}
 		on_upgraded = {
 		}
@@ -19243,12 +19243,12 @@ edinburgh_castle = {
 			local_garrison_size = 0.5
 		}
 		area_modifier = {
-			local_defender_dice_roll_bonus = 1 
+			local_defender_dice_roll_bonus = 1
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
-		country_modifiers = { 
+		country_modifiers = {
 			nobles_loyalty_modifier = 0.1
 		}
 		on_upgraded = {
@@ -19266,12 +19266,12 @@ edinburgh_castle = {
 			local_garrison_size = 1
 		}
 		area_modifier = {
-			local_defender_dice_roll_bonus = 1 
+			local_defender_dice_roll_bonus = 1
 			local_hostile_attrition = 1
 		}
 		region_modifier = {
 		}
-		country_modifiers = { 
+		country_modifiers = {
 			nobles_loyalty_modifier = 0.15
 			free_mil_policy = 1
 		}
@@ -19333,10 +19333,10 @@ aljaferia_palace = {
 			factor = 1000
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			harsh_treatment_cost = -0.1
@@ -19344,11 +19344,11 @@ aljaferia_palace = {
 		}
 		on_upgraded = {
 			owner = {
-				if = { 
+				if = {
 					limit = { has_estate = estate_church }
 					add_estate_loyalty = {
-						estate = estate_church 
-						loyalty = 10 
+						estate = estate_church
+						loyalty = 10
 					}
 				}
 			}
@@ -19363,13 +19363,13 @@ aljaferia_palace = {
 			factor = 2500
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			local_unrest = -1 
+		region_modifier = {
+			local_unrest = -1
 		}
 		country_modifiers = {
 			harsh_treatment_cost = -0.25
@@ -19378,11 +19378,11 @@ aljaferia_palace = {
 		}
 		on_upgraded = {
 			owner = {
-				if = { 
+				if = {
 					limit = { has_estate = estate_church }
 					add_estate_loyalty = {
-						estate = estate_church 
-						loyalty = 10 
+						estate = estate_church
+						loyalty = 10
 					}
 				}
 			}
@@ -19399,10 +19399,10 @@ aljaferia_palace = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			local_unrest = -1 
+		region_modifier = {
+			local_unrest = -1
 		}
 		country_modifiers = {
 			harsh_treatment_cost = -0.33
@@ -19411,11 +19411,11 @@ aljaferia_palace = {
 		}
 		on_upgraded = {
 			owner = {
-				if = { 
+				if = {
 					limit = { has_estate = estate_church }
 					add_estate_loyalty = {
-						estate = estate_church 
-						loyalty = 10 
+						estate = estate_church
+						loyalty = 10
 					}
 				}
 			}
@@ -19483,10 +19483,10 @@ divrigi_hospital_mosque = {
 			factor = 1000
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			reinforce_speed = 0.1
@@ -19503,13 +19503,13 @@ divrigi_hospital_mosque = {
 			factor = 2500
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			monthly_piety_accelerator = 0.001
@@ -19530,7 +19530,7 @@ divrigi_hospital_mosque = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			monthly_piety_accelerator = 0.001
@@ -19606,10 +19606,10 @@ st_basil_cathedral = {
 			factor = 1000
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			tolerance_own = 2
@@ -19628,14 +19628,14 @@ st_basil_cathedral = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			same_religion_advisor_cost = -0.1
-			tolerance_own = 2 
+			tolerance_own = 2
 			all_estate_loyalty_equilibrium = 0.05
 		}
 		on_upgraded = {
@@ -19652,26 +19652,26 @@ st_basil_cathedral = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			same_religion_advisor_cost = -0.2
-			tolerance_own = 2 
+			tolerance_own = 2
 			all_estate_loyalty_equilibrium = 0.1
 		}
 		on_upgraded = {
 			if = {
-				limit = { 
-					has_dlc = "Third Rome" 
+				limit = {
+					has_dlc = "Third Rome"
 					owner = { religion = orthodox }
 				}
 				custom_tooltip = orthodox_icon_events_bonuses_tt
 				owner = { set_country_flag = orthodox_icon_events_bonuses_flag }
 			}
-		}	
+		}
 	}
 }
 
@@ -19752,10 +19752,10 @@ grand_canal_1 = {
 			local_monthly_devastation = -0.25
 			local_development_cost = -0.05
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
-		country_modifiers = { } 
+		country_modifiers = { }
 	}
 
 	tier_3 = {
@@ -19773,14 +19773,14 @@ grand_canal_1 = {
 			local_monthly_devastation = -0.33
 			local_development_cost = -0.1
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
-		country_modifiers = { eunuchs_loyalty_modifier = 0.05 } 
+		country_modifiers = { eunuchs_loyalty_modifier = 0.05 }
 		on_upgraded = {
-			add_base_tax = 1 
-			add_base_production = 1 
-			add_base_manpower = 1 
+			add_base_tax = 1
+			add_base_production = 1
+			add_base_manpower = 1
 		}
 	}
 }
@@ -19862,10 +19862,10 @@ grand_canal_2 = {
 			local_monthly_devastation = -0.25
 			local_development_cost = -0.05
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
-		country_modifiers = { } 
+		country_modifiers = { }
 	}
 
 	tier_3 = {
@@ -19883,14 +19883,14 @@ grand_canal_2 = {
 			local_monthly_devastation = -0.33
 			local_development_cost = -0.1
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
-		country_modifiers = { eunuchs_loyalty_modifier = 0.05 } 
+		country_modifiers = { eunuchs_loyalty_modifier = 0.05 }
 		on_upgraded = {
-			add_base_tax = 1 
-			add_base_production = 1 
-			add_base_manpower = 1 
+			add_base_tax = 1
+			add_base_production = 1
+			add_base_manpower = 1
 		}
 	}
 }
@@ -19972,10 +19972,10 @@ grand_canal_3 = {
 			local_monthly_devastation = -0.25
 			local_development_cost = -0.05
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
-		country_modifiers = { } 
+		country_modifiers = { }
 	}
 
 	tier_3 = {
@@ -19993,14 +19993,14 @@ grand_canal_3 = {
 			local_monthly_devastation = -0.33
 			local_development_cost = -0.1
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
-		country_modifiers = { eunuchs_loyalty_modifier = 0.05 } 
+		country_modifiers = { eunuchs_loyalty_modifier = 0.05 }
 		on_upgraded = {
-			add_base_tax = 1 
-			add_base_production = 1 
-			add_base_manpower = 1 
+			add_base_tax = 1
+			add_base_production = 1
+			add_base_manpower = 1
 		}
 	}
 }
@@ -20082,10 +20082,10 @@ grand_canal_4 = {
 			local_monthly_devastation = -0.25
 			local_development_cost = -0.05
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
-		country_modifiers = { } 
+		country_modifiers = { }
 	}
 
 	tier_3 = {
@@ -20103,14 +20103,14 @@ grand_canal_4 = {
 			local_monthly_devastation = -0.33
 			local_development_cost = -0.1
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
-		country_modifiers = { eunuchs_loyalty_modifier = 0.05 } 
+		country_modifiers = { eunuchs_loyalty_modifier = 0.05 }
 		on_upgraded = {
-			add_base_tax = 1 
-			add_base_production = 1 
-			add_base_manpower = 1 
+			add_base_tax = 1
+			add_base_production = 1
+			add_base_manpower = 1
 		}
 	}
 }
@@ -20174,10 +20174,10 @@ imperial_city_kyoto = {
 			factor = 1000
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			reduced_liberty_desire = 5
@@ -20195,19 +20195,19 @@ imperial_city_kyoto = {
 			factor = 2500
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			all_estate_loyalty_equilibrium = 0.1
-			reduced_liberty_desire = 10 
+			reduced_liberty_desire = 10
 			legitimacy = 0.5
-		}	
+		}
 		on_upgraded = {
 			center_of_trade = 1
 		}
@@ -20223,7 +20223,7 @@ imperial_city_kyoto = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			all_estate_loyalty_equilibrium = 0.1
@@ -20232,7 +20232,7 @@ imperial_city_kyoto = {
 			legitimacy = 1
 		}
 		on_upgraded = {
-			owner = { 
+			owner = {
 				change_ruler_stat = {
 					type = adm
 					amount = 1
@@ -20251,7 +20251,7 @@ imperial_city_kyoto = {
 }
 
 kazan_kremlin = {
-	start = 1082 
+	start = 1082
 	date = 1214.12.2 #Built: 10th�16th centuries
 	time = { months = 0	}
 	build_cost = 0
@@ -20299,7 +20299,7 @@ kazan_kremlin = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			great_project_upgrade_time = -0.1
@@ -20322,14 +20322,14 @@ kazan_kremlin = {
 		area_modifier = {
 			local_friendly_movement_speed = 0.25
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			great_project_upgrade_time = -0.2
 			global_autonomy = -0.025
 			garrison_damage = 1
-		}	
+		}
 		on_upgraded = {
 		}
 	}
@@ -20344,24 +20344,24 @@ kazan_kremlin = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
+		region_modifier = {
 			local_friendly_movement_speed = 0.25
 		}
 		country_modifiers = {
 			great_project_upgrade_time = -0.25
 			global_autonomy = -0.05
 			garrison_damage = 1
-		}	
+		}
 		on_upgraded = {
 		}
 	}
 }
 
 narikala_fortress = {
-	start = 423 #Tbilisi 
-	date = 358.5.3 #4th century 
+	start = 423 #Tbilisi
+	date = 358.5.3 #4th century
 	time = { months = 0	}
 	build_cost = 0
 	can_be_moved = no
@@ -20399,7 +20399,7 @@ narikala_fortress = {
 		}
 	}
 	keep_trigger = {
-		
+
 	}
 
 	tier_0 = {
@@ -20432,7 +20432,7 @@ narikala_fortress = {
 			local_defensiveness = 0.5
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 		}
@@ -20448,18 +20448,18 @@ narikala_fortress = {
 			factor = 2500
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
 			local_fort_maintenance_modifier = -1
 			local_assault_fort_ability = -0.75
 			local_defensiveness = 0.5
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
-		}	
+		}
 		on_upgraded = {
 		}
 	}
@@ -20474,7 +20474,7 @@ narikala_fortress = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
 		region_modifier = {
 			local_fort_maintenance_modifier = -1
@@ -20482,16 +20482,16 @@ narikala_fortress = {
 			local_defensiveness = 0.5
 		}
 		country_modifiers = {
-			
+
 		}
 		on_upgraded = {
-			
+
 		}
 	}
 }
 
 golestan_palace = {
-	start = 428 
+	start = 428
 	date = 1324.1.1 #16th century actually
 	time = { months = 0	}
 	build_cost = 0
@@ -20518,7 +20518,7 @@ golestan_palace = {
 		}
 	}
 	keep_trigger = {
-		
+
 	}
 
 	tier_0 = {
@@ -20546,10 +20546,10 @@ golestan_palace = {
 			factor = 1000
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			monthly_persian_influence = 0.03
@@ -20567,19 +20567,19 @@ golestan_palace = {
 			factor = 2500
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			diplomatic_reputation = 1
 			monthly_persian_influence = 0.05
 			monthly_splendor = 1
-		}	
+		}
 		on_upgraded = {
 		}
 	}
@@ -20594,7 +20594,7 @@ golestan_palace = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			diplomatic_reputation = 2
@@ -20602,13 +20602,13 @@ golestan_palace = {
 			monthly_splendor = 2
 		}
 		on_upgraded = {
-			
+
 		}
 	}
 }
 
 itchan_kala = {
-	start = 441 
+	start = 441
 	date = 1398.6.3 #16th century actually
 	time = { months = 0	}
 	build_cost = 0
@@ -20654,10 +20654,10 @@ itchan_kala = {
 			factor = 1000
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			placed_merchant_power_modifier = 1
@@ -20676,19 +20676,19 @@ itchan_kala = {
 			factor = 2500
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			placed_merchant_power_modifier = 1
 			center_of_trade_upgrade_cost = -0.2
 			reduced_trade_penalty_on_non_main_tradenode = 0.1
-		}	
+		}
 		on_upgraded = {
 			EDG_TIM_return_money_on_level_2_great_project_built_effect_2 = yes
 		}
@@ -20704,12 +20704,12 @@ itchan_kala = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			placed_merchant_power_modifier = 1
 			center_of_trade_upgrade_cost = -0.2
-			reduced_trade_penalty_on_non_main_tradenode = 0.25 
+			reduced_trade_penalty_on_non_main_tradenode = 0.25
 		}
 		on_upgraded = {
 			EDG_TIM_return_money_on_level_3_great_project_built_effect_2 = yes
@@ -20718,7 +20718,7 @@ itchan_kala = {
 }
 
 shah_rukn_e_alam_tomb = {
-	start = 506 
+	start = 506
 	date = 1324.5.12
 	time = { months = 0	}
 	build_cost = 0
@@ -20743,7 +20743,7 @@ shah_rukn_e_alam_tomb = {
 		}
 	}
 	keep_trigger = {
-		
+
 	}
 
 	tier_0 = {
@@ -20771,10 +20771,10 @@ shah_rukn_e_alam_tomb = {
 			factor = 1000
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			tolerance_own = 1
@@ -20792,18 +20792,18 @@ shah_rukn_e_alam_tomb = {
 			factor = 2500
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			tolerance_own = 1
 			relation_with_heretics = 20
-		}	
+		}
 		on_upgraded = {
 		}
 	}
@@ -20818,7 +20818,7 @@ shah_rukn_e_alam_tomb = {
 		province_modifiers = {
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			tolerance_own = 2
@@ -20827,7 +20827,7 @@ shah_rukn_e_alam_tomb = {
 		on_upgraded = {
 			custom_tooltip = enable_baseline_invite_scholar_tt
 			custom_tooltip = disable_scholar_cost_tt
-			owner = { 
+			owner = {
 				set_country_flag = no_scholar_adm_cost
 				set_country_flag = enabled_baseline_invite_scholar
 			}
@@ -20836,8 +20836,8 @@ shah_rukn_e_alam_tomb = {
 }
 
 nizwa_fort = {
-	start = 403 
-	date = 1350.1.1 #1650 
+	start = 403
+	date = 1350.1.1 #1650
 	time = { months = 0	}
 	build_cost = 0
 	can_be_moved = no
@@ -20887,7 +20887,7 @@ nizwa_fort = {
 			max_attrition = 1
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			autonomy_change_time = -0.15
@@ -20897,7 +20897,7 @@ nizwa_fort = {
 		}
 		conditional_modifier = {
 			trigger = {
-				owner = { 
+				owner = {
 					OR = {
 						tag = HSN
 						was_tag = HSN
@@ -20905,7 +20905,7 @@ nizwa_fort = {
 					mission_completed = hsn_monopolize_gulf_trade
 				}
 			}
-			modifier = { 
+			modifier = {
 				reduced_trade_penalty_on_non_main_tradenode = 0.1
 			}
 		}
@@ -20924,18 +20924,18 @@ nizwa_fort = {
 			attrition = 2
 			max_attrition = 2
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			autonomy_change_time = -0.25
 			max_absolutism = 5
-		}	
+		}
 		on_upgraded = {
 			add_base_manpower = 2
 		}
 		conditional_modifier = {
-			trigger = { 
+			trigger = {
 				owner = {
 					OR = {
 						tag = HSN
@@ -20944,7 +20944,7 @@ nizwa_fort = {
 					mission_completed = hsn_monopolize_gulf_trade
 				}
 			}
-			modifier = { 
+			modifier = {
 				reduced_trade_penalty_on_non_main_tradenode = 0.2
 			}
 		}
@@ -20969,19 +20969,19 @@ nizwa_fort = {
 			max_absolutism = 10
 		}
 		conditional_modifier = {
-			trigger = { 
+			trigger = {
 				custom_trigger_tooltip = {
 					tooltip = OMA_COMPLETED_OMANI_FORTS_MISSION
 					has_province_flag = oma_niwa_fort_upgrade_buff
 				}
 			}
-			modifier = { 
+			modifier = {
 				fort_maintenance_modifier = -0.15
 			}
 		}
 		conditional_modifier = {
 			trigger = {
-				owner = { 
+				owner = {
 					OR = {
 						tag = HSN
 						was_tag = HSN
@@ -20989,7 +20989,7 @@ nizwa_fort = {
 					mission_completed = hsn_monopolize_gulf_trade
 				}
 			}
-			modifier = { 
+			modifier = {
 				reduced_trade_penalty_on_non_main_tradenode = 0.3
 			}
 		}
@@ -21000,7 +21000,7 @@ nizwa_fort = {
 }
 
 city_of_sanaa = {
-	start = 390 
+	start = 390
 	date = 622.1.2 #The era of the prohet, symbolic date
 	time = { months = 0	}
 	build_cost = 0
@@ -21046,10 +21046,10 @@ city_of_sanaa = {
 			factor = 1000
 		}
 		province_modifiers = {
-			province_trade_power_modifier = 0.1 
+			province_trade_power_modifier = 0.1
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			mercantilism_cost = -0.1
@@ -21093,14 +21093,14 @@ city_of_sanaa = {
 			province_trade_power_modifier = 0.15
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			mercantilism_cost = -0.2
-		}	
+		}
 		on_upgraded = {
 		}
 		conditional_modifier = {
@@ -21137,7 +21137,7 @@ city_of_sanaa = {
 			factor = 5000
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
 			province_trade_power_modifier = 0.25
@@ -21177,7 +21177,7 @@ city_of_sanaa = {
 }
 
 al_azhar_university = {
-	start = 361 
+	start = 361
 	date = 970.12.7
 	time = { months = 0	}
 	build_cost = 0
@@ -21226,7 +21226,7 @@ al_azhar_university = {
 			local_institution_spread = 0.25
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 			advisor_pool = 1
@@ -21262,19 +21262,19 @@ al_azhar_university = {
 			factor = 2500
 		}
 		province_modifiers = {
-			
+
 		}
 		area_modifier = {
 			local_institution_spread = 0.25
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
 			advisor_pool = 1
 			idea_cost = -0.05
 			#yearly_government_power = 0.5
-		}	
+		}
 		on_upgraded = {
 			if = {
 				limit = { has_dlc = "Rule Britannia" }
@@ -21338,7 +21338,7 @@ al_azhar_university = {
 }
 
 venetian_arsenal_gp = {
-	start = 112 
+	start = 112
 	date = 1177.3.2
 	time = { months = 0	}
 	build_cost = 0
@@ -21399,7 +21399,7 @@ venetian_arsenal_gp = {
 			local_ship_cost = -0.1
 		}
 		area_modifier = {
-			
+
 		}
 		country_modifiers = {
 
@@ -21420,13 +21420,13 @@ venetian_arsenal_gp = {
 			local_ship_cost = -0.25
 		}
 		area_modifier = {
-			
+
 		}
-		region_modifier = { 
-			
+		region_modifier = {
+
 		}
 		country_modifiers = {
-		}	
+		}
 		on_upgraded = {
 		}
 	}
@@ -21463,23 +21463,23 @@ amsterdam_bourse = {
 	starting_tier = 0
 	type = monument
 	build_trigger = {
-		OR = { 
+		OR = {
 			culture = dutch
-			owner = { accepted_culture = dutch } 
+			owner = { accepted_culture = dutch }
 		}
 	}
-	
+
 	can_use_modifiers_trigger = {
-		OR = { 
+		OR = {
 			culture = dutch
-			owner = { accepted_culture = dutch } 
+			owner = { accepted_culture = dutch }
 		}
 	}
 
 	can_upgrade_trigger = {
-		OR = { 
+		OR = {
 			culture = dutch
-			owner = { accepted_culture = dutch } 
+			owner = { accepted_culture = dutch }
 		}
 	}
 
@@ -21578,7 +21578,7 @@ amsterdam_bourse = {
 		country_modifiers = {
 			trade_company_investment_cost = -0.1
 		}
-		
+
 		on_upgraded = {
 			add_or_upgrade_trade_building = yes
 		}
@@ -21766,18 +21766,18 @@ schonbrunn_palace = {
 		area_modifier = {}
 		country_modifiers = {
 			monthly_splendor = 2
-			chance_to_inherit = 0.1 
+			chance_to_inherit = 0.1
 			diplomats = 1
 			years_to_integrate_personal_union = -5
 		}
 		conditional_modifier = {
-			trigger = { 
+			trigger = {
 				custom_trigger_tooltip = {
 					tooltip = EDG_FRN_upgrade_gp_tt
 					has_global_flag = EDG_FRN_upgrade_schonbrunn_palace_flag
 				}
 			}
-			modifier = { 
+			modifier = {
 				diplomatic_reputation = 1
 				imperial_authority = 0.1
 				legitimacy = 1
@@ -21885,7 +21885,7 @@ city_of_sarai = {
 					has_country_flag = EDG_FEO_D2_1_flag
 				}
 			}
-			
+
 		}
 	}
 	on_built = {}
@@ -21902,7 +21902,7 @@ city_of_sarai = {
 					has_country_flag = EDG_FEO_D2_1_flag
 				}
 			}
-			
+
 		}
 	}
 	can_upgrade_trigger = {
@@ -21917,7 +21917,7 @@ city_of_sarai = {
 					has_country_flag = EDG_FEO_D2_1_flag
 				}
 			}
-			
+
 		}
 	}
 	keep_trigger = {}
@@ -21968,7 +21968,7 @@ city_of_sarai = {
 			regiment_recruit_speed = -0.25
 		}
 		country_modifiers = {
-			horde_unity = 1 
+			horde_unity = 1
 			envoy_travel_time = -0.25
 		}
 		on_upgraded = {}
@@ -22088,7 +22088,7 @@ citadel_of_aleppo = {
 		area_modifier = {
 			local_defensiveness = 0.5
 			local_manpower_modifier = 0.5
-			local_defender_dice_roll_bonus = 1 
+			local_defender_dice_roll_bonus = 1
 		}
 		country_modifiers = {
 		}

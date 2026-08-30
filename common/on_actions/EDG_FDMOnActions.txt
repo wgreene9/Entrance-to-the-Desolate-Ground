@@ -4,20 +4,6 @@ on_startup = {
 	}
 }
 
-on_yearly_pulse = {
-	if = {
-		limit = {
-			NOT = {
-				has_global_flag = EDG_FDM_enable_achievement_flag
-			}
-			any_country = {
-				has_country_modifier = difficulty_very_hard_ai
-			}
-		}
-		set_global_flag = EDG_FDM_enable_achievement_flag
-	}
-}
-
 on_province_owner_change = {
 	if = {
 		limit = {
@@ -541,6 +527,12 @@ on_new_monarch = {
 		country_event = {
 			id = EDG_FDMEvents.70
 		}
+	}
+	if = {
+		limit = {
+			has_ruler_flag = EDG_FDM_Fatima_initial_heir_flag
+		}
+		set_country_flag = EDG_FDM_Fatima_yahya_flag
 	}
 }
 

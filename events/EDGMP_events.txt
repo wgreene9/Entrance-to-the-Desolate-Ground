@@ -1,0 +1,2482 @@
+namespace = EDGMP_events
+country_event = {
+	id = EDGMP_events.1
+	title = EDGMP_events.1.t
+	desc = EDGMP_events.1.d
+	is_triggered_only = yes
+	option = {
+		name = EDGMP_events.1.0
+	}
+	option = {
+		name = EDGMP_events.1.00
+		set_country_flag = EDGMP_auto_state_edict_clear_flag
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDGMP_default_edict
+		}
+	}
+	option = {
+		name = EDGMP_events.1.sp_01
+		trigger = {
+			OR = {
+				AND = {
+					has_government_attribute = unlock_special_state_edicts
+					current_age = age_of_discovery
+				}
+				has_country_flag = EDG_MAM_unlock_special_state_edicts
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = feudal_taxes_state_edict
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_02
+		trigger = {
+			has_government_attribute = unlock_special_state_edicts
+			current_age = age_of_reformation
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = religious_tolerance_state_edict
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_03
+		trigger = {
+			has_government_attribute = unlock_special_state_edicts
+			current_age = age_of_absolutism
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = state_integration_state_edict
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_04
+		trigger = {
+			has_government_attribute = unlock_special_state_edicts
+			current_age = age_of_revolutions
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = urbanization_state_edict
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_05
+		trigger = {
+			is_emperor_of_china = yes
+			has_country_flag = enable_industrialisation_flag
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = chinese_industrialization
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_06
+		trigger = {
+			has_country_flag = hab_prosperity_edict
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_of_governance
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_07
+		trigger = {
+			current_age = age_of_absolutism
+			custom_trigger_tooltip = {
+				tooltip = edict_of_absolutism_tooltip
+				has_country_flag = edict_of_absolutism
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_of_absolutism
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_08
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = fra_enable_infrastructure_network_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = french_infrastructure_network
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_09
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = fra_improve_trade_power_state_edict_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = protect_trade_empowered
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_10
+		trigger = {
+			current_age = age_of_discovery
+			custom_trigger_tooltip = {
+				tooltip = edict_feudal_de_jure_law_tooltip
+				has_country_flag = feudal_de_jure_law
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_feudal_de_jure_law
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_11
+		trigger = {
+			current_age = age_of_reformation
+			custom_trigger_tooltip = {
+				tooltip = edict_religion_enforced_tooltip
+				has_country_flag = religion_enforced_edict
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_religion_enforced
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_12
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_BAV_4_5_11_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDG_BAV_german_infrastructure_edict
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_13
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_BYZ_enable_edcit_universal_education_flag
+			}
+			num_of_owned_provinces_with = {
+				has_building = university
+				value = 25
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_BYZ_universal_education
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_14
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_DMR_state_edicts_allow_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_DMR_culture
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_15
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_government_attribute = enables_FOI_UCI_commune_resistance_order
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_FOI_guerrilla_warfare
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_16
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_HOL_STATE_EDCIT_FLAG
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_HOL_MAX_PRODUCTION
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_17
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_government_attribute = EDG_Apprentice_Act_ability
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDG_state_edicts_Apprentice_Act
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_18
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_state_edicts_1_allow_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDG_state_edicts_1
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_19
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_state_edicts_2_allow_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDG_state_edicts_2
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_20
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_state_edicts_3_allow_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDG_state_edicts_3
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_21
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_state_edicts_4_allow_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDG_state_edicts_4
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_22
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_state_edicts_5_allow_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDG_state_edicts_5
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_23
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_state_edicts_6_allow_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDG_state_edicts_6
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_24
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_state_edicts_7_allow_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = EDG_state_edicts_7
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_25
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_FWF_mission_1_31_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_EDG_FWF_edict_1
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_26
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_FWF_mission_2_31_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_EDG_FWF_edict_2
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_27
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_FWF_mission_4_31_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_EDG_FWF_edict_3
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_28
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_FWF_mission_5_31_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_EDG_FWF_edict_4
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_29
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_FWF_mission_3_32_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_EDG_FWF_edict_5
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_30
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_FWF_mission_1_33_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_EDG_FWF_edict_6
+		}
+		highlight = yes
+	}
+	option = {
+		name = EDGMP_events.1.sp_31
+		trigger = {
+			custom_trigger_tooltip = {
+				tooltip = unlocked_if_tt
+				has_country_flag = EDG_FWF_mission_5_31_flag
+			}
+		}
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_EDG_FWF_edict_7
+		}
+		highlight = yes
+	}
+	##普通法令
+	option = {
+		name = EDGMP_events.1.01
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_advancement_effort
+		}
+	}
+	option = {
+		name = EDGMP_events.1.02
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_centralization_effort
+		}
+	}
+	option = {
+		name = EDGMP_events.1.03
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_defensive_edict
+		}
+	}
+	option = {
+		name = EDGMP_events.1.04
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_encourage_development
+		}
+	}
+	option = {
+		name = EDGMP_events.1.05
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_promote_military_recruitment
+		}
+	}
+	option = {
+		name = EDGMP_events.1.06
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_protect_trade
+		}
+	}
+	option = {
+		name = EDGMP_events.1.07
+		every_owned_province = {
+			limit = {
+				is_state = yes
+			}
+			set_state_edict = edict_religious_unity
+		}
+	}
+}
+
+country_event = {
+	id = EDGMP_events.2
+	title = EDGMP_events.2.t
+	desc = EDGMP_events.2.d
+	is_triggered_only = yes
+	option = {
+		name = EDGMP_events.2.00
+	}
+	option = {
+		name = EDGMP_events.2.01
+		every_owned_province = {
+			remove_building = temple
+			remove_building = cathedral
+		}
+		trigger = {
+			any_owned_province = {
+				has_tax_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.02
+		every_owned_province = {
+			remove_building = workshop
+			remove_building = counting_house
+		}
+		trigger = {
+			any_owned_province = {
+				has_production_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.03
+		every_owned_province = {
+			remove_building = barracks
+			remove_building = training_fields
+		}
+		trigger = {
+			any_owned_province = {
+				has_manpower_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.04
+		every_owned_province = {
+			remove_building = regimental_camp
+			remove_building = conscription_center
+		}
+		trigger = {
+			any_owned_province = {
+				has_forcelimit_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.05
+		every_owned_province = {
+			remove_building = dock
+			remove_building = drydock
+		}
+		trigger = {
+			any_owned_province = {
+				has_dock_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.06
+		every_owned_province = {
+			remove_building = shipyard
+			remove_building = grand_shipyard
+		}
+		trigger = {
+			any_owned_province = {
+				has_shipyard_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.07
+		every_owned_province = {
+			remove_building = marketplace
+			remove_building = trade_depot
+			remove_building = stock_exchange
+		}
+		trigger = {
+			any_owned_province = {
+				has_trade_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.08
+		every_owned_province = {
+			remove_building = courthouse
+			remove_building = town_hall
+		}
+		trigger = {
+			any_owned_province = {
+				has_courthouse_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.09
+		every_owned_province = {
+			remove_building = university
+		}
+		trigger = {
+			any_owned_province = {
+				has_building = university
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.10
+		every_owned_province = {
+			remove_building = fort_15th
+			remove_building = fort_16th
+			remove_building = fort_17th
+			remove_building = fort_18th
+		}
+		trigger = {
+			any_owned_province = {
+				has_fort_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.11
+		every_owned_province = {
+			remove_building = coastal_defence
+			remove_building = naval_battery
+		}
+		trigger = {
+			any_owned_province = {
+				has_coast_defense_building_trigger = yes
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.12
+		every_owned_province = {
+			remove_building = wharf
+			remove_building = weapons
+			remove_building = textile
+			remove_building = plantations
+			remove_building = tradecompany
+			remove_building = farm_estate
+			remove_building = mills
+		}
+		trigger = {
+			any_owned_province = {
+				OR = {
+					has_building = wharf
+					has_building = weapons
+					has_building = textile
+					has_building = plantations
+					has_building = tradecompany
+					has_building = farm_estate
+					has_building = mills
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.13
+		every_owned_province = {
+			limit = {
+				has_building = ramparts
+			}
+			remove_building = ramparts
+		}
+		trigger = {
+			any_owned_province = {
+				has_building = ramparts
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.14
+		every_owned_province = {
+			limit = {
+				has_building = impressment_offices
+			}
+			remove_building = impressment_offices
+		}
+		trigger = {
+			any_owned_province = {
+				has_building = impressment_offices
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.15
+		every_owned_province = {
+			limit = {
+				has_building = state_house
+			}
+			remove_building = state_house
+		}
+		trigger = {
+			any_owned_province = {
+				has_building = state_house
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.16
+		every_owned_province = {
+			limit = {
+				has_building = soldier_households
+			}
+			remove_building = soldier_households
+		}
+		trigger = {
+			any_owned_province = {
+				has_building = soldier_households
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.2.17
+		every_owned_province = {
+			limit = {
+				has_building = furnace
+			}
+			remove_building = furnace
+		}
+		trigger = {
+			any_owned_province = {
+				has_building = furnace
+			}
+		}
+	}
+}
+
+country_event = {
+	id = EDGMP_events.3
+	title = EDGMP_events.3.t
+	desc = EDGMP_events.3.d
+	is_triggered_only = yes
+	option = {
+		name = EDGMP_events.3.00
+	}
+	option = {
+		name = EDGMP_events.3.01
+		country_event = {
+			id = EDGMP_events.4
+		}
+	}
+	option = {
+		name = EDGMP_events.3.02
+		country_event = {
+			id = EDGMP_events.5
+		}
+	}
+	option = {
+		name = EDGMP_events.3.03
+		country_event = {
+			id = EDGMP_events.6
+		}
+	}
+}
+
+country_event = {
+	id = EDGMP_events.4
+	title = EDGMP_events.4.t
+	desc = EDGMP_events.4.d
+	is_triggered_only = yes
+	option = {
+		name = EDGMP_events.4.00
+		country_event = {
+			id = EDGMP_events.3
+		}
+	}
+	option = {
+		name = EDGMP_events.4.01
+		define_advisor = {
+			type = philosopher
+		}
+	}
+	option = {
+		name = EDGMP_events.4.02
+		define_advisor = {
+			type = natural_scientist
+		}
+	}
+	option = {
+		name = EDGMP_events.4.03
+		define_advisor = {
+			type = artist
+		}
+	}
+	option = {
+		name = EDGMP_events.4.04
+		define_advisor = {
+			type = treasurer
+		}
+	}
+	option = {
+		name = EDGMP_events.4.05
+		define_advisor = {
+			type = theologian
+		}
+	}
+	option = {
+		name = EDGMP_events.4.06
+		define_advisor = {
+			type = master_of_mint
+		}
+	}
+	option = {
+		name = EDGMP_events.4.07
+		define_advisor = {
+			type = inquisitor
+		}
+	}
+	option = {
+		name = EDGMP_events.4.08
+		define_advisor = {
+			type = economist
+		}
+	}
+	option = {
+		name = EDGMP_events.4.09
+		define_advisor = {
+			type = innovator
+		}
+	}
+	option = {
+		name = EDGMP_events.4.10
+		define_advisor = {
+			type = administrative_experts
+		}
+	}
+	option = {
+		name = EDGMP_events.4.11
+		define_advisor = {
+			type = chamberlain
+		}
+	}
+	option = {
+		name = EDGMP_events.4.12
+		define_advisor = {
+			type = bailiff
+		}
+	}
+	option = {
+		name = EDGMP_events.4.13
+		define_advisor = {
+			type = architect
+		}
+	}
+	option = {
+		name = EDGMP_events.4.14
+		define_advisor = {
+			type = reformer
+		}
+	}
+	option = {
+		name = EDGMP_events.4.15
+		define_advisor = {
+			type = procurator
+		}
+	}
+}
+
+country_event = {
+	id = EDGMP_events.5
+	title = EDGMP_events.5.t
+	desc = EDGMP_events.5.d
+	is_triggered_only = yes
+	option = {
+		name = EDGMP_events.5.00
+		country_event = {
+			id = EDGMP_events.3
+		}
+	}
+	option = {
+		name = EDGMP_events.5.01
+		define_advisor = {
+			type = spymaster
+		}
+	}
+	option = {
+		name = EDGMP_events.5.02
+		define_advisor = {
+			type = colonial_governor
+		}
+	}
+	option = {
+		name = EDGMP_events.5.03
+		define_advisor = {
+			type = diplomat
+		}
+	}
+	option = {
+		name = EDGMP_events.5.04
+		define_advisor = {
+			type = navigator
+		}
+	}
+	option = {
+		name = EDGMP_events.5.05
+		define_advisor = {
+			type = country_representative
+		}
+	}
+	option = {
+		name = EDGMP_events.5.06
+		define_advisor = {
+			type = historian
+		}
+	}
+	option = {
+		name = EDGMP_events.5.07
+		define_advisor = {
+			type = admiral
+		}
+	}
+	option = {
+		name = EDGMP_events.5.08
+		define_advisor = {
+			type = resettlement_specialist
+		}
+	}
+	option = {
+		name = EDGMP_events.5.09
+		define_advisor = {
+			type = educationist
+		}
+	}
+	option = {
+		name = EDGMP_events.5.10
+		define_advisor = {
+			type = cardinal
+		}
+	}
+	option = {
+		name = EDGMP_events.5.11
+		define_advisor = {
+			type = negotiator
+		}
+	}
+	option = {
+		name = EDGMP_events.5.12
+		define_advisor = {
+			type = feudal_tax_official
+		}
+	}
+}
+
+country_event = {
+	id = EDGMP_events.6
+	title = EDGMP_events.6.t
+	desc = EDGMP_events.6.d
+	is_triggered_only = yes
+	option = {
+		name = EDGMP_events.6.00
+		country_event = {
+			id = EDGMP_events.3
+		}
+	}
+	option = {
+		name = EDGMP_events.6.01
+		define_advisor = {
+			type = army_reformer
+		}
+	}
+	option = {
+		name = EDGMP_events.6.02
+		define_advisor = {
+			type = army_organiser
+		}
+	}
+	option = {
+		name = EDGMP_events.6.03
+		define_advisor = {
+			type = commandant
+		}
+	}
+	option = {
+		name = EDGMP_events.6.04
+		define_advisor = {
+			type = quartermaster
+		}
+	}
+	option = {
+		name = EDGMP_events.6.05
+		define_advisor = {
+			type = recruitmaster
+		}
+	}
+	option = {
+		name = EDGMP_events.6.06
+		define_advisor = {
+			type = fortification_expert
+		}
+	}
+	option = {
+		name = EDGMP_events.6.07
+		define_advisor = {
+			type = grand_captain
+		}
+	}
+	option = {
+		name = EDGMP_events.6.08
+		define_advisor = {
+			type = infantry_commander
+		}
+	}
+	option = {
+		name = EDGMP_events.6.09
+		define_advisor = {
+			type = cavalry_commander
+		}
+	}
+	option = {
+		name = EDGMP_events.6.10
+		define_advisor = {
+			type = artillery_commander
+		}
+	}
+	option = {
+		name = EDGMP_events.6.11
+		define_advisor = {
+			type = siege_engineer
+		}
+	}
+	option = {
+		name = EDGMP_events.6.12
+		define_advisor = {
+			type = mercenary_leader
+		}
+	}
+	option = {
+		name = EDGMP_events.6.13
+		define_advisor = {
+			type = xungui
+		}
+	}
+	option = {
+		name = EDGMP_events.6.14
+		define_advisor = {
+			type = castle_master
+		}
+	}
+	option = {
+		name = EDGMP_events.6.15
+		define_advisor = {
+			type = logistics_specialist
+		}
+	}
+}
+
+# country_event = {
+# 	id = EDGMP_events.7
+# 	title = EDGMP_events.7.t
+# 	desc = EDGMP_events.7.d
+# 	is_triggered_only = yes
+# 	immediate = {
+# 		set_country_flag = EDGMP_chosen_hex_flag
+# 	}
+# 	option = {
+# 		name = EDGMP_events.7.00
+# 		clr_country_flag = EDGMP_chosen_hex_flag
+# 	}
+# 	option = {
+# 		name = EDGMP_events.7.01
+# 		add_country_modifier = {
+# 			name = tur_reign_of_the_valide_sultan_modifier
+# 			duration = -1
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.7.02
+# 		set_country_flag = EDGMP_allow_daily_general_flag
+# 		custom_tooltip = EDGMP_events.7.02_tt
+# 	}
+# 	option = {
+# 		name = EDGMP_events.7.03
+# 		change_government_reform_progress = 1000
+# 	}
+# 	option = {
+# 		name = EDGMP_events.7.04
+# 		set_country_flag = EDGMP_allow_use_special_ideas_flag
+# 		custom_tooltip = EDGMP_events.7.04_tt
+# 	}
+# }
+
+# country_event = {
+# 	id = EDGMP_events.8
+# 	title = EDGMP_events.8.t
+# 	desc = EDGMP_events.8.d
+# 	is_triggered_only = yes
+# 	option = {
+# 		name = EDGMP_events.8.00
+# 		add_treasury = 5000
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.01
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_01_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_01_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.02
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_02_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_02_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.03
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_03_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_03_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.04
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_04_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_04_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.05
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_05_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_05_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.06
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_06_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_06_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.07
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_07_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_07_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.08
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_08_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_08_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.09
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_09_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_09_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.10
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_10_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_10_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.11
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_11_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_11_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.12
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_12_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_12_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.13
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_13_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_13_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.14
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_14_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_14_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.15
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_15_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_15_modifier
+# 			}
+# 		}
+# 	}
+# 	option = {
+# 		name = EDGMP_events.8.16
+# 		add_country_modifier = {
+# 			name = EDGMP_events_8_16_modifier
+# 			duration = -1
+# 		}
+# 		trigger = {
+# 			NOT = {
+# 				has_country_modifier = EDGMP_events_8_16_modifier
+# 			}
+# 		}
+# 	}
+# }
+
+country_event = {
+	id = EDGMP_events.9
+	title = EDGMP_events.9.t
+	desc = EDGMP_events.9.d
+	is_triggered_only = yes
+	option = {
+		name = EDGMP_events.9.00
+	}
+	option = {
+		name = EDGMP_events.9.01
+		if = {
+			limit = { adm_tech = 19 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = cathedral }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = cathedral }
+					}
+					add_building_construction = { building = cathedral }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { adm_tech = 4 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = temple }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = temple }
+						}
+						add_building_construction = { building = temple }
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					adm_tech = 19
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = cathedral }
+					}
+				}
+				AND = {
+					adm_tech = 4
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = temple }
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.02
+		if = {
+			limit = { adm_tech = 24 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = counting_house }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = counting_house }
+					}
+					add_building_construction = { building = counting_house }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { adm_tech = 6 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = workshop }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = workshop }
+						}
+						add_building_construction = { building = workshop }
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					adm_tech = 24
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = counting_house }
+					}
+				}
+				AND = {
+					adm_tech = 6
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = workshop }
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.03
+		if = {
+			limit = { mil_tech = 22 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = training_fields }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = training_fields }
+					}
+					add_building_construction = { building = training_fields }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { mil_tech = 7 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = barracks }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = barracks }
+						}
+						add_building_construction = { building = barracks }
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					mil_tech = 22
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = training_fields }
+					}
+				}
+				AND = {
+					mil_tech = 7
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = barracks }
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.04
+		if = {
+			limit = { mil_tech = 24 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = conscription_center }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = conscription_center }
+					}
+					add_building_construction = { building = conscription_center }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { mil_tech = 8 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = regimental_camp }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = regimental_camp }
+						}
+						add_building_construction = { building = regimental_camp }
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					mil_tech = 24
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = conscription_center }
+					}
+				}
+				AND = {
+					mil_tech = 8
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = regimental_camp }
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.05
+		if = {
+			limit = { dip_tech = 24 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = drydock }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = drydock }
+					}
+					add_building_construction = { building = drydock }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { dip_tech = 8 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = dock }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = dock }
+						}
+						add_building_construction = { building = dock }
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					dip_tech = 24
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = drydock }
+					}
+				}
+				AND = {
+					dip_tech = 8
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = dock }
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.06
+		if = {
+			limit = { dip_tech = 24 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = grand_shipyard }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = grand_shipyard }
+					}
+					add_building_construction = { building = grand_shipyard }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { dip_tech = 6 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = shipyard }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = shipyard }
+						}
+						add_building_construction = { building = shipyard }
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					dip_tech = 24
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = grand_shipyard }
+					}
+				}
+				AND = {
+					dip_tech = 6
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = shipyard }
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.07
+		if = {
+			limit = { dip_tech = 22 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = stock_exchange }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = stock_exchange }
+					}
+					add_building_construction = { building = stock_exchange }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { dip_tech = 12 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = trade_depot }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = trade_depot }
+						}
+						add_building_construction = { building = trade_depot }
+					}
+				}
+			}
+			else = {
+				if = {
+					limit = { dip_tech = 4 }
+					while = {
+						limit = {
+							treasury = 500
+							any_owned_province = {
+								NOT = { has_construction = any }
+								NOT = { has_building = marketplace }
+							}
+						}
+						random_owned_province = {
+							limit = {
+								NOT = { has_construction = any }
+								NOT = { has_building = marketplace }
+							}
+							add_building_construction = { building = marketplace }
+						}
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					dip_tech = 22
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = stock_exchange }
+					}
+				}
+				AND = {
+					dip_tech = 12
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = trade_depot }
+					}
+				}
+				AND = {
+					dip_tech = 4
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = marketplace }
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.08
+		if = {
+			limit = { adm_tech = 22 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = town_hall }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = town_hall }
+					}
+					add_building_construction = { building = town_hall }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { adm_tech = 8 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = courthouse }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = courthouse }
+						}
+						add_building_construction = { building = courthouse }
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					adm_tech = 22
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = town_hall }
+					}
+				}
+				AND = {
+					adm_tech = 8
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = courthouse }
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.09
+		if = {
+			limit = { adm_tech = 17 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = university }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = university }
+					}
+					add_building_construction = { building = university }
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			adm_tech = 17
+			any_owned_province = {
+				NOT = { has_construction = any }
+				NOT = { has_building = university }
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.10
+		if = {
+			limit = { mil_tech = 24 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = fort_18th }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = fort_18th }
+					}
+					add_building_construction = { building = fort_18th }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { mil_tech = 19 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = fort_17th }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = fort_17th }
+						}
+						add_building_construction = { building = fort_17th }
+					}
+				}
+			}
+			else = {
+				if = {
+					limit = { mil_tech = 14 }
+					while = {
+						limit = {
+							treasury = 500
+							any_owned_province = {
+								NOT = { has_construction = any }
+								NOT = { has_building = fort_16th }
+							}
+						}
+						random_owned_province = {
+							limit = {
+								NOT = { has_construction = any }
+								NOT = { has_building = fort_16th }
+							}
+							add_building_construction = { building = fort_16th }
+						}
+					}
+				}
+				else = {
+					while = {
+						limit = {
+							treasury = 500
+							any_owned_province = {
+								NOT = { has_construction = any }
+								NOT = { has_building = fort_15th }
+							}
+						}
+						random_owned_province = {
+							limit = {
+								NOT = { has_construction = any }
+								NOT = { has_building = fort_15th }
+							}
+							add_building_construction = { building = fort_15th }
+						}
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					mil_tech = 24
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = fort_18th }
+					}
+				}
+				AND = {
+					mil_tech = 19
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = fort_17th }
+					}
+				}
+				AND = {
+					mil_tech = 14
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = fort_16th }
+					}
+				}
+				any_owned_province = {
+					NOT = { has_construction = any }
+					NOT = { has_building = fort_15th }
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.11
+		if = {
+			limit = { dip_tech = 24 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = naval_battery }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = naval_battery }
+					}
+					add_building_construction = { building = naval_battery }
+				}
+			}
+		}
+		else = {
+			if = {
+				limit = { dip_tech = 16 }
+				while = {
+					limit = {
+						treasury = 500
+						any_owned_province = {
+							NOT = { has_construction = any }
+							NOT = { has_building = coastal_defence }
+						}
+					}
+					random_owned_province = {
+						limit = {
+							NOT = { has_construction = any }
+							NOT = { has_building = coastal_defence }
+						}
+						add_building_construction = { building = coastal_defence }
+					}
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			OR = {
+				AND = {
+					dip_tech = 24
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = naval_battery }
+					}
+				}
+				AND = {
+					dip_tech = 16
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = coastal_defence }
+					}
+				}
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.12
+		while = {
+			limit = {
+				adm_tech = 16
+				treasury = 500
+				any_owned_province = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+				add_building_construction = { building = mills }
+			}
+		}
+		while = {
+			limit = {
+				adm_tech = 16
+				treasury = 500
+				any_owned_province = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+				add_building_construction = { building = textile }
+			}
+		}
+		while = {
+			limit = {
+				adm_tech = 14
+				treasury = 500
+				any_owned_province = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+				add_building_construction = { building = plantations }
+			}
+		}
+		while = {
+			limit = {
+				mil_tech = 10
+				treasury = 500
+				any_owned_province = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+				add_building_construction = { building = weapons }
+			}
+		}
+		while = {
+			limit = {
+				dip_tech = 10
+				treasury = 500
+				any_owned_province = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+				add_building_construction = { building = wharf }
+			}
+		}
+		while = {
+			limit = {
+				dip_tech = 12
+				treasury = 500
+				any_owned_province = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+				add_building_construction = { building = tradecompany }
+			}
+		}
+		while = {
+			limit = {
+				adm_tech = 6
+				treasury = 500
+				any_owned_province = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+			}
+			random_owned_province = {
+				limit = {
+					NOT = { has_construction = any }
+					NOT = { has_building = mills }
+					NOT = { has_building = textile }
+					NOT = { has_building = plantations }
+					NOT = { has_building = weapons }
+					NOT = { has_building = wharf }
+					NOT = { has_building = farm_estate }
+					NOT = { has_building = tradecompany }
+				}
+				add_building_construction = { building = farm_estate }
+			}
+		}
+		trigger = {
+			treasury = 500
+			any_owned_province = {
+				NOT = { has_construction = any }
+				NOT = { has_building = mills }
+				NOT = { has_building = textile }
+				NOT = { has_building = plantations }
+				NOT = { has_building = weapons }
+				NOT = { has_building = wharf }
+				NOT = { has_building = farm_estate }
+				NOT = { has_building = tradecompany }
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.13
+		if = {
+			limit = { mil_tech = 15 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = ramparts }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = ramparts }
+					}
+					add_building_construction = { building = ramparts }
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			mil_tech = 15
+			any_owned_province = {
+				NOT = { has_construction = any }
+				NOT = { has_building = ramparts }
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.14
+		if = {
+			limit = { mil_tech = 14 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = impressment_offices }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = impressment_offices }
+					}
+					add_building_construction = { building = impressment_offices }
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			mil_tech = 14
+			any_owned_province = {
+				NOT = { has_construction = any }
+				NOT = { has_building = impressment_offices }
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.15
+		if = {
+			limit = { adm_tech = 22 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = state_house }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = state_house }
+					}
+					add_building_construction = { building = state_house }
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			adm_tech = 22
+			any_owned_province = {
+				NOT = { has_construction = any }
+				NOT = { has_building = state_house }
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.16
+		if = {
+			limit = { mil_tech = 19 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = soldier_households }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = soldier_households }
+					}
+					add_building_construction = { building = soldier_households }
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			mil_tech = 19
+			any_owned_province = {
+				NOT = { has_construction = any }
+				NOT = { has_building = soldier_households }
+			}
+		}
+	}
+	option = {
+		name = EDGMP_events.9.17
+		if = {
+			limit = { adm_tech = 16 }
+			while = {
+				limit = {
+					treasury = 500
+					any_owned_province = {
+						NOT = { has_construction = any }
+						NOT = { has_building = furnace }
+					}
+				}
+				random_owned_province = {
+					limit = {
+						NOT = { has_construction = any }
+						NOT = { has_building = furnace }
+					}
+					add_building_construction = { building = furnace }
+				}
+			}
+		}
+		trigger = {
+			treasury = 500
+			adm_tech = 16
+			any_owned_province = {
+				NOT = { has_construction = any }
+				NOT = { has_building = furnace }
+			}
+		}
+	}
+}

@@ -6,7 +6,7 @@ EDG_test_mission = {
 		weight = 100
 		trigger = { #This = 选中国家，可以采用复杂表达式，不过貌似只能判断首都地区
 			OR = {
-				tag = LBV  
+				tag = FDM  
 			}
 		}
 	}
@@ -19,6 +19,7 @@ EDG_new_mission = {
 		weight = 1
 		trigger = {
 			OR = {
+				tag = LBV  
 				tag = LST  
 				tag = DBY
 				tag = DOS

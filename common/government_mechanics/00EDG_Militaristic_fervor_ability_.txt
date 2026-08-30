@@ -14,9 +14,6 @@ EDG_Militaristic_fervor_ability = {
 					land_morale = 0.2
 					land_forcelimit_modifier = 0.5
 					army_tradition_from_battle = 0.25
-					global_tax_modifier = -0.25
-					production_efficiency = -0.25
-					trade_efficiency = -0.25
 					land_maintenance_modifier = -0.20
 					monthly_EDG_Militaristic_fervor_power = -1
 					monthly_EDG_Military_Service_government_power = 0.2
@@ -25,6 +22,16 @@ EDG_Militaristic_fervor_ability = {
 					manpower_in_own_culture_provinces = 0.5	
 					army_tradition_from_battle = 1	
 					province_warscore_cost = -0.2	
+				}
+			}
+			scaled_modifier = {
+				trigger = {
+					NOT = { has_country_flag = EDG_BUL_no_debuff_decision_flag }
+				}
+				modifier = {
+					global_tax_modifier = -0.25
+					production_efficiency = -0.25
+					trade_efficiency = -0.25
 				}
 			}
 		}

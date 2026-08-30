@@ -1,0 +1,9 @@
+bookmark =
+{
+	name = "EDG_BOOKMARK_5"
+	desc = "EDG_BOOKMARK_5_DESC"
+	date = 1444.11.11
+	
+	country = FDM
+	
+}

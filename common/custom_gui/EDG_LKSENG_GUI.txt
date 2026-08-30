@@ -1,0 +1,125 @@
+custom_window = {
+	name = EDG_LKS_GUI_province_ability_window
+	potential = {
+		from = {
+			ai = no
+			OR = {
+				tag = LKS
+            	and = {
+			    	was_tag = EN2
+					tag = GBR
+		    	}
+            	and = {
+			    	was_tag = LKS
+					tag = EN2
+		    	}
+        	}
+		}
+	}
+}
+custom_button = {#严苛税法
+	name = EDG_LKSENG_GUI_impose_higher_taxes_button
+	tooltip = EDG_LKSENG_GUI_impose_higher_taxes_button_tt
+	potential = {
+		FROM = {
+			ai = no
+			has_government_attribute = EDG_LKSENG_oppressive_taxation
+		}
+		owned_by = FROM
+	}
+	trigger = {
+		base_manpower = 2
+		NOT = {
+			has_province_modifier = EDG_LKSENG_Recently_increased_taxes
+		}
+	}
+	effect = {
+		add_province_modifier = {
+			name = EDG_LKSENG_Recently_increased_taxes
+			duration = 1825
+		}
+		custom_tooltip = EDG_LKS_Recently_increased_taxes_tt
+		hidden_effect = {
+			set_variable = {
+				EDG_LKS_Recently_increased_taxes_manpower_var = 0
+			}
+			export_to_variable = {
+				which = EDG_LKS_Recently_increased_taxes_manpower_var
+				value = trigger_value:base_manpower
+			}
+			subtract_variable = {
+				which = EDG_LKS_Recently_increased_taxes_manpower_var
+				value = 1
+			}
+			while = {
+				limit = {
+					check_variable = {
+						which = EDG_LKS_Recently_increased_taxes_manpower_var
+						value = 1
+					}
+				}
+				subtract_variable = {
+					which = EDG_LKS_Recently_increased_taxes_manpower_var
+					value = 1
+				}
+				add_base_manpower = -1
+				add_base_tax = 1
+			}
+			set_variable = {
+				EDG_LKS_Recently_increased_taxes_tax_var = 0
+			}
+			export_to_variable = {
+				which = EDG_LKS_Recently_increased_taxes_tax_var
+				value = trigger_value:base_tax
+			}
+			multiply_variable = {
+				which = EDG_LKS_Recently_increased_taxes_tax_var
+				value = 25
+			}
+		}
+	}
+}
+custom_button = { #屠戮原住民
+	name = EDG_LKSENG_Slaughter_of_indigenous_people_button
+	tooltip = EDG_LKSENG_Slaughter_of_indigenous_people_button_tt
+	potential = {
+		FROM = {
+			OR = {
+				tag = EN2
+				was_tag = EN2
+				has_government_attribute = EDG_SCO_colonial_policy
+			}
+		}
+		is_city = no
+	}
+	trigger = {
+		num_of_units_in_province = {
+			who = FROM
+			type = infantry
+			amount = 1
+		}
+		has_colonist = no
+		is_city = no
+		FROM = {
+			mil_power = 50
+			manpower = 5
+		}
+	}
+	effect = {
+		custom_tooltip = EDG_LKSENG_Slaughter_of_indigenous_people_button_effect_tt
+		hidden_effect = {
+			cede_province = FROM
+			change_culture = FROM
+			change_religion = FROM
+			kill_units = {
+				who = controller
+				type = infantry
+				amount = 1
+			}
+			FROM = {
+				add_manpower = -5
+				add_mil_power = -50
+			}
+		}
+	}
+}

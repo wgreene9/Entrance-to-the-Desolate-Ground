@@ -84,7 +84,7 @@ estate_edg_caledonia_advisors = {
 estate_edg_caledonia_fort = {
 	icon = privilege_promoto_dhimmi_nobles
 	max_absolutism = -5
-	loyalty = 0.05
+	loyalty = 0.1
 	influence = 0.1
 	is_valid = {
 		NOT = {
@@ -101,7 +101,7 @@ estate_edg_caledonia_fort = {
 	benefits = {
 		fort_maintenance_modifier = -0.25
 		rival_border_fort_maintenance = -0.25
-		army_tradition = 0.5
+		army_tradition = 1
 	}
 	ai_will_do = {
 		factor = 0
@@ -199,10 +199,10 @@ EDG_privilege_CAS_Caledonia_privilege = {
 	on_granted = {
 	}
 	penalties = {
-		cavalry_cost = 0.25
+		cavalry_cost = 0.15
 	}
 	benefits = {
-		cavalry_power = 0.2
+		cavalry_power = 0.25
 	}
 	ai_will_do = {
 		factor = 1
@@ -231,7 +231,7 @@ EDG_STRONG_Caledonia_privilege = {
 	on_granted = {
 	}
 	penalties = {
-		cavalry_cost = 0.25
+		cavalry_cost = 0.15
 	}
 	benefits = {
 		cavalry_shock = 0.25
@@ -250,17 +250,15 @@ EDG_STRONG_Caledonia_privilege = {
 
 EDG_Caledonia_coin_privilege = {
 	icon = privilege_give_money
-	max_absolutism = -10
 	influence = 0.05
-	loyalty = 0.15
+	loyalty = 0.2
 	is_valid = {
 	}
 	penalties = {
 	}
 	benefits = {
-		inflation_reduction = -0.1
+		inflation_reduction = -0.05
 		interest = 0.5
-		production_efficiency = -0.1
 	}
 	ai_will_do = {
 		factor = 1

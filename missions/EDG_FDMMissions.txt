@@ -436,37 +436,8 @@ EDG_FDM_mission_1 = {
 	EDG_FDM_mission_1_18 = {
 		icon = professional_army
 		position = 18
-		provinces_to_highlight = {
-			OR = {
-				culture = berber
-				culture = EDG_FDM_maghrebi_culture
-			}
-			NOT = {
-				owned_by = ROOT
-			}
-		}
 		trigger = {
-			OR = {
-				development_in_provinces = {
-					value = 100
-					culture = berber
-				}
-				development_in_provinces = {
-					value = 250
-					culture = EDG_FDM_maghrebi_culture
-				}
-			}
-			OR = {
-				AND = {
-					num_of_cavalry = 25
-					cavalry_fraction = 0.75
-				}
-				AND = {
-					num_of_cavalry = 50
-					cavalry_fraction = 0.5
-				}
-				num_of_cavalry = 75
-			}
+			num_of_cavalry = 50
 		}
 		effect = {
 			custom_tooltip = EDG_FDM_mission_1_18_tt_1
@@ -478,7 +449,7 @@ EDG_FDM_mission_1 = {
 			custom_tooltip = EDG_SPACE_TT
 			add_country_modifier = {
 				name = "EDG_FDM_mission_1_18_modifier_1"
-				duration = -1
+				duration = 9125
 			}
 			add_country_modifier = {
 				name = "EDG_FDM_mission_1_18_modifier_2"
@@ -642,15 +613,7 @@ EDG_FDM_mission_1 = {
 		effect = {
 			change_government_reform_progress = 200
 			custom_tooltip = EDG_SPACE_TT
-			complex_dynamic_effect = {
-				first_custom_tooltip = EDG_FDM_mission_1_24_tt_1
-				first_limit = "
-					has_estate_privilege = estate_nobles_supremacy_over_crown
-				"
-				first_effect = "
-					custom_tooltip = EDG_FDM_mission_1_24_tt_2
-				"
-			}
+			custom_tooltip = EDG_FDM_mission_1_24_tt_2
 			custom_tooltip = EDG_SPACE_TT
 			add_country_modifier = {
 				name = "EDG_FDM_mission_1_24_modifier"
@@ -1006,6 +969,7 @@ EDG_FDM_mission_1 = {
 					clear_rebels = yes
 				}
 			}
+			custom_tooltip = EDG_SPACE_TT
 			complex_dynamic_effect = {
 				first_custom_tooltip = EDG_FDM_mission_3_26_tt_2
 				first_limit = "
@@ -1967,12 +1931,6 @@ EDG_FDM_mission_3 = {
 			}
 		}
 		effect = {
-			define_advisor = {
-				type = army_reformer
-				skill = 3
-				cost_multiplier = 0.25
-			}
-			custom_tooltip = EDG_SPACE_TT
 			country_event = {
 				id = EDG_FDMEvents.10
 			}
@@ -2383,9 +2341,11 @@ EDG_FDM_mission_3 = {
 			NOT = {
 				exists = HSN
 			}
-			num_of_owned_provinces_with = {
-				value = 5
-				is_core = HSN
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_mission_3_9_tt_3
+				owns_all_provinces = {
+					is_core = HSN
+				}
 			}
 		}
 		effect = {
@@ -2464,9 +2424,11 @@ EDG_FDM_mission_3 = {
 			NOT = {
 				exists = ARL
 			}
-			num_of_owned_provinces_with = {
-				value = 6
-				is_core = ARL
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_mission_3_11_tt_3
+				owns_all_provinces = {
+					is_core = ARL
+				}
 			}
 		}
 		effect = {
@@ -2753,7 +2715,7 @@ EDG_FDM_mission_3 = {
 			}
 			add_country_modifier = {
 				name = "EDG_FDM_mission_3_21_modifier_2"
-				duration = -1
+				duration = 9125
 			}
 			custom_tooltip = EDG_FDM_mission_3_21_tt_1
 		}
@@ -3348,14 +3310,11 @@ EDG_FDM_mission_4 = {
 			region = egypt_region
 		}
 		trigger = {
-			OR = {
-				custom_trigger_tooltip = {
-					tooltip = EDG_ETH_mission_3_9.condition.tt
-					has_global_flag = EDG_FYM_disaster_EGY_claim_flag
+			custom_trigger_tooltip = {
+				tooltip = EDG_ETH_mission_3_9.condition.tt
+				any_country = {
+					primary_culture = al_misr_arabic
 				}
-				exists = CIO
-				exists = ALX
-				exists = MAM
 			}
 		}
 		effect = {
@@ -3365,46 +3324,16 @@ EDG_FDM_mission_4 = {
 				}
 			}
 			custom_tooltip = EDG_SPACE_TT
-			complex_dynamic_effect = {
-				first_custom_tooltip = EDG_FDM_mission_4_5_tt_1
-				first_limit = "
-					exists = CIO
-				"
-				first_effect = "
-					add_casus_belli = {
-						type = cb_annex
-						target = CIO
-						months = 240
-					}
-				"
-			}
-			custom_tooltip = EDG_SPACE_TT
-			complex_dynamic_effect = {
-				first_custom_tooltip = EDG_FDM_mission_4_5_tt_2
-				first_limit = "
-					exists = ALX
-				"
-				first_effect = "
-					add_casus_belli = {
-						type = cb_annex
-						target = ALX
-						months = 240
-					}
-				"
-			}
-			custom_tooltip = EDG_SPACE_TT
-			complex_dynamic_effect = {
-				first_custom_tooltip = EDG_FDM_mission_4_5_tt_3
-				first_limit = "
-					exists = MAM
-				"
-				first_effect = "
-					add_casus_belli = {
-						type = cb_annex
-						target = MAM
-						months = 240
-					}
-				"
+			custom_tooltip = EDG_FDM_mission_4_5_tt_1
+			every_country = {
+				limit = {
+					primary_culture = al_misr_arabic
+				}
+				reverse_add_casus_belli = {
+					type = cb_annex
+					target = ROOT
+					months = 240
+				}
 			}
 			custom_tooltip = EDG_SPACE_TT
 			complex_dynamic_effect = {
@@ -4007,7 +3936,9 @@ EDG_FDM_mission_4 = {
 		}
 		trigger = {
 			OR = {
-				has_global_flag = empire_of_china_dismantled
+				NOT = {
+					exists = event_target:EmperorOfChina
+				}
 				war_score_against = {
 					who = event_target:EmperorOfChina
 					value = 90
@@ -4135,7 +4066,7 @@ EDG_FDM_mission_5 = {
 			custom_tooltip = EDG_SPACE_TT
 			add_country_modifier = {
 				name = EDG_FDM_mission_5_2_modifier
-				duration = 18250
+				duration = 36500
 			}
 		}
 	}
@@ -4159,20 +4090,20 @@ EDG_FDM_mission_5 = {
 				province_id = 2448
 			}
 			NOT = {
-				country_or_non_sovereign_subject_holds = ROOT
+				owned_by = ROOT
 			}
 		}
 		trigger = {
-			owns_or_non_sovereign_subject_of = 350
-			owns_or_non_sovereign_subject_of = 2457
-			owns_or_non_sovereign_subject_of = 351
-			owns_or_non_sovereign_subject_of = 2456
-			owns_or_non_sovereign_subject_of = 2472
-			owns_or_non_sovereign_subject_of = 352
-			owns_or_non_sovereign_subject_of = 2450
-			owns_or_non_sovereign_subject_of = 4567
-			owns_or_non_sovereign_subject_of = 2449
-			owns_or_non_sovereign_subject_of = 2448
+			owns_core_province = 350
+			owns_core_province = 2457
+			owns_core_province = 351
+			owns_core_province = 2456
+			owns_core_province = 2472
+			owns_core_province = 352
+			owns_core_province = 2450
+			owns_core_province = 4567
+			owns_core_province = 2449
+			owns_core_province = 2448
 		}
 		effect = {
 			add_country_modifier = {
@@ -4212,13 +4143,14 @@ EDG_FDM_mission_5 = {
 			}
 		}
 		trigger = {
-			num_of_owned_provinces_with = {
-				value = 10
-				is_core = FYM
-			}
-			owns_core_province = 4282
 			NOT = {
 				exists = FYM
+			}
+			custom_trigger_tooltip = {
+				tooltip = EDG_FDM_mission_5_6_tt_2
+				owns_all_provinces = {
+					is_core = FYM
+				}
 			}
 		}
 		effect = {
@@ -4594,25 +4526,13 @@ EDG_FDM_mission_5 = {
 				}
 			}
 			1328 = {
-				num_of_units_in_province = {
-					amount = 10
-					who = ROOT
-					type = light_ship
-				}
+				light_ships_in_province = 10
 			}
 			1329 = {
-				num_of_units_in_province = {
-					amount = 10
-					who = ROOT
-					type = light_ship
-				}
+				light_ships_in_province = 10
 			}
 			4333 = {
-				num_of_units_in_province = {
-					amount = 10
-					who = ROOT
-					type = light_ship
-				}
+				light_ships_in_province = 10
 			}
 		}
 		effect = {
@@ -4842,12 +4762,6 @@ EDG_FDM_mission_5 = {
 		}
 		effect = {
 			custom_tooltip = EDG_FDM_mission_5_29_tt_1
-			tooltip = {
-				add_base_tax = -1
-				add_base_production = -1
-				add_base_manpower = -1
-				change_religion = shiite
-			}
 			hidden_effect = {
 				for = {
 					amount = 20
@@ -4856,9 +4770,6 @@ EDG_FDM_mission_5 = {
 							limit = {
 								religion = hinduism
 							}
-							add_base_tax = -1
-							add_base_production = -1
-							add_base_manpower = -1
 							change_religion = shiite
 						}
 					"

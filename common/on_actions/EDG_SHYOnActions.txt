@@ -130,7 +130,6 @@ on_battle_lost_unit = {
 					}
 					has_ruler_flag = EDG_ARL_Isma_ruler_flag
 				}
-				is_ruler_commanding_unit = yes
 			}
 		}
 		country_event = {

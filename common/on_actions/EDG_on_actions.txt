@@ -1510,6 +1510,8 @@ on_five_year_pulse_2 = {
 		2001
 		EDG_flavorMAM.5
 		EDG_flavor_LOT_mission.14
+		EDG_flavor_LOT_mission.33
+		EDG_flavor_LOT_mission.54
 	}
 	if = {
 		limit = { tag = FYM }

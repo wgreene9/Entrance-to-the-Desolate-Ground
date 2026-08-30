@@ -10,6 +10,7 @@ bookmark ={#非洲与叙利亚
 	country = CDC
 	country = LEB
 	country = FYM
+	country = FDM
 	
 	
 	easy_country = MRK

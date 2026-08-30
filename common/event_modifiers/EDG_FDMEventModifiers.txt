@@ -3,14 +3,12 @@ EDG_FDMEvents_15_modifier = {
 }
 
 EDG_FDMEvents_28_modifier = {
-	land_morale = 0.25
-	discipline = 0.1
-	fire_damage_received = -0.25
-	shock_damage_received = -0.25
-	global_regiment_cost = -0.75
+	fire_damage_received = -0.5
+	shock_damage_received = -0.5
+	global_regiment_cost = -1
 	global_regiment_recruit_speed = -1
-	land_forcelimit = 100
-	defensiveness = 1
+	land_forcelimit = 200
+	defensiveness = 10
 }
 
 EDG_FDMEvents_29_modifier_1 = {
@@ -24,7 +22,7 @@ EDG_FDMEvents_29_modifier_1 = {
 
 EDG_FDMEvents_29_modifier_2 = {
 	core_creation = -0.1
-	years_of_nationalism = -10
+	years_of_nationalism = -5
 }
 
 EDG_FDMEvents_30_modifier = {
@@ -108,8 +106,24 @@ EDG_FDMEvents_70_modifier_12 = {
 	development_cost = -0.1
 }
 
+EDG_FDMEvents_72_modifier = {
+	local_unrest = 20
+	local_monthly_devastation = 2
+	local_development_cost_modifier = -0.25
+	local_development_cost = -0.25
+	local_build_cost = -0.25
+	local_build_time = -0.25
+	local_tax_modifier = -10
+	local_production_efficiency = -10
+	trade_value_modifier = -10
+	local_defensiveness = -1
+}
+
 EDG_FDMEvents_73_modifier = {
-	global_trade_goods_size_modifier = 0.2
+	local_development_cost_modifier = -0.25
+	local_development_cost = -0.25
+	trade_goods_size_modifier = 0.25
+	trade_value_modifier = 0.25
 }
 
 EDG_FDMEvents_75_modifier = {
@@ -127,7 +141,7 @@ EDG_FDMEvents_85_modifier = {
 }
 
 EDG_FDMEvents_86_modifier = {
-	land_morale = 0.1
+	land_morale = 0.05
 }
 
 EDG_FDMEvents_90_modifier = {
@@ -160,13 +174,11 @@ EDG_FDMEvents_97_modifier = {
 }
 
 EDG_FDMEvents_99_modifier = {
-	land_morale = 0.1
 	manpower_recovery_speed = 0.1
 }
 
 EDG_FDMEvents_101_modifier = {
 	discipline = 0.05
-	land_morale = 0.1
 }
 
 EDG_FDMEvents_104_modifier = {
@@ -363,7 +375,7 @@ EDG_FDM_mission_3_6_modifier_6 = {
 }
 
 EDG_FDM_mission_3_7_modifier = {
-	land_morale = 0.1
+	recover_army_morale_speed = 0.25
 	manpower_in_true_faith_provinces = 0.25
 }
 
@@ -664,6 +676,9 @@ EDG_Caliph_organize_hajj_action_target_modifier = {
 EDG_did_Caliph_general_jihad_action_in_25_years_modifier = {
 	land_morale = 0.05
 }
+
+
+
 
 # 圣战总动员 - 目标国（被讨伐国）
 EDG_Caliph_general_jihad_action_target_modifier = {
